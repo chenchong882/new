@@ -1,483 +1,1778 @@
 <!DOCTYPE html>
 <html lang="zh-TW">
+
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>英文單字遊戲</title>
-  <style>
-    * {
-      box-sizing: border-box;
-    }
-
-    html,
-    body {
-      margin: 0;
-      min-height: 100%;
-      color: #f8fafc;
-      font-family: Arial, "Noto Sans TC", sans-serif;
-      background:
-        radial-gradient(circle at 12% 12%, rgba(251, 191, 36, 0.22), transparent 24rem),
-        radial-gradient(circle at 84% 18%, rgba(34, 211, 238, 0.16), transparent 24rem),
-        linear-gradient(140deg, #172033 0%, #111827 46%, #18181b 100%);
-    }
-
-    body.playing {
-      overflow: hidden;
-    }
-
-    main {
-      width: min(1080px, calc(100% - 32px));
-      margin: 0 auto;
-      padding: 32px 0;
-    }
-
-    header {
-      display: flex;
-      justify-content: space-between;
-      align-items: end;
-      gap: 18px;
-      margin-bottom: 22px;
-    }
-
-    h1 {
-      margin: 0;
-      font-size: clamp(32px, 5vw, 58px);
-      line-height: 1;
-      letter-spacing: 0;
-    }
-
-    .meta {
-      color: #facc15;
-      font-size: 15px;
-      font-weight: 800;
-      text-align: right;
-      white-space: nowrap;
-    }
-
-    .ranges {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      margin-bottom: 16px;
-    }
-
-    .range-btn {
-      border: 1px solid rgba(255, 255, 255, 0.16);
-      border-radius: 8px;
-      background: rgba(15, 23, 42, 0.78);
-      color: #cbd5e1;
-      font-weight: 800;
-      font-size: 15px;
-      padding: 8px 14px;
-      cursor: pointer;
-      transition: transform 0.16s ease, border-color 0.16s ease, background 0.16s ease, color 0.16s ease;
-    }
-
-    .range-btn:hover {
-      transform: translateY(-2px);
-      border-color: rgba(250, 204, 21, 0.6);
-    }
-
-    .range-btn.active {
-      color: #0b1220;
-      background: #facc15;
-      border-color: #facc15;
-    }
-
-    .stats {
-      display: grid;
-      grid-template-columns: repeat(3, minmax(0, 1fr));
-      gap: 12px;
-      margin-bottom: 18px;
-    }
-
-    .stat,
-    .game-button {
-      border: 1px solid rgba(255, 255, 255, 0.16);
-      border-radius: 8px;
-      background: rgba(15, 23, 42, 0.78);
-      box-shadow: 0 18px 40px rgba(0, 0, 0, 0.22);
-    }
-
-    .stat {
-      padding: 14px 16px;
-    }
-
-    .stat strong {
-      display: block;
-      color: white;
-      font-size: 28px;
-      line-height: 1;
-    }
-
-    .stat span {
-      display: block;
-      margin-top: 8px;
-      color: #cbd5e1;
-      font-size: 14px;
-      font-weight: 700;
-    }
-
-    .games {
-      display: grid;
-      grid-template-columns: repeat(2, minmax(0, 1fr));
-      gap: 12px;
-      margin-bottom: 18px;
-    }
-
-    .game-button {
-      min-height: 108px;
-      padding: 18px;
-      color: white;
-      text-align: left;
-      cursor: pointer;
-      transition: transform 0.16s ease, border-color 0.16s ease, background 0.16s ease;
-    }
-
-    .game-button:hover {
-      transform: translateY(-2px);
-      border-color: rgba(250, 204, 21, 0.78);
-      background: rgba(30, 41, 59, 0.9);
-    }
-
-    .game-button b {
-      display: block;
-      margin-bottom: 8px;
-      font-size: 24px;
-      letter-spacing: 0;
-    }
-
-    .game-button span {
-      color: #cbd5e1;
-      font-size: 15px;
-      line-height: 1.45;
-    }
-
-    .notice {
-      margin: 40px 0;
-      padding: 18px 20px;
-      border: 1px solid rgba(255, 255, 255, 0.16);
-      border-radius: 10px;
-      background: rgba(15, 23, 42, 0.78);
-      color: #cbd5e1;
-      line-height: 1.7;
-    }
-
-    #stage {
-      display: none;
-      position: fixed;
-      inset: 0;
-      z-index: 20;
-      background: #020617;
-    }
-
-    body.playing #stage {
-      display: grid;
-      grid-template-rows: auto 1fr;
-    }
-
-    .stage-bar {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 12px;
-      padding: 10px 12px;
-      border-bottom: 1px solid rgba(255, 255, 255, 0.12);
-      background: rgba(2, 6, 23, 0.94);
-    }
-
-    .stage-title {
-      min-width: 0;
-      overflow: hidden;
-      color: #f8fafc;
-      font-size: 15px;
-      font-weight: 800;
-      text-overflow: ellipsis;
-      white-space: nowrap;
-    }
-
-    .stage-actions {
-      display: flex;
-      gap: 8px;
-      flex-shrink: 0;
-    }
-
-    .stage-actions button {
-      min-height: 38px;
-      border: 1px solid rgba(255, 255, 255, 0.16);
-      border-radius: 8px;
-      padding: 0 12px;
-      color: #f8fafc;
-      font-weight: 800;
-      cursor: pointer;
-      background: rgba(15, 23, 42, 0.92);
-    }
-
-    iframe {
-      width: 100%;
-      height: 100%;
-      border: 0;
-      background: #020617;
-    }
-
-    @media (max-width: 760px) {
-      main {
-        width: min(100% - 20px, 1080px);
-        padding: 22px 0;
-      }
-
-      header {
-        display: grid;
-        align-items: start;
-      }
-
-      .meta {
-        text-align: left;
-      }
-
-      .stats,
-      .games {
-        grid-template-columns: 1fr;
-      }
-
-      .game-button {
-        min-height: 92px;
-      }
-    }
-  </style>
-</head>
-<body>
-  <main>
-    <header>
-      <div>
-        <h1 id="title">載入中…</h1>
-      </div>
-      <div class="meta" id="meta"></div>
-    </header>
-
-    <section class="ranges" id="ranges" aria-label="單元切換"></section>
-
-    <section class="stats" aria-label="教材統計">
-      <div class="stat"><strong id="n-vocab">0</strong><span>單字</span></div>
-      <div class="stat"><strong id="n-phrase">0</strong><span>片語</span></div>
-      <div class="stat"><strong id="n-quiz">0</strong><span>文法題</span></div>
-    </section>
-
-    <section class="games" aria-label="遊戲選單">
-      <button class="game-button" type="button" data-game="miner">
-        <b>單字挖金礦</b>
-        <span>聽發音，抓正確金塊。</span>
-      </button>
-      <button class="game-button" type="button" data-game="bomb">
-        <b>炸彈英文</b>
-        <span>駕駛飛機，炸掉目標單字。</span>
-      </button>
-      <button class="game-button" type="button" data-game="tank">
-        <b>單字坦克</b>
-        <span>找出樹上正確的單字，射下來。</span>
-      </button>
-      <button class="game-button" type="button" data-game="ship">
-        <b>海岸狙擊手</b>
-        <span>瞄準意思正確的船艦擊沉。</span>
-      </button>
-      <button class="game-button" type="button" data-game="runner">
-        <b>英文跑酷</b>
-        <span>邊跑邊選正確答案閃避障礙。</span>
-      </button>
-      <button class="game-button" type="button" data-game="battle">
-        <b>英文攻防戰</b>
-        <span>派兵攻防，答對單字才能出兵。</span>
-      </button>
-    </section>
-
-    <div class="notice" id="notice" hidden></div>
-  </main>
-
-  <section id="stage" aria-label="遊戲畫面">
-    <div class="stage-bar">
-      <div class="stage-title" id="stage-title"></div>
-      <div class="stage-actions">
-        <button id="fullscreen-button" type="button">全螢幕</button>
-        <button id="close-button" type="button">返回</button>
-      </div>
-    </div>
-    <iframe id="game-frame" title="英文遊戲" allow="fullscreen; autoplay"></iframe>
-  </section>
-
-  <script src="config.js"></script>
-  <script>
-    const frame = document.getElementById('game-frame');
-    const stage = document.getElementById('stage');
-    const stageTitle = document.getElementById('stage-title');
-    const titleEl = document.getElementById('title');
-    const metaEl = document.getElementById('meta');
-    const rangesEl = document.getElementById('ranges');
-    const noticeEl = document.getElementById('notice');
-    let activeMessageType = '';
-
-    const GAME_BASE = (window.GAME_BASE || '').replace(/\/+$/, '');
-    const gameConfig = {
-      miner: { label: '單字挖金礦', src: GAME_BASE + '/games/miner', messageType: 'MINER_DATA' },
-      bomb: { label: '炸彈英文', src: GAME_BASE + '/games/bomb', messageType: 'BOMB_DATA' },
-      tank: { label: '單字坦克', src: GAME_BASE + '/games/tank', messageType: 'TANK_DATA' },
-      ship: { label: '海岸狙擊手', src: GAME_BASE + '/games/ship', messageType: 'SHIP_DATA' },
-      runner: { label: '英文跑酷', src: GAME_BASE + '/games/runner', messageType: 'RUNNER_DATA' },
-      battle: { label: '英文攻防戰', src: GAME_BASE + '/games/battle', messageType: 'BATTLE_DATA' },
-    };
-
-    let DATA = null;          // 整個學生檔 { student, school, units }
-    let current = null;       // 目前選定範圍組出的 lessonData（餵給遊戲）
-
-    function showNotice(html) {
-      noticeEl.innerHTML = html;
-      noticeEl.hidden = false;
-    }
-
-    // 把選定的課（一課或全部）組成遊戲認得的 lessonData 形狀
-    function buildLessonData(rangeKey) {
-      const codes = rangeKey === '__all__' ? Object.keys(DATA.units) : [rangeKey];
-      let vocab = [], phrases = [], quiz = [];
-      const unitsSub = {};
-      codes.forEach(c => {
-        const u = DATA.units[c] || {};
-        unitsSub[c] = u;
-        vocab = vocab.concat(u.vocab || []);
-        phrases = phrases.concat(u.phrases || []);
-        quiz = quiz.concat((u.grammar || {}).quiz || []);
-      });
-      const rangeName = rangeKey === '__all__'
-        ? '全部'
-        : (DATA.units[rangeKey] && DATA.units[rangeKey].title) || rangeKey;
-      const fullTitle = DATA.school + ' ' + DATA.student + ' · ' + rangeName;
-      return {
-        school: DATA.school,
-        student: DATA.student,
-        unitKey: rangeKey === '__all__' ? 'all' : rangeKey,
-        unitTitle: fullTitle,
-        title: fullTitle,
-        units: unitsSub,
-        words: vocab.map(v => ({ word: v.word, chinese: v.chinese, part_of_speech: v.part_of_speech })),
-        _stats: { vocab: vocab.length, phrases: phrases.length, quiz: quiz.length },
-      };
-    }
-
-    function selectRange(rangeKey, btn) {
-      current = buildLessonData(rangeKey);
-      document.querySelectorAll('.range-btn').forEach(b => b.classList.remove('active'));
-      if (btn) btn.classList.add('active');
-      document.getElementById('n-vocab').textContent = current._stats.vocab;
-      document.getElementById('n-phrase').textContent = current._stats.phrases;
-      document.getElementById('n-quiz').textContent = current._stats.quiz;
-    }
-
-    function makeRangeButton(label, rangeKey, active) {
-      const b = document.createElement('button');
-      b.className = 'range-btn' + (active ? ' active' : '');
-      b.type = 'button';
-      b.textContent = label;
-      b.addEventListener('click', () => selectRange(rangeKey, b));
-      rangesEl.appendChild(b);
-      return b;
-    }
-
-    function renderStudent() {
-      titleEl.textContent = DATA.school + ' ' + DATA.student;
-      metaEl.textContent = DATA.student;
-      const codes = Object.keys(DATA.units);
-      rangesEl.innerHTML = '';
-      // 多課才顯示「全部」總複習鈕
-      if (codes.length > 1) makeRangeButton('⭐ 全部', '__all__', true);
-      codes.forEach((c, i) => {
-        const t = (DATA.units[c] && DATA.units[c].title) || c;
-        makeRangeButton(t, c, codes.length === 1 && i === 0);
-      });
-      // 預設選第一顆（多課時是「全部」，單課時是該課）
-      const first = rangesEl.querySelector('.range-btn');
-      selectRange(codes.length > 1 ? '__all__' : codes[0], first);
-    }
-
-    function buildGamePayload() {
-      return {
-        unitTitle: current.unitTitle,
-        title: current.title,
-        school: current.school,
-        unitKey: current.unitKey,
-        words: current.words,
-      };
-    }
-
-    function directGameUrl(config) {
-      const payload = encodeURIComponent(JSON.stringify(buildGamePayload()));
-      return config.src + '?lesson=' + encodeURIComponent(current.unitKey) + '#lessonData=' + payload;
-    }
-
-    function postLessonData() {
-      if (!frame.contentWindow || !activeMessageType || !current) return;
-      frame.contentWindow.postMessage({ type: activeMessageType, payload: current }, '*');
-    }
-
-    function requestStageFullscreen() {
-      if (document.fullscreenElement || !stage.requestFullscreen) return;
-      stage.requestFullscreen().catch(() => {});
-    }
-
-    function openGame(gameKey) {
-      const config = gameConfig[gameKey];
-      if (!config || !current) return;
-
-      if (window.location.protocol === 'file:') {
-        window.location.href = directGameUrl(config);
-        return;
-      }
-
-      activeMessageType = config.messageType;
-      stageTitle.textContent = current.title + ' / ' + config.label;
-      document.body.classList.add('playing');
-      frame.src = config.src + '?lesson=' + encodeURIComponent(current.unitKey);
-      requestStageFullscreen();
-      [120, 420, 900, 1500].forEach(delay => window.setTimeout(postLessonData, delay));
-    }
-
-    function closeGame() {
-      activeMessageType = '';
-      frame.removeAttribute('src');
-      document.body.classList.remove('playing');
-      if (document.fullscreenElement && document.exitFullscreen) {
-        document.exitFullscreen().catch(() => {});
-      }
-    }
-
-    document.querySelectorAll('[data-game]').forEach(button => {
-      button.addEventListener('click', () => openGame(button.dataset.game));
-    });
-    frame.addEventListener('load', postLessonData);
-    document.getElementById('fullscreen-button').addEventListener('click', requestStageFullscreen);
-    document.getElementById('close-button').addEventListener('click', closeGame);
-
-    // ===== 開機：讀 ?id → 載入該學生的單字 =====
-    async function boot() {
-      const id = new URLSearchParams(location.search).get('id');
-      if (!id) {
-        titleEl.textContent = '英文單字遊戲';
-        showNotice('缺少學生代號。請用老師發給你的完整連結開啟（網址要有 <code>?id=…</code>）。');
-        return;
-      }
-      try {
-        const res = await fetch(encodeURI('data/' + id + '.json'), { cache: 'no-store' });
-        if (!res.ok) throw new Error('HTTP ' + res.status);
-        DATA = await res.json();
-        if (!DATA.units || !Object.keys(DATA.units).length) throw new Error('此學生檔沒有單元資料');
-        renderStudent();
-      } catch (err) {
-        titleEl.textContent = '無法載入';
-        if (location.protocol === 'file:') {
-          showNotice('偵測到用 <code>file://</code> 直接開啟，瀏覽器會擋住讀取單字檔。<br>請改用網址（上線後的 Cloudflare 連結），或在本機跑 <code>python3 -m http.server</code> 後用 <code>http://localhost</code> 開啟。');
-        } else {
-          showNotice('找不到這位學生的單字檔（<code>' + id + '</code>）。<br>請確認連結代號正確，或聯絡老師。<br><small style="color:#94a3b8">' + err.message + '</small>');
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>英文單字冒險 - 文法擴充版</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.23.6/babel.min.js"></script>
+    <script type="importmap">
+    {
+        "imports": {
+            "react": "https://esm.sh/react@18.2.0",
+            "react-dom/client": "https://esm.sh/react-dom@18.2.0/client",
+            "lucide-react": "https://esm.sh/lucide-react@0.292.0"
         }
-      }
     }
-    boot();
-  </script>
+    </script>
+    <style>
+        body {
+            opacity: 0;
+            transition: opacity 0.5s;
+        }
+
+        body.loaded {
+            opacity: 1;
+        }
+
+        * {
+            -webkit-tap-highlight-color: transparent;
+        }
+
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: #f1f5f9;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: #cbd5e1;
+            border-radius: 4px;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: #94a3b8;
+        }
+
+        @keyframes popIn {
+            0% {
+                transform: scale(0.5);
+                opacity: 0;
+            }
+
+            100% {
+                transform: scale(1);
+                opacity: 1;
+            }
+        }
+
+        .pop-in {
+            animation: popIn 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
+        }
+
+        @keyframes gameShake {
+
+            0%,
+            100% {
+                transform: translateX(0);
+            }
+
+            20% {
+                transform: translateX(-8px);
+            }
+
+            40% {
+                transform: translateX(8px);
+            }
+
+            60% {
+                transform: translateX(-5px);
+            }
+
+            80% {
+                transform: translateX(5px);
+            }
+        }
+
+        .game-shake {
+            animation: gameShake 0.35s ease;
+        }
+
+        @keyframes dmgFloat {
+            0% {
+                transform: translateY(0) scale(1);
+                opacity: 1;
+            }
+
+            100% {
+                transform: translateY(-60px) scale(1.3);
+                opacity: 0;
+            }
+        }
+
+        .dmg-float {
+            animation: dmgFloat 0.9s ease-out forwards;
+            pointer-events: none;
+        }
+
+        @keyframes comboGrow {
+            0% {
+                transform: scale(0.8);
+            }
+
+            60% {
+                transform: scale(1.15);
+            }
+
+            100% {
+                transform: scale(1);
+            }
+        }
+
+        .combo-grow {
+            animation: comboGrow 0.3s ease-out forwards;
+        }
+
+        @keyframes bossShake {
+
+            0%,
+            100% {
+                transform: translateX(0) rotate(0deg);
+            }
+
+            25% {
+                transform: translateX(-5px) rotate(-3deg);
+            }
+
+            75% {
+                transform: translateX(5px) rotate(3deg);
+            }
+        }
+
+        .boss-shake {
+            animation: bossShake 0.35s ease;
+        }
+    </style>
+</head>
+
+<body class="bg-sky-50">
+    <div id="root"></div>
+    <script type="text/babel" data-type="module" data-presets="react">
+        import React, { useState, useEffect, useRef, useCallback } from 'react';
+        import ReactDOM from 'react-dom/client';
+        import {
+            BookOpen, Gamepad2, LayoutList, Layers, Volume2, ChevronLeft, ChevronRight,
+            CheckCircle, XCircle, Trophy, Star, Sparkles, HelpCircle, RefreshCw, Library,
+            Puzzle, Lightbulb, Music, Map, Wand2, Flag, AlertCircle, ArrowDownLeft,
+            Shuffle, GraduationCap, PenTool, Coffee, Keyboard, MousePointerClick, Filter, Eye, Timer, Home, Info,
+            FileText, X, Swords, Zap, ExternalLink
+        } from 'lucide-react';
+
+        // --- 語音與音效合成優化 ---
+        let availableVoices = [];
+        const loadVoices = () => { if (!window.speechSynthesis) return; const voices = window.speechSynthesis.getVoices(); if (voices.length > 0) availableVoices = voices; };
+        loadVoices();
+        if (window.speechSynthesis && window.speechSynthesis.onvoiceschanged !== undefined) window.speechSynthesis.onvoiceschanged = loadVoices;
+
+        const speakText = (text) => {
+            if (!window.speechSynthesis) return;
+            window.speechSynthesis.cancel();
+            const utterance = new SpeechSynthesisUtterance(text);
+            let selectedVoice = availableVoices.find(v => (v.lang === 'en-US' || v.lang === 'en_US') && !v.name.includes("Network"));
+            if (!selectedVoice) selectedVoice = availableVoices.find(v => v.lang.includes('en'));
+            if (selectedVoice) utterance.voice = selectedVoice;
+            utterance.lang = 'en-US'; utterance.rate = 0.9; utterance.pitch = 1;
+            window.speechSynthesis.speak(utterance);
+        };
+
+        const playSound = (type) => {
+            try {
+                const AudioContext = window.AudioContext || window.webkitAudioContext;
+                if (!AudioContext) return;
+                const ctx = new AudioContext(); const osc = ctx.createOscillator(); const gain = ctx.createGain();
+                osc.connect(gain); gain.connect(ctx.destination);
+                if (type === 'correct') {
+                    osc.type = 'sine'; osc.frequency.setValueAtTime(500, ctx.currentTime); osc.frequency.exponentialRampToValueAtTime(1000, ctx.currentTime + 0.1);
+                    gain.gain.setValueAtTime(0.1, ctx.currentTime); gain.gain.exponentialRampToValueAtTime(0.01, ctx.currentTime + 0.5);
+                    osc.start(); osc.stop(ctx.currentTime + 0.5);
+                } else {
+                    osc.type = 'sawtooth'; osc.frequency.setValueAtTime(150, ctx.currentTime); osc.frequency.linearRampToValueAtTime(100, ctx.currentTime + 0.3);
+                    gain.gain.setValueAtTime(0.1, ctx.currentTime); gain.gain.linearRampToValueAtTime(0.01, ctx.currentTime + 0.3);
+                    osc.start(); osc.stop(ctx.currentTime + 0.3);
+                }
+            } catch (e) { console.error("Audio play failed", e); }
+        };
+
+        const shuffleArray = (array) => { if (!array) return []; const newArray = [...array]; for (let i = newArray.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1));[newArray[i], newArray[j]] = [newArray[j], newArray[i]]; } return newArray; };
+
+        // --- GameButton Component ---
+        const GameButton = ({ children, onClick, color = "blue", className = "", disabled = false, active = false }) => {
+            const colorStyles = { blue: "bg-sky-400 border-sky-600 text-white hover:bg-sky-300", green: "bg-emerald-400 border-emerald-600 text-white hover:bg-emerald-300", yellow: "bg-yellow-400 border-yellow-600 text-yellow-900 hover:bg-yellow-300", red: "bg-rose-400 border-rose-600 text-white hover:bg-rose-300", purple: "bg-violet-400 border-violet-600 text-white hover:bg-violet-300", orange: "bg-orange-400 border-orange-600 text-white hover:bg-orange-300", white: "bg-white border-slate-200 text-slate-700 hover:bg-slate-50", gray: "bg-slate-200 border-slate-400 text-slate-600 hover:bg-slate-300", active: "bg-yellow-400 border-yellow-600 text-yellow-900 ring-2 ring-yellow-200 ring-offset-2" };
+            const finalColor = active ? colorStyles.active : (colorStyles[color] || colorStyles.blue);
+            return (<button onClick={onClick} disabled={disabled} className={`${finalColor} border-b-4 active:border-b-0 active:translate-y-1 rounded-2xl px-4 py-2 font-black tracking-wide transition-all duration-100 shadow-md flex items-center justify-center gap-2 disabled:opacity-50 disabled:cursor-not-allowed disabled:active:border-b-4 disabled:active:translate-y-0 ${className}`}>{children}</button>);
+        };
+
+        // --- 元件 1: 單字學習模式 ---
+        const StudyMode = ({ data }) => {
+            const [mode, setMode] = useState('card');
+            const [currentIndex, setCurrentIndex] = useState(0);
+            const [isFlipped, setIsFlipped] = useState(false);
+            useEffect(() => { setCurrentIndex(0); setIsFlipped(false); }, [data]);
+            if (!data || data.length === 0) return <div className="p-10 text-center text-slate-400 font-bold">目前沒有資料</div>;
+            const currentWord = data[currentIndex];
+            const handleNext = () => { setIsFlipped(false); setTimeout(() => setCurrentIndex((prev) => (prev + 1) % data.length), 200); };
+            const handlePrev = () => { setIsFlipped(false); setTimeout(() => setCurrentIndex((prev) => (prev - 1 + data.length) % data.length), 200); };
+            return (
+                <div className="flex flex-col h-full animate-in fade-in">
+                    <div className="flex justify-center mb-6 gap-3">
+                        <GameButton onClick={() => setMode('card')} active={mode === 'card'} color="white" className="text-sm"><Layers className="w-4 h-4" /> 卡牌</GameButton>
+                        <GameButton onClick={() => setMode('list')} active={mode === 'list'} color="white" className="text-sm"><LayoutList className="w-4 h-4" /> 列表</GameButton>
+                    </div>
+                    {mode === 'card' ? (
+                        <div className="flex-1 flex flex-col items-center justify-start min-h-[400px]">
+                            <div className="relative w-full max-w-sm h-80 cursor-pointer group perspective-1000 z-10" onClick={() => setIsFlipped(!isFlipped)} style={{ perspective: '1000px' }}>
+                                <div className="relative w-full h-full transition-transform duration-500" style={{ transformStyle: 'preserve-3d', transform: isFlipped ? 'rotateY(180deg)' : 'rotateY(0deg)' }}>
+                                    <div className="absolute inset-0 bg-white border-4 border-sky-400 rounded-3xl shadow-[0_8px_0_rgba(56,189,248,0.3)] flex flex-col items-center justify-center p-6" style={{ backfaceVisibility: 'hidden', WebkitBackfaceVisibility: 'hidden' }}>
+                                        <div className="absolute top-4 right-6 bg-yellow-400 text-yellow-900 px-3 py-1 rounded-full text-sm font-black border-2 border-yellow-600 shadow-sm rotate-3">{currentIndex + 1} / {data.length}</div>
+                                        <h2 className="text-3xl sm:text-4xl font-black text-slate-800 mb-2 tracking-tight text-center break-words w-full drop-shadow-sm">{currentWord.word}</h2>
+                                        <span className="text-white bg-sky-500 font-bold px-4 py-1.5 rounded-xl text-lg shadow-md border-b-4 border-sky-700 transform -rotate-2">{currentWord.part_of_speech}</span>
+                                        <div className="mt-10 text-slate-400 text-xs font-bold flex items-center gap-1 animate-pulse bg-slate-100 px-3 py-1 rounded-full"><RefreshCw className="w-3 h-3" /> CLICK TO FLIP</div>
+                                        <button onClick={(e) => { e.stopPropagation(); speakText(currentWord.word); }} className="absolute bottom-5 right-1/2 translate-x-1/2 p-3 bg-rose-400 text-white rounded-full border-b-4 border-rose-600 active:border-b-0 active:translate-y-1 transition-all shadow-md"><Volume2 className="w-6 h-6" /></button>
+                                    </div>
+                                    <div className="absolute inset-0 bg-violet-500 border-4 border-violet-700 text-white rounded-3xl shadow-[0_8px_0_rgba(109,40,217,0.3)] flex flex-col items-center justify-center p-8" style={{ backfaceVisibility: 'hidden', WebkitBackfaceVisibility: 'hidden', transform: 'rotateY(180deg)' }}>
+                                        <h3 className="text-2xl sm:text-3xl font-black mb-4 text-center leading-snug drop-shadow-md bg-white/20 px-4 py-2 rounded-xl backdrop-blur-sm border-2 border-white/30 transform -rotate-1">{currentWord.chinese}</h3>
+                                        <div className="bg-black/20 p-4 rounded-xl border-2 border-white/10 w-full relative overflow-y-auto max-h-[140px]">
+                                            <p className="text-white text-center italic text-sm sm:text-base leading-relaxed font-bold">"{currentWord.sentence}"</p>
+                                            <p className="text-violet-200 text-center text-xs mt-2 font-medium">{currentWord.sentence_chinese}</p>
+                                        </div>
+                                        <button onClick={(e) => { e.stopPropagation(); speakText(currentWord.sentence); }} className="mt-4 p-3 bg-yellow-400 text-yellow-900 rounded-full border-b-4 border-yellow-600 active:border-b-0 active:translate-y-1 transition-all shadow-md"><Volume2 className="w-5 h-5" /></button>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="flex gap-4 mt-8 w-full max-w-sm px-4">
+                                <GameButton onClick={handlePrev} color="white" className="flex-1"><ChevronLeft className="w-6 h-6" /> 上一個</GameButton>
+                                <GameButton onClick={handleNext} color="blue" className="flex-1 text-lg">下一個 <ChevronRight className="w-6 h-6" /></GameButton>
+                            </div>
+                        </div>
+                    ) : (
+                        <div className="flex-1 overflow-y-auto max-h-[70vh] pr-1 space-y-3 pb-20">
+                            {data.map((item) => (
+                                <div key={item.id} className="bg-white p-4 rounded-2xl border-b-4 border-slate-200 flex items-center justify-between hover:translate-x-1 transition-all group">
+                                    <div className="flex-1">
+                                        <div className="flex items-center gap-2 mb-1"><span className="font-black text-lg text-slate-700 group-hover:text-sky-500 transition-colors">{item.word}</span><span className="text-xs text-white bg-slate-400 px-2 py-0.5 rounded-lg font-bold border-b-2 border-slate-600">{item.part_of_speech}</span></div>
+                                        <div className="text-slate-500 text-sm font-bold">{item.chinese}</div>
+                                    </div>
+                                    <button onClick={() => speakText(item.word)} className="p-2 bg-sky-100 text-sky-500 rounded-xl hover:bg-sky-200 active:scale-95 transition-colors"><Volume2 className="w-5 h-5" /></button>
+                                </div>
+                            ))}
+                        </div>
+                    )}
+                </div>
+            );
+        };
+
+        // --- 元件 2.1: 拼字測驗 ---
+        const SpellingQuiz = ({ data, onFinish }) => {
+            const [currentQIndex, setCurrentQIndex] = useState(0);
+            const [quizItems, setQuizItems] = useState([]);
+            const [currentLetters, setCurrentLetters] = useState([]);
+            const [poolLetters, setPoolLetters] = useState([]);
+            const [feedback, setFeedback] = useState(null); // null | 'correct' | 'wrong' | 'no_score_hints' | 'no_score_solved' | 'no_score_errors'
+            const [score, setScore] = useState(0);
+            const [targetPattern, setTargetPattern] = useState([]);
+            const [targetClean, setTargetClean] = useState([]);
+            const [hintCount, setHintCount] = useState(0);       // 本題提示次數
+            const [errorCount, setErrorCount] = useState(0);     // 本題答錯次數
+            const [solvedByCheat, setSolvedByCheat] = useState(false); // 本題有無按「查看答案」
+            const [scoreHistory, setScoreHistory] = useState([]); // 每題得分紀錄 {word, scored, reason}
+            const scoreHistoryRef = useRef([]);  // 同步 ref 避免 setTimeout closure 問題
+            const scoreRef = useRef(0);
+
+            useEffect(() => {
+                if (!data || data.length === 0) return;
+                const shuffled = shuffleArray([...data]).slice(0, 10);
+                setQuizItems(shuffled);
+                setCurrentQIndex(0);
+                setScore(0);
+                scoreRef.current = 0;
+                setScoreHistory([]);
+                scoreHistoryRef.current = [];
+                if (shuffled.length > 0) loadQuestion(shuffled[0]);
+            }, [data]);
+
+            const loadQuestion = (item) => {
+                if (!item) return;
+                const rawWord = item.word.toLowerCase();
+                setTargetPattern(rawWord.split(''));
+                const cleanChars = rawWord.replace(/[^a-z]/g, '').split('');
+                setTargetClean(cleanChars);
+                const scrambled = cleanChars.map((char, idx) => ({ char, id: idx, key: `${char}-${idx}-${Math.random()}` }));
+                setPoolLetters(shuffleArray([...scrambled]));
+                setCurrentLetters([]);
+                setFeedback(null);
+                setHintCount(0);
+                setErrorCount(0);
+                setSolvedByCheat(false);
+                speakText(item.word);
+            };
+
+            const handlePoolClick = (l) => {
+                if (feedback === 'correct' || feedback === 'no_score_hints' || feedback === 'no_score_solved' || feedback === 'no_score_errors') return;
+                setPoolLetters(prev => prev.filter(p => p.key !== l.key));
+                setCurrentLetters(prev => [...prev, l]);
+            };
+            const handleAnswerClick = (l) => {
+                if (feedback === 'correct' || feedback === 'no_score_hints' || feedback === 'no_score_solved' || feedback === 'no_score_errors') return;
+                setCurrentLetters(prev => prev.filter(p => p.key !== l.key));
+                setPoolLetters(prev => [...prev, l]);
+            };
+            const handleHint = () => {
+                if (feedback === 'correct' || feedback === 'no_score_hints' || feedback === 'no_score_solved' || feedback === 'no_score_errors') return;
+                let firstWrongIndex = -1;
+                for (let i = 0; i < currentLetters.length; i++) {
+                    if (currentLetters[i].char !== targetClean[i]) {
+                        firstWrongIndex = i;
+                        break;
+                    }
+                }
+                if (firstWrongIndex === -1) firstWrongIndex = currentLetters.length;
+                if (firstWrongIndex >= targetClean.length) return;
+                
+                const neededChar = targetClean[firstWrongIndex];
+                const correctPrefix = currentLetters.slice(0, firstWrongIndex);
+                const wronglyPlaced = currentLetters.slice(firstWrongIndex);
+                const allAvailable = [...poolLetters, ...wronglyPlaced];
+                
+                const candidateIndex = allAvailable.findIndex(l => l.char === neededChar);
+                if (candidateIndex !== -1) {
+                    setHintCount(prev => prev + 1);
+                    const candidate = allAvailable[candidateIndex];
+                    allAvailable.splice(candidateIndex, 1);
+                    setCurrentLetters([...correctPrefix, candidate]);
+                    setPoolLetters(allAvailable);
+                }
+            };
+            const handleSolve = () => {
+                if (feedback === 'correct' || feedback === 'no_score_hints' || feedback === 'no_score_solved' || feedback === 'no_score_errors') return;
+                let tempPool = [...poolLetters, ...currentLetters];
+                const solution = [];
+                const remainingPool = [...tempPool];
+                for (const char of targetClean) {
+                    const foundIndex = remainingPool.findIndex(l => l.char === char);
+                    if (foundIndex !== -1) { solution.push(remainingPool[foundIndex]); remainingPool.splice(foundIndex, 1); }
+                }
+                setCurrentLetters(solution);
+                setPoolLetters(remainingPool);
+                setSolvedByCheat(true);
+                setFeedback('no_score_solved');
+            };
+
+            const isFrozen = (fb) => ['correct', 'no_score_hints', 'no_score_solved', 'no_score_errors'].includes(fb);
+
+            const checkAnswer = () => {
+                if (isFrozen(feedback)) return;
+                const currentItem = quizItems[currentQIndex];
+                if (!currentItem) return;
+                const targetWord = currentItem.word.toLowerCase().replace(/[^a-z]/g, '');
+                const userWord = currentLetters.map(l => l.char).join('');
+                if (userWord === targetWord) {
+                    speakText("Correct! " + currentItem.word);
+                    // 判斷能否得分
+                    if (solvedByCheat) {
+                        const newHist = [...scoreHistoryRef.current, { word: currentItem.word, scored: false, reason: 'solved' }];
+                        scoreHistoryRef.current = newHist;
+                        setScoreHistory(newHist);
+                        setFeedback('no_score_solved');
+                        setTimeout(handleNext, 2000);
+                    } else if (hintCount > 2) {
+                        const newHist = [...scoreHistoryRef.current, { word: currentItem.word, scored: false, reason: 'hints' }];
+                        scoreHistoryRef.current = newHist;
+                        setScoreHistory(newHist);
+                        setFeedback('no_score_hints');
+                        setTimeout(handleNext, 2000);
+                    } else if (errorCount >= 3) {
+                        const newHist = [...scoreHistoryRef.current, { word: currentItem.word, scored: false, reason: 'errors' }];
+                        scoreHistoryRef.current = newHist;
+                        setScoreHistory(newHist);
+                        setFeedback('no_score_errors');
+                        setTimeout(handleNext, 2000);
+                    } else {
+                        const newHist = [...scoreHistoryRef.current, { word: currentItem.word, scored: true, reason: 'ok' }];
+                        scoreHistoryRef.current = newHist;
+                        const currentCorrect = newHist.filter(h => h.scored).length;
+                        scoreRef.current = Math.round((currentCorrect / quizItems.length) * 100);
+                        setScore(scoreRef.current);
+                        setScoreHistory(newHist);
+                        setFeedback('correct');
+                        setTimeout(handleNext, 1500);
+                    }
+                } else {
+                    const newErrorCount = errorCount + 1;
+                    setErrorCount(newErrorCount);
+                    if (newErrorCount >= 3) {
+                        setFeedback('wrong');
+                        speakText("Try again");
+                        setTimeout(() => setFeedback(null), 1000);
+                    } else {
+                        setFeedback('wrong');
+                        speakText("Try again");
+                        setTimeout(() => setFeedback(null), 1000);
+                    }
+                }
+            };
+
+            const handleNext = () => {
+                if (currentQIndex < quizItems.length - 1) {
+                    const nextIndex = currentQIndex + 1;
+                    setCurrentQIndex(nextIndex);
+                    loadQuestion(quizItems[nextIndex]);
+                } else {
+                    onFinish(scoreRef.current, scoreHistoryRef.current);
+                }
+            };
+
+            if (!quizItems || quizItems.length === 0) return <div className="p-10 text-center text-slate-400 font-bold">載入中或無資料...</div>;
+            const currentItem = quizItems[currentQIndex]; if (!currentItem) return null; let letterIndex = 0;
+
+            // 計算按鈕顏色與底部訊息
+            const frozen = isFrozen(feedback);
+            let checkBtnColor = 'blue';
+            if (feedback === 'correct') checkBtnColor = 'green';
+            else if (feedback === 'wrong') checkBtnColor = 'red';
+            else if (feedback === 'no_score_hints' || feedback === 'no_score_solved' || feedback === 'no_score_errors') checkBtnColor = 'gray';
+
+            // 提示警示狀態
+            const hintWarning = hintCount === 2; // 已用2次，下一次會失分
+            const errorWarning = errorCount === 2; // 已錯2次，下一次會失分
+
+            return (
+                <div className="flex flex-col items-center">
+                    <div className="w-full flex justify-between items-center mb-4 px-2">
+                        <span className="text-xs font-black text-slate-400">SPELLING {currentQIndex + 1} / {quizItems.length}</span>
+                        <span className="text-xs font-black text-yellow-600 bg-yellow-100 px-2 py-1 rounded-lg">SCORE: {score}</span>
+                    </div>
+
+                    {/* 提示/錯誤次數警示條 */}
+                    <div className="w-full flex gap-2 mb-3">
+                        <div className={`flex-1 flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-black border-2 transition-all ${hintCount === 0 ? 'bg-slate-50 border-slate-200 text-slate-400' : hintCount === 1 ? 'bg-yellow-50 border-yellow-300 text-yellow-700' : hintCount === 2 ? 'bg-orange-100 border-orange-400 text-orange-700' : 'bg-red-100 border-red-400 text-red-700'}`}>
+                            <Lightbulb className="w-3.5 h-3.5" />
+                            提示：{hintCount}/2
+                            {hintCount >= 2 && <span className="ml-1 text-red-600">⚠ 不計分！</span>}
+                        </div>
+                        <div className={`flex-1 flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-black border-2 transition-all ${errorCount === 0 ? 'bg-slate-50 border-slate-200 text-slate-400' : errorCount === 1 ? 'bg-yellow-50 border-yellow-300 text-yellow-700' : errorCount === 2 ? 'bg-orange-100 border-orange-400 text-orange-700' : 'bg-red-100 border-red-400 text-red-700'}`}>
+                            <XCircle className="w-3.5 h-3.5" />
+                            錯誤：{errorCount}/3
+                            {errorCount >= 3 && <span className="ml-1 text-red-600">⚠ 不計分！</span>}
+                        </div>
+                    </div>
+
+                    <div className="bg-white border-4 border-b-8 border-violet-200 rounded-3xl p-8 mb-6 text-center w-full relative shadow-sm">
+                        <div className="absolute top-3 left-1/2 -translate-x-1/2 bg-violet-100 text-violet-600 px-3 py-1 rounded-lg text-xs font-black uppercase tracking-wider">Listen & Spell</div>
+                        <h2 className="font-black text-3xl text-slate-800 mt-4 mb-2">{currentItem.chinese}</h2>
+                        <button onClick={() => speakText(currentItem.word)} className="p-4 bg-sky-100 text-sky-500 rounded-full hover:bg-sky-200 active:scale-95 transition-colors border-4 border-sky-200"><Volume2 className="w-8 h-8" /></button>
+                        <p className="mt-2 text-slate-400 text-xs font-bold">點擊喇叭聽發音</p>
+                    </div>
+
+                    <div className="relative flex flex-wrap justify-center items-end gap-2 min-h-[80px] mb-6 p-4 bg-slate-200 rounded-3xl w-full border-inner border-4 border-slate-300">
+                        {targetPattern.map((char, idx) => {
+                            if (/[a-z]/.test(char)) {
+                                const filledLetter = currentLetters[letterIndex];
+                                letterIndex++;
+                                return filledLetter
+                                    ? (<button key={`filled-${idx}`} onClick={() => handleAnswerClick(filledLetter)} disabled={frozen} className={`w-10 h-12 text-white rounded-lg font-black text-2xl shadow-[0_4px_0_rgb(55,48,163)] active:translate-y-1 active:shadow-none transition-all pop-in mx-[1px] ${frozen ? 'bg-indigo-400 opacity-80 cursor-default' : 'bg-indigo-500'}`}>{filledLetter.char}</button>)
+                                    : <div key={`empty-${idx}`} className="w-10 h-12 bg-white/50 rounded-lg border-b-4 border-slate-300 mx-[1px]"></div>;
+                            } else if (char === ' ') {
+                                return <div key={`space-${idx}`} className="w-6 h-12 flex items-center justify-center"></div>;
+                            } else {
+                                return <div key={`symbol-${idx}`} className="w-6 h-12 flex items-end justify-center pb-2 text-slate-400 font-black text-xl">{char}</div>;
+                            }
+                        })}
+                        {currentLetters.length === 0 && <div className="absolute inset-0 flex items-center justify-center pointer-events-none opacity-50"><span className="text-slate-500 font-bold text-sm bg-slate-200/80 px-2 py-1 rounded">點擊下方字母拼字</span></div>}
+                    </div>
+
+                    <div className="flex flex-wrap justify-center gap-3 mb-4">
+                        {poolLetters.map((l) => (
+                            <button key={l.key} onClick={() => handlePoolClick(l)} disabled={frozen} className={`w-12 h-14 text-slate-700 border-b-4 border-slate-300 rounded-xl font-black text-2xl shadow-sm active:border-b-0 active:translate-y-1 transition-all ${frozen ? 'bg-slate-100 opacity-50 cursor-default' : 'bg-white hover:bg-slate-50'}`}>{l.char}</button>
+                        ))}
+                    </div>
+
+                    {/* 特殊回饋訊息區 */}
+                    {feedback === 'no_score_hints' && (
+                        <div className="w-full mb-3 bg-orange-100 border-4 border-orange-400 rounded-2xl p-4 animate-in slide-in-from-bottom-2 flex items-start gap-3">
+                            <AlertCircle className="w-8 h-8 text-orange-500 shrink-0 mt-0.5" />
+                            <div>
+                                <p className="font-black text-orange-700 text-base">提示用超囉！🙈</p>
+                                <p className="text-orange-600 text-sm font-bold mt-0.5">你這題使用了超過 2 個提示，所以不算得分喔。下次試著靠自己拼拼看！</p>
+                            </div>
+                        </div>
+                    )}
+                    {feedback === 'no_score_solved' && (
+                        <div className="w-full mb-3 bg-purple-100 border-4 border-purple-400 rounded-2xl p-4 animate-in slide-in-from-bottom-2 flex items-start gap-3">
+                            <Eye className="w-8 h-8 text-purple-500 shrink-0 mt-0.5" />
+                            <div>
+                                <p className="font-black text-purple-700 text-base">直接看答案了？😅</p>
+                                <p className="text-purple-600 text-sm font-bold mt-0.5">按了「查看答案」就不算得分囉。知道了再繼續，下次記住這個單字！</p>
+                            </div>
+                        </div>
+                    )}
+                    {feedback === 'no_score_errors' && (
+                        <div className="w-full mb-3 bg-rose-100 border-4 border-rose-400 rounded-2xl p-4 animate-in slide-in-from-bottom-2 flex items-start gap-3">
+                            <XCircle className="w-8 h-8 text-rose-500 shrink-0 mt-0.5" />
+                            <div>
+                                <p className="font-black text-rose-700 text-base">錯太多次了！😓</p>
+                                <p className="text-rose-600 text-sm font-bold mt-0.5">這題答錯了 3 次以上，所以就算現在拼對了也不算得分。繼續加油！</p>
+                            </div>
+                        </div>
+                    )}
+                    {feedback === 'correct' && (
+                        <div className="w-full mb-3 bg-emerald-100 border-4 border-emerald-400 rounded-2xl p-4 animate-in slide-in-from-bottom-2 flex items-center gap-3">
+                            <CheckCircle className="w-8 h-8 text-emerald-500 shrink-0" />
+                            <div>
+                                <p className="font-black text-emerald-700 text-base">答對了！✨</p>
+                                <p className="text-emerald-600 text-sm font-bold mt-0.5">太棒了，自己拼出來的！繼續保持！</p>
+                            </div>
+                        </div>
+                    )}
+                    {feedback === 'wrong' && (
+                        <div className="w-full mb-3 bg-red-100 border-4 border-red-300 rounded-2xl p-4 animate-in shake flex items-center gap-3">
+                            <XCircle className="w-8 h-8 text-red-500 shrink-0" />
+                            <div>
+                                <p className="font-black text-red-700 text-base">拼錯了！再試試看 {errorCount >= 2 ? '⚠️ 再錯一次就不計分！' : ''}</p>
+                                <p className="text-red-500 text-xs font-bold mt-0.5">目前錯誤次數：{errorCount} / 3</p>
+                            </div>
+                        </div>
+                    )}
+
+                    <div className="w-full transition-all duration-300 flex flex-col gap-2">
+                        <div className="flex gap-2 w-full">
+                            <GameButton onClick={handleHint} color={hintCount >= 2 ? 'red' : 'yellow'} className="flex-1 text-sm py-3" disabled={frozen}>
+                                <Lightbulb className="w-4 h-4" /> 💡 提示一字{hintCount >= 2 ? ' ⚠' : ''}
+                            </GameButton>
+                            <GameButton onClick={handleSolve} color="red" className="flex-1 text-sm py-3" disabled={frozen}>
+                                <Eye className="w-4 h-4" /> 👀 查看答案
+                            </GameButton>
+                        </div>
+                        <GameButton
+                            onClick={frozen ? handleNext : checkAnswer}
+                            color={checkBtnColor}
+                            className="w-full py-4 text-xl"
+                            disabled={!frozen && currentLetters.length === 0}
+                        >
+                            {feedback === 'correct' ? <><CheckCircle className="w-6 h-6" /> 答對了！繼續</> :
+                                feedback === 'wrong' ? <><XCircle className="w-6 h-6" /> 答錯了，重試</> :
+                                    frozen ? <>下一題 <ChevronRight className="w-6 h-6" /></> :
+                                        "Check Answer"}
+                        </GameButton>
+                    </div>
+                </div>
+            );
+        };
+
+        // --- 新增: Scramble Container (負責切換單字與文法重組) ---
+        const ScrambleContainer = ({ scrambles, fullUnitData }) => {
+            const [mode, setMode] = useState('vocab');
+
+            const enrichVocabScrambles = () => {
+                const list = [...(scrambles?.vocab || []), ...(scrambles?.phrases || [])];
+                return list.map(item => {
+                    let sourceItem = null;
+                    if (item.vocab_id && fullUnitData?.vocab) {
+                        sourceItem = fullUnitData.vocab.find(v => v.id === item.vocab_id);
+                    } else if (item.phrase_id && fullUnitData?.phrases) {
+                        sourceItem = fullUnitData.phrases.find(p => p.id === item.phrase_id);
+                    }
+                    const word = item.word || sourceItem?.word || sourceItem?.phrase || '';
+                    const chinese = item.chinese || sourceItem?.chinese || '';
+                    const sentence_chinese = item.sentence_chinese || sourceItem?.sentence_chinese || '';
+                    
+                    // 如果沒有句子翻譯，但有單字中文，就當作提示
+                    const display_chinese = sentence_chinese ? sentence_chinese : (chinese ? `(提示: ${chinese})` : '');
+                    
+                    return {
+                        ...item,
+                        sentence_chinese: display_chinese,
+                        word: word
+                    };
+                });
+            };
+
+            const enrichGrammarScrambles = () => {
+                const list = scrambles?.grammar || [];
+                return list.map(item => ({
+                    ...item,
+                    sentence_chinese: item.sentence_chinese || '(此題無中文翻譯)'
+                }));
+            };
+
+            return (
+                <div className="flex flex-col h-full">
+                    <div className="flex justify-center mb-6 gap-3">
+                        <GameButton onClick={() => setMode('vocab')} active={mode === 'vocab'} color="white" className="text-sm px-6 py-3">單字重組</GameButton>
+                        <GameButton onClick={() => setMode('grammar')} active={mode === 'grammar'} color="white" className="text-sm px-6 py-3">文法重組</GameButton>
+                    </div>
+                    {mode === 'vocab' ? (
+                        <ScrambleMode data={enrichVocabScrambles()} titleOverride="VOCAB SCRAMBLE" key="vocab" />
+                    ) : (
+                        <ScrambleMode data={enrichGrammarScrambles()} titleOverride="GRAMMAR SCRAMBLE" key="grammar" />
+                    )}
+                </div>
+            );
+        };
+
+        // --- 元件 3: 重組句子模式 (積木風格) ---
+        const ScrambleMode = ({ data, titleOverride }) => {
+            const [questions, setQuestions] = useState([]);
+            const [currentIndex, setCurrentIndex] = useState(0);
+            const [score, setScore] = useState(0);
+            const [showResult, setShowResult] = useState(false);
+            const [userSentence, setUserSentence] = useState([]);
+            const [availableWords, setAvailableWords] = useState([]);
+            const [feedback, setFeedback] = useState(null);
+            const [showGiveUpConfirm, setShowGiveUpConfirm] = useState(false);
+            const [showHelperHint, setShowHelperHint] = useState(false);
+            const [magicCount, setMagicCount] = useState(0);
+            const [gaveUp, setGaveUp] = useState(false);
+            useEffect(() => { resetGame(); }, [data]);
+            const resetGame = () => { if (!data || data.length === 0) return; const count = 5; const shuffledQuestions = shuffleArray([...data]).slice(0, count); setQuestions(shuffledQuestions); setCurrentIndex(0); setScore(0); setShowResult(false); if (shuffledQuestions.length > 0) loadQuestion(shuffledQuestions[0]); };
+            const loadQuestion = (question) => { if (!question) return; const rawSentence = question.sentence; const spacedSentence = rawSentence.replace(/([.!?])$/, ' $1'); const words = spacedSentence.split(' '); const wordsWithIds = words.map((word, index) => ({ id: `${index}-${word}`, text: word })); setAvailableWords(shuffleArray(wordsWithIds)); setUserSentence([]); setFeedback(null); setShowGiveUpConfirm(false); setShowHelperHint(false); setMagicCount(0); setGaveUp(false); };
+            const handleSkipQuestion = () => { if (questions.length <= 1) return; const currentQuestionIds = questions.map(q => q.id); const candidates = data.filter(item => !currentQuestionIds.includes(item.id)); let newQuestion; if (candidates.length > 0) { newQuestion = candidates[Math.floor(Math.random() * candidates.length)]; } else { const otherQuestions = data.filter(item => item.id !== questions[currentIndex].id); newQuestion = otherQuestions[Math.floor(Math.random() * otherQuestions.length)]; } const newQuestions = [...questions]; newQuestions[currentIndex] = newQuestion; setQuestions(newQuestions); loadQuestion(newQuestion); };
+            const handleWordClick = (wordObj) => { if (feedback === 'correct') return; if (feedback === 'wrong') setFeedback(null); setAvailableWords(prev => prev.filter(w => w.id !== wordObj.id)); setUserSentence(prev => [...prev, wordObj]); };
+            const handleAnswerClick = (wordObj) => { if (feedback === 'correct') return; if (feedback === 'wrong') setFeedback(null); setUserSentence(prev => prev.filter(w => w.id !== wordObj.id)); setAvailableWords(prev => [...prev, wordObj]); };
+            const handleTryAgain = () => { setFeedback(null); setShowHelperHint(true); setTimeout(() => setShowHelperHint(false), 5000); };
+            const handleMagicHint = () => {
+                if (feedback === 'correct') return; setFeedback(null); setMagicCount(prev => prev + 1);
+                let firstWrongIndex = -1; for (let i = 0; i < userSentence.length; i++) { if (userSentence[i].id.split('-')[0] !== String(i)) { firstWrongIndex = i; break; } }
+                if (firstWrongIndex === -1) firstWrongIndex = userSentence.length;
+                const totalWords = userSentence.length + availableWords.length; if (firstWrongIndex >= totalWords) return;
+                const allWords = [...userSentence, ...availableWords]; const nextWordObj = allWords.find(w => w.id.split('-')[0] === String(firstWrongIndex));
+                if (nextWordObj) { const newCorrectUserSentence = [...userSentence.slice(0, firstWrongIndex), nextWordObj]; const newAvailableWords = allWords.filter(w => !newCorrectUserSentence.some(cw => cw.id === w.id)); setUserSentence(newCorrectUserSentence); setAvailableWords(newAvailableWords); speakText(nextWordObj.text); }
+            };
+            const handleGiveUpClick = () => { setFeedback(null); setShowGiveUpConfirm(true); };
+            const confirmGiveUp = () => { const allWords = [...userSentence, ...availableWords]; allWords.sort((a, b) => { const indexA = parseInt(a.id.split('-')[0]); const indexB = parseInt(b.id.split('-')[0]); return indexA - indexB; }); setUserSentence(allWords); setAvailableWords([]); setGaveUp(true); setFeedback('correct'); setShowGiveUpConfirm(false); };
+            const checkAnswer = () => { const currentQuestion = questions[currentIndex]; const targetSentence = currentQuestion.sentence.replace(/\s+([.!?])/g, '$1'); const userRawString = userSentence.map(w => w.text).join(' '); const userCleanString = userRawString.replace(/\s+([.!?])/g, '$1'); if (userCleanString === targetSentence) { if (feedback === 'correct') return; setFeedback('correct'); if (magicCount <= 2) { setScore(prev => { const currentTotal = questions.length; const ptsPerQ = 100 / currentTotal; const prevCorrect = Math.round(prev / ptsPerQ); return Math.round(((prevCorrect + 1) / currentTotal) * 100); }); } speakText(currentQuestion.sentence); } else { setFeedback('wrong'); speakText("Oops"); } };
+            const nextQuestion = () => { if (currentIndex < questions.length - 1) { setCurrentIndex(prev => prev + 1); loadQuestion(questions[currentIndex + 1]); } else { setShowResult(true); } };
+            if (!questions || questions.length === 0) return <div className="p-10 text-center font-bold text-slate-400">Loading or No Data...</div>;
+            if (showResult) return (<div className="flex flex-col items-center justify-center h-full animate-in zoom-in py-10 relative overflow-hidden"><Star className="w-32 h-32 text-yellow-400 mb-6 fill-yellow-400 drop-shadow-[0_4px_0_rgba(234,179,8,1)] animate-bounce" /><h2 className="text-4xl font-black text-slate-800 mb-2 tracking-tight">挑戰成功！</h2><div className="text-7xl font-black text-indigo-600 mb-8 drop-shadow-sm">{score} <span className="text-3xl text-slate-400">/ 100 分</span></div><GameButton onClick={resetGame} color="purple" className="w-64 py-4 text-xl"><RefreshCw className="w-6 h-6" /> 再玩一次</GameButton></div>);
+            const currentQ = questions[currentIndex];
+            return (
+                <div className="flex flex-col h-full max-w-2xl mx-auto pb-24 relative">
+                    <div className="absolute top-0 left-0 w-full h-full overflow-hidden pointer-events-none z-0 opacity-30"><div className="absolute top-10 left-10 text-yellow-300"><Star size={40} /></div><div className="absolute top-40 right-10 text-rose-300"><Puzzle size={50} /></div><div className="absolute bottom-20 left-20 text-sky-300"><Gamepad2 size={60} /></div></div>
+                    {/* 魔法提示/查看答案警示條 */}
+                    <div className="w-full flex gap-2 mb-4 z-10 relative">
+                        <div className={`flex-1 flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-black border-2 transition-all ${magicCount === 0 ? 'bg-slate-50 border-slate-200 text-slate-400' : magicCount === 1 ? 'bg-yellow-50 border-yellow-300 text-yellow-700' : magicCount === 2 ? 'bg-orange-100 border-orange-400 text-orange-700' : 'bg-red-100 border-red-400 text-red-700'}`}>
+                            <Wand2 className="w-3.5 h-3.5" />
+                            魔法提示：{magicCount}/2
+                            {magicCount > 2 && <span className="ml-1 text-red-600">⚠ 不計分！</span>}
+                        </div>
+                        <div className={`flex-1 flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-black border-2 transition-all ${gaveUp ? 'bg-red-100 border-red-400 text-red-700' : 'bg-slate-50 border-slate-200 text-slate-400'}`}>
+                            <Flag className="w-3.5 h-3.5" />
+                            查看答案
+                            {gaveUp && <span className="ml-1 text-red-600">⚠ 不計分！</span>}
+                        </div>
+                    </div>
+                    <div className="bg-white border-4 border-b-8 border-orange-200 rounded-3xl p-6 mb-6 text-center relative z-10 shadow-sm">
+                        <div className="flex justify-between items-center mb-2"><div className="inline-block bg-orange-100 text-orange-600 font-black px-3 py-1 rounded-lg text-xs border-2 border-orange-200">{titleOverride ? titleOverride : `LEVEL ${currentIndex + 1}`}</div>{currentQ?.word && <div className="text-xs font-bold text-slate-400 bg-slate-100 px-2 py-1 rounded">Target: {currentQ.word}</div>}</div>
+                        <h2 className="font-black text-2xl text-slate-800 mb-4 leading-relaxed drop-shadow-sm">{currentQ?.sentence_chinese}</h2>
+                        <p className="text-orange-500 text-sm font-bold bg-orange-50 px-4 py-1.5 rounded-full inline-block border-2 border-orange-100 animate-pulse">請用下方的積木拼出這句英文</p>
+                    </div>
+                    <div className="bg-slate-200/50 rounded-3xl shadow-inner border-4 border-slate-300 min-h-[160px] p-5 mb-6 flex flex-wrap content-center justify-center gap-3 relative transition-all z-10">
+                        {userSentence.length === 0 && <div className="text-slate-400 font-black pointer-events-none flex flex-col items-center"><Puzzle className="w-10 h-10 mb-2 opacity-50" />請依序點擊下方的英文單字</div>}
+                        {userSentence.map((wordObj) => (<button key={wordObj.id} onClick={() => handleAnswerClick(wordObj)} className="bg-indigo-500 text-white px-4 py-3 rounded-xl font-bold shadow-[0_4px_0_rgb(55,48,163)] active:shadow-none active:translate-y-1 transition-all border-2 border-indigo-400 text-lg animate-in zoom-in">{wordObj.text}</button>))}
+                    </div>
+                    <div className="h-20 mb-4 flex items-center justify-center gap-3 z-10 relative">
+                        {feedback === 'correct' ? (<div className="w-full bg-emerald-100 border-4 border-emerald-300 text-emerald-700 px-6 py-4 rounded-3xl flex items-center justify-between shadow-lg animate-in slide-in-from-bottom-2"><div className="flex items-center gap-2 font-black text-xl"><CheckCircle className="w-8 h-8 text-emerald-500" /> CORRECT!</div><GameButton onClick={nextQuestion} color="green" className="text-sm">NEXT <ChevronRight className="w-4 h-4" /></GameButton></div>
+                        ) : feedback === 'wrong' ? (<div className="w-full flex justify-center animate-in shake"><button onClick={handleTryAgain} className="bg-rose-500 text-white border-b-4 border-rose-700 active:border-b-0 active:translate-y-1 px-8 py-3 rounded-2xl font-black text-xl shadow-xl flex items-center gap-2 hover:bg-rose-600 transition-all w-full justify-center"><XCircle className="w-8 h-8" /> TRY AGAIN! (點擊重試)</button></div>
+                        ) : (<><div className="flex gap-2 relative">{showHelperHint && <div className="absolute -top-20 left-0 bg-white border-4 border-sky-400 p-3 rounded-2xl w-48 shadow-xl z-50 animate-in fade-in slide-in-from-bottom-2"><p className="text-sky-600 text-xs font-black mb-1">💡 卡關了嗎？</p><p className="text-slate-600 text-xs font-bold">試試左邊的魔法棒或投降旗幟喔！</p><div className="absolute -bottom-3 left-6 w-4 h-4 bg-white border-b-4 border-r-4 border-sky-400 transform rotate-45"></div></div>}<GameButton onClick={handleSkipQuestion} color="purple" className="py-4" title="換一題"><Shuffle className="w-6 h-6" /></GameButton><GameButton onClick={handleMagicHint} color="yellow" className="py-4" title="提示下一個字"><Wand2 className="w-6 h-6" /></GameButton><GameButton onClick={handleGiveUpClick} color="red" className="py-4" title="查看答案"><Flag className="w-6 h-6" /></GameButton></div><GameButton onClick={checkAnswer} disabled={userSentence.length === 0} color="blue" className="flex-1 py-4 text-xl shadow-lg"><CheckCircle className="w-6 h-6" /> 檢查</GameButton></>)}
+                    </div>
+                    <div className="flex flex-wrap gap-2 justify-center z-10 relative pb-4">{availableWords.map((wordObj) => (<button key={wordObj.id} onClick={() => handleWordClick(wordObj)} className="bg-white text-slate-700 px-5 py-3 rounded-xl font-bold shadow-[0_4px_0_rgb(203,213,225)] active:shadow-none active:translate-y-1 transition-all border-2 border-slate-200 text-lg hover:border-indigo-300 hover:text-indigo-600">{wordObj.text}</button>))}</div>
+                    {showGiveUpConfirm && (<div className="absolute inset-0 z-50 flex items-center justify-center bg-black/40 backdrop-blur-sm rounded-3xl animate-in fade-in"><div className="bg-white p-6 rounded-3xl border-4 border-slate-200 shadow-2xl max-w-xs text-center transform scale-100 animate-in zoom-in"><div className="flex justify-center mb-4"><AlertCircle className="w-16 h-16 text-yellow-400" /></div><h3 className="text-2xl font-black text-slate-800 mb-2">Wait!</h3><p className="text-slate-500 font-bold mb-6">真的不自己再試試看嗎？<br />自己拼出來會很有成就感喔！</p><div className="flex gap-3 justify-center"><GameButton onClick={() => setShowGiveUpConfirm(false)} color="blue" className="text-sm">再試一次</GameButton><GameButton onClick={confirmGiveUp} color="gray" className="text-sm">我看答案</GameButton></div></div></div>)}
+                </div>);
+        };
+
+        // --- 元件 2: 測驗模式 ---
+        const QuizMode = ({ data, grammarData }) => {
+            const [quizType, setQuizType] = useState('choice');
+            const [status, setStatus] = useState('menu');
+            const [currentQIndex, setCurrentQIndex] = useState(0);
+            const [score, setScore] = useState(0);
+            const [quizData, setQuizData] = useState([]);
+            const [selectedOption, setSelectedOption] = useState(null);
+            const [spellingData, setSpellingData] = useState([]);
+            const [timeLeft, setTimeLeft] = useState(7);
+            const [history, setHistory] = useState([]);
+            const [spellingHistory, setSpellingHistory] = useState([]);
+
+            const startChoiceQuiz = () => {
+                if (!data || data.length === 0) return;
+                const allVocabQuestions = [];
+                data.forEach(target => {
+                    const distractors1 = shuffleArray(data.filter(w => w.id !== target.id)).slice(0, 3);
+                    allVocabQuestions.push({ questionText: target.word, correctId: target.id, correctAnswer: target.chinese, options: shuffleArray([target, ...distractors1]).map(o => ({ id: o.id, text: o.chinese, isCorrect: o.id === target.id })), hint: "請選出中文意思", audio: target.word });
+                    const distractors2 = shuffleArray(data.filter(w => w.id !== target.id)).slice(0, 3);
+                    allVocabQuestions.push({ questionText: target.chinese, correctId: target.id, correctAnswer: target.word, options: shuffleArray([target, ...distractors2]).map(o => ({ id: o.id, text: o.word, isCorrect: o.id === target.id })), hint: "請選出英文單字", audio: target.word });
+                });
+                const selectedQuestions = shuffleArray(allVocabQuestions).slice(0, 10);
+                setQuizData(selectedQuestions); setCurrentQIndex(0); setScore(0); setHistory([]); setSelectedOption(null); setQuizType('choice'); setStatus('playing'); setTimeLeft(7);
+            };
+            const startSpellingQuiz = (type) => { let filteredData = []; if (!data) return; if (type === 'words') { filteredData = data.filter(item => item.part_of_speech !== 'phr.'); } else if (type === 'phrases') { filteredData = data.filter(item => item.part_of_speech === 'phr.'); } if (filteredData.length === 0) { alert("這個單元沒有這類型的題目喔！"); return; } setSpellingData(filteredData); setQuizType('spelling'); setStatus('playing'); };
+            const handleOptionClick = (option) => { if (selectedOption) return; let points = 0; if (option.isCorrect) { points = Math.ceil((timeLeft / 7.0) * 100); if (points <= 0 && timeLeft > 0) points = 10; } const currentQ = quizData[currentQIndex]; setHistory(prev => [...prev, { q: currentQ.questionText, correct: currentQ.correctAnswer, user: option.text, isCorrect: option.isCorrect, points: points }]); setSelectedOption(option); if (currentQ.audio) speakText(currentQ.audio); if (option.isCorrect) { setScore(prev => prev + points); } };
+            const nextQuestion = () => { if (currentQIndex < quizData.length - 1) { setCurrentQIndex(prev => prev + 1); setSelectedOption(null); setTimeLeft(7); } else { setStatus('result'); } };
+
+            useEffect(() => {
+                if (status !== 'playing' || quizType !== 'choice' || selectedOption) return;
+                if (timeLeft <= 0) { const currentQ = quizData[currentQIndex]; setHistory(prev => [...prev, { q: currentQ.questionText, correct: currentQ.correctAnswer, user: "(逾時)", isCorrect: false, points: 0 }]); setSelectedOption({ id: 'timeout' }); speakText("Time's up"); return; }
+                const timer = setInterval(() => { setTimeLeft(prev => prev - 1); }, 1000);
+                return () => clearInterval(timer);
+            }, [timeLeft, status, quizType, selectedOption]);
+
+            const hasPhrases = data ? data.some(item => item.part_of_speech === 'phr.') : false;
+            const hasWords = data ? data.some(item => item.part_of_speech !== 'phr.') : false;
+
+            if (status === 'menu') {
+                return (
+                    <div className="flex flex-col items-center justify-center h-full animate-in fade-in space-y-4 pt-4 overflow-y-auto">
+                        <div className="text-center mb-2"><Gamepad2 className="w-16 h-16 mx-auto text-sky-400 mb-2" /><h2 className="text-2xl font-black text-slate-700">選擇測驗模式</h2></div>
+                        <button onClick={startChoiceQuiz} className="w-full max-w-xs bg-white border-4 border-slate-200 p-5 rounded-3xl hover:border-sky-400 group transition-all shadow-sm hover:shadow-md text-left relative overflow-hidden"><div className="absolute right-[-20px] top-[-20px] bg-sky-100 w-24 h-24 rounded-full group-hover:scale-150 transition-transform duration-500"></div><div className="relative z-10 flex items-center gap-4"><div className="bg-sky-500 text-white p-3 rounded-2xl"><MousePointerClick className="w-6 h-6" /></div><div><h3 className="text-lg font-black text-slate-800">選擇題大挑戰</h3><p className="text-xs text-slate-500 font-bold">10題 限時搶答 (每題7秒)</p></div></div></button>
+                        <div className="w-full max-w-xs space-y-3">
+                            <div className="text-slate-400 text-xs font-black uppercase tracking-wider pl-2">Spelling Mode</div>
+                            {hasWords && (<button onClick={() => startSpellingQuiz('words')} className="w-full bg-white border-4 border-slate-200 p-4 rounded-3xl hover:border-violet-400 group transition-all shadow-sm hover:shadow-md text-left relative overflow-hidden"><div className="absolute right-[-20px] top-[-20px] bg-violet-100 w-20 h-20 rounded-full group-hover:scale-150 transition-transform duration-500"></div><div className="relative z-10 flex items-center gap-3"><div className="bg-violet-500 text-white p-2.5 rounded-2xl"><Keyboard className="w-5 h-5" /></div><div><h3 className="text-lg font-black text-slate-800">拼字：單字篇</h3><p className="text-xs text-slate-500 font-bold">Vocabulary Only</p></div></div></button>)}
+                            {hasPhrases && (<button onClick={() => startSpellingQuiz('phrases')} className="w-full bg-white border-4 border-slate-200 p-4 rounded-3xl hover:border-pink-400 group transition-all shadow-sm hover:shadow-md text-left relative overflow-hidden"><div className="absolute right-[-20px] top-[-20px] bg-pink-100 w-20 h-20 rounded-full group-hover:scale-150 transition-transform duration-500"></div><div className="relative z-10 flex items-center gap-3"><div className="bg-pink-500 text-white p-2.5 rounded-2xl"><Filter className="w-5 h-5" /></div><div><h3 className="text-lg font-black text-slate-800">拼字：片語篇</h3><p className="text-xs text-slate-500 font-bold">Phrases & Idioms</p></div></div></button>)}
+                        </div>
+                    </div>
+                );
+            }
+            if (status === 'result') {
+                const maxScore = quizType === 'spelling' ? 100 : 1000;
+                let feedbackTitle = ""; let feedbackColor = "";
+                const pct = score / maxScore;
+                if (pct >= 0.9) { feedbackTitle = "完美！🏆"; feedbackColor = "text-yellow-500"; }
+                else if (pct >= 0.8) { feedbackTitle = "不錯！👍"; feedbackColor = "text-emerald-500"; }
+                else if (pct >= 0.6) { feedbackTitle = "還可以 💪"; feedbackColor = "text-sky-500"; }
+                else { feedbackTitle = "加油加油！再試一次！"; feedbackColor = "text-slate-500"; }
+
+                const reasonLabel = (reason) => {
+                    if (reason === 'hints') return { text: '提示超過2次', color: 'bg-orange-100 text-orange-700 border-orange-300' };
+                    if (reason === 'solved') return { text: '直接看解答', color: 'bg-purple-100 text-purple-700 border-purple-300' };
+                    if (reason === 'errors') return { text: '錯誤超過3次', color: 'bg-red-100 text-red-700 border-red-300' };
+                    return null;
+                };
+
+                return (
+                    <div className="flex flex-col h-full animate-in zoom-in pt-4 pb-20 overflow-y-auto">
+                        <div className="flex flex-col items-center justify-center mb-6">
+                            <Trophy className={`w-24 h-24 drop-shadow-xl animate-bounce mb-2 ${pct >= 0.8 ? 'text-yellow-400' : 'text-slate-300'}`} />
+                            <h2 className={`text-3xl font-black mb-1 ${feedbackColor}`}>{feedbackTitle}</h2>
+                            <div className="text-6xl font-black text-slate-800 mb-2">{score} <span className="text-xl text-slate-400">/ {maxScore} 分</span></div>
+                        </div>
+
+                        {/* 選擇題結果 */}
+                        {quizType === 'choice' && history.length > 0 && (
+                            <div className="bg-white rounded-2xl shadow-sm border-2 border-slate-200 overflow-hidden mx-1 mb-6">
+                                <table className="w-full text-sm text-left">
+                                    <thead className="text-xs text-slate-500 uppercase bg-slate-100 border-b border-slate-200">
+                                        <tr><th className="px-3 py-3 w-10">#</th><th className="px-3 py-3">題目</th><th className="px-3 py-3 text-center">得分</th></tr>
+                                    </thead>
+                                    <tbody>
+                                        {history.map((record, idx) => (
+                                            <tr key={idx} className={`border-b border-slate-100 last:border-0 ${record.isCorrect ? 'bg-emerald-50/40' : 'bg-rose-50/40'}`}>
+                                                <td className="px-3 py-3 font-bold text-slate-400">{idx + 1}</td>
+                                                <td className="px-3 py-3">
+                                                    <div className="font-bold text-slate-700">{record.q}</div>
+                                                    <div className="flex flex-col text-xs mt-1 gap-0.5">
+                                                        <div className={record.isCorrect ? "text-emerald-600 font-bold" : "text-rose-500 font-bold"}>
+                                                            {record.isCorrect ? "✅ 你答對了" : `❌ 您選: ${record.user}`}
+                                                        </div>
+                                                        {!record.isCorrect && (<div className="text-emerald-600 font-bold">✅ 正解: {record.correct}</div>)}
+                                                    </div>
+                                                </td>
+                                                <td className="px-3 py-3 text-center font-black">{record.points > 0 ? <span className="text-emerald-500">+{record.points}</span> : <span className="text-slate-300">0</span>}</td>
+                                            </tr>
+                                        ))}
+                                    </tbody>
+                                </table>
+                            </div>
+                        )}
+
+                        {/* 拼字測驗結果 */}
+                        {quizType === 'spelling' && spellingHistory.length > 0 && (
+                            <div className="space-y-2 mx-1 mb-6">
+                                {spellingHistory.map((record, idx) => {
+                                    const noScore = !record.scored;
+                                    const tag = noScore ? reasonLabel(record.reason) : null;
+                                    return (
+                                        <div key={idx} className={`bg-white rounded-2xl border-l-8 px-4 py-3 shadow-sm flex items-center justify-between ${record.scored ? 'border-emerald-400' : 'border-rose-400'}`}>
+                                            <div className="flex items-center gap-3">
+                                                <span className="font-black text-slate-300 text-sm w-5">{idx + 1}</span>
+                                                <div>
+                                                    <div className="font-black text-lg text-slate-700">{record.word}</div>
+                                                    {tag && <span className={`text-xs font-bold px-2 py-0.5 rounded-full border ${tag.color}`}>{tag.text}</span>}
+                                                </div>
+                                            </div>
+                                            <div className="font-black text-lg">
+                                                {record.scored
+                                                    ? <span className="text-emerald-500 flex items-center gap-1"><CheckCircle className="w-5 h-5" /> 正確</span>
+                                                    : <span className="text-rose-400 flex items-center gap-1"><XCircle className="w-5 h-5" /> 錯誤</span>
+                                                }
+                                            </div>
+                                        </div>
+                                    );
+                                })}
+                            </div>
+                        )}
+
+                        <div className="flex justify-center pb-8"><GameButton onClick={() => setStatus('menu')} color="green" className="w-64 text-xl py-4">回到選單</GameButton></div>
+                    </div>
+                );
+            }
+            if (quizType === 'spelling') return <SpellingQuiz data={spellingData} onFinish={(s, hist) => { setScore(s); setSpellingHistory(hist || []); setStatus('result'); }} />;
+            const currentQ = quizData[currentQIndex];
+            return (
+                <div className="flex flex-col h-full max-w-md mx-auto">
+                    <div className="mb-4 px-1 flex items-center justify-between"><div className="bg-white border-2 border-slate-200 px-3 py-1 rounded-full font-black text-slate-400 text-xs shadow-sm">STAGE {currentQIndex + 1} / {quizData.length}</div><div className="bg-yellow-100 border-2 border-yellow-300 px-3 py-1 rounded-full font-black text-yellow-700 text-xs shadow-sm">SCORE: {score}</div></div>
+                    <div className="relative h-6 bg-slate-100 rounded-full overflow-hidden border-2 border-slate-300 mb-4 mx-1"><div className={`h-full transition-all duration-1000 ease-linear ${timeLeft <= 3 ? 'bg-rose-500' : 'bg-sky-400'}`} style={{ width: `${(timeLeft / 7) * 100}%` }}></div><div className="absolute inset-0 flex items-center justify-center text-xs font-black text-slate-600 drop-shadow-sm"><Timer className="w-3 h-3 mr-1" /> {timeLeft}s (滿分遞減)</div></div>
+                    <div className="bg-white border-4 border-b-8 border-violet-200 rounded-3xl p-8 mb-6 text-center relative overflow-hidden shadow-sm group"><div className="absolute top-3 left-1/2 -translate-x-1/2 bg-violet-100 text-violet-600 px-3 py-1 rounded-lg text-xs font-black uppercase tracking-wider">Question</div><h2 className="font-black text-3xl text-slate-800 mt-6 leading-relaxed">{currentQ.questionText}</h2>{currentQ.audio && <button onClick={() => speakText(currentQ.audio)} className="mt-4 p-2 bg-slate-100 rounded-full text-slate-400 hover:text-violet-500 hover:bg-violet-50 border-2 border-slate-200 hover:border-violet-200 transition-colors"><Volume2 className="w-6 h-6 mx-auto" /></button>}</div>
+                    <div className="grid grid-cols-1 gap-3 pb-8">{currentQ.options.map((option, idx) => { let color = "white"; if (selectedOption) { if (option.isCorrect) color = "green"; else if (selectedOption.id === option.id && !option.isCorrect) color = "red"; else if (selectedOption.id === 'timeout' && !option.isCorrect) color = "white"; } return (<GameButton key={idx} disabled={!!selectedOption} onClick={() => handleOptionClick(option)} color={color} className={`justify-between py-4 text-left ${!selectedOption && "hover:bg-slate-50"}`}><span className="flex items-center gap-3 text-left"><span className="w-8 h-8 rounded-lg bg-slate-100 text-slate-500 border-2 border-slate-200 flex items-center justify-center font-black shrink-0">{String.fromCharCode(65 + idx)}</span><span className="text-lg">{option.text}</span></span>{selectedOption && option.isCorrect && <CheckCircle className="w-6 h-6 animate-bounce" />}{selectedOption && selectedOption.id === option.id && !option.isCorrect && <XCircle className="w-6 h-6 animate-pulse" />}</GameButton>); })}</div>
+                    {selectedOption && <div className="fixed bottom-6 left-0 right-0 p-4 bg-transparent pointer-events-none flex justify-center z-20"><button onClick={nextQuestion} className="pointer-events-auto bg-slate-800 text-white px-8 py-4 rounded-2xl font-black text-xl shadow-2xl hover:bg-slate-900 hover:scale-105 transition-all flex items-center gap-2 animate-in slide-in-from-bottom-4 border-b-8 border-black">{currentQIndex < quizData.length - 1 ? "NEXT STAGE" : "FINISH"} <ChevronRight className="w-6 h-6" /></button></div>}
+                </div>
+            );
+        };
+
+        const renderBr = (text) => text.split('<br>').map((t, i) => i === 0 ? t : <React.Fragment key={i}><br />{t}</React.Fragment>);
+
+        // --- 元件 4: 文法模式 ---
+        const GrammarMode = ({ grammarData }) => {
+            const [mode, setMode] = useState('notes');
+            const [currentQuizIndex, setCurrentQuizIndex] = useState(0);
+            const [score, setScore] = useState(0);
+            const [status, setStatus] = useState('menu');
+            const [selectedOption, setSelectedOption] = useState(null);
+            const [quizList, setQuizList] = useState([]);
+            const [history, setHistory] = useState([]);
+            const [showAllQuestions, setShowAllQuestions] = useState(false);
+            const [previewTab, setPreviewTab] = useState('quiz');
+
+            const optionLetter = (idx) => String.fromCharCode(65 + idx);
+            const stripOptionLabel = (value) => String(value || '').replace(/^[A-D]\.\s*/, '');
+            const normalizeGrammarItem = (item) => {
+                const originalOptions = item.options || [];
+                const options = originalOptions.map(stripOptionLabel);
+                const answer = /^[A-D]$/.test(item.answer || '') ? stripOptionLabel(originalOptions[item.answer_index]) : stripOptionLabel(item.answer);
+                const answer_index = options.findIndex(opt => opt === answer);
+                return { ...item, options, answer, answer_index: answer_index >= 0 ? answer_index : item.answer_index };
+            };
+            const prepareQuizData = (rawList) => { if (!rawList) return []; const selected = shuffleArray(rawList.map(normalizeGrammarItem)).slice(0, 10); return selected.map(item => ({ ...item, options: shuffleArray([...item.options]) })); };
+            const handleShowMasterList = () => { const pwd = prompt("請輸入管理員密碼："); if (pwd === "1999") { setShowAllQuestions(true); } else if (pwd !== null) { alert("密碼錯誤！"); } };
+            useEffect(() => { setMode('notes'); setStatus('menu'); }, [grammarData]);
+            const startQuiz = () => { if (grammarData?.quiz) { setQuizList(prepareQuizData(grammarData.quiz)); setCurrentQuizIndex(0); setScore(0); setHistory([]); setSelectedOption(null); setStatus('playing'); } };
+            const handleOptionClick = (option, correctAns, qItem) => { if (selectedOption) return; setSelectedOption(option); const isCorrect = option === correctAns; if (isCorrect) { setScore(prev => { const currentCorrect = history.filter(h => h.isCorrect).length + 1; return Math.round((currentCorrect / quizList.length) * 100); }); playSound('correct'); } else { playSound('wrong'); } setHistory(prev => [...prev, { question: qItem.question, userAns: option, correctAns: correctAns, isCorrect: isCorrect, hint: qItem.hint }]); };
+            const nextQuestion = () => { if (currentQuizIndex < quizList.length - 1) { setCurrentQuizIndex(prev => prev + 1); setSelectedOption(null); } else { setStatus('result'); } };
+            const restartQuiz = () => { startQuiz(); };
+            if (!grammarData || !grammarData.notes) return <div>Grammar content coming soon!</div>;
+
+            return (
+                <div className="flex flex-col h-full animate-in fade-in relative">
+                    <button onClick={handleShowMasterList} className="absolute -top-1 right-0 p-2 text-slate-300 hover:text-indigo-500 transition-colors z-10" title="查看所有題庫 (需密碼)"><FileText className="w-5 h-5" /></button>
+                    <div className="flex justify-center mb-6 gap-2">
+                        <GameButton onClick={() => setMode('notes')} active={mode === 'notes'} color="white" className="text-sm px-6"><PenTool className="w-4 h-4" /> 筆記</GameButton>
+                        <GameButton onClick={() => { setMode('quiz'); startQuiz(); }} active={mode === 'quiz'} color="white" className="text-sm px-6"><CheckCircle className="w-4 h-4" /> 挑戰</GameButton>
+                    </div>
+                    {mode === 'notes' && (
+                        <div className="flex-1 overflow-y-auto pb-20 space-y-4">
+                            {grammarData.tips && (<div className="bg-yellow-50 border-4 border-yellow-200 rounded-3xl p-5 mb-4 shadow-sm animate-in slide-in-from-top-2"><h3 className="text-xl font-black text-yellow-700 mb-3 flex items-center gap-2"><Lightbulb className="w-6 h-6 fill-yellow-400 text-yellow-600" /> 作答小技巧 (Exam Tips)</h3><div className="grid grid-cols-1 gap-2">{grammarData.tips.map((tip, i) => (<div key={i} className="bg-white p-3 rounded-xl border-l-4 border-yellow-400 shadow-sm flex flex-col sm:flex-row sm:items-center gap-1 sm:gap-3"><span className="font-black text-slate-700 bg-yellow-100 px-2 py-0.5 rounded text-sm whitespace-nowrap">{tip.label}</span><span className="text-slate-600 text-sm font-bold">{tip.text}</span></div>))}</div></div>)}
+                            {grammarData.notes.map((note, idx) => (<div key={idx} className="bg-white border-4 border-slate-200 rounded-3xl p-6 shadow-sm hover:border-indigo-300 transition-colors"><h3 className="text-xl font-black text-indigo-600 mb-2 flex items-center gap-2"><div className="w-8 h-8 rounded-full bg-indigo-100 flex items-center justify-center text-indigo-500 text-sm">{idx + 1}</div>{note.title}</h3><div className="bg-slate-100 p-3 rounded-xl font-bold text-slate-700 mb-3 border-l-4 border-slate-400 whitespace-pre-line">{note.rule}</div><p className="text-slate-500 text-sm mb-4 font-bold whitespace-pre-line">{note.description}</p><div className="space-y-2">{note.examples.map((ex, i) => (<div key={i} className="flex gap-2 text-slate-600 text-sm font-medium"><span className="text-green-500 font-bold">✓</span> {ex}</div>))}</div></div>))}
+                        </div>
+                    )}
+                    {mode === 'quiz' && (
+                        status === 'result' ? (
+                            <div className="flex flex-col h-full animate-in zoom-in pb-20 overflow-y-auto">
+                                <div className="flex flex-col items-center justify-center mb-6 pt-4"><Trophy className="w-20 h-20 text-yellow-400 drop-shadow-lg mb-2" /><h2 className="text-3xl font-black text-slate-800 mb-1">測驗完成！</h2><div className="text-5xl font-black text-indigo-600 mb-4">{score} <span className="text-xl text-slate-400">/ 100 分</span></div><GameButton onClick={restartQuiz} color="green" className="w-48 text-lg">再測驗一次</GameButton></div>
+                                <div className="space-y-4 px-2">{history.map((item, idx) => (<div key={idx} className={`bg-white border-l-8 rounded-xl p-4 shadow-sm ${item.isCorrect ? 'border-emerald-400' : 'border-rose-400'}`}><div className="flex items-start gap-3 mb-2"><div className={`w-8 h-8 rounded-full flex items-center justify-center text-white font-bold shrink-0 ${item.isCorrect ? 'bg-emerald-500' : 'bg-rose-500'}`}>{item.isCorrect ? <CheckCircle size={18} /> : <XCircle size={18} />}</div><div className="flex-1"><h4 className="font-bold text-slate-800 text-lg leading-relaxed">{item.question.split(/_{6,}/).map((part, i, arr) => (<React.Fragment key={i}>{renderBr(part)}{i < arr.length - 1 && (<span className={`inline-block border-b-4 mx-1 font-black px-2 rounded ${item.isCorrect ? 'text-emerald-600 border-emerald-400 bg-emerald-50' : 'text-rose-600 border-rose-400 bg-rose-50'}`}>{item.correctAns}</span>)}</React.Fragment>))}</h4><div className="flex flex-wrap gap-2 mt-2 text-sm"><span className={`px-2 py-1 rounded font-bold ${item.isCorrect ? 'bg-emerald-100 text-emerald-700' : 'bg-rose-100 text-rose-700'}`}>你的答案: {item.userAns}</span>{!item.isCorrect && (<span className="px-2 py-1 rounded font-bold bg-emerald-100 text-emerald-700">正解: {item.correctAns}</span>)}</div></div></div><div className="mt-3 bg-indigo-50 border-2 border-indigo-100 rounded-lg p-3 flex items-start gap-2"><Info className="w-5 h-5 text-indigo-500 shrink-0 mt-0.5" /><p className="text-indigo-700 text-sm font-bold">{item.hint}</p></div></div>))}</div>
+                            </div>
+                        ) : (
+                            <div className="flex flex-col h-full max-w-md mx-auto relative pt-4">
+                                {quizList.length > 0 && (<>
+                                    <div className="mb-4 flex justify-between items-center px-1"><span className="text-xs font-black text-slate-400 uppercase tracking-wider">Question {currentQuizIndex + 1} / {quizList.length}</span><span className="text-xs font-black text-yellow-600 bg-yellow-100 px-2 py-1 rounded-lg">SCORE: {score}</span></div>
+                                    <div className="bg-white border-4 border-b-8 border-indigo-200 rounded-3xl p-6 mb-6 min-h-[140px] flex items-center justify-center text-center shadow-sm relative"><h3 className="text-xl font-black text-slate-700 leading-relaxed">{quizList[currentQuizIndex].question.split(/_{6,}/).map((part, i, arr) => (<React.Fragment key={i}>{renderBr(part)}{i < arr.length - 1 && (selectedOption ? (<span className={`inline-block min-w-[60px] border-b-4 mx-1 font-black ${selectedOption === quizList[currentQuizIndex].answer ? 'text-emerald-500 border-emerald-400' : 'text-rose-500 border-rose-400'}`}>{quizList[currentQuizIndex].answer}</span>) : (<span className="inline-block min-w-[60px] border-b-4 mx-1 font-bold text-indigo-600 border-indigo-400">?</span>))}</React.Fragment>))}</h3></div>
+                                    <div className="grid grid-cols-1 gap-3">{quizList[currentQuizIndex].options.map((opt, idx) => { const isCorrect = opt === quizList[currentQuizIndex].answer; let btnColor = "white"; if (selectedOption) { if (isCorrect) btnColor = "green"; else if (selectedOption === opt) btnColor = "red"; } return (<GameButton key={idx} onClick={() => handleOptionClick(opt, quizList[currentQuizIndex].answer, quizList[currentQuizIndex])} disabled={!!selectedOption} color={btnColor} className="py-3 text-lg justify-between"><span className="flex items-center gap-3 text-left"><span className="w-8 h-8 rounded-lg bg-slate-100 text-slate-500 border-2 border-slate-200 flex items-center justify-center font-black shrink-0">{optionLetter(idx)}</span><span>{opt}</span></span>{selectedOption && isCorrect && <CheckCircle className="w-5 h-5" />}{selectedOption === opt && !isCorrect && <XCircle className="w-5 h-5" />}</GameButton>) })}</div>
+                                    {selectedOption && (<div className="mt-4 animate-in fade-in slide-in-from-bottom-2"><div className={`p-4 rounded-xl border-l-4 mb-4 shadow-sm ${selectedOption === quizList[currentQuizIndex].answer ? 'bg-emerald-50 border-emerald-500 text-emerald-900' : 'bg-rose-50 border-rose-500 text-rose-900'}`}><div className="flex items-center gap-2 mb-2 font-black text-lg">{selectedOption === quizList[currentQuizIndex].answer ? <><CheckCircle className="w-6 h-6" /> 答對了！</> : <><XCircle className="w-6 h-6" /> 答錯了！</>}</div><div className="bg-white/80 p-3 rounded-lg border border-black/10 shadow-inner"><p className="text-sm text-slate-500 font-bold mb-1">解釋：</p><p className="text-base font-bold text-slate-800">{quizList[currentQuizIndex].hint}</p></div></div><div className="flex justify-center"><GameButton onClick={nextQuestion} color="blue" className="w-full text-lg py-3 shadow-lg border-b-4 border-blue-600 active:border-b-0">{currentQuizIndex < quizList.length - 1 ? "下一題" : "看成績"} <ChevronRight className="w-5 h-5" /></GameButton></div></div>)}
+                                </>)}
+                            </div>
+                        )
+                    )}
+                    {showAllQuestions && (
+                        <div className="fixed inset-0 bg-black/60 backdrop-blur-sm z-50 flex items-center justify-center p-4 animate-in fade-in">
+                            <div className="bg-white rounded-3xl w-full max-w-lg h-[80vh] flex flex-col shadow-2xl animate-in zoom-in border-4 border-slate-200">
+                                <div className="p-4 border-b-2 border-slate-100 flex justify-between items-center bg-slate-50 rounded-t-3xl"><h3 className="text-xl font-black text-slate-700 flex items-center gap-2"><Library className="w-6 h-6 text-indigo-500" /> 題庫總覽</h3><button onClick={() => setShowAllQuestions(false)} className="p-2 hover:bg-slate-200 rounded-full transition-colors"><X className="w-6 h-6 text-slate-500" /></button></div>
+                                <div className="flex p-2 gap-2 bg-slate-50 border-b border-slate-200"><button onClick={() => setPreviewTab('quiz')} className={`flex-1 py-2 rounded-xl font-bold text-sm transition-all ${previewTab === 'quiz' ? 'bg-white shadow text-indigo-600 border border-slate-200' : 'text-slate-400 hover:text-slate-600'}`}>文法選擇題 ({grammarData.quiz.length})</button></div>
+                                <div className="flex-1 overflow-y-auto p-4 bg-slate-50/50">
+                                    <div className="space-y-3">{grammarData.quiz.map((item, idx) => (<div key={idx} className="bg-white p-4 rounded-xl border-2 border-slate-100 shadow-sm"><div className="flex gap-3"><div className="font-black text-slate-300 text-sm pt-1">{String(idx + 1).padStart(2, '0')}</div><div className="flex-1"><div className="font-bold text-slate-700 text-base mb-2">{item.question.replace(/_{6,}/, `(${item.answer})`)}</div><div className="flex flex-wrap gap-2 mb-2">{item.options.map((opt, optIdx) => (<span key={optIdx} className={`text-xs px-2 py-1 rounded border-2 ${opt === item.answer ? 'bg-emerald-100 border-emerald-200 text-emerald-700 font-bold' : 'bg-white border-slate-200 text-slate-500'}`}>{opt}</span>))}</div><div className="text-xs font-medium text-slate-400 bg-slate-100 px-2 py-1 rounded inline-block">💡 {item.hint}</div></div></div></div>))}</div>
+                                </div>
+                            </div>
+                        </div>
+                    )}
+                </div>
+            );
+        };
+
+        // ── 元件 5: 遊戲模式 ──────────────────────────────────────────────────
+
+        const GAME_COMBO_TIERS = [
+            { min: 8, label: 'FEVER!!!', mult: 5, color: 'text-red-400', bg: 'bg-red-950 border-red-600', icon: '🔥🔥🔥' },
+            { min: 5, label: 'ON FIRE!', mult: 3, color: 'text-orange-400', bg: 'bg-orange-950 border-orange-600', icon: '🔥🔥' },
+            { min: 3, label: 'HOT!', mult: 2, color: 'text-yellow-400', bg: 'bg-yellow-950 border-yellow-700', icon: '🔥' },
+            { min: 0, label: '', mult: 1, color: 'text-slate-500', bg: 'bg-slate-800 border-slate-700', icon: '' },
+        ];
+        const getGameTier = (combo) => GAME_COMBO_TIERS.find(t => combo >= t.min);
+
+        const GAME_BOSSES = [
+            { emoji: '🐉', name: '單字龍', enrageEmoji: '😡🐉' },
+            { emoji: '👹', name: '暗黑魔王', enrageEmoji: '👿' },
+            { emoji: '🤖', name: 'AI 出題機', enrageEmoji: '💀🤖' },
+            { emoji: '👾', name: '拼字怪', enrageEmoji: '👾' },
+            { emoji: '🦑', name: '片語章魚', enrageEmoji: '🦑💢' },
+        ];
+        const BOSS_MAX_HP = 150;
+        const BOSS_HEARTS = 3;
+        const SPEED_WINDOW = 4;
+
+        const getBaseDmg = (combo) => { if (combo >= 8) return 25; if (combo >= 5) return 20; if (combo >= 3) return 15; return 10; };
+        const getSpeedMult = (sec) => { if (sec < 1) return 2.0; if (sec < 2) return 1.5; if (sec < 3) return 1.2; return 1.0; };
+        const getSpeedLabel = (sec) => {
+            if (sec < 1) return { text: '⚡ 閃電！×2.0', color: 'text-yellow-300' };
+            if (sec < 2) return { text: '🔥 超快！×1.5', color: 'text-orange-300' };
+            if (sec < 3) return { text: '💨 快速 ×1.2', color: 'text-sky-300' };
+            return { text: '', color: '' };
+        };
+
+        const buildGameQ = (target, pool) => {
+            const showEn = Math.random() > 0.5;
+            const dist = shuffleArray(pool.filter(w => w.id !== target.id)).slice(0, 3);
+            return {
+                prompt: showEn ? target.chinese : target.word,
+                promptType: showEn ? '選出英文單字' : '選出中文意思',
+                audio: target.word,
+                options: shuffleArray([target, ...dist]).map(o => ({ id: o.id, text: showEn ? o.word : o.chinese, isCorrect: o.id === target.id })),
+            };
+        };
+
+        const LS_GAME = {
+            survivalScore: 'survival_best_score',
+            survivalWords: 'survival_best_words',
+            bossWins: 'boss_win_count',
+            bossBestCombo: 'boss_best_combo',
+        };
+
+        const GameComboBar = ({ combo }) => {
+            const tier = getGameTier(combo);
+            return (
+                <div className={`h-12 flex items-center justify-center rounded-2xl border-2 transition-all duration-300 ${tier.bg}`}>
+                    {combo >= 3
+                        ? <div className={`font-black text-base ${tier.color} flex items-center gap-1.5 combo-grow`} key={combo}>{tier.icon} {combo} 連勝！ ×{tier.mult} {tier.label}</div>
+                        : combo > 0
+                            ? <div className="text-slate-400 font-bold text-sm">{combo} 連勝 — 再 {3 - combo} 題達到 ×2！</div>
+                            : <div className="text-slate-700 font-bold text-xs">連勝可獲得倍率加分 🔥</div>
+                    }
+                </div>
+            );
+        };
+
+        const GameOptBtn = ({ option, selectedId, onClick }) => {
+            let cls = 'bg-slate-700 border-slate-600 text-white hover:bg-slate-600';
+            if (selectedId) {
+                if (option.isCorrect) cls = 'bg-emerald-500 border-emerald-700 text-white';
+                else if (selectedId === option.id) cls = 'bg-rose-500 border-rose-700 text-white';
+                else cls = 'bg-slate-800 border-slate-800 text-slate-600 opacity-40';
+            }
+            return (
+                <button onClick={() => onClick(option)} disabled={!!selectedId}
+                    className={`${cls} border-b-4 active:border-b-0 active:translate-y-1 rounded-2xl px-4 py-3 font-black text-base transition-all shadow-md disabled:cursor-not-allowed text-left`}>
+                    {option.text}
+                </button>
+            );
+        };
+
+        // ── 生存模式 ──────────────────────────────────────────────────────────
+        const SurvivalMode = ({ allWords, onBack }) => {
+            const INIT_TIME = 30, BONUS = 4, PENALTY = 3, MAX_TIME = 60, SCORE_LIMIT = 1000;
+            const [phase, setPhase] = useState('idle');
+            const [timeLeft, setTimeLeft] = useState(INIT_TIME);
+            const [score, setScore] = useState(0);
+            const [combo, setCombo] = useState(0);
+            const [maxCombo, setMaxCombo] = useState(0);
+            const [wordsOk, setWordsOk] = useState(0);
+            const [question, setQuestion] = useState(null);
+            const [selId, setSelId] = useState(null);
+            const [feedback, setFeedback] = useState(null);
+            const [floatKey, setFloatKey] = useState(null);
+            const [floatPts, setFloatPts] = useState(0);
+            const [shaking, setShaking] = useState(false);
+            const [newBest, setNewBest] = useState(false);
+            const [cleared, setCleared] = useState(false);
+            const [timeBonus, setTimeBonus] = useState(0);
+            const [bestScore, setBestScore] = useState(() => parseInt(localStorage.getItem(LS_GAME.survivalScore) || '0'));
+            const [bestWords, setBestWords] = useState(() => parseInt(localStorage.getItem(LS_GAME.survivalWords) || '0'));
+
+            const tRef = useRef(INIT_TIME), sRef = useRef(0), cRef = useRef(0);
+            const mcRef = useRef(0), wRef = useRef(0), frozenRef = useRef(false);
+
+            const nextQ = useCallback(() => {
+                const t = allWords[Math.floor(Math.random() * allWords.length)];
+                setQuestion(buildGameQ(t, allWords));
+                setSelId(null); setFeedback(null); frozenRef.current = false;
+            }, [allWords]);
+
+            const startGame = () => {
+                tRef.current = INIT_TIME; sRef.current = 0; cRef.current = 0; mcRef.current = 0; wRef.current = 0;
+                setTimeLeft(INIT_TIME); setScore(0); setCombo(0); setMaxCombo(0); setWordsOk(0);
+                setFeedback(null); setSelId(null); setNewBest(false); setShaking(false);
+                setCleared(false); setTimeBonus(0);
+                frozenRef.current = false; setPhase('playing');
+            };
+            useEffect(() => { if (phase === 'playing') nextQ(); }, [phase]);
+            useEffect(() => {
+                if (phase !== 'playing') return;
+                const id = setInterval(() => {
+                    tRef.current -= 1; setTimeLeft(tRef.current);
+                    if (tRef.current <= 0) {
+                        clearInterval(id);
+                        const prev = parseInt(localStorage.getItem(LS_GAME.survivalScore) || '0');
+                        if (sRef.current > prev) {
+                            localStorage.setItem(LS_GAME.survivalScore, String(sRef.current));
+                            localStorage.setItem(LS_GAME.survivalWords, String(wRef.current));
+                            setBestScore(sRef.current); setBestWords(wRef.current); setNewBest(true);
+                        }
+                        setPhase('over');
+                    }
+                }, 1000);
+                return () => clearInterval(id);
+            }, [phase]);
+
+            const handleAnswer = (opt) => {
+                if (frozenRef.current || phase !== 'playing') return;
+                frozenRef.current = true; setSelId(opt.id);
+                if (opt.isCorrect) {
+                    speakText(question.audio); playSound('correct');
+                    const nc = cRef.current + 1; cRef.current = nc;
+                    if (nc > mcRef.current) mcRef.current = nc;
+                    const tier = getGameTier(nc);
+                    if (tier.mult > getGameTier(nc - 1).mult) setTimeout(() => playSound('correct'), 180);
+                    const pts = 10 * tier.mult;
+                    sRef.current += pts; wRef.current += 1;
+                    tRef.current = Math.min(tRef.current + BONUS, MAX_TIME);
+                    setCombo(nc); setMaxCombo(mcRef.current); setScore(sRef.current);
+                    setWordsOk(wRef.current); setTimeLeft(tRef.current); setFeedback('correct');
+                    setFloatPts(pts); setFloatKey(Date.now());
+                    if (sRef.current >= SCORE_LIMIT) {
+                        const tb = tRef.current * 10;
+                        sRef.current += tb;
+                        setTimeBonus(tb); setScore(sRef.current);
+                        const prev = parseInt(localStorage.getItem(LS_GAME.survivalScore) || '0');
+                        if (sRef.current > prev) {
+                            localStorage.setItem(LS_GAME.survivalScore, String(sRef.current));
+                            localStorage.setItem(LS_GAME.survivalWords, String(wRef.current));
+                            setBestScore(sRef.current); setBestWords(wRef.current); setNewBest(true);
+                        }
+                        setCleared(true);
+                        setTimeout(() => setPhase('over'), 600);
+                    } else {
+                        setTimeout(() => nextQ(), 550);
+                    }
+                } else {
+                    playSound('wrong'); cRef.current = 0;
+                    tRef.current = Math.max(tRef.current - PENALTY, 1);
+                    setCombo(0); setTimeLeft(tRef.current); setFeedback('wrong');
+                    setShaking(true); setTimeout(() => setShaking(false), 380);
+                    setTimeout(() => nextQ(), 720);
+                }
+            };
+
+            const tier = getGameTier(combo);
+            const timePct = Math.min((timeLeft / INIT_TIME) * 100, 100);
+            const isDanger = timeLeft <= 7;
+
+            if (phase === 'idle') return (
+                <div className="space-y-4 pb-6">
+                    <div className="text-center pt-2">
+                        <div className="text-5xl mb-2" style={{ filter: 'drop-shadow(0 0 16px rgba(250,204,21,0.5))' }}>⚡</div>
+                        <h2 className="text-2xl font-black text-white">生存模式</h2>
+                        <p className="text-slate-400 font-bold text-sm mt-1">分數衝到 1000 分通關，剩餘秒數換算加分！</p>
+                    </div>
+                    <div className="bg-slate-800 border-2 border-slate-700 rounded-2xl p-4 space-y-2.5">
+                        {[['⏱', '開局 30 秒，答對 +4 秒', 'text-emerald-400'], ['❌', '答錯 -3 秒，連勝歸零', 'text-rose-400'], ['🏆', '達到 1000 分強制結束，剩餘秒數 ×10 加入總分', 'text-yellow-400'], ['🔥', '3 連勝 ×2、5 連勝 ×3、8 連勝 ×5', 'text-orange-400']].map(([icon, text, color]) => (
+                            <div key={text} className="flex items-start gap-3"><span className="text-lg shrink-0">{icon}</span><span className={`font-bold text-sm ${color}`}>{text}</span></div>
+                        ))}
+                    </div>
+                    {bestScore > 0 && (
+                        <div className="bg-yellow-950/60 border-2 border-yellow-700 rounded-2xl p-4 text-center">
+                            <div className="text-yellow-500 text-xs font-black uppercase tracking-widest mb-1">個人最高</div>
+                            <div className="text-yellow-300 font-black text-3xl">{bestScore} <span className="text-yellow-600 text-sm font-bold">分</span></div>
+                            <div className="text-yellow-700 text-xs font-bold mt-0.5">答對 {bestWords} 個單字</div>
+                        </div>
+                    )}
+                    <GameButton onClick={startGame} color="yellow" className="w-full py-4 text-xl">開始挑戰！</GameButton>
+                    <button onClick={onBack} className="w-full text-slate-600 font-bold text-sm hover:text-slate-400 transition-colors flex items-center justify-center gap-1 py-2">
+                        <ChevronLeft className="w-4 h-4" /> 返回選單
+                    </button>
+                </div>
+            );
+
+            if (phase === 'over') return (
+                <div className="space-y-4 pb-6 pt-2 text-center">
+                    <div className="text-5xl">{cleared ? '🏆' : newBest ? '🏆' : '💀'}</div>
+                    <h2 className="text-2xl font-black text-white">{cleared ? '通關！' : '時間到！'}</h2>
+                    {newBest && <div className="bg-yellow-400 text-yellow-900 font-black px-4 py-1 rounded-full text-sm inline-block pop-in">🎉 新紀錄！</div>}
+                    <div className="text-5xl font-black text-yellow-400">{score}</div>
+                    {cleared && timeBonus > 0 && (
+                        <div className="text-sm font-bold text-slate-400">遊戲分 {score - timeBonus} ＋ 剩餘時間加分 {timeBonus}（{timeBonus / 10} 秒 × 10）</div>
+                    )}
+                    <div className="text-slate-400 font-bold text-sm">答對 {wordsOk} 個單字</div>
+                    <div className="bg-slate-800 border-2 border-slate-700 rounded-2xl p-4 grid grid-cols-2 gap-3">
+                        {[['答對單字', wordsOk, 'text-emerald-400'], ['最高連勝', maxCombo, 'text-orange-400'], ['個人最高', bestScore, 'text-yellow-400'], ['最佳單字', bestWords, 'text-sky-400']].map(([label, val, color]) => (
+                            <div key={label} className="text-center">
+                                <div className="text-slate-500 text-xs font-black uppercase mb-0.5">{label}</div>
+                                <div className={`font-black text-xl ${color}`}>{val}</div>
+                            </div>
+                        ))}
+                    </div>
+                    <GameButton onClick={startGame} color="yellow" className="w-full py-4 text-lg"><RefreshCw className="w-5 h-5" /> 再挑戰一次</GameButton>
+                    <button onClick={onBack} className="w-full text-slate-600 font-bold text-sm hover:text-slate-400 transition-colors flex items-center justify-center gap-1 py-1">
+                        <ChevronLeft className="w-4 h-4" /> 返回選單
+                    </button>
+                </div>
+            );
+
+            if (!question) return null;
+            return (
+                <div className={`space-y-3 pb-6 relative ${shaking ? 'game-shake' : ''}`}>
+                    {floatKey && (
+                        <div key={floatKey} className="dmg-float absolute top-16 left-1/2 -translate-x-1/2 z-50 font-black text-2xl text-yellow-400">
+                            +{floatPts}{tier.mult > 1 ? ` ×${tier.mult}` : ''}
+                        </div>
+                    )}
+                    <div className="flex items-center justify-between">
+                        <div className={`font-black text-4xl tabular-nums ${isDanger ? 'text-rose-400' : 'text-white'}`}>{timeLeft}s</div>
+                        <div className="text-right">
+                            <div className="text-yellow-400 font-black text-3xl tabular-nums">{score}</div>
+                            <div className="text-slate-600 text-xs font-bold">{wordsOk} 字</div>
+                        </div>
+                    </div>
+                    <div className="h-2.5 bg-slate-800 rounded-full overflow-hidden border border-slate-700">
+                        <div className={`h-full rounded-full transition-all duration-1000 ease-linear ${isDanger ? 'bg-rose-500' : timeLeft <= 12 ? 'bg-orange-400' : 'bg-emerald-400'}`} style={{ width: `${timePct}%` }} />
+                    </div>
+                    <GameComboBar combo={combo} />
+                    <div className="bg-slate-800 border-4 border-slate-600 rounded-2xl p-5 text-center">
+                        <div className="text-slate-500 text-xs font-black uppercase tracking-widest mb-2">{question.promptType}</div>
+                        <div className="text-white font-black text-xl sm:text-2xl leading-snug break-words">{question.prompt}</div>
+                    </div>
+                    <div className="grid grid-cols-1 gap-2.5">
+                        {question.options.map(opt => <GameOptBtn key={opt.id} option={opt} selectedId={selId} onClick={handleAnswer} />)}
+                    </div>
+                    {feedback === 'correct' && (
+                        <div className="fixed top-5 left-1/2 -translate-x-1/2 bg-emerald-500 text-white font-black px-4 py-2 rounded-full shadow-xl pop-in text-sm z-50 flex items-center gap-1.5">
+                            <CheckCircle className="w-4 h-4" /> 答對！ +{BONUS}秒
+                        </div>
+                    )}
+                    {feedback === 'wrong' && (
+                        <div className="fixed top-5 left-1/2 -translate-x-1/2 bg-rose-500 text-white font-black px-4 py-2 rounded-full shadow-xl pop-in text-sm z-50 flex items-center gap-1.5">
+                            <XCircle className="w-4 h-4" /> 答錯！ -{PENALTY}秒
+                        </div>
+                    )}
+                </div>
+            );
+        };
+
+        // ── Boss 關卡 ──────────────────────────────────────────────────────────
+        const BossMode = ({ allWords, onBack }) => {
+            const [phase, setPhase] = useState('idle');
+            const [boss, setBoss] = useState(GAME_BOSSES[0]);
+            const [bossHp, setBossHp] = useState(BOSS_MAX_HP);
+            const [hearts, setHearts] = useState(BOSS_HEARTS);
+            const [combo, setCombo] = useState(0);
+            const [maxCombo, setMaxCombo] = useState(0);
+            const [question, setQuestion] = useState(null);
+            const [selId, setSelId] = useState(null);
+            const [feedback, setFeedback] = useState(null);
+            const [enraged, setEnraged] = useState(false);
+            const [bossShaking, setBossShaking] = useState(false);
+            const [screenShake, setScreenShake] = useState(false);
+            const [dmgFloat, setDmgFloat] = useState(null);
+            const [speedPct, setSpeedPct] = useState(100);
+            const [hits, setHits] = useState(0);
+            const [winCount, setWinCount] = useState(() => parseInt(localStorage.getItem(LS_GAME.bossWins) || '0'));
+            const [bestCombo, setBestCombo] = useState(() => parseInt(localStorage.getItem(LS_GAME.bossBestCombo) || '0'));
+
+            const bossHpRef = useRef(BOSS_MAX_HP), heartsRef = useRef(BOSS_HEARTS);
+            const cRef = useRef(0), mcRef = useRef(0), hitsRef = useRef(0);
+            const enragedRef = useRef(false), frozenRef = useRef(false), qStartRef = useRef(null);
+
+            const nextQ = useCallback(() => {
+                const t = allWords[Math.floor(Math.random() * allWords.length)];
+                setQuestion(buildGameQ(t, allWords));
+                setSelId(null); setFeedback(null); frozenRef.current = false;
+                qStartRef.current = Date.now(); setSpeedPct(100);
+            }, [allWords]);
+
+            const startGame = () => {
+                const picked = GAME_BOSSES[Math.floor(Math.random() * GAME_BOSSES.length)];
+                bossHpRef.current = BOSS_MAX_HP; heartsRef.current = BOSS_HEARTS;
+                cRef.current = 0; mcRef.current = 0; hitsRef.current = 0;
+                enragedRef.current = false; frozenRef.current = false;
+                setBoss(picked); setBossHp(BOSS_MAX_HP); setHearts(BOSS_HEARTS);
+                setCombo(0); setMaxCombo(0); setHits(0); setEnraged(false);
+                setBossShaking(false); setScreenShake(false); setFeedback(null); setSelId(null);
+                setPhase('playing');
+            };
+            useEffect(() => { if (phase === 'playing') nextQ(); }, [phase]);
+            useEffect(() => {
+                if (phase !== 'playing' || selId) return;
+                const id = setInterval(() => {
+                    if (!qStartRef.current) return;
+                    const elapsed = (Date.now() - qStartRef.current) / 1000;
+                    setSpeedPct(Math.max(0, (1 - elapsed / SPEED_WINDOW) * 100));
+                }, 80);
+                return () => clearInterval(id);
+            }, [question, selId, phase]);
+
+            const handleAnswer = (opt) => {
+                if (frozenRef.current || phase !== 'playing') return;
+                frozenRef.current = true; setSelId(opt.id);
+                if (opt.isCorrect) {
+                    speakText(question.audio); playSound('correct');
+                    const nc = cRef.current + 1; cRef.current = nc;
+                    if (nc > mcRef.current) mcRef.current = nc;
+                    if (getGameTier(nc).mult > getGameTier(nc - 1).mult) setTimeout(() => playSound('correct'), 150);
+                    const elapsed = qStartRef.current ? (Date.now() - qStartRef.current) / 1000 : SPEED_WINDOW;
+                    const speedMult = getSpeedMult(elapsed);
+                    const speedInfo = getSpeedLabel(elapsed);
+                    const dmg = Math.round(getBaseDmg(nc) * speedMult);
+                    bossHpRef.current = Math.max(bossHpRef.current - dmg, 0);
+                    hitsRef.current += 1;
+                    setCombo(nc); setMaxCombo(mcRef.current); setBossHp(bossHpRef.current); setHits(hitsRef.current);
+                    setFeedback('correct'); setDmgFloat({ dmg, speedLabel: speedInfo.text, speedColor: speedInfo.color, key: Date.now() });
+                    setBossShaking(true); setTimeout(() => setBossShaking(false), 380);
+                    if (!enragedRef.current && bossHpRef.current <= BOSS_MAX_HP / 2) {
+                        enragedRef.current = true; setEnraged(true); setTimeout(() => playSound('correct'), 200);
+                    }
+                    if (bossHpRef.current <= 0) {
+                        playSound('correct');
+                        const nw = winCount + 1; localStorage.setItem(LS_GAME.bossWins, String(nw));
+                        if (mcRef.current > bestCombo) { localStorage.setItem(LS_GAME.bossBestCombo, String(mcRef.current)); setBestCombo(mcRef.current); }
+                        setWinCount(nw); setTimeout(() => setPhase('win'), 600);
+                    } else {
+                        setTimeout(() => nextQ(), 600);
+                    }
+                } else {
+                    playSound('wrong'); cRef.current = 0;
+                    const damage = enragedRef.current ? 2 : 1;
+                    heartsRef.current = Math.max(heartsRef.current - damage, 0);
+                    setCombo(0); setHearts(heartsRef.current); setFeedback('wrong');
+                    setScreenShake(true); setTimeout(() => setScreenShake(false), 380);
+                    if (heartsRef.current <= 0) setTimeout(() => setPhase('lose'), 750);
+                    else setTimeout(() => nextQ(), 720);
+                }
+            };
+
+            if (phase === 'idle') return (
+                <div className="space-y-4 pb-6">
+                    <div className="text-center pt-2">
+                        <div className="text-5xl mb-2">👾</div>
+                        <h2 className="text-2xl font-black text-white">Boss 關卡</h2>
+                        <p className="text-slate-400 font-bold text-sm mt-1">打倒 Boss，3 條命不能用完！</p>
+                    </div>
+                    <div className="bg-slate-800 border-2 border-slate-700 rounded-2xl p-4 space-y-2.5">
+                        {[['❤️', `玩家有 ${BOSS_HEARTS} 條命，答錯扣一條`, 'text-rose-400'], ['⚔️', `Boss 有 ${BOSS_MAX_HP} HP，答對造成傷害`, 'text-sky-400'], ['⚡', '越快回答傷害越高（1 秒內 ×2.0）', 'text-yellow-400'], ['🔥', '連勝越高，基礎傷害越大', 'text-orange-400'], ['💢', 'Boss HP 剩一半時進入激怒模式', 'text-red-400']].map(([icon, text, color]) => (
+                            <div key={text} className="flex items-start gap-3"><span className="text-lg shrink-0">{icon}</span><span className={`font-bold text-sm ${color}`}>{text}</span></div>
+                        ))}
+                    </div>
+                    {winCount > 0 && (
+                        <div className="bg-violet-950/80 border-2 border-violet-700 rounded-2xl p-4 text-center">
+                            <div className="text-violet-400 text-xs font-black uppercase tracking-widest mb-1">累計討伐</div>
+                            <div className="text-violet-300 font-black text-3xl">{winCount} <span className="text-violet-600 text-sm font-bold">次</span></div>
+                            <div className="text-violet-700 text-xs font-bold mt-0.5">歷史最高連勝 {bestCombo} 連</div>
+                        </div>
+                    )}
+                    <GameButton onClick={startGame} color="red" className="w-full py-4 text-xl"><Swords className="w-5 h-5" /> 挑戰開始！</GameButton>
+                    <button onClick={onBack} className="w-full text-slate-600 font-bold text-sm hover:text-slate-400 transition-colors flex items-center justify-center gap-1 py-2">
+                        <ChevronLeft className="w-4 h-4" /> 返回選單
+                    </button>
+                </div>
+            );
+
+            if (phase === 'win') return (
+                <div className="space-y-4 pb-6 pt-2 text-center">
+                    <div className="text-6xl select-none" style={{ filter: 'grayscale(0.9) opacity(0.6)' }}>{boss.emoji}</div>
+                    <h2 className="text-3xl font-black text-yellow-400">勝利！</h2>
+                    <p className="text-slate-400 font-bold text-sm">成功擊敗 {boss.name}！</p>
+                    <div className="bg-slate-800 border-2 border-slate-700 rounded-2xl p-4 grid grid-cols-2 gap-3">
+                        {[['命中次數', hits, 'text-sky-400'], ['最高連勝', maxCombo, 'text-orange-400'], ['累計討伐', winCount, 'text-yellow-400'], ['歷史最高連', bestCombo, 'text-violet-400']].map(([label, val, color]) => (
+                            <div key={label} className="text-center">
+                                <div className="text-slate-500 text-xs font-black uppercase mb-0.5">{label}</div>
+                                <div className={`font-black text-xl ${color}`}>{val}</div>
+                            </div>
+                        ))}
+                    </div>
+                    <GameButton onClick={startGame} color="red" className="w-full py-4 text-lg"><RefreshCw className="w-5 h-5" /> 再戰一場</GameButton>
+                    <button onClick={onBack} className="w-full text-slate-600 font-bold text-sm hover:text-slate-400 transition-colors flex items-center justify-center gap-1 py-1">
+                        <ChevronLeft className="w-4 h-4" /> 返回選單
+                    </button>
+                </div>
+            );
+
+            if (phase === 'lose') return (
+                <div className="space-y-3 pb-6 pt-2 text-center">
+                    <div className="text-5xl">💀</div>
+                    <h2 className="text-3xl font-black text-slate-400">敗北...</h2>
+                    <p className="text-slate-500 font-bold text-sm">{boss.name} 剩餘 <span className="text-rose-400 font-black">{bossHp} HP</span></p>
+                    <p className="text-slate-600 font-bold text-xs">命中 {hits} 次，最高 {maxCombo} 連勝</p>
+                    <GameButton onClick={startGame} color="red" className="w-full py-4 text-lg"><RefreshCw className="w-5 h-5" /> 再挑戰一次</GameButton>
+                    <button onClick={onBack} className="w-full text-slate-600 font-bold text-sm hover:text-slate-400 transition-colors flex items-center justify-center gap-1 py-1">
+                        <ChevronLeft className="w-4 h-4" /> 返回選單
+                    </button>
+                </div>
+            );
+
+            if (!question) return null;
+            const hpPct = (bossHp / BOSS_MAX_HP) * 100;
+            return (
+                <div className={`space-y-3 pb-6 relative ${screenShake ? 'game-shake' : ''}`}>
+                    {dmgFloat && (
+                        <div key={dmgFloat.key} className="dmg-float absolute top-24 left-1/2 -translate-x-1/2 z-50 text-center">
+                            <div className="font-black text-2xl text-rose-400">-{dmgFloat.dmg} HP</div>
+                            {dmgFloat.speedLabel && <div className={`font-black text-xs mt-0.5 ${dmgFloat.speedColor}`}>{dmgFloat.speedLabel}</div>}
+                        </div>
+                    )}
+                    <div className={`rounded-2xl border-2 p-3 text-center transition-all duration-500 ${enraged ? 'bg-red-950 border-red-700' : 'bg-slate-800 border-slate-700'}`}>
+                        {enraged && <div className="text-red-400 text-xs font-black uppercase tracking-widest mb-1 animate-pulse">⚠ 激怒模式！ENRAGED!</div>}
+                        <div className={`text-5xl mb-1 select-none leading-none ${bossShaking ? 'boss-shake' : ''}`}>{enraged ? boss.enrageEmoji : boss.emoji}</div>
+                        <div className="text-white font-black text-base mb-2">{boss.name}</div>
+                        <div className="flex items-center gap-2">
+                            <span className="text-slate-500 text-xs font-black">HP</span>
+                            <div className="flex-1 h-3 bg-slate-900 rounded-full overflow-hidden border border-slate-700">
+                                <div className={`h-full rounded-full transition-all duration-300 ${hpPct > 50 ? 'bg-rose-500' : hpPct > 25 ? 'bg-orange-500' : 'bg-red-700'}`} style={{ width: `${hpPct}%` }} />
+                            </div>
+                            <span className="text-slate-400 text-xs font-black w-16 text-right tabular-nums">{bossHp}/{BOSS_MAX_HP}</span>
+                        </div>
+                    </div>
+                    <div className="flex items-center justify-between px-1">
+                        <div className="flex gap-2">
+                            {Array.from({ length: BOSS_HEARTS }).map((_, i) => (
+                                <span key={i} className={`text-xl transition-all ${i < hearts ? 'opacity-100' : 'opacity-20 grayscale'}`}>{i < hearts ? '❤️' : '🖤'}</span>
+                            ))}
+                        </div>
+                        <div className="text-slate-500 text-xs font-bold">{hits} 擊</div>
+                    </div>
+                    <GameComboBar combo={combo} />
+                    <div className="bg-slate-800 border-4 border-slate-600 rounded-2xl p-4 text-center">
+                        <div className="text-slate-500 text-xs font-black uppercase tracking-widest mb-2">{question.promptType}</div>
+                        <div className="text-white font-black text-xl sm:text-2xl leading-snug break-words mb-3">{question.prompt}</div>
+                        <div className="flex items-center gap-2">
+                            <span className="text-xs font-black text-slate-600">⚡</span>
+                            <div className="flex-1 h-1.5 bg-slate-900 rounded-full overflow-hidden">
+                                <div className={`h-full rounded-full transition-none ${speedPct > 50 ? 'bg-yellow-400' : speedPct > 25 ? 'bg-orange-400' : 'bg-rose-500'}`} style={{ width: `${speedPct}%` }} />
+                            </div>
+                            <span className="text-xs font-black text-slate-600 w-10 text-right">
+                                {speedPct > 75 ? '×2.0' : speedPct > 50 ? '×1.5' : speedPct > 25 ? '×1.2' : '×1.0'}
+                            </span>
+                        </div>
+                    </div>
+                    <div className="grid grid-cols-1 gap-2.5">
+                        {question.options.map(opt => <GameOptBtn key={opt.id} option={opt} selectedId={selId} onClick={handleAnswer} />)}
+                    </div>
+                    {feedback === 'correct' && (
+                        <div className="fixed top-5 left-1/2 -translate-x-1/2 bg-emerald-500 text-white font-black px-4 py-2 rounded-full shadow-xl pop-in text-sm z-50 flex items-center gap-1.5">
+                            <CheckCircle className="w-4 h-4" /> 命中！
+                        </div>
+                    )}
+                    {feedback === 'wrong' && (
+                        <div className="fixed top-5 left-1/2 -translate-x-1/2 bg-rose-500 text-white font-black px-4 py-2 rounded-full shadow-xl pop-in text-sm z-50 flex items-center gap-1.5">
+                            <XCircle className="w-4 h-4" /> {enraged ? '暴怒狂擊！-2 命' : '被攻擊！-1 命'}
+                        </div>
+                    )}
+                </div>
+            );
+        };
+
+        // ── 遊戲模式選單 wrapper ──────────────────────────────────────────────
+        const MinerMode = ({ allWords, unitTitle, onBack }) => {
+            const frameRef = useRef(null);
+            const sendMinerData = useCallback(() => {
+                const frame = frameRef.current;
+                if (!frame || !frame.contentWindow) return;
+                frame.contentWindow.postMessage({
+                    type: 'MINER_DATA',
+                    payload: {
+                        unitTitle,
+                        words: allWords,
+                    },
+                }, window.location.origin);
+            }, [allWords, unitTitle]);
+
+            useEffect(() => {
+                const timers = [120, 420, 900].map(delay => setTimeout(sendMinerData, delay));
+                return () => timers.forEach(clearTimeout);
+            }, [sendMinerData]);
+
+            return (
+                <div className="space-y-3">
+                    <div className="flex items-center justify-between gap-3">
+                        <button onClick={onBack} className="text-slate-400 font-bold text-sm hover:text-slate-200 transition-colors flex items-center gap-1 py-1">
+                            <ChevronLeft className="w-4 h-4" /> 回遊戲選單
+                        </button>
+                        <span className="bg-yellow-400 text-yellow-950 text-xs font-black px-3 py-1 rounded-full border-b-2 border-yellow-700">
+                            第 3 個遊戲
+                        </span>
+                    </div>
+                    <div className="rounded-3xl overflow-hidden border-2 border-yellow-700 bg-[#120d0a] shadow-2xl -mx-3 sm:mx-0">
+                        <iframe
+                            ref={frameRef}
+                            title="單字挖金礦"
+                            src={`./miner.html?unit=${encodeURIComponent(unitTitle)}&v=20260527-mobile-text`}
+                            className="w-full h-[calc(100svh-240px)] min-h-[540px] max-h-[760px] sm:h-[82svh] sm:min-h-[680px] border-0 block"
+                            allow="autoplay"
+                            onLoad={sendMinerData}
+                        />
+                    </div>
+                </div>
+            );
+        };
+
+        const BattleMode = ({ allWords, grammarData, unitTitle, onBack }) => {
+            const frameRef = useRef(null);
+            const sendBattleData = useCallback(() => {
+                const frame = frameRef.current;
+                if (!frame || !frame.contentWindow) return;
+                frame.contentWindow.postMessage({
+                    type: 'BATTLE_DATA',
+                    payload: {
+                        unitTitle,
+                        words: allWords,
+                        grammarQuiz: grammarData?.quiz || [],
+                    },
+                }, window.location.origin);
+            }, [allWords, grammarData, unitTitle]);
+
+            useEffect(() => {
+                const id = setTimeout(sendBattleData, 250);
+                return () => clearTimeout(id);
+            }, [sendBattleData]);
+
+            return (
+                <div className="space-y-3">
+                    <div className="flex items-center justify-between gap-3">
+                        <button onClick={onBack} className="text-slate-400 font-bold text-sm hover:text-slate-200 transition-colors flex items-center gap-1 py-1">
+                            <ChevronLeft className="w-4 h-4" /> 回遊戲選單
+                        </button>
+                        <span className="bg-orange-400 text-orange-950 text-xs font-black px-3 py-1 rounded-full border-b-2 border-orange-700">
+                            第 4 個遊戲
+                        </span>
+                    </div>
+                    <div className="rounded-3xl overflow-hidden border-2 border-orange-700 bg-[#0d0d1a] shadow-2xl -mx-3 sm:mx-0">
+                        <iframe
+                            ref={frameRef}
+                            title="英文攻防戰"
+                            src={`./battle.html?unit=${encodeURIComponent(unitTitle)}&v=20260519-difficulty-order`}
+                            className="w-full h-[calc(100svh-220px)] min-h-[620px] max-h-[860px] sm:h-[82svh] sm:min-h-[720px] border-0 block"
+                            onLoad={sendBattleData}
+                        />
+                    </div>
+                </div>
+            );
+        };
+
+        const RunnerMode = ({ allWords, unitTitle, onBack }) => {
+            const frameRef = useRef(null);
+            const sendRunnerData = useCallback(() => {
+                const frame = frameRef.current;
+                if (!frame || !frame.contentWindow) return;
+                frame.contentWindow.postMessage({
+                    type: 'RUNNER_DATA',
+                    payload: {
+                        unitTitle,
+                        words: allWords,
+                    },
+                }, window.location.origin);
+            }, [allWords, unitTitle]);
+
+            useEffect(() => {
+                window.scrollTo({ top: 0 });
+            }, []);
+
+            useEffect(() => {
+                const timers = [120, 420, 900].map(delay => setTimeout(sendRunnerData, delay));
+                return () => timers.forEach(clearTimeout);
+            }, [sendRunnerData]);
+
+            return (
+                <div className="space-y-3">
+                    <div className="flex items-center justify-between gap-3">
+                        <button onClick={onBack} className="text-slate-400 font-bold text-sm hover:text-slate-200 transition-colors flex items-center gap-1 py-1">
+                            <ChevronLeft className="w-4 h-4" /> 回遊戲選單
+                        </button>
+                        <span className="bg-cyan-400 text-cyan-950 text-xs font-black px-3 py-1 rounded-full border-b-2 border-cyan-700">
+                            第 5 個遊戲
+                        </span>
+                    </div>
+                    <div className="rounded-3xl overflow-hidden border-2 border-cyan-700 bg-[#080816] shadow-2xl -mx-3 sm:mx-0">
+                        <iframe
+                            ref={frameRef}
+                            title="8-bit 星際巡航"
+                            src={`./runner.html?unit=${encodeURIComponent(unitTitle)}&v=20260527-runner`}
+                            className="w-full h-[calc(100svh-220px)] min-h-[560px] max-h-[820px] sm:h-[82svh] sm:min-h-[680px] border-0 block"
+                            allow="autoplay"
+                            onLoad={sendRunnerData}
+                        />
+                    </div>
+                </div>
+            );
+        };
+
+        // ── 新版遊戲（中央站 studentgames.pages.dev）──────────────────────────
+        const GAME_BASE = 'https://studentgames.pages.dev';
+        const CENTRAL_GAMES = [
+            { key: 'miner',  title: '單字挖金礦', emoji: '⛏️', desc: '聽發音，抓正確金塊', color: 'amber' },
+            { key: 'bomb',   title: '炸彈英文',   emoji: '💣', desc: '駕駛飛機，炸掉目標單字', color: 'rose' },
+            { key: 'tank',   title: '單字坦克',   emoji: '🦖', desc: '找出樹上正確的單字射下來', color: 'lime' },
+            { key: 'ship',   title: '海岸狙擊手', emoji: '🚢', desc: '瞄準意思正確的船艦擊沉', color: 'sky' },
+            { key: 'runner', title: '英文跑酷',   emoji: '🏃', desc: '邊跑邊選正確答案閃避障礙', color: 'cyan' },
+            { key: 'battle', title: '英文攻防戰', emoji: '⚔️', desc: '答題出兵＋升級＋BOSS 波', color: 'orange' },
+        ];
+
+        const NewGamesMenu = ({ allWords, grammarData, unitTitle, onBack }) => {
+            const openGame = (g) => {
+                const payload = encodeURIComponent(JSON.stringify({
+                    unitTitle,
+                    words: allWords,
+                    grammarQuiz: grammarData?.quiz || [],
+                }));
+                window.open(`${GAME_BASE}/games/${g.key}#lessonData=${payload}`, '_blank');
+            };
+            return (
+                <div className="space-y-4 pb-6">
+                    <div className="flex items-center justify-between gap-3">
+                        <button onClick={onBack} className="text-slate-400 font-bold text-sm hover:text-slate-200 transition-colors flex items-center gap-1 py-1">
+                            <ChevronLeft className="w-4 h-4" /> 回遊戲選單
+                        </button>
+                        <span className="bg-emerald-400 text-emerald-950 text-xs font-black px-3 py-1 rounded-full border-b-2 border-emerald-700">🆕 新版遊戲</span>
+                    </div>
+                    <div className="text-center pt-1">
+                        <div className="text-4xl mb-2">🆕</div>
+                        <h2 className="text-2xl font-black text-white">新版遊戲（6 款）</h2>
+                        <p className="text-slate-500 font-bold text-sm mt-1">點下方遊戲 → 會用本單元單字、在新分頁全螢幕開啟</p>
+                    </div>
+                    {CENTRAL_GAMES.map(g => (
+                        <button key={g.key} onClick={() => openGame(g)}
+                            className="w-full bg-slate-800 border-2 border-slate-700 hover:border-emerald-500 p-5 rounded-2xl text-left transition-all group relative overflow-hidden">
+                            <div className="absolute inset-0 bg-emerald-400/5 opacity-0 group-hover:opacity-100 transition-opacity rounded-2xl" />
+                            <div className="relative flex items-center gap-4">
+                                <div className="text-4xl select-none">{g.emoji}</div>
+                                <div>
+                                    <div className="text-white font-black text-lg">{g.title}</div>
+                                    <div className="text-slate-400 text-sm font-bold mt-0.5">{g.desc}</div>
+                                </div>
+                                <ExternalLink className="w-5 h-5 text-slate-600 group-hover:text-emerald-500 ml-auto transition-colors" />
+                            </div>
+                        </button>
+                    ))}
+                </div>
+            );
+        };
+
+        const GameMode = ({ allWords, grammarData, unitTitle }) => {
+            const [screen, setScreen] = useState('home');
+            if (screen === 'newgames') return <NewGamesMenu allWords={allWords} grammarData={grammarData} unitTitle={unitTitle} onBack={() => setScreen('home')} />;
+            if (screen === 'survival') return <SurvivalMode allWords={allWords} onBack={() => setScreen('home')} />;
+            if (screen === 'boss') return <BossMode allWords={allWords} onBack={() => setScreen('home')} />;
+            if (screen === 'miner') return <MinerMode allWords={allWords} unitTitle={unitTitle} onBack={() => setScreen('home')} />;
+            if (screen === 'battle') return <BattleMode allWords={allWords} grammarData={grammarData} unitTitle={unitTitle} onBack={() => setScreen('home')} />;
+            if (screen === 'runner') return <RunnerMode allWords={allWords} unitTitle={unitTitle} onBack={() => setScreen('home')} />;
+            return (
+                <div className="space-y-4 pb-6">
+                    <div className="text-center pt-2">
+                        <div className="text-4xl mb-2">🎮</div>
+                        <h2 className="text-2xl font-black text-white">單字挑戰</h2>
+                        <p className="text-slate-500 font-bold text-sm mt-1">共 {allWords.length} 個單字 — 選擇模式</p>
+                    </div>
+                    <button onClick={() => setScreen('survival')}
+                        className="w-full bg-slate-800 border-2 border-slate-700 hover:border-yellow-500 p-5 rounded-2xl text-left transition-all group relative overflow-hidden">
+                        <div className="absolute inset-0 bg-yellow-400/5 opacity-0 group-hover:opacity-100 transition-opacity rounded-2xl" />
+                        <div className="relative flex items-center gap-4">
+                            <div className="text-4xl select-none" style={{ filter: 'drop-shadow(0 0 10px rgba(250,204,21,0.4))' }}>⚡</div>
+                            <div>
+                                <div className="text-white font-black text-lg">生存模式</div>
+                                <div className="text-slate-400 text-sm font-bold mt-0.5">計時答題，連勝倍率加分</div>
+                            </div>
+                            <ChevronRight className="w-5 h-5 text-slate-600 group-hover:text-yellow-500 ml-auto transition-colors" />
+                        </div>
+                    </button>
+                    <button onClick={() => setScreen('boss')}
+                        className="w-full bg-slate-800 border-2 border-slate-700 hover:border-rose-500 p-5 rounded-2xl text-left transition-all group relative overflow-hidden">
+                        <div className="absolute inset-0 bg-rose-400/5 opacity-0 group-hover:opacity-100 transition-opacity rounded-2xl" />
+                        <div className="relative flex items-center gap-4">
+                            <div className="text-4xl select-none">👾</div>
+                            <div>
+                                <div className="text-white font-black text-lg">Boss 關卡</div>
+                                <div className="text-slate-400 text-sm font-bold mt-0.5">打倒 Boss，3 條命、連勝傷害</div>
+                            </div>
+                            <ChevronRight className="w-5 h-5 text-slate-600 group-hover:text-rose-500 ml-auto transition-colors" />
+                        </div>
+                    </button>
+                    <button onClick={() => setScreen('miner')}
+                        className="w-full bg-slate-800 border-2 border-slate-700 hover:border-yellow-500 p-5 rounded-2xl text-left transition-all group relative overflow-hidden">
+                        <div className="absolute inset-0 bg-amber-400/5 opacity-0 group-hover:opacity-100 transition-opacity rounded-2xl" />
+                        <div className="relative flex items-center gap-4">
+                            <div className="text-4xl select-none" style={{ filter: 'drop-shadow(0 0 10px rgba(251,191,36,0.45))' }}>⛏️</div>
+                            <div>
+                                <div className="text-white font-black text-lg">單字挖金礦</div>
+                                <div className="text-slate-400 text-sm font-bold mt-0.5">聽發音、移動礦車，抓正確金塊</div>
+                            </div>
+                            <ChevronRight className="w-5 h-5 text-slate-600 group-hover:text-yellow-500 ml-auto transition-colors" />
+                        </div>
+                    </button>
+                    <button onClick={() => setScreen('battle')}
+                        className="w-full bg-slate-800 border-2 border-slate-700 hover:border-orange-500 p-5 rounded-2xl text-left transition-all group relative overflow-hidden">
+                        <div className="absolute inset-0 bg-orange-400/5 opacity-0 group-hover:opacity-100 transition-opacity rounded-2xl" />
+                        <div className="relative flex items-center gap-4">
+                            <div className="text-4xl select-none" style={{ filter: 'drop-shadow(0 0 10px rgba(249,115,22,0.45))' }}>⚔️</div>
+                            <div>
+                                <div className="text-white font-black text-lg">英文攻防戰</div>
+                                <div className="text-slate-400 text-sm font-bold mt-0.5">答題賺金幣、派兵推倒敵方基地</div>
+                            </div>
+                            <ChevronRight className="w-5 h-5 text-slate-600 group-hover:text-orange-500 ml-auto transition-colors" />
+                        </div>
+                    </button>
+                    <button onClick={() => setScreen('runner')}
+                        className="w-full bg-slate-800 border-2 border-slate-700 hover:border-cyan-400 p-5 rounded-2xl text-left transition-all group relative overflow-hidden">
+                        <div className="absolute inset-0 bg-cyan-400/5 opacity-0 group-hover:opacity-100 transition-opacity rounded-2xl" />
+                        <div className="relative flex items-center gap-4">
+                            <div className="text-4xl select-none" style={{ filter: 'drop-shadow(0 0 10px rgba(34,211,238,0.45))' }}>▣</div>
+                            <div>
+                                <div className="text-white font-black text-lg">8-bit 星際巡航</div>
+                                <div className="text-slate-400 text-sm font-bold mt-0.5">點擊航道切換位置，在三條航道撞對單字</div>
+                            </div>
+                            <ChevronRight className="w-5 h-5 text-slate-600 group-hover:text-cyan-400 ml-auto transition-colors" />
+                        </div>
+                    </button>
+                    <button onClick={() => setScreen('newgames')}
+                        className="w-full bg-emerald-900/40 border-2 border-emerald-600 hover:border-emerald-400 p-5 rounded-2xl text-left transition-all group relative overflow-hidden">
+                        <div className="absolute inset-0 bg-emerald-400/10 opacity-0 group-hover:opacity-100 transition-opacity rounded-2xl" />
+                        <div className="relative flex items-center gap-4">
+                            <div className="text-4xl select-none">🆕</div>
+                            <div>
+                                <div className="text-white font-black text-lg">新版遊戲（6 款）</div>
+                                <div className="text-slate-300 text-sm font-bold mt-0.5">挖金礦・炸彈英文・坦克・狙擊手・跑酷・攻防戰</div>
+                            </div>
+                            <ChevronRight className="w-5 h-5 text-emerald-500 group-hover:text-emerald-300 ml-auto transition-colors" />
+                        </div>
+                    </button>
+                </div>
+            );
+        };
+
+        // --- Main App Container (動態殼架構) ---
+        function App() {
+            const [activeTab, setActiveTab] = useState('study');
+            const [currentUnit, setCurrentUnit] = useState(null);
+            const [unitsData, setUnitsData] = useState(null);
+            const [loading, setLoading] = useState(true);
+            const [error, setError] = useState(null);
+
+            const processData = (data) => {
+                Object.keys(data.units).forEach(key => {
+                    // scrambles IDs are already created in python script
+                });
+                setUnitsData(data.units);
+                setCurrentUnit(Object.keys(data.units)[0]);
+                setLoading(false);
+            };
+
+            useEffect(() => {
+                // 依網址的 ?id 載入該學生專屬的單字檔（data/<學校>/<代號>.json）
+                const id = new URLSearchParams(location.search).get('id');
+                if (!id) {
+                    setError('缺少學生代號，請用老師發給你的專屬連結開啟（網址需含 ?id=…）');
+                    setLoading(false);
+                    return;
+                }
+                fetch(encodeURI('data/' + id + '.json'), { cache: 'no-store' })
+                    .then(res => { if (!res.ok) throw new Error(`HTTP ${res.status}`); return res.json(); })
+                    .then(data => {
+                        if (!data || !data.units || !Object.keys(data.units).length) {
+                            throw new Error('此學生檔沒有單元資料');
+                        }
+                        processData(data);
+                    })
+                    .catch(err => {
+                        const tip = location.protocol === 'file:'
+                            ? '（用 file:// 直接開會被瀏覽器擋，請用上線網址或本機 server）'
+                            : '';
+                        setError(err.message + tip);
+                        setLoading(false);
+                    });
+            }, []);
+
+            useEffect(() => { document.body.classList.add('loaded'); }, []);
+
+            if (loading) return (
+                <div className="min-h-screen flex flex-col items-center justify-center bg-sky-50">
+                    <div className="animate-bounce mb-4"><BookOpen className="w-16 h-16 text-sky-400" /></div>
+                    <h2 className="text-2xl font-black text-slate-600 animate-pulse">載入教材中...</h2>
+                </div>
+            );
+            if (error) return (
+                <div className="min-h-screen flex flex-col items-center justify-center bg-sky-50 p-8">
+                    <AlertCircle className="w-16 h-16 text-rose-400 mb-4" />
+                    <h2 className="text-2xl font-black text-slate-700 mb-2">載入失敗</h2>
+                    <p className="text-slate-500 font-bold text-center mb-4">無法讀取 data.json：{error}</p>
+                    <GameButton onClick={() => window.location.reload()} color="blue">重新載入</GameButton>
+                </div>
+            );
+            if (!unitsData || !currentUnit) return null;
+
+            const unitKeys = Object.keys(unitsData);
+            const unitTitle = unitsData[currentUnit].title;
+            const unitData = unitsData[currentUnit].vocab;
+            const unitPhrases = (unitsData[currentUnit].phrases || []).map(p => ({
+                ...p,
+                word: p.phrase,
+                part_of_speech: 'phr.'
+            }));
+            const allStudyData = [...unitData, ...unitPhrases];
+            const unitGrammar = unitsData[currentUnit].grammar;
+            const unitScrambles = unitsData[currentUnit].scrambles;
+
+            return (
+                <div className="min-h-screen font-sans text-slate-800 flex flex-col bg-sky-50 bg-[radial-gradient(#e5e7eb_1px,transparent_1px)] [background-size:16px_16px]">
+                    <div className="bg-white/90 backdrop-blur-sm sticky top-0 z-50 border-b-4 border-slate-200">
+                        <div className="max-w-md mx-auto px-4 py-3">
+                            <div className="flex justify-between items-center mb-3 bg-slate-100 p-2 rounded-2xl border-2 border-slate-200 overflow-x-auto">
+                                <div className="flex items-center gap-2 font-black text-slate-600 text-lg tracking-tight ml-2 mr-2 whitespace-nowrap"><Map className="w-6 h-6 text-sky-500" /><span>MAP</span></div>
+                                <div className="flex gap-2">
+                                    {unitKeys.map((uKey, index) => (
+                                        <button key={uKey} onClick={() => setCurrentUnit(uKey)} className={`px-3 py-1 text-xs sm:text-sm font-black rounded-xl transition-all border-b-4 active:border-b-0 active:translate-y-1 whitespace-nowrap ${currentUnit === uKey ? 'bg-sky-500 border-sky-700 text-white shadow-sky-200' : 'bg-white border-slate-300 text-slate-400 hover:bg-slate-50'}`}>Level {index + 1}</button>
+                                    ))}
+                                </div>
+                            </div>
+                            <div className="grid grid-cols-5 gap-1.5">
+                                <GameButton onClick={() => setActiveTab('study')} active={activeTab === 'study'} color={activeTab === 'study' ? 'active' : 'white'} className="text-xs py-3 px-0.5"><Layers className="w-3 h-3" /> 學習</GameButton>
+                                <GameButton onClick={() => setActiveTab('quiz')} active={activeTab === 'quiz'} color={activeTab === 'quiz' ? 'active' : 'white'} className="text-xs py-3 px-0.5"><CheckCircle className="w-3 h-3" /> 測驗</GameButton>
+                                <GameButton onClick={() => setActiveTab('sentences')} active={activeTab === 'sentences'} color={activeTab === 'sentences' ? 'active' : 'white'} className="text-xs py-3 px-0.5"><Puzzle className="w-3 h-3" /> 重組</GameButton>
+                                <GameButton onClick={() => setActiveTab('grammar')} active={activeTab === 'grammar'} color={activeTab === 'grammar' ? 'active' : 'white'} className="text-xs py-3 px-0.5"><GraduationCap className="w-3 h-3" /> 文法</GameButton>
+                                <GameButton onClick={() => setActiveTab('game')} active={activeTab === 'game'} color={activeTab === 'game' ? 'active' : 'orange'} className="text-xs py-3 px-0.5"><Gamepad2 className="w-3 h-3" /> 遊戲</GameButton>
+                            </div>
+                        </div>
+                    </div>
+                    <div className={`flex-1 ${activeTab === 'game' ? 'max-w-5xl' : 'max-w-md'} mx-auto w-full p-4 pt-6`}>
+                        <div className="mb-6 text-center"><span className="inline-flex items-center gap-2 bg-slate-800 text-white text-xs font-black px-4 py-1.5 rounded-full border-2 border-slate-600 shadow-md"><Map className="w-3 h-3 text-yellow-400" />目前關卡：{unitTitle}</span></div>
+                        {activeTab === 'study' && <StudyMode data={allStudyData} />}
+                        {activeTab === 'quiz' && <QuizMode data={allStudyData} grammarData={unitGrammar} />}
+                        {activeTab === 'sentences' && <ScrambleContainer scrambles={unitScrambles} fullUnitData={unitsData[currentUnit]} />}
+                        {activeTab === 'grammar' && <GrammarMode grammarData={unitGrammar} />}
+                        {activeTab === 'game' && (
+                            <div className="bg-slate-900 rounded-3xl p-4 -mx-1 border-2 border-slate-700">
+                                <GameMode allWords={allStudyData} grammarData={unitGrammar} unitTitle={unitTitle} />
+                            </div>
+                        )}
+                    </div>
+                </div>
+            );
+        }
+
+        const root = ReactDOM.createRoot(document.getElementById('root'));
+        root.render(<App />);
+    </script>
 </body>
+
 </html>
