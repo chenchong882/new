@@ -1,0 +1,78 @@
+[
+  {
+    "id": "雄工/wang",
+    "name": "王小明",
+    "school": "雄工",
+    "units": [
+      {
+        "code": "h1-4-u3",
+        "title": "Unit 3",
+        "vocab": 14,
+        "quiz": 50
+      },
+      {
+        "code": "h1-4-u4",
+        "title": "Unit 4",
+        "vocab": 20,
+        "quiz": 50
+      }
+    ]
+  },
+  {
+    "id": "雄工/lin",
+    "name": "林佳穎",
+    "school": "雄工",
+    "units": [
+      {
+        "code": "h1-6-u5",
+        "title": "Unit 5 Under the Costume",
+        "vocab": 16,
+        "quiz": 50
+      },
+      {
+        "code": "h1-6-u6",
+        "title": "Vocabulary & Language Spotlight - Unit 6",
+        "vocab": 29,
+        "quiz": 50
+      }
+    ]
+  },
+  {
+    "id": "國中/chen",
+    "name": "陳大同",
+    "school": "國中",
+    "units": [
+      {
+        "code": "m1-4-u3",
+        "title": "Unit 3",
+        "vocab": 34,
+        "quiz": 50
+      },
+      {
+        "code": "m1-4-u4",
+        "title": "Unit 4 - How Much Flour Do You Need?",
+        "vocab": 38,
+        "quiz": 50
+      }
+    ]
+  },
+  {
+    "id": "國中/huang",
+    "name": "黃詩涵",
+    "school": "國中",
+    "units": [
+      {
+        "code": "m1-6-u5",
+        "title": "Unit 5 There Was a Lot of Trash in the Sea",
+        "vocab": 36,
+        "quiz": 50
+      },
+      {
+        "code": "m1-6-u6",
+        "title": "Unit 6 - I Took a Trip to India Last Month",
+        "vocab": 34,
+        "quiz": 50
+      }
+    ]
+  }
+]

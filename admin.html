@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>學生總覽（老師用）</title>
+  <style>
+    * { box-sizing: border-box; }
+    html, body {
+      margin: 0; min-height: 100%; color: #f8fafc;
+      font-family: Arial, "Noto Sans TC", sans-serif;
+      background:
+        radial-gradient(circle at 12% 12%, rgba(251,191,36,.22), transparent 24rem),
+        radial-gradient(circle at 84% 18%, rgba(34,211,238,.16), transparent 24rem),
+        linear-gradient(140deg, #172033 0%, #111827 46%, #18181b 100%);
+    }
+    main { width: min(1080px, calc(100% - 32px)); margin: 0 auto; padding: 32px 0; }
+    h1 { margin: 0 0 6px; font-size: clamp(28px, 5vw, 46px); }
+    p.lead { margin: 0 0 26px; color: #cbd5e1; font-size: 15px; line-height: 1.6; }
+    h2 { margin: 28px 0 12px; font-size: 22px; color: #facc15; }
+    .student {
+      border: 1px solid rgba(255,255,255,.16); border-radius: 10px;
+      background: rgba(15,23,42,.78); box-shadow: 0 18px 40px rgba(0,0,0,.22);
+      padding: 16px 18px; margin-bottom: 12px;
+    }
+    .student .row1 { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+    .student b { font-size: 20px; }
+    .chips { display: flex; gap: 6px; flex-wrap: wrap; }
+    .chip {
+      font-size: 13px; font-weight: 700; color: #cbd5e1;
+      border: 1px solid rgba(255,255,255,.16); border-radius: 999px; padding: 3px 10px;
+    }
+    .linkrow { display: flex; gap: 8px; margin-top: 12px; }
+    .linkrow input {
+      flex: 1; min-width: 0; padding: 8px 10px; font-size: 13px;
+      color: #e2e8f0; background: rgba(2,6,23,.6);
+      border: 1px solid rgba(255,255,255,.16); border-radius: 8px;
+    }
+    .linkrow button {
+      flex-shrink: 0; padding: 0 14px; font-weight: 800; cursor: pointer; color: #0b1220;
+      background: #facc15; border: 1px solid #facc15; border-radius: 8px;
+    }
+    .linkrow button.open { color: #f8fafc; background: rgba(15,23,42,.92); border-color: rgba(255,255,255,.16); }
+    .note { margin-top: 28px; color: #94a3b8; font-size: 13px; line-height: 1.7; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>👩‍🏫 學生總覽</h1>
+    <p class="lead">這頁只給老師自己用：每個學生練哪幾課、一鍵複製他專屬的遊戲連結。學生只會拿到自己那條連結，看不到別人。</p>
+    <div id="list"></div>
+    <p class="note">※ 名單來自 <code>students.json</code>。新增學生：在 <code>data/學校/</code> 放一個學生 JSON，再到 <code>students.json</code> 補一筆即可。</p>
+  </main>
+
+  <script>
+    const listEl = document.getElementById('list');
+    const base = new URL('.', location.href).href; // 目前資料夾
+
+    function playUrl(id) {
+      // 斜線保留作路徑分隔，各段分別編碼（中文不會出亂碼）
+      const enc = id.split('/').map(encodeURIComponent).join('/');
+      return base + 'play.html?id=' + enc;
+    }
+
+    function card(s) {
+      const wrap = document.createElement('div');
+      wrap.className = 'student';
+      const chips = (s.units || []).map(u =>
+        `<span class="chip">${u.title}（單字 ${u.vocab}・題 ${u.quiz}）</span>`).join('');
+      const url = playUrl(s.id);
+      wrap.innerHTML =
+        `<div class="row1"><b>${s.name}</b><span class="chips">${chips}</span></div>
+         <div class="linkrow">
+           <input type="text" readonly value="${url}">
+           <button type="button">複製</button>
+           <button type="button" class="open">開啟</button>
+         </div>`;
+      const input = wrap.querySelector('input');
+      const [copyBtn, openBtn] = wrap.querySelectorAll('button');
+      copyBtn.addEventListener('click', async () => {
+        try { await navigator.clipboard.writeText(url); }
+        catch { input.select(); document.execCommand('copy'); }
+        copyBtn.textContent = '已複製'; setTimeout(() => copyBtn.textContent = '複製', 1200);
+      });
+      openBtn.addEventListener('click', () => window.open(url, '_blank'));
+      return wrap;
+    }
+
+    async function boot() {
+      try {
+        const res = await fetch('students.json', { cache: 'no-store' });
+        const students = await res.json();
+        const bySchool = {};
+        students.forEach(s => { (bySchool[s.school] = bySchool[s.school] || []).push(s); });
+        Object.keys(bySchool).forEach(school => {
+          const h = document.createElement('h2');
+          h.textContent = school + '（' + bySchool[school].length + ' 人）';
+          listEl.appendChild(h);
+          bySchool[school].forEach(s => listEl.appendChild(card(s)));
+        });
+      } catch (err) {
+        listEl.innerHTML = '<p style="color:#fca5a5">讀不到 students.json。' +
+          (location.protocol === 'file:'
+            ? '請用本機 server（python3 -m http.server）或上線後開啟。'
+            : err.message) + '</p>';
+      }
+    }
+    boot();
+  </script>
+</body>
+</html>

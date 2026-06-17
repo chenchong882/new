@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>英文單字遊戲</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    html,
+    body {
+      margin: 0;
+      min-height: 100%;
+      color: #f8fafc;
+      font-family: Arial, "Noto Sans TC", sans-serif;
+      background:
+        radial-gradient(circle at 12% 12%, rgba(251, 191, 36, 0.22), transparent 24rem),
+        radial-gradient(circle at 84% 18%, rgba(34, 211, 238, 0.16), transparent 24rem),
+        linear-gradient(140deg, #172033 0%, #111827 46%, #18181b 100%);
+    }
+
+    body.playing {
+      overflow: hidden;
+    }
+
+    main {
+      width: min(1080px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 32px 0;
+    }
+
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: end;
+      gap: 18px;
+      margin-bottom: 22px;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(32px, 5vw, 58px);
+      line-height: 1;
+      letter-spacing: 0;
+    }
+
+    .meta {
+      color: #facc15;
+      font-size: 15px;
+      font-weight: 800;
+      text-align: right;
+      white-space: nowrap;
+    }
+
+    .ranges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 16px;
+    }
+
+    .range-btn {
+      border: 1px solid rgba(255, 255, 255, 0.16);
+      border-radius: 8px;
+      background: rgba(15, 23, 42, 0.78);
+      color: #cbd5e1;
+      font-weight: 800;
+      font-size: 15px;
+      padding: 8px 14px;
+      cursor: pointer;
+      transition: transform 0.16s ease, border-color 0.16s ease, background 0.16s ease, color 0.16s ease;
+    }
+
+    .range-btn:hover {
+      transform: translateY(-2px);
+      border-color: rgba(250, 204, 21, 0.6);
+    }
+
+    .range-btn.active {
+      color: #0b1220;
+      background: #facc15;
+      border-color: #facc15;
+    }
+
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 12px;
+      margin-bottom: 18px;
+    }
+
+    .stat,
+    .game-button {
+      border: 1px solid rgba(255, 255, 255, 0.16);
+      border-radius: 8px;
+      background: rgba(15, 23, 42, 0.78);
+      box-shadow: 0 18px 40px rgba(0, 0, 0, 0.22);
+    }
+
+    .stat {
+      padding: 14px 16px;
+    }
+
+    .stat strong {
+      display: block;
+      color: white;
+      font-size: 28px;
+      line-height: 1;
+    }
+
+    .stat span {
+      display: block;
+      margin-top: 8px;
+      color: #cbd5e1;
+      font-size: 14px;
+      font-weight: 700;
+    }
+
+    .games {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 12px;
+      margin-bottom: 18px;
+    }
+
+    .game-button {
+      min-height: 108px;
+      padding: 18px;
+      color: white;
+      text-align: left;
+      cursor: pointer;
+      transition: transform 0.16s ease, border-color 0.16s ease, background 0.16s ease;
+    }
+
+    .game-button:hover {
+      transform: translateY(-2px);
+      border-color: rgba(250, 204, 21, 0.78);
+      background: rgba(30, 41, 59, 0.9);
+    }
+
+    .game-button b {
+      display: block;
+      margin-bottom: 8px;
+      font-size: 24px;
+      letter-spacing: 0;
+    }
+
+    .game-button span {
+      color: #cbd5e1;
+      font-size: 15px;
+      line-height: 1.45;
+    }
+
+    .notice {
+      margin: 40px 0;
+      padding: 18px 20px;
+      border: 1px solid rgba(255, 255, 255, 0.16);
+      border-radius: 10px;
+      background: rgba(15, 23, 42, 0.78);
+      color: #cbd5e1;
+      line-height: 1.7;
+    }
+
+    #stage {
+      display: none;
+      position: fixed;
+      inset: 0;
+      z-index: 20;
+      background: #020617;
+    }
+
+    body.playing #stage {
+      display: grid;
+      grid-template-rows: auto 1fr;
+    }
+
+    .stage-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 10px 12px;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+      background: rgba(2, 6, 23, 0.94);
+    }
+
+    .stage-title {
+      min-width: 0;
+      overflow: hidden;
+      color: #f8fafc;
+      font-size: 15px;
+      font-weight: 800;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .stage-actions {
+      display: flex;
+      gap: 8px;
+      flex-shrink: 0;
+    }
+
+    .stage-actions button {
+      min-height: 38px;
+      border: 1px solid rgba(255, 255, 255, 0.16);
+      border-radius: 8px;
+      padding: 0 12px;
+      color: #f8fafc;
+      font-weight: 800;
+      cursor: pointer;
+      background: rgba(15, 23, 42, 0.92);
+    }
+
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: 0;
+      background: #020617;
+    }
+
+    @media (max-width: 760px) {
+      main {
+        width: min(100% - 20px, 1080px);
+        padding: 22px 0;
+      }
+
+      header {
+        display: grid;
+        align-items: start;
+      }
+
+      .meta {
+        text-align: left;
+      }
+
+      .stats,
+      .games {
+        grid-template-columns: 1fr;
+      }
+
+      .game-button {
+        min-height: 92px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <div>
+        <h1 id="title">載入中…</h1>
+      </div>
+      <div class="meta" id="meta"></div>
+    </header>
+
+    <section class="ranges" id="ranges" aria-label="單元切換"></section>
+
+    <section class="stats" aria-label="教材統計">
+      <div class="stat"><strong id="n-vocab">0</strong><span>單字</span></div>
+      <div class="stat"><strong id="n-phrase">0</strong><span>片語</span></div>
+      <div class="stat"><strong id="n-quiz">0</strong><span>文法題</span></div>
+    </section>
+
+    <section class="games" aria-label="遊戲選單">
+      <button class="game-button" type="button" data-game="miner">
+        <b>單字挖金礦</b>
+        <span>聽發音，抓正確金塊。</span>
+      </button>
+      <button class="game-button" type="button" data-game="bomb">
+        <b>炸彈英文</b>
+        <span>駕駛飛機，炸掉目標單字。</span>
+      </button>
+      <button class="game-button" type="button" data-game="tank">
+        <b>單字坦克</b>
+        <span>找出樹上正確的單字，射下來。</span>
+      </button>
+      <button class="game-button" type="button" data-game="ship">
+        <b>海岸狙擊手</b>
+        <span>瞄準意思正確的船艦擊沉。</span>
+      </button>
+      <button class="game-button" type="button" data-game="runner">
+        <b>英文跑酷</b>
+        <span>邊跑邊選正確答案閃避障礙。</span>
+      </button>
+      <button class="game-button" type="button" data-game="battle">
+        <b>英文攻防戰</b>
+        <span>派兵攻防，答對單字才能出兵。</span>
+      </button>
+    </section>
+
+    <div class="notice" id="notice" hidden></div>
+  </main>
+
+  <section id="stage" aria-label="遊戲畫面">
+    <div class="stage-bar">
+      <div class="stage-title" id="stage-title"></div>
+      <div class="stage-actions">
+        <button id="fullscreen-button" type="button">全螢幕</button>
+        <button id="close-button" type="button">返回</button>
+      </div>
+    </div>
+    <iframe id="game-frame" title="英文遊戲" allow="fullscreen; autoplay"></iframe>
+  </section>
+
+  <script src="config.js"></script>
+  <script>
+    const frame = document.getElementById('game-frame');
+    const stage = document.getElementById('stage');
+    const stageTitle = document.getElementById('stage-title');
+    const titleEl = document.getElementById('title');
+    const metaEl = document.getElementById('meta');
+    const rangesEl = document.getElementById('ranges');
+    const noticeEl = document.getElementById('notice');
+    let activeMessageType = '';
+
+    const GAME_BASE = (window.GAME_BASE || '').replace(/\/+$/, '');
+    const gameConfig = {
+      miner: { label: '單字挖金礦', src: GAME_BASE + '/games/miner', messageType: 'MINER_DATA' },
+      bomb: { label: '炸彈英文', src: GAME_BASE + '/games/bomb', messageType: 'BOMB_DATA' },
+      tank: { label: '單字坦克', src: GAME_BASE + '/games/tank', messageType: 'TANK_DATA' },
+      ship: { label: '海岸狙擊手', src: GAME_BASE + '/games/ship', messageType: 'SHIP_DATA' },
+      runner: { label: '英文跑酷', src: GAME_BASE + '/games/runner', messageType: 'RUNNER_DATA' },
+      battle: { label: '英文攻防戰', src: GAME_BASE + '/games/battle', messageType: 'BATTLE_DATA' },
+    };
+
+    let DATA = null;          // 整個學生檔 { student, school, units }
+    let current = null;       // 目前選定範圍組出的 lessonData（餵給遊戲）
+
+    function showNotice(html) {
+      noticeEl.innerHTML = html;
+      noticeEl.hidden = false;
+    }
+
+    // 把選定的課（一課或全部）組成遊戲認得的 lessonData 形狀
+    function buildLessonData(rangeKey) {
+      const codes = rangeKey === '__all__' ? Object.keys(DATA.units) : [rangeKey];
+      let vocab = [], phrases = [], quiz = [];
+      const unitsSub = {};
+      codes.forEach(c => {
+        const u = DATA.units[c] || {};
+        unitsSub[c] = u;
+        vocab = vocab.concat(u.vocab || []);
+        phrases = phrases.concat(u.phrases || []);
+        quiz = quiz.concat((u.grammar || {}).quiz || []);
+      });
+      const rangeName = rangeKey === '__all__'
+        ? '全部'
+        : (DATA.units[rangeKey] && DATA.units[rangeKey].title) || rangeKey;
+      const fullTitle = DATA.school + ' ' + DATA.student + ' · ' + rangeName;
+      return {
+        school: DATA.school,
+        student: DATA.student,
+        unitKey: rangeKey === '__all__' ? 'all' : rangeKey,
+        unitTitle: fullTitle,
+        title: fullTitle,
+        units: unitsSub,
+        words: vocab.map(v => ({ word: v.word, chinese: v.chinese, part_of_speech: v.part_of_speech })),
+        _stats: { vocab: vocab.length, phrases: phrases.length, quiz: quiz.length },
+      };
+    }
+
+    function selectRange(rangeKey, btn) {
+      current = buildLessonData(rangeKey);
+      document.querySelectorAll('.range-btn').forEach(b => b.classList.remove('active'));
+      if (btn) btn.classList.add('active');
+      document.getElementById('n-vocab').textContent = current._stats.vocab;
+      document.getElementById('n-phrase').textContent = current._stats.phrases;
+      document.getElementById('n-quiz').textContent = current._stats.quiz;
+    }
+
+    function makeRangeButton(label, rangeKey, active) {
+      const b = document.createElement('button');
+      b.className = 'range-btn' + (active ? ' active' : '');
+      b.type = 'button';
+      b.textContent = label;
+      b.addEventListener('click', () => selectRange(rangeKey, b));
+      rangesEl.appendChild(b);
+      return b;
+    }
+
+    function renderStudent() {
+      titleEl.textContent = DATA.school + ' ' + DATA.student;
+      metaEl.textContent = DATA.student;
+      const codes = Object.keys(DATA.units);
+      rangesEl.innerHTML = '';
+      // 多課才顯示「全部」總複習鈕
+      if (codes.length > 1) makeRangeButton('⭐ 全部', '__all__', true);
+      codes.forEach((c, i) => {
+        const t = (DATA.units[c] && DATA.units[c].title) || c;
+        makeRangeButton(t, c, codes.length === 1 && i === 0);
+      });
+      // 預設選第一顆（多課時是「全部」，單課時是該課）
+      const first = rangesEl.querySelector('.range-btn');
+      selectRange(codes.length > 1 ? '__all__' : codes[0], first);
+    }
+
+    function buildGamePayload() {
+      return {
+        unitTitle: current.unitTitle,
+        title: current.title,
+        school: current.school,
+        unitKey: current.unitKey,
+        words: current.words,
+      };
+    }
+
+    function directGameUrl(config) {
+      const payload = encodeURIComponent(JSON.stringify(buildGamePayload()));
+      return config.src + '?lesson=' + encodeURIComponent(current.unitKey) + '#lessonData=' + payload;
+    }
+
+    function postLessonData() {
+      if (!frame.contentWindow || !activeMessageType || !current) return;
+      frame.contentWindow.postMessage({ type: activeMessageType, payload: current }, '*');
+    }
+
+    function requestStageFullscreen() {
+      if (document.fullscreenElement || !stage.requestFullscreen) return;
+      stage.requestFullscreen().catch(() => {});
+    }
+
+    function openGame(gameKey) {
+      const config = gameConfig[gameKey];
+      if (!config || !current) return;
+
+      if (window.location.protocol === 'file:') {
+        window.location.href = directGameUrl(config);
+        return;
+      }
+
+      activeMessageType = config.messageType;
+      stageTitle.textContent = current.title + ' / ' + config.label;
+      document.body.classList.add('playing');
+      frame.src = config.src + '?lesson=' + encodeURIComponent(current.unitKey);
+      requestStageFullscreen();
+      [120, 420, 900, 1500].forEach(delay => window.setTimeout(postLessonData, delay));
+    }
+
+    function closeGame() {
+      activeMessageType = '';
+      frame.removeAttribute('src');
+      document.body.classList.remove('playing');
+      if (document.fullscreenElement && document.exitFullscreen) {
+        document.exitFullscreen().catch(() => {});
+      }
+    }
+
+    document.querySelectorAll('[data-game]').forEach(button => {
+      button.addEventListener('click', () => openGame(button.dataset.game));
+    });
+    frame.addEventListener('load', postLessonData);
+    document.getElementById('fullscreen-button').addEventListener('click', requestStageFullscreen);
+    document.getElementById('close-button').addEventListener('click', closeGame);
+
+    // ===== 開機：讀 ?id → 載入該學生的單字 =====
+    async function boot() {
+      const id = new URLSearchParams(location.search).get('id');
+      if (!id) {
+        titleEl.textContent = '英文單字遊戲';
+        showNotice('缺少學生代號。請用老師發給你的完整連結開啟（網址要有 <code>?id=…</code>）。');
+        return;
+      }
+      try {
+        const res = await fetch(encodeURI('data/' + id + '.json'), { cache: 'no-store' });
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        DATA = await res.json();
+        if (!DATA.units || !Object.keys(DATA.units).length) throw new Error('此學生檔沒有單元資料');
+        renderStudent();
+      } catch (err) {
+        titleEl.textContent = '無法載入';
+        if (location.protocol === 'file:') {
+          showNotice('偵測到用 <code>file://</code> 直接開啟，瀏覽器會擋住讀取單字檔。<br>請改用網址（上線後的 Cloudflare 連結），或在本機跑 <code>python3 -m http.server</code> 後用 <code>http://localhost</code> 開啟。');
+        } else {
+          showNotice('找不到這位學生的單字檔（<code>' + id + '</code>）。<br>請確認連結代號正確，或聯絡老師。<br><small style="color:#94a3b8">' + err.message + '</small>');
+        }
+      }
+    }
+    boot();
+  </script>
+</body>
+</html>
