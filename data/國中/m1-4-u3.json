@@ -1,0 +1,1381 @@
+{
+    "units": {
+        "m1-4-u3": {
+            "title": "Unit 3",
+            "vocab": [
+                {
+                    "id": "m1-4-u3-v001",
+                    "word": "painting",
+                    "part_of_speech": "n.",
+                    "chinese": "畫作",
+                    "sentence": "The paintings on the wall are beautiful.",
+                    "sentence_chinese": "牆上的畫作很漂亮。"
+                },
+                {
+                    "id": "m1-4-u3-v002",
+                    "word": "flower",
+                    "part_of_speech": "n.",
+                    "chinese": "花",
+                    "sentence": "Do we have enough flowers for our dinner party?",
+                    "sentence_chinese": "我們的晚宴有足夠的花嗎？"
+                },
+                {
+                    "id": "m1-4-u3-v003",
+                    "word": "which",
+                    "part_of_speech": "pron.; adj.",
+                    "chinese": "哪一個",
+                    "sentence": "A: Which is Kyle's house? B: The red house over there is.",
+                    "sentence_chinese": "A：哪一個是凱爾的房子？B：那邊那棟紅色的房子是。"
+                },
+                {
+                    "id": "m1-4-u3-v004",
+                    "word": "thirsty",
+                    "part_of_speech": "adj.",
+                    "chinese": "口渴的",
+                    "sentence": "I am always hot and thirsty after baseball games.",
+                    "sentence_chinese": "棒球比賽後我總是又熱又渴。"
+                },
+                {
+                    "id": "m1-4-u3-v005",
+                    "word": "coffee",
+                    "part_of_speech": "n.",
+                    "chinese": "咖啡",
+                    "sentence": "Too much coffee is not good for you.",
+                    "sentence_chinese": "喝太多咖啡對你不好。"
+                },
+                {
+                    "id": "m1-4-u3-v006",
+                    "word": "shop",
+                    "part_of_speech": "n.",
+                    "chinese": "商店",
+                    "sentence": "There aren't many shops near my house.",
+                    "sentence_chinese": "我家附近沒有很多商店。"
+                },
+                {
+                    "id": "m1-4-u3-v007",
+                    "word": "later",
+                    "part_of_speech": "adv.",
+                    "chinese": "稍後；晚點",
+                    "sentence": "A: I'm going home now. Bye. B: See you later.",
+                    "sentence_chinese": "A：我現在要回家了。再見。B：待會見。"
+                },
+                {
+                    "id": "m1-4-u3-v008",
+                    "word": "clerk",
+                    "part_of_speech": "n.",
+                    "chinese": "店員",
+                    "sentence": "The clerk is very nice. She helps me a lot.",
+                    "sentence_chinese": "那位店員人很好。她幫了我很多忙。"
+                },
+                {
+                    "id": "m1-4-u3-v009",
+                    "word": "may",
+                    "part_of_speech": "aux.",
+                    "chinese": "可以；可能",
+                    "sentence": "A: May I come in? B: Sure. Please come in.",
+                    "sentence_chinese": "A：我可以進來嗎？B：當然。請進。"
+                },
+                {
+                    "id": "m1-4-u3-v010",
+                    "word": "juice",
+                    "part_of_speech": "n.",
+                    "chinese": "果汁",
+                    "sentence": "I always have orange juice for breakfast.",
+                    "sentence_chinese": "我早餐總是喝柳橙汁。"
+                },
+                {
+                    "id": "m1-4-u3-v011",
+                    "word": "want",
+                    "part_of_speech": "v.",
+                    "chinese": "想要",
+                    "sentence": "Mr. Chen wants a baby, but Mrs. Chen doesn't.",
+                    "sentence_chinese": "陳先生想要一個孩子，但陳太太不想要。"
+                },
+                {
+                    "id": "m1-4-u3-v012",
+                    "word": "anything",
+                    "part_of_speech": "pron.",
+                    "chinese": "任何事物",
+                    "sentence": "Do you know anything about Van Gogh?",
+                    "sentence_chinese": "你對梵谷有任何了解嗎？"
+                },
+                {
+                    "id": "m1-4-u3-v013",
+                    "word": "else",
+                    "part_of_speech": "adv.",
+                    "chinese": "其他",
+                    "sentence": "Joanne is not happy, but everyone else is.",
+                    "sentence_chinese": "Joanne 不開心，但其他每個人都很開心。"
+                },
+                {
+                    "id": "m1-4-u3-v014",
+                    "word": "treat",
+                    "part_of_speech": "n.; v.",
+                    "chinese": "請客；款待",
+                    "sentence": "Let me treat you to dinner later.",
+                    "sentence_chinese": "晚點讓我請你吃晚餐吧。"
+                },
+                {
+                    "id": "m1-4-u3-v015",
+                    "word": "sweet",
+                    "part_of_speech": "adj.",
+                    "chinese": "甜美的；甜的",
+                    "sentence": "Holly is a sweet girl. People love her.",
+                    "sentence_chinese": "Holly 是個甜美的女孩。大家都很喜歡她。"
+                },
+                {
+                    "id": "m1-4-u3-v016",
+                    "word": "hot",
+                    "part_of_speech": "adj.",
+                    "chinese": "熱的",
+                    "sentence": "It's so hot. I want some ice cream.",
+                    "sentence_chinese": "好熱。我想要吃點冰淇淋。"
+                },
+                {
+                    "id": "m1-4-u3-v017",
+                    "word": "chocolate",
+                    "part_of_speech": "n.",
+                    "chinese": "巧克力",
+                    "sentence": "Chocolate ice cream is my favorite.",
+                    "sentence_chinese": "巧克力冰淇淋是我的最愛。"
+                },
+                {
+                    "id": "m1-4-u3-v018",
+                    "word": "dollar",
+                    "part_of_speech": "n.",
+                    "chinese": "元",
+                    "sentence": "A: How much is that comic book? B: It's two hundred dollars.",
+                    "sentence_chinese": "A：那本漫畫書多少錢？B：兩百元。"
+                },
+                {
+                    "id": "m1-4-u3-v019",
+                    "word": "bright",
+                    "part_of_speech": "adj.",
+                    "chinese": "鮮豔的；明亮的",
+                    "sentence": "The man is painting the wall bright blue.",
+                    "sentence_chinese": "那個男人正在把牆壁漆成鮮豔的藍色。"
+                },
+                {
+                    "id": "m1-4-u3-v020",
+                    "word": "dark",
+                    "part_of_speech": "adj.",
+                    "chinese": "黑的；暗的",
+                    "sentence": "It's too dark in my room. I can't read.",
+                    "sentence_chinese": "我房間太暗了。我沒辦法看書。"
+                },
+                {
+                    "id": "m1-4-u3-v021",
+                    "word": "art",
+                    "part_of_speech": "n.",
+                    "chinese": "美術；藝術",
+                    "sentence": "Miss Lee is an art teacher at Green Junior High School.",
+                    "sentence_chinese": "李老師是格林國中的美術老師。"
+                },
+                {
+                    "id": "m1-4-u3-v022",
+                    "word": "milk",
+                    "part_of_speech": "n.",
+                    "chinese": "牛奶",
+                    "sentence": "Have some hot milk before bed.",
+                    "sentence_chinese": "睡前喝點熱牛奶吧。"
+                },
+                {
+                    "id": "m1-4-u3-v023",
+                    "word": "hamburger",
+                    "part_of_speech": "n.",
+                    "chinese": "漢堡",
+                    "sentence": "The hamburger house on Elm Street is great.",
+                    "sentence_chinese": "榆樹街上的那家漢堡店很棒。"
+                },
+                {
+                    "id": "m1-4-u3-v024",
+                    "word": "chicken rice",
+                    "part_of_speech": "n.",
+                    "chinese": "雞肉飯",
+                    "sentence": "My mom makes good chicken rice.",
+                    "sentence_chinese": "我媽媽做的雞肉飯很好吃。"
+                },
+                {
+                    "id": "m1-4-u3-v025",
+                    "word": "tea",
+                    "part_of_speech": "n.",
+                    "chinese": "茶",
+                    "sentence": "Do you have some ice? My tea is too hot.",
+                    "sentence_chinese": "你有些冰塊嗎？我的茶太熱了。"
+                },
+                {
+                    "id": "m1-4-u3-v026",
+                    "word": "ice cream",
+                    "part_of_speech": "n.",
+                    "chinese": "冰淇淋",
+                    "sentence": "Lara's favorite food is ice cream.",
+                    "sentence_chinese": "Lara 最喜歡的食物是冰淇淋。"
+                },
+                {
+                    "id": "m1-4-u3-v027",
+                    "word": "soup",
+                    "part_of_speech": "n.",
+                    "chinese": "湯",
+                    "sentence": "In English, we always say \"eat soup,\" not \"drink soup.\"",
+                    "sentence_chinese": "在英文裡，我們總是說「吃湯」，而不是「喝湯」。"
+                },
+                {
+                    "id": "m1-4-u3-v028",
+                    "word": "sandwich",
+                    "part_of_speech": "n.",
+                    "chinese": "三明治",
+                    "sentence": "That shop has really good sandwiches.",
+                    "sentence_chinese": "那家店有非常棒的三明治。"
+                },
+                {
+                    "id": "m1-4-u3-v029",
+                    "word": "work",
+                    "part_of_speech": "n.",
+                    "chinese": "作品",
+                    "sentence": "The Mona Lisa is a work by Leonardo da Vinci.",
+                    "sentence_chinese": "蒙娜麗莎是達文西的作品。"
+                },
+                {
+                    "id": "m1-4-u3-v030",
+                    "word": "show",
+                    "part_of_speech": "v.",
+                    "chinese": "表現；秀出",
+                    "sentence": "She's showing her new watch to her friends.",
+                    "sentence_chinese": "她正在向她的朋友們展示她的新秀錶。"
+                },
+                {
+                    "id": "m1-4-u3-v031",
+                    "word": "part",
+                    "part_of_speech": "n.",
+                    "chinese": "部分",
+                    "sentence": "Music is an important part in a movie.",
+                    "sentence_chinese": "音樂是電影中重要的一部分。"
+                },
+                {
+                    "id": "m1-4-u3-v032",
+                    "word": "sky",
+                    "part_of_speech": "n.",
+                    "chinese": "天空",
+                    "sentence": "The sky is gray today.",
+                    "sentence_chinese": "今天天空是灰色的。"
+                },
+                {
+                    "id": "m1-4-u3-v033",
+                    "word": "street",
+                    "part_of_speech": "n.",
+                    "chinese": "街道",
+                    "sentence": "It's a quiet night. There are no people on the street.",
+                    "sentence_chinese": "這是一個安靜的夜晚。街上沒有人。"
+                },
+                {
+                    "id": "m1-4-u3-v034",
+                    "word": "by",
+                    "part_of_speech": "prep.",
+                    "chinese": "被；由",
+                    "sentence": "I'm reading some books by Charles Dickens.",
+                    "sentence_chinese": "我正在讀一些查爾斯·狄更斯的書。"
+                }
+            ],
+            "phrases": [
+                {
+                    "id": "m1-4-u3-p001",
+                    "phrase": "Of course.",
+                    "chinese": "當然。",
+                    "sentence": "A: Are you going to Ed's birthday party later? B: Of course.",
+                    "sentence_chinese": "A：你晚點要去 Ed 的生日派對嗎？B：當然。"
+                },
+                {
+                    "id": "m1-4-u3-p002",
+                    "phrase": "for here",
+                    "chinese": "內用",
+                    "sentence": "May I have black coffee for here, please?",
+                    "sentence_chinese": "請給我一杯內用的黑咖啡好嗎？"
+                },
+                {
+                    "id": "m1-4-u3-p003",
+                    "phrase": "to go",
+                    "chinese": "外帶",
+                    "sentence": "A: Do you want your juice for here or to go? B: To go. Thanks.",
+                    "sentence_chinese": "A：你的果汁要內用還是外帶？B：外帶。謝謝。"
+                },
+                {
+                    "id": "m1-4-u3-p004",
+                    "phrase": "Here you are.",
+                    "chinese": "給你。",
+                    "sentence": "A: May I have some tea, please? B: Sure. Here you are.",
+                    "sentence_chinese": "A：請給我一些茶好嗎？B：好的。給你。"
+                }
+            ],
+            "grammar": {
+                "tips": [
+                    {
+                        "label": "Which 的選擇疑問句",
+                        "text": "使用 Which 詢問對方在兩者或多者中選擇哪一個。可單獨使用，也可接名詞。"
+                    },
+                    {
+                        "label": "How much 詢問價錢",
+                        "text": "使用 How much 詢問物品的價錢。主詞為單數或不可數名詞時搭配 is，複數名詞時搭配 are。"
+                    }
+                ],
+                "notes": [
+                    {
+                        "title": "Which 的選擇疑問句",
+                        "rule": "用於詢問對方在「兩者」或「多者」之間做出選擇。",
+                        "description": "Which 可以單獨當代名詞使用（Which is...），也可以當形容詞接名詞（Which N. is...）。句尾通常會加上「A or B?」提供選項。",
+                        "examples": [
+                            "Which do you like, tea or juice? (你喜歡哪一個，茶還是果汁？)",
+                            "Which shoes does he want, the black ones or the white ones? (他想要哪一雙鞋，黑色的還是白色的？)"
+                        ]
+                    },
+                    {
+                        "title": "How much 詢問價錢",
+                        "rule": "How much 專門用來問「多少錢」。",
+                        "description": "句型結構為「How much + be 動詞 + 物品？」。若物品為單數或不可數名詞，be 動詞用 is；若物品為複數，be 動詞用 are。回答時分別用 It is... 和 They are...。",
+                        "examples": [
+                            "How much is the coffee? It's sixty dollars. (這咖啡多少錢？六十元。)",
+                            "How much are the flowers? They are two hundred dollars. (這些花多少錢？兩百元。)"
+                        ]
+                    }
+                ],
+                "quiz": [
+                    {
+                        "id": "m1-4-u3-q001",
+                        "question": "A: ________ do you want, coffee or tea? B: Tea, please.",
+                        "options": [
+                            "What",
+                            "Which",
+                            "Who",
+                            "Where"
+                        ],
+                        "answer": "Which",
+                        "answer_index": 1,
+                        "hint": "詢問「咖啡或茶」兩者選一，疑問代名詞必須使用 Which。"
+                    },
+                    {
+                        "id": "m1-4-u3-q002",
+                        "question": "A: ________ is the chicken rice? B: It's eighty dollars.",
+                        "options": [
+                            "How much",
+                            "How many",
+                            "Which",
+                            "What"
+                        ],
+                        "answer": "How much",
+                        "answer_index": 0,
+                        "hint": "回答是價錢 (eighty dollars)，詢問價錢使用 How much。"
+                    },
+                    {
+                        "id": "m1-4-u3-q003",
+                        "question": "A: Which does he like, hot dogs ________ sandwiches? B: He likes hot dogs.",
+                        "options": [
+                            "and",
+                            "or",
+                            "but",
+                            "so"
+                        ],
+                        "answer": "or",
+                        "answer_index": 1,
+                        "hint": "選擇疑問句中，提供選項時使用連接詞 or (還是)。"
+                    },
+                    {
+                        "id": "m1-4-u3-q004",
+                        "question": "A: How much ________ the flowers? B: They are two hundred dollars.",
+                        "options": [
+                            "is",
+                            "am",
+                            "are",
+                            "do"
+                        ],
+                        "answer": "are",
+                        "answer_index": 2,
+                        "hint": "主詞 the flowers 為複數，be 動詞必須搭配 are。"
+                    },
+                    {
+                        "id": "m1-4-u3-q005",
+                        "question": "A: Which is your favorite ________, the *Mona Lisa* or *The Starry Night*? B: The *Mona Lisa*.",
+                        "options": [
+                            "work",
+                            "sky",
+                            "street",
+                            "part"
+                        ],
+                        "answer": "work",
+                        "answer_index": 0,
+                        "hint": "《蒙娜麗莎》與《星夜》都是藝術「作品 (work)」。"
+                    },
+                    {
+                        "id": "m1-4-u3-q006",
+                        "question": "A: ________ are the hamburgers? B: They are one hundred dollars.",
+                        "options": [
+                            "What",
+                            "Which",
+                            "How much",
+                            "How many"
+                        ],
+                        "answer": "How much",
+                        "answer_index": 2,
+                        "hint": "回答為金額，詢問價錢的句型為 How much + be 動詞 + 物品。"
+                    },
+                    {
+                        "id": "m1-4-u3-q007",
+                        "question": "A: Which ________ does she want, the bright one or the dark one? B: The bright one.",
+                        "options": [
+                            "milk",
+                            "soup",
+                            "juice",
+                            "painting"
+                        ],
+                        "answer": "painting",
+                        "answer_index": 3,
+                        "hint": "選項中有「明亮的 (bright)」與「暗的 (dark)」，最合理的對象是畫作 (painting)。"
+                    },
+                    {
+                        "id": "m1-4-u3-q008",
+                        "question": "A: How much is the hot soup? B: ________ sixty dollars.",
+                        "options": [
+                            "They're",
+                            "It's",
+                            "Its",
+                            "There's"
+                        ],
+                        "answer": "It's",
+                        "answer_index": 1,
+                        "hint": "湯 (soup) 為不可數名詞，代名詞用 it，搭配 is 縮寫為 It's。"
+                    },
+                    {
+                        "id": "m1-4-u3-q009",
+                        "question": "A: Which do you like, the sweet chocolate ________ the dark chocolate? B: The sweet one.",
+                        "options": [
+                            "or",
+                            "and",
+                            "with",
+                            "for"
+                        ],
+                        "answer": "or",
+                        "answer_index": 0,
+                        "hint": "句首為 Which 詢問選擇，後方選項必須用 or 連接。"
+                    },
+                    {
+                        "id": "m1-4-u3-q010",
+                        "question": "A: How much ________ the ice cream? B: It's forty dollars.",
+                        "options": [
+                            "are",
+                            "is",
+                            "do",
+                            "does"
+                        ],
+                        "answer": "is",
+                        "answer_index": 1,
+                        "hint": "ice cream 在此視為不可數名詞（或單數），be 動詞使用 is。"
+                    },
+                    {
+                        "id": "m1-4-u3-q011",
+                        "question": "A: Which is ________ house? B: The red house over there is.",
+                        "options": [
+                            "Kyle",
+                            "Kyles",
+                            "Kyle's",
+                            "of Kyle"
+                        ],
+                        "answer": "Kyle's",
+                        "answer_index": 2,
+                        "hint": "表達「凱爾的」，需使用名詞所有格 Kyle's。"
+                    },
+                    {
+                        "id": "m1-4-u3-q012",
+                        "question": "A: How much are the sandwiches? B: ________ eighty dollars.",
+                        "options": [
+                            "It is",
+                            "They are",
+                            "There are",
+                            "These are"
+                        ],
+                        "answer": "They are",
+                        "answer_index": 1,
+                        "hint": "問句主詞 sandwiches 為複數，回答時必須用代名詞 They。"
+                    },
+                    {
+                        "id": "m1-4-u3-q013",
+                        "question": "A: Which ________ do you want, orange juice or apple juice? B: Orange juice.",
+                        "options": [
+                            "juice",
+                            "milk",
+                            "tea",
+                            "coffee"
+                        ],
+                        "answer": "juice",
+                        "answer_index": 0,
+                        "hint": "後方選項為柳橙汁和蘋果汁，皆屬於果汁 (juice)。"
+                    },
+                    {
+                        "id": "m1-4-u3-q014",
+                        "question": "A: How much is the milk? B: It's fifty ________.",
+                        "options": [
+                            "dollar",
+                            "dollars",
+                            "money",
+                            "dollers"
+                        ],
+                        "answer": "dollars",
+                        "answer_index": 1,
+                        "hint": "表達金額時，一元以上 dollar 必須加 s 變成複數 dollars。"
+                    },
+                    {
+                        "id": "m1-4-u3-q015",
+                        "question": "A: Which is yours, the bright blue ________ or the dark black one? B: The bright blue one.",
+                        "options": [
+                            "one",
+                            "it",
+                            "them",
+                            "those"
+                        ],
+                        "answer": "one",
+                        "answer_index": 0,
+                        "hint": "替代前面提過的單數名詞，使用不定代名詞 one。"
+                    },
+                    {
+                        "id": "m1-4-u3-q016",
+                        "question": "A: How much are the ________? B: They are ninety dollars.",
+                        "options": [
+                            "chicken rice",
+                            "soup",
+                            "tea",
+                            "flowers"
+                        ],
+                        "answer": "flowers",
+                        "answer_index": 3,
+                        "hint": "問句使用了 are，回答也用 They are，可知主詞必為複數名詞 flowers。"
+                    },
+                    {
+                        "id": "m1-4-u3-q017",
+                        "question": "A: Which do you like, ________? B: I like the hot soup.",
+                        "options": [
+                            "hot soup or cold soup",
+                            "hot soup and cold soup",
+                            "a hot soup or a hot soup",
+                            "hot soup but cold soup"
+                        ],
+                        "answer": "hot soup or cold soup",
+                        "answer_index": 0,
+                        "hint": "選擇疑問句後方選項使用 or 連接。soup 不可數，不加 a。"
+                    },
+                    {
+                        "id": "m1-4-u3-q018",
+                        "question": "A: How much is ________? B: It's seventy dollars.",
+                        "options": [
+                            "the hamburgers",
+                            "the sandwiches",
+                            "the chicken rice",
+                            "the flowers"
+                        ],
+                        "answer": "the chicken rice",
+                        "answer_index": 2,
+                        "hint": "問句搭配 is，回答搭配 It's，主詞必須是單數或不可數名詞 (chicken rice)。"
+                    },
+                    {
+                        "id": "m1-4-u3-q019",
+                        "question": "A: ________ NBA player does he like, James or Curry? B: He likes Curry.",
+                        "options": [
+                            "Which",
+                            "What",
+                            "Who",
+                            "How"
+                        ],
+                        "answer": "Which",
+                        "answer_index": 0,
+                        "hint": "詢問「哪一個」球員，句型為 Which + 名詞。"
+                    },
+                    {
+                        "id": "m1-4-u3-q020",
+                        "question": "A: How much is the art book? B: ________",
+                        "options": [
+                            "It's five hundred dollars.",
+                            "They are five hundred dollars.",
+                            "It's five hundred dollar.",
+                            "They are five hundred dollar."
+                        ],
+                        "answer": "It's five hundred dollars.",
+                        "answer_index": 0,
+                        "hint": "the art book 為單數，用 It's 回答；金額大於一，dollar 要加 s。"
+                    },
+                    {
+                        "id": "m1-4-u3-q021",
+                        "question": "A: Which shop has good ________, this one or that one? B: This one.",
+                        "options": [
+                            "sandwich",
+                            "sandwiches",
+                            "a sandwich",
+                            "the sandwich"
+                        ],
+                        "answer": "sandwiches",
+                        "answer_index": 1,
+                        "hint": "泛指「好吃的三明治」，可數名詞一般使用複數形 sandwiches。"
+                    },
+                    {
+                        "id": "m1-4-u3-q022",
+                        "question": "A: Do you want your juice for here ________ to go? B: To go.",
+                        "options": [
+                            "and",
+                            "or",
+                            "but",
+                            "so"
+                        ],
+                        "answer": "or",
+                        "answer_index": 1,
+                        "hint": "詢問內用或外帶的選擇，提供選項使用 or 連接。"
+                    },
+                    {
+                        "id": "m1-4-u3-q023",
+                        "question": "A: Which do you want, hot tea or hot coffee? B: ________",
+                        "options": [
+                            "Yes, I do.",
+                            "No, I don't.",
+                            "Hot tea, please.",
+                            "It's sixty dollars."
+                        ],
+                        "answer": "Hot tea, please.",
+                        "answer_index": 2,
+                        "hint": "選擇疑問句不能用 Yes/No 回答，必須直接說出選擇的項目。"
+                    },
+                    {
+                        "id": "m1-4-u3-q024",
+                        "question": "A: How much ________ the milk and the juice? B: They are eighty dollars.",
+                        "options": [
+                            "is",
+                            "am",
+                            "are",
+                            "be"
+                        ],
+                        "answer": "are",
+                        "answer_index": 2,
+                        "hint": "雖然 milk 和 juice 不可數，但兩者加起來視為複數，be 動詞用 are。"
+                    },
+                    {
+                        "id": "m1-4-u3-q025",
+                        "question": "A: Let me ________ you to dinner later. B: Thank you so much!",
+                        "options": [
+                            "treat",
+                            "want",
+                            "show",
+                            "work"
+                        ],
+                        "answer": "treat",
+                        "answer_index": 0,
+                        "hint": "根據課本單字，treat someone to... 表示「請某人吃... / 款待」。"
+                    },
+                    {
+                        "id": "m1-4-u3-q026",
+                        "question": "A: Which ________ do you want, the hot tea or the cold tea? B: The hot tea.",
+                        "options": [
+                            "tea",
+                            "coffee",
+                            "milk",
+                            "juice"
+                        ],
+                        "answer": "tea",
+                        "answer_index": 0,
+                        "hint": "選項中提供了熱茶 (hot tea) 與冷茶 (cold tea)，可知詢問的是「茶 (tea)」。"
+                    },
+                    {
+                        "id": "m1-4-u3-q027",
+                        "question": "A: ________ are the sandwiches? B: They are one hundred dollars.",
+                        "options": [
+                            "How old",
+                            "How much",
+                            "How many",
+                            "Which"
+                        ],
+                        "answer": "How much",
+                        "answer_index": 1,
+                        "hint": "答句為價錢 (one hundred dollars)，詢問價錢必須使用 How much。"
+                    },
+                    {
+                        "id": "m1-4-u3-q028",
+                        "question": "A: Which ________ does he want to see, the *Mona Lisa* or *The Starry Night*? B: The *Mona Lisa*.",
+                        "options": [
+                            "clerk",
+                            "painting",
+                            "flower",
+                            "shop"
+                        ],
+                        "answer": "painting",
+                        "answer_index": 1,
+                        "hint": "《蒙娜麗莎》與《星夜》都是「畫作 (painting)」。"
+                    },
+                    {
+                        "id": "m1-4-u3-q029",
+                        "question": "A: How much is the sweet ________? B: It's thirty dollars.",
+                        "options": [
+                            "chocolate",
+                            "hamburgers",
+                            "sandwiches",
+                            "flowers"
+                        ],
+                        "answer": "chocolate",
+                        "answer_index": 0,
+                        "hint": "be 動詞為 is，後方必須接單數或不可數名詞。chocolate (巧克力) 為不可數名詞。"
+                    },
+                    {
+                        "id": "m1-4-u3-q030",
+                        "question": "A: Which do you want to drink, ________? B: Milk, please.",
+                        "options": [
+                            "milk or juice",
+                            "milk and juice",
+                            "milk but juice",
+                            "milk so juice"
+                        ],
+                        "answer": "milk or juice",
+                        "answer_index": 0,
+                        "hint": "選擇疑問句中，提供兩個選項時，必須使用對等連接詞 or (還是)。"
+                    },
+                    {
+                        "id": "m1-4-u3-q031",
+                        "question": "A: How much ________ the hot coffee? B: It's ninety dollars.",
+                        "options": [
+                            "is",
+                            "am",
+                            "are",
+                            "be"
+                        ],
+                        "answer": "is",
+                        "answer_index": 0,
+                        "hint": "coffee (咖啡) 為不可數名詞，be 動詞必須搭配 is。"
+                    },
+                    {
+                        "id": "m1-4-u3-q032",
+                        "question": "A: Which part of the movie do you like, the happy part ________ the sad part? B: The happy part.",
+                        "options": [
+                            "and",
+                            "with",
+                            "or",
+                            "to"
+                        ],
+                        "answer": "or",
+                        "answer_index": 2,
+                        "hint": "句首為 Which 詢問選擇，後方兩個選項 (happy part / sad part) 必須用 or 連接。"
+                    },
+                    {
+                        "id": "m1-4-u3-q033",
+                        "question": "A: How much are the ________? B: They are fifty dollars.",
+                        "options": [
+                            "tea",
+                            "juice",
+                            "ice cream",
+                            "flowers"
+                        ],
+                        "answer": "flowers",
+                        "answer_index": 3,
+                        "hint": "問句與答句的 be 動詞皆為 are，主詞必須為複數名詞 (flowers)。"
+                    },
+                    {
+                        "id": "m1-4-u3-q034",
+                        "question": "A: ________ does she want for dinner, chicken rice or sandwiches? B: She wants chicken rice.",
+                        "options": [
+                            "Where",
+                            "Who",
+                            "What",
+                            "Which"
+                        ],
+                        "answer": "Which",
+                        "answer_index": 3,
+                        "hint": "後方有 or 提供選項讓對方選擇，疑問詞要用 Which。"
+                    },
+                    {
+                        "id": "m1-4-u3-q035",
+                        "question": "A: How much is the ________? B: It's forty dollars.",
+                        "options": [
+                            "hamburgers",
+                            "sandwiches",
+                            "soup",
+                            "flowers"
+                        ],
+                        "answer": "soup",
+                        "answer_index": 2,
+                        "hint": "問句使用 is，主詞必須是單數或不可數名詞 (soup)。"
+                    },
+                    {
+                        "id": "m1-4-u3-q036",
+                        "question": "A: Which ________ is yours, the red one or the blue one? B: The blue one.",
+                        "options": [
+                            "shop",
+                            "street",
+                            "flower",
+                            "sky"
+                        ],
+                        "answer": "flower",
+                        "answer_index": 2,
+                        "hint": "根據語意，詢問哪一朵「花 (flower)」是紅色的或藍色的最符合邏輯與課本單字。"
+                    },
+                    {
+                        "id": "m1-4-u3-q037",
+                        "question": "A: May I have some hot tea ________, please? B: Sure. Here you are.",
+                        "options": [
+                            "to go",
+                            "of course",
+                            "by",
+                            "treat"
+                        ],
+                        "answer": "to go",
+                        "answer_index": 0,
+                        "hint": "點餐時常見用語，to go 表「外帶」，for here 表「內用」。"
+                    },
+                    {
+                        "id": "m1-4-u3-q038",
+                        "question": "A: ________ B: They are one hundred and twenty dollars.",
+                        "options": [
+                            "How much is the hamburger?",
+                            "How much are the hamburgers?",
+                            "Which do you like?",
+                            "Are they hamburgers?"
+                        ],
+                        "answer": "How much are the hamburgers?",
+                        "answer_index": 1,
+                        "hint": "答句為 They are + 價錢，問句必須是詢問複數物品的價錢 (How much are...)。"
+                    },
+                    {
+                        "id": "m1-4-u3-q039",
+                        "question": "A: Which ________ does Mr. Chen want, a boy or a girl? B: A boy.",
+                        "options": [
+                            "clerk",
+                            "baby",
+                            "student",
+                            "teacher"
+                        ],
+                        "answer": "baby",
+                        "answer_index": 1,
+                        "hint": "對應課本單字例句，Mr. Chen 想要一個「嬰兒 (baby)」。男孩或女孩都是嬰兒。"
+                    },
+                    {
+                        "id": "m1-4-u3-q040",
+                        "question": "A: Is there ________ else you want to buy? B: No, thanks.",
+                        "options": [
+                            "anything",
+                            "which",
+                            "part",
+                            "art"
+                        ],
+                        "answer": "anything",
+                        "answer_index": 0,
+                        "hint": "anything else 為常見搭配，意指「任何其他的東西」。"
+                    },
+                    {
+                        "id": "m1-4-u3-q041",
+                        "question": "A: How much are the books ________ Charles Dickens? B: They are five hundred dollars.",
+                        "options": [
+                            "on",
+                            "by",
+                            "in",
+                            "at"
+                        ],
+                        "answer": "by",
+                        "answer_index": 1,
+                        "hint": "介系詞 by 可用來表示作品是「被 / 由」某人創作的。"
+                    },
+                    {
+                        "id": "m1-4-u3-q042",
+                        "question": "A: Which do you want, a hot dog or a hamburger? B: ________",
+                        "options": [
+                            "Yes, a hot dog.",
+                            "No, a hamburger.",
+                            "A hot dog, please.",
+                            "It's fifty dollars."
+                        ],
+                        "answer": "A hot dog, please.",
+                        "answer_index": 2,
+                        "hint": "Which 疑問句不能用 Yes/No 簡答，必須直接回答選擇的項目。"
+                    },
+                    {
+                        "id": "m1-4-u3-q043",
+                        "question": "A: I'm always hot and ________ after baseball games. B: Let's get some juice.",
+                        "options": [
+                            "sweet",
+                            "bright",
+                            "dark",
+                            "thirsty"
+                        ],
+                        "answer": "thirsty",
+                        "answer_index": 3,
+                        "hint": "棒球比賽後感到熱且「口渴 (thirsty)」，所以提議去喝果汁。"
+                    },
+                    {
+                        "id": "m1-4-u3-q044",
+                        "question": "A: How much is the ice cream? B: ________ fifty dollars.",
+                        "options": [
+                            "They are",
+                            "It is",
+                            "Its",
+                            "There are"
+                        ],
+                        "answer": "It is",
+                        "answer_index": 1,
+                        "hint": "問句主詞 the ice cream 為不可數名詞，答句代名詞用 it，搭配 is。"
+                    },
+                    {
+                        "id": "m1-4-u3-q045",
+                        "question": "A: Which is ________ favorite work, the *Mona Lisa* or *The Starry Night*? B: The *Mona Lisa*.",
+                        "options": [
+                            "you",
+                            "your",
+                            "yours",
+                            "yourself"
+                        ],
+                        "answer": "your",
+                        "answer_index": 1,
+                        "hint": "修飾名詞 work (作品)，必須使用所有格 your (你的)。"
+                    },
+                    {
+                        "id": "m1-4-u3-q046",
+                        "question": "A: Do you want your coffee for here or ________? B: For here, please.",
+                        "options": [
+                            "later",
+                            "to go",
+                            "of course",
+                            "treat"
+                        ],
+                        "answer": "to go",
+                        "answer_index": 1,
+                        "hint": "內用為 for here，對應的外帶片語為 to go。"
+                    },
+                    {
+                        "id": "m1-4-u3-q047",
+                        "question": "A: ________ are the chicken rice and the soup? B: They are one hundred dollars.",
+                        "options": [
+                            "How old",
+                            "How much",
+                            "How many",
+                            "Which"
+                        ],
+                        "answer": "How much",
+                        "answer_index": 1,
+                        "hint": "答句為價錢，必須用 How much 詢問。兩個品項相加視為複數，故用 are。"
+                    },
+                    {
+                        "id": "m1-4-u3-q048",
+                        "question": "A: Which ________ is nice, the one on Elm Street or the one on Oak Street? B: The one on Elm Street.",
+                        "options": [
+                            "shop",
+                            "clerk",
+                            "part",
+                            "sky"
+                        ],
+                        "answer": "shop",
+                        "answer_index": 0,
+                        "hint": "位於某條街道上 (on Elm Street) 的地點，最合理的是「商店 (shop)」。"
+                    },
+                    {
+                        "id": "m1-4-u3-q049",
+                        "question": "A: ________ B: It's thirty dollars.",
+                        "options": [
+                            "Which is the tea?",
+                            "How much is the tea?",
+                            "How much are the tea?",
+                            "Is the tea thirty dollars?"
+                        ],
+                        "answer": "How much is the tea?",
+                        "answer_index": 1,
+                        "hint": "答句為 It's + 價錢，問句必須是詢問單數/不可數物品的價錢，且用 How much。"
+                    },
+                    {
+                        "id": "m1-4-u3-q050",
+                        "question": "A: Are you going to the shop ________? B: Of course.",
+                        "options": [
+                            "by",
+                            "later",
+                            "sweet",
+                            "bright"
+                        ],
+                        "answer": "later",
+                        "answer_index": 1,
+                        "hint": "later 為時間副詞，表示「稍後；晚點」，符合語意與文法位置。"
+                    }
+                ]
+            },
+            "scrambles": {
+                "vocab": [
+                    {
+                        "id": "m1-4-u3-sv001",
+                        "vocab_id": "m1-4-u3-v001",
+                        "sentence": "The paintings on the wall are beautiful.",
+                        "sentence_chinese": "牆上的畫作很漂亮。"
+                    },
+                    {
+                        "id": "m1-4-u3-sv002",
+                        "vocab_id": "m1-4-u3-v002",
+                        "sentence": "Do we have enough flowers for our dinner party?",
+                        "sentence_chinese": "我們的晚宴有足夠的花嗎？"
+                    },
+                    {
+                        "id": "m1-4-u3-sv003",
+                        "vocab_id": "m1-4-u3-v003",
+                        "sentence": "A: Which is Kyle's house? B: The red house over there is.",
+                        "sentence_chinese": "A：哪一個是凱爾的房子？B：那邊那棟紅色的房子是。"
+                    },
+                    {
+                        "id": "m1-4-u3-sv004",
+                        "vocab_id": "m1-4-u3-v004",
+                        "sentence": "I am always hot and thirsty after baseball games.",
+                        "sentence_chinese": "棒球比賽後我總是又熱又渴。"
+                    },
+                    {
+                        "id": "m1-4-u3-sv005",
+                        "vocab_id": "m1-4-u3-v005",
+                        "sentence": "Too much coffee is not good for you.",
+                        "sentence_chinese": "喝太多咖啡對你不好。"
+                    },
+                    {
+                        "id": "m1-4-u3-sv006",
+                        "vocab_id": "m1-4-u3-v006",
+                        "sentence": "There aren't many shops near my house.",
+                        "sentence_chinese": "我家附近沒有很多商店。"
+                    },
+                    {
+                        "id": "m1-4-u3-sv007",
+                        "vocab_id": "m1-4-u3-v007",
+                        "sentence": "A: I'm going home now. Bye. B: See you later.",
+                        "sentence_chinese": "A：我現在要回家了。再見。B：待會見。"
+                    },
+                    {
+                        "id": "m1-4-u3-sv008",
+                        "vocab_id": "m1-4-u3-v008",
+                        "sentence": "The clerk is very nice. She helps me a lot.",
+                        "sentence_chinese": "那位店員人很好。她幫了我很多忙。"
+                    },
+                    {
+                        "id": "m1-4-u3-sv009",
+                        "vocab_id": "m1-4-u3-v009",
+                        "sentence": "A: May I come in? B: Sure. Please come in.",
+                        "sentence_chinese": "A：我可以進來嗎？B：當然。請進。"
+                    },
+                    {
+                        "id": "m1-4-u3-sv010",
+                        "vocab_id": "m1-4-u3-v010",
+                        "sentence": "I always have orange juice for breakfast.",
+                        "sentence_chinese": "我早餐總是喝柳橙汁。"
+                    },
+                    {
+                        "id": "m1-4-u3-sv011",
+                        "vocab_id": "m1-4-u3-v011",
+                        "sentence": "Mr. Chen wants a baby, but Mrs. Chen doesn't.",
+                        "sentence_chinese": "陳先生想要一個孩子，但陳太太不想要。"
+                    },
+                    {
+                        "id": "m1-4-u3-sv012",
+                        "vocab_id": "m1-4-u3-v012",
+                        "sentence": "Do you know anything about Van Gogh?",
+                        "sentence_chinese": "你對梵谷有任何了解嗎？"
+                    },
+                    {
+                        "id": "m1-4-u3-sv013",
+                        "vocab_id": "m1-4-u3-v013",
+                        "sentence": "Joanne is not happy, but everyone else is.",
+                        "sentence_chinese": "Joanne 不開心，但其他每個人都很開心。"
+                    },
+                    {
+                        "id": "m1-4-u3-sv014",
+                        "vocab_id": "m1-4-u3-v014",
+                        "sentence": "Let me treat you to dinner later.",
+                        "sentence_chinese": "晚點讓我請你吃晚餐吧。"
+                    },
+                    {
+                        "id": "m1-4-u3-sv015",
+                        "vocab_id": "m1-4-u3-v015",
+                        "sentence": "Holly is a sweet girl. People love her.",
+                        "sentence_chinese": "Holly 是個甜美的女孩。大家都很喜歡她。"
+                    },
+                    {
+                        "id": "m1-4-u3-sv016",
+                        "vocab_id": "m1-4-u3-v016",
+                        "sentence": "It's so hot. I want some ice cream.",
+                        "sentence_chinese": "好熱。我想要吃點冰淇淋。"
+                    },
+                    {
+                        "id": "m1-4-u3-sv017",
+                        "vocab_id": "m1-4-u3-v017",
+                        "sentence": "Chocolate ice cream is my favorite.",
+                        "sentence_chinese": "巧克力冰淇淋是我的最愛。"
+                    },
+                    {
+                        "id": "m1-4-u3-sv018",
+                        "vocab_id": "m1-4-u3-v018",
+                        "sentence": "A: How much is that comic book? B: It's two hundred dollars.",
+                        "sentence_chinese": "A：那本漫畫書多少錢？B：兩百元。"
+                    },
+                    {
+                        "id": "m1-4-u3-sv019",
+                        "vocab_id": "m1-4-u3-v019",
+                        "sentence": "The man is painting the wall bright blue.",
+                        "sentence_chinese": "那個男人正在把牆壁漆成鮮豔的藍色。"
+                    },
+                    {
+                        "id": "m1-4-u3-sv020",
+                        "vocab_id": "m1-4-u3-v020",
+                        "sentence": "It's too dark in my room. I can't read.",
+                        "sentence_chinese": "我房間太暗了。我沒辦法看書。"
+                    },
+                    {
+                        "id": "m1-4-u3-sv021",
+                        "vocab_id": "m1-4-u3-v021",
+                        "sentence": "Miss Lee is an art teacher at Green Junior High School.",
+                        "sentence_chinese": "李老師是格林國中的美術老師。"
+                    },
+                    {
+                        "id": "m1-4-u3-sv022",
+                        "vocab_id": "m1-4-u3-v022",
+                        "sentence": "Have some hot milk before bed.",
+                        "sentence_chinese": "睡前喝點熱牛奶吧。"
+                    },
+                    {
+                        "id": "m1-4-u3-sv023",
+                        "vocab_id": "m1-4-u3-v023",
+                        "sentence": "The hamburger house on Elm Street is great.",
+                        "sentence_chinese": "榆樹街上的那家漢堡店很棒。"
+                    },
+                    {
+                        "id": "m1-4-u3-sv024",
+                        "vocab_id": "m1-4-u3-v024",
+                        "sentence": "My mom makes good chicken rice.",
+                        "sentence_chinese": "我媽媽做的雞肉飯很好吃。"
+                    },
+                    {
+                        "id": "m1-4-u3-sv025",
+                        "vocab_id": "m1-4-u3-v025",
+                        "sentence": "Do you have some ice? My tea is too hot.",
+                        "sentence_chinese": "你有些冰塊嗎？我的茶太熱了。"
+                    },
+                    {
+                        "id": "m1-4-u3-sv026",
+                        "vocab_id": "m1-4-u3-v026",
+                        "sentence": "Lara's favorite food is ice cream.",
+                        "sentence_chinese": "Lara 最喜歡的食物是冰淇淋。"
+                    },
+                    {
+                        "id": "m1-4-u3-sv027",
+                        "vocab_id": "m1-4-u3-v027",
+                        "sentence": "In English, we always say \"eat soup,\" not \"drink soup.\"",
+                        "sentence_chinese": "在英文裡，我們總是說「吃湯」，而不是「喝湯」。"
+                    },
+                    {
+                        "id": "m1-4-u3-sv028",
+                        "vocab_id": "m1-4-u3-v028",
+                        "sentence": "That shop has really good sandwiches.",
+                        "sentence_chinese": "那家店有非常棒的三明治。"
+                    },
+                    {
+                        "id": "m1-4-u3-sv029",
+                        "vocab_id": "m1-4-u3-v029",
+                        "sentence": "The Mona Lisa is a work by Leonardo da Vinci.",
+                        "sentence_chinese": "蒙娜麗莎是達文西的作品。"
+                    },
+                    {
+                        "id": "m1-4-u3-sv030",
+                        "vocab_id": "m1-4-u3-v030",
+                        "sentence": "She's showing her new watch to her friends.",
+                        "sentence_chinese": "她正在向她的朋友們展示她的新秀錶。"
+                    },
+                    {
+                        "id": "m1-4-u3-sv031",
+                        "vocab_id": "m1-4-u3-v031",
+                        "sentence": "Music is an important part in a movie.",
+                        "sentence_chinese": "音樂是電影中重要的一部分。"
+                    },
+                    {
+                        "id": "m1-4-u3-sv032",
+                        "vocab_id": "m1-4-u3-v032",
+                        "sentence": "The sky is gray today.",
+                        "sentence_chinese": "今天天空是灰色的。"
+                    },
+                    {
+                        "id": "m1-4-u3-sv033",
+                        "vocab_id": "m1-4-u3-v033",
+                        "sentence": "It's a quiet night. There are no people on the street.",
+                        "sentence_chinese": "這是一個安靜的夜晚。街上沒有人。"
+                    },
+                    {
+                        "id": "m1-4-u3-sv034",
+                        "vocab_id": "m1-4-u3-v034",
+                        "sentence": "I'm reading some books by Charles Dickens.",
+                        "sentence_chinese": "我正在讀一些查爾斯·狄更斯的書。"
+                    }
+                ],
+                "phrases": [
+                    {
+                        "id": "m1-4-u3-sp001",
+                        "phrase_id": "m1-4-u3-p001",
+                        "sentence": "A: Are you going to Ed's birthday party later? B: Of course.",
+                        "sentence_chinese": "A：你晚點要去 Ed 的生日派對嗎？B：當然。"
+                    },
+                    {
+                        "id": "m1-4-u3-sp002",
+                        "phrase_id": "m1-4-u3-p002",
+                        "sentence": "May I have black coffee for here, please?",
+                        "sentence_chinese": "請給我一杯內用的黑咖啡好嗎？"
+                    },
+                    {
+                        "id": "m1-4-u3-sp003",
+                        "phrase_id": "m1-4-u3-p003",
+                        "sentence": "A: Do you want your juice for here or to go? B: To go. Thanks.",
+                        "sentence_chinese": "A：你的果汁要內用還是外帶？B：外帶。謝謝。"
+                    },
+                    {
+                        "id": "m1-4-u3-sp004",
+                        "phrase_id": "m1-4-u3-p004",
+                        "sentence": "A: May I have some tea, please? B: Sure. Here you are.",
+                        "sentence_chinese": "A：請給我一些茶好嗎？B：好的。給你。"
+                    }
+                ],
+                "grammar": [
+                    {
+                        "id": "m1-4-u3-sg001",
+                        "sentence": "Which do you like, coffee or tea?",
+                        "sentence_chinese": "你喜歡哪一個，咖啡還是茶？"
+                    },
+                    {
+                        "id": "m1-4-u3-sg002",
+                        "sentence": "How much is the painting on the wall?",
+                        "sentence_chinese": "牆上的那幅畫作多少錢？"
+                    },
+                    {
+                        "id": "m1-4-u3-sg003",
+                        "sentence": "Which is your house, the red one or the blue one?",
+                        "sentence_chinese": "哪一個是你的房子，紅色的還是藍色的？"
+                    },
+                    {
+                        "id": "m1-4-u3-sg004",
+                        "sentence": "How much are the beautiful flowers?",
+                        "sentence_chinese": "這些美麗的花多少錢？"
+                    },
+                    {
+                        "id": "m1-4-u3-sg005",
+                        "sentence": "Which NBA player does she like, James or Curry?",
+                        "sentence_chinese": "她喜歡哪一位 NBA 球員，詹皇還是柯瑞？"
+                    },
+                    {
+                        "id": "m1-4-u3-sg006",
+                        "sentence": "How much is the hot coffee for here?",
+                        "sentence_chinese": "內用的熱咖啡多少錢？"
+                    },
+                    {
+                        "id": "m1-4-u3-sg007",
+                        "sentence": "Which do you want, orange juice or apple juice?",
+                        "sentence_chinese": "你想要哪一個，柳橙汁還是蘋果汁？"
+                    },
+                    {
+                        "id": "m1-4-u3-sg008",
+                        "sentence": "How much is the sweet chocolate?",
+                        "sentence_chinese": "這甜巧克力多少錢？"
+                    },
+                    {
+                        "id": "m1-4-u3-sg009",
+                        "sentence": "Which shop is nice, this one or that one?",
+                        "sentence_chinese": "哪一間商店不錯，這間還是那間？"
+                    },
+                    {
+                        "id": "m1-4-u3-sg010",
+                        "sentence": "How much is the chicken rice?",
+                        "sentence_chinese": "雞肉飯多少錢？"
+                    },
+                    {
+                        "id": "m1-4-u3-sg011",
+                        "sentence": "Which does he want, hot dogs or sandwiches?",
+                        "sentence_chinese": "他想要哪一個，熱狗還是三明治？"
+                    },
+                    {
+                        "id": "m1-4-u3-sg012",
+                        "sentence": "How much is the hot soup?",
+                        "sentence_chinese": "熱湯多少錢？"
+                    },
+                    {
+                        "id": "m1-4-u3-sg013",
+                        "sentence": "Which part of the movie do you like?",
+                        "sentence_chinese": "你喜歡這部電影的哪一個部分？"
+                    },
+                    {
+                        "id": "m1-4-u3-sg014",
+                        "sentence": "How much is the art book?",
+                        "sentence_chinese": "這本美術書多少錢？"
+                    },
+                    {
+                        "id": "m1-4-u3-sg015",
+                        "sentence": "Which is Kyle's house?",
+                        "sentence_chinese": "哪一個是凱爾的房子？"
+                    },
+                    {
+                        "id": "m1-4-u3-sg016",
+                        "sentence": "How much are the hamburgers?",
+                        "sentence_chinese": "這些漢堡多少錢？"
+                    },
+                    {
+                        "id": "m1-4-u3-sg017",
+                        "sentence": "Which flower do you want, the bright one or the dark one?",
+                        "sentence_chinese": "你想要哪一朵花，鮮豔的還是暗色的？"
+                    },
+                    {
+                        "id": "m1-4-u3-sg018",
+                        "sentence": "How much is the cold milk?",
+                        "sentence_chinese": "冷牛奶多少錢？"
+                    },
+                    {
+                        "id": "m1-4-u3-sg019",
+                        "sentence": "Which do you want to drink, milk or juice?",
+                        "sentence_chinese": "你想喝哪一個，牛奶還是果汁？"
+                    },
+                    {
+                        "id": "m1-4-u3-sg020",
+                        "sentence": "How much is the ice cream?",
+                        "sentence_chinese": "冰淇淋多少錢？"
+                    },
+                    {
+                        "id": "m1-4-u3-sg021",
+                        "sentence": "Which is your favorite work?",
+                        "sentence_chinese": "哪一個是你最喜歡的作品？"
+                    },
+                    {
+                        "id": "m1-4-u3-sg022",
+                        "sentence": "How much are the sandwiches and the coffee?",
+                        "sentence_chinese": "三明治和咖啡多少錢？"
+                    },
+                    {
+                        "id": "m1-4-u3-sg023",
+                        "sentence": "Which does Brody like, hot dogs or sandwiches?",
+                        "sentence_chinese": "Brody 喜歡哪一個，熱狗還是三明治？"
+                    },
+                    {
+                        "id": "m1-4-u3-sg024",
+                        "sentence": "How much is that comic book?",
+                        "sentence_chinese": "那本漫畫書多少錢？"
+                    },
+                    {
+                        "id": "m1-4-u3-sg025",
+                        "sentence": "Which do you want, the bright blue one or the dark black one?",
+                        "sentence_chinese": "你想要哪一個，明亮藍色的還是暗黑色的？"
+                    },
+                    {
+                        "id": "m1-4-u3-sg026",
+                        "sentence": "How much is the tea to go?",
+                        "sentence_chinese": "外帶的茶多少錢？"
+                    },
+                    {
+                        "id": "m1-4-u3-sg027",
+                        "sentence": "Which street is quiet, Elm Street or Oak Street?",
+                        "sentence_chinese": "哪一條街道很安靜，榆樹街還是橡樹街？"
+                    },
+                    {
+                        "id": "m1-4-u3-sg028",
+                        "sentence": "How much are the cookies?",
+                        "sentence_chinese": "這些餅乾多少錢？"
+                    },
+                    {
+                        "id": "m1-4-u3-sg029",
+                        "sentence": "Which clerk is nice?",
+                        "sentence_chinese": "哪一位店員人很好？"
+                    },
+                    {
+                        "id": "m1-4-u3-sg030",
+                        "sentence": "How much is it?",
+                        "sentence_chinese": "這多少錢？"
+                    }
+                ]
+            }
+        }
+    }
+}

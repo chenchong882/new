@@ -1,0 +1,1200 @@
+{
+    "units": {
+        "h1-4-u4": {
+            "title": "Unit 4",
+            "vocab": [
+                {
+                    "id": "h1-4-u4-v001",
+                    "word": "consider",
+                    "part_of_speech": "vt.; vi.",
+                    "chinese": "考慮",
+                    "sentence": "Patrick is considering buying a Happy Meal to get the free toy.",
+                    "sentence_chinese": "派翠克正在考慮買快樂兒童餐來獲得免費玩具。"
+                },
+                {
+                    "id": "h1-4-u4-v002",
+                    "word": "consideration",
+                    "part_of_speech": "n. [U]",
+                    "chinese": "考慮",
+                    "sentence": "Alisa usually takes breakfast into consideration when she chooses a hotel.",
+                    "sentence_chinese": "艾莉莎選擇飯店時通常會將早餐納入考慮。"
+                },
+                {
+                    "id": "h1-4-u4-v003",
+                    "word": "situation",
+                    "part_of_speech": "n. [C]",
+                    "chinese": "情況",
+                    "sentence": "The red button in the public toilet is for dangerous situations only.",
+                    "sentence_chinese": "公廁裡的紅色按鈕僅供危險情況使用。"
+                },
+                {
+                    "id": "h1-4-u4-v004",
+                    "word": "tend",
+                    "part_of_speech": "vi.",
+                    "chinese": "傾向，往往",
+                    "sentence": "Irene tends to choose a window seat when she takes a plane.",
+                    "sentence_chinese": "艾琳搭飛機時往往會選擇靠窗的座位。"
+                },
+                {
+                    "id": "h1-4-u4-v005",
+                    "word": "crowd",
+                    "part_of_speech": "n. [C]",
+                    "chinese": "群眾",
+                    "sentence": "The Christmas event was fun, so it attracted large crowds of people.",
+                    "sentence_chinese": "這場聖誕活動很有趣，所以吸引了大批群眾。"
+                },
+                {
+                    "id": "h1-4-u4-v006",
+                    "word": "daily",
+                    "part_of_speech": "adj.",
+                    "chinese": "日常的，每天的",
+                    "sentence": "The daily job of some social workers is to check on how poor families are doing.",
+                    "sentence_chinese": "一些社會工作者的日常工作是查看貧困家庭的狀況。"
+                },
+                {
+                    "id": "h1-4-u4-v007",
+                    "word": "suddenly",
+                    "part_of_speech": "adv.",
+                    "chinese": "突然",
+                    "sentence": "The earthquake occurred suddenly and scared my parents.",
+                    "sentence_chinese": "地震突然發生，嚇到了我父母。"
+                },
+                {
+                    "id": "h1-4-u4-v008",
+                    "word": "include",
+                    "part_of_speech": "vt.",
+                    "chinese": "包括",
+                    "sentence": "This set lunch includes a main dish and a drink.",
+                    "sentence_chinese": "這份套餐包括一份主菜和一杯飲料。"
+                },
+                {
+                    "id": "h1-4-u4-v009",
+                    "word": "including",
+                    "part_of_speech": "prep.",
+                    "chinese": "包含",
+                    "sentence": "Certain behavior is not allowed in the race, including hitting others.",
+                    "sentence_chinese": "比賽中不允許某些行為，包含打別人。"
+                },
+                {
+                    "id": "h1-4-u4-v010",
+                    "word": "gesture",
+                    "part_of_speech": "n. [C][U]",
+                    "chinese": "手勢",
+                    "sentence": "Michael made a gesture to tell his team member to shoot the ball.",
+                    "sentence_chinese": "麥可做了一個手勢告訴他的隊員投籃。"
+                },
+                {
+                    "id": "h1-4-u4-v011",
+                    "word": "rapidly",
+                    "part_of_speech": "adv.",
+                    "chinese": "迅速地",
+                    "sentence": "If a popular YouTuber promotes our product, our sales increase rapidly.",
+                    "sentence_chinese": "如果受歡迎的 YouTuber 推廣我們的產品，我們的銷售量會迅速增加。"
+                },
+                {
+                    "id": "h1-4-u4-v012",
+                    "word": "rapid",
+                    "part_of_speech": "adj.",
+                    "chinese": "迅速的",
+                    "sentence": "The rapid change in the weather made me catch a cold.",
+                    "sentence_chinese": "天氣的迅速變化讓我感冒了。"
+                },
+                {
+                    "id": "h1-4-u4-v013",
+                    "word": "besides",
+                    "part_of_speech": "adv.",
+                    "chinese": "此外",
+                    "sentence": "I don't feel like eating out tonight. Besides, I spent too much money this month.",
+                    "sentence_chinese": "我今晚不想在外面吃。此外，我這個月花太多錢了。"
+                },
+                {
+                    "id": "h1-4-u4-v014",
+                    "word": "drama",
+                    "part_of_speech": "n. [C]",
+                    "chinese": "戲劇",
+                    "sentence": "It is surprising that the singer plays the role of a clown in the new TV drama.",
+                    "sentence_chinese": "令人驚訝的是，這位歌手在新電視劇中扮演小丑的角色。"
+                },
+                {
+                    "id": "h1-4-u4-v015",
+                    "word": "unfortunately",
+                    "part_of_speech": "adv.",
+                    "chinese": "不幸地",
+                    "sentence": "Sherry came for her favorite dessert at the café. Unfortunately, it was not open.",
+                    "sentence_chinese": "雪莉來這家咖啡館吃她最喜歡的甜點。不幸地是，它沒開。"
+                },
+                {
+                    "id": "h1-4-u4-v016",
+                    "word": "fortunate",
+                    "part_of_speech": "adj.",
+                    "chinese": "幸運的",
+                    "sentence": "Daniel was fortunate to earn a free set of LINE stickers.",
+                    "sentence_chinese": "丹尼爾很幸運地獲得了一組免費的 LINE 貼圖。"
+                },
+                {
+                    "id": "h1-4-u4-v017",
+                    "word": "harmful",
+                    "part_of_speech": "adj.",
+                    "chinese": "有害的",
+                    "sentence": "Eating too many instant noodles can be harmful to health.",
+                    "sentence_chinese": "吃太多泡麵可能對健康有害。"
+                },
+                {
+                    "id": "h1-4-u4-v018",
+                    "word": "harm",
+                    "part_of_speech": "n. [U]",
+                    "chinese": "傷害",
+                    "sentence": "The hurtful comments on Rita's blog did harm to her feelings.",
+                    "sentence_chinese": "麗塔部落格上的傷人評論對她的感情造成了傷害。"
+                },
+                {
+                    "id": "h1-4-u4-v019",
+                    "word": "pressure",
+                    "part_of_speech": "n. [U][C]",
+                    "chinese": "壓力",
+                    "sentence": "The young singer is under a lot of pressure to perform in the big show.",
+                    "sentence_chinese": "這位年輕歌手在大型演出中承受著很大的壓力。"
+                },
+                {
+                    "id": "h1-4-u4-v020",
+                    "word": "isolate",
+                    "part_of_speech": "vt.",
+                    "chinese": "孤立",
+                    "sentence": "The island is isolated by oceans, so we need to go there by boat.",
+                    "sentence_chinese": "這座島嶼被海洋孤立，所以我們需要搭船去那裡。"
+                }
+            ],
+            "phrases": [
+                {
+                    "id": "h1-4-u4-p001",
+                    "phrase": "in contrast",
+                    "chinese": "相比之下",
+                    "sentence": "Ted loves to read books for fun. In contrast, I play video games.",
+                    "sentence_chinese": "泰德喜歡看書當作消遣。相比之下，我打電動。"
+                },
+                {
+                    "id": "h1-4-u4-p002",
+                    "phrase": "rather than",
+                    "chinese": "而不是",
+                    "sentence": "Ian chose the cool shoes rather than the comfortable ones.",
+                    "sentence_chinese": "伊恩選擇了酷炫的鞋子而不是舒適的鞋子。"
+                },
+                {
+                    "id": "h1-4-u4-p003",
+                    "phrase": "(all) on one's own",
+                    "chinese": "獨立，獨自",
+                    "sentence": "Winnie is very nervous because she is going to travel on her own.",
+                    "sentence_chinese": "溫妮非常緊張，因為她要獨自旅行。"
+                },
+                {
+                    "id": "h1-4-u4-p004",
+                    "phrase": "be known as",
+                    "chinese": "被稱為...",
+                    "sentence": "New York City is commonly known as the Big Apple.",
+                    "sentence_chinese": "紐約市通常被稱為大蘋果。"
+                },
+                {
+                    "id": "h1-4-u4-p005",
+                    "phrase": "stick to",
+                    "chinese": "堅持，衷於",
+                    "sentence": "Kelly sticks to her habit of getting up early every day, even on weekends.",
+                    "sentence_chinese": "凱莉堅持她每天早起的習慣，即使在週末也是如此。"
+                }
+            ],
+            "grammar": {
+                "tips": [
+                    {
+                        "label": "基本句型 1",
+                        "text": "S + V + so + Adj / Adv + that + S + V"
+                    },
+                    {
+                        "label": "基本句型 2",
+                        "text": "N (先行詞) + who / which / that + V ..."
+                    }
+                ],
+                "notes": [
+                    {
+                        "title": "so + Adj / Adv + that ... (如此...以至於...)",
+                        "rule": "so 是副詞，後面必須緊接形容詞 (Adj) 或副詞 (Adv)，用來強調程度。that 所引導的子句用來表達因為前面的程度而造成的「結果」。",
+                        "description": "用來表達某事物程度極高，進而產生了某種結果。",
+                        "examples": [
+                            "The weather changed so rapidly that we had to cancel our picnic.",
+                            "The rain was so heavy that we all got wet.",
+                            "The dog appeared so suddenly that I was scared to death."
+                        ]
+                    },
+                    {
+                        "title": "關係子句 (主格關係代名詞 who / which / that)",
+                        "rule": "當先行詞是「人」時，關係代名詞用 who 或 that；當先行詞是「物」或「動物」時，關係代名詞用 which 或 that。在子句中作主詞時，動詞單複數必須與先行詞一致。",
+                        "description": "關係代名詞用來代替前面的名詞（先行詞），並引導出一個形容詞子句來修飾該名詞。",
+                        "examples": [
+                            "I prefer to watch dramas that / which have happy endings.",
+                            "Andrew lost the hat which was given by Sharon.",
+                            "A crowd of people who gathered in the square were there for the event."
+                        ]
+                    }
+                ],
+                "quiz": [
+                    {
+                        "id": "h1-4-u4-q001",
+                        "question": "The weather changed ____ rapidly that we had to cancel our picnic.",
+                        "options": [
+                            "such",
+                            "too",
+                            "very",
+                            "so"
+                        ],
+                        "answer": "so",
+                        "answer_index": 3,
+                        "hint": "空格後接副詞 rapidly，且後面有 that 引導結果子句，必須使用 so...that (如此...以至於...) 句型。"
+                    },
+                    {
+                        "id": "h1-4-u4-q002",
+                        "question": "The rain was so heavy ____ we all got completely wet.",
+                        "options": [
+                            "which",
+                            "that",
+                            "than",
+                            "what"
+                        ],
+                        "answer": "that",
+                        "answer_index": 1,
+                        "hint": "so + adj. + that... 句型中，用 that 引導表示結果的子句。"
+                    },
+                    {
+                        "id": "h1-4-u4-q003",
+                        "question": "The dog appeared so suddenly ____ I was scared to death.",
+                        "options": [
+                            "that",
+                            "this",
+                            "then",
+                            "than"
+                        ],
+                        "answer": "that",
+                        "answer_index": 0,
+                        "hint": "so suddenly (如此突然) 後方須接 that 引導結果子句。"
+                    },
+                    {
+                        "id": "h1-4-u4-q004",
+                        "question": "Technology is developing ____ rapidly that we must keep learning new things.",
+                        "options": [
+                            "too",
+                            "such",
+                            "so",
+                            "very"
+                        ],
+                        "answer": "so",
+                        "answer_index": 2,
+                        "hint": "修飾副詞 rapidly 並與後方 that 連用，表示程度極高導致的結果，需用 so。"
+                    },
+                    {
+                        "id": "h1-4-u4-q005",
+                        "question": "The new TV drama was so popular ____ almost everyone in my class watched it.",
+                        "options": [
+                            "which",
+                            "if",
+                            "because",
+                            "that"
+                        ],
+                        "answer": "that",
+                        "answer_index": 3,
+                        "hint": "so popular 後需接 that 帶出結果。"
+                    },
+                    {
+                        "id": "h1-4-u4-q006",
+                        "question": "The Christmas event was ____ fun that it attracted large crowds of people.",
+                        "options": [
+                            "so",
+                            "very",
+                            "too",
+                            "much"
+                        ],
+                        "answer": "so",
+                        "answer_index": 0,
+                        "hint": "fun 在此作為形容詞，搭配後方的 that 子句，需使用 so 來修飾。"
+                    },
+                    {
+                        "id": "h1-4-u4-q007",
+                        "question": "The island is so isolated by oceans ____ we need to go there by boat.",
+                        "options": [
+                            "that",
+                            "where",
+                            "when",
+                            "which"
+                        ],
+                        "answer": "that",
+                        "answer_index": 0,
+                        "hint": "so isolated (如此孤立) 後接 that 引導出結果。"
+                    },
+                    {
+                        "id": "h1-4-u4-q008",
+                        "question": "The hurtful comments were ____ harmful that they caused her great pain.",
+                        "options": [
+                            "so",
+                            "too",
+                            "such",
+                            "very"
+                        ],
+                        "answer": "so",
+                        "answer_index": 0,
+                        "hint": "搭配後方的 that 子句，必須選 so 來修飾形容詞 harmful。"
+                    },
+                    {
+                        "id": "h1-4-u4-q009",
+                        "question": "Daniel was so fortunate to earn free stickers ____ he jumped with joy.",
+                        "options": [
+                            "than",
+                            "what",
+                            "that",
+                            "which"
+                        ],
+                        "answer": "that",
+                        "answer_index": 2,
+                        "hint": "so fortunate (如此幸運) 後接 that 引導結果子句。"
+                    },
+                    {
+                        "id": "h1-4-u4-q010",
+                        "question": "The young singer felt ____ pressured that she started to cry backstage.",
+                        "options": [
+                            "such",
+                            "too",
+                            "so",
+                            "very"
+                        ],
+                        "answer": "so",
+                        "answer_index": 2,
+                        "hint": "修飾形容詞 pressured 並與後方 that 連用，需選 so。"
+                    },
+                    {
+                        "id": "h1-4-u4-q011",
+                        "question": "The coffee was so hot ____ I burned my tongue.",
+                        "options": [
+                            "than",
+                            "that",
+                            "which",
+                            "this"
+                        ],
+                        "answer": "that",
+                        "answer_index": 1,
+                        "hint": "固定句型 so + adj. + that + 子句，用 that 帶出結果。"
+                    },
+                    {
+                        "id": "h1-4-u4-q012",
+                        "question": "He ran ____ fast that nobody could catch him.",
+                        "options": [
+                            "too",
+                            "very",
+                            "such",
+                            "so"
+                        ],
+                        "answer": "so",
+                        "answer_index": 3,
+                        "hint": "fast 為副詞，後面有 that 引導結果，需搭配 so。"
+                    },
+                    {
+                        "id": "h1-4-u4-q013",
+                        "question": "The math test was so easy ____ everyone got a high score.",
+                        "options": [
+                            "that",
+                            "what",
+                            "which",
+                            "when"
+                        ],
+                        "answer": "that",
+                        "answer_index": 0,
+                        "hint": "so easy 後方需用 that 引導結果子句。"
+                    },
+                    {
+                        "id": "h1-4-u4-q014",
+                        "question": "The noise was ____ loud that I couldn't hear what the teacher said.",
+                        "options": [
+                            "such",
+                            "so",
+                            "too",
+                            "very"
+                        ],
+                        "answer": "so",
+                        "answer_index": 1,
+                        "hint": "搭配後方 that 子句，修飾形容詞 loud 需用 so。"
+                    },
+                    {
+                        "id": "h1-4-u4-q015",
+                        "question": "The boy was so tired ____ he went to bed early.",
+                        "options": [
+                            "which",
+                            "what",
+                            "than",
+                            "that"
+                        ],
+                        "answer": "that",
+                        "answer_index": 3,
+                        "hint": "so tired (如此疲累) 後方以 that 引導結果子句。"
+                    },
+                    {
+                        "id": "h1-4-u4-q016",
+                        "question": "The food was ____ delicious that I ate three bowls of rice.",
+                        "options": [
+                            "too",
+                            "such",
+                            "very",
+                            "so"
+                        ],
+                        "answer": "so",
+                        "answer_index": 3,
+                        "hint": "delicious 為形容詞，有 that 結果子句跟隨，需用 so。"
+                    },
+                    {
+                        "id": "h1-4-u4-q017",
+                        "question": "He was so angry ____ he left without saying a word.",
+                        "options": [
+                            "that",
+                            "which",
+                            "because",
+                            "if"
+                        ],
+                        "answer": "that",
+                        "answer_index": 0,
+                        "hint": "so angry 後方需接 that 引導結果。"
+                    },
+                    {
+                        "id": "h1-4-u4-q018",
+                        "question": "The room was ____ dark that I couldn't see anything at all.",
+                        "options": [
+                            "such",
+                            "too",
+                            "so",
+                            "very"
+                        ],
+                        "answer": "so",
+                        "answer_index": 2,
+                        "hint": "修飾形容詞 dark 且後方有 that 子句，需填入 so。"
+                    },
+                    {
+                        "id": "h1-4-u4-q019",
+                        "question": "The story was so sad ____ it made everyone in the theater cry.",
+                        "options": [
+                            "than",
+                            "that",
+                            "what",
+                            "which"
+                        ],
+                        "answer": "that",
+                        "answer_index": 1,
+                        "hint": "so sad 後面接 that 子句表達導致的結果。"
+                    },
+                    {
+                        "id": "h1-4-u4-q020",
+                        "question": "The music is ____ loud that it hurts my ears.",
+                        "options": [
+                            "so",
+                            "too",
+                            "very",
+                            "such"
+                        ],
+                        "answer": "so",
+                        "answer_index": 0,
+                        "hint": "搭配 that 子句，修飾 loud 須用 so。"
+                    },
+                    {
+                        "id": "h1-4-u4-q021",
+                        "question": "The earthquake occurred so suddenly ____ my parents were scared.",
+                        "options": [
+                            "when",
+                            "which",
+                            "that",
+                            "what"
+                        ],
+                        "answer": "that",
+                        "answer_index": 2,
+                        "hint": "so suddenly 搭配 that 引導結果子句。"
+                    },
+                    {
+                        "id": "h1-4-u4-q022",
+                        "question": "The box was ____ heavy that she couldn't lift it on her own.",
+                        "options": [
+                            "so",
+                            "too",
+                            "such",
+                            "very"
+                        ],
+                        "answer": "so",
+                        "answer_index": 0,
+                        "hint": "heavy 為形容詞，搭配 that 結果子句，前方需用 so 修飾。"
+                    },
+                    {
+                        "id": "h1-4-u4-q023",
+                        "question": "The weather is so cold ____ we have to stay indoors and keep warm.",
+                        "options": [
+                            "than",
+                            "this",
+                            "which",
+                            "that"
+                        ],
+                        "answer": "that",
+                        "answer_index": 3,
+                        "hint": "so cold 後方以 that 引導結果。"
+                    },
+                    {
+                        "id": "h1-4-u4-q024",
+                        "question": "She sings ____ well that people think she is a professional star.",
+                        "options": [
+                            "such",
+                            "too",
+                            "so",
+                            "very"
+                        ],
+                        "answer": "so",
+                        "answer_index": 2,
+                        "hint": "well 在此為副詞，修飾動詞 sings，搭配 that 子句需用 so。"
+                    },
+                    {
+                        "id": "h1-4-u4-q025",
+                        "question": "The soup is so hot ____ I have to wait for it to cool down.",
+                        "options": [
+                            "that",
+                            "what",
+                            "which",
+                            "than"
+                        ],
+                        "answer": "that",
+                        "answer_index": 0,
+                        "hint": "so hot 後面需搭配 that 引導結果。"
+                    },
+                    {
+                        "id": "h1-4-u4-q026",
+                        "question": "I prefer to watch dramas ____ have happy endings.",
+                        "options": [
+                            "who",
+                            "whom",
+                            "which",
+                            "what"
+                        ],
+                        "answer": "which",
+                        "answer_index": 2,
+                        "hint": "先行詞 dramas 為事物，在關係子句中作主詞，關係代名詞需用 which 或 that。"
+                    },
+                    {
+                        "id": "h1-4-u4-q027",
+                        "question": "A crowd of people ____ gathered in the square were there for the event.",
+                        "options": [
+                            "who",
+                            "which",
+                            "whom",
+                            "what"
+                        ],
+                        "answer": "who",
+                        "answer_index": 0,
+                        "hint": "先行詞 A crowd of people 為「人」，在關係子句中作主詞，關係代名詞需用 who。"
+                    },
+                    {
+                        "id": "h1-4-u4-q028",
+                        "question": "Andrew lost the hat ____ was given by Sharon yesterday.",
+                        "options": [
+                            "what",
+                            "who",
+                            "whom",
+                            "that"
+                        ],
+                        "answer": "that",
+                        "answer_index": 3,
+                        "hint": "先行詞 the hat 為事物，關係代名詞可用 which 或 that，選項中僅 that 正確。"
+                    },
+                    {
+                        "id": "h1-4-u4-q029",
+                        "question": "The teacher ____ teaches us English is very nice and patient.",
+                        "options": [
+                            "which",
+                            "whom",
+                            "who",
+                            "what"
+                        ],
+                        "answer": "who",
+                        "answer_index": 2,
+                        "hint": "先行詞 The teacher 為「人」，在關係子句作主詞，需填 who。"
+                    },
+                    {
+                        "id": "h1-4-u4-q030",
+                        "question": "I bought a new phone ____ has a great camera.",
+                        "options": [
+                            "which",
+                            "who",
+                            "whom",
+                            "whose"
+                        ],
+                        "answer": "which",
+                        "answer_index": 0,
+                        "hint": "先行詞 a new phone 為事物，關係代名詞需用 which。"
+                    },
+                    {
+                        "id": "h1-4-u4-q031",
+                        "question": "The girl ____ is making a gesture in the center is my sister.",
+                        "options": [
+                            "what",
+                            "whom",
+                            "which",
+                            "who"
+                        ],
+                        "answer": "who",
+                        "answer_index": 3,
+                        "hint": "先行詞 The girl 為「人」，在關係子句作主詞，需填 who。"
+                    },
+                    {
+                        "id": "h1-4-u4-q032",
+                        "question": "The book ____ is on the desk belongs to Mary.",
+                        "options": [
+                            "which",
+                            "who",
+                            "whom",
+                            "what"
+                        ],
+                        "answer": "which",
+                        "answer_index": 0,
+                        "hint": "先行詞 The book 為事物，需用 which 引導關係子句。"
+                    },
+                    {
+                        "id": "h1-4-u4-q033",
+                        "question": "The man ____ called you to explain the situation yesterday is my uncle.",
+                        "options": [
+                            "which",
+                            "whom",
+                            "who",
+                            "whose"
+                        ],
+                        "answer": "who",
+                        "answer_index": 2,
+                        "hint": "先行詞 The man 為「人」，且在子句中擔任動詞 called 的主詞，需用 who。"
+                    },
+                    {
+                        "id": "h1-4-u4-q034",
+                        "question": "The dog ____ bit me last week is very dangerous.",
+                        "options": [
+                            "who",
+                            "whom",
+                            "what",
+                            "that"
+                        ],
+                        "answer": "that",
+                        "answer_index": 3,
+                        "hint": "先行詞 The dog 為動物，關係代名詞可用 which 或 that，選項中僅 that 合適。"
+                    },
+                    {
+                        "id": "h1-4-u4-q035",
+                        "question": "The car ____ hit the tree in the accident was completely destroyed.",
+                        "options": [
+                            "which",
+                            "who",
+                            "whom",
+                            "what"
+                        ],
+                        "answer": "which",
+                        "answer_index": 0,
+                        "hint": "先行詞 The car 為事物，需用 which。"
+                    },
+                    {
+                        "id": "h1-4-u4-q036",
+                        "question": "The students ____ study hard will eventually pass the difficult exam.",
+                        "options": [
+                            "which",
+                            "who",
+                            "whom",
+                            "what"
+                        ],
+                        "answer": "who",
+                        "answer_index": 1,
+                        "hint": "先行詞 The students 為「人」，在關係子句中作主詞，需用 who。"
+                    },
+                    {
+                        "id": "h1-4-u4-q037",
+                        "question": "The train ____ goes to Taipei leaves at eight o'clock daily.",
+                        "options": [
+                            "who",
+                            "whom",
+                            "which",
+                            "whose"
+                        ],
+                        "answer": "which",
+                        "answer_index": 2,
+                        "hint": "先行詞 The train 為事物，在子句中作主詞，需用 which。"
+                    },
+                    {
+                        "id": "h1-4-u4-q038",
+                        "question": "The woman ____ wears a red dress is a famous writer.",
+                        "options": [
+                            "whom",
+                            "which",
+                            "who",
+                            "what"
+                        ],
+                        "answer": "who",
+                        "answer_index": 2,
+                        "hint": "先行詞 The woman 為「人」，需用 who。"
+                    },
+                    {
+                        "id": "h1-4-u4-q039",
+                        "question": "The watch ____ was stolen yesterday was a very expensive gift.",
+                        "options": [
+                            "which",
+                            "who",
+                            "whom",
+                            "what"
+                        ],
+                        "answer": "which",
+                        "answer_index": 0,
+                        "hint": "先行詞 The watch 為事物，需用 which 引導。"
+                    },
+                    {
+                        "id": "h1-4-u4-q040",
+                        "question": "The boy ____ broke the window ran away rapidly.",
+                        "options": [
+                            "which",
+                            "who",
+                            "whom",
+                            "whose"
+                        ],
+                        "answer": "who",
+                        "answer_index": 1,
+                        "hint": "先行詞 The boy 為「人」，需用 who。"
+                    },
+                    {
+                        "id": "h1-4-u4-q041",
+                        "question": "The bus ____ goes to the train station is coming.",
+                        "options": [
+                            "who",
+                            "whom",
+                            "what",
+                            "that"
+                        ],
+                        "answer": "that",
+                        "answer_index": 3,
+                        "hint": "先行詞 The bus 為事物，關係代名詞可用 which 或 that，選項僅 that 合適。"
+                    },
+                    {
+                        "id": "h1-4-u4-q042",
+                        "question": "The people ____ live in this small town are known to be very friendly.",
+                        "options": [
+                            "which",
+                            "who",
+                            "whom",
+                            "what"
+                        ],
+                        "answer": "who",
+                        "answer_index": 1,
+                        "hint": "先行詞 The people 為「人」，需用 who。"
+                    },
+                    {
+                        "id": "h1-4-u4-q043",
+                        "question": "The birds ____ sing in the morning wake me up every day.",
+                        "options": [
+                            "which",
+                            "who",
+                            "whom",
+                            "what"
+                        ],
+                        "answer": "which",
+                        "answer_index": 0,
+                        "hint": "先行詞 The birds 為動物，需用 which。"
+                    },
+                    {
+                        "id": "h1-4-u4-q044",
+                        "question": "I like the doctor ____ treated my illness last year.",
+                        "options": [
+                            "which",
+                            "whom",
+                            "what",
+                            "who"
+                        ],
+                        "answer": "who",
+                        "answer_index": 3,
+                        "hint": "先行詞 the doctor 為「人」，在子句中作動詞 treated 的主詞，需用 who。"
+                    },
+                    {
+                        "id": "h1-4-u4-q045",
+                        "question": "The social workers ____ check on poor families do a great job daily.",
+                        "options": [
+                            "whom",
+                            "who",
+                            "which",
+                            "what"
+                        ],
+                        "answer": "who",
+                        "answer_index": 1,
+                        "hint": "先行詞 The social workers 為「人」，需用 who 引導關係子句。"
+                    },
+                    {
+                        "id": "h1-4-u4-q046",
+                        "question": "The gesture ____ means 'stop' is very clear to everyone.",
+                        "options": [
+                            "who",
+                            "whom",
+                            "which",
+                            "what"
+                        ],
+                        "answer": "which",
+                        "answer_index": 2,
+                        "hint": "先行詞 The gesture (手勢) 為事物，需用 which。"
+                    },
+                    {
+                        "id": "h1-4-u4-q047",
+                        "question": "The situation ____ makes him nervous is speaking in public.",
+                        "options": [
+                            "who",
+                            "whom",
+                            "what",
+                            "that"
+                        ],
+                        "answer": "that",
+                        "answer_index": 3,
+                        "hint": "先行詞 The situation (情況) 為事物，可用 which 或 that，選項僅 that 符合。"
+                    },
+                    {
+                        "id": "h1-4-u4-q048",
+                        "question": "The YouTuber ____ promotes our product is very popular online.",
+                        "options": [
+                            "who",
+                            "which",
+                            "whom",
+                            "what"
+                        ],
+                        "answer": "who",
+                        "answer_index": 0,
+                        "hint": "先行詞 The YouTuber 為「人」，在子句中作主詞，需用 who。"
+                    },
+                    {
+                        "id": "h1-4-u4-q049",
+                        "question": "The clown ____ performed in the TV drama was very funny.",
+                        "options": [
+                            "which",
+                            "who",
+                            "whom",
+                            "what"
+                        ],
+                        "answer": "who",
+                        "answer_index": 1,
+                        "hint": "先行詞 The clown (小丑) 為「人」，需用 who。"
+                    },
+                    {
+                        "id": "h1-4-u4-q050",
+                        "question": "The disease ____ spreads rapidly is very harmful to the public.",
+                        "options": [
+                            "which",
+                            "who",
+                            "whom",
+                            "whose"
+                        ],
+                        "answer": "which",
+                        "answer_index": 0,
+                        "hint": "先行詞 The disease (疾病) 為事物，需用 which。"
+                    }
+                ]
+            },
+            "scrambles": {
+                "vocab": [
+                    {
+                        "id": "h1-4-u4-sv001",
+                        "vocab_id": "h1-4-u4-v001",
+                        "sentence": "Patrick is considering buying a Happy Meal to get the free toy.",
+                        "sentence_chinese": "派翠克正在考慮買快樂兒童餐來獲得免費玩具。"
+                    },
+                    {
+                        "id": "h1-4-u4-sv002",
+                        "vocab_id": "h1-4-u4-v002",
+                        "sentence": "Alisa usually takes breakfast into consideration when she chooses a hotel.",
+                        "sentence_chinese": "艾莉莎選擇飯店時通常會將早餐納入考慮。"
+                    },
+                    {
+                        "id": "h1-4-u4-sv003",
+                        "vocab_id": "h1-4-u4-v003",
+                        "sentence": "The red button in the public toilet is for dangerous situations only.",
+                        "sentence_chinese": "公廁裡的紅色按鈕僅供危險情況使用。"
+                    },
+                    {
+                        "id": "h1-4-u4-sv004",
+                        "vocab_id": "h1-4-u4-v004",
+                        "sentence": "Irene tends to choose a window seat when she takes a plane.",
+                        "sentence_chinese": "艾琳搭飛機時往往會選擇靠窗的座位。"
+                    },
+                    {
+                        "id": "h1-4-u4-sv005",
+                        "vocab_id": "h1-4-u4-v005",
+                        "sentence": "The Christmas event was fun, so it attracted large crowds of people.",
+                        "sentence_chinese": "這場聖誕活動很有趣，所以吸引了大批群眾。"
+                    },
+                    {
+                        "id": "h1-4-u4-sv006",
+                        "vocab_id": "h1-4-u4-v006",
+                        "sentence": "The daily job of some social workers is to check on how poor families are doing.",
+                        "sentence_chinese": "一些社會工作者的日常工作是查看貧困家庭的狀況。"
+                    },
+                    {
+                        "id": "h1-4-u4-sv007",
+                        "vocab_id": "h1-4-u4-v007",
+                        "sentence": "The earthquake occurred suddenly and scared my parents.",
+                        "sentence_chinese": "地震突然發生，嚇到了我父母。"
+                    },
+                    {
+                        "id": "h1-4-u4-sv008",
+                        "vocab_id": "h1-4-u4-v008",
+                        "sentence": "This set lunch includes a main dish and a drink.",
+                        "sentence_chinese": "這份套餐包括一份主菜和一杯飲料。"
+                    },
+                    {
+                        "id": "h1-4-u4-sv009",
+                        "vocab_id": "h1-4-u4-v009",
+                        "sentence": "Certain behavior is not allowed in the race, including hitting others.",
+                        "sentence_chinese": "比賽中不允許某些行為，包含打別人。"
+                    },
+                    {
+                        "id": "h1-4-u4-sv010",
+                        "vocab_id": "h1-4-u4-v010",
+                        "sentence": "Michael made a gesture to tell his team member to shoot the ball.",
+                        "sentence_chinese": "麥可做了一個手勢告訴他的隊員投籃。"
+                    },
+                    {
+                        "id": "h1-4-u4-sv011",
+                        "vocab_id": "h1-4-u4-v011",
+                        "sentence": "If a popular YouTuber promotes our product, our sales increase rapidly.",
+                        "sentence_chinese": "如果受歡迎的 YouTuber 推廣我們的產品，我們的銷售量會迅速增加。"
+                    },
+                    {
+                        "id": "h1-4-u4-sv012",
+                        "vocab_id": "h1-4-u4-v012",
+                        "sentence": "The rapid change in the weather made me catch a cold.",
+                        "sentence_chinese": "天氣的迅速變化讓我感冒了。"
+                    },
+                    {
+                        "id": "h1-4-u4-sv013",
+                        "vocab_id": "h1-4-u4-v013",
+                        "sentence": "I don't feel like eating out tonight. Besides, I spent too much money this month.",
+                        "sentence_chinese": "我今晚不想在外面吃。此外，我這個月花太多錢了。"
+                    },
+                    {
+                        "id": "h1-4-u4-sv014",
+                        "vocab_id": "h1-4-u4-v014",
+                        "sentence": "It is surprising that the singer plays the role of a clown in the new TV drama.",
+                        "sentence_chinese": "令人驚訝的是，這位歌手在新電視劇中扮演小丑的角色。"
+                    },
+                    {
+                        "id": "h1-4-u4-sv015",
+                        "vocab_id": "h1-4-u4-v015",
+                        "sentence": "Sherry came for her favorite dessert at the café. Unfortunately, it was not open.",
+                        "sentence_chinese": "雪莉來這家咖啡館吃她最喜歡的甜點。不幸地是，它沒開。"
+                    },
+                    {
+                        "id": "h1-4-u4-sv016",
+                        "vocab_id": "h1-4-u4-v016",
+                        "sentence": "Daniel was fortunate to earn a free set of LINE stickers.",
+                        "sentence_chinese": "丹尼爾很幸運地獲得了一組免費的 LINE 貼圖。"
+                    },
+                    {
+                        "id": "h1-4-u4-sv017",
+                        "vocab_id": "h1-4-u4-v017",
+                        "sentence": "Eating too many instant noodles can be harmful to health.",
+                        "sentence_chinese": "吃太多泡麵可能對健康有害。"
+                    },
+                    {
+                        "id": "h1-4-u4-sv018",
+                        "vocab_id": "h1-4-u4-v018",
+                        "sentence": "The hurtful comments on Rita's blog did harm to her feelings.",
+                        "sentence_chinese": "麗塔部落格上的傷人評論對她的感情造成了傷害。"
+                    },
+                    {
+                        "id": "h1-4-u4-sv019",
+                        "vocab_id": "h1-4-u4-v019",
+                        "sentence": "The young singer is under a lot of pressure to perform in the big show.",
+                        "sentence_chinese": "這位年輕歌手在大型演出中承受著很大的壓力。"
+                    },
+                    {
+                        "id": "h1-4-u4-sv020",
+                        "vocab_id": "h1-4-u4-v020",
+                        "sentence": "The island is isolated by oceans, so we need to go there by boat.",
+                        "sentence_chinese": "這座島嶼被海洋孤立，所以我們需要搭船去那裡。"
+                    }
+                ],
+                "phrases": [
+                    {
+                        "id": "h1-4-u4-sp001",
+                        "phrase_id": "h1-4-u4-p001",
+                        "sentence": "Ted loves to read books for fun. In contrast, I play video games.",
+                        "sentence_chinese": "泰德喜歡看書當作消遣。相比之下，我打電動。"
+                    },
+                    {
+                        "id": "h1-4-u4-sp002",
+                        "phrase_id": "h1-4-u4-p002",
+                        "sentence": "Ian chose the cool shoes rather than the comfortable ones.",
+                        "sentence_chinese": "伊恩選擇了酷炫的鞋子而不是舒適的鞋子。"
+                    },
+                    {
+                        "id": "h1-4-u4-sp003",
+                        "phrase_id": "h1-4-u4-p003",
+                        "sentence": "Winnie is very nervous because she is going to travel on her own.",
+                        "sentence_chinese": "溫妮非常緊張，因為她要獨自旅行。"
+                    },
+                    {
+                        "id": "h1-4-u4-sp004",
+                        "phrase_id": "h1-4-u4-p004",
+                        "sentence": "New York City is commonly known as the Big Apple.",
+                        "sentence_chinese": "紐約市通常被稱為大蘋果。"
+                    },
+                    {
+                        "id": "h1-4-u4-sp005",
+                        "phrase_id": "h1-4-u4-p005",
+                        "sentence": "Kelly sticks to her habit of getting up early every day, even on weekends.",
+                        "sentence_chinese": "凱莉堅持她每天早起的習慣，即使在週末也是如此。"
+                    }
+                ],
+                "grammar": [
+                    {
+                        "id": "h1-4-u4-sg001",
+                        "sentence": "The movie was so boring that I fell asleep.",
+                        "sentence_chinese": "這部電影太無聊了，以至於我睡著了。"
+                    },
+                    {
+                        "id": "h1-4-u4-sg002",
+                        "sentence": "He ran so fast that nobody could catch him.",
+                        "sentence_chinese": "他跑得如此快，以至於沒人能抓到他。"
+                    },
+                    {
+                        "id": "h1-4-u4-sg003",
+                        "sentence": "The soup is so hot that I can't drink it now.",
+                        "sentence_chinese": "這湯太燙了，以至於我現在無法喝。"
+                    },
+                    {
+                        "id": "h1-4-u4-sg004",
+                        "sentence": "The box was so heavy that she couldn't lift it.",
+                        "sentence_chinese": "這個箱子太重了，以至於她搬不動。"
+                    },
+                    {
+                        "id": "h1-4-u4-sg005",
+                        "sentence": "The weather is so cold that we have to stay indoors.",
+                        "sentence_chinese": "天氣太冷了，以至於我們必須待在室內。"
+                    },
+                    {
+                        "id": "h1-4-u4-sg006",
+                        "sentence": "The test was so easy that everyone got a high score.",
+                        "sentence_chinese": "考試太簡單了，以至於每個人都拿了高分。"
+                    },
+                    {
+                        "id": "h1-4-u4-sg007",
+                        "sentence": "She sings so well that people think she is a star.",
+                        "sentence_chinese": "她唱得如此好，以至於人們以為她是明星。"
+                    },
+                    {
+                        "id": "h1-4-u4-sg008",
+                        "sentence": "The noise was so loud that I couldn't hear the teacher.",
+                        "sentence_chinese": "噪音太大了，以至於我聽不到老師的聲音。"
+                    },
+                    {
+                        "id": "h1-4-u4-sg009",
+                        "sentence": "The boy was so tired that he went to bed early.",
+                        "sentence_chinese": "男孩太累了，以至於他很早就上床睡覺了。"
+                    },
+                    {
+                        "id": "h1-4-u4-sg010",
+                        "sentence": "The food was so delicious that I ate three bowls of rice.",
+                        "sentence_chinese": "食物太美味了，以至於我吃了三碗飯。"
+                    },
+                    {
+                        "id": "h1-4-u4-sg011",
+                        "sentence": "He was so angry that he left without saying a word.",
+                        "sentence_chinese": "他太生氣了，以至於一句話也沒說就離開了。"
+                    },
+                    {
+                        "id": "h1-4-u4-sg012",
+                        "sentence": "The room was so dark that I couldn't see anything.",
+                        "sentence_chinese": "房間太暗了，以至於我什麼都看不見。"
+                    },
+                    {
+                        "id": "h1-4-u4-sg013",
+                        "sentence": "The story was so sad that it made everyone cry.",
+                        "sentence_chinese": "這個故事太悲傷了，以至於讓大家都哭了。"
+                    },
+                    {
+                        "id": "h1-4-u4-sg014",
+                        "sentence": "The math problem was so hard that many students failed.",
+                        "sentence_chinese": "這道數學題太難了，以至於很多學生都不及格。"
+                    },
+                    {
+                        "id": "h1-4-u4-sg015",
+                        "sentence": "The music is so loud that it hurts my ears.",
+                        "sentence_chinese": "音樂太吵了，以至於讓我的耳朵很痛。"
+                    },
+                    {
+                        "id": "h1-4-u4-sg016",
+                        "sentence": "The girl who is dancing in the center is my sister.",
+                        "sentence_chinese": "在中間跳舞的那個女孩是我妹妹。"
+                    },
+                    {
+                        "id": "h1-4-u4-sg017",
+                        "sentence": "The book which is on the desk belongs to Mary.",
+                        "sentence_chinese": "在書桌上的那本書是瑪麗的。"
+                    },
+                    {
+                        "id": "h1-4-u4-sg018",
+                        "sentence": "The man who called you yesterday is my uncle.",
+                        "sentence_chinese": "昨天打電話給你的那個男人是我叔叔。"
+                    },
+                    {
+                        "id": "h1-4-u4-sg019",
+                        "sentence": "The dog that bit me last week is very dangerous.",
+                        "sentence_chinese": "上週咬我的那隻狗非常危險。"
+                    },
+                    {
+                        "id": "h1-4-u4-sg020",
+                        "sentence": "The car which hit the tree was completely destroyed.",
+                        "sentence_chinese": "撞到樹的那輛車全毀了。"
+                    },
+                    {
+                        "id": "h1-4-u4-sg021",
+                        "sentence": "The teacher who teaches us history is very strict.",
+                        "sentence_chinese": "教我們歷史的老師非常嚴格。"
+                    },
+                    {
+                        "id": "h1-4-u4-sg022",
+                        "sentence": "The house that stands on the hill is very old.",
+                        "sentence_chinese": "矗立在山丘上的那棟房子非常古老。"
+                    },
+                    {
+                        "id": "h1-4-u4-sg023",
+                        "sentence": "The students who study hard will pass the exam.",
+                        "sentence_chinese": "努力讀書的學生會通過考試。"
+                    },
+                    {
+                        "id": "h1-4-u4-sg024",
+                        "sentence": "The train which goes to Taipei leaves at eight.",
+                        "sentence_chinese": "開往台北的火車八點出發。"
+                    },
+                    {
+                        "id": "h1-4-u4-sg025",
+                        "sentence": "The woman who wears a red dress is a famous writer.",
+                        "sentence_chinese": "穿著紅色洋裝的女人是一位著名的作家。"
+                    },
+                    {
+                        "id": "h1-4-u4-sg026",
+                        "sentence": "The watch that was stolen yesterday was very expensive.",
+                        "sentence_chinese": "昨天被偷的手錶非常昂貴。"
+                    },
+                    {
+                        "id": "h1-4-u4-sg027",
+                        "sentence": "The boy who broke the window ran away quickly.",
+                        "sentence_chinese": "打破窗戶的男孩很快地跑走了。"
+                    },
+                    {
+                        "id": "h1-4-u4-sg028",
+                        "sentence": "The bus which goes to the train station is coming.",
+                        "sentence_chinese": "開往火車站的公車來了。"
+                    },
+                    {
+                        "id": "h1-4-u4-sg029",
+                        "sentence": "The people who live in this small town are very friendly.",
+                        "sentence_chinese": "住在這個小鎮的人非常友善。"
+                    },
+                    {
+                        "id": "h1-4-u4-sg030",
+                        "sentence": "The birds that sing in the morning wake me up every day.",
+                        "sentence_chinese": "每天早上唱歌的鳥兒會把我叫醒。"
+                    }
+                ]
+            }
+        }
+    }
+}

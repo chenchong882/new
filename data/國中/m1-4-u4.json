@@ -1,0 +1,1505 @@
+{
+    "units": {
+        "m1-4-u4": {
+            "title": "Unit 4 - How Much Flour Do You Need?",
+            "vocab": [
+                {
+                    "id": "m1-4-u4-v001",
+                    "word": "why",
+                    "part_of_speech": "adv.",
+                    "chinese": "為什麼",
+                    "sentence": "Why are you wearing a mask?",
+                    "sentence_chinese": "你為什麼戴著口罩？"
+                },
+                {
+                    "id": "m1-4-u4-v002",
+                    "word": "wear",
+                    "part_of_speech": "v.",
+                    "chinese": "戴；穿",
+                    "sentence": "He wears a jacket because it is cold.",
+                    "sentence_chinese": "他因為很冷所以穿著外套。"
+                },
+                {
+                    "id": "m1-4-u4-v003",
+                    "word": "mask",
+                    "part_of_speech": "n.",
+                    "chinese": "口罩；面具",
+                    "sentence": "Please wear a mask when you are sick.",
+                    "sentence_chinese": "生病時請戴口罩。"
+                },
+                {
+                    "id": "m1-4-u4-v004",
+                    "word": "because",
+                    "part_of_speech": "conj.",
+                    "chinese": "因為",
+                    "sentence": "I drink water because I am thirsty.",
+                    "sentence_chinese": "我喝水因為我口渴。"
+                },
+                {
+                    "id": "m1-4-u4-v005",
+                    "word": "sick",
+                    "part_of_speech": "adj.",
+                    "chinese": "生病的",
+                    "sentence": "The boy is sick today.",
+                    "sentence_chinese": "這男孩今天生病了。"
+                },
+                {
+                    "id": "m1-4-u4-v006",
+                    "word": "water",
+                    "part_of_speech": "n.",
+                    "chinese": "水",
+                    "sentence": "We need some water.",
+                    "sentence_chinese": "我們需要一些水。"
+                },
+                {
+                    "id": "m1-4-u4-v007",
+                    "word": "glass",
+                    "part_of_speech": "n.",
+                    "chinese": "玻璃杯；玻璃",
+                    "sentence": "I want a glass of juice.",
+                    "sentence_chinese": "我想要一杯果汁。"
+                },
+                {
+                    "id": "m1-4-u4-v008",
+                    "word": "flour",
+                    "part_of_speech": "n.",
+                    "chinese": "麵粉",
+                    "sentence": "How much flour do we need?",
+                    "sentence_chinese": "我們需要多少麵粉？"
+                },
+                {
+                    "id": "m1-4-u4-v009",
+                    "word": "need",
+                    "part_of_speech": "v.",
+                    "chinese": "需要；需求",
+                    "sentence": "They need two bags of salt.",
+                    "sentence_chinese": "他們需要兩袋鹽。"
+                },
+                {
+                    "id": "m1-4-u4-v010",
+                    "word": "pie",
+                    "part_of_speech": "n.",
+                    "chinese": "派",
+                    "sentence": "This apple pie is yummy.",
+                    "sentence_chinese": "這個蘋果派很好吃。"
+                },
+                {
+                    "id": "m1-4-u4-v011",
+                    "word": "still",
+                    "part_of_speech": "adv.",
+                    "chinese": "仍然",
+                    "sentence": "He is still hungry.",
+                    "sentence_chinese": "他仍然很餓。"
+                },
+                {
+                    "id": "m1-4-u4-v012",
+                    "word": "thing",
+                    "part_of_speech": "n.",
+                    "chinese": "東西；事情",
+                    "sentence": "What is this thing?",
+                    "sentence_chinese": "這個東西是什麼？"
+                },
+                {
+                    "id": "m1-4-u4-v013",
+                    "word": "salt",
+                    "part_of_speech": "n.",
+                    "chinese": "鹽",
+                    "sentence": "Please pass me the salt.",
+                    "sentence_chinese": "請把鹽遞給我。"
+                },
+                {
+                    "id": "m1-4-u4-v014",
+                    "word": "something",
+                    "part_of_speech": "pron.",
+                    "chinese": "某物；某事",
+                    "sentence": "I want something to eat.",
+                    "sentence_chinese": "我想吃點東西。"
+                },
+                {
+                    "id": "m1-4-u4-v015",
+                    "word": "sugar",
+                    "part_of_speech": "n.",
+                    "chinese": "糖",
+                    "sentence": "She puts sugar in her tea.",
+                    "sentence_chinese": "她在茶裡加糖。"
+                },
+                {
+                    "id": "m1-4-u4-v016",
+                    "word": "get",
+                    "part_of_speech": "v.",
+                    "chinese": "取得",
+                    "sentence": "Where can I get some snacks?",
+                    "sentence_chinese": "我可以在哪裡買到點心？"
+                },
+                {
+                    "id": "m1-4-u4-v017",
+                    "word": "so",
+                    "part_of_speech": "conj.",
+                    "chinese": "所以",
+                    "sentence": "I am tired, so I go to sleep.",
+                    "sentence_chinese": "我很累，所以我去睡覺了。"
+                },
+                {
+                    "id": "m1-4-u4-v018",
+                    "word": "meal",
+                    "part_of_speech": "n.",
+                    "chinese": "餐",
+                    "sentence": "Breakfast is the first meal of the day.",
+                    "sentence_chinese": "早餐是一天的第一餐。"
+                },
+                {
+                    "id": "m1-4-u4-v019",
+                    "word": "bottle",
+                    "part_of_speech": "n.",
+                    "chinese": "瓶子",
+                    "sentence": "There is a bottle of milk on the table.",
+                    "sentence_chinese": "桌上有一瓶牛奶。"
+                },
+                {
+                    "id": "m1-4-u4-v020",
+                    "word": "candy",
+                    "part_of_speech": "n.",
+                    "chinese": "糖果",
+                    "sentence": "The kids like candy very much.",
+                    "sentence_chinese": "小孩們非常喜歡糖果。"
+                },
+                {
+                    "id": "m1-4-u4-v021",
+                    "word": "popcorn",
+                    "part_of_speech": "n.",
+                    "chinese": "爆米花",
+                    "sentence": "We eat popcorn at the movies.",
+                    "sentence_chinese": "我們看電影時吃爆米花。"
+                },
+                {
+                    "id": "m1-4-u4-v022",
+                    "word": "cup",
+                    "part_of_speech": "n.",
+                    "chinese": "杯",
+                    "sentence": "Can I have a cup of coffee?",
+                    "sentence_chinese": "可以給我一杯咖啡嗎？"
+                },
+                {
+                    "id": "m1-4-u4-v023",
+                    "word": "bowl",
+                    "part_of_speech": "n.",
+                    "chinese": "碗",
+                    "sentence": "He eats a bowl of soup.",
+                    "sentence_chinese": "他喝了一碗湯。"
+                },
+                {
+                    "id": "m1-4-u4-v024",
+                    "word": "fruit salad",
+                    "part_of_speech": "n.",
+                    "chinese": "水果沙拉",
+                    "sentence": "She is making a fruit salad.",
+                    "sentence_chinese": "她正在做水果沙拉。"
+                },
+                {
+                    "id": "m1-4-u4-v025",
+                    "word": "pizza",
+                    "part_of_speech": "n.",
+                    "chinese": "披薩",
+                    "sentence": "We ordered a big pizza.",
+                    "sentence_chinese": "我們訂了一個大披薩。"
+                },
+                {
+                    "id": "m1-4-u4-v026",
+                    "word": "milk shake",
+                    "part_of_speech": "n.",
+                    "chinese": "奶昔",
+                    "sentence": "I want a strawberry milk shake.",
+                    "sentence_chinese": "我想要一杯草莓奶昔。"
+                },
+                {
+                    "id": "m1-4-u4-v027",
+                    "word": "can",
+                    "part_of_speech": "n.",
+                    "chinese": "罐子",
+                    "sentence": "There are three cans of cola.",
+                    "sentence_chinese": "有三罐可樂。"
+                },
+                {
+                    "id": "m1-4-u4-v028",
+                    "word": "toast",
+                    "part_of_speech": "n.",
+                    "chinese": "烤吐司；烘烤",
+                    "sentence": "I usually have toast for breakfast.",
+                    "sentence_chinese": "我早餐通常吃烤吐司。"
+                },
+                {
+                    "id": "m1-4-u4-v029",
+                    "word": "bread",
+                    "part_of_speech": "n.",
+                    "chinese": "麵包",
+                    "sentence": "We need to buy some bread.",
+                    "sentence_chinese": "我們需要買一些麵包。"
+                },
+                {
+                    "id": "m1-4-u4-v030",
+                    "word": "yummy",
+                    "part_of_speech": "adj.",
+                    "chinese": "好吃的",
+                    "sentence": "This cake is yummy.",
+                    "sentence_chinese": "這塊蛋糕很好吃。"
+                },
+                {
+                    "id": "m1-4-u4-v031",
+                    "word": "easy",
+                    "part_of_speech": "adj.",
+                    "chinese": "容易的",
+                    "sentence": "The test is very easy.",
+                    "sentence_chinese": "這個考試很簡單。"
+                },
+                {
+                    "id": "m1-4-u4-v032",
+                    "word": "snack",
+                    "part_of_speech": "n.",
+                    "chinese": "點心",
+                    "sentence": "It is time for a snack.",
+                    "sentence_chinese": "吃點心的時間到了。"
+                },
+                {
+                    "id": "m1-4-u4-v033",
+                    "word": "kid",
+                    "part_of_speech": "n.",
+                    "chinese": "小孩",
+                    "sentence": "The kid is playing in the park.",
+                    "sentence_chinese": "那個小孩在公園裡玩耍。"
+                },
+                {
+                    "id": "m1-4-u4-v034",
+                    "word": "cheese",
+                    "part_of_speech": "n.",
+                    "chinese": "乳酪",
+                    "sentence": "Mice love cheese.",
+                    "sentence_chinese": "老鼠喜歡乳酪。"
+                },
+                {
+                    "id": "m1-4-u4-v035",
+                    "word": "plate",
+                    "part_of_speech": "n.",
+                    "chinese": "盤子",
+                    "sentence": "Put the chicken on the plate.",
+                    "sentence_chinese": "把雞肉放在盤子上。"
+                },
+                {
+                    "id": "m1-4-u4-v036",
+                    "word": "last",
+                    "part_of_speech": "adj.",
+                    "chinese": "最後(的)",
+                    "sentence": "This is the last piece of pie.",
+                    "sentence_chinese": "這是最後一塊派。"
+                },
+                {
+                    "id": "m1-4-u4-v037",
+                    "word": "enjoy",
+                    "part_of_speech": "v.",
+                    "chinese": "享受；喜愛",
+                    "sentence": "I enjoy listening to music.",
+                    "sentence_chinese": "我享受聽音樂。"
+                },
+                {
+                    "id": "m1-4-u4-v038",
+                    "word": "each",
+                    "part_of_speech": "adj.",
+                    "chinese": "每一個(的)",
+                    "sentence": "Each student has a book.",
+                    "sentence_chinese": "每個學生都有一本書。"
+                }
+            ],
+            "phrases": [
+                {
+                    "id": "m1-4-u4-p001",
+                    "phrase": "a little",
+                    "chinese": "一點點",
+                    "sentence": "We only need a little salt.",
+                    "sentence_chinese": "我們只需要一點點鹽。"
+                },
+                {
+                    "id": "m1-4-u4-p002",
+                    "phrase": "all right",
+                    "chinese": "好的；好吧",
+                    "sentence": "All right, let's go home now.",
+                    "sentence_chinese": "好吧，我們現在回家吧。"
+                },
+                {
+                    "id": "m1-4-u4-p003",
+                    "phrase": "back off",
+                    "chinese": "退後；走開",
+                    "sentence": "Please back off from the fire.",
+                    "sentence_chinese": "請從火邊退後。"
+                },
+                {
+                    "id": "m1-4-u4-p004",
+                    "phrase": "turn into",
+                    "chinese": "(使)變成",
+                    "sentence": "The caterpillar turns into a butterfly.",
+                    "sentence_chinese": "毛毛蟲變成蝴蝶。"
+                }
+            ],
+            "grammar": {
+                "tips": [
+                    {
+                        "label": "詢問數量 (可數)",
+                        "text": "How many + 可數名詞複數 + are there / 助動詞 + 主詞 + 動詞?"
+                    },
+                    {
+                        "label": "詢問數量 (不可數)",
+                        "text": "How much + 不可數名詞 + is there / 助動詞 + 主詞 + 動詞?"
+                    },
+                    {
+                        "label": "詢問單位量詞",
+                        "text": "How many + 單位量詞複數 + of + 不可數名詞/可數名詞複數 + ...?"
+                    },
+                    {
+                        "label": "因果句型",
+                        "text": "表結果 + because + 表原因. / 表原因, so + 表結果."
+                    }
+                ],
+                "notes": [
+                    {
+                        "title": "用數量詞或單位量詞表示數量",
+                        "rule": "a little 修飾不可數名詞，a few 修飾可數名詞。",
+                        "description": "搭配可數名詞：數字 + 單位量詞 + of + 可數名詞複數。搭配不可數名詞：數字 + 單位量詞 + of + 不可數名詞。",
+                        "examples": [
+                            "There is a little water in the bottle. (瓶子裡面有一點水。)",
+                            "There are a few cookies in the box. (盒子裡面有一些餅乾。)",
+                            "a box of cookies (一盒餅乾)",
+                            "three glasses of juice (三杯果汁)"
+                        ]
+                    },
+                    {
+                        "title": "用 How many 問答可數名詞的數量 (搭配 there be 句型)",
+                        "rule": "How many + 可數名詞複數 + are there (+ 地點)?",
+                        "description": "在詢問可數名詞的數量時，名詞通常會用複數。",
+                        "examples": [
+                            "A: How many sandwiches are there on the table? (桌上有多少個三明治？)",
+                            "B1: There is one sandwich. (有一個三明治。)",
+                            "B2: There is one. (有一個。)"
+                        ]
+                    },
+                    {
+                        "title": "用 How many 問答可數名詞的數量 (搭配一般動詞)",
+                        "rule": "How many + 可數名詞複數 + 助動詞 + 主詞 + 原形動詞?",
+                        "description": "答句為主詞 + 一般動詞 + 數字 (+ 名詞) 或 單位量詞。",
+                        "examples": [
+                            "A: How many apples do you have? (你有多少顆蘋果？)",
+                            "B: I have three boxes of apples. (我有三箱蘋果。)"
+                        ]
+                    },
+                    {
+                        "title": "用 How much 問答不可數名詞的數量 (搭配 there be 句型)",
+                        "rule": "How much + 不可數名詞 + is there (+ 地點)?",
+                        "description": "若要表達不可數名詞具體明確的量，要用單位量詞來計數。答句的 be 動詞視單位量詞的單複數決定。",
+                        "examples": [
+                            "A: How much soup is there in the box? (這箱子裡有多少湯？)",
+                            "B1: There are two cans of soup. (有兩罐湯。)",
+                            "B2: There are two cans. (有兩罐。)"
+                        ]
+                    },
+                    {
+                        "title": "用 How much 問答不可數名詞的數量 (搭配一般動詞)",
+                        "rule": "How much + 不可數名詞 + 助動詞 + 主詞 + 原形動詞?",
+                        "description": "答句為主詞 + 一般動詞 + 數字 + 單位量詞 (+ of + 名詞)。",
+                        "examples": [
+                            "A: How much salad does she want? (她想要多少沙拉？)",
+                            "B: She wants a plate of salad. (她想要一盤沙拉。)"
+                        ]
+                    },
+                    {
+                        "title": "詢問單位量詞的數量",
+                        "rule": "要詢問「多少袋、多少箱」時，要使用 how many。",
+                        "description": "單位量詞是可數的，和詢問可數名詞的數量一樣，詢問單位量詞的數量時，單位量詞用複數。",
+                        "examples": [
+                            "A: How many bags of flour are there in the kitchen? (廚房裡有多少袋麵粉？)",
+                            "B1: There are five bags of flour. (有五袋麵粉。)",
+                            "B2: There are five bags. (有五袋。)"
+                        ]
+                    },
+                    {
+                        "title": "Why 的問答句型",
+                        "rule": "Why + 助動詞 + 主詞 + 原形動詞...?",
+                        "description": "疑問詞 why 表「為什麼」，用來詢問原因。because 表「因為」，為連接詞，後接「表原因的子句」。",
+                        "examples": [
+                            "A: Why is Mia going to the park? (米亞為什麼要去公園？)",
+                            "B: She is going there because there is a concert. (她去那裡是因為有音樂會。)"
+                        ]
+                    },
+                    {
+                        "title": "because 和 so 的代換",
+                        "rule": "because、so 都是連接詞，不可同時出現在同一個句子中。",
+                        "description": "表結果的子句 + because + 表原因的子句 = Because + 表原因的子句, 表結果的子句 = 表原因的子句, so + 表結果的子句。",
+                        "examples": [
+                            "I don't go out because I am too tired. (因為我太累了，所以我沒有出門。)",
+                            "Because I am too tired, I don't go out.",
+                            "I am too tired, so I don't go out."
+                        ]
+                    }
+                ],
+                "quiz": [
+                    {
+                        "id": "m1-4-u4-q001",
+                        "question": "_______ flour do we need for the cake?",
+                        "options": [
+                            "How many",
+                            "How much",
+                            "Are there",
+                            "What"
+                        ],
+                        "answer": "How much",
+                        "answer_index": 1,
+                        "hint": "flour (麵粉) 為不可數名詞，故用 How much。"
+                    },
+                    {
+                        "id": "m1-4-u4-q002",
+                        "question": "How many _______ of juice are there on the table?",
+                        "options": [
+                            "glass",
+                            "glasses",
+                            "water",
+                            "much"
+                        ],
+                        "answer": "glasses",
+                        "answer_index": 1,
+                        "hint": "How many 後接可數名詞複數，glass 的複數為 glasses。"
+                    },
+                    {
+                        "id": "m1-4-u4-q003",
+                        "question": "Harry wears a mask _______ he is sick.",
+                        "options": [
+                            "so",
+                            "but",
+                            "because",
+                            "and"
+                        ],
+                        "answer": "because",
+                        "answer_index": 2,
+                        "hint": "說明戴口罩的「原因」，用 because。"
+                    },
+                    {
+                        "id": "m1-4-u4-q004",
+                        "question": "I am thirsty. I need a _______ of water.",
+                        "options": [
+                            "piece",
+                            "glass",
+                            "slice",
+                            "plate"
+                        ],
+                        "answer": "glass",
+                        "answer_index": 1,
+                        "hint": "水通常用杯子裝，a glass of water (一杯水)。"
+                    },
+                    {
+                        "id": "m1-4-u4-q005",
+                        "question": "There is only _______ milk in the bottle.",
+                        "options": [
+                            "a little",
+                            "a few",
+                            "many",
+                            "two"
+                        ],
+                        "answer": "a little",
+                        "answer_index": 0,
+                        "hint": "milk 為不可數名詞，只能用 a little (一點點) 修飾。"
+                    },
+                    {
+                        "id": "m1-4-u4-q006",
+                        "question": "Mom needs two _______ of salt.",
+                        "options": [
+                            "bag",
+                            "bags",
+                            "glass",
+                            "bowl"
+                        ],
+                        "answer": "bags",
+                        "answer_index": 1,
+                        "hint": "數量為 two，單位量詞 bag 需加 s。"
+                    },
+                    {
+                        "id": "m1-4-u4-q007",
+                        "question": "_______ apples do you have?",
+                        "options": [
+                            "How much",
+                            "How many",
+                            "What",
+                            "Where"
+                        ],
+                        "answer": "How many",
+                        "answer_index": 1,
+                        "hint": "apples 為可數名詞複數，用 How many 詢問數量。"
+                    },
+                    {
+                        "id": "m1-4-u4-q008",
+                        "question": "The kid is crying _______ he is hungry.",
+                        "options": [
+                            "because",
+                            "so",
+                            "but",
+                            "or"
+                        ],
+                        "answer": "because",
+                        "answer_index": 0,
+                        "hint": "表原因，用 because。"
+                    },
+                    {
+                        "id": "m1-4-u4-q009",
+                        "question": "It is raining, _______ I stay at home.",
+                        "options": [
+                            "because",
+                            "so",
+                            "but",
+                            "if"
+                        ],
+                        "answer": "so",
+                        "answer_index": 1,
+                        "hint": "表結果，用 so (所以)。"
+                    },
+                    {
+                        "id": "m1-4-u4-q010",
+                        "question": "We have a few _______ in the kitchen.",
+                        "options": [
+                            "water",
+                            "flour",
+                            "cookies",
+                            "milk"
+                        ],
+                        "answer": "cookies",
+                        "answer_index": 2,
+                        "hint": "a few 只能接可數名詞複數，cookies 為可數。"
+                    },
+                    {
+                        "id": "m1-4-u4-q011",
+                        "question": "How much _______ is there in the bowl?",
+                        "options": [
+                            "apples",
+                            "soup",
+                            "eggs",
+                            "sandwiches"
+                        ],
+                        "answer": "soup",
+                        "answer_index": 1,
+                        "hint": "How much 後面必須接不可數名詞，soup 為不可數。"
+                    },
+                    {
+                        "id": "m1-4-u4-q012",
+                        "question": "I want three _______ of pizza.",
+                        "options": [
+                            "piece",
+                            "slices",
+                            "bottle",
+                            "glass"
+                        ],
+                        "answer": "slices",
+                        "answer_index": 1,
+                        "hint": "披薩通常用 slice (片) 計算，三片為 three slices。"
+                    },
+                    {
+                        "id": "m1-4-u4-q013",
+                        "question": "_______ is she going to the hospital?",
+                        "options": [
+                            "What",
+                            "Who",
+                            "Why",
+                            "Where"
+                        ],
+                        "answer": "Why",
+                        "answer_index": 2,
+                        "hint": "詢問原因「為什麼」，用 Why。"
+                    },
+                    {
+                        "id": "m1-4-u4-q014",
+                        "question": "She didn't eat lunch, _______ she is very hungry now.",
+                        "options": [
+                            "because",
+                            "so",
+                            "and",
+                            "but"
+                        ],
+                        "answer": "so",
+                        "answer_index": 1,
+                        "hint": "前句為原因，後句為結果，用 so。"
+                    },
+                    {
+                        "id": "m1-4-u4-q015",
+                        "question": "There are two _______ of fruit salad on the table.",
+                        "options": [
+                            "plate",
+                            "plates",
+                            "bottle",
+                            "glass"
+                        ],
+                        "answer": "plates",
+                        "answer_index": 1,
+                        "hint": "水果沙拉通常用盤子裝，兩盤為 two plates。"
+                    },
+                    {
+                        "id": "m1-4-u4-q016",
+                        "question": "How many _______ of hot chocolate do you want?",
+                        "options": [
+                            "cup",
+                            "cups",
+                            "bowl",
+                            "piece"
+                        ],
+                        "answer": "cups",
+                        "answer_index": 1,
+                        "hint": "熱巧克力通常用杯裝，How many 後的單位需用複數 cups。"
+                    },
+                    {
+                        "id": "m1-4-u4-q017",
+                        "question": "Are there any _______ in the box?",
+                        "options": [
+                            "flour",
+                            "milk",
+                            "candies",
+                            "water"
+                        ],
+                        "answer": "candies",
+                        "answer_index": 2,
+                        "hint": "Are there 需搭配可數名詞複數，candies 為可數。"
+                    },
+                    {
+                        "id": "m1-4-u4-q018",
+                        "question": "I have _______ friends in this city. I am not lonely.",
+                        "options": [
+                            "a little",
+                            "a few",
+                            "much",
+                            "one"
+                        ],
+                        "answer": "a few",
+                        "answer_index": 1,
+                        "hint": "friends 為可數名詞複數，用 a few (一些)。"
+                    },
+                    {
+                        "id": "m1-4-u4-q019",
+                        "question": "He was late _______ he missed the bus.",
+                        "options": [
+                            "so",
+                            "because",
+                            "and",
+                            "but"
+                        ],
+                        "answer": "because",
+                        "answer_index": 1,
+                        "hint": "錯過公車是遲到的原因，用 because。"
+                    },
+                    {
+                        "id": "m1-4-u4-q020",
+                        "question": "_______ popcorn do they need for the movie?",
+                        "options": [
+                            "How much",
+                            "How many",
+                            "What",
+                            "Do"
+                        ],
+                        "answer": "How much",
+                        "answer_index": 0,
+                        "hint": "popcorn 為不可數名詞，用 How much。"
+                    },
+                    {
+                        "id": "m1-4-u4-q021",
+                        "question": "We have two _______ of bread for breakfast.",
+                        "options": [
+                            "slices",
+                            "slice",
+                            "cups",
+                            "bowls"
+                        ],
+                        "answer": "slices",
+                        "answer_index": 0,
+                        "hint": "麵包通常用 slice 計算，兩片為 two slices。"
+                    },
+                    {
+                        "id": "m1-4-u4-q022",
+                        "question": "There is _______ cheese on the plate.",
+                        "options": [
+                            "a few",
+                            "many",
+                            "a little",
+                            "two"
+                        ],
+                        "answer": "a little",
+                        "answer_index": 2,
+                        "hint": "cheese 為不可數名詞，用 a little。"
+                    },
+                    {
+                        "id": "m1-4-u4-q023",
+                        "question": "Why _______ the boy crying?",
+                        "options": [
+                            "am",
+                            "are",
+                            "is",
+                            "do"
+                        ],
+                        "answer": "is",
+                        "answer_index": 2,
+                        "hint": "the boy 為第三人稱單數，搭配 be 動詞 is。"
+                    },
+                    {
+                        "id": "m1-4-u4-q024",
+                        "question": "Because he is tired, _______ he goes to bed early.",
+                        "options": [
+                            "so",
+                            "x (不填)",
+                            "but",
+                            "and"
+                        ],
+                        "answer": "x (不填)",
+                        "answer_index": 1,
+                        "hint": "Because 和 so 不可出現在同一個句子裡，故不填。"
+                    },
+                    {
+                        "id": "m1-4-u4-q025",
+                        "question": "How many _______ of flour does the baker need?",
+                        "options": [
+                            "bag",
+                            "bags",
+                            "much",
+                            "bottle"
+                        ],
+                        "answer": "bags",
+                        "answer_index": 1,
+                        "hint": "詢問多少袋，單位量詞需用複數 bags。"
+                    },
+                    {
+                        "id": "m1-4-u4-q026",
+                        "question": "I want to buy a _______ of milk.",
+                        "options": [
+                            "piece",
+                            "bottle",
+                            "slice",
+                            "plate"
+                        ],
+                        "answer": "bottle",
+                        "answer_index": 1,
+                        "hint": "牛奶通常用瓶子裝，a bottle of milk。"
+                    },
+                    {
+                        "id": "m1-4-u4-q027",
+                        "question": "How much _______ do you put in your coffee?",
+                        "options": [
+                            "sugar",
+                            "apples",
+                            "eggs",
+                            "cups"
+                        ],
+                        "answer": "sugar",
+                        "answer_index": 0,
+                        "hint": "How much 接不可數名詞，sugar (糖) 為不可數。"
+                    },
+                    {
+                        "id": "m1-4-u4-q028",
+                        "question": "There are three _______ in the kitchen.",
+                        "options": [
+                            "kid",
+                            "kids",
+                            "water",
+                            "flour"
+                        ],
+                        "answer": "kids",
+                        "answer_index": 1,
+                        "hint": "three 後接可數名詞複數，kids。"
+                    },
+                    {
+                        "id": "m1-4-u4-q029",
+                        "question": "He likes fruit, _______ he eats a lot of apples.",
+                        "options": [
+                            "because",
+                            "so",
+                            "but",
+                            "or"
+                        ],
+                        "answer": "so",
+                        "answer_index": 1,
+                        "hint": "喜歡水果是原因，吃蘋果是結果，用 so。"
+                    },
+                    {
+                        "id": "m1-4-u4-q030",
+                        "question": "Please give me a _______ of pie.",
+                        "options": [
+                            "piece",
+                            "glass",
+                            "cup",
+                            "bowl"
+                        ],
+                        "answer": "piece",
+                        "answer_index": 0,
+                        "hint": "派通常用塊 (piece) 來計算。"
+                    },
+                    {
+                        "id": "m1-4-u4-q031",
+                        "question": "_______ do you wear a jacket? Because it's cold.",
+                        "options": [
+                            "What",
+                            "Where",
+                            "Why",
+                            "When"
+                        ],
+                        "answer": "Why",
+                        "answer_index": 2,
+                        "hint": "答句為 Because，問句必定用 Why 詢問原因。"
+                    },
+                    {
+                        "id": "m1-4-u4-q032",
+                        "question": "We need a few _______ to make the salad.",
+                        "options": [
+                            "water",
+                            "milk",
+                            "apples",
+                            "juice"
+                        ],
+                        "answer": "apples",
+                        "answer_index": 2,
+                        "hint": "a few 接可數名詞複數，apples 為可數。"
+                    },
+                    {
+                        "id": "m1-4-u4-q033",
+                        "question": "Can I have a _______ of hot tea?",
+                        "options": [
+                            "cup",
+                            "slice",
+                            "piece",
+                            "bag"
+                        ],
+                        "answer": "cup",
+                        "answer_index": 0,
+                        "hint": "熱茶通常用杯子裝，a cup of tea。"
+                    },
+                    {
+                        "id": "m1-4-u4-q034",
+                        "question": "How many _______ of orange juice are there?",
+                        "options": [
+                            "bottle",
+                            "bottles",
+                            "water",
+                            "much"
+                        ],
+                        "answer": "bottles",
+                        "answer_index": 1,
+                        "hint": "How many 後接單位量詞的複數 bottles。"
+                    },
+                    {
+                        "id": "m1-4-u4-q035",
+                        "question": "The toast is yummy, _______ I want more.",
+                        "options": [
+                            "because",
+                            "so",
+                            "but",
+                            "if"
+                        ],
+                        "answer": "so",
+                        "answer_index": 1,
+                        "hint": "好吃是原因，想多吃是結果，用 so 連接。"
+                    },
+                    {
+                        "id": "m1-4-u4-q036",
+                        "question": "There isn't _______ water in the tub.",
+                        "options": [
+                            "many",
+                            "much",
+                            "a few",
+                            "one"
+                        ],
+                        "answer": "much",
+                        "answer_index": 1,
+                        "hint": "water 為不可數名詞，否定句中常用 much 表示「不多」。"
+                    },
+                    {
+                        "id": "m1-4-u4-q037",
+                        "question": "I have a little _______ left in my bag.",
+                        "options": [
+                            "candy",
+                            "candies",
+                            "apple",
+                            "oranges"
+                        ],
+                        "answer": "candy",
+                        "answer_index": 0,
+                        "hint": "a little 修飾不可數名詞，或將 candy 視為不可數的總稱。"
+                    },
+                    {
+                        "id": "m1-4-u4-q038",
+                        "question": "Why are you so happy? _______ I got a good grade.",
+                        "options": [
+                            "So",
+                            "Because",
+                            "And",
+                            "But"
+                        ],
+                        "answer": "Because",
+                        "answer_index": 1,
+                        "hint": "回答 Why 的問句，用 Because。"
+                    },
+                    {
+                        "id": "m1-4-u4-q039",
+                        "question": "How much _______ does the recipe call for?",
+                        "options": [
+                            "salt",
+                            "eggs",
+                            "bananas",
+                            "tomatoes"
+                        ],
+                        "answer": "salt",
+                        "answer_index": 0,
+                        "hint": "How much 後接不可數名詞，salt 為不可數。"
+                    },
+                    {
+                        "id": "m1-4-u4-q040",
+                        "question": "Please back off _______ the dog is angry.",
+                        "options": [
+                            "so",
+                            "but",
+                            "because",
+                            "or"
+                        ],
+                        "answer": "because",
+                        "answer_index": 2,
+                        "hint": "狗生氣是請對方退後的原因，用 because。"
+                    },
+                    {
+                        "id": "m1-4-u4-q041",
+                        "question": "There is a _______ of soup on the table.",
+                        "options": [
+                            "bowl",
+                            "slice",
+                            "piece",
+                            "glass"
+                        ],
+                        "answer": "bowl",
+                        "answer_index": 0,
+                        "hint": "湯通常用碗裝，a bowl of soup。"
+                    },
+                    {
+                        "id": "m1-4-u4-q042",
+                        "question": "How many _______ do you want to eat?",
+                        "options": [
+                            "milk",
+                            "cookies",
+                            "soup",
+                            "water"
+                        ],
+                        "answer": "cookies",
+                        "answer_index": 1,
+                        "hint": "How many 後接可數名詞複數，cookies。"
+                    },
+                    {
+                        "id": "m1-4-u4-q043",
+                        "question": "She is sad _______ her pet is sick.",
+                        "options": [
+                            "so",
+                            "because",
+                            "and",
+                            "but"
+                        ],
+                        "answer": "because",
+                        "answer_index": 1,
+                        "hint": "寵物生病是傷心的原因，用 because。"
+                    },
+                    {
+                        "id": "m1-4-u4-q044",
+                        "question": "Let's make a fruit salad. We need some _______ and apples.",
+                        "options": [
+                            "milk",
+                            "flour",
+                            "bananas",
+                            "salt"
+                        ],
+                        "answer": "bananas",
+                        "answer_index": 2,
+                        "hint": "製作水果沙拉需要水果，bananas 最合理。"
+                    },
+                    {
+                        "id": "m1-4-u4-q045",
+                        "question": "He drank three _______ of water after running.",
+                        "options": [
+                            "glasses",
+                            "glass",
+                            "slice",
+                            "bowl"
+                        ],
+                        "answer": "glasses",
+                        "answer_index": 0,
+                        "hint": "三杯水，單位量詞需用複數 glasses。"
+                    },
+                    {
+                        "id": "m1-4-u4-q046",
+                        "question": "The box turns _______ a table.",
+                        "options": [
+                            "in",
+                            "on",
+                            "at",
+                            "into"
+                        ],
+                        "answer": "into",
+                        "answer_index": 3,
+                        "hint": "turn into 為片語，意思是「變成」。"
+                    },
+                    {
+                        "id": "m1-4-u4-q047",
+                        "question": "There is a lot of _______ on the pizza.",
+                        "options": [
+                            "cheeses",
+                            "cheese",
+                            "apples",
+                            "egg"
+                        ],
+                        "answer": "cheese",
+                        "answer_index": 1,
+                        "hint": "cheese 為不可數名詞，不加 s。"
+                    },
+                    {
+                        "id": "m1-4-u4-q048",
+                        "question": "I don't have enough money, _______ I can't buy the toy.",
+                        "options": [
+                            "because",
+                            "so",
+                            "but",
+                            "or"
+                        ],
+                        "answer": "so",
+                        "answer_index": 1,
+                        "hint": "錢不夠是原因，無法買是結果，用 so。"
+                    },
+                    {
+                        "id": "m1-4-u4-q049",
+                        "question": "How much _______ does he need for his coffee?",
+                        "options": [
+                            "milk",
+                            "cups",
+                            "eggs",
+                            "bread"
+                        ],
+                        "answer": "milk",
+                        "answer_index": 0,
+                        "hint": "咖啡通常加牛奶，且 milk 為不可數名詞。"
+                    },
+                    {
+                        "id": "m1-4-u4-q050",
+                        "question": "We need a _______ of bread to make a sandwich.",
+                        "options": [
+                            "piece",
+                            "slice",
+                            "bowl",
+                            "glass"
+                        ],
+                        "answer": "slice",
+                        "answer_index": 1,
+                        "hint": "做三明治通常需要切片的麵包，a slice of bread。"
+                    }
+                ]
+            },
+            "scrambles": {
+                "vocab": [
+                    {
+                        "id": "m1-4-u4-sv001",
+                        "vocab_id": "m1-4-u4-v001",
+                        "sentence": "Why are you wearing a mask?",
+                        "sentence_chinese": "你為什麼戴著口罩？"
+                    },
+                    {
+                        "id": "m1-4-u4-sv002",
+                        "vocab_id": "m1-4-u4-v002",
+                        "sentence": "He wears a jacket because it is cold.",
+                        "sentence_chinese": "他因為很冷所以穿著外套。"
+                    },
+                    {
+                        "id": "m1-4-u4-sv003",
+                        "vocab_id": "m1-4-u4-v003",
+                        "sentence": "Please wear a mask when you are sick.",
+                        "sentence_chinese": "生病時請戴口罩。"
+                    },
+                    {
+                        "id": "m1-4-u4-sv004",
+                        "vocab_id": "m1-4-u4-v004",
+                        "sentence": "I drink water because I am thirsty.",
+                        "sentence_chinese": "我喝水因為我口渴。"
+                    },
+                    {
+                        "id": "m1-4-u4-sv005",
+                        "vocab_id": "m1-4-u4-v005",
+                        "sentence": "The boy is sick today.",
+                        "sentence_chinese": "這男孩今天生病了。"
+                    },
+                    {
+                        "id": "m1-4-u4-sv006",
+                        "vocab_id": "m1-4-u4-v006",
+                        "sentence": "We need some water.",
+                        "sentence_chinese": "我們需要一些水。"
+                    },
+                    {
+                        "id": "m1-4-u4-sv007",
+                        "vocab_id": "m1-4-u4-v007",
+                        "sentence": "I want a glass of juice.",
+                        "sentence_chinese": "我想要一杯果汁。"
+                    },
+                    {
+                        "id": "m1-4-u4-sv008",
+                        "vocab_id": "m1-4-u4-v008",
+                        "sentence": "How much flour do we need?",
+                        "sentence_chinese": "我們需要多少麵粉？"
+                    },
+                    {
+                        "id": "m1-4-u4-sv009",
+                        "vocab_id": "m1-4-u4-v009",
+                        "sentence": "They need two bags of salt.",
+                        "sentence_chinese": "他們需要兩袋鹽。"
+                    },
+                    {
+                        "id": "m1-4-u4-sv010",
+                        "vocab_id": "m1-4-u4-v010",
+                        "sentence": "This apple pie is yummy.",
+                        "sentence_chinese": "這個蘋果派很好吃。"
+                    },
+                    {
+                        "id": "m1-4-u4-sv011",
+                        "vocab_id": "m1-4-u4-v011",
+                        "sentence": "He is still hungry.",
+                        "sentence_chinese": "他仍然很餓。"
+                    },
+                    {
+                        "id": "m1-4-u4-sv012",
+                        "vocab_id": "m1-4-u4-v012",
+                        "sentence": "What is this thing?",
+                        "sentence_chinese": "這個東西是什麼？"
+                    },
+                    {
+                        "id": "m1-4-u4-sv013",
+                        "vocab_id": "m1-4-u4-v013",
+                        "sentence": "Please pass me the salt.",
+                        "sentence_chinese": "請把鹽遞給我。"
+                    },
+                    {
+                        "id": "m1-4-u4-sv014",
+                        "vocab_id": "m1-4-u4-v014",
+                        "sentence": "I want something to eat.",
+                        "sentence_chinese": "我想吃點東西。"
+                    },
+                    {
+                        "id": "m1-4-u4-sv015",
+                        "vocab_id": "m1-4-u4-v015",
+                        "sentence": "She puts sugar in her tea.",
+                        "sentence_chinese": "她在茶裡加糖。"
+                    },
+                    {
+                        "id": "m1-4-u4-sv016",
+                        "vocab_id": "m1-4-u4-v016",
+                        "sentence": "Where can I get some snacks?",
+                        "sentence_chinese": "我可以在哪裡買到點心？"
+                    },
+                    {
+                        "id": "m1-4-u4-sv017",
+                        "vocab_id": "m1-4-u4-v017",
+                        "sentence": "I am tired, so I go to sleep.",
+                        "sentence_chinese": "我很累，所以我去睡覺了。"
+                    },
+                    {
+                        "id": "m1-4-u4-sv018",
+                        "vocab_id": "m1-4-u4-v018",
+                        "sentence": "Breakfast is the first meal of the day.",
+                        "sentence_chinese": "早餐是一天的第一餐。"
+                    },
+                    {
+                        "id": "m1-4-u4-sv019",
+                        "vocab_id": "m1-4-u4-v019",
+                        "sentence": "There is a bottle of milk on the table.",
+                        "sentence_chinese": "桌上有一瓶牛奶。"
+                    },
+                    {
+                        "id": "m1-4-u4-sv020",
+                        "vocab_id": "m1-4-u4-v020",
+                        "sentence": "The kids like candy very much.",
+                        "sentence_chinese": "小孩們非常喜歡糖果。"
+                    },
+                    {
+                        "id": "m1-4-u4-sv021",
+                        "vocab_id": "m1-4-u4-v021",
+                        "sentence": "We eat popcorn at the movies.",
+                        "sentence_chinese": "我們看電影時吃爆米花。"
+                    },
+                    {
+                        "id": "m1-4-u4-sv022",
+                        "vocab_id": "m1-4-u4-v022",
+                        "sentence": "Can I have a cup of coffee?",
+                        "sentence_chinese": "可以給我一杯咖啡嗎？"
+                    },
+                    {
+                        "id": "m1-4-u4-sv023",
+                        "vocab_id": "m1-4-u4-v023",
+                        "sentence": "He eats a bowl of soup.",
+                        "sentence_chinese": "他喝了一碗湯。"
+                    },
+                    {
+                        "id": "m1-4-u4-sv024",
+                        "vocab_id": "m1-4-u4-v024",
+                        "sentence": "She is making a fruit salad.",
+                        "sentence_chinese": "她正在做水果沙拉。"
+                    },
+                    {
+                        "id": "m1-4-u4-sv025",
+                        "vocab_id": "m1-4-u4-v025",
+                        "sentence": "We ordered a big pizza.",
+                        "sentence_chinese": "我們訂了一個大披薩。"
+                    },
+                    {
+                        "id": "m1-4-u4-sv026",
+                        "vocab_id": "m1-4-u4-v026",
+                        "sentence": "I want a strawberry milk shake.",
+                        "sentence_chinese": "我想要一杯草莓奶昔。"
+                    },
+                    {
+                        "id": "m1-4-u4-sv027",
+                        "vocab_id": "m1-4-u4-v027",
+                        "sentence": "There are three cans of cola.",
+                        "sentence_chinese": "有三罐可樂。"
+                    },
+                    {
+                        "id": "m1-4-u4-sv028",
+                        "vocab_id": "m1-4-u4-v028",
+                        "sentence": "I usually have toast for breakfast.",
+                        "sentence_chinese": "我早餐通常吃烤吐司。"
+                    },
+                    {
+                        "id": "m1-4-u4-sv029",
+                        "vocab_id": "m1-4-u4-v029",
+                        "sentence": "We need to buy some bread.",
+                        "sentence_chinese": "我們需要買一些麵包。"
+                    },
+                    {
+                        "id": "m1-4-u4-sv030",
+                        "vocab_id": "m1-4-u4-v030",
+                        "sentence": "This cake is yummy.",
+                        "sentence_chinese": "這塊蛋糕很好吃。"
+                    },
+                    {
+                        "id": "m1-4-u4-sv031",
+                        "vocab_id": "m1-4-u4-v031",
+                        "sentence": "The test is very easy.",
+                        "sentence_chinese": "這個考試很簡單。"
+                    },
+                    {
+                        "id": "m1-4-u4-sv032",
+                        "vocab_id": "m1-4-u4-v032",
+                        "sentence": "It is time for a snack.",
+                        "sentence_chinese": "吃點心的時間到了。"
+                    },
+                    {
+                        "id": "m1-4-u4-sv033",
+                        "vocab_id": "m1-4-u4-v033",
+                        "sentence": "The kid is playing in the park.",
+                        "sentence_chinese": "那個小孩在公園裡玩耍。"
+                    },
+                    {
+                        "id": "m1-4-u4-sv034",
+                        "vocab_id": "m1-4-u4-v034",
+                        "sentence": "Mice love cheese.",
+                        "sentence_chinese": "老鼠喜歡乳酪。"
+                    },
+                    {
+                        "id": "m1-4-u4-sv035",
+                        "vocab_id": "m1-4-u4-v035",
+                        "sentence": "Put the chicken on the plate.",
+                        "sentence_chinese": "把雞肉放在盤子上。"
+                    },
+                    {
+                        "id": "m1-4-u4-sv036",
+                        "vocab_id": "m1-4-u4-v036",
+                        "sentence": "This is the last piece of pie.",
+                        "sentence_chinese": "這是最後一塊派。"
+                    },
+                    {
+                        "id": "m1-4-u4-sv037",
+                        "vocab_id": "m1-4-u4-v037",
+                        "sentence": "I enjoy listening to music.",
+                        "sentence_chinese": "我享受聽音樂。"
+                    },
+                    {
+                        "id": "m1-4-u4-sv038",
+                        "vocab_id": "m1-4-u4-v038",
+                        "sentence": "Each student has a book.",
+                        "sentence_chinese": "每個學生都有一本書。"
+                    }
+                ],
+                "phrases": [
+                    {
+                        "id": "m1-4-u4-sp001",
+                        "phrase_id": "m1-4-u4-p001",
+                        "sentence": "We only need a little salt.",
+                        "sentence_chinese": "我們只需要一點點鹽。"
+                    },
+                    {
+                        "id": "m1-4-u4-sp002",
+                        "phrase_id": "m1-4-u4-p002",
+                        "sentence": "All right, let's go home now.",
+                        "sentence_chinese": "好吧，我們現在回家吧。"
+                    },
+                    {
+                        "id": "m1-4-u4-sp003",
+                        "phrase_id": "m1-4-u4-p003",
+                        "sentence": "Please back off from the fire.",
+                        "sentence_chinese": "請從火邊退後。"
+                    },
+                    {
+                        "id": "m1-4-u4-sp004",
+                        "phrase_id": "m1-4-u4-p004",
+                        "sentence": "The caterpillar turns into a butterfly.",
+                        "sentence_chinese": "毛毛蟲變成蝴蝶。"
+                    }
+                ],
+                "grammar": [
+                    {
+                        "id": "m1-4-u4-sg001",
+                        "sentence": "How much flour do you need?",
+                        "sentence_chinese": "你需要多少麵粉？"
+                    },
+                    {
+                        "id": "m1-4-u4-sg002",
+                        "sentence": "We need a little milk.",
+                        "sentence_chinese": "我們需要一點點牛奶。"
+                    },
+                    {
+                        "id": "m1-4-u4-sg003",
+                        "sentence": "How many apples are there on the table?",
+                        "sentence_chinese": "桌上有多少顆蘋果？"
+                    },
+                    {
+                        "id": "m1-4-u4-sg004",
+                        "sentence": "There are three boxes of apples.",
+                        "sentence_chinese": "有三箱蘋果。"
+                    },
+                    {
+                        "id": "m1-4-u4-sg005",
+                        "sentence": "Why is he wearing a mask?",
+                        "sentence_chinese": "他為什麼戴著口罩？"
+                    },
+                    {
+                        "id": "m1-4-u4-sg006",
+                        "sentence": "He is wearing a mask because he is sick.",
+                        "sentence_chinese": "他戴著口罩因為他生病了。"
+                    },
+                    {
+                        "id": "m1-4-u4-sg007",
+                        "sentence": "I have a few cookies in the box.",
+                        "sentence_chinese": "我的盒子裡有一些餅乾。"
+                    },
+                    {
+                        "id": "m1-4-u4-sg008",
+                        "sentence": "How much soup is there in the bowl?",
+                        "sentence_chinese": "碗裡有多少湯？"
+                    },
+                    {
+                        "id": "m1-4-u4-sg009",
+                        "sentence": "There are two cans of soup.",
+                        "sentence_chinese": "有兩罐湯。"
+                    },
+                    {
+                        "id": "m1-4-u4-sg010",
+                        "sentence": "She wants a plate of fruit salad.",
+                        "sentence_chinese": "她想要一盤水果沙拉。"
+                    },
+                    {
+                        "id": "m1-4-u4-sg011",
+                        "sentence": "How many glasses of water do we need?",
+                        "sentence_chinese": "我們需要多少杯水？"
+                    },
+                    {
+                        "id": "m1-4-u4-sg012",
+                        "sentence": "We need four glasses of water.",
+                        "sentence_chinese": "我們需要四杯水。"
+                    },
+                    {
+                        "id": "m1-4-u4-sg013",
+                        "sentence": "Because I am sick, I am wearing a mask.",
+                        "sentence_chinese": "因為我生病了，所以我戴口罩。"
+                    },
+                    {
+                        "id": "m1-4-u4-sg014",
+                        "sentence": "I am sick, so I am wearing a mask.",
+                        "sentence_chinese": "我生病了，所以我戴口罩。"
+                    },
+                    {
+                        "id": "m1-4-u4-sg015",
+                        "sentence": "How many bags of flour are there in the kitchen?",
+                        "sentence_chinese": "廚房裡有多少袋麵粉？"
+                    },
+                    {
+                        "id": "m1-4-u4-sg016",
+                        "sentence": "There is only one can of tea.",
+                        "sentence_chinese": "只有一罐茶。"
+                    },
+                    {
+                        "id": "m1-4-u4-sg017",
+                        "sentence": "How much juice is there in the bottle?",
+                        "sentence_chinese": "瓶子裡有多少果汁？"
+                    },
+                    {
+                        "id": "m1-4-u4-sg018",
+                        "sentence": "There are five slices of pizza on the table.",
+                        "sentence_chinese": "桌上有五片披薩。"
+                    },
+                    {
+                        "id": "m1-4-u4-sg019",
+                        "sentence": "How many cups of coffee does your friend drink?",
+                        "sentence_chinese": "你的朋友喝多少杯咖啡？"
+                    },
+                    {
+                        "id": "m1-4-u4-sg020",
+                        "sentence": "Why are you going to the park?",
+                        "sentence_chinese": "你為什麼要去公園？"
+                    },
+                    {
+                        "id": "m1-4-u4-sg021",
+                        "sentence": "I am going there because there is a concert.",
+                        "sentence_chinese": "我去那裡是因為有音樂會。"
+                    },
+                    {
+                        "id": "m1-4-u4-sg022",
+                        "sentence": "I am too tired, so I don't go out.",
+                        "sentence_chinese": "我太累了，所以我沒出門。"
+                    },
+                    {
+                        "id": "m1-4-u4-sg023",
+                        "sentence": "Because I am too tired, I don't go out.",
+                        "sentence_chinese": "因為我太累了，所以我沒出門。"
+                    },
+                    {
+                        "id": "m1-4-u4-sg024",
+                        "sentence": "We want two tubs of popcorn.",
+                        "sentence_chinese": "我們想要兩桶爆米花。"
+                    },
+                    {
+                        "id": "m1-4-u4-sg025",
+                        "sentence": "How many sandwiches are there on the desk?",
+                        "sentence_chinese": "書桌上有多少個三明治？"
+                    },
+                    {
+                        "id": "m1-4-u4-sg026",
+                        "sentence": "There is a little water in the glass.",
+                        "sentence_chinese": "杯子裡有一點點水。"
+                    },
+                    {
+                        "id": "m1-4-u4-sg027",
+                        "sentence": "The kids like the teacher because she is nice.",
+                        "sentence_chinese": "孩子們喜歡老師因為她很好。"
+                    },
+                    {
+                        "id": "m1-4-u4-sg028",
+                        "sentence": "Peter isn't eating because he is not hungry.",
+                        "sentence_chinese": "Peter 沒有吃因為他不餓。"
+                    },
+                    {
+                        "id": "m1-4-u4-sg029",
+                        "sentence": "Please put a little sugar in the coffee.",
+                        "sentence_chinese": "請在咖啡裡加一點糖。"
+                    },
+                    {
+                        "id": "m1-4-u4-sg030",
+                        "sentence": "He always has a bowl of fruit salad with his meal.",
+                        "sentence_chinese": "他用餐時總會配一碗水果沙拉。"
+                    }
+                ]
+            }
+        }
+    }
+}

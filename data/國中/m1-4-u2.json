@@ -1,0 +1,1469 @@
+{
+    "units": {
+        "m1-4-u2": {
+            "title": "Unit 2: Daily Routines & Frequency",
+            "vocab": [
+                {
+                    "id": "m1-4-u2-v001",
+                    "word": "answer",
+                    "part_of_speech": "n./v.",
+                    "chinese": "回答；答案",
+                    "sentence": "I don't know the answer to the question.",
+                    "sentence_chinese": "我不知道這個問題的答案。"
+                },
+                {
+                    "id": "m1-4-u2-v002",
+                    "word": "question",
+                    "part_of_speech": "n.",
+                    "chinese": "問題",
+                    "sentence": "Can I ask a question?",
+                    "sentence_chinese": "我可以問個問題嗎？"
+                },
+                {
+                    "id": "m1-4-u2-v003",
+                    "word": "trouble",
+                    "part_of_speech": "n.",
+                    "chinese": "困難；麻煩",
+                    "sentence": "He is in trouble now.",
+                    "sentence_chinese": "他現在有麻煩了。"
+                },
+                {
+                    "id": "m1-4-u2-v004",
+                    "word": "life",
+                    "part_of_speech": "n.",
+                    "chinese": "生活；生命",
+                    "sentence": "Music is a big part of my life.",
+                    "sentence_chinese": "音樂是我生活的一大部分。"
+                },
+                {
+                    "id": "m1-4-u2-v005",
+                    "word": "owl",
+                    "part_of_speech": "n.",
+                    "chinese": "貓頭鷹",
+                    "sentence": "An owl is a bird that stays up late.",
+                    "sentence_chinese": "貓頭鷹是熬夜的鳥類。"
+                },
+                {
+                    "id": "m1-4-u2-v006",
+                    "word": "face",
+                    "part_of_speech": "n.",
+                    "chinese": "臉",
+                    "sentence": "Wash your face before you go to bed.",
+                    "sentence_chinese": "睡覺前洗臉。"
+                },
+                {
+                    "id": "m1-4-u2-v007",
+                    "word": "breakfast",
+                    "part_of_speech": "n.",
+                    "chinese": "早餐",
+                    "sentence": "I usually eat breakfast at seven.",
+                    "sentence_chinese": "我通常七點吃早餐。"
+                },
+                {
+                    "id": "m1-4-u2-v008",
+                    "word": "lunch",
+                    "part_of_speech": "n.",
+                    "chinese": "午餐",
+                    "sentence": "We have lunch at school every day.",
+                    "sentence_chinese": "我們每天在學校吃午餐。"
+                },
+                {
+                    "id": "m1-4-u2-v009",
+                    "word": "computer",
+                    "part_of_speech": "n.",
+                    "chinese": "電腦",
+                    "sentence": "He uses the computer for work.",
+                    "sentence_chinese": "他用電腦工作。"
+                },
+                {
+                    "id": "m1-4-u2-v010",
+                    "word": "always",
+                    "part_of_speech": "adv.",
+                    "chinese": "總是",
+                    "sentence": "I am always happy at school.",
+                    "sentence_chinese": "我在學校總是很快樂。"
+                },
+                {
+                    "id": "m1-4-u2-v011",
+                    "word": "tired",
+                    "part_of_speech": "adj.",
+                    "chinese": "疲累的",
+                    "sentence": "He is often tired after school.",
+                    "sentence_chinese": "他放學後經常很累。"
+                },
+                {
+                    "id": "m1-4-u2-v012",
+                    "word": "shower",
+                    "part_of_speech": "n./v.",
+                    "chinese": "淋浴",
+                    "sentence": "I take a shower every night.",
+                    "sentence_chinese": "我每晚洗澡。"
+                },
+                {
+                    "id": "m1-4-u2-v013",
+                    "word": "never",
+                    "part_of_speech": "adv.",
+                    "chinese": "從未",
+                    "sentence": "We never fight with each other.",
+                    "sentence_chinese": "我們從不互相吵架。"
+                },
+                {
+                    "id": "m1-4-u2-v014",
+                    "word": "library",
+                    "part_of_speech": "n.",
+                    "chinese": "圖書館",
+                    "sentence": "I go to the library once a week.",
+                    "sentence_chinese": "我每週去一次圖書館。"
+                },
+                {
+                    "id": "m1-4-u2-v015",
+                    "word": "once",
+                    "part_of_speech": "adv.",
+                    "chinese": "一次",
+                    "sentence": "I visit my grandma once a month.",
+                    "sentence_chinese": "我每個月看望奶奶一次。"
+                },
+                {
+                    "id": "m1-4-u2-v016",
+                    "word": "twice",
+                    "part_of_speech": "adv.",
+                    "chinese": "兩次",
+                    "sentence": "We exercise twice a day.",
+                    "sentence_chinese": "我們一天運動兩次。"
+                },
+                {
+                    "id": "m1-4-u2-v017",
+                    "word": "about",
+                    "part_of_speech": "adv.",
+                    "chinese": "大約",
+                    "sentence": "It's about ten o'clock now.",
+                    "sentence_chinese": "現在大約十點。"
+                },
+                {
+                    "id": "m1-4-u2-v018",
+                    "word": "early",
+                    "part_of_speech": "adj./adv.",
+                    "chinese": "早的/早地",
+                    "sentence": "He gets up early in the morning.",
+                    "sentence_chinese": "他早上很早起床。"
+                },
+                {
+                    "id": "m1-4-u2-v019",
+                    "word": "work",
+                    "part_of_speech": "n./v.",
+                    "chinese": "工作",
+                    "sentence": "My dad goes to work by car.",
+                    "sentence_chinese": "我爸爸開車去上班。"
+                },
+                {
+                    "id": "m1-4-u2-v020",
+                    "word": "often",
+                    "part_of_speech": "adv.",
+                    "chinese": "經常",
+                    "sentence": "How often do you watch TV?",
+                    "sentence_chinese": "你多常看電視？"
+                },
+                {
+                    "id": "m1-4-u2-v021",
+                    "word": "usually",
+                    "part_of_speech": "adv.",
+                    "chinese": "通常",
+                    "sentence": "I usually go to bed at ten.",
+                    "sentence_chinese": "我通常十點睡覺。"
+                },
+                {
+                    "id": "m1-4-u2-v022",
+                    "word": "seldom",
+                    "part_of_speech": "adv.",
+                    "chinese": "很少",
+                    "sentence": "They are seldom quiet in class.",
+                    "sentence_chinese": "他們在課堂上很少安靜。"
+                },
+                {
+                    "id": "m1-4-u2-v023",
+                    "word": "sometimes",
+                    "part_of_speech": "adv.",
+                    "chinese": "有時候",
+                    "sentence": "She sometimes walks her dog at night.",
+                    "sentence_chinese": "她有時候在晚上遛狗。"
+                },
+                {
+                    "id": "m1-4-u2-v024",
+                    "word": "even",
+                    "part_of_speech": "adv.",
+                    "chinese": "甚至",
+                    "sentence": "He is even busy on weekends.",
+                    "sentence_chinese": "他甚至在週末也很忙。"
+                },
+                {
+                    "id": "m1-4-u2-v025",
+                    "word": "late",
+                    "part_of_speech": "adj./adv.",
+                    "chinese": "晚的/晚地",
+                    "sentence": "Don't be late for school.",
+                    "sentence_chinese": "上學不要遲到。"
+                },
+                {
+                    "id": "m1-4-u2-v026",
+                    "word": "hour",
+                    "part_of_speech": "n.",
+                    "chinese": "小時",
+                    "sentence": "I study for one hour every day.",
+                    "sentence_chinese": "我每天讀書一小時。"
+                },
+                {
+                    "id": "m1-4-u2-v027",
+                    "word": "minute",
+                    "part_of_speech": "n.",
+                    "chinese": "分鐘",
+                    "sentence": "Wait a minute, please.",
+                    "sentence_chinese": "請等一下。"
+                },
+                {
+                    "id": "m1-4-u2-v028",
+                    "word": "study",
+                    "part_of_speech": "v.",
+                    "chinese": "研讀；學習",
+                    "sentence": "They study English together.",
+                    "sentence_chinese": "他們一起讀英文。"
+                },
+                {
+                    "id": "m1-4-u2-v029",
+                    "word": "exercise",
+                    "part_of_speech": "n./v.",
+                    "chinese": "運動",
+                    "sentence": "He exercises twice a day.",
+                    "sentence_chinese": "他一天運動兩次。"
+                },
+                {
+                    "id": "m1-4-u2-v030",
+                    "word": "bike",
+                    "part_of_speech": "n.",
+                    "chinese": "腳踏車",
+                    "sentence": "I go to school by bike.",
+                    "sentence_chinese": "我騎腳踏車上學。"
+                }
+            ],
+            "phrases": [
+                {
+                    "id": "m1-4-u2-p001",
+                    "phrase": "play basketball",
+                    "chinese": "打籃球",
+                    "sentence": "I play basketball with friends.",
+                    "sentence_chinese": "我和朋友打籃球。"
+                },
+                {
+                    "id": "m1-4-u2-p002",
+                    "phrase": "clean the house",
+                    "chinese": "打掃房子",
+                    "sentence": "We clean the house on weekends.",
+                    "sentence_chinese": "我們在週末打掃房子。"
+                },
+                {
+                    "id": "m1-4-u2-p003",
+                    "phrase": "watch TV",
+                    "chinese": "看電視",
+                    "sentence": "He watches TV after dinner.",
+                    "sentence_chinese": "他晚餐後看電視。"
+                },
+                {
+                    "id": "m1-4-u2-p004",
+                    "phrase": "listen to music",
+                    "chinese": "聽音樂",
+                    "sentence": "I like to listen to music.",
+                    "sentence_chinese": "我喜歡聽音樂。"
+                },
+                {
+                    "id": "m1-4-u2-p005",
+                    "phrase": "brush one's teeth",
+                    "chinese": "刷牙",
+                    "sentence": "I brush my teeth every morning.",
+                    "sentence_chinese": "我每天早上刷牙。"
+                },
+                {
+                    "id": "m1-4-u2-p006",
+                    "phrase": "check out",
+                    "chinese": "借（書）",
+                    "sentence": "You can check out books here.",
+                    "sentence_chinese": "你可以在這裡借書。"
+                },
+                {
+                    "id": "m1-4-u2-p007",
+                    "phrase": "by the way",
+                    "chinese": "順帶一提",
+                    "sentence": "By the way, what's your name?",
+                    "sentence_chinese": "順帶一提，你叫什麼名字？"
+                },
+                {
+                    "id": "m1-4-u2-p008",
+                    "phrase": "I can't help it.",
+                    "chinese": "我沒辦法。",
+                    "sentence": "I eat too much; I can't help it.",
+                    "sentence_chinese": "我吃太多了；我控制不了。"
+                },
+                {
+                    "id": "m1-4-u2-p009",
+                    "phrase": "do one's homework",
+                    "chinese": "做功課",
+                    "sentence": "She does her homework at home.",
+                    "sentence_chinese": "她在家做功課。"
+                },
+                {
+                    "id": "m1-4-u2-p010",
+                    "phrase": "cram school",
+                    "chinese": "補習班",
+                    "sentence": "I go to cram school after school.",
+                    "sentence_chinese": "我放學後去補習班。"
+                },
+                {
+                    "id": "m1-4-u2-p011",
+                    "phrase": "fight with each other",
+                    "chinese": "互相吵架",
+                    "sentence": "They never fight with each other.",
+                    "sentence_chinese": "他們從不互相吵架。"
+                },
+                {
+                    "id": "m1-4-u2-p012",
+                    "phrase": "sleep under the sofa",
+                    "chinese": "在沙發下睡覺",
+                    "sentence": "The dog sleeps under the sofa.",
+                    "sentence_chinese": "狗狗在沙發下睡覺。"
+                },
+                {
+                    "id": "m1-4-u2-p013",
+                    "phrase": "help their dad in the kitchen",
+                    "chinese": "在廚房幫爸爸",
+                    "sentence": "The girls help their dad in the kitchen.",
+                    "sentence_chinese": "女孩們在廚房幫她們的爸爸。"
+                },
+                {
+                    "id": "m1-4-u2-p014",
+                    "phrase": "walk the dog",
+                    "chinese": "遛狗",
+                    "sentence": "He walks the dog every evening.",
+                    "sentence_chinese": "他每天傍晚遛狗。"
+                }
+            ],
+            "grammar": {
+                "tips": [
+                    {
+                        "label": "Be 動詞句型",
+                        "text": "主詞 + be 動詞 + 頻率副詞"
+                    },
+                    {
+                        "label": "一般動詞句型",
+                        "text": "主詞 + 頻率副詞 + 一般動詞"
+                    },
+                    {
+                        "label": "問頻率句型",
+                        "text": "How often + do/does + 主詞 + 原形動詞?"
+                    }
+                ],
+                "notes": [
+                    {
+                        "title": "頻率百分比",
+                        "rule": "Always(100%) > Usually > Often > Sometimes(50%) > Seldom > Never(0%)",
+                        "description": "Seldom 與 Never 具否定意義，不與 not 連用。",
+                        "examples": [
+                            "I never eat meat.",
+                            "He is seldom late."
+                        ]
+                    },
+                    {
+                        "title": "位置口訣",
+                        "rule": "Be 後動前",
+                        "description": "放在 Be 動詞後面，一般動詞前面。",
+                        "examples": [
+                            "He is always happy.",
+                            "She often studies English."
+                        ]
+                    },
+                    {
+                        "title": "回答 How often",
+                        "rule": "次數 + a + 時間 / Every + 時間",
+                        "description": "常見回答方式。",
+                        "examples": [
+                            "once a week",
+                            "twice a day",
+                            "every hour"
+                        ]
+                    }
+                ],
+                "quiz": [
+                    {
+                        "id": "m1-4-u2-q001",
+                        "question": "I ________ eat breakfast at six.",
+                        "options": [
+                            "always",
+                            "am always",
+                            "always am",
+                            "eat always"
+                        ],
+                        "answer": "always",
+                        "answer_index": 0,
+                        "hint": "一般動詞前放頻率副詞。"
+                    },
+                    {
+                        "id": "m1-4-u2-q002",
+                        "question": "She ________ walks her dog at night.",
+                        "options": [
+                            "is sometimes",
+                            "sometimes",
+                            "sometimes is",
+                            "does sometimes"
+                        ],
+                        "answer": "sometimes",
+                        "answer_index": 1,
+                        "hint": "動詞前放 sometimes。"
+                    },
+                    {
+                        "id": "m1-4-u2-q003",
+                        "question": "They ________ quiet in class.",
+                        "options": [
+                            "seldom are",
+                            "are seldom",
+                            "seldom",
+                            "do seldom"
+                        ],
+                        "answer": "are seldom",
+                        "answer_index": 1,
+                        "hint": "Be 動詞 are 後面放頻率副詞。"
+                    },
+                    {
+                        "id": "m1-4-u2-q004",
+                        "question": "________ do you go to the library?",
+                        "options": [
+                            "How many",
+                            "How long",
+                            "How often",
+                            "How soon"
+                        ],
+                        "answer": "How often",
+                        "answer_index": 2,
+                        "hint": "問頻率使用 How often。"
+                    },
+                    {
+                        "id": "m1-4-u2-q005",
+                        "question": "I go to the library ________ a week.",
+                        "options": [
+                            "one",
+                            "once",
+                            "first",
+                            "two"
+                        ],
+                        "answer": "once",
+                        "answer_index": 1,
+                        "hint": "一週一次使用 once a week。"
+                    },
+                    {
+                        "id": "m1-4-u2-q006",
+                        "question": "He ________ tired after school.",
+                        "options": [
+                            "often is",
+                            "often",
+                            "is often",
+                            "does often"
+                        ],
+                        "answer": "is often",
+                        "answer_index": 2,
+                        "hint": "Be 動詞 is 後面放 often。"
+                    },
+                    {
+                        "id": "m1-4-u2-q007",
+                        "question": "We ________ fight with each other.",
+                        "options": [
+                            "never",
+                            "are never",
+                            "never are",
+                            "do never"
+                        ],
+                        "answer": "never",
+                        "answer_index": 0,
+                        "hint": "fight 是動詞，never 放動前。"
+                    },
+                    {
+                        "id": "m1-4-u2-q008",
+                        "question": "How often ________ he watch TV?",
+                        "options": [
+                            "do",
+                            "is",
+                            "does",
+                            "are"
+                        ],
+                        "answer": "does",
+                        "answer_index": 2,
+                        "hint": "主詞 he 是單數，助動詞用 does。"
+                    },
+                    {
+                        "id": "m1-4-u2-q009",
+                        "question": "The bus comes ________ thirty minutes.",
+                        "options": [
+                            "every",
+                            "once",
+                            "about",
+                            "each"
+                        ],
+                        "answer": "every",
+                        "answer_index": 0,
+                        "hint": "every thirty minutes 每 30 分鐘。"
+                    },
+                    {
+                        "id": "m1-4-u2-q010",
+                        "question": "An owl ________ stays up late.",
+                        "options": [
+                            "usually",
+                            "is usually",
+                            "usually is",
+                            "are usually"
+                        ],
+                        "answer": "usually",
+                        "answer_index": 0,
+                        "hint": "stays 是動詞，頻率副詞放前面。"
+                    },
+                    {
+                        "id": "m1-4-u2-q011",
+                        "question": "Do you ________ use the computer?",
+                        "options": [
+                            "always",
+                            "are always",
+                            "always are",
+                            "always do"
+                        ],
+                        "answer": "always",
+                        "answer_index": 0,
+                        "hint": "疑問句中，頻率副詞放在主詞後。"
+                    },
+                    {
+                        "id": "m1-4-u2-q012",
+                        "question": "He visits the cram school ________ a day.",
+                        "options": [
+                            "twice",
+                            "two",
+                            "second",
+                            "two times"
+                        ],
+                        "answer": "twice",
+                        "answer_index": 0,
+                        "hint": "一天兩次慣用 twice。"
+                    },
+                    {
+                        "id": "m1-4-u2-q013",
+                        "question": "My life ________ full of music.",
+                        "options": [
+                            "always is",
+                            "is always",
+                            "always",
+                            "does always"
+                        ],
+                        "answer": "is always",
+                        "answer_index": 1,
+                        "hint": "Be 動詞後面放 always。"
+                    },
+                    {
+                        "id": "m1-4-u2-q014",
+                        "question": "I ________ have trouble with math.",
+                        "options": [
+                            "seldom",
+                            "am seldom",
+                            "seldom am",
+                            "do seldom"
+                        ],
+                        "answer": "seldom",
+                        "answer_index": 0,
+                        "hint": "have 是動詞，seldom 放前面。"
+                    },
+                    {
+                        "id": "m1-4-u2-q015",
+                        "question": "A: Does he brush his teeth? B: Yes, ________.",
+                        "options": [
+                            "always",
+                            "he always",
+                            "he always does",
+                            "he does always"
+                        ],
+                        "answer": "he always does",
+                        "answer_index": 2,
+                        "hint": "簡答句中，頻率副詞放在助動詞之前。"
+                    },
+                    {
+                        "id": "m1-4-u2-q016",
+                        "question": "How often ________ the girls help their dad?",
+                        "options": [
+                            "do",
+                            "does",
+                            "are",
+                            "is"
+                        ],
+                        "answer": "do",
+                        "answer_index": 0,
+                        "hint": "主詞 the girls 是複數，用 do。"
+                    },
+                    {
+                        "id": "m1-4-u2-q017",
+                        "question": "We check out books ________ a month.",
+                        "options": [
+                            "three time",
+                            "three times",
+                            "third times",
+                            "three"
+                        ],
+                        "answer": "three times",
+                        "answer_index": 1,
+                        "hint": "三次以上用數字 + times。"
+                    },
+                    {
+                        "id": "m1-4-u2-q018",
+                        "question": "By the way, are you ________ late?",
+                        "options": [
+                            "often",
+                            "often do",
+                            "do often",
+                            "are often"
+                        ],
+                        "answer": "often",
+                        "answer_index": 0,
+                        "hint": "Be 動詞 are 後面直接接 often。"
+                    },
+                    {
+                        "id": "m1-4-u2-q019",
+                        "question": "My dad is very busy. He ________ early.",
+                        "options": [
+                            "always gets up",
+                            "gets up always",
+                            "is always get up",
+                            "always is get up"
+                        ],
+                        "answer": "always gets up",
+                        "answer_index": 0,
+                        "hint": "get up 是動詞，頻率副詞放前面。"
+                    },
+                    {
+                        "id": "m1-4-u2-q020",
+                        "question": "It's ________ ten o'clock.",
+                        "options": [
+                            "about",
+                            "once",
+                            "every",
+                            "often"
+                        ],
+                        "answer": "about",
+                        "answer_index": 0,
+                        "hint": "about ten o'clock 大約十點。"
+                    },
+                    {
+                        "id": "m1-4-u2-q021",
+                        "question": "The dog ________ sleeps under the sofa.",
+                        "options": [
+                            "sometimes",
+                            "is sometimes",
+                            "sometimes is",
+                            "sometimes does"
+                        ],
+                        "answer": "sometimes",
+                        "answer_index": 0,
+                        "hint": "sleeps 是動詞，放動前。"
+                    },
+                    {
+                        "id": "m1-4-u2-q022",
+                        "question": "I ________ my face every morning.",
+                        "options": [
+                            "wash always",
+                            "always wash",
+                            "am always wash",
+                            "wash"
+                        ],
+                        "answer": "always wash",
+                        "answer_index": 1,
+                        "hint": "頻率副詞 + 一般動詞。"
+                    },
+                    {
+                        "id": "m1-4-u2-q023",
+                        "question": "A: How often do you exercise? B: ________.",
+                        "options": [
+                            "Twice a week",
+                            "Two week",
+                            "In a week",
+                            "For a week"
+                        ],
+                        "answer": "Twice a week",
+                        "answer_index": 0,
+                        "hint": "問 How often 用次數回答。"
+                    },
+                    {
+                        "id": "m1-4-u2-q024",
+                        "question": "They ________ quiet in the library.",
+                        "options": [
+                            "always are",
+                            "are always",
+                            "always",
+                            "do always"
+                        ],
+                        "answer": "are always",
+                        "answer_index": 1,
+                        "hint": "Be 動詞 + 頻率副詞。"
+                    },
+                    {
+                        "id": "m1-4-u2-q025",
+                        "question": "I ________ eat lunch at home.",
+                        "options": [
+                            "never",
+                            "am never",
+                            "never am",
+                            "do never"
+                        ],
+                        "answer": "never",
+                        "answer_index": 0,
+                        "hint": "never 放動詞 have/eat 之前。"
+                    },
+                    {
+                        "id": "m1-4-u2-q026",
+                        "question": "My mother ________ in the kitchen.",
+                        "options": [
+                            "is often",
+                            "often is",
+                            "often",
+                            "does often"
+                        ],
+                        "answer": "is often",
+                        "answer_index": 0,
+                        "hint": "Be 動詞後接頻率副詞。"
+                    },
+                    {
+                        "id": "m1-4-u2-q027",
+                        "question": "How often ________ your brother play the computer?",
+                        "options": [
+                            "do",
+                            "does",
+                            "is",
+                            "are"
+                        ],
+                        "answer": "does",
+                        "answer_index": 1,
+                        "hint": "單數主詞用 does。"
+                    },
+                    {
+                        "id": "m1-4-u2-q028",
+                        "question": "I ________ have breakfast. I'm never hungry.",
+                        "options": [
+                            "always",
+                            "often",
+                            "seldom",
+                            "usually"
+                        ],
+                        "answer": "seldom",
+                        "answer_index": 2,
+                        "hint": "語意為「很少」，故選 seldom。"
+                    },
+                    {
+                        "id": "m1-4-u2-q029",
+                        "question": "We study for two ________ every day.",
+                        "options": [
+                            "minutes",
+                            "hours",
+                            "times",
+                            "once"
+                        ],
+                        "answer": "hours",
+                        "answer_index": 1,
+                        "hint": "讀書兩「小時」。"
+                    },
+                    {
+                        "id": "m1-4-u2-q030",
+                        "question": "A: Is she happy? B: Yes, she ________ is.",
+                        "options": [
+                            "always",
+                            "often",
+                            "never",
+                            "sometimes"
+                        ],
+                        "answer": "always",
+                        "answer_index": 0,
+                        "hint": "肯定回答通常配合高的頻率。"
+                    },
+                    {
+                        "id": "m1-4-u2-q031",
+                        "question": "He ________ gets up early on weekends.",
+                        "options": [
+                            "never",
+                            "is never",
+                            "never is",
+                            "does never"
+                        ],
+                        "answer": "never",
+                        "answer_index": 0,
+                        "hint": "頻率副詞放一般動詞前。"
+                    },
+                    {
+                        "id": "m1-4-u2-q032",
+                        "question": "________, what time is it now?",
+                        "options": [
+                            "By the way",
+                            "About",
+                            "Often",
+                            "Never"
+                        ],
+                        "answer": "By the way",
+                        "answer_index": 0,
+                        "hint": "「順帶一提」的片語。"
+                    },
+                    {
+                        "id": "m1-4-u2-q033",
+                        "question": "I can't ________ it. I love chocolate!",
+                        "options": [
+                            "help",
+                            "do",
+                            "have",
+                            "like"
+                        ],
+                        "answer": "help",
+                        "answer_index": 0,
+                        "hint": "I can't help it. 我沒辦法（控制）。"
+                    },
+                    {
+                        "id": "m1-4-u2-q034",
+                        "question": "How often do you ________ the house?",
+                        "options": [
+                            "brush",
+                            "wash",
+                            "clean",
+                            "help"
+                        ],
+                        "answer": "clean",
+                        "answer_index": 2,
+                        "hint": "clean the house 打掃房子。"
+                    },
+                    {
+                        "id": "m1-4-u2-q035",
+                        "question": "The girls ________ tired after school.",
+                        "options": [
+                            "are usually",
+                            "usually are",
+                            "help usually",
+                            "usually help"
+                        ],
+                        "answer": "are usually",
+                        "answer_index": 0,
+                        "hint": "Be 動詞後接頻率副詞。"
+                    },
+                    {
+                        "id": "m1-4-u2-q036",
+                        "question": "A: How often do they exercise? B: ________.",
+                        "options": [
+                            "Once a week",
+                            "Every",
+                            "Twice",
+                            "About"
+                        ],
+                        "answer": "Once a week",
+                        "answer_index": 0,
+                        "hint": "回答頻率需完整的次數與時間單位。"
+                    },
+                    {
+                        "id": "m1-4-u2-q037",
+                        "question": "My life is ________ trouble.",
+                        "options": [
+                            "full of",
+                            "in",
+                            "with",
+                            "about"
+                        ],
+                        "answer": "in",
+                        "answer_index": 1,
+                        "hint": "in trouble 有麻煩。"
+                    },
+                    {
+                        "id": "m1-4-u2-q038",
+                        "question": "He ________ his teeth three times a day.",
+                        "options": [
+                            "brushes always",
+                            "always brushes",
+                            "is always",
+                            "always is"
+                        ],
+                        "answer": "always brushes",
+                        "answer_index": 1,
+                        "hint": "動詞前接頻率副詞。"
+                    },
+                    {
+                        "id": "m1-4-u2-q039",
+                        "question": "Can you ________ out the books for me?",
+                        "options": [
+                            "check",
+                            "help",
+                            "study",
+                            "use"
+                        ],
+                        "answer": "check",
+                        "answer_index": 0,
+                        "hint": "check out 借（書）。"
+                    },
+                    {
+                        "id": "m1-4-u2-q040",
+                        "question": "I ________ go to cram school.",
+                        "options": [
+                            "usually",
+                            "am usually",
+                            "usually am",
+                            "usually do"
+                        ],
+                        "answer": "usually",
+                        "answer_index": 0,
+                        "hint": "一般動詞 go 之前放 usually。"
+                    },
+                    {
+                        "id": "m1-4-u2-q041",
+                        "question": "We ________ listen to music in class.",
+                        "options": [
+                            "never",
+                            "are never",
+                            "never are",
+                            "do never"
+                        ],
+                        "answer": "never",
+                        "answer_index": 0,
+                        "hint": "頻率副詞放在 listen 之前。"
+                    },
+                    {
+                        "id": "m1-4-u2-q042",
+                        "question": "The bus comes every ________.",
+                        "options": [
+                            "hour",
+                            "hours",
+                            "one hour",
+                            "once hour"
+                        ],
+                        "answer": "hour",
+                        "answer_index": 0,
+                        "hint": "every 後接單數時間單位。"
+                    },
+                    {
+                        "id": "m1-4-u2-q043",
+                        "question": "________ often does she walk the dog?",
+                        "options": [
+                            "What",
+                            "How",
+                            "When",
+                            "Who"
+                        ],
+                        "answer": "How",
+                        "answer_index": 1,
+                        "hint": "How often 問頻率。"
+                    },
+                    {
+                        "id": "m1-4-u2-q044",
+                        "question": "My sister is ________ quiet at home.",
+                        "options": [
+                            "seldom",
+                            "seldom is",
+                            "is seldom",
+                            "do seldom"
+                        ],
+                        "answer": "is seldom",
+                        "answer_index": 2,
+                        "hint": "Be 動詞後接頻率副詞。"
+                    },
+                    {
+                        "id": "m1-4-u2-q045",
+                        "question": "They ________ watch TV before dinner.",
+                        "options": [
+                            "sometimes",
+                            "are sometimes",
+                            "sometimes are",
+                            "sometimes do"
+                        ],
+                        "answer": "sometimes",
+                        "answer_index": 0,
+                        "hint": "頻率副詞放在 watch 之前。"
+                    },
+                    {
+                        "id": "m1-4-u2-q046",
+                        "question": "Wait a ________. I'm coming!",
+                        "options": [
+                            "minute",
+                            "hour",
+                            "once",
+                            "time"
+                        ],
+                        "answer": "minute",
+                        "answer_index": 0,
+                        "hint": "Wait a minute. 等一下。"
+                    },
+                    {
+                        "id": "m1-4-u2-q047",
+                        "question": "I am ________ late for school. I get up early.",
+                        "options": [
+                            "always",
+                            "often",
+                            "never",
+                            "usually"
+                        ],
+                        "answer": "never",
+                        "answer_index": 2,
+                        "hint": "因為早起，所以「從不」遲到。"
+                    },
+                    {
+                        "id": "m1-4-u2-q048",
+                        "question": "Do you ________ study English?",
+                        "options": [
+                            "often",
+                            "are often",
+                            "often are",
+                            "do often"
+                        ],
+                        "answer": "often",
+                        "answer_index": 0,
+                        "hint": "助動詞疑問句中，頻率副詞在主詞後。"
+                    },
+                    {
+                        "id": "m1-4-u2-q049",
+                        "question": "I use the ________ to do my homework.",
+                        "options": [
+                            "bike",
+                            "computer",
+                            "library",
+                            "shower"
+                        ],
+                        "answer": "computer",
+                        "answer_index": 1,
+                        "hint": "使用「電腦」做功課。"
+                    },
+                    {
+                        "id": "m1-4-u2-q050",
+                        "question": "How often ________ you wash your face?",
+                        "options": [
+                            "do",
+                            "does",
+                            "is",
+                            "are"
+                        ],
+                        "answer": "do",
+                        "answer_index": 0,
+                        "hint": "主詞 you 配助動詞 do。"
+                    }
+                ]
+            },
+            "scrambles": {
+                "vocab": [
+                    {
+                        "id": "m1-4-u2-sv001",
+                        "vocab_id": "m1-4-u2-v001",
+                        "sentence": "I don't know the answer to the question.",
+                        "sentence_chinese": "我不知道這個問題的答案。"
+                    },
+                    {
+                        "id": "m1-4-u2-sv002",
+                        "vocab_id": "m1-4-u2-v002",
+                        "sentence": "Can I ask a question?",
+                        "sentence_chinese": "我可以問個問題嗎？"
+                    },
+                    {
+                        "id": "m1-4-u2-sv003",
+                        "vocab_id": "m1-4-u2-v003",
+                        "sentence": "He is in trouble now.",
+                        "sentence_chinese": "他現在有麻煩了。"
+                    },
+                    {
+                        "id": "m1-4-u2-sv004",
+                        "vocab_id": "m1-4-u2-v004",
+                        "sentence": "Music is a big part of my life.",
+                        "sentence_chinese": "音樂是我生活的一大部分。"
+                    },
+                    {
+                        "id": "m1-4-u2-sv005",
+                        "vocab_id": "m1-4-u2-v005",
+                        "sentence": "An owl is a bird that stays up late.",
+                        "sentence_chinese": "貓頭鷹是熬夜的鳥類。"
+                    },
+                    {
+                        "id": "m1-4-u2-sv006",
+                        "vocab_id": "m1-4-u2-v006",
+                        "sentence": "Wash your face before you go to bed.",
+                        "sentence_chinese": "睡覺前洗臉。"
+                    },
+                    {
+                        "id": "m1-4-u2-sv007",
+                        "vocab_id": "m1-4-u2-v007",
+                        "sentence": "I usually eat breakfast at seven.",
+                        "sentence_chinese": "我通常七點吃早餐。"
+                    },
+                    {
+                        "id": "m1-4-u2-sv008",
+                        "vocab_id": "m1-4-u2-v008",
+                        "sentence": "We have lunch at school every day.",
+                        "sentence_chinese": "我們每天在學校吃午餐。"
+                    },
+                    {
+                        "id": "m1-4-u2-sv009",
+                        "vocab_id": "m1-4-u2-v009",
+                        "sentence": "He uses the computer for work.",
+                        "sentence_chinese": "他用電腦工作。"
+                    },
+                    {
+                        "id": "m1-4-u2-sv010",
+                        "vocab_id": "m1-4-u2-v010",
+                        "sentence": "I am always happy at school.",
+                        "sentence_chinese": "我在學校總是很快樂。"
+                    },
+                    {
+                        "id": "m1-4-u2-sv011",
+                        "vocab_id": "m1-4-u2-v011",
+                        "sentence": "He is often tired after school.",
+                        "sentence_chinese": "他放學後經常很累。"
+                    },
+                    {
+                        "id": "m1-4-u2-sv012",
+                        "vocab_id": "m1-4-u2-v012",
+                        "sentence": "I take a shower every night.",
+                        "sentence_chinese": "我每晚洗澡。"
+                    },
+                    {
+                        "id": "m1-4-u2-sv013",
+                        "vocab_id": "m1-4-u2-v013",
+                        "sentence": "We never fight with each other.",
+                        "sentence_chinese": "我們從不互相吵架。"
+                    },
+                    {
+                        "id": "m1-4-u2-sv014",
+                        "vocab_id": "m1-4-u2-v014",
+                        "sentence": "I go to the library once a week.",
+                        "sentence_chinese": "我每週去一次圖書館。"
+                    },
+                    {
+                        "id": "m1-4-u2-sv015",
+                        "vocab_id": "m1-4-u2-v015",
+                        "sentence": "I visit my grandma once a month.",
+                        "sentence_chinese": "我每個月看望奶奶一次。"
+                    },
+                    {
+                        "id": "m1-4-u2-sv016",
+                        "vocab_id": "m1-4-u2-v016",
+                        "sentence": "We exercise twice a day.",
+                        "sentence_chinese": "我們一天運動兩次。"
+                    },
+                    {
+                        "id": "m1-4-u2-sv017",
+                        "vocab_id": "m1-4-u2-v017",
+                        "sentence": "It's about ten o'clock now.",
+                        "sentence_chinese": "現在大約十點。"
+                    },
+                    {
+                        "id": "m1-4-u2-sv018",
+                        "vocab_id": "m1-4-u2-v018",
+                        "sentence": "He gets up early in the morning.",
+                        "sentence_chinese": "他早上很早起床。"
+                    },
+                    {
+                        "id": "m1-4-u2-sv019",
+                        "vocab_id": "m1-4-u2-v019",
+                        "sentence": "My dad goes to work by car.",
+                        "sentence_chinese": "我爸爸開車去上班。"
+                    },
+                    {
+                        "id": "m1-4-u2-sv020",
+                        "vocab_id": "m1-4-u2-v020",
+                        "sentence": "How often do you watch TV?",
+                        "sentence_chinese": "你多常看電視？"
+                    },
+                    {
+                        "id": "m1-4-u2-sv021",
+                        "vocab_id": "m1-4-u2-v021",
+                        "sentence": "I usually go to bed at ten.",
+                        "sentence_chinese": "我通常十點睡覺。"
+                    },
+                    {
+                        "id": "m1-4-u2-sv022",
+                        "vocab_id": "m1-4-u2-v022",
+                        "sentence": "They are seldom quiet in class.",
+                        "sentence_chinese": "他們在課堂上很少安靜。"
+                    },
+                    {
+                        "id": "m1-4-u2-sv023",
+                        "vocab_id": "m1-4-u2-v023",
+                        "sentence": "She sometimes walks her dog at night.",
+                        "sentence_chinese": "她有時候在晚上遛狗。"
+                    },
+                    {
+                        "id": "m1-4-u2-sv024",
+                        "vocab_id": "m1-4-u2-v024",
+                        "sentence": "He is even busy on weekends.",
+                        "sentence_chinese": "他甚至在週末也很忙。"
+                    },
+                    {
+                        "id": "m1-4-u2-sv025",
+                        "vocab_id": "m1-4-u2-v025",
+                        "sentence": "Don't be late for school.",
+                        "sentence_chinese": "上學不要遲到。"
+                    },
+                    {
+                        "id": "m1-4-u2-sv026",
+                        "vocab_id": "m1-4-u2-v026",
+                        "sentence": "I study for one hour every day.",
+                        "sentence_chinese": "我每天讀書一小時。"
+                    },
+                    {
+                        "id": "m1-4-u2-sv027",
+                        "vocab_id": "m1-4-u2-v027",
+                        "sentence": "Wait a minute, please.",
+                        "sentence_chinese": "請等一下。"
+                    },
+                    {
+                        "id": "m1-4-u2-sv028",
+                        "vocab_id": "m1-4-u2-v028",
+                        "sentence": "They study English together.",
+                        "sentence_chinese": "他們一起讀英文。"
+                    },
+                    {
+                        "id": "m1-4-u2-sv029",
+                        "vocab_id": "m1-4-u2-v029",
+                        "sentence": "He exercises twice a day.",
+                        "sentence_chinese": "他一天運動兩次。"
+                    },
+                    {
+                        "id": "m1-4-u2-sv030",
+                        "vocab_id": "m1-4-u2-v030",
+                        "sentence": "I go to school by bike.",
+                        "sentence_chinese": "我騎腳踏車上學。"
+                    }
+                ],
+                "phrases": [
+                    {
+                        "id": "m1-4-u2-sp001",
+                        "phrase_id": "m1-4-u2-p001",
+                        "sentence": "I play basketball with friends.",
+                        "sentence_chinese": "我和朋友打籃球。"
+                    },
+                    {
+                        "id": "m1-4-u2-sp002",
+                        "phrase_id": "m1-4-u2-p002",
+                        "sentence": "We clean the house on weekends.",
+                        "sentence_chinese": "我們在週末打掃房子。"
+                    },
+                    {
+                        "id": "m1-4-u2-sp003",
+                        "phrase_id": "m1-4-u2-p003",
+                        "sentence": "He watches TV after dinner.",
+                        "sentence_chinese": "他晚餐後看電視。"
+                    },
+                    {
+                        "id": "m1-4-u2-sp004",
+                        "phrase_id": "m1-4-u2-p004",
+                        "sentence": "I like to listen to music.",
+                        "sentence_chinese": "我喜歡聽音樂。"
+                    },
+                    {
+                        "id": "m1-4-u2-sp005",
+                        "phrase_id": "m1-4-u2-p005",
+                        "sentence": "I brush my teeth every morning.",
+                        "sentence_chinese": "我每天早上刷牙。"
+                    },
+                    {
+                        "id": "m1-4-u2-sp006",
+                        "phrase_id": "m1-4-u2-p006",
+                        "sentence": "You can check out books here.",
+                        "sentence_chinese": "你可以在這裡借書。"
+                    },
+                    {
+                        "id": "m1-4-u2-sp007",
+                        "phrase_id": "m1-4-u2-p007",
+                        "sentence": "By the way, what's your name?",
+                        "sentence_chinese": "順帶一提，你叫什麼名字？"
+                    },
+                    {
+                        "id": "m1-4-u2-sp008",
+                        "phrase_id": "m1-4-u2-p008",
+                        "sentence": "I eat too much; I can't help it.",
+                        "sentence_chinese": "我吃太多了；我控制不了。"
+                    },
+                    {
+                        "id": "m1-4-u2-sp009",
+                        "phrase_id": "m1-4-u2-p009",
+                        "sentence": "She does her homework at home.",
+                        "sentence_chinese": "她在家做功課。"
+                    },
+                    {
+                        "id": "m1-4-u2-sp010",
+                        "phrase_id": "m1-4-u2-p010",
+                        "sentence": "I go to cram school after school.",
+                        "sentence_chinese": "我放學後去補習班。"
+                    },
+                    {
+                        "id": "m1-4-u2-sp011",
+                        "phrase_id": "m1-4-u2-p011",
+                        "sentence": "They never fight with each other.",
+                        "sentence_chinese": "他們從不互相吵架。"
+                    },
+                    {
+                        "id": "m1-4-u2-sp012",
+                        "phrase_id": "m1-4-u2-p012",
+                        "sentence": "The dog sleeps under the sofa.",
+                        "sentence_chinese": "狗狗在沙發下睡覺。"
+                    },
+                    {
+                        "id": "m1-4-u2-sp013",
+                        "phrase_id": "m1-4-u2-p013",
+                        "sentence": "The girls help their dad in the kitchen.",
+                        "sentence_chinese": "女孩們在廚房幫她們的爸爸。"
+                    },
+                    {
+                        "id": "m1-4-u2-sp014",
+                        "phrase_id": "m1-4-u2-p014",
+                        "sentence": "He walks the dog every evening.",
+                        "sentence_chinese": "他每天傍晚遛狗。"
+                    }
+                ],
+                "grammar": [
+                    {
+                        "id": "m1-4-u2-sg001",
+                        "sentence": "I usually eat breakfast at six o'clock.",
+                        "sentence_chinese": "我通常六點吃早餐。"
+                    },
+                    {
+                        "id": "m1-4-u2-sg002",
+                        "sentence": "She sometimes walks her dog at night.",
+                        "sentence_chinese": "她有時候在晚上遛狗。"
+                    },
+                    {
+                        "id": "m1-4-u2-sg003",
+                        "sentence": "We never fight with each other.",
+                        "sentence_chinese": "我們從不互相吵架。"
+                    },
+                    {
+                        "id": "m1-4-u2-sg004",
+                        "sentence": "He is often tired after school.",
+                        "sentence_chinese": "他放學後經常很累。"
+                    },
+                    {
+                        "id": "m1-4-u2-sg005",
+                        "sentence": "They are seldom quiet in class.",
+                        "sentence_chinese": "他們在課堂上很少安靜。"
+                    },
+                    {
+                        "id": "m1-4-u2-sg006",
+                        "sentence": "How often do you go to the library?",
+                        "sentence_chinese": "你多常去圖書館？"
+                    },
+                    {
+                        "id": "m1-4-u2-sg007",
+                        "sentence": "He watches TV three times a week.",
+                        "sentence_chinese": "他一週看三次電視。"
+                    },
+                    {
+                        "id": "m1-4-u2-sg008",
+                        "sentence": "The dog always sleeps under the sofa.",
+                        "sentence_chinese": "狗狗總是睡在沙發下。"
+                    },
+                    {
+                        "id": "m1-4-u2-sg009",
+                        "sentence": "The girls usually help their dad in the kitchen.",
+                        "sentence_chinese": "女孩們通常在廚房幫她們的爸爸。"
+                    },
+                    {
+                        "id": "m1-4-u2-sg010",
+                        "sentence": "We exercise twice a day.",
+                        "sentence_chinese": "我們一天運動兩次。"
+                    },
+                    {
+                        "id": "m1-4-u2-sg011",
+                        "sentence": "The bus comes every thirty minutes.",
+                        "sentence_chinese": "公車每三十分鐘來一班。"
+                    },
+                    {
+                        "id": "m1-4-u2-sg012",
+                        "sentence": "How often do the boys clean their bedroom?",
+                        "sentence_chinese": "男孩子們多常打掃房間？"
+                    },
+                    {
+                        "id": "m1-4-u2-sg013",
+                        "sentence": "I am always happy at school.",
+                        "sentence_chinese": "我在學校總是很快樂。"
+                    },
+                    {
+                        "id": "m1-4-u2-sg014",
+                        "sentence": "An owl usually stays up late at night.",
+                        "sentence_chinese": "貓頭鷹通常在晚上熬夜。"
+                    },
+                    {
+                        "id": "m1-4-u2-sg015",
+                        "sentence": "Do you often use the computer for work?",
+                        "sentence_chinese": "你經常使用電腦工作嗎？"
+                    },
+                    {
+                        "id": "m1-4-u2-sg016",
+                        "sentence": "My dad usually goes to work by bike.",
+                        "sentence_chinese": "我爸爸通常騎腳踏車上班。"
+                    },
+                    {
+                        "id": "m1-4-u2-sg017",
+                        "sentence": "I always wash my face before I go to bed.",
+                        "sentence_chinese": "我總是睡前洗臉。"
+                    },
+                    {
+                        "id": "m1-4-u2-sg018",
+                        "sentence": "He often uses the computer for his work.",
+                        "sentence_chinese": "他經常為了工作使用電腦。"
+                    },
+                    {
+                        "id": "m1-4-u2-sg019",
+                        "sentence": "We seldom go to cram school on Sundays.",
+                        "sentence_chinese": "我們星期日很少去補習班。"
+                    },
+                    {
+                        "id": "m1-4-u2-sg020",
+                        "sentence": "How often does your sister check out books?",
+                        "sentence_chinese": "你姐姐多常借書？"
+                    },
+                    {
+                        "id": "m1-4-u2-sg021",
+                        "sentence": "They usually play basketball after school.",
+                        "sentence_chinese": "他們通常放學後打籃球。"
+                    },
+                    {
+                        "id": "m1-4-u2-sg022",
+                        "sentence": "I can't help it because I am very hungry.",
+                        "sentence_chinese": "我沒辦法，因為我很餓。"
+                    },
+                    {
+                        "id": "m1-4-u2-sg023",
+                        "sentence": "By the way, do you have the answer to the question?",
+                        "sentence_chinese": "順帶一提，你知道問題的答案嗎？"
+                    },
+                    {
+                        "id": "m1-4-u2-sg024",
+                        "sentence": "My life is always full of trouble and fun.",
+                        "sentence_chinese": "我的生活總是充滿麻煩與樂趣。"
+                    },
+                    {
+                        "id": "m1-4-u2-sg025",
+                        "sentence": "An owl always stays up late at night.",
+                        "sentence_chinese": "貓頭鷹總是熬夜。"
+                    },
+                    {
+                        "id": "m1-4-u2-sg026",
+                        "sentence": "The bus comes every ten minutes in the morning.",
+                        "sentence_chinese": "早上公車每十分鐘來一班。"
+                    },
+                    {
+                        "id": "m1-4-u2-sg027",
+                        "sentence": "She never fights with her brother at home.",
+                        "sentence_chinese": "她從不在家和弟弟吵架。"
+                    },
+                    {
+                        "id": "m1-4-u2-sg028",
+                        "sentence": "I am often tired after a long day of work.",
+                        "sentence_chinese": "工作一整天後我經常很累。"
+                    },
+                    {
+                        "id": "m1-4-u2-sg029",
+                        "sentence": "Do you usually take a shower in the morning?",
+                        "sentence_chinese": "你通常在早上淋浴嗎？"
+                    },
+                    {
+                        "id": "m1-4-u2-sg030",
+                        "sentence": "We often listen to music in the library.",
+                        "sentence_chinese": "我們經常在圖書館聽音樂。"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,1395 @@
+{
+  "units": {
+    "m1-6-u6": {
+      "title": "Unit 6 - I Took a Trip to India Last Month",
+      "vocab": [
+        {
+          "id": "m1-6-u6-v001",
+          "word": "airport",
+          "part_of_speech": "noun",
+          "chinese": "機場",
+          "sentence": "We arrived at the airport early yesterday.",
+          "sentence_chinese": "我們昨天很早到機場。"
+        },
+        {
+          "id": "m1-6-u6-v002",
+          "word": "travel",
+          "part_of_speech": "verb/noun",
+          "chinese": "旅行；行進",
+          "sentence": "My family traveled to India last month.",
+          "sentence_chinese": "我家上個月去印度旅行。"
+        },
+        {
+          "id": "m1-6-u6-v003",
+          "word": "rest",
+          "part_of_speech": "noun/verb",
+          "chinese": "休息",
+          "sentence": "Tina took a rest after lunch.",
+          "sentence_chinese": "Tina 午餐後休息了一下。"
+        },
+        {
+          "id": "m1-6-u6-v004",
+          "word": "take",
+          "part_of_speech": "verb",
+          "chinese": "帶；拿；取",
+          "sentence": "The guide took us to the hotel.",
+          "sentence_chinese": "導遊帶我們去飯店。"
+        },
+        {
+          "id": "m1-6-u6-v005",
+          "word": "hotel",
+          "part_of_speech": "noun",
+          "chinese": "飯店",
+          "sentence": "They stayed at a clean hotel near the station.",
+          "sentence_chinese": "他們住在車站附近一間乾淨的飯店。"
+        },
+        {
+          "id": "m1-6-u6-v006",
+          "word": "plane",
+          "part_of_speech": "noun",
+          "chinese": "飛機",
+          "sentence": "The plane left at seven this morning.",
+          "sentence_chinese": "飛機今天早上 7 點起飛。"
+        },
+        {
+          "id": "m1-6-u6-v007",
+          "word": "the sights",
+          "part_of_speech": "noun phrase",
+          "chinese": "風景；名勝",
+          "sentence": "We saw the sights in the old city.",
+          "sentence_chinese": "我們在古城看了名勝。"
+        },
+        {
+          "id": "m1-6-u6-v008",
+          "word": "bookstore",
+          "part_of_speech": "noun",
+          "chinese": "書店",
+          "sentence": "I went to a bookstore and bought a map.",
+          "sentence_chinese": "我去了一家書店並買了一張地圖。"
+        },
+        {
+          "id": "m1-6-u6-v009",
+          "word": "buy",
+          "part_of_speech": "verb",
+          "chinese": "購買",
+          "sentence": "Dad bought two cups of lassi for us.",
+          "sentence_chinese": "爸爸買了兩杯拉西給我們。"
+        },
+        {
+          "id": "m1-6-u6-v010",
+          "word": "just",
+          "part_of_speech": "adverb",
+          "chinese": "剛才；就；只",
+          "sentence": "I just saw Kevin at the market.",
+          "sentence_chinese": "我剛才在市場看到 Kevin。"
+        },
+        {
+          "id": "m1-6-u6-v011",
+          "word": "learn",
+          "part_of_speech": "verb",
+          "chinese": "學習",
+          "sentence": "We learned a lot about Indian culture.",
+          "sentence_chinese": "我們學到了很多關於印度文化的事。"
+        },
+        {
+          "id": "m1-6-u6-v012",
+          "word": "story",
+          "part_of_speech": "noun",
+          "chinese": "故事",
+          "sentence": "Grandpa told us a story about the temple.",
+          "sentence_chinese": "爺爺告訴我們一個關於那座寺廟的故事。"
+        },
+        {
+          "id": "m1-6-u6-v013",
+          "word": "cool",
+          "part_of_speech": "adjective",
+          "chinese": "酷的",
+          "sentence": "The movie about India was cool.",
+          "sentence_chinese": "那部關於印度的電影很酷。"
+        },
+        {
+          "id": "m1-6-u6-v014",
+          "word": "train",
+          "part_of_speech": "noun",
+          "chinese": "火車",
+          "sentence": "We took a train to the city.",
+          "sentence_chinese": "我們搭火車去那座城市。"
+        },
+        {
+          "id": "m1-6-u6-v015",
+          "word": "cold",
+          "part_of_speech": "adjective",
+          "chinese": "冷的",
+          "sentence": "The drink was cold and sweet.",
+          "sentence_chinese": "那杯飲料又冰又甜。"
+        },
+        {
+          "id": "m1-6-u6-v016",
+          "word": "try",
+          "part_of_speech": "verb/noun",
+          "chinese": "嘗試",
+          "sentence": "I tried lassi for the first time.",
+          "sentence_chinese": "我第一次試喝拉西。"
+        },
+        {
+          "id": "m1-6-u6-v017",
+          "word": "way",
+          "part_of_speech": "noun",
+          "chinese": "距離；路線",
+          "sentence": "The station was a long way from our hotel.",
+          "sentence_chinese": "車站離我們的飯店很遠。"
+        },
+        {
+          "id": "m1-6-u6-v018",
+          "word": "station",
+          "part_of_speech": "noun",
+          "chinese": "車站；局",
+          "sentence": "The train stopped at the station.",
+          "sentence_chinese": "火車停在車站。"
+        },
+        {
+          "id": "m1-6-u6-v019",
+          "word": "department store",
+          "part_of_speech": "noun",
+          "chinese": "百貨公司",
+          "sentence": "Mom bought a bag at the department store.",
+          "sentence_chinese": "媽媽在百貨公司買了一個包包。"
+        },
+        {
+          "id": "m1-6-u6-v020",
+          "word": "restaurant",
+          "part_of_speech": "noun",
+          "chinese": "餐廳",
+          "sentence": "We ate dinner at an Indian restaurant.",
+          "sentence_chinese": "我們在一家印度餐廳吃晚餐。"
+        },
+        {
+          "id": "m1-6-u6-v021",
+          "word": "theater",
+          "part_of_speech": "noun",
+          "chinese": "電影院",
+          "sentence": "They saw a movie at the theater last night.",
+          "sentence_chinese": "他們昨晚在電影院看了一部電影。"
+        },
+        {
+          "id": "m1-6-u6-v022",
+          "word": "market",
+          "part_of_speech": "noun",
+          "chinese": "市場",
+          "sentence": "We walked through the market in the morning.",
+          "sentence_chinese": "我們早上走過市場。"
+        },
+        {
+          "id": "m1-6-u6-v023",
+          "word": "temple",
+          "part_of_speech": "noun",
+          "chinese": "寺廟",
+          "sentence": "The old temple stood near the river.",
+          "sentence_chinese": "那座古老的寺廟位在河邊。"
+        },
+        {
+          "id": "m1-6-u6-v024",
+          "word": "famous",
+          "part_of_speech": "adjective",
+          "chinese": "有名的",
+          "sentence": "The Taj Mahal is a famous place in India.",
+          "sentence_chinese": "泰姬瑪哈陵是印度有名的地方。"
+        },
+        {
+          "id": "m1-6-u6-v025",
+          "word": "during",
+          "part_of_speech": "preposition",
+          "chinese": "在……期間",
+          "sentence": "We took many photos during the trip.",
+          "sentence_chinese": "我們在旅途中拍了很多照片。"
+        },
+        {
+          "id": "m1-6-u6-v026",
+          "word": "besides",
+          "part_of_speech": "preposition",
+          "chinese": "除了……之外",
+          "sentence": "Besides the temple, we visited a market.",
+          "sentence_chinese": "除了寺廟之外，我們也參觀了一個市場。"
+        },
+        {
+          "id": "m1-6-u6-v027",
+          "word": "age",
+          "part_of_speech": "noun",
+          "chinese": "年紀",
+          "sentence": "The story changed with age.",
+          "sentence_chinese": "那個故事隨著時間改變。"
+        },
+        {
+          "id": "m1-6-u6-v028",
+          "word": "lose",
+          "part_of_speech": "verb",
+          "chinese": "失去",
+          "sentence": "Ben lost his ticket at the airport.",
+          "sentence_chinese": "Ben 在機場弄丟了他的票。"
+        },
+        {
+          "id": "m1-6-u6-v029",
+          "word": "cry",
+          "part_of_speech": "verb",
+          "chinese": "哭泣",
+          "sentence": "The baby cried on the plane.",
+          "sentence_chinese": "那個嬰兒在飛機上哭了。"
+        },
+        {
+          "id": "m1-6-u6-v030",
+          "word": "hide",
+          "part_of_speech": "verb",
+          "chinese": "躲藏",
+          "sentence": "The cat hid under the sofa.",
+          "sentence_chinese": "那隻貓躲在沙發下面。"
+        },
+        {
+          "id": "m1-6-u6-v031",
+          "word": "build",
+          "part_of_speech": "verb",
+          "chinese": "建造",
+          "sentence": "Workers built the bridge many years ago.",
+          "sentence_chinese": "工人們很多年前建造了那座橋。"
+        },
+        {
+          "id": "m1-6-u6-v032",
+          "word": "trip",
+          "part_of_speech": "noun",
+          "chinese": "旅行；行程",
+          "sentence": "Our trip to India was exciting.",
+          "sentence_chinese": "我們的印度之旅很令人興奮。"
+        },
+        {
+          "id": "m1-6-u6-v033",
+          "word": "sadly",
+          "part_of_speech": "adverb",
+          "chinese": "令人傷心地",
+          "sentence": "Sadly, we lost our camera during the trip.",
+          "sentence_chinese": "令人傷心的是，我們在旅途中弄丟了相機。"
+        },
+        {
+          "id": "m1-6-u6-v034",
+          "word": "last",
+          "part_of_speech": "verb/adjective",
+          "chinese": "持續；最後的",
+          "sentence": "The show lasted two hours.",
+          "sentence_chinese": "那場表演持續了 2 個小時。"
+        }
+      ],
+      "phrases": [
+        {
+          "id": "m1-6-u6-p001",
+          "phrase": "the other day",
+          "chinese": "前幾天",
+          "sentence": "I went to a bookstore the other day.",
+          "sentence_chinese": "我前幾天去了一家書店。"
+        },
+        {
+          "id": "m1-6-u6-p002",
+          "phrase": "fall in love",
+          "chinese": "墜入情網；愛上",
+          "sentence": "Victor fell in love with Anna.",
+          "sentence_chinese": "Victor 愛上了 Anna。"
+        }
+      ],
+      "grammar": {
+        "tips": [
+          {
+            "label": "過去時間",
+            "text": "句子有 yesterday、last month、the other day、ago 等過去時間時，主要動詞通常要用過去式。"
+          },
+          {
+            "label": "規則變化",
+            "text": "多數動詞過去式加 -ed，例如 visit 變 visited，try 變 tried，cry 變 cried。"
+          },
+          {
+            "label": "不規則變化",
+            "text": "有些動詞過去式不加 -ed，要另外記，例如 go 變 went，take 變 took，buy 變 bought。"
+          },
+          {
+            "label": "問句與否定",
+            "text": "過去式問句與否定句用 did 或 didn't，後面的主要動詞要改回原形。"
+          }
+        ],
+        "notes": [
+          {
+            "title": "一般動詞過去簡單式",
+            "rule": "主詞 + 過去式動詞 + 過去時間.",
+            "description": "用來表示過去某個時間發生的動作或狀態。句中常出現 yesterday、last night、last month、the other day、two days ago、during the trip 等時間線索。",
+            "examples": [
+              "I took a trip to India last month.",
+              "We visited a famous temple yesterday.",
+              "They bought two cups of lassi the other day."
+            ]
+          },
+          {
+            "title": "規則動詞過去式",
+            "rule": "一般加 -ed；字尾為 e 加 -d；子音 + y 改 y 為 i 再加 -ed。",
+            "description": "規則動詞的過去式有固定拼字規則，例如 learn -> learned、try -> tried、cry -> cried、last -> lasted。",
+            "examples": [
+              "We learned a lot about India.",
+              "I tried lassi at the restaurant.",
+              "The show lasted two hours."
+            ]
+          },
+          {
+            "title": "不規則動詞過去式",
+            "rule": "不規則動詞的過去式需要記憶，例如 take -> took、go -> went、buy -> bought、see -> saw、eat -> ate。",
+            "description": "本課常見的不規則動詞包含 take、buy、go、get、see、eat、hide、build、lose、fall、sit、make、think、read 等。",
+            "examples": [
+              "We took a train to the city.",
+              "I went to a bookstore and bought a book.",
+              "Ben lost his ticket at the airport."
+            ]
+          },
+          {
+            "title": "過去式問句",
+            "rule": "Did + 主詞 + 原形動詞 ...?",
+            "description": "過去式問句用 Did 開頭，主要動詞要用原形，不可以再用過去式。",
+            "examples": [
+              "Did you see any cats around here?",
+              "Did they take a plane to India?",
+              "Did Amy buy a book at the bookstore?"
+            ]
+          },
+          {
+            "title": "過去式否定句",
+            "rule": "主詞 + didn't + 原形動詞 ...",
+            "description": "過去式否定句用 didn't，後面的主要動詞同樣要用原形。",
+            "examples": [
+              "I didn't see Kevin at the market.",
+              "They didn't take a rest after lunch.",
+              "She didn't buy anything at the department store."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "id": "m1-6-u6-q001",
+            "question": "I ___ a trip to India last month.",
+            "options": [
+              "A. take",
+              "B. took",
+              "C. taking",
+              "D. takes"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "last month 是過去時間，take 的過去式是 took。"
+          },
+          {
+            "id": "m1-6-u6-q002",
+            "question": "We ___ at the airport early yesterday.",
+            "options": [
+              "A. arrives",
+              "B. arriving",
+              "C. arrived",
+              "D. arrive"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "yesterday 表過去，arrive 是規則動詞，加 -d。"
+          },
+          {
+            "id": "m1-6-u6-q003",
+            "question": "Dad ___ two cups of lassi for us.",
+            "options": [
+              "A. bought",
+              "B. buys",
+              "C. buy",
+              "D. buying"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "buy 的過去式是 bought。"
+          },
+          {
+            "id": "m1-6-u6-q004",
+            "question": "Did you ___ any cats around here?",
+            "options": [
+              "A. saw",
+              "B. sees",
+              "C. seeing",
+              "D. see"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "Did 後面要接原形動詞 see。"
+          },
+          {
+            "id": "m1-6-u6-q005",
+            "question": "The baby ___ on the plane.",
+            "options": [
+              "A. cry",
+              "B. cried",
+              "C. cries",
+              "D. crying"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "cry 的過去式要改 y 為 i，再加 -ed。"
+          },
+          {
+            "id": "m1-6-u6-q006",
+            "question": "They ___ at a clean hotel near the station.",
+            "options": [
+              "A. stay",
+              "B. staying",
+              "C. stayed",
+              "D. stays"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "stay 是規則動詞，過去式是 stayed。"
+          },
+          {
+            "id": "m1-6-u6-q007",
+            "question": "We ___ a train to the city yesterday.",
+            "options": [
+              "A. took",
+              "B. take",
+              "C. takes",
+              "D. taking"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "take 的過去式是 took。"
+          },
+          {
+            "id": "m1-6-u6-q008",
+            "question": "Amy didn't ___ anything at the department store.",
+            "options": [
+              "A. bought",
+              "B. buys",
+              "C. buying",
+              "D. buy"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "didn't 後面要接原形動詞 buy。"
+          },
+          {
+            "id": "m1-6-u6-q009",
+            "question": "Ben ___ his ticket at the airport.",
+            "options": [
+              "A. lose",
+              "B. lost",
+              "C. loses",
+              "D. losing"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "lose 的過去式是 lost。"
+          },
+          {
+            "id": "m1-6-u6-q010",
+            "question": "The cat ___ under the sofa.",
+            "options": [
+              "A. hides",
+              "B. hiding",
+              "C. hid",
+              "D. hide"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "hide 的過去式是 hid。"
+          },
+          {
+            "id": "m1-6-u6-q011",
+            "question": "I ___ to a bookstore the other day.",
+            "options": [
+              "A. went",
+              "B. go",
+              "C. goes",
+              "D. going"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "go 的過去式是 went。"
+          },
+          {
+            "id": "m1-6-u6-q012",
+            "question": "Did they ___ a famous temple in India?",
+            "options": [
+              "A. visited",
+              "B. visits",
+              "C. visiting",
+              "D. visit"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "Did 後面要接原形動詞 visit。"
+          },
+          {
+            "id": "m1-6-u6-q013",
+            "question": "Workers ___ the bridge many years ago.",
+            "options": [
+              "A. build",
+              "B. built",
+              "C. builds",
+              "D. building"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "build 的過去式是 built。"
+          },
+          {
+            "id": "m1-6-u6-q014",
+            "question": "We ___ dinner at an Indian restaurant.",
+            "options": [
+              "A. eat",
+              "B. eating",
+              "C. ate",
+              "D. eats"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "eat 的過去式是 ate。"
+          },
+          {
+            "id": "m1-6-u6-q015",
+            "question": "The train ___ at the station.",
+            "options": [
+              "A. stopped",
+              "B. stop",
+              "C. stops",
+              "D. stopping"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "stop 是規則動詞，過去式 stopped。"
+          },
+          {
+            "id": "m1-6-u6-q016",
+            "question": "She didn't ___ a rest after lunch.",
+            "options": [
+              "A. took",
+              "B. takes",
+              "C. taking",
+              "D. take"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "didn't 後面要接原形動詞 take。"
+          },
+          {
+            "id": "m1-6-u6-q017",
+            "question": "We ___ many photos during the trip.",
+            "options": [
+              "A. take",
+              "B. took",
+              "C. takes",
+              "D. taking"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "過去發生的事要用 took。"
+          },
+          {
+            "id": "m1-6-u6-q018",
+            "question": "The show ___ two hours.",
+            "options": [
+              "A. last",
+              "B. lasting",
+              "C. lasted",
+              "D. lasts"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "last 當動詞時，過去式是 lasted。"
+          },
+          {
+            "id": "m1-6-u6-q019",
+            "question": "I ___ lassi for the first time.",
+            "options": [
+              "A. tried",
+              "B. try",
+              "C. tries",
+              "D. trying"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "try 的過去式要改 y 為 i，再加 -ed。"
+          },
+          {
+            "id": "m1-6-u6-q020",
+            "question": "Did Anna ___ in love with Victor?",
+            "options": [
+              "A. fell",
+              "B. falls",
+              "C. falling",
+              "D. fall"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "Did 後面用原形 fall。"
+          },
+          {
+            "id": "m1-6-u6-q021",
+            "question": "Victor ___ in love with Anna.",
+            "options": [
+              "A. fall",
+              "B. fell",
+              "C. falls",
+              "D. falling"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "fall 的過去式是 fell。"
+          },
+          {
+            "id": "m1-6-u6-q022",
+            "question": "The old temple ___ near the river.",
+            "options": [
+              "A. stand",
+              "B. standing",
+              "C. stood",
+              "D. stands"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "stand 的過去式是 stood。"
+          },
+          {
+            "id": "m1-6-u6-q023",
+            "question": "We ___ the sights in the old city.",
+            "options": [
+              "A. saw",
+              "B. see",
+              "C. sees",
+              "D. seeing"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "see 的過去式是 saw。"
+          },
+          {
+            "id": "m1-6-u6-q024",
+            "question": "They didn't ___ the plane this morning.",
+            "options": [
+              "A. took",
+              "B. takes",
+              "C. taking",
+              "D. take"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "didn't 後面接原形動詞 take。"
+          },
+          {
+            "id": "m1-6-u6-q025",
+            "question": "The guide ___ us to the hotel.",
+            "options": [
+              "A. take",
+              "B. took",
+              "C. takes",
+              "D. taking"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "take 的過去式是 took。"
+          },
+          {
+            "id": "m1-6-u6-q026",
+            "question": "We ___ a lot about Indian culture.",
+            "options": [
+              "A. learn",
+              "B. learning",
+              "C. learned",
+              "D. learns"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "learn 是規則動詞，過去式 learned。"
+          },
+          {
+            "id": "m1-6-u6-q027",
+            "question": "Grandpa ___ us a story about the temple.",
+            "options": [
+              "A. told",
+              "B. tell",
+              "C. tells",
+              "D. telling"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "tell 的過去式是 told。"
+          },
+          {
+            "id": "m1-6-u6-q028",
+            "question": "Did you ___ a movie at the theater last night?",
+            "options": [
+              "A. saw",
+              "B. sees",
+              "C. seeing",
+              "D. see"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "Did 問句後面接原形 see。"
+          },
+          {
+            "id": "m1-6-u6-q029",
+            "question": "The plane ___ at seven this morning.",
+            "options": [
+              "A. leave",
+              "B. left",
+              "C. leaves",
+              "D. leaving"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "leave 的過去式是 left。"
+          },
+          {
+            "id": "m1-6-u6-q030",
+            "question": "They ___ a movie at the theater last night.",
+            "options": [
+              "A. see",
+              "B. seeing",
+              "C. saw",
+              "D. sees"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "see 的過去式是 saw。"
+          },
+          {
+            "id": "m1-6-u6-q031",
+            "question": "I ___ Kevin at the market the other day.",
+            "options": [
+              "A. met",
+              "B. meet",
+              "C. meets",
+              "D. meeting"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "meet 的過去式是 met。"
+          },
+          {
+            "id": "m1-6-u6-q032",
+            "question": "She didn't ___ to India last month.",
+            "options": [
+              "A. went",
+              "B. goes",
+              "C. going",
+              "D. go"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "didn't 後面要用原形 go。"
+          },
+          {
+            "id": "m1-6-u6-q033",
+            "question": "The drink ___ cold and sweet.",
+            "options": [
+              "A. is",
+              "B. was",
+              "C. are",
+              "D. were"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "單數主詞 the drink 的過去 be 動詞是 was。"
+          },
+          {
+            "id": "m1-6-u6-q034",
+            "question": "Besides the temple, we ___ a market.",
+            "options": [
+              "A. visit",
+              "B. visiting",
+              "C. visited",
+              "D. visits"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "過去的參觀行為用 visited。"
+          },
+          {
+            "id": "m1-6-u6-q035",
+            "question": "Mom ___ a bag at the department store.",
+            "options": [
+              "A. bought",
+              "B. buy",
+              "C. buys",
+              "D. buying"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "buy 的過去式是 bought。"
+          },
+          {
+            "id": "m1-6-u6-q036",
+            "question": "Did the trip ___ two days?",
+            "options": [
+              "A. lasted",
+              "B. lasts",
+              "C. lasting",
+              "D. last"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "Did 問句後面接原形 last。"
+          },
+          {
+            "id": "m1-6-u6-q037",
+            "question": "I ___ a black cat on the street.",
+            "options": [
+              "A. see",
+              "B. saw",
+              "C. sees",
+              "D. seeing"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "see 的過去式是 saw。"
+          },
+          {
+            "id": "m1-6-u6-q038",
+            "question": "My friend and I ___ a horse on the farm.",
+            "options": [
+              "A. ride",
+              "B. riding",
+              "C. rode",
+              "D. rides"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "ride 的過去式是 rode。"
+          },
+          {
+            "id": "m1-6-u6-q039",
+            "question": "Where did you ___ after lunch?",
+            "options": [
+              "A. go",
+              "B. went",
+              "C. goes",
+              "D. going"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "did 後面要接原形 go。"
+          },
+          {
+            "id": "m1-6-u6-q040",
+            "question": "I ___ a walk at the park.",
+            "options": [
+              "A. take",
+              "B. takes",
+              "C. taking",
+              "D. took"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "take a walk 的過去式是 took a walk。"
+          },
+          {
+            "id": "m1-6-u6-q041",
+            "question": "The color of the walls ___ at different times of the day.",
+            "options": [
+              "A. change",
+              "B. changed",
+              "C. changes",
+              "D. changing"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "若描述過去觀察到的變化，可用 changed。"
+          },
+          {
+            "id": "m1-6-u6-q042",
+            "question": "Penny ___ a plane on her notebook yesterday.",
+            "options": [
+              "A. draw",
+              "B. drawing",
+              "C. drew",
+              "D. draws"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "draw 的過去式是 drew。"
+          },
+          {
+            "id": "m1-6-u6-q043",
+            "question": "Kevin ___ cold during the trip.",
+            "options": [
+              "A. felt",
+              "B. feel",
+              "C. feels",
+              "D. feeling"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "feel 的過去式是 felt。"
+          },
+          {
+            "id": "m1-6-u6-q044",
+            "question": "Did Victor ___ a train to the station?",
+            "options": [
+              "A. took",
+              "B. takes",
+              "C. taking",
+              "D. take"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "Did 問句後面用原形 take。"
+          },
+          {
+            "id": "m1-6-u6-q045",
+            "question": "We ___ to the hotel after dinner.",
+            "options": [
+              "A. go",
+              "B. went",
+              "C. goes",
+              "D. going"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "go 的過去式是 went。"
+          },
+          {
+            "id": "m1-6-u6-q046",
+            "question": "They ___ at the restaurant for an hour.",
+            "options": [
+              "A. sit",
+              "B. sitting",
+              "C. sat",
+              "D. sits"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "sit 的過去式是 sat。"
+          },
+          {
+            "id": "m1-6-u6-q047",
+            "question": "The singer ___ a beautiful song last night.",
+            "options": [
+              "A. sang",
+              "B. sing",
+              "C. sings",
+              "D. singing"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "sing 的過去式是 sang。"
+          },
+          {
+            "id": "m1-6-u6-q048",
+            "question": "They didn't ___ dinner at the hotel.",
+            "options": [
+              "A. ate",
+              "B. eats",
+              "C. eating",
+              "D. eat"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "didn't 後面要接原形 eat。"
+          },
+          {
+            "id": "m1-6-u6-q049",
+            "question": "The girl ___ a letter about her trip.",
+            "options": [
+              "A. write",
+              "B. wrote",
+              "C. writes",
+              "D. writing"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "write 的過去式是 wrote。"
+          },
+          {
+            "id": "m1-6-u6-q050",
+            "question": "Did you ___ your camera during the trip?",
+            "options": [
+              "A. lost",
+              "B. loses",
+              "C. lose",
+              "D. losing"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "Did 後面要用原形 lose。"
+          }
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          {
+            "id": "m1-6-u6-sv001",
+            "vocab_id": "m1-6-u6-v001",
+            "sentence": "We arrived at the airport early yesterday.",
+            "sentence_chinese": "我們昨天很早到機場。"
+          },
+          {
+            "id": "m1-6-u6-sv002",
+            "vocab_id": "m1-6-u6-v002",
+            "sentence": "My family traveled to India last month.",
+            "sentence_chinese": "我家上個月去印度旅行。"
+          },
+          {
+            "id": "m1-6-u6-sv003",
+            "vocab_id": "m1-6-u6-v003",
+            "sentence": "Tina took a rest after lunch.",
+            "sentence_chinese": "Tina 午餐後休息了一下。"
+          },
+          {
+            "id": "m1-6-u6-sv004",
+            "vocab_id": "m1-6-u6-v004",
+            "sentence": "The guide took us to the hotel.",
+            "sentence_chinese": "導遊帶我們去飯店。"
+          },
+          {
+            "id": "m1-6-u6-sv005",
+            "vocab_id": "m1-6-u6-v005",
+            "sentence": "They stayed at a clean hotel near the station.",
+            "sentence_chinese": "他們住在車站附近一間乾淨的飯店。"
+          },
+          {
+            "id": "m1-6-u6-sv006",
+            "vocab_id": "m1-6-u6-v006",
+            "sentence": "The plane left at seven this morning.",
+            "sentence_chinese": "飛機今天早上 7 點起飛。"
+          },
+          {
+            "id": "m1-6-u6-sv007",
+            "vocab_id": "m1-6-u6-v007",
+            "sentence": "We saw the sights in the old city.",
+            "sentence_chinese": "我們在古城看了名勝。"
+          },
+          {
+            "id": "m1-6-u6-sv008",
+            "vocab_id": "m1-6-u6-v008",
+            "sentence": "I went to a bookstore and bought a map.",
+            "sentence_chinese": "我去了一家書店並買了一張地圖。"
+          },
+          {
+            "id": "m1-6-u6-sv009",
+            "vocab_id": "m1-6-u6-v009",
+            "sentence": "Dad bought two cups of lassi for us.",
+            "sentence_chinese": "爸爸買了兩杯拉西給我們。"
+          },
+          {
+            "id": "m1-6-u6-sv010",
+            "vocab_id": "m1-6-u6-v010",
+            "sentence": "I just saw Kevin at the market.",
+            "sentence_chinese": "我剛才在市場看到 Kevin。"
+          },
+          {
+            "id": "m1-6-u6-sv011",
+            "vocab_id": "m1-6-u6-v011",
+            "sentence": "We learned a lot about Indian culture.",
+            "sentence_chinese": "我們學到了很多關於印度文化的事。"
+          },
+          {
+            "id": "m1-6-u6-sv012",
+            "vocab_id": "m1-6-u6-v012",
+            "sentence": "Grandpa told us a story about the temple.",
+            "sentence_chinese": "爺爺告訴我們一個關於那座寺廟的故事。"
+          },
+          {
+            "id": "m1-6-u6-sv013",
+            "vocab_id": "m1-6-u6-v013",
+            "sentence": "The movie about India was cool.",
+            "sentence_chinese": "那部關於印度的電影很酷。"
+          },
+          {
+            "id": "m1-6-u6-sv014",
+            "vocab_id": "m1-6-u6-v014",
+            "sentence": "We took a train to the city.",
+            "sentence_chinese": "我們搭火車去那座城市。"
+          },
+          {
+            "id": "m1-6-u6-sv015",
+            "vocab_id": "m1-6-u6-v015",
+            "sentence": "The drink was cold and sweet.",
+            "sentence_chinese": "那杯飲料又冰又甜。"
+          },
+          {
+            "id": "m1-6-u6-sv016",
+            "vocab_id": "m1-6-u6-v016",
+            "sentence": "I tried lassi for the first time.",
+            "sentence_chinese": "我第一次試喝拉西。"
+          },
+          {
+            "id": "m1-6-u6-sv017",
+            "vocab_id": "m1-6-u6-v017",
+            "sentence": "The station was a long way from our hotel.",
+            "sentence_chinese": "車站離我們的飯店很遠。"
+          },
+          {
+            "id": "m1-6-u6-sv018",
+            "vocab_id": "m1-6-u6-v018",
+            "sentence": "The train stopped at the station.",
+            "sentence_chinese": "火車停在車站。"
+          },
+          {
+            "id": "m1-6-u6-sv019",
+            "vocab_id": "m1-6-u6-v019",
+            "sentence": "Mom bought a bag at the department store.",
+            "sentence_chinese": "媽媽在百貨公司買了一個包包。"
+          },
+          {
+            "id": "m1-6-u6-sv020",
+            "vocab_id": "m1-6-u6-v020",
+            "sentence": "We ate dinner at an Indian restaurant.",
+            "sentence_chinese": "我們在一家印度餐廳吃晚餐。"
+          },
+          {
+            "id": "m1-6-u6-sv021",
+            "vocab_id": "m1-6-u6-v021",
+            "sentence": "They saw a movie at the theater last night.",
+            "sentence_chinese": "他們昨晚在電影院看了一部電影。"
+          },
+          {
+            "id": "m1-6-u6-sv022",
+            "vocab_id": "m1-6-u6-v022",
+            "sentence": "We walked through the market in the morning.",
+            "sentence_chinese": "我們早上走過市場。"
+          },
+          {
+            "id": "m1-6-u6-sv023",
+            "vocab_id": "m1-6-u6-v023",
+            "sentence": "The old temple stood near the river.",
+            "sentence_chinese": "那座古老的寺廟位在河邊。"
+          },
+          {
+            "id": "m1-6-u6-sv024",
+            "vocab_id": "m1-6-u6-v024",
+            "sentence": "The Taj Mahal is a famous place in India.",
+            "sentence_chinese": "泰姬瑪哈陵是印度有名的地方。"
+          },
+          {
+            "id": "m1-6-u6-sv025",
+            "vocab_id": "m1-6-u6-v025",
+            "sentence": "We took many photos during the trip.",
+            "sentence_chinese": "我們在旅途中拍了很多照片。"
+          },
+          {
+            "id": "m1-6-u6-sv026",
+            "vocab_id": "m1-6-u6-v026",
+            "sentence": "Besides the temple, we visited a market.",
+            "sentence_chinese": "除了寺廟之外，我們也參觀了一個市場。"
+          },
+          {
+            "id": "m1-6-u6-sv027",
+            "vocab_id": "m1-6-u6-v027",
+            "sentence": "The story changed with age.",
+            "sentence_chinese": "那個故事隨著時間改變。"
+          },
+          {
+            "id": "m1-6-u6-sv028",
+            "vocab_id": "m1-6-u6-v028",
+            "sentence": "Ben lost his ticket at the airport.",
+            "sentence_chinese": "Ben 在機場弄丟了他的票。"
+          },
+          {
+            "id": "m1-6-u6-sv029",
+            "vocab_id": "m1-6-u6-v029",
+            "sentence": "The baby cried on the plane.",
+            "sentence_chinese": "那個嬰兒在飛機上哭了。"
+          },
+          {
+            "id": "m1-6-u6-sv030",
+            "vocab_id": "m1-6-u6-v030",
+            "sentence": "The cat hid under the sofa.",
+            "sentence_chinese": "那隻貓躲在沙發下面。"
+          },
+          {
+            "id": "m1-6-u6-sv031",
+            "vocab_id": "m1-6-u6-v031",
+            "sentence": "Workers built the bridge many years ago.",
+            "sentence_chinese": "工人們很多年前建造了那座橋。"
+          },
+          {
+            "id": "m1-6-u6-sv032",
+            "vocab_id": "m1-6-u6-v032",
+            "sentence": "Our trip to India was exciting.",
+            "sentence_chinese": "我們的印度之旅很令人興奮。"
+          },
+          {
+            "id": "m1-6-u6-sv033",
+            "vocab_id": "m1-6-u6-v033",
+            "sentence": "Sadly, we lost our camera during the trip.",
+            "sentence_chinese": "令人傷心的是，我們在旅途中弄丟了相機。"
+          },
+          {
+            "id": "m1-6-u6-sv034",
+            "vocab_id": "m1-6-u6-v034",
+            "sentence": "The show lasted two hours.",
+            "sentence_chinese": "那場表演持續了 2 個小時。"
+          }
+        ],
+        "phrases": [
+          {
+            "id": "m1-6-u6-sp001",
+            "phrase_id": "m1-6-u6-p001",
+            "sentence": "I went to a bookstore the other day.",
+            "sentence_chinese": "我前幾天去了一家書店。"
+          },
+          {
+            "id": "m1-6-u6-sp002",
+            "phrase_id": "m1-6-u6-p002",
+            "sentence": "Victor fell in love with Anna.",
+            "sentence_chinese": "Victor 愛上了 Anna。"
+          }
+        ],
+        "grammar": [
+          {
+            "id": "m1-6-u6-sg001",
+            "sentence": "I took a trip to India last month.",
+            "sentence_chinese": "我上個月去印度旅行。"
+          },
+          {
+            "id": "m1-6-u6-sg002",
+            "sentence": "We arrived at the airport early yesterday.",
+            "sentence_chinese": "我們昨天很早到機場。"
+          },
+          {
+            "id": "m1-6-u6-sg003",
+            "sentence": "Dad bought two cups of lassi for us.",
+            "sentence_chinese": "爸爸買了兩杯拉西給我們。"
+          },
+          {
+            "id": "m1-6-u6-sg004",
+            "sentence": "Did you see any cats around here?",
+            "sentence_chinese": "你有在這附近看到任何貓嗎？"
+          },
+          {
+            "id": "m1-6-u6-sg005",
+            "sentence": "The baby cried on the plane.",
+            "sentence_chinese": "那個嬰兒在飛機上哭了。"
+          },
+          {
+            "id": "m1-6-u6-sg006",
+            "sentence": "They stayed at a clean hotel near the station.",
+            "sentence_chinese": "他們住在車站附近一間乾淨的飯店。"
+          },
+          {
+            "id": "m1-6-u6-sg007",
+            "sentence": "We took a train to the city yesterday.",
+            "sentence_chinese": "我們昨天搭火車去那座城市。"
+          },
+          {
+            "id": "m1-6-u6-sg008",
+            "sentence": "Amy didn't buy anything at the department store.",
+            "sentence_chinese": "Amy 沒有在百貨公司買任何東西。"
+          },
+          {
+            "id": "m1-6-u6-sg009",
+            "sentence": "Ben lost his ticket at the airport.",
+            "sentence_chinese": "Ben 在機場弄丟了他的票。"
+          },
+          {
+            "id": "m1-6-u6-sg010",
+            "sentence": "The cat hid under the sofa.",
+            "sentence_chinese": "那隻貓躲在沙發下面。"
+          },
+          {
+            "id": "m1-6-u6-sg011",
+            "sentence": "I went to a bookstore the other day.",
+            "sentence_chinese": "我前幾天去了一家書店。"
+          },
+          {
+            "id": "m1-6-u6-sg012",
+            "sentence": "Did they visit a famous temple in India?",
+            "sentence_chinese": "他們有參觀印度一座有名的寺廟嗎？"
+          },
+          {
+            "id": "m1-6-u6-sg013",
+            "sentence": "Workers built the bridge many years ago.",
+            "sentence_chinese": "工人們很多年前建造了那座橋。"
+          },
+          {
+            "id": "m1-6-u6-sg014",
+            "sentence": "We ate dinner at an Indian restaurant.",
+            "sentence_chinese": "我們在一家印度餐廳吃晚餐。"
+          },
+          {
+            "id": "m1-6-u6-sg015",
+            "sentence": "The train stopped at the station.",
+            "sentence_chinese": "火車停在車站。"
+          },
+          {
+            "id": "m1-6-u6-sg016",
+            "sentence": "She didn't take a rest after lunch.",
+            "sentence_chinese": "她午餐後沒有休息。"
+          },
+          {
+            "id": "m1-6-u6-sg017",
+            "sentence": "We took many photos during the trip.",
+            "sentence_chinese": "我們在旅途中拍了很多照片。"
+          },
+          {
+            "id": "m1-6-u6-sg018",
+            "sentence": "The show lasted two hours.",
+            "sentence_chinese": "那場表演持續了 2 個小時。"
+          },
+          {
+            "id": "m1-6-u6-sg019",
+            "sentence": "I tried lassi for the first time.",
+            "sentence_chinese": "我第一次試喝拉西。"
+          },
+          {
+            "id": "m1-6-u6-sg020",
+            "sentence": "Victor fell in love with Anna.",
+            "sentence_chinese": "Victor 愛上了 Anna。"
+          },
+          {
+            "id": "m1-6-u6-sg021",
+            "sentence": "The old temple stood near the river.",
+            "sentence_chinese": "那座古老的寺廟位在河邊。"
+          },
+          {
+            "id": "m1-6-u6-sg022",
+            "sentence": "We saw the sights in the old city.",
+            "sentence_chinese": "我們在古城看了名勝。"
+          },
+          {
+            "id": "m1-6-u6-sg023",
+            "sentence": "They didn't take the plane this morning.",
+            "sentence_chinese": "他們今天早上沒有搭飛機。"
+          },
+          {
+            "id": "m1-6-u6-sg024",
+            "sentence": "The guide took us to the hotel.",
+            "sentence_chinese": "導遊帶我們去飯店。"
+          },
+          {
+            "id": "m1-6-u6-sg025",
+            "sentence": "We learned a lot about Indian culture.",
+            "sentence_chinese": "我們學到了很多關於印度文化的事。"
+          },
+          {
+            "id": "m1-6-u6-sg026",
+            "sentence": "Grandpa told us a story about the temple.",
+            "sentence_chinese": "爺爺告訴我們一個關於那座寺廟的故事。"
+          },
+          {
+            "id": "m1-6-u6-sg027",
+            "sentence": "They saw a movie at the theater last night.",
+            "sentence_chinese": "他們昨晚在電影院看了一部電影。"
+          },
+          {
+            "id": "m1-6-u6-sg028",
+            "sentence": "The plane left at seven this morning.",
+            "sentence_chinese": "飛機今天早上 7 點起飛。"
+          },
+          {
+            "id": "m1-6-u6-sg029",
+            "sentence": "Mom bought a bag at the department store.",
+            "sentence_chinese": "媽媽在百貨公司買了一個包包。"
+          },
+          {
+            "id": "m1-6-u6-sg030",
+            "sentence": "Did you lose your camera during the trip?",
+            "sentence_chinese": "你在旅途中弄丟相機了嗎？"
+          }
+        ]
+      }
+    }
+  }
+}
