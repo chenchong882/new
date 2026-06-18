@@ -49,7 +49,7 @@
     <h1>👩‍🏫 學生總覽</h1>
     <p class="lead">這頁只給老師自己用：每個學生練哪幾課、一鍵複製他專屬的遊戲連結。學生只會拿到自己那條連結，看不到別人。</p>
     <div id="list"></div>
-    <p class="note">※ 名單來自 <code>students.json</code>。新增學生：在 <code>data/學校/</code> 放一個學生 JSON，再到 <code>students.json</code> 補一筆即可。</p>
+    <p class="note">※ 名單來自 <code>students.json</code>（只記資料夾 id）。每張卡片即時讀該資料夾的 <code>lessons.json</code> 與課程檔，永遠顯示最新範圍。新增學生：建立 <code>data/&lt;id&gt;/</code> 資料夾（含 lessons.json + 課程檔），再到 <code>students.json</code> 補一筆 <code>{"id":"..."}</code> 即可。</p>
   </main>
 
   <script>
@@ -57,19 +57,15 @@
     const base = new URL('.', location.href).href; // 目前資料夾
 
     function playUrl(id) {
-      // 斜線保留作路徑分隔，各段分別編碼（中文不會出亂碼）
-      const enc = id.split('/').map(encodeURIComponent).join('/');
-      return base + 'play.html?id=' + enc;
+      return base + 'play.html?id=' + encodeURIComponent(id);
     }
 
-    function card(s) {
+    function card(id, name, chipsHtml) {
       const wrap = document.createElement('div');
       wrap.className = 'student';
-      const chips = (s.units || []).map(u =>
-        `<span class="chip">${u.title}（單字 ${u.vocab}・題 ${u.quiz}）</span>`).join('');
-      const url = playUrl(s.id);
+      const url = playUrl(id);
       wrap.innerHTML =
-        `<div class="row1"><b>${s.name}</b><span class="chips">${chips}</span></div>
+        `<div class="row1"><b>${name}</b><span class="chips">${chipsHtml}</span></div>
          <div class="linkrow">
            <input type="text" readonly value="${url}">
            <button type="button">複製</button>
@@ -86,18 +82,42 @@
       return wrap;
     }
 
+    // 跟 play.html 同邏輯：讀 lessons.json 拿本次段考單元清單，再抓那幾課算單字/題數
+    async function loadUnitsInfo(id) {
+      const dir = 'data/' + id;
+      const manifestRes = await fetch(encodeURI(dir + '/lessons.json'), { cache: 'no-store' });
+      if (!manifestRes.ok) throw new Error(`找不到 lessons.json（HTTP ${manifestRes.status}）`);
+      const manifest = await manifestRes.json();
+      const codes = manifest.units || [];
+      if (!codes.length) throw new Error('lessons.json 沒有列出任何單元');
+      return Promise.all(codes.map(async code => {
+        const r = await fetch(encodeURI(dir + '/' + code + '.json'), { cache: 'no-store' });
+        if (!r.ok) throw new Error(`課程檔 ${code} 讀取失敗（HTTP ${r.status}）`);
+        const data = await r.json();
+        const unit = (data.units || {})[code] || Object.values(data.units || {})[0] || {};
+        return {
+          title: unit.title || code,
+          vocab: (unit.vocab || []).length,
+          quiz: ((unit.grammar || {}).quiz || []).length,
+        };
+      }));
+    }
+
     async function boot() {
       try {
         const res = await fetch('students.json', { cache: 'no-store' });
-        const students = await res.json();
-        const bySchool = {};
-        students.forEach(s => { (bySchool[s.school] = bySchool[s.school] || []).push(s); });
-        Object.keys(bySchool).forEach(school => {
-          const h = document.createElement('h2');
-          h.textContent = school + '（' + bySchool[school].length + ' 人）';
-          listEl.appendChild(h);
-          bySchool[school].forEach(s => listEl.appendChild(card(s)));
-        });
+        const list = await res.json();
+        for (const s of list) {
+          try {
+            const units = await loadUnitsInfo(s.id);
+            const chips = units.map(u =>
+              `<span class="chip">${u.title}（單字 ${u.vocab}・題 ${u.quiz}）</span>`).join('');
+            listEl.appendChild(card(s.id, s.name || s.id, chips));
+          } catch (err) {
+            const chips = `<span class="chip" style="color:#fca5a5">${err.message}</span>`;
+            listEl.appendChild(card(s.id, s.name || s.id, chips));
+          }
+        }
       } catch (err) {
         listEl.innerHTML = '<p style="color:#fca5a5">讀不到 students.json。' +
           (location.protocol === 'file:'
