@@ -40,6 +40,7 @@
     form.addEventListener('submit', (e) => {
       e.preventDefault();
       if (pw.value === '1999') {
+        sessionStorage.setItem('admin_ok', '1');
         location.href = 'admin.html';
       } else {
         err.style.visibility = 'visible';

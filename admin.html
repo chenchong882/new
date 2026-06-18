@@ -4,6 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>學生總覽（老師用）</title>
+  <script>
+    if (sessionStorage.getItem('admin_ok') !== '1') location.replace('index.html');
+  </script>
   <style>
     * { box-sizing: border-box; }
     html, body {
@@ -125,7 +128,7 @@
             : err.message) + '</p>';
       }
     }
-    boot();
+    if (sessionStorage.getItem('admin_ok') === '1') boot();
   </script>
 </body>
 </html>
