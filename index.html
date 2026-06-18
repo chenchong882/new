@@ -19,16 +19,34 @@
     p { margin: 0 0 10px; color: #cbd5e1; font-size: 17px; line-height: 1.7; }
     .hint { margin-top: 8px; color: #94a3b8; font-size: 14px; }
     code { color: #facc15; }
-    a.admin { display: inline-block; margin-top: 26px; color: #64748b; font-size: 13px; text-decoration: none; }
-    a.admin:hover { color: #cbd5e1; }
   </style>
 </head>
 <body>
   <main>
-    <h1>🎮 英文單字遊戲</h1>
-    <p>請用老師發給你的<strong>專屬連結</strong>開啟。</p>
-    <p class="hint">你的連結網址會帶一段 <code>?id=…</code>，那就是你的單字。</p>
-    <a class="admin" href="./admin.html">老師管理頁 →</a>
+    <h1>🔒 老師專用</h1>
+    <p>請輸入密碼進入學生總覽。</p>
+    <form id="gate" autocomplete="off">
+      <input id="pw" type="password" inputmode="numeric" placeholder="密碼" autofocus
+        style="margin-top:18px;width:160px;text-align:center;font-size:22px;letter-spacing:4px;
+        padding:10px 14px;border-radius:8px;border:1px solid rgba(255,255,255,.2);
+        background:rgba(2,6,23,.6);color:#f8fafc;">
+    </form>
+    <p id="err" class="hint" style="color:#fca5a5;visibility:hidden;">密碼錯誤</p>
   </main>
+  <script>
+    const form = document.getElementById('gate');
+    const pw = document.getElementById('pw');
+    const err = document.getElementById('err');
+    form.addEventListener('submit', (e) => {
+      e.preventDefault();
+      if (pw.value === '1999') {
+        location.href = 'admin.html';
+      } else {
+        err.style.visibility = 'visible';
+        pw.value = '';
+        pw.focus();
+      }
+    });
+  </script>
 </body>
 </html>
