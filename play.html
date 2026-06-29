@@ -1600,6 +1600,7 @@
 
         const GameMode = ({ allWords, grammarData, unitTitle }) => {
             const [screen, setScreen] = useState('home');
+            if (screen === 'newgames') return <NewGamesMenu allWords={allWords} grammarData={grammarData} unitTitle={unitTitle} onBack={() => setScreen('home')} />;
             if (screen === 'survival') return <SurvivalMode allWords={allWords} onBack={() => setScreen('home')} />;
             if (screen === 'boss') return <BossMode allWords={allWords} onBack={() => setScreen('home')} />;
             return (
@@ -1631,6 +1632,18 @@
                                 <div className="text-slate-400 text-sm font-bold mt-0.5">打倒 Boss，3 條命、連勝傷害</div>
                             </div>
                             <ChevronRight className="w-5 h-5 text-slate-600 group-hover:text-rose-500 ml-auto transition-colors" />
+                        </div>
+                    </button>
+                    <button onClick={() => setScreen('newgames')}
+                        className="w-full bg-emerald-900/40 border-2 border-emerald-600 hover:border-emerald-400 p-5 rounded-2xl text-left transition-all group relative overflow-hidden">
+                        <div className="absolute inset-0 bg-emerald-400/10 opacity-0 group-hover:opacity-100 transition-opacity rounded-2xl" />
+                        <div className="relative flex items-center gap-4">
+                            <div className="text-4xl select-none">🆕</div>
+                            <div>
+                                <div className="text-white font-black text-lg">新版遊戲（6 款）</div>
+                                <div className="text-slate-300 text-sm font-bold mt-0.5">挖金礦・炸彈英文・坦克・狙擊手・跑酷・攻防戰</div>
+                            </div>
+                            <ChevronRight className="w-5 h-5 text-emerald-500 group-hover:text-emerald-300 ml-auto transition-colors" />
                         </div>
                     </button>
                 </div>
