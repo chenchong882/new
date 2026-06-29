@@ -941,6 +941,8 @@
             const showEn = Math.random() > 0.5;
             const dist = shuffleArray(pool.filter(w => w.id !== target.id)).slice(0, 3);
             return {
+                word: target.word,
+                chinese: target.chinese,
                 prompt: showEn ? target.chinese : target.word,
                 promptType: showEn ? '選出英文單字' : '選出中文意思',
                 audio: target.word,
@@ -1007,6 +1009,7 @@
 
             const tRef = useRef(INIT_TIME), sRef = useRef(0), cRef = useRef(0);
             const mcRef = useRef(0), wRef = useRef(0), frozenRef = useRef(false);
+            const wrongWordsRef = useRef({});
 
             const nextQ = useCallback(() => {
                 const t = allWords[Math.floor(Math.random() * allWords.length)];
@@ -1019,6 +1022,7 @@
                 setTimeLeft(INIT_TIME); setScore(0); setCombo(0); setMaxCombo(0); setWordsOk(0);
                 setFeedback(null); setSelId(null); setNewBest(false); setShaking(false);
                 setCleared(false); setTimeBonus(0);
+                wrongWordsRef.current = {};
                 frozenRef.current = false; setPhase('playing');
             };
             useEffect(() => { if (phase === 'playing') nextQ(); }, [phase]);
@@ -1075,6 +1079,9 @@
                     tRef.current = Math.max(tRef.current - PENALTY, 1);
                     setCombo(0); setTimeLeft(tRef.current); setFeedback('wrong');
                     setShaking(true); setTimeout(() => setShaking(false), 380);
+                    const wKey = question.word;
+                    const prevEntry = wrongWordsRef.current[wKey] || { count: 0, chinese: question.chinese };
+                    wrongWordsRef.current[wKey] = { count: prevEntry.count + 1, chinese: question.chinese };
                     setTimeout(() => nextQ(), 720);
                 }
             };
@@ -1127,6 +1134,27 @@
                             </div>
                         ))}
                     </div>
+                    {Object.keys(wrongWordsRef.current).length > 0 && (
+                        <div className="bg-slate-800 border-2 border-rose-800 rounded-2xl p-4 text-left">
+                            <div className="text-rose-400 text-xs font-black uppercase tracking-widest mb-3 text-center flex items-center justify-center gap-1.5">
+                                <XCircle className="w-3.5 h-3.5" /> 答錯題目
+                            </div>
+                            <div className="space-y-2">
+                                {Object.entries(wrongWordsRef.current)
+                                    .sort((a, b) => b[1].count - a[1].count)
+                                    .map(([word, data]) => (
+                                        <div key={word} className="flex items-center justify-between bg-slate-900/60 rounded-xl px-3 py-2">
+                                            <div className="flex-1 min-w-0">
+                                                <span className="text-white font-black text-base">{word}</span>
+                                                <span className="text-slate-400 text-sm font-bold ml-2">{data.chinese}</span>
+                                            </div>
+                                            <span className="text-rose-400 font-black text-sm bg-rose-950/60 border border-rose-800 px-2 py-0.5 rounded-full ml-3 shrink-0">×{data.count}</span>
+                                        </div>
+                                    ))
+                                }
+                            </div>
+                        </div>
+                    )}
                     <GameButton onClick={startGame} color="yellow" className="w-full py-4 text-lg"><RefreshCw className="w-5 h-5" /> 再挑戰一次</GameButton>
                     <button onClick={onBack} className="w-full text-slate-600 font-bold text-sm hover:text-slate-400 transition-colors flex items-center justify-center gap-1 py-1">
                         <ChevronLeft className="w-4 h-4" /> 返回選單
@@ -1572,12 +1600,8 @@
 
         const GameMode = ({ allWords, grammarData, unitTitle }) => {
             const [screen, setScreen] = useState('home');
-            if (screen === 'newgames') return <NewGamesMenu allWords={allWords} grammarData={grammarData} unitTitle={unitTitle} onBack={() => setScreen('home')} />;
             if (screen === 'survival') return <SurvivalMode allWords={allWords} onBack={() => setScreen('home')} />;
             if (screen === 'boss') return <BossMode allWords={allWords} onBack={() => setScreen('home')} />;
-            if (screen === 'miner') return <MinerMode allWords={allWords} unitTitle={unitTitle} onBack={() => setScreen('home')} />;
-            if (screen === 'battle') return <BattleMode allWords={allWords} grammarData={grammarData} unitTitle={unitTitle} onBack={() => setScreen('home')} />;
-            if (screen === 'runner') return <RunnerMode allWords={allWords} unitTitle={unitTitle} onBack={() => setScreen('home')} />;
             return (
                 <div className="space-y-4 pb-6">
                     <div className="text-center pt-2">
@@ -1607,54 +1631,6 @@
                                 <div className="text-slate-400 text-sm font-bold mt-0.5">打倒 Boss，3 條命、連勝傷害</div>
                             </div>
                             <ChevronRight className="w-5 h-5 text-slate-600 group-hover:text-rose-500 ml-auto transition-colors" />
-                        </div>
-                    </button>
-                    <button onClick={() => setScreen('miner')}
-                        className="w-full bg-slate-800 border-2 border-slate-700 hover:border-yellow-500 p-5 rounded-2xl text-left transition-all group relative overflow-hidden">
-                        <div className="absolute inset-0 bg-amber-400/5 opacity-0 group-hover:opacity-100 transition-opacity rounded-2xl" />
-                        <div className="relative flex items-center gap-4">
-                            <div className="text-4xl select-none" style={{ filter: 'drop-shadow(0 0 10px rgba(251,191,36,0.45))' }}>⛏️</div>
-                            <div>
-                                <div className="text-white font-black text-lg">單字挖金礦</div>
-                                <div className="text-slate-400 text-sm font-bold mt-0.5">聽發音、移動礦車，抓正確金塊</div>
-                            </div>
-                            <ChevronRight className="w-5 h-5 text-slate-600 group-hover:text-yellow-500 ml-auto transition-colors" />
-                        </div>
-                    </button>
-                    <button onClick={() => setScreen('battle')}
-                        className="w-full bg-slate-800 border-2 border-slate-700 hover:border-orange-500 p-5 rounded-2xl text-left transition-all group relative overflow-hidden">
-                        <div className="absolute inset-0 bg-orange-400/5 opacity-0 group-hover:opacity-100 transition-opacity rounded-2xl" />
-                        <div className="relative flex items-center gap-4">
-                            <div className="text-4xl select-none" style={{ filter: 'drop-shadow(0 0 10px rgba(249,115,22,0.45))' }}>⚔️</div>
-                            <div>
-                                <div className="text-white font-black text-lg">英文攻防戰</div>
-                                <div className="text-slate-400 text-sm font-bold mt-0.5">答題賺金幣、派兵推倒敵方基地</div>
-                            </div>
-                            <ChevronRight className="w-5 h-5 text-slate-600 group-hover:text-orange-500 ml-auto transition-colors" />
-                        </div>
-                    </button>
-                    <button onClick={() => setScreen('runner')}
-                        className="w-full bg-slate-800 border-2 border-slate-700 hover:border-cyan-400 p-5 rounded-2xl text-left transition-all group relative overflow-hidden">
-                        <div className="absolute inset-0 bg-cyan-400/5 opacity-0 group-hover:opacity-100 transition-opacity rounded-2xl" />
-                        <div className="relative flex items-center gap-4">
-                            <div className="text-4xl select-none" style={{ filter: 'drop-shadow(0 0 10px rgba(34,211,238,0.45))' }}>▣</div>
-                            <div>
-                                <div className="text-white font-black text-lg">8-bit 星際巡航</div>
-                                <div className="text-slate-400 text-sm font-bold mt-0.5">點擊航道切換位置，在三條航道撞對單字</div>
-                            </div>
-                            <ChevronRight className="w-5 h-5 text-slate-600 group-hover:text-cyan-400 ml-auto transition-colors" />
-                        </div>
-                    </button>
-                    <button onClick={() => setScreen('newgames')}
-                        className="w-full bg-emerald-900/40 border-2 border-emerald-600 hover:border-emerald-400 p-5 rounded-2xl text-left transition-all group relative overflow-hidden">
-                        <div className="absolute inset-0 bg-emerald-400/10 opacity-0 group-hover:opacity-100 transition-opacity rounded-2xl" />
-                        <div className="relative flex items-center gap-4">
-                            <div className="text-4xl select-none">🆕</div>
-                            <div>
-                                <div className="text-white font-black text-lg">新版遊戲（6 款）</div>
-                                <div className="text-slate-300 text-sm font-bold mt-0.5">挖金礦・炸彈英文・坦克・狙擊手・跑酷・攻防戰</div>
-                            </div>
-                            <ChevronRight className="w-5 h-5 text-emerald-500 group-hover:text-emerald-300 ml-auto transition-colors" />
                         </div>
                     </button>
                 </div>
