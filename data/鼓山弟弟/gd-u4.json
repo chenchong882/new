@@ -1,0 +1,139 @@
+{
+  "units": {
+    "gd-u4": {
+      "title": "Unit 4",
+      "vocab": [
+        { "id": "gd-u4-v001", "word": "hot dog", "part_of_speech": "n.", "chinese": "熱狗", "sentence": "I want a hot dog for lunch.", "sentence_chinese": "我午餐想要一個熱狗。" },
+        { "id": "gd-u4-v002", "word": "egg", "part_of_speech": "n.", "chinese": "雞蛋", "sentence": "I want two eggs, please.", "sentence_chinese": "請給我兩個雞蛋。" },
+        { "id": "gd-u4-v003", "word": "bread", "part_of_speech": "n.", "chinese": "麵包", "sentence": "I want some bread and milk.", "sentence_chinese": "我想要一些麵包和牛奶。" },
+        { "id": "gd-u4-v004", "word": "juice", "part_of_speech": "n.", "chinese": "果汁", "sentence": "I want some juice. It is yummy.", "sentence_chinese": "我想要一些果汁。它很好喝。" },
+        { "id": "gd-u4-v005", "word": "milk", "part_of_speech": "n.", "chinese": "牛奶", "sentence": "What do you want? I want milk.", "sentence_chinese": "你想要什麼？我想要牛奶。" },
+        { "id": "gd-u4-v006", "word": "cupcake", "part_of_speech": "n.", "chinese": "杯子蛋糕", "sentence": "I want a cupcake. It looks yummy!", "sentence_chinese": "我想要一個杯子蛋糕。它看起來好吃！" },
+        { "id": "gd-u4-v007", "word": "tea", "part_of_speech": "n.", "chinese": "茶", "sentence": "I want some tea, please.", "sentence_chinese": "請給我一些茶。" }
+      ],
+      "phrases": [
+        { "id": "gd-u4-p001", "phrase": "Here you are.", "chinese": "給你。", "sentence": "Here you are. Enjoy your food!", "sentence_chinese": "給你。好好享用！" },
+        { "id": "gd-u4-p002", "phrase": "Hurry up!", "chinese": "快點！", "sentence": "Hurry up! We are late.", "sentence_chinese": "快點！我們要遲到了。" }
+      ],
+      "grammar": {
+        "tips": [
+          { "label": "What do you want?", "text": "詢問「你想要什麼？」用 What do you want? 回答用 I want + 名詞。" },
+          { "label": "a / some + 名詞", "text": "可數名詞（一個）用 a/an；可數名詞（多個）加數字；不可數名詞（液體、粉狀等）用 some。" }
+        ],
+        "notes": [
+          {
+            "title": "What do you want?（詢問想要什麼）",
+            "rule": "What do you want? I want + 名詞.",
+            "description": "用 What do you want? 詢問對方想要的東西。回答用 I want + 名詞。",
+            "examples": ["What do you want? I want a hot dog.", "What do you want? I want some juice.", "What do you want? I want two eggs.", "What do you want? I want some milk."]
+          },
+          {
+            "title": "a/an vs. some（冠詞用法）",
+            "rule": "可數（單數）用 a/an；可數（複數）用數字；不可數用 some",
+            "description": "a hot dog（一個，可數單數）；two eggs（兩個，可數複數）；some juice（一些，不可數）。",
+            "examples": ["I want a hot dog.", "I want an egg.", "I want two eggs.", "I want some juice.", "I want some milk.", "I want some bread.", "I want some tea."]
+          }
+        ],
+        "quiz": [
+          { "id": "gd-u4-q001", "question": "What do you ___? I want some milk.", "options": ["A. want", "B. wants", "C. wanted", "D. wanting"], "answer": "A", "answer_index": 0, "hint": "do 後面動詞用原形 want。" },
+          { "id": "gd-u4-q002", "question": "What do you want? I want ___ hot dog.", "options": ["A. some", "B. a", "C. two", "D. any"], "answer": "B", "answer_index": 1, "hint": "hot dog 是可數名詞，一個用 a。" },
+          { "id": "gd-u4-q003", "question": "What do you want? I want ___ juice.", "options": ["A. a", "B. two", "C. some", "D. an"], "answer": "C", "answer_index": 2, "hint": "juice 是不可數名詞，用 some。" },
+          { "id": "gd-u4-q004", "question": "Which word means 麵包？", "options": ["A. milk", "B. tea", "C. juice", "D. bread"], "answer": "D", "answer_index": 3, "hint": "bread = 麵包。" },
+          { "id": "gd-u4-q005", "question": "What ___ you want? I want some tea.", "options": ["A. do", "B. are", "C. is", "D. can"], "answer": "A", "answer_index": 0, "hint": "What do you want? 固定句型。" },
+          { "id": "gd-u4-q006", "question": "Which word means 牛奶？", "options": ["A. juice", "B. milk", "C. bread", "D. tea"], "answer": "B", "answer_index": 1, "hint": "milk = 牛奶。" },
+          { "id": "gd-u4-q007", "question": "I want ___ eggs.", "options": ["A. some", "B. a", "C. two", "D. an"], "answer": "C", "answer_index": 2, "hint": "可數複數前用數字 two。" },
+          { "id": "gd-u4-q008", "question": "Which word means 茶？", "options": ["A. milk", "B. juice", "C. bread", "D. tea"], "answer": "D", "answer_index": 3, "hint": "tea = 茶。" },
+          { "id": "gd-u4-q009", "question": "What do you want? ___ want some bread.", "options": ["A. I", "B. She", "C. He", "D. They"], "answer": "A", "answer_index": 0, "hint": "回答 What do you want? 用 I want..." },
+          { "id": "gd-u4-q010", "question": "What do you want? I want ___ egg.", "options": ["A. some", "B. an", "C. two", "D. a lot"], "answer": "B", "answer_index": 1, "hint": "egg 以母音開頭，一個用 an。" },
+          { "id": "gd-u4-q011", "question": "Which word means 果汁？", "options": ["A. milk", "B. tea", "C. juice", "D. bread"], "answer": "C", "answer_index": 2, "hint": "juice = 果汁。" },
+          { "id": "gd-u4-q012", "question": "I want ___ milk.", "options": ["A. a", "B. an", "C. two", "D. some"], "answer": "D", "answer_index": 3, "hint": "milk 是不可數名詞，用 some。" },
+          { "id": "gd-u4-q013", "question": "What do you want? I ___ some juice.", "options": ["A. want", "B. wants", "C. wanting", "D. wanted"], "answer": "A", "answer_index": 0, "hint": "I want 是固定用法，動詞原形。" },
+          { "id": "gd-u4-q014", "question": "Which word means 熱狗？", "options": ["A. bread", "B. hot dog", "C. milk", "D. egg"], "answer": "B", "answer_index": 1, "hint": "hot dog = 熱狗。" },
+          { "id": "gd-u4-q015", "question": "I want two ___.", "options": ["A. bread", "B. juice", "C. eggs", "D. milk"], "answer": "C", "answer_index": 2, "hint": "可以數的才能用 two，eggs（雞蛋）可數。" },
+          { "id": "gd-u4-q016", "question": "What ___ you want? I want a hot dog.", "options": ["A. is", "B. are", "C. can", "D. do"], "answer": "D", "answer_index": 3, "hint": "What do you want? 固定句型。" },
+          { "id": "gd-u4-q017", "question": "I want some ___.", "options": ["A. tea", "B. eggs", "C. hot dogs", "D. cupcakes"], "answer": "A", "answer_index": 0, "hint": "some 搭配不可數名詞，tea 是不可數。" },
+          { "id": "gd-u4-q018", "question": "What do you want? I want ___ hot dogs.", "options": ["A. some", "B. two", "C. a", "D. an"], "answer": "B", "answer_index": 1, "hint": "可數複數前用數字 two。" },
+          { "id": "gd-u4-q019", "question": "Which word means 杯子蛋糕？", "options": ["A. hot dog", "B. egg", "C. cupcake", "D. bread"], "answer": "C", "answer_index": 2, "hint": "cupcake = 杯子蛋糕。" },
+          { "id": "gd-u4-q020", "question": "I want some ___.", "options": ["A. egg", "B. hot dog", "C. cupcake", "D. juice"], "answer": "D", "answer_index": 3, "hint": "juice 是不可數，搭配 some。" },
+          { "id": "gd-u4-q021", "question": "What do you want? ___ want a cupcake.", "options": ["A. I", "B. She", "C. He", "D. You"], "answer": "A", "answer_index": 0, "hint": "回答 What do you want? 主詞用 I。" },
+          { "id": "gd-u4-q022", "question": "I want ___ bread.", "options": ["A. a", "B. some", "C. two", "D. an"], "answer": "B", "answer_index": 1, "hint": "bread 是不可數名詞，用 some。" },
+          { "id": "gd-u4-q023", "question": "What do you want? I want two ___.", "options": ["A. bread", "B. milk", "C. eggs", "D. juice"], "answer": "C", "answer_index": 2, "hint": "two 後面要用複數可數名詞，eggs 符合。" },
+          { "id": "gd-u4-q024", "question": "Which sentence is correct?", "options": ["A. I want a juice.", "B. I want some egg.", "C. I want two bread.", "D. I want some milk."], "answer": "D", "answer_index": 3, "hint": "milk 是不可數，用 some milk 正確。" },
+          { "id": "gd-u4-q025", "question": "What do you want? I want some ___.", "options": ["A. tea", "B. egg", "C. hot dog", "D. cupcake"], "answer": "A", "answer_index": 0, "hint": "some 搭配不可數名詞，tea 不可數。" },
+          { "id": "gd-u4-q026", "question": "I want ___ hot dog.", "options": ["A. some", "B. a", "C. two", "D. any"], "answer": "B", "answer_index": 1, "hint": "hot dog 可數單數，用 a。" },
+          { "id": "gd-u4-q027", "question": "What do ___ want? I want some bread.", "options": ["A. she", "B. he", "C. you", "D. they"], "answer": "C", "answer_index": 2, "hint": "回答是 I want，所以是問 you。" },
+          { "id": "gd-u4-q028", "question": "I want ___ eggs.", "options": ["A. a", "B. an", "C. some", "D. two"], "answer": "D", "answer_index": 3, "hint": "可數複數前用數字 two。" },
+          { "id": "gd-u4-q029", "question": "What do you want? I want ___ milk.", "options": ["A. some", "B. a", "C. two", "D. an"], "answer": "A", "answer_index": 0, "hint": "milk 是不可數名詞，用 some。" },
+          { "id": "gd-u4-q030", "question": "Which sentence is WRONG?", "options": ["A. I want some juice.", "B. I want a bread.", "C. I want two eggs.", "D. I want a hot dog."], "answer": "B", "answer_index": 1, "hint": "bread 是不可數，應用 some bread。" },
+          { "id": "gd-u4-q031", "question": "What do you want? I want ___ cupcake.", "options": ["A. some", "B. two", "C. a", "D. an"], "answer": "C", "answer_index": 2, "hint": "cupcake 可數單數，用 a。" },
+          { "id": "gd-u4-q032", "question": "Which word means 雞蛋？", "options": ["A. bread", "B. milk", "C. juice", "D. egg"], "answer": "D", "answer_index": 3, "hint": "egg = 雞蛋。" },
+          { "id": "gd-u4-q033", "question": "I want some ___.", "options": ["A. tea", "B. eggs", "C. hot dogs", "D. cupcakes"], "answer": "A", "answer_index": 0, "hint": "some 搭配不可數名詞，tea 不可數。" },
+          { "id": "gd-u4-q034", "question": "I want ___ eggs. （兩個）", "options": ["A. a", "B. two", "C. an", "D. the"], "answer": "B", "answer_index": 1, "hint": "兩個可數複數名詞用 two。" },
+          { "id": "gd-u4-q035", "question": "「你想要什麼？」用英文怎麼說？", "options": ["A. What you want?", "B. What are you want?", "C. What do you want?", "D. What is you want?"], "answer": "C", "answer_index": 2, "hint": "What do you want? 固定句型。" },
+          { "id": "gd-u4-q036", "question": "I want ___ juice.", "options": ["A. a", "B. an", "C. two", "D. some"], "answer": "D", "answer_index": 3, "hint": "juice 不可數，用 some。" },
+          { "id": "gd-u4-q037", "question": "What do you want? I ___ some tea.", "options": ["A. want", "B. wants", "C. am want", "D. can want"], "answer": "A", "answer_index": 0, "hint": "I want 動詞用原形 want。" },
+          { "id": "gd-u4-q038", "question": "I want ___ bread.", "options": ["A. a", "B. some", "C. two", "D. an"], "answer": "B", "answer_index": 1, "hint": "bread 不可數，用 some。" },
+          { "id": "gd-u4-q039", "question": "What do you want? I want ___ egg.", "options": ["A. some", "B. two", "C. an", "D. a lot"], "answer": "C", "answer_index": 2, "hint": "egg 以母音開頭，一個用 an。" },
+          { "id": "gd-u4-q040", "question": "Which sentence is correct?", "options": ["A. What do you wants?", "B. What does you want?", "C. What are you want?", "D. What do you want?"], "answer": "D", "answer_index": 3, "hint": "What do you want? 是固定正確句型。" },
+          { "id": "gd-u4-q041", "question": "I want ___ milk.", "options": ["A. some", "B. a", "C. an", "D. two"], "answer": "A", "answer_index": 0, "hint": "milk 不可數，用 some。" },
+          { "id": "gd-u4-q042", "question": "What do you want? I want a ___.", "options": ["A. juice", "B. hot dog", "C. milk", "D. bread"], "answer": "B", "answer_index": 1, "hint": "a 搭配可數單數名詞，hot dog 符合。" },
+          { "id": "gd-u4-q043", "question": "I want two ___.", "options": ["A. milk", "B. juice", "C. hot dogs", "D. tea"], "answer": "C", "answer_index": 2, "hint": "two 後用可數複數，hot dogs 符合。" },
+          { "id": "gd-u4-q044", "question": "What do you want? I want some ___.", "options": ["A. egg", "B. hot dog", "C. cupcake", "D. tea"], "answer": "D", "answer_index": 3, "hint": "some 搭配不可數，tea 是不可數。" },
+          { "id": "gd-u4-q045", "question": "___ you want some bread? Yes, please.", "options": ["A. Do", "B. Are", "C. Is", "D. Can"], "answer": "A", "answer_index": 0, "hint": "Do you want...? 詢問想要與否。" },
+          { "id": "gd-u4-q046", "question": "I want ___ cupcakes. （兩個）", "options": ["A. a", "B. two", "C. some", "D. an"], "answer": "B", "answer_index": 1, "hint": "兩個可數複數用 two。" },
+          { "id": "gd-u4-q047", "question": "What do you want? I ___ some juice.", "options": ["A. wants", "B. am", "C. want", "D. is"], "answer": "C", "answer_index": 2, "hint": "I want 動詞原形 want。" },
+          { "id": "gd-u4-q048", "question": "Which sentence is correct?", "options": ["A. I want some eggs? No.", "B. I want a milks.", "C. I want two bread.", "D. I want some bread."], "answer": "D", "answer_index": 3, "hint": "bread 不可數，some bread 正確。" },
+          { "id": "gd-u4-q049", "question": "I want ___ hot dog.", "options": ["A. a", "B. some", "C. two", "D. an"], "answer": "A", "answer_index": 0, "hint": "hot dog 可數單數，用 a。" },
+          { "id": "gd-u4-q050", "question": "What do you want? I want ___ milk.", "options": ["A. a", "B. some", "C. two", "D. an"], "answer": "B", "answer_index": 1, "hint": "milk 不可數，用 some。" }
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          { "id": "gd-u4-sv001", "vocab_id": "gd-u4-v001", "sentence": "I want a hot dog for lunch.", "sentence_chinese": "我午餐想要一個熱狗。" },
+          { "id": "gd-u4-sv002", "vocab_id": "gd-u4-v002", "sentence": "I want two eggs, please.", "sentence_chinese": "請給我兩個雞蛋。" },
+          { "id": "gd-u4-sv003", "vocab_id": "gd-u4-v003", "sentence": "I want some bread and milk.", "sentence_chinese": "我想要一些麵包和牛奶。" },
+          { "id": "gd-u4-sv004", "vocab_id": "gd-u4-v004", "sentence": "I want some juice. It is yummy.", "sentence_chinese": "我想要一些果汁。它很好喝。" },
+          { "id": "gd-u4-sv005", "vocab_id": "gd-u4-v005", "sentence": "What do you want? I want milk.", "sentence_chinese": "你想要什麼？我想要牛奶。" },
+          { "id": "gd-u4-sv006", "vocab_id": "gd-u4-v006", "sentence": "I want a cupcake. It looks yummy!", "sentence_chinese": "我想要一個杯子蛋糕。它看起來好吃！" },
+          { "id": "gd-u4-sv007", "vocab_id": "gd-u4-v007", "sentence": "I want some tea, please.", "sentence_chinese": "請給我一些茶。" }
+        ],
+        "phrases": [
+          { "id": "gd-u4-sp001", "phrase_id": "gd-u4-p001", "sentence": "Here you are. Enjoy your food!", "sentence_chinese": "給你。好好享用！" },
+          { "id": "gd-u4-sp002", "phrase_id": "gd-u4-p002", "sentence": "Hurry up! We are late.", "sentence_chinese": "快點！我們要遲到了。" }
+        ],
+        "grammar": [
+          { "id": "gd-u4-sg001", "sentence": "What do you want?", "sentence_chinese": "你想要什麼？" },
+          { "id": "gd-u4-sg002", "sentence": "I want a hot dog.", "sentence_chinese": "我想要一個熱狗。" },
+          { "id": "gd-u4-sg003", "sentence": "I want two eggs.", "sentence_chinese": "我想要兩個雞蛋。" },
+          { "id": "gd-u4-sg004", "sentence": "I want some juice.", "sentence_chinese": "我想要一些果汁。" },
+          { "id": "gd-u4-sg005", "sentence": "I want some milk.", "sentence_chinese": "我想要一些牛奶。" },
+          { "id": "gd-u4-sg006", "sentence": "I want some bread.", "sentence_chinese": "我想要一些麵包。" },
+          { "id": "gd-u4-sg007", "sentence": "I want a cupcake.", "sentence_chinese": "我想要一個杯子蛋糕。" },
+          { "id": "gd-u4-sg008", "sentence": "I want some tea.", "sentence_chinese": "我想要一些茶。" },
+          { "id": "gd-u4-sg009", "sentence": "What do you want? I want a hot dog.", "sentence_chinese": "你想要什麼？我想要一個熱狗。" },
+          { "id": "gd-u4-sg010", "sentence": "What do you want? I want two eggs.", "sentence_chinese": "你想要什麼？我想要兩個雞蛋。" },
+          { "id": "gd-u4-sg011", "sentence": "What do you want? I want some juice.", "sentence_chinese": "你想要什麼？我想要一些果汁。" },
+          { "id": "gd-u4-sg012", "sentence": "What do you want? I want some milk.", "sentence_chinese": "你想要什麼？我想要一些牛奶。" },
+          { "id": "gd-u4-sg013", "sentence": "I want some bread and milk.", "sentence_chinese": "我想要一些麵包和牛奶。" },
+          { "id": "gd-u4-sg014", "sentence": "I want a hot dog and some juice.", "sentence_chinese": "我想要一個熱狗和一些果汁。" },
+          { "id": "gd-u4-sg015", "sentence": "I want two eggs and some tea.", "sentence_chinese": "我想要兩個雞蛋和一些茶。" },
+          { "id": "gd-u4-sg016", "sentence": "Do you want some juice?", "sentence_chinese": "你想要一些果汁嗎？" },
+          { "id": "gd-u4-sg017", "sentence": "Yes, please.", "sentence_chinese": "好的，謝謝。" },
+          { "id": "gd-u4-sg018", "sentence": "Do you want a hot dog?", "sentence_chinese": "你想要一個熱狗嗎？" },
+          { "id": "gd-u4-sg019", "sentence": "No, thank you.", "sentence_chinese": "不了，謝謝。" },
+          { "id": "gd-u4-sg020", "sentence": "I want a cupcake and some milk.", "sentence_chinese": "我想要一個杯子蛋糕和一些牛奶。" },
+          { "id": "gd-u4-sg021", "sentence": "I want some tea and bread.", "sentence_chinese": "我想要一些茶和麵包。" },
+          { "id": "gd-u4-sg022", "sentence": "Do you want two eggs?", "sentence_chinese": "你想要兩個雞蛋嗎？" },
+          { "id": "gd-u4-sg023", "sentence": "Yes, I do.", "sentence_chinese": "是的，我想要。" },
+          { "id": "gd-u4-sg024", "sentence": "What do you want for lunch?", "sentence_chinese": "你午餐想要什麼？" },
+          { "id": "gd-u4-sg025", "sentence": "I want a hot dog and some juice.", "sentence_chinese": "我想要一個熱狗和一些果汁。" },
+          { "id": "gd-u4-sg026", "sentence": "I want some milk and bread.", "sentence_chinese": "我想要一些牛奶和麵包。" },
+          { "id": "gd-u4-sg027", "sentence": "I want two eggs and some tea.", "sentence_chinese": "我想要兩個雞蛋和一些茶。" },
+          { "id": "gd-u4-sg028", "sentence": "Do you want a cupcake?", "sentence_chinese": "你想要一個杯子蛋糕嗎？" },
+          { "id": "gd-u4-sg029", "sentence": "Yes, please!", "sentence_chinese": "好的，謝謝！" },
+          { "id": "gd-u4-sg030", "sentence": "I want some juice and a hot dog.", "sentence_chinese": "我想要一些果汁和一個熱狗。" }
+        ]
+      }
+    }
+  }
+}

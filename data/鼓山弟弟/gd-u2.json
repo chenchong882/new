@@ -1,0 +1,139 @@
+{
+  "units": {
+    "gd-u2": {
+      "title": "Unit 2",
+      "vocab": [
+        { "id": "gd-u2-v001", "word": "dance", "part_of_speech": "v.", "chinese": "跳舞", "sentence": "Can you dance? Yes, I can.", "sentence_chinese": "你會跳舞嗎？是的，我會。" },
+        { "id": "gd-u2-v002", "word": "draw", "part_of_speech": "v.", "chinese": "畫畫", "sentence": "She can draw very well.", "sentence_chinese": "她畫畫畫得很好。" },
+        { "id": "gd-u2-v003", "word": "fly", "part_of_speech": "v.", "chinese": "飛", "sentence": "Birds can fly in the sky.", "sentence_chinese": "鳥兒可以在天空中飛翔。" },
+        { "id": "gd-u2-v004", "word": "jump", "part_of_speech": "v.", "chinese": "跳", "sentence": "Can he jump? Yes, he can.", "sentence_chinese": "他會跳嗎？是的，他會。" },
+        { "id": "gd-u2-v005", "word": "read", "part_of_speech": "v.", "chinese": "閱讀", "sentence": "I can read this book.", "sentence_chinese": "我能讀這本書。" },
+        { "id": "gd-u2-v006", "word": "sing", "part_of_speech": "v.", "chinese": "唱歌", "sentence": "Can she sing? Yes, she can.", "sentence_chinese": "她會唱歌嗎？是的，她會。" },
+        { "id": "gd-u2-v007", "word": "swim", "part_of_speech": "v.", "chinese": "游泳", "sentence": "Can you swim? No, I can't.", "sentence_chinese": "你會游泳嗎？不，我不會。" }
+      ],
+      "phrases": [
+        { "id": "gd-u2-p001", "phrase": "Help!", "chinese": "救命！", "sentence": "Help! I can't swim.", "sentence_chinese": "救命！我不會游泳。" },
+        { "id": "gd-u2-p002", "phrase": "Of course.", "chinese": "當然。", "sentence": "Can you dance? Of course.", "sentence_chinese": "你會跳舞嗎？當然。" }
+      ],
+      "grammar": {
+        "tips": [
+          { "label": "Can you + 動詞？", "text": "詢問「你能/會...嗎？」用 Can you + 動詞原形？肯定回答 Yes, I can.，否定回答 No, I can't." },
+          { "label": "Can he/she + 動詞？", "text": "詢問「他/她能/會...嗎？」用 Can he/she + 動詞原形？肯定回答 Yes, he/she can.，否定回答 No, he/she can't." }
+        ],
+        "notes": [
+          {
+            "title": "Can you + 動詞原形？（詢問你的能力）",
+            "rule": "Can you + 動詞原形?",
+            "description": "用 Can you 開頭詢問對方是否有某種能力。動詞必須用原形。回答時用 Yes, I can. 或 No, I can't.",
+            "examples": ["Can you swim? Yes, I can.", "Can you fly? No, I can't.", "Can you dance? Yes, I can.", "Can you read? No, I can't."]
+          },
+          {
+            "title": "Can he/she + 動詞原形？（詢問他人的能力）",
+            "rule": "Can he/she + 動詞原形?",
+            "description": "用 Can he/she 開頭詢問第三者是否有某種能力。回答時用 Yes, he/she can. 或 No, he/she can't.",
+            "examples": ["Can he jump? Yes, he can.", "Can she sing? No, she can't.", "Can he draw? Yes, he can.", "Can she fly? No, she can't."]
+          }
+        ],
+        "quiz": [
+          { "id": "gd-u2-q001", "question": "Can you ___? Yes, I can.", "options": ["A. swim", "B. swimming", "C. swims", "D. swam"], "answer": "A", "answer_index": 0, "hint": "can 後面動詞用原形。" },
+          { "id": "gd-u2-q002", "question": "Can you swim? ___, I can.", "options": ["A. No", "B. Yes", "C. Not", "D. I'm"], "answer": "B", "answer_index": 1, "hint": "肯定回答用 Yes, I can." },
+          { "id": "gd-u2-q003", "question": "Can ___ sing? Yes, she can.", "options": ["A. I", "B. you", "C. she", "D. we"], "answer": "C", "answer_index": 2, "hint": "回答是 she can，所以主詞是 she。" },
+          { "id": "gd-u2-q004", "question": "Can he dance? No, he ___.", "options": ["A. can", "B. can't not", "C. not can", "D. can't"], "answer": "D", "answer_index": 3, "hint": "否定回答 No, he can't." },
+          { "id": "gd-u2-q005", "question": "___ you jump? Yes, I can.", "options": ["A. Can", "B. Are", "C. Is", "D. Do"], "answer": "A", "answer_index": 0, "hint": "詢問能力用 Can。" },
+          { "id": "gd-u2-q006", "question": "Which word means 畫畫？", "options": ["A. dance", "B. draw", "C. fly", "D. jump"], "answer": "B", "answer_index": 1, "hint": "draw = 畫畫。" },
+          { "id": "gd-u2-q007", "question": "Can she fly? No, she ___.", "options": ["A. can", "B. not can", "C. can't", "D. cants"], "answer": "C", "answer_index": 2, "hint": "否定回答 No, she can't." },
+          { "id": "gd-u2-q008", "question": "Which word means 唱歌？", "options": ["A. swim", "B. jump", "C. read", "D. sing"], "answer": "D", "answer_index": 3, "hint": "sing = 唱歌。" },
+          { "id": "gd-u2-q009", "question": "Can ___ read? Yes, he can.", "options": ["A. he", "B. I", "C. we", "D. they"], "answer": "A", "answer_index": 0, "hint": "回答是 he can，所以主詞是 he。" },
+          { "id": "gd-u2-q010", "question": "Can you dance? ___, I can't.", "options": ["A. Yes", "B. No", "C. Not", "D. Can"], "answer": "B", "answer_index": 1, "hint": "否定回答用 No, I can't." },
+          { "id": "gd-u2-q011", "question": "「她會跳嗎？」的正確英文是？", "options": ["A. Can she jumps?", "B. Are she jump?", "C. Can she jump?", "D. Is she jump?"], "answer": "C", "answer_index": 2, "hint": "Can she + 動詞原形？" },
+          { "id": "gd-u2-q012", "question": "Which word means 游泳？", "options": ["A. dance", "B. fly", "C. read", "D. swim"], "answer": "D", "answer_index": 3, "hint": "swim = 游泳。" },
+          { "id": "gd-u2-q013", "question": "Can you read? Yes, ___ can.", "options": ["A. I", "B. she", "C. he", "D. they"], "answer": "A", "answer_index": 0, "hint": "回答 Can you? 用 I can." },
+          { "id": "gd-u2-q014", "question": "Can he sing? No, ___ can't.", "options": ["A. she", "B. he", "C. I", "D. you"], "answer": "B", "answer_index": 1, "hint": "問 Can he? 否定回答用 he can't." },
+          { "id": "gd-u2-q015", "question": "___ she draw? Yes, she can.", "options": ["A. Is", "B. Are", "C. Can", "D. Do"], "answer": "C", "answer_index": 2, "hint": "詢問能力用 Can。" },
+          { "id": "gd-u2-q016", "question": "Which word means 跳舞？", "options": ["A. swim", "B. sing", "C. draw", "D. dance"], "answer": "D", "answer_index": 3, "hint": "dance = 跳舞。" },
+          { "id": "gd-u2-q017", "question": "Can you swim? ___, I can.", "options": ["A. Yes", "B. No", "C. Not", "D. Can't"], "answer": "A", "answer_index": 0, "hint": "肯定回答用 Yes, I can." },
+          { "id": "gd-u2-q018", "question": "Can she jump? No, she ___.", "options": ["A. can", "B. can't", "C. cans", "D. not can"], "answer": "B", "answer_index": 1, "hint": "否定回答 No, she can't." },
+          { "id": "gd-u2-q019", "question": "Can ___ fly? Yes, I can.", "options": ["A. she", "B. he", "C. you", "D. they"], "answer": "C", "answer_index": 2, "hint": "回答是 I can，所以是問 you。" },
+          { "id": "gd-u2-q020", "question": "Which word means 飛？", "options": ["A. jump", "B. swim", "C. sing", "D. fly"], "answer": "D", "answer_index": 3, "hint": "fly = 飛。" },
+          { "id": "gd-u2-q021", "question": "Can he ___? No, he can't.", "options": ["A. dance", "B. dancing", "C. danced", "D. dances"], "answer": "A", "answer_index": 0, "hint": "can 後面動詞用原形。" },
+          { "id": "gd-u2-q022", "question": "Can you sing? Yes, I ___.", "options": ["A. am", "B. can", "C. is", "D. do"], "answer": "B", "answer_index": 1, "hint": "肯定回答 Yes, I can." },
+          { "id": "gd-u2-q023", "question": "Can she read? ___, she can.", "options": ["A. No", "B. Not", "C. Yes", "D. She"], "answer": "C", "answer_index": 2, "hint": "肯定回答用 Yes, she can." },
+          { "id": "gd-u2-q024", "question": "Which sentence is correct?", "options": ["A. Can she sings?", "B. Can I dancing?", "C. Are you jump?", "D. Can he fly?"], "answer": "D", "answer_index": 3, "hint": "Can + 主詞 + 動詞原形？" },
+          { "id": "gd-u2-q025", "question": "___ he jump? No, he can't.", "options": ["A. Can", "B. Is", "C. Are", "D. Do"], "answer": "A", "answer_index": 0, "hint": "詢問能力用 Can。" },
+          { "id": "gd-u2-q026", "question": "Can you draw? Yes, ___ can.", "options": ["A. she", "B. I", "C. he", "D. they"], "answer": "B", "answer_index": 1, "hint": "回答 Can you? 用 I can." },
+          { "id": "gd-u2-q027", "question": "Can she swim? No, ___ can't.", "options": ["A. he", "B. I", "C. she", "D. you"], "answer": "C", "answer_index": 2, "hint": "問 Can she? 否定回答用 she can't." },
+          { "id": "gd-u2-q028", "question": "Which sentence is correct?", "options": ["A. Can she swims?", "B. Can I sings?", "C. Are he jump?", "D. Can you dance?"], "answer": "D", "answer_index": 3, "hint": "Can + 主詞 + 動詞原形？" },
+          { "id": "gd-u2-q029", "question": "Can you jump? No, I ___.", "options": ["A. can't", "B. can", "C. am not", "D. isn't"], "answer": "A", "answer_index": 0, "hint": "否定回答 No, I can't." },
+          { "id": "gd-u2-q030", "question": "Can he read? ___, he can.", "options": ["A. No", "B. Yes", "C. Not", "D. Is"], "answer": "B", "answer_index": 1, "hint": "肯定回答用 Yes, he can." },
+          { "id": "gd-u2-q031", "question": "「你會唱歌嗎？是的，我會。」用英文怎麼說？", "options": ["A. Can you sings? Yes, I can.", "B. Are you sing? Yes, I am.", "C. Can you sing? Yes, I can.", "D. Do you sing? Yes, I can."], "answer": "C", "answer_index": 2, "hint": "Can you sing? Yes, I can." },
+          { "id": "gd-u2-q032", "question": "Can she dance? No, she ___ dance.", "options": ["A. is not", "B. are not", "C. does not", "D. can't"], "answer": "D", "answer_index": 3, "hint": "否定用 can't。" },
+          { "id": "gd-u2-q033", "question": "Can ___ swim? No, I can't.", "options": ["A. you", "B. she", "C. he", "D. they"], "answer": "A", "answer_index": 0, "hint": "回答是 I can't，所以是問 you。" },
+          { "id": "gd-u2-q034", "question": "Can he draw? Yes, ___ can.", "options": ["A. she", "B. he", "C. I", "D. you"], "answer": "B", "answer_index": 1, "hint": "問 Can he? 肯定回答用 he can." },
+          { "id": "gd-u2-q035", "question": "___ you fly? No, I can't.", "options": ["A. Is", "B. Are", "C. Can", "D. Do"], "answer": "C", "answer_index": 2, "hint": "詢問能力用 Can。" },
+          { "id": "gd-u2-q036", "question": "「他不會跳舞。」用英文怎麼說？", "options": ["A. He can dance.", "B. Can he dance? Yes.", "C. He can't dances.", "D. He can't dance."], "answer": "D", "answer_index": 3, "hint": "He can't dance. can't 後用動詞原形。" },
+          { "id": "gd-u2-q037", "question": "Can she sing? ___, she can.", "options": ["A. Yes", "B. No", "C. Not", "D. Can't"], "answer": "A", "answer_index": 0, "hint": "肯定回答用 Yes, she can." },
+          { "id": "gd-u2-q038", "question": "Can you read? No, ___ can't.", "options": ["A. she", "B. I", "C. he", "D. you"], "answer": "B", "answer_index": 1, "hint": "回答 Can you? 否定用 I can't." },
+          { "id": "gd-u2-q039", "question": "Can he jump? No, ___ can't.", "options": ["A. she", "B. I", "C. he", "D. you"], "answer": "C", "answer_index": 2, "hint": "問 Can he? 否定回答用 he can't." },
+          { "id": "gd-u2-q040", "question": "Which sentence is correct?", "options": ["A. Can she swims?", "B. Can I am jump?", "C. Are he fly?", "D. Can you dance?"], "answer": "D", "answer_index": 3, "hint": "Can + 主詞 + 動詞原形。" },
+          { "id": "gd-u2-q041", "question": "Can she fly? ___, she can't.", "options": ["A. No", "B. Yes", "C. Not", "D. She"], "answer": "A", "answer_index": 0, "hint": "否定回答用 No, she can't." },
+          { "id": "gd-u2-q042", "question": "Can you sing? Yes, ___ can.", "options": ["A. she", "B. I", "C. he", "D. we"], "answer": "B", "answer_index": 1, "hint": "回答 Can you? 用 I can." },
+          { "id": "gd-u2-q043", "question": "Can ___ draw? Yes, he can.", "options": ["A. I", "B. she", "C. he", "D. you"], "answer": "C", "answer_index": 2, "hint": "回答是 he can，所以主詞是 he。" },
+          { "id": "gd-u2-q044", "question": "「我會游泳。」用英文怎麼說？", "options": ["A. I can swims.", "B. Can I swim?", "C. I am swim.", "D. I can swim."], "answer": "D", "answer_index": 3, "hint": "I can + 動詞原形。" },
+          { "id": "gd-u2-q045", "question": "Can you read? ___, I can.", "options": ["A. Yes", "B. No", "C. Not", "D. I'm"], "answer": "A", "answer_index": 0, "hint": "肯定回答用 Yes, I can." },
+          { "id": "gd-u2-q046", "question": "Can he dance? No, he ___.", "options": ["A. can", "B. can't", "C. cants", "D. cannot not"], "answer": "B", "answer_index": 1, "hint": "否定回答 No, he can't." },
+          { "id": "gd-u2-q047", "question": "Can ___ jump? Yes, I can.", "options": ["A. she", "B. he", "C. you", "D. they"], "answer": "C", "answer_index": 2, "hint": "回答是 I can，所以是問 you。" },
+          { "id": "gd-u2-q048", "question": "「她會畫畫嗎？不，她不會。」用英文怎麼說？", "options": ["A. Can she draws? No, she can't.", "B. Is she draw? No, she isn't.", "C. Can she draw? No, she is.", "D. Can she draw? No, she can't."], "answer": "D", "answer_index": 3, "hint": "Can she draw? No, she can't." },
+          { "id": "gd-u2-q049", "question": "Can she swim? No, she ___.", "options": ["A. can't", "B. can", "C. cants", "D. is not"], "answer": "A", "answer_index": 0, "hint": "否定回答 No, she can't." },
+          { "id": "gd-u2-q050", "question": "Can you dance? Yes, ___ can.", "options": ["A. she", "B. I", "C. he", "D. they"], "answer": "B", "answer_index": 1, "hint": "回答 Can you? 用 I can." }
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          { "id": "gd-u2-sv001", "vocab_id": "gd-u2-v001", "sentence": "Can you dance? Yes, I can.", "sentence_chinese": "你會跳舞嗎？是的，我會。" },
+          { "id": "gd-u2-sv002", "vocab_id": "gd-u2-v002", "sentence": "She can draw very well.", "sentence_chinese": "她畫畫畫得很好。" },
+          { "id": "gd-u2-sv003", "vocab_id": "gd-u2-v003", "sentence": "Birds can fly in the sky.", "sentence_chinese": "鳥兒可以在天空中飛翔。" },
+          { "id": "gd-u2-sv004", "vocab_id": "gd-u2-v004", "sentence": "Can he jump? Yes, he can.", "sentence_chinese": "他會跳嗎？是的，他會。" },
+          { "id": "gd-u2-sv005", "vocab_id": "gd-u2-v005", "sentence": "I can read this book.", "sentence_chinese": "我能讀這本書。" },
+          { "id": "gd-u2-sv006", "vocab_id": "gd-u2-v006", "sentence": "Can she sing? Yes, she can.", "sentence_chinese": "她會唱歌嗎？是的，她會。" },
+          { "id": "gd-u2-sv007", "vocab_id": "gd-u2-v007", "sentence": "Can you swim? No, I can't.", "sentence_chinese": "你會游泳嗎？不，我不會。" }
+        ],
+        "phrases": [
+          { "id": "gd-u2-sp001", "phrase_id": "gd-u2-p001", "sentence": "Help! I can't swim.", "sentence_chinese": "救命！我不會游泳。" },
+          { "id": "gd-u2-sp002", "phrase_id": "gd-u2-p002", "sentence": "Can you dance? Of course.", "sentence_chinese": "你會跳舞嗎？當然。" }
+        ],
+        "grammar": [
+          { "id": "gd-u2-sg001", "sentence": "Can you swim?", "sentence_chinese": "你會游泳嗎？" },
+          { "id": "gd-u2-sg002", "sentence": "Yes, I can.", "sentence_chinese": "是的，我會。" },
+          { "id": "gd-u2-sg003", "sentence": "No, I can't.", "sentence_chinese": "不，我不會。" },
+          { "id": "gd-u2-sg004", "sentence": "Can you dance?", "sentence_chinese": "你會跳舞嗎？" },
+          { "id": "gd-u2-sg005", "sentence": "Yes, I can.", "sentence_chinese": "是的，我會。" },
+          { "id": "gd-u2-sg006", "sentence": "Can you draw?", "sentence_chinese": "你會畫畫嗎？" },
+          { "id": "gd-u2-sg007", "sentence": "No, I can't.", "sentence_chinese": "不，我不會。" },
+          { "id": "gd-u2-sg008", "sentence": "Can you fly?", "sentence_chinese": "你能飛嗎？" },
+          { "id": "gd-u2-sg009", "sentence": "No, I can't.", "sentence_chinese": "不，我不能。" },
+          { "id": "gd-u2-sg010", "sentence": "Can you jump?", "sentence_chinese": "你能跳嗎？" },
+          { "id": "gd-u2-sg011", "sentence": "Yes, I can.", "sentence_chinese": "是的，我能。" },
+          { "id": "gd-u2-sg012", "sentence": "Can you read?", "sentence_chinese": "你能閱讀嗎？" },
+          { "id": "gd-u2-sg013", "sentence": "Yes, I can.", "sentence_chinese": "是的，我能。" },
+          { "id": "gd-u2-sg014", "sentence": "Can you sing?", "sentence_chinese": "你會唱歌嗎？" },
+          { "id": "gd-u2-sg015", "sentence": "No, I can't.", "sentence_chinese": "不，我不會。" },
+          { "id": "gd-u2-sg016", "sentence": "Can he swim?", "sentence_chinese": "他會游泳嗎？" },
+          { "id": "gd-u2-sg017", "sentence": "Yes, he can.", "sentence_chinese": "是的，他會。" },
+          { "id": "gd-u2-sg018", "sentence": "No, he can't.", "sentence_chinese": "不，他不會。" },
+          { "id": "gd-u2-sg019", "sentence": "Can she sing?", "sentence_chinese": "她會唱歌嗎？" },
+          { "id": "gd-u2-sg020", "sentence": "Yes, she can.", "sentence_chinese": "是的，她會。" },
+          { "id": "gd-u2-sg021", "sentence": "No, she can't.", "sentence_chinese": "不，她不會。" },
+          { "id": "gd-u2-sg022", "sentence": "Can he dance?", "sentence_chinese": "他會跳舞嗎？" },
+          { "id": "gd-u2-sg023", "sentence": "Yes, he can.", "sentence_chinese": "是的，他會。" },
+          { "id": "gd-u2-sg024", "sentence": "Can she draw?", "sentence_chinese": "她會畫畫嗎？" },
+          { "id": "gd-u2-sg025", "sentence": "No, she can't.", "sentence_chinese": "不，她不會。" },
+          { "id": "gd-u2-sg026", "sentence": "Can he fly?", "sentence_chinese": "他能飛嗎？" },
+          { "id": "gd-u2-sg027", "sentence": "No, he can't.", "sentence_chinese": "不，他不能。" },
+          { "id": "gd-u2-sg028", "sentence": "Can she jump?", "sentence_chinese": "她能跳嗎？" },
+          { "id": "gd-u2-sg029", "sentence": "Yes, she can.", "sentence_chinese": "是的，她能。" },
+          { "id": "gd-u2-sg030", "sentence": "Can he read?", "sentence_chinese": "他能閱讀嗎？" }
+        ]
+      }
+    }
+  }
+}

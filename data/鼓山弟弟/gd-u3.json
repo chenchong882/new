@@ -1,0 +1,137 @@
+{
+  "units": {
+    "gd-u3": {
+      "title": "Unit 3",
+      "vocab": [
+        { "id": "gd-u3-v001", "word": "apples", "part_of_speech": "n. [pl.]", "chinese": "蘋果", "sentence": "Do you like apples? Yes, I do.", "sentence_chinese": "你喜歡蘋果嗎？是的，我喜歡。" },
+        { "id": "gd-u3-v002", "word": "bananas", "part_of_speech": "n. [pl.]", "chinese": "香蕉", "sentence": "What are these? They're bananas.", "sentence_chinese": "這些是什麼？它們是香蕉。" },
+        { "id": "gd-u3-v003", "word": "grapes", "part_of_speech": "n. [pl.]", "chinese": "葡萄", "sentence": "I like grapes. They are sweet.", "sentence_chinese": "我喜歡葡萄。它們很甜。" },
+        { "id": "gd-u3-v004", "word": "oranges", "part_of_speech": "n. [pl.]", "chinese": "柳橙", "sentence": "What are those? They're oranges.", "sentence_chinese": "那些是什麼？它們是柳橙。" },
+        { "id": "gd-u3-v005", "word": "papayas", "part_of_speech": "n. [pl.]", "chinese": "木瓜", "sentence": "Do you like papayas? No, I don't.", "sentence_chinese": "你喜歡木瓜嗎？不，我不喜歡。" },
+        { "id": "gd-u3-v006", "word": "watermelons", "part_of_speech": "n. [pl.]", "chinese": "西瓜", "sentence": "What are those? They're watermelons.", "sentence_chinese": "那些是什麼？它們是西瓜。" }
+      ],
+      "phrases": [
+        { "id": "gd-u3-p001", "phrase": "Yummy!", "chinese": "好吃！", "sentence": "These apples are yummy!", "sentence_chinese": "這些蘋果好吃！" },
+        { "id": "gd-u3-p002", "phrase": "Yuck!", "chinese": "噁心！", "sentence": "Yuck! I don't like papayas.", "sentence_chinese": "噁心！我不喜歡木瓜。" }
+      ],
+      "grammar": {
+        "tips": [
+          { "label": "What are these/those?", "text": "詢問「這些/那些是什麼？」用 What are these/those? 回答用 They're + 複數名詞。" },
+          { "label": "Do you like...?", "text": "詢問「你喜歡...嗎？」用 Do you like + 名詞？肯定回答 Yes, I do.，否定回答 No, I don't." }
+        ],
+        "notes": [
+          {
+            "title": "What are these/those?（詢問這些/那些是什麼）",
+            "rule": "What are these/those? They're + 複數名詞.",
+            "description": "near（近）用 these，far（遠）用 those。回答用 They're + 複數名詞。",
+            "examples": ["What are these? They're apples.", "What are those? They're bananas.", "What are these? They're grapes.", "What are those? They're watermelons."]
+          },
+          {
+            "title": "Do you like + 名詞？（詢問喜好）",
+            "rule": "Do you like + 名詞?",
+            "description": "詢問喜好用 Do you like + 名詞？肯定回答 Yes, I do. 否定回答 No, I don't.",
+            "examples": ["Do you like apples? Yes, I do.", "Do you like papayas? No, I don't.", "Do you like grapes? Yes, I do.", "Do you like oranges? No, I don't."]
+          }
+        ],
+        "quiz": [
+          { "id": "gd-u3-q001", "question": "What are ___? They're apples.", "options": ["A. these", "B. this", "C. that", "D. it"], "answer": "A", "answer_index": 0, "hint": "複數用 these（近）或 those（遠）。" },
+          { "id": "gd-u3-q002", "question": "What are those? They're ___.", "options": ["A. apple", "B. bananas", "C. banana", "D. a banana"], "answer": "B", "answer_index": 1, "hint": "They're 後面接複數名詞。" },
+          { "id": "gd-u3-q003", "question": "Do you like grapes? ___, I do.", "options": ["A. No", "B. Not", "C. Yes", "D. Do"], "answer": "C", "answer_index": 2, "hint": "肯定回答用 Yes, I do." },
+          { "id": "gd-u3-q004", "question": "Do you like papayas? No, I ___.", "options": ["A. do", "B. don't not", "C. not do", "D. don't"], "answer": "D", "answer_index": 3, "hint": "否定回答 No, I don't." },
+          { "id": "gd-u3-q005", "question": "___ are these? They're oranges.", "options": ["A. What", "B. Where", "C. Who", "D. When"], "answer": "A", "answer_index": 0, "hint": "詢問「是什麼」用 What。" },
+          { "id": "gd-u3-q006", "question": "Which word means 香蕉？", "options": ["A. apples", "B. bananas", "C. grapes", "D. oranges"], "answer": "B", "answer_index": 1, "hint": "bananas = 香蕉。" },
+          { "id": "gd-u3-q007", "question": "What are those? They're ___.", "options": ["A. watermelon", "B. a watermelon", "C. watermelons", "D. the watermelon"], "answer": "C", "answer_index": 2, "hint": "They're 後面接複數名詞。" },
+          { "id": "gd-u3-q008", "question": "Which word means 葡萄？", "options": ["A. apples", "B. oranges", "C. papayas", "D. grapes"], "answer": "D", "answer_index": 3, "hint": "grapes = 葡萄。" },
+          { "id": "gd-u3-q009", "question": "Do you like oranges? No, I ___.", "options": ["A. don't", "B. do", "C. does", "D. doesn't"], "answer": "A", "answer_index": 0, "hint": "否定回答 No, I don't." },
+          { "id": "gd-u3-q010", "question": "What are ___? They're papayas.", "options": ["A. this", "B. those", "C. that", "D. it"], "answer": "B", "answer_index": 1, "hint": "複數遠處用 those。" },
+          { "id": "gd-u3-q011", "question": "___ you like apples? Yes, I do.", "options": ["A. Are", "B. Is", "C. Do", "D. Can"], "answer": "C", "answer_index": 2, "hint": "詢問喜好用 Do you like?" },
+          { "id": "gd-u3-q012", "question": "Which word means 木瓜？", "options": ["A. grapes", "B. bananas", "C. oranges", "D. papayas"], "answer": "D", "answer_index": 3, "hint": "papayas = 木瓜。" },
+          { "id": "gd-u3-q013", "question": "What are these? They're ___.", "options": ["A. grapes", "B. grape", "C. a grape", "D. the grape"], "answer": "A", "answer_index": 0, "hint": "They're 後面接複數名詞。" },
+          { "id": "gd-u3-q014", "question": "Do you like watermelons? ___, I don't.", "options": ["A. Yes", "B. No", "C. Not", "D. Do"], "answer": "B", "answer_index": 1, "hint": "否定回答用 No, I don't." },
+          { "id": "gd-u3-q015", "question": "What are ___? They're bananas.", "options": ["A. this", "B. that", "C. these", "D. it"], "answer": "C", "answer_index": 2, "hint": "複數近處用 these。" },
+          { "id": "gd-u3-q016", "question": "Which word means 西瓜？", "options": ["A. apples", "B. grapes", "C. oranges", "D. watermelons"], "answer": "D", "answer_index": 3, "hint": "watermelons = 西瓜。" },
+          { "id": "gd-u3-q017", "question": "What are those? They're ___.", "options": ["A. apples", "B. apple", "C. an apple", "D. the apple"], "answer": "A", "answer_index": 0, "hint": "They're 後面接複數名詞。" },
+          { "id": "gd-u3-q018", "question": "Do you like bananas? ___, I do.", "options": ["A. No", "B. Yes", "C. Not", "D. Don't"], "answer": "B", "answer_index": 1, "hint": "肯定回答用 Yes, I do." },
+          { "id": "gd-u3-q019", "question": "Which word means 柳橙？", "options": ["A. apples", "B. bananas", "C. oranges", "D. papayas"], "answer": "C", "answer_index": 2, "hint": "oranges = 柳橙。" },
+          { "id": "gd-u3-q020", "question": "Do you like grapes? Yes, ___ do.", "options": ["A. she", "B. he", "C. they", "D. I"], "answer": "D", "answer_index": 3, "hint": "回答 Do you? 用 I do." },
+          { "id": "gd-u3-q021", "question": "What ___ those? They're oranges.", "options": ["A. are", "B. is", "C. am", "D. do"], "answer": "A", "answer_index": 0, "hint": "複數主詞（those）用 are。" },
+          { "id": "gd-u3-q022", "question": "Do you like apples? No, I don't. I like ___.", "options": ["A. apple", "B. bananas", "C. banana", "D. a banana"], "answer": "B", "answer_index": 1, "hint": "like 後面接複數名詞。" },
+          { "id": "gd-u3-q023", "question": "「那些是什麼？它們是西瓜。」用英文怎麼說？", "options": ["A. What are these? They're watermelons.", "B. What is those? They're watermelons.", "C. What are those? They're watermelons.", "D. What are those? They're watermelon."], "answer": "C", "answer_index": 2, "hint": "遠處用 those；回答用複數 watermelons。" },
+          { "id": "gd-u3-q024", "question": "Which sentence is correct?", "options": ["A. What is these? They're apples.", "B. What are this? They're bananas.", "C. What is those? They're grapes.", "D. What are those? They're oranges."], "answer": "D", "answer_index": 3, "hint": "複數主詞用 are，these/those 是複數。" },
+          { "id": "gd-u3-q025", "question": "Do you like watermelons? ___, I do.", "options": ["A. Yes", "B. No", "C. Not", "D. Won't"], "answer": "A", "answer_index": 0, "hint": "肯定回答用 Yes, I do." },
+          { "id": "gd-u3-q026", "question": "What are these? They're ___.", "options": ["A. watermelon", "B. grapes", "C. grape", "D. a grape"], "answer": "B", "answer_index": 1, "hint": "They're 後面接複數名詞。" },
+          { "id": "gd-u3-q027", "question": "Do you like papayas? No, ___ don't.", "options": ["A. she", "B. he", "C. I", "D. they"], "answer": "C", "answer_index": 2, "hint": "回答 Do you? 用 I don't." },
+          { "id": "gd-u3-q028", "question": "Which word means 蘋果？", "options": ["A. bananas", "B. grapes", "C. oranges", "D. apples"], "answer": "D", "answer_index": 3, "hint": "apples = 蘋果。" },
+          { "id": "gd-u3-q029", "question": "What ___ these? They're bananas.", "options": ["A. are", "B. is", "C. do", "D. am"], "answer": "A", "answer_index": 0, "hint": "複數主詞（these）用 are。" },
+          { "id": "gd-u3-q030", "question": "Do you like oranges? Yes, ___ do.", "options": ["A. she", "B. I", "C. he", "D. they"], "answer": "B", "answer_index": 1, "hint": "回答 Do you? 用 I do." },
+          { "id": "gd-u3-q031", "question": "「這些是什麼？它們是葡萄。」用英文怎麼說？", "options": ["A. What is these? They're grapes.", "B. What are this? They're grapes.", "C. What are those? They're grapes.", "D. What are these? They're grapes."], "answer": "D", "answer_index": 3, "hint": "近處用 these；回答用複數 grapes。" },
+          { "id": "gd-u3-q032", "question": "Do you like grapes? No, I ___.", "options": ["A. do", "B. does", "C. does not", "D. don't"], "answer": "D", "answer_index": 3, "hint": "否定回答 No, I don't." },
+          { "id": "gd-u3-q033", "question": "What are those? They're ___.", "options": ["A. papayas", "B. papaya", "C. a papaya", "D. the papaya"], "answer": "A", "answer_index": 0, "hint": "They're 後面接複數名詞。" },
+          { "id": "gd-u3-q034", "question": "Do you ___ apples? Yes, I do.", "options": ["A. are", "B. like", "C. is", "D. can"], "answer": "B", "answer_index": 1, "hint": "Do you like + 名詞？" },
+          { "id": "gd-u3-q035", "question": "Do you like bananas? No, ___ don't.", "options": ["A. she", "B. he", "C. I", "D. they"], "answer": "C", "answer_index": 2, "hint": "回答 Do you? 用 I don't." },
+          { "id": "gd-u3-q036", "question": "「你喜歡蘋果嗎？是的，我喜歡。」用英文怎麼說？", "options": ["A. Are you like apples? Yes, I am.", "B. Do you like apple? Yes, I do.", "C. Do you like apples? No, I don't.", "D. Do you like apples? Yes, I do."], "answer": "D", "answer_index": 3, "hint": "Do you like apples? Yes, I do." },
+          { "id": "gd-u3-q037", "question": "What are ___? They're grapes.", "options": ["A. these", "B. this", "C. that", "D. it"], "answer": "A", "answer_index": 0, "hint": "複數近處用 these。" },
+          { "id": "gd-u3-q038", "question": "Do you like watermelons? ___, I don't.", "options": ["A. Yes", "B. No", "C. Not", "D. Won't"], "answer": "B", "answer_index": 1, "hint": "否定回答用 No, I don't." },
+          { "id": "gd-u3-q039", "question": "What are those? They're ___.", "options": ["A. orange", "B. an orange", "C. oranges", "D. the orange"], "answer": "C", "answer_index": 2, "hint": "They're 後面接複數名詞 oranges。" },
+          { "id": "gd-u3-q040", "question": "Which sentence is WRONG?", "options": ["A. What are these? They're apples.", "B. Do you like bananas? Yes, I do.", "C. What are those? They're grapes.", "D. Do you like watermelon? Yes, I do."], "answer": "D", "answer_index": 3, "hint": "應為 Do you like watermelons?（複數）。" },
+          { "id": "gd-u3-q041", "question": "Do you like papayas? ___, I do.", "options": ["A. Yes", "B. No", "C. Not", "D. Don't"], "answer": "A", "answer_index": 0, "hint": "肯定回答用 Yes, I do." },
+          { "id": "gd-u3-q042", "question": "What are these? ___ bananas.", "options": ["A. It's", "B. They're", "C. He's", "D. She's"], "answer": "B", "answer_index": 1, "hint": "複數用 They're。" },
+          { "id": "gd-u3-q043", "question": "Do you like apples? No, I ___ apples.", "options": ["A. do like", "B. like", "C. don't like", "D. likes"], "answer": "C", "answer_index": 2, "hint": "否定用 don't like。" },
+          { "id": "gd-u3-q044", "question": "What are ___? They're papayas.", "options": ["A. this", "B. it", "C. that", "D. those"], "answer": "D", "answer_index": 3, "hint": "複數遠處用 those。" },
+          { "id": "gd-u3-q045", "question": "Do ___ like grapes? Yes, I do.", "options": ["A. you", "B. he", "C. she", "D. it"], "answer": "A", "answer_index": 0, "hint": "回答是 I do，所以是問 you。" },
+          { "id": "gd-u3-q046", "question": "What are these? They're ___.", "options": ["A. watermelon", "B. oranges", "C. orange", "D. a orange"], "answer": "B", "answer_index": 1, "hint": "They're 後面接複數名詞 oranges。" },
+          { "id": "gd-u3-q047", "question": "Do you like bananas? ___, I don't.", "options": ["A. Yes", "B. Am", "C. No", "D. Not"], "answer": "C", "answer_index": 2, "hint": "否定回答用 No, I don't." },
+          { "id": "gd-u3-q048", "question": "「這些是什麼？它們是木瓜。」用英文怎麼說？", "options": ["A. What is these? They're papayas.", "B. What are this? They're papayas.", "C. What are those? They're papayas.", "D. What are these? They're papayas."], "answer": "D", "answer_index": 3, "hint": "近處用 these；回答用複數 papayas。" },
+          { "id": "gd-u3-q049", "question": "What are those? ___ oranges.", "options": ["A. They're", "B. It's", "C. He's", "D. She's"], "answer": "A", "answer_index": 0, "hint": "複數用 They're。" },
+          { "id": "gd-u3-q050", "question": "Do you like watermelons? Yes, I ___.", "options": ["A. am", "B. do", "C. can", "D. are"], "answer": "B", "answer_index": 1, "hint": "肯定回答 Yes, I do." }
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          { "id": "gd-u3-sv001", "vocab_id": "gd-u3-v001", "sentence": "Do you like apples? Yes, I do.", "sentence_chinese": "你喜歡蘋果嗎？是的，我喜歡。" },
+          { "id": "gd-u3-sv002", "vocab_id": "gd-u3-v002", "sentence": "What are these? They're bananas.", "sentence_chinese": "這些是什麼？它們是香蕉。" },
+          { "id": "gd-u3-sv003", "vocab_id": "gd-u3-v003", "sentence": "I like grapes. They are sweet.", "sentence_chinese": "我喜歡葡萄。它們很甜。" },
+          { "id": "gd-u3-sv004", "vocab_id": "gd-u3-v004", "sentence": "What are those? They're oranges.", "sentence_chinese": "那些是什麼？它們是柳橙。" },
+          { "id": "gd-u3-sv005", "vocab_id": "gd-u3-v005", "sentence": "Do you like papayas? No, I don't.", "sentence_chinese": "你喜歡木瓜嗎？不，我不喜歡。" },
+          { "id": "gd-u3-sv006", "vocab_id": "gd-u3-v006", "sentence": "What are those? They're watermelons.", "sentence_chinese": "那些是什麼？它們是西瓜。" }
+        ],
+        "phrases": [
+          { "id": "gd-u3-sp001", "phrase_id": "gd-u3-p001", "sentence": "These apples are yummy!", "sentence_chinese": "這些蘋果好吃！" },
+          { "id": "gd-u3-sp002", "phrase_id": "gd-u3-p002", "sentence": "Yuck! I don't like papayas.", "sentence_chinese": "噁心！我不喜歡木瓜。" }
+        ],
+        "grammar": [
+          { "id": "gd-u3-sg001", "sentence": "What are these?", "sentence_chinese": "這些是什麼？" },
+          { "id": "gd-u3-sg002", "sentence": "They're apples.", "sentence_chinese": "它們是蘋果。" },
+          { "id": "gd-u3-sg003", "sentence": "What are those?", "sentence_chinese": "那些是什麼？" },
+          { "id": "gd-u3-sg004", "sentence": "They're bananas.", "sentence_chinese": "它們是香蕉。" },
+          { "id": "gd-u3-sg005", "sentence": "What are these?", "sentence_chinese": "這些是什麼？" },
+          { "id": "gd-u3-sg006", "sentence": "They're grapes.", "sentence_chinese": "它們是葡萄。" },
+          { "id": "gd-u3-sg007", "sentence": "What are those?", "sentence_chinese": "那些是什麼？" },
+          { "id": "gd-u3-sg008", "sentence": "They're oranges.", "sentence_chinese": "它們是柳橙。" },
+          { "id": "gd-u3-sg009", "sentence": "What are these?", "sentence_chinese": "這些是什麼？" },
+          { "id": "gd-u3-sg010", "sentence": "They're papayas.", "sentence_chinese": "它們是木瓜。" },
+          { "id": "gd-u3-sg011", "sentence": "What are those?", "sentence_chinese": "那些是什麼？" },
+          { "id": "gd-u3-sg012", "sentence": "They're watermelons.", "sentence_chinese": "它們是西瓜。" },
+          { "id": "gd-u3-sg013", "sentence": "Do you like apples?", "sentence_chinese": "你喜歡蘋果嗎？" },
+          { "id": "gd-u3-sg014", "sentence": "Yes, I do.", "sentence_chinese": "是的，我喜歡。" },
+          { "id": "gd-u3-sg015", "sentence": "No, I don't.", "sentence_chinese": "不，我不喜歡。" },
+          { "id": "gd-u3-sg016", "sentence": "Do you like bananas?", "sentence_chinese": "你喜歡香蕉嗎？" },
+          { "id": "gd-u3-sg017", "sentence": "Yes, I do.", "sentence_chinese": "是的，我喜歡。" },
+          { "id": "gd-u3-sg018", "sentence": "Do you like grapes?", "sentence_chinese": "你喜歡葡萄嗎？" },
+          { "id": "gd-u3-sg019", "sentence": "No, I don't.", "sentence_chinese": "不，我不喜歡。" },
+          { "id": "gd-u3-sg020", "sentence": "Do you like oranges?", "sentence_chinese": "你喜歡柳橙嗎？" },
+          { "id": "gd-u3-sg021", "sentence": "Yes, I do.", "sentence_chinese": "是的，我喜歡。" },
+          { "id": "gd-u3-sg022", "sentence": "Do you like papayas?", "sentence_chinese": "你喜歡木瓜嗎？" },
+          { "id": "gd-u3-sg023", "sentence": "No, I don't.", "sentence_chinese": "不，我不喜歡。" },
+          { "id": "gd-u3-sg024", "sentence": "Do you like watermelons?", "sentence_chinese": "你喜歡西瓜嗎？" },
+          { "id": "gd-u3-sg025", "sentence": "Yes, I do.", "sentence_chinese": "是的，我喜歡。" },
+          { "id": "gd-u3-sg026", "sentence": "What are these? They're grapes.", "sentence_chinese": "這些是什麼？它們是葡萄。" },
+          { "id": "gd-u3-sg027", "sentence": "What are those? They're papayas.", "sentence_chinese": "那些是什麼？它們是木瓜。" },
+          { "id": "gd-u3-sg028", "sentence": "Do you like apples? No, I don't.", "sentence_chinese": "你喜歡蘋果嗎？不，我不喜歡。" },
+          { "id": "gd-u3-sg029", "sentence": "Do you like bananas? Yes, I do.", "sentence_chinese": "你喜歡香蕉嗎？是的，我喜歡。" },
+          { "id": "gd-u3-sg030", "sentence": "Do you like watermelons? No, I don't.", "sentence_chinese": "你喜歡西瓜嗎？不，我不喜歡。" }
+        ]
+      }
+    }
+  }
+}

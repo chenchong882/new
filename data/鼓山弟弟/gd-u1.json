@@ -1,0 +1,139 @@
+{
+  "units": {
+    "gd-u1": {
+      "title": "Unit 1",
+      "vocab": [
+        { "id": "gd-u1-v001", "word": "angry", "part_of_speech": "adj.", "chinese": "生氣的", "sentence": "Tom is angry because he lost his pencil.", "sentence_chinese": "Tom 因為遺失鉛筆而生氣。" },
+        { "id": "gd-u1-v002", "word": "thirsty", "part_of_speech": "adj.", "chinese": "口渴的", "sentence": "I am thirsty. I want some juice.", "sentence_chinese": "我口渴了。我想喝果汁。" },
+        { "id": "gd-u1-v003", "word": "happy", "part_of_speech": "adj.", "chinese": "快樂的", "sentence": "Are you happy today? Yes, I am.", "sentence_chinese": "你今天快樂嗎？是的，我是。" },
+        { "id": "gd-u1-v004", "word": "hungry", "part_of_speech": "adj.", "chinese": "飢餓的", "sentence": "She is hungry. She wants a hot dog.", "sentence_chinese": "她肚子餓了。她想要一個熱狗。" },
+        { "id": "gd-u1-v005", "word": "sad", "part_of_speech": "adj.", "chinese": "難過的", "sentence": "Is he sad? Yes, he is.", "sentence_chinese": "他難過嗎？是的，他是。" },
+        { "id": "gd-u1-v006", "word": "sick", "part_of_speech": "adj.", "chinese": "生病的", "sentence": "I am sick today. I can't go to school.", "sentence_chinese": "我今天生病了。我不能去學校。" },
+        { "id": "gd-u1-v007", "word": "tired", "part_of_speech": "adj.", "chinese": "疲倦的", "sentence": "She is tired. She wants to sleep.", "sentence_chinese": "她很累。她想睡覺。" }
+      ],
+      "phrases": [
+        { "id": "gd-u1-p001", "phrase": "Watch out!", "chinese": "小心！", "sentence": "Watch out! A car is coming.", "sentence_chinese": "小心！有車來了。" },
+        { "id": "gd-u1-p002", "phrase": "Are you OK?", "chinese": "你還好嗎？", "sentence": "Are you OK? No, I'm not. I'm sick.", "sentence_chinese": "你還好嗎？不，我不好。我生病了。" }
+      ],
+      "grammar": {
+        "tips": [
+          { "label": "Are you + 形容詞？", "text": "詢問「你是否...」用 Are you + 形容詞？肯定回答 Yes, I am.，否定回答 No, I'm not." },
+          { "label": "Is he/she + 形容詞？", "text": "詢問「他/她是否...」用 Is he/she + 形容詞？肯定回答 Yes, he/she is.，否定回答 No, he/she isn't." }
+        ],
+        "notes": [
+          {
+            "title": "Are you + 形容詞？（詢問你的狀態）",
+            "rule": "Are you + 形容詞?",
+            "description": "用 Are you 開頭詢問對方的狀態或感覺。回答時用 Yes, I am. 或 No, I'm not.",
+            "examples": ["Are you happy? Yes, I am.", "Are you sad? No, I'm not.", "Are you tired? Yes, I am.", "Are you angry? No, I'm not."]
+          },
+          {
+            "title": "Is he/she + 形容詞？（詢問他人的狀態）",
+            "rule": "Is he/she + 形容詞?",
+            "description": "用 Is he/she 開頭詢問第三者的狀態。回答時用 Yes, he/she is. 或 No, he/she isn't.",
+            "examples": ["Is he sad? Yes, he is.", "Is she happy? No, she isn't.", "Is he sick? Yes, he is.", "Is she tired? No, she isn't."]
+          }
+        ],
+        "quiz": [
+          { "id": "gd-u1-q001", "question": "___ you happy? Yes, I am.", "options": ["A. Are", "B. Is", "C. Do", "D. Can"], "answer": "A", "answer_index": 0, "hint": "詢問 you 的狀態用 Are you。" },
+          { "id": "gd-u1-q002", "question": "Are you sad? ___, I am.", "options": ["A. Not", "B. Yes", "C. No", "D. I'm"], "answer": "B", "answer_index": 1, "hint": "肯定回答用 Yes, I am." },
+          { "id": "gd-u1-q003", "question": "Is he ___? Yes, he is. He can't go to school.", "options": ["A. anger", "B. tiredly", "C. sick", "D. sadness"], "answer": "C", "answer_index": 2, "hint": "不能上學通常是生病（sick）。" },
+          { "id": "gd-u1-q004", "question": "Are you tired? No, I'm ___.", "options": ["A. not am", "B. am not", "C. isn't", "D. not"], "answer": "D", "answer_index": 3, "hint": "No, I'm not. 中 not 放在 I'm 後面。" },
+          { "id": "gd-u1-q005", "question": "Is ___ sad? No, she isn't.", "options": ["A. she", "B. I", "C. we", "D. they"], "answer": "A", "answer_index": 0, "hint": "Is 搭配 he 或 she（第三人稱單數）。" },
+          { "id": "gd-u1-q006", "question": "Which word means 口渴的？", "options": ["A. hungry", "B. thirsty", "C. tired", "D. sick"], "answer": "B", "answer_index": 1, "hint": "thirsty = 口渴的。" },
+          { "id": "gd-u1-q007", "question": "Are you angry? Yes, ___ am.", "options": ["A. he", "B. she", "C. I", "D. they"], "answer": "C", "answer_index": 2, "hint": "回答 Are you...? 時用 I am." },
+          { "id": "gd-u1-q008", "question": "Is she happy? No, she ___.", "options": ["A. is", "B. isn't not", "C. not is", "D. isn't"], "answer": "D", "answer_index": 3, "hint": "否定回答 No, she isn't." },
+          { "id": "gd-u1-q009", "question": "「他難過嗎？」用英文怎麼說？", "options": ["A. Is he sad?", "B. Are he sad?", "C. Is he sadness?", "D. Do he sad?"], "answer": "A", "answer_index": 0, "hint": "第三人稱單數用 Is he + 形容詞？" },
+          { "id": "gd-u1-q010", "question": "Is he tired? Yes, ___ is.", "options": ["A. she", "B. he", "C. I", "D. you"], "answer": "B", "answer_index": 1, "hint": "問 Is he...? 回答用 he is." },
+          { "id": "gd-u1-q011", "question": "Are you hungry? ___, I'm not.", "options": ["A. Yes", "B. Am", "C. No", "D. Not"], "answer": "C", "answer_index": 2, "hint": "否定回答用 No, I'm not." },
+          { "id": "gd-u1-q012", "question": "Which word means 生氣的？", "options": ["A. happy", "B. sad", "C. sick", "D. angry"], "answer": "D", "answer_index": 3, "hint": "angry = 生氣的。" },
+          { "id": "gd-u1-q013", "question": "Is she ___? Yes, she is. She can't go to school.", "options": ["A. sick", "B. happy", "C. thirsty", "D. hungry"], "answer": "A", "answer_index": 0, "hint": "不能上學是因為生病（sick）。" },
+          { "id": "gd-u1-q014", "question": "Are you happy? No, I'm ___.", "options": ["A. am not", "B. not", "C. not am", "D. isn't"], "answer": "B", "answer_index": 1, "hint": "No, I'm not. 用 not。" },
+          { "id": "gd-u1-q015", "question": "___ he angry? No, he isn't.", "options": ["A. Are", "B. Do", "C. Is", "D. Can"], "answer": "C", "answer_index": 2, "hint": "詢問第三人稱 he 用 Is。" },
+          { "id": "gd-u1-q016", "question": "Which word means 疲倦的？", "options": ["A. sad", "B. angry", "C. happy", "D. tired"], "answer": "D", "answer_index": 3, "hint": "tired = 疲倦的。" },
+          { "id": "gd-u1-q017", "question": "Is she sad? ___, she is.", "options": ["A. Yes", "B. No", "C. Not", "D. She"], "answer": "A", "answer_index": 0, "hint": "肯定回答用 Yes, she is." },
+          { "id": "gd-u1-q018", "question": "Are you thirsty? ___, I'm not.", "options": ["A. Yes", "B. No", "C. Am", "D. Not"], "answer": "B", "answer_index": 1, "hint": "否定回答用 No, I'm not." },
+          { "id": "gd-u1-q019", "question": "Is he happy? No, ___ isn't.", "options": ["A. she", "B. I", "C. he", "D. you"], "answer": "C", "answer_index": 2, "hint": "問 Is he...? 否定回答用 he isn't." },
+          { "id": "gd-u1-q020", "question": "Which word means 飢餓的？", "options": ["A. thirsty", "B. sick", "C. tired", "D. hungry"], "answer": "D", "answer_index": 3, "hint": "hungry = 飢餓的。" },
+          { "id": "gd-u1-q021", "question": "___ you sick? Yes, I am.", "options": ["A. Are", "B. Is", "C. Do", "D. Am"], "answer": "A", "answer_index": 0, "hint": "詢問 you 的狀態用 Are you。" },
+          { "id": "gd-u1-q022", "question": "Is he tired? Yes, he ___.", "options": ["A. am", "B. is", "C. are", "D. isn't"], "answer": "B", "answer_index": 1, "hint": "肯定回答 Yes, he is." },
+          { "id": "gd-u1-q023", "question": "「你生氣嗎？」的正確英文是？", "options": ["A. Are you angers?", "B. Is you angry?", "C. Are you angry?", "D. Do you angry?"], "answer": "C", "answer_index": 2, "hint": "Are you + 形容詞？" },
+          { "id": "gd-u1-q024", "question": "Are you happy? No, ___ not.", "options": ["A. he's", "B. she's", "C. they're", "D. I'm"], "answer": "D", "answer_index": 3, "hint": "No, I'm not. 主詞是 I。" },
+          { "id": "gd-u1-q025", "question": "Which word means 難過的？", "options": ["A. sad", "B. tired", "C. sick", "D. angry"], "answer": "A", "answer_index": 0, "hint": "sad = 難過的。" },
+          { "id": "gd-u1-q026", "question": "Is ___ tired? Yes, she is.", "options": ["A. he", "B. she", "C. I", "D. you"], "answer": "B", "answer_index": 1, "hint": "回答是 she is，所以主詞是 she。" },
+          { "id": "gd-u1-q027", "question": "Are you hungry? Yes, ___ am.", "options": ["A. she", "B. he", "C. I", "D. they"], "answer": "C", "answer_index": 2, "hint": "回答 Are you? 用 Yes, I am." },
+          { "id": "gd-u1-q028", "question": "Which word means 生病的？", "options": ["A. sad", "B. angry", "C. tired", "D. sick"], "answer": "D", "answer_index": 3, "hint": "sick = 生病的。" },
+          { "id": "gd-u1-q029", "question": "Is he sad? No, he ___.", "options": ["A. isn't", "B. is", "C. aren't", "D. not"], "answer": "A", "answer_index": 0, "hint": "否定回答 No, he isn't." },
+          { "id": "gd-u1-q030", "question": "Are you thirsty? Yes, ___ am.", "options": ["A. she", "B. I", "C. he", "D. they"], "answer": "B", "answer_index": 1, "hint": "回答 Are you? 用 I am." },
+          { "id": "gd-u1-q031", "question": "Is she angry? ___, she isn't.", "options": ["A. Yes", "B. Am", "C. No", "D. Not"], "answer": "C", "answer_index": 2, "hint": "否定回答用 No, she isn't." },
+          { "id": "gd-u1-q032", "question": "Which word means 快樂的？", "options": ["A. sad", "B. sick", "C. angry", "D. happy"], "answer": "D", "answer_index": 3, "hint": "happy = 快樂的。" },
+          { "id": "gd-u1-q033", "question": "Is he happy? No, he ___.", "options": ["A. isn't", "B. is", "C. are", "D. am"], "answer": "A", "answer_index": 0, "hint": "否定回答 No, he isn't." },
+          { "id": "gd-u1-q034", "question": "Are you tired? ___, I am.", "options": ["A. No", "B. Yes", "C. Not", "D. Am"], "answer": "B", "answer_index": 1, "hint": "肯定回答用 Yes, I am." },
+          { "id": "gd-u1-q035", "question": "「她不難過。」正確的回答方式是？", "options": ["A. Yes, she is.", "B. No, she is.", "C. No, she isn't.", "D. Yes, she isn't."], "answer": "C", "answer_index": 2, "hint": "否定：No, she isn't." },
+          { "id": "gd-u1-q036", "question": "___ she sick? Yes, she is.", "options": ["A. Are", "B. Do", "C. Am", "D. Is"], "answer": "D", "answer_index": 3, "hint": "詢問 she 的狀態用 Is。" },
+          { "id": "gd-u1-q037", "question": "Are you angry? No, ___ not.", "options": ["A. I'm", "B. he's", "C. she's", "D. they're"], "answer": "A", "answer_index": 0, "hint": "No, I'm not. 主詞是 I。" },
+          { "id": "gd-u1-q038", "question": "Is he hungry? Yes, ___ is.", "options": ["A. she", "B. he", "C. I", "D. you"], "answer": "B", "answer_index": 1, "hint": "問 Is he? 肯定回答用 he is." },
+          { "id": "gd-u1-q039", "question": "Are you OK? No, I'm ___. I'm sick.", "options": ["A. good", "B. happy", "C. not", "D. yes"], "answer": "C", "answer_index": 2, "hint": "No, I'm not. 用 not 表示否定。" },
+          { "id": "gd-u1-q040", "question": "Is she tired? No, ___ isn't.", "options": ["A. he", "B. I", "C. you", "D. she"], "answer": "D", "answer_index": 3, "hint": "問 Is she? 否定回答用 she isn't." },
+          { "id": "gd-u1-q041", "question": "「你飢餓嗎？是的，我是。」用英文？", "options": ["A. Are you hungry? Yes, I am.", "B. Is you hungry? Yes, I am.", "C. Are you hungry? Yes, she is.", "D. Is he hungry? Yes, he is."], "answer": "A", "answer_index": 0, "hint": "Are you hungry? Yes, I am." },
+          { "id": "gd-u1-q042", "question": "Are you sad? No, I'm ___.", "options": ["A. am not", "B. not", "C. isn't", "D. is not"], "answer": "B", "answer_index": 1, "hint": "No, I'm not. 用 not。" },
+          { "id": "gd-u1-q043", "question": "Is he ___? Yes, he is. He can't find his book.", "options": ["A. happy", "B. thirsty", "C. angry", "D. tired"], "answer": "C", "answer_index": 2, "hint": "找不到東西會生氣（angry）。" },
+          { "id": "gd-u1-q044", "question": "Which sentence is correct?", "options": ["A. Is you angry?", "B. Are she sad?", "C. Is I sick?", "D. Are you tired?"], "answer": "D", "answer_index": 3, "hint": "Are + you；Is + he/she。" },
+          { "id": "gd-u1-q045", "question": "___ she happy? No, she isn't.", "options": ["A. Is", "B. Are", "C. Do", "D. Am"], "answer": "A", "answer_index": 0, "hint": "詢問 she 的狀態用 Is。" },
+          { "id": "gd-u1-q046", "question": "Are you sick? Yes, ___ am.", "options": ["A. she", "B. I", "C. he", "D. they"], "answer": "B", "answer_index": 1, "hint": "回答 Are you? 用 I am." },
+          { "id": "gd-u1-q047", "question": "Is he angry? No, ___ isn't.", "options": ["A. she", "B. I", "C. he", "D. you"], "answer": "C", "answer_index": 2, "hint": "問 Is he? 否定回答用 he isn't." },
+          { "id": "gd-u1-q048", "question": "「她口渴嗎？不，她不是。」用英文？", "options": ["A. Is she thirsty? Yes, she is.", "B. Are she thirsty? No, she isn't.", "C. Is she thirsty? No, she is.", "D. Is she thirsty? No, she isn't."], "answer": "D", "answer_index": 3, "hint": "Is she thirsty? No, she isn't." },
+          { "id": "gd-u1-q049", "question": "Is she tired? ___, she is.", "options": ["A. Yes", "B. No", "C. Not", "D. Am"], "answer": "A", "answer_index": 0, "hint": "肯定回答用 Yes, she is." },
+          { "id": "gd-u1-q050", "question": "Are you happy? Yes, ___ am.", "options": ["A. she", "B. I", "C. he", "D. they"], "answer": "B", "answer_index": 1, "hint": "回答 Are you? 用 I am." }
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          { "id": "gd-u1-sv001", "vocab_id": "gd-u1-v001", "sentence": "Tom is angry because he lost his pencil.", "sentence_chinese": "Tom 因為遺失鉛筆而生氣。" },
+          { "id": "gd-u1-sv002", "vocab_id": "gd-u1-v002", "sentence": "I am thirsty. I want some juice.", "sentence_chinese": "我口渴了。我想喝果汁。" },
+          { "id": "gd-u1-sv003", "vocab_id": "gd-u1-v003", "sentence": "Are you happy today? Yes, I am.", "sentence_chinese": "你今天快樂嗎？是的，我是。" },
+          { "id": "gd-u1-sv004", "vocab_id": "gd-u1-v004", "sentence": "She is hungry. She wants a hot dog.", "sentence_chinese": "她肚子餓了。她想要一個熱狗。" },
+          { "id": "gd-u1-sv005", "vocab_id": "gd-u1-v005", "sentence": "Is he sad? Yes, he is.", "sentence_chinese": "他難過嗎？是的，他是。" },
+          { "id": "gd-u1-sv006", "vocab_id": "gd-u1-v006", "sentence": "I am sick today. I can't go to school.", "sentence_chinese": "我今天生病了。我不能去學校。" },
+          { "id": "gd-u1-sv007", "vocab_id": "gd-u1-v007", "sentence": "She is tired. She wants to sleep.", "sentence_chinese": "她很累。她想睡覺。" }
+        ],
+        "phrases": [
+          { "id": "gd-u1-sp001", "phrase_id": "gd-u1-p001", "sentence": "Watch out! A car is coming.", "sentence_chinese": "小心！有車來了。" },
+          { "id": "gd-u1-sp002", "phrase_id": "gd-u1-p002", "sentence": "Are you OK? No, I'm not. I'm sick.", "sentence_chinese": "你還好嗎？不，我不好。我生病了。" }
+        ],
+        "grammar": [
+          { "id": "gd-u1-sg001", "sentence": "Are you happy?", "sentence_chinese": "你快樂嗎？" },
+          { "id": "gd-u1-sg002", "sentence": "Yes, I am.", "sentence_chinese": "是的，我是。" },
+          { "id": "gd-u1-sg003", "sentence": "No, I'm not.", "sentence_chinese": "不，我不是。" },
+          { "id": "gd-u1-sg004", "sentence": "Are you sad?", "sentence_chinese": "你難過嗎？" },
+          { "id": "gd-u1-sg005", "sentence": "No, I'm not.", "sentence_chinese": "不，我不是。" },
+          { "id": "gd-u1-sg006", "sentence": "Are you angry?", "sentence_chinese": "你生氣嗎？" },
+          { "id": "gd-u1-sg007", "sentence": "Yes, I am.", "sentence_chinese": "是的，我是。" },
+          { "id": "gd-u1-sg008", "sentence": "Are you tired?", "sentence_chinese": "你累了嗎？" },
+          { "id": "gd-u1-sg009", "sentence": "No, I'm not.", "sentence_chinese": "不，我不是。" },
+          { "id": "gd-u1-sg010", "sentence": "Are you sick?", "sentence_chinese": "你生病了嗎？" },
+          { "id": "gd-u1-sg011", "sentence": "Yes, I am.", "sentence_chinese": "是的，我是。" },
+          { "id": "gd-u1-sg012", "sentence": "Are you hungry?", "sentence_chinese": "你肚子餓了嗎？" },
+          { "id": "gd-u1-sg013", "sentence": "No, I'm not.", "sentence_chinese": "不，我不是。" },
+          { "id": "gd-u1-sg014", "sentence": "Are you thirsty?", "sentence_chinese": "你口渴嗎？" },
+          { "id": "gd-u1-sg015", "sentence": "Yes, I am.", "sentence_chinese": "是的，我是。" },
+          { "id": "gd-u1-sg016", "sentence": "Is he sad?", "sentence_chinese": "他難過嗎？" },
+          { "id": "gd-u1-sg017", "sentence": "Yes, he is.", "sentence_chinese": "是的，他是。" },
+          { "id": "gd-u1-sg018", "sentence": "No, he isn't.", "sentence_chinese": "不，他不是。" },
+          { "id": "gd-u1-sg019", "sentence": "Is she happy?", "sentence_chinese": "她快樂嗎？" },
+          { "id": "gd-u1-sg020", "sentence": "Yes, she is.", "sentence_chinese": "是的，她是。" },
+          { "id": "gd-u1-sg021", "sentence": "No, she isn't.", "sentence_chinese": "不，她不是。" },
+          { "id": "gd-u1-sg022", "sentence": "Is he angry?", "sentence_chinese": "他生氣嗎？" },
+          { "id": "gd-u1-sg023", "sentence": "No, he isn't.", "sentence_chinese": "不，他不是。" },
+          { "id": "gd-u1-sg024", "sentence": "Is she sick?", "sentence_chinese": "她生病了嗎？" },
+          { "id": "gd-u1-sg025", "sentence": "Yes, she is.", "sentence_chinese": "是的，她是。" },
+          { "id": "gd-u1-sg026", "sentence": "Is he tired?", "sentence_chinese": "他累了嗎？" },
+          { "id": "gd-u1-sg027", "sentence": "No, he isn't.", "sentence_chinese": "不，他不是。" },
+          { "id": "gd-u1-sg028", "sentence": "Is she hungry?", "sentence_chinese": "她肚子餓了嗎？" },
+          { "id": "gd-u1-sg029", "sentence": "Yes, she is.", "sentence_chinese": "是的，她是。" },
+          { "id": "gd-u1-sg030", "sentence": "Is he thirsty?", "sentence_chinese": "他口渴嗎？" }
+        ]
+      }
+    }
+  }
+}
