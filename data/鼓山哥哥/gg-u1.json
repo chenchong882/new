@@ -1,0 +1,141 @@
+{
+  "units": {
+    "gg-u1": {
+      "title": "Unit 1",
+      "vocab": [
+        { "id": "gg-u1-v001", "word": "Australia", "part_of_speech": "n.", "chinese": "澳洲", "sentence": "I'm from Australia.", "sentence_chinese": "我來自澳洲。" },
+        { "id": "gg-u1-v002", "word": "India", "part_of_speech": "n.", "chinese": "印度", "sentence": "She is from India.", "sentence_chinese": "她來自印度。" },
+        { "id": "gg-u1-v003", "word": "Japan", "part_of_speech": "n.", "chinese": "日本", "sentence": "Is he from Japan? Yes, he is.", "sentence_chinese": "他來自日本嗎？是的，他是。" },
+        { "id": "gg-u1-v004", "word": "Singapore", "part_of_speech": "n.", "chinese": "新加坡", "sentence": "I'm from Singapore.", "sentence_chinese": "我來自新加坡。" },
+        { "id": "gg-u1-v005", "word": "Spain", "part_of_speech": "n.", "chinese": "西班牙", "sentence": "She is from Spain.", "sentence_chinese": "她來自西班牙。" },
+        { "id": "gg-u1-v006", "word": "Taiwan", "part_of_speech": "n.", "chinese": "台灣", "sentence": "I'm from Taiwan.", "sentence_chinese": "我來自台灣。" },
+        { "id": "gg-u1-v007", "word": "the UK", "part_of_speech": "n.", "chinese": "英國", "sentence": "He is from the UK.", "sentence_chinese": "他來自英國。" },
+        { "id": "gg-u1-v008", "word": "the USA", "part_of_speech": "n.", "chinese": "美國", "sentence": "Are you from the USA? No, I'm not.", "sentence_chinese": "你來自美國嗎？不，我不是。" }
+      ],
+      "phrases": [
+        { "id": "gg-u1-p001", "phrase": "Where are you from?", "chinese": "你從哪裡來？", "sentence": "Where are you from? I'm from Taiwan.", "sentence_chinese": "你從哪裡來？我來自台灣。" },
+        { "id": "gg-u1-p002", "phrase": "All roads lead to Rome.", "chinese": "條條大路通羅馬。", "sentence": "Don't give up. All roads lead to Rome.", "sentence_chinese": "不要放棄。條條大路通羅馬。" }
+      ],
+      "grammar": {
+        "tips": [
+          { "label": "Where are you from?", "text": "詢問「你來自哪裡？」用 Where are you from? 回答用 I'm from + 國家名稱。" },
+          { "label": "Is he/she from + 國家？", "text": "詢問「他/她是否來自某國？」用 Is he/she from + 國家？肯定回答 Yes, he/she is.，否定回答 No, he/she isn't." }
+        ],
+        "notes": [
+          {
+            "title": "Where are you from?（詢問你的國籍）",
+            "rule": "Where are you from? I'm from + 國家.",
+            "description": "用 Where are you from? 詢問某人的國籍。回答用 I'm from + 國家名稱。",
+            "examples": ["Where are you from? I'm from Taiwan.", "Where are you from? I'm from Japan.", "I'm from Australia.", "I'm from Singapore."]
+          },
+          {
+            "title": "Is he/she from + 國家？（詢問他人的國籍）",
+            "rule": "Is he/she from + 國家? Yes, he/she is. / No, he/she isn't. He/She's from + 另一國家.",
+            "description": "詢問第三者是否來自某國。否定回答可加上他們實際來自哪裡。",
+            "examples": ["Is she from India? Yes, she is.", "Is he from the UK? No, he isn't. He's from the USA.", "Is she from Japan? No, she isn't. She's from Singapore.", "Is he from Spain? Yes, he is."]
+          }
+        ],
+        "quiz": [
+          { "id": "gg-u1-q001", "question": "___ are you from? I'm from Taiwan.", "options": ["A. Where", "B. What", "C. How", "D. Who"], "answer": "A", "answer_index": 0, "hint": "詢問來自哪裡用 Where。" },
+          { "id": "gg-u1-q002", "question": "I'm from ___. (新加坡)", "options": ["A. Japan", "B. Singapore", "C. Australia", "D. India"], "answer": "B", "answer_index": 1, "hint": "Singapore = 新加坡。" },
+          { "id": "gg-u1-q003", "question": "Is she from Spain? Yes, ___ is.", "options": ["A. he", "B. I", "C. she", "D. you"], "answer": "C", "answer_index": 2, "hint": "問 Is she? 肯定回答用 she is." },
+          { "id": "gg-u1-q004", "question": "Is he from the USA? No, he ___.", "options": ["A. is", "B. are", "C. isn't not", "D. isn't"], "answer": "D", "answer_index": 3, "hint": "否定回答 No, he isn't." },
+          { "id": "gg-u1-q005", "question": "Where are you ___? I'm from Japan.", "options": ["A. from", "B. at", "C. in", "D. on"], "answer": "A", "answer_index": 0, "hint": "Where are you from? 固定句型，用 from。" },
+          { "id": "gg-u1-q006", "question": "Which word means 日本?", "options": ["A. Singapore", "B. Japan", "C. the UK", "D. India"], "answer": "B", "answer_index": 1, "hint": "Japan = 日本。" },
+          { "id": "gg-u1-q007", "question": "Is ___ from India? Yes, he is.", "options": ["A. she", "B. I", "C. he", "D. you"], "answer": "C", "answer_index": 2, "hint": "答句是 he is，所以主詞是 he。" },
+          { "id": "gg-u1-q008", "question": "Is she from Taiwan? No, she ___.", "options": ["A. is", "B. are", "C. am", "D. isn't"], "answer": "D", "answer_index": 3, "hint": "否定回答 No, she isn't." },
+          { "id": "gg-u1-q009", "question": "___ from Australia.", "options": ["A. I'm", "B. I", "C. My", "D. Me"], "answer": "A", "answer_index": 0, "hint": "I'm = I am 的縮寫，表示「我是/來自」。" },
+          { "id": "gg-u1-q010", "question": "Which word means 澳洲?", "options": ["A. Spain", "B. Australia", "C. India", "D. Singapore"], "answer": "B", "answer_index": 1, "hint": "Australia = 澳洲。" },
+          { "id": "gg-u1-q011", "question": "Is he from Singapore? No, ___ isn't.", "options": ["A. she", "B. I", "C. he", "D. you"], "answer": "C", "answer_index": 2, "hint": "問 Is he? 否定回答用 he isn't." },
+          { "id": "gg-u1-q012", "question": "Where are you from? I'm from ___. (英國)", "options": ["A. India", "B. Japan", "C. Australia", "D. the UK"], "answer": "D", "answer_index": 3, "hint": "the UK = 英國。" },
+          { "id": "gg-u1-q013", "question": "___ she from Spain? Yes, she is.", "options": ["A. Is", "B. Are", "C. Do", "D. Am"], "answer": "A", "answer_index": 0, "hint": "詢問 she 的狀態用 Is。" },
+          { "id": "gg-u1-q014", "question": "Which word means 印度?", "options": ["A. Taiwan", "B. India", "C. Spain", "D. the USA"], "answer": "B", "answer_index": 1, "hint": "India = 印度。" },
+          { "id": "gg-u1-q015", "question": "Where is she from? She's ___ Taiwan.", "options": ["A. at", "B. in", "C. from", "D. on"], "answer": "C", "answer_index": 2, "hint": "來自某地用 from。" },
+          { "id": "gg-u1-q016", "question": "Is she from Japan? Yes, she ___.", "options": ["A. am", "B. are", "C. isn't", "D. is"], "answer": "D", "answer_index": 3, "hint": "肯定回答 Yes, she is." },
+          { "id": "gg-u1-q017", "question": "Where are you from? I'm ___ the USA.", "options": ["A. from", "B. at", "C. in", "D. on"], "answer": "A", "answer_index": 0, "hint": "I'm from + 國家。" },
+          { "id": "gg-u1-q018", "question": "Which word means 西班牙?", "options": ["A. Japan", "B. Spain", "C. Australia", "D. India"], "answer": "B", "answer_index": 1, "hint": "Spain = 西班牙。" },
+          { "id": "gg-u1-q019", "question": "Is ___ from the UK? Yes, she is.", "options": ["A. he", "B. I", "C. she", "D. you"], "answer": "C", "answer_index": 2, "hint": "答句是 she is，主詞是 she。" },
+          { "id": "gg-u1-q020", "question": "Is she from Singapore? No, she ___.", "options": ["A. is", "B. are", "C. am", "D. isn't"], "answer": "D", "answer_index": 3, "hint": "否定回答 No, she isn't." },
+          { "id": "gg-u1-q021", "question": "___ are you from? I'm from India.", "options": ["A. Where", "B. What", "C. How", "D. Who"], "answer": "A", "answer_index": 0, "hint": "詢問來自哪裡用 Where。" },
+          { "id": "gg-u1-q022", "question": "I'm from ___. (美國)", "options": ["A. Spain", "B. the USA", "C. Japan", "D. Taiwan"], "answer": "B", "answer_index": 1, "hint": "the USA = 美國。" },
+          { "id": "gg-u1-q023", "question": "Is he from Australia? No, ___ isn't.", "options": ["A. she", "B. I", "C. he", "D. you"], "answer": "C", "answer_index": 2, "hint": "問 Is he? 否定回答用 he isn't." },
+          { "id": "gg-u1-q024", "question": "Is she from Spain? Yes, she ___.", "options": ["A. am", "B. are", "C. aren't", "D. is"], "answer": "D", "answer_index": 3, "hint": "肯定回答 Yes, she is." },
+          { "id": "gg-u1-q025", "question": "She is ___ Japan.", "options": ["A. from", "B. at", "C. in", "D. on"], "answer": "A", "answer_index": 0, "hint": "來自某地用 from。" },
+          { "id": "gg-u1-q026", "question": "Which word means 新加坡?", "options": ["A. Australia", "B. Singapore", "C. India", "D. the UK"], "answer": "B", "answer_index": 1, "hint": "Singapore = 新加坡。" },
+          { "id": "gg-u1-q027", "question": "___ he from Taiwan? Yes, he is.", "options": ["A. Do", "B. Are", "C. Is", "D. Am"], "answer": "C", "answer_index": 2, "hint": "詢問 he 的狀態用 Is。" },
+          { "id": "gg-u1-q028", "question": "Is he from India? No, he ___.", "options": ["A. is", "B. are", "C. am", "D. isn't"], "answer": "D", "answer_index": 3, "hint": "否定回答 No, he isn't." },
+          { "id": "gg-u1-q029", "question": "Where ___ you from? I'm from Spain.", "options": ["A. are", "B. is", "C. do", "D. am"], "answer": "A", "answer_index": 0, "hint": "Where are you from? 固定用 are。" },
+          { "id": "gg-u1-q030", "question": "Which word means 台灣?", "options": ["A. Singapore", "B. Taiwan", "C. Japan", "D. Australia"], "answer": "B", "answer_index": 1, "hint": "Taiwan = 台灣。" },
+          { "id": "gg-u1-q031", "question": "Is she from India? Yes, ___ is.", "options": ["A. he", "B. I", "C. she", "D. you"], "answer": "C", "answer_index": 2, "hint": "問 Is she? 肯定回答用 she is." },
+          { "id": "gg-u1-q032", "question": "He's from the UK. ___ is from the UK.", "options": ["A. I'm", "B. She's", "C. We're", "D. He's"], "answer": "D", "answer_index": 3, "hint": "前句是 He's，後句主詞一致用 He's。" },
+          { "id": "gg-u1-q033", "question": "「你從哪裡來？」用英文怎麼說？", "options": ["A. Where are you from?", "B. What are you from?", "C. How are you from?", "D. Who are you from?"], "answer": "A", "answer_index": 0, "hint": "詢問來自哪裡用 Where。" },
+          { "id": "gg-u1-q034", "question": "Which word means 英國?", "options": ["A. the USA", "B. the UK", "C. Spain", "D. India"], "answer": "B", "answer_index": 1, "hint": "the UK = 英國。" },
+          { "id": "gg-u1-q035", "question": "Is he from the USA? Yes, ___ is.", "options": ["A. she", "B. I", "C. he", "D. you"], "answer": "C", "answer_index": 2, "hint": "問 Is he? 肯定回答用 he is." },
+          { "id": "gg-u1-q036", "question": "Is she from Japan? No, she ___.", "options": ["A. is", "B. are", "C. am", "D. isn't"], "answer": "D", "answer_index": 3, "hint": "否定回答 No, she isn't." },
+          { "id": "gg-u1-q037", "question": "「她來自澳洲。」英文是？", "options": ["A. She's from Australia.", "B. He's from Australia.", "C. She's from Japan.", "D. She's from Singapore."], "answer": "A", "answer_index": 0, "hint": "她 = She's，澳洲 = Australia。" },
+          { "id": "gg-u1-q038", "question": "I'm ___ Taiwan.", "options": ["A. at", "B. from", "C. in", "D. on"], "answer": "B", "answer_index": 1, "hint": "I'm from + 國家。" },
+          { "id": "gg-u1-q039", "question": "Is ___ from Spain? No, she isn't.", "options": ["A. he", "B. I", "C. she", "D. you"], "answer": "C", "answer_index": 2, "hint": "答句是 she isn't，主詞是 she。" },
+          { "id": "gg-u1-q040", "question": "Is he from the UK? No, ___ isn't.", "options": ["A. she", "B. I", "C. you", "D. he"], "answer": "D", "answer_index": 3, "hint": "問 Is he? 否定回答用 he isn't." },
+          { "id": "gg-u1-q041", "question": "___ is he from? He's from Japan.", "options": ["A. Where", "B. What", "C. How", "D. Who"], "answer": "A", "answer_index": 0, "hint": "詢問來自哪裡用 Where。" },
+          { "id": "gg-u1-q042", "question": "Which word means 美國?", "options": ["A. Australia", "B. the USA", "C. the UK", "D. Spain"], "answer": "B", "answer_index": 1, "hint": "the USA = 美國。" },
+          { "id": "gg-u1-q043", "question": "Is she from Taiwan? Yes, ___ is.", "options": ["A. he", "B. I", "C. she", "D. you"], "answer": "C", "answer_index": 2, "hint": "問 Is she? 肯定回答用 she is." },
+          { "id": "gg-u1-q044", "question": "Is he from Singapore? No, he ___.", "options": ["A. is", "B. are", "C. am", "D. isn't"], "answer": "D", "answer_index": 3, "hint": "否定回答 No, he isn't." },
+          { "id": "gg-u1-q045", "question": "She is from ___. (新加坡)", "options": ["A. Singapore", "B. the UK", "C. Australia", "D. Japan"], "answer": "A", "answer_index": 0, "hint": "Singapore = 新加坡。" },
+          { "id": "gg-u1-q046", "question": "Which word means 台灣?", "options": ["A. India", "B. Taiwan", "C. Japan", "D. Singapore"], "answer": "B", "answer_index": 1, "hint": "Taiwan = 台灣。" },
+          { "id": "gg-u1-q047", "question": "Is ___ from India? Yes, she is.", "options": ["A. he", "B. I", "C. she", "D. you"], "answer": "C", "answer_index": 2, "hint": "答句是 she is，主詞是 she。" },
+          { "id": "gg-u1-q048", "question": "「你來自哪裡？」正確英文是？", "options": ["A. What are you from?", "B. How are you from?", "C. Who are you from?", "D. Where are you from?"], "answer": "D", "answer_index": 3, "hint": "詢問來自哪裡用 Where。" },
+          { "id": "gg-u1-q049", "question": "Where are you from? I'm ___ the UK.", "options": ["A. from", "B. at", "C. in", "D. on"], "answer": "A", "answer_index": 0, "hint": "I'm from + 國家。" },
+          { "id": "gg-u1-q050", "question": "Which country is 澳洲 in English?", "options": ["A. India", "B. Australia", "C. Japan", "D. Singapore"], "answer": "B", "answer_index": 1, "hint": "Australia = 澳洲。" }
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          { "id": "gg-u1-sv001", "vocab_id": "gg-u1-v001", "sentence": "I'm from Australia.", "sentence_chinese": "我來自澳洲。" },
+          { "id": "gg-u1-sv002", "vocab_id": "gg-u1-v002", "sentence": "She is from India.", "sentence_chinese": "她來自印度。" },
+          { "id": "gg-u1-sv003", "vocab_id": "gg-u1-v003", "sentence": "Is he from Japan? Yes, he is.", "sentence_chinese": "他來自日本嗎？是的，他是。" },
+          { "id": "gg-u1-sv004", "vocab_id": "gg-u1-v004", "sentence": "I'm from Singapore.", "sentence_chinese": "我來自新加坡。" },
+          { "id": "gg-u1-sv005", "vocab_id": "gg-u1-v005", "sentence": "She is from Spain.", "sentence_chinese": "她來自西班牙。" },
+          { "id": "gg-u1-sv006", "vocab_id": "gg-u1-v006", "sentence": "I'm from Taiwan.", "sentence_chinese": "我來自台灣。" },
+          { "id": "gg-u1-sv007", "vocab_id": "gg-u1-v007", "sentence": "He is from the UK.", "sentence_chinese": "他來自英國。" },
+          { "id": "gg-u1-sv008", "vocab_id": "gg-u1-v008", "sentence": "Are you from the USA? No, I'm not.", "sentence_chinese": "你來自美國嗎？不，我不是。" }
+        ],
+        "phrases": [
+          { "id": "gg-u1-sp001", "phrase_id": "gg-u1-p001", "sentence": "Where are you from? I'm from Taiwan.", "sentence_chinese": "你從哪裡來？我來自台灣。" },
+          { "id": "gg-u1-sp002", "phrase_id": "gg-u1-p002", "sentence": "Don't give up. All roads lead to Rome.", "sentence_chinese": "不要放棄。條條大路通羅馬。" }
+        ],
+        "grammar": [
+          { "id": "gg-u1-sg001", "sentence": "Where are you from?", "sentence_chinese": "你從哪裡來？" },
+          { "id": "gg-u1-sg002", "sentence": "I'm from Taiwan.", "sentence_chinese": "我來自台灣。" },
+          { "id": "gg-u1-sg003", "sentence": "Where is she from?", "sentence_chinese": "她從哪裡來？" },
+          { "id": "gg-u1-sg004", "sentence": "She's from Japan.", "sentence_chinese": "她來自日本。" },
+          { "id": "gg-u1-sg005", "sentence": "Where is he from?", "sentence_chinese": "他從哪裡來？" },
+          { "id": "gg-u1-sg006", "sentence": "He's from Singapore.", "sentence_chinese": "他來自新加坡。" },
+          { "id": "gg-u1-sg007", "sentence": "Is she from India?", "sentence_chinese": "她來自印度嗎？" },
+          { "id": "gg-u1-sg008", "sentence": "Yes, she is.", "sentence_chinese": "是的，她是。" },
+          { "id": "gg-u1-sg009", "sentence": "No, she isn't.", "sentence_chinese": "不，她不是。" },
+          { "id": "gg-u1-sg010", "sentence": "Is he from the UK?", "sentence_chinese": "他來自英國嗎？" },
+          { "id": "gg-u1-sg011", "sentence": "Yes, he is.", "sentence_chinese": "是的，他是。" },
+          { "id": "gg-u1-sg012", "sentence": "No, he isn't.", "sentence_chinese": "不，他不是。" },
+          { "id": "gg-u1-sg013", "sentence": "Is she from Australia?", "sentence_chinese": "她來自澳洲嗎？" },
+          { "id": "gg-u1-sg014", "sentence": "Yes, she is.", "sentence_chinese": "是的，她是。" },
+          { "id": "gg-u1-sg015", "sentence": "No, she isn't. She's from Spain.", "sentence_chinese": "不，她不是。她來自西班牙。" },
+          { "id": "gg-u1-sg016", "sentence": "Is he from the USA?", "sentence_chinese": "他來自美國嗎？" },
+          { "id": "gg-u1-sg017", "sentence": "No, he isn't. He's from Taiwan.", "sentence_chinese": "不，他不是。他來自台灣。" },
+          { "id": "gg-u1-sg018", "sentence": "Where are you from? I'm from Japan.", "sentence_chinese": "你從哪裡來？我來自日本。" },
+          { "id": "gg-u1-sg019", "sentence": "She is from Singapore.", "sentence_chinese": "她來自新加坡。" },
+          { "id": "gg-u1-sg020", "sentence": "He is from India.", "sentence_chinese": "他來自印度。" },
+          { "id": "gg-u1-sg021", "sentence": "Is she from Spain?", "sentence_chinese": "她來自西班牙嗎？" },
+          { "id": "gg-u1-sg022", "sentence": "Yes, she is.", "sentence_chinese": "是的，她是。" },
+          { "id": "gg-u1-sg023", "sentence": "No, she isn't. She's from Australia.", "sentence_chinese": "不，她不是。她來自澳洲。" },
+          { "id": "gg-u1-sg024", "sentence": "I'm from the UK.", "sentence_chinese": "我來自英國。" },
+          { "id": "gg-u1-sg025", "sentence": "Is he from Taiwan?", "sentence_chinese": "他來自台灣嗎？" },
+          { "id": "gg-u1-sg026", "sentence": "Yes, he is.", "sentence_chinese": "是的，他是。" },
+          { "id": "gg-u1-sg027", "sentence": "Where is he from? He's from the USA.", "sentence_chinese": "他從哪裡來？他來自美國。" },
+          { "id": "gg-u1-sg028", "sentence": "Is she from Japan? No, she isn't.", "sentence_chinese": "她來自日本嗎？不，她不是。" },
+          { "id": "gg-u1-sg029", "sentence": "He is from Australia.", "sentence_chinese": "他來自澳洲。" },
+          { "id": "gg-u1-sg030", "sentence": "She's from Singapore.", "sentence_chinese": "她來自新加坡。" }
+        ]
+      }
+    }
+  }
+}

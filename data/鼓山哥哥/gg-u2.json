@@ -1,0 +1,141 @@
+{
+  "units": {
+    "gg-u2": {
+      "title": "Unit 2",
+      "vocab": [
+        { "id": "gg-u2-v001", "word": "by bike", "part_of_speech": "prep. phr.", "chinese": "騎腳踏車", "sentence": "I go to school by bike.", "sentence_chinese": "我騎腳踏車上學。" },
+        { "id": "gg-u2-v002", "word": "by bus", "part_of_speech": "prep. phr.", "chinese": "搭公車", "sentence": "Does he go to school by bus? Yes, he does.", "sentence_chinese": "他搭公車上學嗎？是的，他是。" },
+        { "id": "gg-u2-v003", "word": "by car", "part_of_speech": "prep. phr.", "chinese": "搭車", "sentence": "She goes to school by car.", "sentence_chinese": "她搭車上學。" },
+        { "id": "gg-u2-v004", "word": "by MRT", "part_of_speech": "prep. phr.", "chinese": "搭捷運", "sentence": "I go to school by MRT.", "sentence_chinese": "我搭捷運上學。" },
+        { "id": "gg-u2-v005", "word": "by scooter", "part_of_speech": "prep. phr.", "chinese": "騎摩托車", "sentence": "My dad goes to work by scooter.", "sentence_chinese": "我爸爸騎摩托車去上班。" },
+        { "id": "gg-u2-v006", "word": "by taxi", "part_of_speech": "prep. phr.", "chinese": "搭計程車", "sentence": "She goes to school by taxi.", "sentence_chinese": "她搭計程車上學。" },
+        { "id": "gg-u2-v007", "word": "by train", "part_of_speech": "prep. phr.", "chinese": "搭火車", "sentence": "Does he go to school by train? No, he doesn't.", "sentence_chinese": "他搭火車上學嗎？不，他不是。" },
+        { "id": "gg-u2-v008", "word": "on foot", "part_of_speech": "prep. phr.", "chinese": "走路", "sentence": "I go to school on foot.", "sentence_chinese": "我走路上學。" }
+      ],
+      "phrases": [
+        { "id": "gg-u2-p001", "phrase": "How do you go to school?", "chinese": "你怎麼去上學？", "sentence": "How do you go to school? I go to school by bus.", "sentence_chinese": "你怎麼去上學？我搭公車上學。" },
+        { "id": "gg-u2-p002", "phrase": "You're the apple of my eye.", "chinese": "你是我的心肝寶貝。", "sentence": "You're the apple of my eye. I love you.", "sentence_chinese": "你是我的心肝寶貝。我愛你。" }
+      ],
+      "grammar": {
+        "tips": [
+          { "label": "How do you go to school?", "text": "詢問「你怎麼去上學？」用 How do you go to school? 回答用 I go to school + by + 交通工具 或 on foot。" },
+          { "label": "Does he/she go to school by...?", "text": "詢問「他/她是否搭某交通工具上學？」用 Does he/she go to school by + 交通工具？肯定 Yes, he/she does.，否定 No, he/she doesn't." }
+        ],
+        "notes": [
+          {
+            "title": "How do you go to school?（詢問上學方式）",
+            "rule": "How do you go to school? I go to school + by + 交通工具 / on foot.",
+            "description": "用 How do you go to school? 詢問上學方式。大多數交通工具前用 by，只有步行用 on foot。",
+            "examples": ["How do you go to school? I go to school by bus.", "How do you go to school? I go to school on foot.", "I go to school by MRT.", "I go to school by bike."]
+          },
+          {
+            "title": "Does he/she go to school by + 交通工具？（詢問他人的上學方式）",
+            "rule": "Does he/she go to school by + 交通工具? Yes, he/she does. / No, he/she doesn't. He/She goes to school by + 交通工具.",
+            "description": "詢問第三者上學方式用 Does he/she go...? 注意三單 goes 和助動詞 does 不重複出現。",
+            "examples": ["Does he go to school by bus? Yes, he does.", "Does she go to school by car? No, she doesn't. She goes by MRT.", "Does he go to school on foot? No, he doesn't. He goes by train.", "Does she go to school by bike? Yes, she does."]
+          }
+        ],
+        "quiz": [
+          { "id": "gg-u2-q001", "question": "___ do you go to school?", "options": ["A. How", "B. What", "C. Where", "D. Who"], "answer": "A", "answer_index": 0, "hint": "詢問方式用 How。" },
+          { "id": "gg-u2-q002", "question": "I go to school ___ bus.", "options": ["A. on", "B. by", "C. in", "D. at"], "answer": "B", "answer_index": 1, "hint": "搭交通工具用 by（走路例外用 on foot）。" },
+          { "id": "gg-u2-q003", "question": "Does she go to school by bus? Yes, she ___.", "options": ["A. do", "B. is", "C. does", "D. go"], "answer": "C", "answer_index": 2, "hint": "肯定回答 Yes, she does." },
+          { "id": "gg-u2-q004", "question": "Does he go to school by car? No, he ___.", "options": ["A. does", "B. is", "C. don't", "D. doesn't"], "answer": "D", "answer_index": 3, "hint": "否定回答 No, he doesn't." },
+          { "id": "gg-u2-q005", "question": "I go to school ___ foot.", "options": ["A. on", "B. by", "C. in", "D. at"], "answer": "A", "answer_index": 0, "hint": "走路上學用 on foot，不用 by。" },
+          { "id": "gg-u2-q006", "question": "Which phrase means 搭公車?", "options": ["A. on foot", "B. by bus", "C. by car", "D. by train"], "answer": "B", "answer_index": 1, "hint": "by bus = 搭公車。" },
+          { "id": "gg-u2-q007", "question": "Does ___ go to school by MRT? Yes, she does.", "options": ["A. he", "B. I", "C. she", "D. you"], "answer": "C", "answer_index": 2, "hint": "答句是 she does，主詞是 she。" },
+          { "id": "gg-u2-q008", "question": "Does he go to school by train? No, he ___.", "options": ["A. does", "B. is", "C. do", "D. doesn't"], "answer": "D", "answer_index": 3, "hint": "否定回答 No, he doesn't." },
+          { "id": "gg-u2-q009", "question": "How does she go to school? She ___ to school by taxi.", "options": ["A. goes", "B. go", "C. going", "D. gone"], "answer": "A", "answer_index": 0, "hint": "第三人稱單數 she 搭配 goes。" },
+          { "id": "gg-u2-q010", "question": "Which phrase means 走路?", "options": ["A. by bike", "B. on foot", "C. by bus", "D. by train"], "answer": "B", "answer_index": 1, "hint": "on foot = 走路。" },
+          { "id": "gg-u2-q011", "question": "Does he go to school by bike? No, ___ doesn't.", "options": ["A. she", "B. I", "C. he", "D. you"], "answer": "C", "answer_index": 2, "hint": "問 Does he? 否定回答用 he doesn't." },
+          { "id": "gg-u2-q012", "question": "How do you go to school? I go to school ___ scooter.", "options": ["A. in", "B. on", "C. at", "D. by"], "answer": "D", "answer_index": 3, "hint": "搭交通工具用 by。" },
+          { "id": "gg-u2-q013", "question": "___ she go to school by bus? Yes, she does.", "options": ["A. Does", "B. Do", "C. Is", "D. Are"], "answer": "A", "answer_index": 0, "hint": "詢問第三人稱單數用 Does。" },
+          { "id": "gg-u2-q014", "question": "Which phrase means 搭火車?", "options": ["A. by car", "B. by train", "C. by MRT", "D. by taxi"], "answer": "B", "answer_index": 1, "hint": "by train = 搭火車。" },
+          { "id": "gg-u2-q015", "question": "She goes to school ___ MRT.", "options": ["A. at", "B. in", "C. by", "D. on"], "answer": "C", "answer_index": 2, "hint": "搭交通工具用 by。" },
+          { "id": "gg-u2-q016", "question": "Does she go to school by car? Yes, she ___.", "options": ["A. go", "B. do", "C. is", "D. does"], "answer": "D", "answer_index": 3, "hint": "肯定回答 Yes, she does." },
+          { "id": "gg-u2-q017", "question": "How ___ he go to school? He goes by bus.", "options": ["A. does", "B. do", "C. is", "D. are"], "answer": "A", "answer_index": 0, "hint": "第三人稱單數 he 搭配助動詞 does。" },
+          { "id": "gg-u2-q018", "question": "Which phrase means 搭計程車?", "options": ["A. by bike", "B. by taxi", "C. on foot", "D. by MRT"], "answer": "B", "answer_index": 1, "hint": "by taxi = 搭計程車。" },
+          { "id": "gg-u2-q019", "question": "Does ___ go to school by train? Yes, he does.", "options": ["A. she", "B. I", "C. he", "D. you"], "answer": "C", "answer_index": 2, "hint": "答句是 he does，主詞是 he。" },
+          { "id": "gg-u2-q020", "question": "Does he go to school by taxi? No, he ___.", "options": ["A. does", "B. is", "C. do", "D. doesn't"], "answer": "D", "answer_index": 3, "hint": "否定回答 No, he doesn't." },
+          { "id": "gg-u2-q021", "question": "How ___ you go to school? I go by MRT.", "options": ["A. do", "B. does", "C. is", "D. are"], "answer": "A", "answer_index": 0, "hint": "詢問 you 用 do。" },
+          { "id": "gg-u2-q022", "question": "Which phrase means 騎腳踏車?", "options": ["A. by bus", "B. by bike", "C. on foot", "D. by car"], "answer": "B", "answer_index": 1, "hint": "by bike = 騎腳踏車。" },
+          { "id": "gg-u2-q023", "question": "Does she go to school by scooter? No, ___ doesn't.", "options": ["A. he", "B. I", "C. she", "D. you"], "answer": "C", "answer_index": 2, "hint": "問 Does she? 否定回答用 she doesn't." },
+          { "id": "gg-u2-q024", "question": "I go to school by train. She ___ to school by train.", "options": ["A. go", "B. going", "C. gone", "D. goes"], "answer": "D", "answer_index": 3, "hint": "第三人稱單數 she 用 goes。" },
+          { "id": "gg-u2-q025", "question": "She goes to school ___ foot.", "options": ["A. on", "B. by", "C. in", "D. at"], "answer": "A", "answer_index": 0, "hint": "走路上學用 on foot。" },
+          { "id": "gg-u2-q026", "question": "Which phrase means 搭捷運?", "options": ["A. by train", "B. by MRT", "C. by bus", "D. by taxi"], "answer": "B", "answer_index": 1, "hint": "by MRT = 搭捷運。" },
+          { "id": "gg-u2-q027", "question": "___ he go to school by bike? No, he doesn't.", "options": ["A. Do", "B. Are", "C. Does", "D. Is"], "answer": "C", "answer_index": 2, "hint": "詢問第三人稱單數用 Does。" },
+          { "id": "gg-u2-q028", "question": "How does she go to school? She ___ to school by car.", "options": ["A. go", "B. going", "C. gone", "D. goes"], "answer": "D", "answer_index": 3, "hint": "第三人稱單數 she 用 goes。" },
+          { "id": "gg-u2-q029", "question": "___ do you go to school? I go by taxi.", "options": ["A. How", "B. What", "C. Where", "D. Who"], "answer": "A", "answer_index": 0, "hint": "詢問方式用 How。" },
+          { "id": "gg-u2-q030", "question": "Which phrase means 騎摩托車?", "options": ["A. by train", "B. by scooter", "C. by car", "D. by bus"], "answer": "B", "answer_index": 1, "hint": "by scooter = 騎摩托車。" },
+          { "id": "gg-u2-q031", "question": "Does she go to school by taxi? Yes, ___ does.", "options": ["A. he", "B. I", "C. she", "D. you"], "answer": "C", "answer_index": 2, "hint": "問 Does she? 肯定回答用 she does." },
+          { "id": "gg-u2-q032", "question": "「他搭公車上學嗎？不，他不是。」英文是？", "options": ["A. Does he go to school by bus? Yes, he does.", "B. Do he go to school by bus? No, he doesn't.", "C. Does she go to school by bus? No, she doesn't.", "D. Does he go to school by bus? No, he doesn't."], "answer": "D", "answer_index": 3, "hint": "第三人稱單數用 Does，否定 No, he doesn't." },
+          { "id": "gg-u2-q033", "question": "「你怎麼去上學？」英文是？", "options": ["A. How do you go to school?", "B. What do you go to school?", "C. Where do you go to school?", "D. Who do you go to school?"], "answer": "A", "answer_index": 0, "hint": "詢問方式用 How。" },
+          { "id": "gg-u2-q034", "question": "Which phrase means 搭車?", "options": ["A. by bike", "B. by car", "C. by bus", "D. on foot"], "answer": "B", "answer_index": 1, "hint": "by car = 搭車。" },
+          { "id": "gg-u2-q035", "question": "Does he go to school by MRT? Yes, ___ does.", "options": ["A. she", "B. I", "C. he", "D. you"], "answer": "C", "answer_index": 2, "hint": "問 Does he? 肯定回答用 he does." },
+          { "id": "gg-u2-q036", "question": "Does she go to school on foot? No, she ___.", "options": ["A. does", "B. is", "C. do", "D. doesn't"], "answer": "D", "answer_index": 3, "hint": "否定回答 No, she doesn't." },
+          { "id": "gg-u2-q037", "question": "「她走路上學。」英文是？", "options": ["A. She goes to school on foot.", "B. She goes to school by foot.", "C. She go to school on foot.", "D. She goes to school in foot."], "answer": "A", "answer_index": 0, "hint": "第三人稱 goes，走路用 on foot。" },
+          { "id": "gg-u2-q038", "question": "He goes to school ___ bike.", "options": ["A. on", "B. by", "C. in", "D. at"], "answer": "B", "answer_index": 1, "hint": "搭/騎交通工具用 by。" },
+          { "id": "gg-u2-q039", "question": "Does ___ go to school by scooter? Yes, she does.", "options": ["A. he", "B. I", "C. she", "D. you"], "answer": "C", "answer_index": 2, "hint": "答句是 she does，主詞是 she。" },
+          { "id": "gg-u2-q040", "question": "Does he go to school by MRT? No, ___ doesn't.", "options": ["A. she", "B. I", "C. you", "D. he"], "answer": "D", "answer_index": 3, "hint": "問 Does he? 否定回答用 he doesn't." },
+          { "id": "gg-u2-q041", "question": "___ does she go to school? She goes by train.", "options": ["A. How", "B. What", "C. Where", "D. Who"], "answer": "A", "answer_index": 0, "hint": "詢問方式用 How。" },
+          { "id": "gg-u2-q042", "question": "Which phrase means 搭船?", "options": ["A. by taxi", "B. by boat", "C. by train", "D. by MRT"], "answer": "B", "answer_index": 1, "hint": "by boat = 搭船。" },
+          { "id": "gg-u2-q043", "question": "Does she go to school by bus? Yes, ___ does.", "options": ["A. he", "B. I", "C. she", "D. you"], "answer": "C", "answer_index": 2, "hint": "問 Does she? 肯定回答用 she does." },
+          { "id": "gg-u2-q044", "question": "Does he go to school by taxi? No, he ___.", "options": ["A. does", "B. is", "C. do", "D. doesn't"], "answer": "D", "answer_index": 3, "hint": "否定回答 No, he doesn't." },
+          { "id": "gg-u2-q045", "question": "Which phrase means 搭飛機?", "options": ["A. by plane", "B. by train", "C. by MRT", "D. by car"], "answer": "A", "answer_index": 0, "hint": "by plane = 搭飛機。" },
+          { "id": "gg-u2-q046", "question": "Which sentence is correct?", "options": ["A. Does he goes to school by bus?", "B. Does he go to school by bus?", "C. Do she go to school by bus?", "D. Does you go to school by bus?"], "answer": "B", "answer_index": 1, "hint": "Does + 主詞 + 動詞原形。" },
+          { "id": "gg-u2-q047", "question": "Does ___ go to school by car? No, he doesn't.", "options": ["A. she", "B. I", "C. he", "D. you"], "answer": "C", "answer_index": 2, "hint": "答句是 he doesn't，主詞是 he。" },
+          { "id": "gg-u2-q048", "question": "「她騎腳踏車上學嗎？是的，她是。」英文是？", "options": ["A. Does she go to school by bus? Yes, she does.", "B. Do she go to school by bike? Yes, she does.", "C. Does she go to school by bike? Yes, he does.", "D. Does she go to school by bike? Yes, she does."], "answer": "D", "answer_index": 3, "hint": "Does she...? Yes, she does." },
+          { "id": "gg-u2-q049", "question": "How ___ he go to school? He goes by scooter.", "options": ["A. does", "B. do", "C. is", "D. are"], "answer": "A", "answer_index": 0, "hint": "第三人稱單數 he 搭配助動詞 does。" },
+          { "id": "gg-u2-q050", "question": "Which phrase means 搭車?", "options": ["A. on foot", "B. by car", "C. by bus", "D. by train"], "answer": "B", "answer_index": 1, "hint": "by car = 搭車。" }
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          { "id": "gg-u2-sv001", "vocab_id": "gg-u2-v001", "sentence": "I go to school by bike.", "sentence_chinese": "我騎腳踏車上學。" },
+          { "id": "gg-u2-sv002", "vocab_id": "gg-u2-v002", "sentence": "Does he go to school by bus? Yes, he does.", "sentence_chinese": "他搭公車上學嗎？是的，他是。" },
+          { "id": "gg-u2-sv003", "vocab_id": "gg-u2-v003", "sentence": "She goes to school by car.", "sentence_chinese": "她搭車上學。" },
+          { "id": "gg-u2-sv004", "vocab_id": "gg-u2-v004", "sentence": "I go to school by MRT.", "sentence_chinese": "我搭捷運上學。" },
+          { "id": "gg-u2-sv005", "vocab_id": "gg-u2-v005", "sentence": "My dad goes to work by scooter.", "sentence_chinese": "我爸爸騎摩托車去上班。" },
+          { "id": "gg-u2-sv006", "vocab_id": "gg-u2-v006", "sentence": "She goes to school by taxi.", "sentence_chinese": "她搭計程車上學。" },
+          { "id": "gg-u2-sv007", "vocab_id": "gg-u2-v007", "sentence": "Does he go to school by train? No, he doesn't.", "sentence_chinese": "他搭火車上學嗎？不，他不是。" },
+          { "id": "gg-u2-sv008", "vocab_id": "gg-u2-v008", "sentence": "I go to school on foot.", "sentence_chinese": "我走路上學。" }
+        ],
+        "phrases": [
+          { "id": "gg-u2-sp001", "phrase_id": "gg-u2-p001", "sentence": "How do you go to school? I go to school by bus.", "sentence_chinese": "你怎麼去上學？我搭公車上學。" },
+          { "id": "gg-u2-sp002", "phrase_id": "gg-u2-p002", "sentence": "You're the apple of my eye. I love you.", "sentence_chinese": "你是我的心肝寶貝。我愛你。" }
+        ],
+        "grammar": [
+          { "id": "gg-u2-sg001", "sentence": "How do you go to school?", "sentence_chinese": "你怎麼去上學？" },
+          { "id": "gg-u2-sg002", "sentence": "I go to school by bus.", "sentence_chinese": "我搭公車上學。" },
+          { "id": "gg-u2-sg003", "sentence": "I go to school on foot.", "sentence_chinese": "我走路上學。" },
+          { "id": "gg-u2-sg004", "sentence": "I go to school by MRT.", "sentence_chinese": "我搭捷運上學。" },
+          { "id": "gg-u2-sg005", "sentence": "How does she go to school?", "sentence_chinese": "她怎麼去上學？" },
+          { "id": "gg-u2-sg006", "sentence": "She goes to school by car.", "sentence_chinese": "她搭車上學。" },
+          { "id": "gg-u2-sg007", "sentence": "Does he go to school by bus?", "sentence_chinese": "他搭公車上學嗎？" },
+          { "id": "gg-u2-sg008", "sentence": "Yes, he does.", "sentence_chinese": "是的，他是。" },
+          { "id": "gg-u2-sg009", "sentence": "No, he doesn't.", "sentence_chinese": "不，他不是。" },
+          { "id": "gg-u2-sg010", "sentence": "Does she go to school by train?", "sentence_chinese": "她搭火車上學嗎？" },
+          { "id": "gg-u2-sg011", "sentence": "Yes, she does.", "sentence_chinese": "是的，她是。" },
+          { "id": "gg-u2-sg012", "sentence": "No, she doesn't.", "sentence_chinese": "不，她不是。" },
+          { "id": "gg-u2-sg013", "sentence": "Does he go to school by bike?", "sentence_chinese": "他騎腳踏車上學嗎？" },
+          { "id": "gg-u2-sg014", "sentence": "No, he doesn't. He goes by MRT.", "sentence_chinese": "不，他不是。他搭捷運。" },
+          { "id": "gg-u2-sg015", "sentence": "Does she go to school by taxi?", "sentence_chinese": "她搭計程車上學嗎？" },
+          { "id": "gg-u2-sg016", "sentence": "No, she doesn't. She goes on foot.", "sentence_chinese": "不，她不是。她走路。" },
+          { "id": "gg-u2-sg017", "sentence": "How does he go to school? He goes by scooter.", "sentence_chinese": "他怎麼去上學？他騎摩托車。" },
+          { "id": "gg-u2-sg018", "sentence": "She goes to school by bike.", "sentence_chinese": "她騎腳踏車上學。" },
+          { "id": "gg-u2-sg019", "sentence": "He goes to school by train.", "sentence_chinese": "他搭火車上學。" },
+          { "id": "gg-u2-sg020", "sentence": "Does she go to school by scooter?", "sentence_chinese": "她騎摩托車上學嗎？" },
+          { "id": "gg-u2-sg021", "sentence": "Yes, she does.", "sentence_chinese": "是的，她是。" },
+          { "id": "gg-u2-sg022", "sentence": "Does he go to school on foot?", "sentence_chinese": "他走路上學嗎？" },
+          { "id": "gg-u2-sg023", "sentence": "No, he doesn't. He goes by bus.", "sentence_chinese": "不，他不是。他搭公車。" },
+          { "id": "gg-u2-sg024", "sentence": "I go to school by taxi.", "sentence_chinese": "我搭計程車上學。" },
+          { "id": "gg-u2-sg025", "sentence": "Does she go to school by car?", "sentence_chinese": "她搭車上學嗎？" },
+          { "id": "gg-u2-sg026", "sentence": "Yes, she does.", "sentence_chinese": "是的，她是。" },
+          { "id": "gg-u2-sg027", "sentence": "How do you go to school? I go by bike.", "sentence_chinese": "你怎麼去上學？我騎腳踏車。" },
+          { "id": "gg-u2-sg028", "sentence": "Does he go to school by taxi? No, he doesn't.", "sentence_chinese": "他搭計程車上學嗎？不，他不是。" },
+          { "id": "gg-u2-sg029", "sentence": "She goes to school on foot.", "sentence_chinese": "她走路上學。" },
+          { "id": "gg-u2-sg030", "sentence": "He goes to school by MRT.", "sentence_chinese": "他搭捷運上學。" }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "units": {
+    "gg-u3": {
+      "title": "Unit 3",
+      "vocab": [
+        { "id": "gg-u3-v001", "word": "listen to music", "part_of_speech": "v. phr.", "chinese": "聽音樂", "sentence": "I listen to music after school.", "sentence_chinese": "我放學後聽音樂。" },
+        { "id": "gg-u3-v002", "word": "play baseball", "part_of_speech": "v. phr.", "chinese": "打棒球", "sentence": "Does he play baseball? Yes, he does.", "sentence_chinese": "他打棒球嗎？是的，他打。" },
+        { "id": "gg-u3-v003", "word": "play basketball", "part_of_speech": "v. phr.", "chinese": "打籃球", "sentence": "I play basketball after school.", "sentence_chinese": "我放學後打籃球。" },
+        { "id": "gg-u3-v004", "word": "play football", "part_of_speech": "v. phr.", "chinese": "踢足球", "sentence": "She plays football in her free time.", "sentence_chinese": "她在空閒時踢足球。" },
+        { "id": "gg-u3-v005", "word": "ride a bike", "part_of_speech": "v. phr.", "chinese": "騎腳踏車", "sentence": "What does she do after school? She rides a bike.", "sentence_chinese": "她放學後做什麼？她騎腳踏車。" },
+        { "id": "gg-u3-v006", "word": "surf the Internet", "part_of_speech": "v. phr.", "chinese": "上網", "sentence": "Do you surf the Internet? Yes, I do.", "sentence_chinese": "你上網嗎？是的，我上。" },
+        { "id": "gg-u3-v007", "word": "go jogging", "part_of_speech": "v. phr.", "chinese": "去慢跑", "sentence": "I go jogging every morning.", "sentence_chinese": "我每天早上去慢跑。" },
+        { "id": "gg-u3-v008", "word": "watch TV", "part_of_speech": "v. phr.", "chinese": "看電視", "sentence": "What does he do after school? He watches TV.", "sentence_chinese": "他放學後做什麼？他看電視。" }
+      ],
+      "phrases": [
+        { "id": "gg-u3-p001", "phrase": "What do you do after school?", "chinese": "你放學後做什麼？", "sentence": "What do you do after school? I go jogging after school.", "sentence_chinese": "你放學後做什麼？我放學後去慢跑。" },
+        { "id": "gg-u3-p002", "phrase": "No pain, no gain.", "chinese": "一分耕耘，一分收穫。", "sentence": "Keep practicing! No pain, no gain.", "sentence_chinese": "繼續練習！一分耕耘，一分收穫。" }
+      ],
+      "grammar": {
+        "tips": [
+          { "label": "What do you do after school?", "text": "詢問「你放學後做什麼？」用 What do you do after school? 回答用 I + 動詞片語 + after school。" },
+          { "label": "What does he/she do...?", "text": "詢問「他/她在...時做什麼？」用 What does he/she do + 時間片語？回答用 He/She + 動詞第三人稱單數形式。" }
+        ],
+        "notes": [
+          {
+            "title": "What do you do after school?（詢問你的課後活動）",
+            "rule": "What do you do after school? I + 動詞片語 + after school.",
+            "description": "用 What do you do after school? 詢問課後活動。回答用 I + 動詞片語。",
+            "examples": ["What do you do after school? I go jogging after school.", "What do you do after school? I play basketball after school.", "I listen to music after school.", "I watch TV after school."]
+          },
+          {
+            "title": "What does he/she do in his/her free time?（詢問他人的休閒活動）",
+            "rule": "What does he/she do in his/her free time? He/She + 動詞(三單) + in his/her free time.",
+            "description": "詢問第三者的休閒活動。注意三單動詞變化：play→plays, ride→rides, watch→watches, go→goes.",
+            "examples": ["What does he do in his free time? He plays baseball.", "What does she do in her free time? She watches TV in her free time.", "He surfs the Internet.", "She rides a bike."]
+          }
+        ],
+        "quiz": [
+          { "id": "gg-u3-q001", "question": "What ___ you do after school?", "options": ["A. do", "B. does", "C. is", "D. are"], "answer": "A", "answer_index": 0, "hint": "詢問 you 用助動詞 do。" },
+          { "id": "gg-u3-q002", "question": "What does she do after school? She ___ TV.", "options": ["A. watch", "B. watches", "C. watching", "D. watched"], "answer": "B", "answer_index": 1, "hint": "第三人稱單數 she，watch 加 es。" },
+          { "id": "gg-u3-q003", "question": "What does he do in his free time? He ___ a bike.", "options": ["A. ride", "B. rides", "C. riding", "D. rided"], "answer": "B", "answer_index": 1, "hint": "第三人稱單數 he，ride 加 s。" },
+          { "id": "gg-u3-q004", "question": "What do you do after school? I ___ basketball after school.", "options": ["A. plays", "B. playing", "C. played", "D. play"], "answer": "D", "answer_index": 3, "hint": "I 後面用動詞原形 play。" },
+          { "id": "gg-u3-q005", "question": "Which phrase means 聽音樂?", "options": ["A. listen to music", "B. watch TV", "C. go jogging", "D. surf the Internet"], "answer": "A", "answer_index": 0, "hint": "listen to music = 聽音樂。" },
+          { "id": "gg-u3-q006", "question": "What does she do in her free time? She ___ baseball.", "options": ["A. play", "B. plays", "C. playing", "D. to play"], "answer": "B", "answer_index": 1, "hint": "第三人稱單數 she，play 加 s。" },
+          { "id": "gg-u3-q007", "question": "What ___ he do after school? He goes jogging.", "options": ["A. do", "B. is", "C. does", "D. are"], "answer": "C", "answer_index": 2, "hint": "詢問第三人稱單數 he 用 does。" },
+          { "id": "gg-u3-q008", "question": "What do you do after school? I ___ the Internet.", "options": ["A. surfing", "B. surfs", "C. to surf", "D. surf"], "answer": "D", "answer_index": 3, "hint": "I 後面用動詞原形 surf。" },
+          { "id": "gg-u3-q009", "question": "Which phrase means 上網?", "options": ["A. surf the Internet", "B. watch TV", "C. play football", "D. ride a bike"], "answer": "A", "answer_index": 0, "hint": "surf the Internet = 上網。" },
+          { "id": "gg-u3-q010", "question": "What does she do after school? She ___ jogging.", "options": ["A. go", "B. goes", "C. going", "D. gone"], "answer": "B", "answer_index": 1, "hint": "第三人稱單數 she，go 加 es。" },
+          { "id": "gg-u3-q011", "question": "What ___ she do in her free time? She plays football.", "options": ["A. do", "B. is", "C. does", "D. are"], "answer": "C", "answer_index": 2, "hint": "詢問第三人稱單數 she 用 does。" },
+          { "id": "gg-u3-q012", "question": "What do you do after school? I ___ music.", "options": ["A. listens to", "B. listening to", "C. to listen to", "D. listen to"], "answer": "D", "answer_index": 3, "hint": "I 後面用動詞原形 listen to。" },
+          { "id": "gg-u3-q013", "question": "Which phrase means 去慢跑?", "options": ["A. go jogging", "B. play baseball", "C. watch TV", "D. ride a bike"], "answer": "A", "answer_index": 0, "hint": "go jogging = 去慢跑。" },
+          { "id": "gg-u3-q014", "question": "What does he do after school? He ___ basketball.", "options": ["A. play", "B. plays", "C. playing", "D. played"], "answer": "B", "answer_index": 1, "hint": "第三人稱單數 he，play 加 s。" },
+          { "id": "gg-u3-q015", "question": "What ___ you do in your free time? I surf the Internet.", "options": ["A. does", "B. is", "C. do", "D. are"], "answer": "C", "answer_index": 2, "hint": "詢問 you 用 do。" },
+          { "id": "gg-u3-q016", "question": "She ___ TV in her free time.", "options": ["A. watch", "B. watching", "C. watched", "D. watches"], "answer": "D", "answer_index": 3, "hint": "第三人稱單數 she，watch 加 es → watches。" },
+          { "id": "gg-u3-q017", "question": "Which phrase means 打棒球?", "options": ["A. play basketball", "B. play baseball", "C. play football", "D. ride a bike"], "answer": "B", "answer_index": 1, "hint": "play baseball = 打棒球。" },
+          { "id": "gg-u3-q018", "question": "What ___ he do in his free time? He plays football.", "options": ["A. do", "B. is", "C. does", "D. are"], "answer": "C", "answer_index": 2, "hint": "詢問第三人稱單數 he 用 does。" },
+          { "id": "gg-u3-q019", "question": "What do you do after school? I ___ a bike after school.", "options": ["A. rides", "B. riding", "C. rided", "D. ride"], "answer": "D", "answer_index": 3, "hint": "I 後面用動詞原形 ride。" },
+          { "id": "gg-u3-q020", "question": "Which phrase means 看電視?", "options": ["A. surf the Internet", "B. go jogging", "C. listen to music", "D. watch TV"], "answer": "D", "answer_index": 3, "hint": "watch TV = 看電視。" },
+          { "id": "gg-u3-q021", "question": "What ___ you do after school? I play basketball.", "options": ["A. do", "B. does", "C. is", "D. are"], "answer": "A", "answer_index": 0, "hint": "詢問 you 用 do。" },
+          { "id": "gg-u3-q022", "question": "He ___ the Internet in his free time.", "options": ["A. surf", "B. surfs", "C. surfing", "D. surfed"], "answer": "B", "answer_index": 1, "hint": "第三人稱單數 he，surf 加 s。" },
+          { "id": "gg-u3-q023", "question": "What ___ she do after school? She goes jogging.", "options": ["A. do", "B. is", "C. does", "D. are"], "answer": "C", "answer_index": 2, "hint": "詢問第三人稱單數 she 用 does。" },
+          { "id": "gg-u3-q024", "question": "I ___ baseball after school.", "options": ["A. plays", "B. playing", "C. played", "D. play"], "answer": "D", "answer_index": 3, "hint": "I 後面用動詞原形 play。" },
+          { "id": "gg-u3-q025", "question": "Which phrase means 打籃球?", "options": ["A. play basketball", "B. play baseball", "C. play football", "D. ride a bike"], "answer": "A", "answer_index": 0, "hint": "play basketball = 打籃球。" },
+          { "id": "gg-u3-q026", "question": "She ___ a bike after school.", "options": ["A. ride", "B. rides", "C. riding", "D. rided"], "answer": "B", "answer_index": 1, "hint": "第三人稱單數 she，ride 加 s → rides。" },
+          { "id": "gg-u3-q027", "question": "What does he do? He ___ music.", "options": ["A. listens to", "B. listen to", "C. listening to", "D. to listen"], "answer": "A", "answer_index": 0, "hint": "第三人稱單數 he，listen to → listens to。" },
+          { "id": "gg-u3-q028", "question": "What do you do after school? I ___ football.", "options": ["A. plays", "B. playing", "C. played", "D. play"], "answer": "D", "answer_index": 3, "hint": "I 後面用動詞原形 play。" },
+          { "id": "gg-u3-q029", "question": "Which phrase means 騎腳踏車?", "options": ["A. ride a bike", "B. go jogging", "C. watch TV", "D. play baseball"], "answer": "A", "answer_index": 0, "hint": "ride a bike = 騎腳踏車。" },
+          { "id": "gg-u3-q030", "question": "He ___ jogging after school.", "options": ["A. go", "B. goes", "C. going", "D. gone"], "answer": "B", "answer_index": 1, "hint": "第三人稱單數 he，go 加 es → goes。" },
+          { "id": "gg-u3-q031", "question": "What ___ she do in her free time? She surfs the Internet.", "options": ["A. do", "B. is", "C. does", "D. are"], "answer": "C", "answer_index": 2, "hint": "詢問第三人稱單數 she 用 does。" },
+          { "id": "gg-u3-q032", "question": "「她放學後打足球。」英文是？", "options": ["A. She play football after school.", "B. She plays football after school.", "C. She plays basketball after school.", "D. He plays football after school."], "answer": "B", "answer_index": 1, "hint": "第三人稱 plays，足球 football。" },
+          { "id": "gg-u3-q033", "question": "Which phrase means 踢足球?", "options": ["A. play football", "B. play baseball", "C. play basketball", "D. ride a bike"], "answer": "A", "answer_index": 0, "hint": "play football = 踢足球。" },
+          { "id": "gg-u3-q034", "question": "What does she do? She ___ TV.", "options": ["A. watch", "B. watches", "C. watching", "D. watched"], "answer": "B", "answer_index": 1, "hint": "第三人稱單數 she，watch 加 es → watches。" },
+          { "id": "gg-u3-q035", "question": "What ___ you do in your free time? I ride a bike.", "options": ["A. does", "B. is", "C. do", "D. are"], "answer": "C", "answer_index": 2, "hint": "詢問 you 用 do。" },
+          { "id": "gg-u3-q036", "question": "He ___ basketball after school.", "options": ["A. play", "B. playing", "C. played", "D. plays"], "answer": "D", "answer_index": 3, "hint": "第三人稱單數 he，play 加 s → plays。" },
+          { "id": "gg-u3-q037", "question": "「你放學後做什麼？」英文是？", "options": ["A. What do you do after school?", "B. What does you do after school?", "C. How do you do after school?", "D. Where do you do after school?"], "answer": "A", "answer_index": 0, "hint": "What do you do after school?" },
+          { "id": "gg-u3-q038", "question": "She ___ baseball in her free time.", "options": ["A. play", "B. plays", "C. playing", "D. played"], "answer": "B", "answer_index": 1, "hint": "第三人稱單數 she，play 加 s → plays。" },
+          { "id": "gg-u3-q039", "question": "What ___ he do after school? He watches TV.", "options": ["A. do", "B. is", "C. does", "D. are"], "answer": "C", "answer_index": 2, "hint": "詢問第三人稱單數 he 用 does。" },
+          { "id": "gg-u3-q040", "question": "I ___ music after school.", "options": ["A. listens to", "B. listening to", "C. to listen to", "D. listen to"], "answer": "D", "answer_index": 3, "hint": "I 後面用動詞原形 listen to。" },
+          { "id": "gg-u3-q041", "question": "Which phrase means 打棒球?", "options": ["A. play baseball", "B. play basketball", "C. play football", "D. watch TV"], "answer": "A", "answer_index": 0, "hint": "play baseball = 打棒球。" },
+          { "id": "gg-u3-q042", "question": "He ___ the Internet after school.", "options": ["A. surf", "B. surfs", "C. surfing", "D. to surf"], "answer": "B", "answer_index": 1, "hint": "第三人稱單數 he，surf 加 s → surfs。" },
+          { "id": "gg-u3-q043", "question": "What ___ she do after school? She rides a bike.", "options": ["A. do", "B. is", "C. does", "D. are"], "answer": "C", "answer_index": 2, "hint": "詢問第三人稱單數 she 用 does。" },
+          { "id": "gg-u3-q044", "question": "What does he do in his free time? He ___ jogging.", "options": ["A. go", "B. going", "C. gone", "D. goes"], "answer": "D", "answer_index": 3, "hint": "第三人稱單數 he，go 加 es → goes。" },
+          { "id": "gg-u3-q045", "question": "Which phrase means 聽音樂?", "options": ["A. listen to music", "B. play football", "C. go jogging", "D. watch TV"], "answer": "A", "answer_index": 0, "hint": "listen to music = 聽音樂。" },
+          { "id": "gg-u3-q046", "question": "She ___ football in her free time.", "options": ["A. play", "B. plays", "C. playing", "D. played"], "answer": "B", "answer_index": 1, "hint": "第三人稱單數 she，play 加 s → plays。" },
+          { "id": "gg-u3-q047", "question": "What ___ he do in his free time? He plays basketball.", "options": ["A. do", "B. is", "C. does", "D. are"], "answer": "C", "answer_index": 2, "hint": "詢問第三人稱單數 he 用 does。" },
+          { "id": "gg-u3-q048", "question": "「他在空閒時看電視。」英文是？", "options": ["A. He watch TV in his free time.", "B. He watches basketball in his free time.", "C. She watches TV in her free time.", "D. He watches TV in his free time."], "answer": "D", "answer_index": 3, "hint": "He watches（三單），TV，in his free time。" },
+          { "id": "gg-u3-q049", "question": "Which phrase means 上網?", "options": ["A. surf the Internet", "B. listen to music", "C. ride a bike", "D. go jogging"], "answer": "A", "answer_index": 0, "hint": "surf the Internet = 上網。" },
+          { "id": "gg-u3-q050", "question": "She ___ jogging every morning.", "options": ["A. go", "B. goes", "C. going", "D. gone"], "answer": "B", "answer_index": 1, "hint": "第三人稱單數 she，go 加 es → goes。" }
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          { "id": "gg-u3-sv001", "vocab_id": "gg-u3-v001", "sentence": "I listen to music after school.", "sentence_chinese": "我放學後聽音樂。" },
+          { "id": "gg-u3-sv002", "vocab_id": "gg-u3-v002", "sentence": "Does he play baseball? Yes, he does.", "sentence_chinese": "他打棒球嗎？是的，他打。" },
+          { "id": "gg-u3-sv003", "vocab_id": "gg-u3-v003", "sentence": "I play basketball after school.", "sentence_chinese": "我放學後打籃球。" },
+          { "id": "gg-u3-sv004", "vocab_id": "gg-u3-v004", "sentence": "She plays football in her free time.", "sentence_chinese": "她在空閒時踢足球。" },
+          { "id": "gg-u3-sv005", "vocab_id": "gg-u3-v005", "sentence": "What does she do after school? She rides a bike.", "sentence_chinese": "她放學後做什麼？她騎腳踏車。" },
+          { "id": "gg-u3-sv006", "vocab_id": "gg-u3-v006", "sentence": "Do you surf the Internet? Yes, I do.", "sentence_chinese": "你上網嗎？是的，我上。" },
+          { "id": "gg-u3-sv007", "vocab_id": "gg-u3-v007", "sentence": "I go jogging every morning.", "sentence_chinese": "我每天早上去慢跑。" },
+          { "id": "gg-u3-sv008", "vocab_id": "gg-u3-v008", "sentence": "What does he do after school? He watches TV.", "sentence_chinese": "他放學後做什麼？他看電視。" }
+        ],
+        "phrases": [
+          { "id": "gg-u3-sp001", "phrase_id": "gg-u3-p001", "sentence": "What do you do after school? I go jogging after school.", "sentence_chinese": "你放學後做什麼？我放學後去慢跑。" },
+          { "id": "gg-u3-sp002", "phrase_id": "gg-u3-p002", "sentence": "Keep practicing! No pain, no gain.", "sentence_chinese": "繼續練習！一分耕耘，一分收穫。" }
+        ],
+        "grammar": [
+          { "id": "gg-u3-sg001", "sentence": "What do you do after school?", "sentence_chinese": "你放學後做什麼？" },
+          { "id": "gg-u3-sg002", "sentence": "I go jogging after school.", "sentence_chinese": "我放學後去慢跑。" },
+          { "id": "gg-u3-sg003", "sentence": "I play basketball after school.", "sentence_chinese": "我放學後打籃球。" },
+          { "id": "gg-u3-sg004", "sentence": "I listen to music after school.", "sentence_chinese": "我放學後聽音樂。" },
+          { "id": "gg-u3-sg005", "sentence": "What does he do after school?", "sentence_chinese": "他放學後做什麼？" },
+          { "id": "gg-u3-sg006", "sentence": "He watches TV after school.", "sentence_chinese": "他放學後看電視。" },
+          { "id": "gg-u3-sg007", "sentence": "What does she do in her free time?", "sentence_chinese": "她在空閒時做什麼？" },
+          { "id": "gg-u3-sg008", "sentence": "She plays football in her free time.", "sentence_chinese": "她在空閒時踢足球。" },
+          { "id": "gg-u3-sg009", "sentence": "She rides a bike after school.", "sentence_chinese": "她放學後騎腳踏車。" },
+          { "id": "gg-u3-sg010", "sentence": "What does he do in his free time?", "sentence_chinese": "他在空閒時做什麼？" },
+          { "id": "gg-u3-sg011", "sentence": "He plays baseball in his free time.", "sentence_chinese": "他在空閒時打棒球。" },
+          { "id": "gg-u3-sg012", "sentence": "He surfs the Internet after school.", "sentence_chinese": "他放學後上網。" },
+          { "id": "gg-u3-sg013", "sentence": "What do you do in your free time?", "sentence_chinese": "你在空閒時做什麼？" },
+          { "id": "gg-u3-sg014", "sentence": "I watch TV in my free time.", "sentence_chinese": "我在空閒時看電視。" },
+          { "id": "gg-u3-sg015", "sentence": "I surf the Internet after school.", "sentence_chinese": "我放學後上網。" },
+          { "id": "gg-u3-sg016", "sentence": "She listens to music in her free time.", "sentence_chinese": "她在空閒時聽音樂。" },
+          { "id": "gg-u3-sg017", "sentence": "He goes jogging after school.", "sentence_chinese": "他放學後去慢跑。" },
+          { "id": "gg-u3-sg018", "sentence": "She plays basketball after school.", "sentence_chinese": "她放學後打籃球。" },
+          { "id": "gg-u3-sg019", "sentence": "What do you do after school? I play football.", "sentence_chinese": "你放學後做什麼？我踢足球。" },
+          { "id": "gg-u3-sg020", "sentence": "I ride a bike after school.", "sentence_chinese": "我放學後騎腳踏車。" },
+          { "id": "gg-u3-sg021", "sentence": "What does she do after school?", "sentence_chinese": "她放學後做什麼？" },
+          { "id": "gg-u3-sg022", "sentence": "She goes jogging after school.", "sentence_chinese": "她放學後去慢跑。" },
+          { "id": "gg-u3-sg023", "sentence": "He plays basketball in his free time.", "sentence_chinese": "他在空閒時打籃球。" },
+          { "id": "gg-u3-sg024", "sentence": "She surfs the Internet in her free time.", "sentence_chinese": "她在空閒時上網。" },
+          { "id": "gg-u3-sg025", "sentence": "What does he do after school? He rides a bike.", "sentence_chinese": "他放學後做什麼？他騎腳踏車。" },
+          { "id": "gg-u3-sg026", "sentence": "I play baseball after school.", "sentence_chinese": "我放學後打棒球。" },
+          { "id": "gg-u3-sg027", "sentence": "What does she do? She listens to music.", "sentence_chinese": "她做什麼？她聽音樂。" },
+          { "id": "gg-u3-sg028", "sentence": "He watches TV in his free time.", "sentence_chinese": "他在空閒時看電視。" },
+          { "id": "gg-u3-sg029", "sentence": "She plays football after school.", "sentence_chinese": "她放學後踢足球。" },
+          { "id": "gg-u3-sg030", "sentence": "I go jogging every morning.", "sentence_chinese": "我每天早上去慢跑。" }
+        ]
+      }
+    }
+  }
+}

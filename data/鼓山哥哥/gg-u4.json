@@ -1,0 +1,139 @@
+{
+  "units": {
+    "gg-u4": {
+      "title": "Unit 4",
+      "vocab": [
+        { "id": "gg-u4-v001", "word": "get up", "part_of_speech": "v. phr.", "chinese": "起床", "sentence": "What time do you get up? I get up at 6:45.", "sentence_chinese": "你幾點起床？我六點四十五分起床。" },
+        { "id": "gg-u4-v002", "word": "go to school", "part_of_speech": "v. phr.", "chinese": "去上學", "sentence": "I go to school at seven.", "sentence_chinese": "我七點去上學。" },
+        { "id": "gg-u4-v003", "word": "have lunch", "part_of_speech": "v. phr.", "chinese": "吃午餐", "sentence": "When does she have lunch? She has lunch at noon.", "sentence_chinese": "她什麼時候吃午餐？她在中午吃午餐。" },
+        { "id": "gg-u4-v004", "word": "go home", "part_of_speech": "v. phr.", "chinese": "回家", "sentence": "I go home at four.", "sentence_chinese": "我四點回家。" },
+        { "id": "gg-u4-v005", "word": "do my homework", "part_of_speech": "v. phr.", "chinese": "做我的作業", "sentence": "What time does he do his homework? He does it at 5:30.", "sentence_chinese": "他幾點做作業？他五點半做。" },
+        { "id": "gg-u4-v006", "word": "take a bath", "part_of_speech": "v. phr.", "chinese": "洗澡", "sentence": "I take a bath at eight.", "sentence_chinese": "我八點洗澡。" },
+        { "id": "gg-u4-v007", "word": "go to bed", "part_of_speech": "v. phr.", "chinese": "去睡覺", "sentence": "What time do you go to bed? I go to bed at ten.", "sentence_chinese": "你幾點睡覺？我十點睡覺。" }
+      ],
+      "phrases": [
+        { "id": "gg-u4-p001", "phrase": "What time is it?", "chinese": "現在幾點？", "sentence": "What time is it? It's seven o'clock.", "sentence_chinese": "現在幾點？七點鐘。" },
+        { "id": "gg-u4-p002", "phrase": "Honesty is the best policy.", "chinese": "誠實是上策。", "sentence": "Always tell the truth. Honesty is the best policy.", "sentence_chinese": "永遠說實話。誠實是上策。" }
+      ],
+      "grammar": {
+        "tips": [
+          { "label": "What time do you + 動詞？", "text": "詢問「你幾點做某事？」用 What time do you + 動詞？回答用 I + 動詞 + at + 時間。" },
+          { "label": "What time does he/she + 動詞？", "text": "詢問「他/她幾點做某事？」用 What time does he/she + 動詞原形？回答用 He/She + 動詞(三單) + at + 時間。" }
+        ],
+        "notes": [
+          {
+            "title": "What time do you + 動詞？（詢問你的日常時間）",
+            "rule": "What time do you + 動詞原形? I + 動詞原形 + at + 時間.",
+            "description": "用 What time do you...? 詢問你幾點做某件事。回答用 I + 動詞 + at + 時間。",
+            "examples": ["What time do you get up? I get up at 6:45.", "What time do you go to school? I go to school at seven.", "What time do you go to bed? I go to bed at ten.", "What time do you go home? I go home at four."]
+          },
+          {
+            "title": "What time does he/she + 動詞？（詢問他人的日常時間）",
+            "rule": "What time does he/she + 動詞原形? He/She + 動詞(三單) + at + 時間.",
+            "description": "詢問第三者幾點做某件事。Does 後面跟動詞原形，回答的主句用三單動詞。",
+            "examples": ["What time does she get up? She gets up at seven.", "What time does he do his homework? He does his homework at 5:30.", "What time does she have lunch? She has lunch at noon.", "What time does he go to bed? He goes to bed at nine."]
+          }
+        ],
+        "quiz": [
+          { "id": "gg-u4-q001", "question": "What ___ do you get up? I get up at 6:45.", "options": ["A. time", "B. day", "C. year", "D. place"], "answer": "A", "answer_index": 0, "hint": "詢問幾點用 What time。" },
+          { "id": "gg-u4-q002", "question": "What time do you get up? I ___ up at seven.", "options": ["A. goes", "B. get", "C. getting", "D. got"], "answer": "B", "answer_index": 1, "hint": "I 後面用動詞原形 get。" },
+          { "id": "gg-u4-q003", "question": "What time does she get up? She ___ up at 6:30.", "options": ["A. get", "B. getting", "C. gets", "D. got"], "answer": "C", "answer_index": 2, "hint": "第三人稱單數 she，get 加 s → gets。" },
+          { "id": "gg-u4-q004", "question": "What time ___ he go to school? He goes at eight.", "options": ["A. do", "B. is", "C. are", "D. does"], "answer": "D", "answer_index": 3, "hint": "詢問第三人稱單數 he 用 does。" },
+          { "id": "gg-u4-q005", "question": "Which phrase means 起床?", "options": ["A. get up", "B. go home", "C. go to bed", "D. take a bath"], "answer": "A", "answer_index": 0, "hint": "get up = 起床。" },
+          { "id": "gg-u4-q006", "question": "What time do you go to bed? I go to bed ___ ten.", "options": ["A. on", "B. at", "C. in", "D. of"], "answer": "B", "answer_index": 1, "hint": "幾點幾分前用介係詞 at。" },
+          { "id": "gg-u4-q007", "question": "What time does he have lunch? He ___ lunch at noon.", "options": ["A. have", "B. having", "C. has", "D. had"], "answer": "C", "answer_index": 2, "hint": "第三人稱單數 he，have → has。" },
+          { "id": "gg-u4-q008", "question": "What time ___ she take a bath? She takes a bath at nine.", "options": ["A. do", "B. is", "C. are", "D. does"], "answer": "D", "answer_index": 3, "hint": "詢問第三人稱單數 she 用 does。" },
+          { "id": "gg-u4-q009", "question": "Which phrase means 去睡覺?", "options": ["A. go to bed", "B. get up", "C. go home", "D. go to school"], "answer": "A", "answer_index": 0, "hint": "go to bed = 去睡覺。" },
+          { "id": "gg-u4-q010", "question": "I go to school ___ 7:30.", "options": ["A. on", "B. at", "C. in", "D. of"], "answer": "B", "answer_index": 1, "hint": "幾點幾分前用介係詞 at。" },
+          { "id": "gg-u4-q011", "question": "What time does he go home? He ___ home at four.", "options": ["A. go", "B. going", "C. goes", "D. gone"], "answer": "C", "answer_index": 2, "hint": "第三人稱單數 he，go 加 es → goes。" },
+          { "id": "gg-u4-q012", "question": "What time ___ you take a bath? I take a bath at eight.", "options": ["A. does", "B. is", "C. are", "D. do"], "answer": "D", "answer_index": 3, "hint": "詢問 you 用 do。" },
+          { "id": "gg-u4-q013", "question": "Which phrase means 做我的作業?", "options": ["A. do my homework", "B. go to school", "C. have lunch", "D. take a bath"], "answer": "A", "answer_index": 0, "hint": "do my homework = 做我的作業。" },
+          { "id": "gg-u4-q014", "question": "She does her homework ___ 5:30.", "options": ["A. on", "B. at", "C. in", "D. of"], "answer": "B", "answer_index": 1, "hint": "幾點幾分前用介係詞 at。" },
+          { "id": "gg-u4-q015", "question": "What time does she go to bed? She ___ to bed at ten.", "options": ["A. go", "B. going", "C. goes", "D. gone"], "answer": "C", "answer_index": 2, "hint": "第三人稱單數 she，go 加 es → goes。" },
+          { "id": "gg-u4-q016", "question": "What time ___ you go home? I go home at four.", "options": ["A. does", "B. is", "C. are", "D. do"], "answer": "D", "answer_index": 3, "hint": "詢問 you 用 do。" },
+          { "id": "gg-u4-q017", "question": "Which phrase means 吃午餐?", "options": ["A. have lunch", "B. take a bath", "C. go to bed", "D. get up"], "answer": "A", "answer_index": 0, "hint": "have lunch = 吃午餐。" },
+          { "id": "gg-u4-q018", "question": "He ___ up at 6:45 every day.", "options": ["A. get", "B. gets", "C. getting", "D. got"], "answer": "B", "answer_index": 1, "hint": "第三人稱單數 he，get 加 s → gets。" },
+          { "id": "gg-u4-q019", "question": "What time ___ he do his homework? He does it at five.", "options": ["A. do", "B. is", "C. does", "D. are"], "answer": "C", "answer_index": 2, "hint": "詢問第三人稱單數 he 用 does。" },
+          { "id": "gg-u4-q020", "question": "I take a bath ___ eight o'clock.", "options": ["A. on", "B. in", "C. of", "D. at"], "answer": "D", "answer_index": 3, "hint": "幾點幾分前用介係詞 at。" },
+          { "id": "gg-u4-q021", "question": "Which phrase means 回家?", "options": ["A. go home", "B. go to school", "C. get up", "D. go to bed"], "answer": "A", "answer_index": 0, "hint": "go home = 回家。" },
+          { "id": "gg-u4-q022", "question": "She ___ lunch at noon.", "options": ["A. have", "B. has", "C. having", "D. had"], "answer": "B", "answer_index": 1, "hint": "第三人稱單數 she，have → has。" },
+          { "id": "gg-u4-q023", "question": "What time ___ she go to school? She goes at 7:30.", "options": ["A. do", "B. is", "C. does", "D. are"], "answer": "C", "answer_index": 2, "hint": "詢問第三人稱單數 she 用 does。" },
+          { "id": "gg-u4-q024", "question": "What time do you do your homework? I do my homework ___ five.", "options": ["A. in", "B. on", "C. of", "D. at"], "answer": "D", "answer_index": 3, "hint": "幾點幾分前用介係詞 at。" },
+          { "id": "gg-u4-q025", "question": "Which phrase means 洗澡?", "options": ["A. take a bath", "B. have lunch", "C. go home", "D. do my homework"], "answer": "A", "answer_index": 0, "hint": "take a bath = 洗澡。" },
+          { "id": "gg-u4-q026", "question": "He ___ to bed at nine.", "options": ["A. go", "B. goes", "C. going", "D. gone"], "answer": "B", "answer_index": 1, "hint": "第三人稱單數 he，go 加 es → goes。" },
+          { "id": "gg-u4-q027", "question": "What time ___ you get up? I get up at six.", "options": ["A. does", "B. is", "C. do", "D. are"], "answer": "C", "answer_index": 2, "hint": "詢問 you 用 do。" },
+          { "id": "gg-u4-q028", "question": "What time does she take a bath? She ___ a bath at eight.", "options": ["A. take", "B. taking", "C. took", "D. takes"], "answer": "D", "answer_index": 3, "hint": "第三人稱單數 she，take 加 s → takes。" },
+          { "id": "gg-u4-q029", "question": "Which phrase means 去上學?", "options": ["A. go to school", "B. go to bed", "C. go home", "D. get up"], "answer": "A", "answer_index": 0, "hint": "go to school = 去上學。" },
+          { "id": "gg-u4-q030", "question": "She ___ to school at 7:30.", "options": ["A. go", "B. goes", "C. going", "D. gone"], "answer": "B", "answer_index": 1, "hint": "第三人稱單數 she，go 加 es → goes。" },
+          { "id": "gg-u4-q031", "question": "What time ___ he get up? He gets up at six.", "options": ["A. do", "B. is", "C. does", "D. are"], "answer": "C", "answer_index": 2, "hint": "詢問第三人稱單數 he 用 does。" },
+          { "id": "gg-u4-q032", "question": "「你幾點起床？我六點四十五分起床。」英文是？", "options": ["A. What time do you get up? I get up at 6:45.", "B. What time does you get up? I get up at 6:45.", "C. What time do you get up? She gets up at 6:45.", "D. What time do you wake up? I get up at 6:45."], "answer": "A", "answer_index": 0, "hint": "What time do you get up? I get up at 6:45." },
+          { "id": "gg-u4-q033", "question": "He does his homework ___ 5:30.", "options": ["A. on", "B. at", "C. in", "D. of"], "answer": "B", "answer_index": 1, "hint": "幾點幾分前用介係詞 at。" },
+          { "id": "gg-u4-q034", "question": "What time does he go home? He ___ home at four.", "options": ["A. go", "B. going", "C. goes", "D. gone"], "answer": "C", "answer_index": 2, "hint": "第三人稱單數 he，go 加 es → goes。" },
+          { "id": "gg-u4-q035", "question": "What time ___ you have lunch? I have lunch at noon.", "options": ["A. does", "B. is", "C. are", "D. do"], "answer": "D", "answer_index": 3, "hint": "詢問 you 用 do。" },
+          { "id": "gg-u4-q036", "question": "Which phrase means 去睡覺?", "options": ["A. get up", "B. go home", "C. go to school", "D. go to bed"], "answer": "D", "answer_index": 3, "hint": "go to bed = 去睡覺。" },
+          { "id": "gg-u4-q037", "question": "「他幾點做作業？他五點半做。」英文是？", "options": ["A. What time does he do his homework? He does it at 5:30.", "B. What time do he do his homework? He does it at 5:30.", "C. What time does he do his homework? He do it at 5:30.", "D. What time does she do her homework? She does it at 5:30."], "answer": "A", "answer_index": 0, "hint": "What time does he...? He does it at 5:30." },
+          { "id": "gg-u4-q038", "question": "I go to bed ___ ten o'clock.", "options": ["A. on", "B. at", "C. in", "D. of"], "answer": "B", "answer_index": 1, "hint": "幾點幾分前用介係詞 at。" },
+          { "id": "gg-u4-q039", "question": "What time ___ she take a bath? She takes a bath at eight.", "options": ["A. do", "B. is", "C. does", "D. are"], "answer": "C", "answer_index": 2, "hint": "詢問第三人稱單數 she 用 does。" },
+          { "id": "gg-u4-q040", "question": "What time do you go to school? I ___ to school at seven.", "options": ["A. goes", "B. going", "C. gone", "D. go"], "answer": "D", "answer_index": 3, "hint": "I 後面用動詞原形 go。" },
+          { "id": "gg-u4-q041", "question": "Which phrase means 吃午餐?", "options": ["A. have lunch", "B. take a bath", "C. get up", "D. go to bed"], "answer": "A", "answer_index": 0, "hint": "have lunch = 吃午餐。" },
+          { "id": "gg-u4-q042", "question": "She ___ her homework at five.", "options": ["A. do", "B. does", "C. doing", "D. done"], "answer": "B", "answer_index": 1, "hint": "第三人稱單數 she，do → does。" },
+          { "id": "gg-u4-q043", "question": "What time ___ you go home? I go home at four.", "options": ["A. does", "B. is", "C. do", "D. are"], "answer": "C", "answer_index": 2, "hint": "詢問 you 用 do。" },
+          { "id": "gg-u4-q044", "question": "He ___ up at seven every day.", "options": ["A. get", "B. getting", "C. got", "D. gets"], "answer": "D", "answer_index": 3, "hint": "第三人稱單數 he，get 加 s → gets。" },
+          { "id": "gg-u4-q045", "question": "Which phrase means 洗澡?", "options": ["A. take a bath", "B. go to bed", "C. have lunch", "D. go home"], "answer": "A", "answer_index": 0, "hint": "take a bath = 洗澡。" },
+          { "id": "gg-u4-q046", "question": "I get up ___ 6:45.", "options": ["A. on", "B. at", "C. in", "D. of"], "answer": "B", "answer_index": 1, "hint": "幾點幾分前用介係詞 at。" },
+          { "id": "gg-u4-q047", "question": "What time ___ she go to bed? She goes to bed at ten.", "options": ["A. do", "B. is", "C. does", "D. are"], "answer": "C", "answer_index": 2, "hint": "詢問第三人稱單數 she 用 does。" },
+          { "id": "gg-u4-q048", "question": "「你幾點去睡覺？」英文是？", "options": ["A. What day do you go to bed?", "B. What time does you go to bed?", "C. What time is you go to bed?", "D. What time do you go to bed?"], "answer": "D", "answer_index": 3, "hint": "What time do you go to bed?" },
+          { "id": "gg-u4-q049", "question": "Which phrase means 做我的作業?", "options": ["A. do my homework", "B. take a bath", "C. have lunch", "D. get up"], "answer": "A", "answer_index": 0, "hint": "do my homework = 做我的作業。" },
+          { "id": "gg-u4-q050", "question": "She ___ to school at 7:30.", "options": ["A. go", "B. goes", "C. going", "D. gone"], "answer": "B", "answer_index": 1, "hint": "第三人稱單數 she，go 加 es → goes。" }
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          { "id": "gg-u4-sv001", "vocab_id": "gg-u4-v001", "sentence": "What time do you get up? I get up at 6:45.", "sentence_chinese": "你幾點起床？我六點四十五分起床。" },
+          { "id": "gg-u4-sv002", "vocab_id": "gg-u4-v002", "sentence": "I go to school at seven.", "sentence_chinese": "我七點去上學。" },
+          { "id": "gg-u4-sv003", "vocab_id": "gg-u4-v003", "sentence": "When does she have lunch? She has lunch at noon.", "sentence_chinese": "她什麼時候吃午餐？她在中午吃午餐。" },
+          { "id": "gg-u4-sv004", "vocab_id": "gg-u4-v004", "sentence": "I go home at four.", "sentence_chinese": "我四點回家。" },
+          { "id": "gg-u4-sv005", "vocab_id": "gg-u4-v005", "sentence": "What time does he do his homework? He does it at 5:30.", "sentence_chinese": "他幾點做作業？他五點半做。" },
+          { "id": "gg-u4-sv006", "vocab_id": "gg-u4-v006", "sentence": "I take a bath at eight.", "sentence_chinese": "我八點洗澡。" },
+          { "id": "gg-u4-sv007", "vocab_id": "gg-u4-v007", "sentence": "What time do you go to bed? I go to bed at ten.", "sentence_chinese": "你幾點睡覺？我十點睡覺。" }
+        ],
+        "phrases": [
+          { "id": "gg-u4-sp001", "phrase_id": "gg-u4-p001", "sentence": "What time is it? It's seven o'clock.", "sentence_chinese": "現在幾點？七點鐘。" },
+          { "id": "gg-u4-sp002", "phrase_id": "gg-u4-p002", "sentence": "Always tell the truth. Honesty is the best policy.", "sentence_chinese": "永遠說實話。誠實是上策。" }
+        ],
+        "grammar": [
+          { "id": "gg-u4-sg001", "sentence": "What time do you get up?", "sentence_chinese": "你幾點起床？" },
+          { "id": "gg-u4-sg002", "sentence": "I get up at 6:45.", "sentence_chinese": "我六點四十五分起床。" },
+          { "id": "gg-u4-sg003", "sentence": "I go to school at seven.", "sentence_chinese": "我七點去上學。" },
+          { "id": "gg-u4-sg004", "sentence": "I have lunch at noon.", "sentence_chinese": "我在中午吃午餐。" },
+          { "id": "gg-u4-sg005", "sentence": "What time do you go home?", "sentence_chinese": "你幾點回家？" },
+          { "id": "gg-u4-sg006", "sentence": "I go home at four.", "sentence_chinese": "我四點回家。" },
+          { "id": "gg-u4-sg007", "sentence": "I do my homework at five.", "sentence_chinese": "我五點做作業。" },
+          { "id": "gg-u4-sg008", "sentence": "I take a bath at eight.", "sentence_chinese": "我八點洗澡。" },
+          { "id": "gg-u4-sg009", "sentence": "I go to bed at ten.", "sentence_chinese": "我十點睡覺。" },
+          { "id": "gg-u4-sg010", "sentence": "What time does she get up?", "sentence_chinese": "她幾點起床？" },
+          { "id": "gg-u4-sg011", "sentence": "She gets up at seven.", "sentence_chinese": "她七點起床。" },
+          { "id": "gg-u4-sg012", "sentence": "She goes to school at 7:30.", "sentence_chinese": "她七點半去上學。" },
+          { "id": "gg-u4-sg013", "sentence": "What time does he have lunch?", "sentence_chinese": "他幾點吃午餐？" },
+          { "id": "gg-u4-sg014", "sentence": "He has lunch at noon.", "sentence_chinese": "他在中午吃午餐。" },
+          { "id": "gg-u4-sg015", "sentence": "What time does he go home?", "sentence_chinese": "他幾點回家？" },
+          { "id": "gg-u4-sg016", "sentence": "He goes home at four.", "sentence_chinese": "他四點回家。" },
+          { "id": "gg-u4-sg017", "sentence": "What time does she do her homework?", "sentence_chinese": "她幾點做作業？" },
+          { "id": "gg-u4-sg018", "sentence": "She does her homework at 5:30.", "sentence_chinese": "她五點半做作業。" },
+          { "id": "gg-u4-sg019", "sentence": "What time does he take a bath?", "sentence_chinese": "他幾點洗澡？" },
+          { "id": "gg-u4-sg020", "sentence": "He takes a bath at eight.", "sentence_chinese": "他八點洗澡。" },
+          { "id": "gg-u4-sg021", "sentence": "What time does she go to bed?", "sentence_chinese": "她幾點睡覺？" },
+          { "id": "gg-u4-sg022", "sentence": "She goes to bed at ten.", "sentence_chinese": "她十點睡覺。" },
+          { "id": "gg-u4-sg023", "sentence": "What time do you get up? I get up at six.", "sentence_chinese": "你幾點起床？我六點起床。" },
+          { "id": "gg-u4-sg024", "sentence": "What time do you go to bed? I go to bed at nine.", "sentence_chinese": "你幾點睡覺？我九點睡覺。" },
+          { "id": "gg-u4-sg025", "sentence": "He does his homework at five.", "sentence_chinese": "他五點做作業。" },
+          { "id": "gg-u4-sg026", "sentence": "She takes a bath at nine.", "sentence_chinese": "她九點洗澡。" },
+          { "id": "gg-u4-sg027", "sentence": "What time do you do your homework?", "sentence_chinese": "你幾點做作業？" },
+          { "id": "gg-u4-sg028", "sentence": "I do my homework at 5:30.", "sentence_chinese": "我五點半做作業。" },
+          { "id": "gg-u4-sg029", "sentence": "He goes to school at seven.", "sentence_chinese": "他七點去上學。" },
+          { "id": "gg-u4-sg030", "sentence": "She goes to bed at ten.", "sentence_chinese": "她十點睡覺。" }
+        ]
+      }
+    }
+  }
+}
