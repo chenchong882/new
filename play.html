@@ -1584,9 +1584,11 @@
                         <button key={g.key} onClick={() => openGame(g)}
                             className="w-full bg-slate-800 border-2 border-slate-700 hover:border-emerald-500 p-5 rounded-2xl text-left transition-all group relative overflow-hidden">
                             <div className="absolute inset-0 bg-emerald-400/5 opacity-0 group-hover:opacity-100 transition-opacity rounded-2xl" />
-                            <span className="absolute top-2 right-2 bg-emerald-400 text-emerald-950 text-xs font-black px-2 py-0.5 rounded-full border-b-2 border-emerald-600">🆕 新版</span>
                             <div className="relative flex items-center gap-4">
-                                <div className="text-4xl select-none">{g.emoji}</div>
+                                <div className="w-14 h-14 bg-slate-600 rounded-2xl border border-slate-500 flex flex-col items-center justify-center gap-0.5 shrink-0 shadow-inner">
+                                    <span className="text-2xl leading-none select-none">{g.emoji}</span>
+                                    <span className="text-white font-black text-[9px] tracking-widest leading-none">NEW</span>
+                                </div>
                                 <div>
                                     <div className="text-white font-black text-lg">{g.title}</div>
                                     <div className="text-slate-400 text-sm font-bold mt-0.5">{g.desc}</div>
