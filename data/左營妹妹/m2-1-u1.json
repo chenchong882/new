@@ -1,0 +1,339 @@
+{
+  "units": {
+    "m2-1-u1": {
+      "title": "Lesson 1",
+      "vocab": [
+        { "id": "m2-1-u1-v001", "word": "yesterday", "part_of_speech": "副", "chinese": "昨天", "sentence": "I studied English yesterday.", "sentence_chinese": "我昨天研讀英文。" },
+        { "id": "m2-1-u1-v002", "word": "study", "part_of_speech": "動", "chinese": "研讀", "sentence": "We studied for the test last night.", "sentence_chinese": "我們昨晚為考試讀書。" },
+        { "id": "m2-1-u1-v003", "word": "jog", "part_of_speech": "動", "chinese": "慢跑", "sentence": "He jogged in the park yesterday morning.", "sentence_chinese": "他昨天早上在公園慢跑。" },
+        { "id": "m2-1-u1-v004", "word": "watch", "part_of_speech": "動", "chinese": "觀看", "sentence": "They watched a movie last night.", "sentence_chinese": "他們昨晚看了一部電影。" },
+        { "id": "m2-1-u1-v005", "word": "last", "part_of_speech": "形", "chinese": "前一個的", "sentence": "It was very cold last winter.", "sentence_chinese": "去年冬天很冷。" },
+        { "id": "m2-1-u1-v006", "word": "death", "part_of_speech": "名", "chinese": "死亡", "sentence": "We were sad about the death of the old man.", "sentence_chinese": "我們對那位老人的死感到難過。" },
+        { "id": "m2-1-u1-v007", "word": "remind...of", "part_of_speech": "片", "chinese": "想起", "sentence": "The song reminded me of my mother.", "sentence_chinese": "這首歌讓我想起我媽媽。" },
+        { "id": "m2-1-u1-v008", "word": "a few", "part_of_speech": "形", "chinese": "一些", "sentence": "I bought a few apples this morning.", "sentence_chinese": "我今天早上買了一些蘋果。" },
+        { "id": "m2-1-u1-v009", "word": "ago", "part_of_speech": "副", "chinese": "以前", "sentence": "Linda was in New York one week ago.", "sentence_chinese": "Linda 一週前在紐約。" },
+        { "id": "m2-1-u1-v010", "word": "parents", "part_of_speech": "名", "chinese": "父母親", "sentence": "My parents were busy yesterday.", "sentence_chinese": "我父母昨天很忙。" },
+        { "id": "m2-1-u1-v011", "word": "were", "part_of_speech": "動", "chinese": "是（are 的過去式）", "sentence": "You were at home last night.", "sentence_chinese": "你昨晚在家。" },
+        { "id": "m2-1-u1-v012", "word": "look after", "part_of_speech": "片", "chinese": "照顧", "sentence": "She looked after her little sister yesterday.", "sentence_chinese": "她昨天照顧她妹妹。" },
+        { "id": "m2-1-u1-v013", "word": "was", "part_of_speech": "動", "chinese": "是（am 和 is 的過去式）", "sentence": "He was a student last year.", "sentence_chinese": "他去年是一位學生。" },
+        { "id": "m2-1-u1-v014", "word": "must", "part_of_speech": "助", "chinese": "一定；必須", "sentence": "You must be kind to old people.", "sentence_chinese": "你必須善待老人。" },
+        { "id": "m2-1-u1-v015", "word": "pass away", "part_of_speech": "片", "chinese": "過世", "sentence": "My grandfather passed away two years ago.", "sentence_chinese": "我祖父兩年前過世了。" },
+        { "id": "m2-1-u1-v016", "word": "after all", "part_of_speech": "片", "chinese": "畢竟", "sentence": "After all, he is only five years old.", "sentence_chinese": "畢竟他才五歲。" },
+        { "id": "m2-1-u1-v017", "word": "memory", "part_of_speech": "名", "chinese": "回憶；記憶", "sentence": "I have sweet memories of my grandmother.", "sentence_chinese": "我有關於祖母的甜美回憶。" },
+        { "id": "m2-1-u1-v018", "word": "together", "part_of_speech": "副", "chinese": "一起", "sentence": "We watched the movie together last night.", "sentence_chinese": "我們昨晚一起看那部電影。" },
+        { "id": "m2-1-u1-v019", "word": "sweet", "part_of_speech": "形", "chinese": "貼心的；甜的", "sentence": "It was sweet of you to help me.", "sentence_chinese": "你幫我真貼心。" },
+        { "id": "m2-1-u1-v020", "word": "dress up", "part_of_speech": "片", "chinese": "裝扮", "sentence": "The boys dressed up in costumes.", "sentence_chinese": "男孩們盛裝打扮。" },
+        { "id": "m2-1-u1-v021", "word": "music", "part_of_speech": "名", "chinese": "音樂", "sentence": "They danced to music last night.", "sentence_chinese": "他們昨晚隨音樂起舞。" },
+        { "id": "m2-1-u1-v022", "word": "circle", "part_of_speech": "名", "chinese": "圓圈", "sentence": "The students stood in a circle.", "sentence_chinese": "學生們圍成一個圓圈。" },
+        { "id": "m2-1-u1-v023", "word": "plant", "part_of_speech": "動", "chinese": "種植", "sentence": "We planted flowers in the garden yesterday.", "sentence_chinese": "我們昨天在花園裡種花。" },
+        { "id": "m2-1-u1-v024", "word": "flower", "part_of_speech": "名", "chinese": "花", "sentence": "She placed flowers on the tomb.", "sentence_chinese": "她把花放在墳墓上。" },
+        { "id": "m2-1-u1-v025", "word": "place", "part_of_speech": "動", "chinese": "放置", "sentence": "He placed a candle on the table.", "sentence_chinese": "他把一根蠟燭放在桌上。" },
+        { "id": "m2-1-u1-v026", "word": "candle", "part_of_speech": "名", "chinese": "蠟燭", "sentence": "There were ten candles on the cake.", "sentence_chinese": "蛋糕上有十根蠟燭。" },
+        { "id": "m2-1-u1-v027", "word": "tomb", "part_of_speech": "名", "chinese": "墳墓", "sentence": "People sweep tombs on Tomb Sweeping Day.", "sentence_chinese": "人們在清明節掃墓。" },
+        { "id": "m2-1-u1-v028", "word": "sweep", "part_of_speech": "動", "chinese": "清掃", "sentence": "I swept the floor this morning.", "sentence_chinese": "我今天早上掃了地。" },
+        { "id": "m2-1-u1-v029", "word": "remember", "part_of_speech": "動", "chinese": "記得", "sentence": "I still remember my first teacher.", "sentence_chinese": "我仍然記得我的第一位老師。" },
+        { "id": "m2-1-u1-v030", "word": "dead", "part_of_speech": "形", "chinese": "死亡的", "sentence": "The old tree was dead last year.", "sentence_chinese": "那棵老樹去年就枯死了。" },
+        { "id": "m2-1-u1-v031", "word": "relative", "part_of_speech": "名", "chinese": "親戚；親屬", "sentence": "We welcomed our relatives with joy.", "sentence_chinese": "我們喜悅地歡迎親戚們。" },
+        { "id": "m2-1-u1-v032", "word": "lively", "part_of_speech": "形", "chinese": "充滿活力的", "sentence": "They danced in a lively way.", "sentence_chinese": "他們用充滿活力的方式跳舞。" },
+        { "id": "m2-1-u1-v033", "word": "ghost", "part_of_speech": "名", "chinese": "鬼", "sentence": "Harry was scared of ghosts before.", "sentence_chinese": "Harry 以前怕鬼。" },
+        { "id": "m2-1-u1-v034", "word": "later", "part_of_speech": "副", "chinese": "之後；晚點", "sentence": "He came back home two hours later.", "sentence_chinese": "他兩小時後回到家。" },
+        { "id": "m2-1-u1-v035", "word": "candy", "part_of_speech": "名", "chinese": "糖果", "sentence": "The kids shared the candy last night.", "sentence_chinese": "孩子們昨晚分享了糖果。" },
+        { "id": "m2-1-u1-v036", "word": "meal", "part_of_speech": "名", "chinese": "餐", "sentence": "We cooked a big meal for our relatives.", "sentence_chinese": "我們為親戚們煮了一頓大餐。" },
+        { "id": "m2-1-u1-v037", "word": "share", "part_of_speech": "動", "chinese": "分享", "sentence": "I shared a room with my brother.", "sentence_chinese": "我跟我弟弟共用房間。" },
+        { "id": "m2-1-u1-v038", "word": "touching", "part_of_speech": "形", "chinese": "感人的", "sentence": "The story was really touching.", "sentence_chinese": "這個故事真的很感人。" },
+        { "id": "m2-1-u1-v039", "word": "story", "part_of_speech": "名", "chinese": "故事", "sentence": "We were all sad about that story.", "sentence_chinese": "我們全都對那個故事感到難過。" },
+        { "id": "m2-1-u1-v040", "word": "fear", "part_of_speech": "名", "chinese": "害怕", "sentence": "He had a fear of ghosts before.", "sentence_chinese": "他以前對鬼感到害怕。" }
+      ],
+      "phrases": [
+        { "id": "m2-1-u1-p001", "phrase": "after breakfast/lunch/dinner", "chinese": "早／午／晚餐後", "sentence": "After breakfast, I have fruit.", "sentence_chinese": "早餐後，我吃水果。" },
+        { "id": "m2-1-u1-p002", "phrase": "watch a/the movie", "chinese": "看／觀賞電影", "sentence": "We watched the movie together last night.", "sentence_chinese": "我們昨晚一起看那部電影。" },
+        { "id": "m2-1-u1-p003", "phrase": "last＋時間", "chinese": "上個…", "sentence": "It was very cold last winter.", "sentence_chinese": "去年冬天很冷。" },
+        { "id": "m2-1-u1-p004", "phrase": "a movie about...", "chinese": "有關…的電影", "sentence": "It's a movie about animals.", "sentence_chinese": "那是一部有關動物的電影。" },
+        { "id": "m2-1-u1-p005", "phrase": "remind＋人＋of＋事／人", "chinese": "使…（人）想起…（事／人）", "sentence": "The dress reminds me of my grandmother.", "sentence_chinese": "那件洋裝讓我想起祖母。" },
+        { "id": "m2-1-u1-p006", "phrase": "a few＋複數可數名詞", "chinese": "一些…", "sentence": "We need a few tables for the party.", "sentence_chinese": "我們宴會需要一些桌子。" },
+        { "id": "m2-1-u1-p007", "phrase": "一段時間＋ago", "chinese": "…以前", "sentence": "Linda was in New York one week ago.", "sentence_chinese": "Linda 一週前在紐約。" },
+        { "id": "m2-1-u1-p008", "phrase": "look after＋名詞／代名詞", "chinese": "照顧…", "sentence": "Please look after my sister for me.", "sentence_chinese": "請幫我照顧我妹妹。" },
+        { "id": "m2-1-u1-p009", "phrase": "all the time＝at all times", "chinese": "總是；一直", "sentence": "Jenny is busy all the time.", "sentence_chinese": "Jenny 隨時都很忙。" },
+        { "id": "m2-1-u1-p010", "phrase": "pass away", "chinese": "過世", "sentence": "My grandfather passed away two years ago.", "sentence_chinese": "我祖父兩年前過世了。" },
+        { "id": "m2-1-u1-p011", "phrase": "人＋be 動詞＋sad＋about...", "chinese": "對…感到悲傷（難過）", "sentence": "We were all sad about that story.", "sentence_chinese": "我們全都對那個故事感到難過。" },
+        { "id": "m2-1-u1-p012", "phrase": "after all", "chinese": "畢竟", "sentence": "Be kind to Ken. After all, he is only five years old.", "sentence_chinese": "對 Ken 要慈愛。畢竟，他才五歲。" },
+        { "id": "m2-1-u1-p013", "phrase": "walk＋人＋to school", "chinese": "和…走路上學", "sentence": "My friend walked me to school yesterday.", "sentence_chinese": "我的朋友昨天和我走路上學。" },
+        { "id": "m2-1-u1-p014", "phrase": "after school", "chinese": "放學後", "sentence": "After school, we played basketball.", "sentence_chinese": "放學後，我們打籃球。" },
+        { "id": "m2-1-u1-p015", "phrase": "play basketball with＋人", "chinese": "和…（人）打籃球", "sentence": "Ken played basketball with his classmates last Sunday.", "sentence_chinese": "上星期天 Ken 和他的同學們打籃球。" },
+        { "id": "m2-1-u1-p016", "phrase": "in different ways", "chinese": "用不同的方式", "sentence": "They helped us in different ways.", "sentence_chinese": "他們用不同的方式幫我們。" },
+        { "id": "m2-1-u1-p017", "phrase": "talk about...", "chinese": "談論（關於）…", "sentence": "The girls talked about the singer all night.", "sentence_chinese": "這些女孩整晚都在談論這位歌手。" },
+        { "id": "m2-1-u1-p018", "phrase": "on＋節日", "chinese": "在…節", "sentence": "Chinese people sweep tombs on Tomb Sweeping Day.", "sentence_chinese": "華人在清明節掃墓。" },
+        { "id": "m2-1-u1-p019", "phrase": "with joy", "chinese": "歡樂地；喜悅地", "sentence": "We welcomed our relatives with joy.", "sentence_chinese": "我們喜悅地歡迎親戚們。" },
+        { "id": "m2-1-u1-p020", "phrase": "in a/an＋形容詞＋way", "chinese": "用…的方式／法", "sentence": "They danced in a lively way.", "sentence_chinese": "他們用充滿活力的方式跳舞。" },
+        { "id": "m2-1-u1-p021", "phrase": "on＋…月…日", "chinese": "在…月…日", "sentence": "Alice was in Japan for New Year's Day on January first.", "sentence_chinese": "Alice 一月一日在日本過元旦。" },
+        { "id": "m2-1-u1-p022", "phrase": "invite...back to...", "chinese": "邀請…回…", "sentence": "The teacher invited her students back to the school.", "sentence_chinese": "那位老師邀請她的學生回學校。" },
+        { "id": "m2-1-u1-p023", "phrase": "dress up in costumes", "chinese": "盛裝打扮", "sentence": "The boys dressed up in costumes.", "sentence_chinese": "男孩們盛裝打扮。" },
+        { "id": "m2-1-u1-p024", "phrase": "事物＋be 動詞＋fun", "chinese": "…是好玩的", "sentence": "Painting the face is fun.", "sentence_chinese": "臉部彩繪很好玩。" },
+        { "id": "m2-1-u1-p025", "phrase": "cook a big meal for", "chinese": "為…煮大餐", "sentence": "We cooked a big meal for relatives last night.", "sentence_chinese": "昨晚我們為親戚們煮大餐。" },
+        { "id": "m2-1-u1-p026", "phrase": "share...with＋人", "chinese": "和…（人）分享／共用…", "sentence": "I shared a room with my brother then.", "sentence_chinese": "那時我跟我弟弟共用房間。" },
+        { "id": "m2-1-u1-p027", "phrase": "dance to music", "chinese": "隨音樂起舞", "sentence": "Mr. and Mrs. Brown danced to music in the living room last night.", "sentence_chinese": "昨晚 Brown 夫婦在客廳隨音樂起舞。" },
+        { "id": "m2-1-u1-p028", "phrase": "in a circle", "chinese": "成圓圈", "sentence": "The students stood in a circle and sang songs.", "sentence_chinese": "那些學生圍成圓圈唱歌。" }
+      ],
+      "grammar": {
+        "tips": [
+          { "label": "be 動詞過去式", "text": "主詞＋was/were（＋過去時間）。I/he/she/it → was；you/we/they → were" },
+          { "label": "一般動詞過去式", "text": "主詞＋動詞過去式（字尾加 ed），不論主詞是誰都不加 s/es" },
+          { "label": "過去式否定句", "text": "主詞＋didn't＋原形動詞" },
+          { "label": "過去式疑問句", "text": "Did＋主詞＋原形動詞...?　簡答：Yes, ... did. / No, ... didn't." },
+          { "label": "疑問詞開頭", "text": "疑問詞＋did＋主詞＋原形...?　但 who/what 當主詞時不加 did，直接接過去式動詞" },
+          { "label": "過去時間副詞", "text": "yesterday、last＋時間、…ago、just now、the day before yesterday，前面不加 in/on/at" }
+        ],
+        "notes": [
+          {
+            "title": "be 動詞的過去式與使用時機",
+            "rule": "am、is → was；are → were",
+            "description": "表達過去的事實或狀態。單數主詞（I/he/she/it）用 was；複數主詞與 you 用 were。句中常搭配過去時間副詞。",
+            "examples": [
+              "Brian was a student last year, but he is a farmer now.",
+              "The girls were at the party last night."
+            ]
+          },
+          {
+            "title": "過去時間副詞",
+            "rule": "yesterday（＋時間）／last＋時間／then／before／一段時間＋ago／this morning／the day before yesterday／just now／in the past／in＋過去年代",
+            "description": "句中出現這些時間副詞，動詞常用過去式。注意 yesterday、last＋時間前面不加介系詞 in/on/at。",
+            "examples": [
+              "It was very cold last winter.",
+              "Linda was in New York one week ago."
+            ]
+          },
+          {
+            "title": "be 動詞過去式的句型",
+            "rule": "肯定「主詞＋was/were...」；否定「主詞＋wasn't/weren't...」；疑問「Was/Were＋主詞...?」",
+            "description": "簡答時主詞一律用代名詞：Yes, I was. / No, I wasn't.。否定疑問句（Wasn't/Weren't＋主詞...?）回答時不管問句是否否定，照事實回答。",
+            "examples": [
+              "Were you happy last night? — Yes, I was.",
+              "They weren't actresses before."
+            ]
+          },
+          {
+            "title": "疑問詞開頭、含 was/were 的疑問句",
+            "rule": "疑問詞＋was/were＋主詞...（＋過去時間副詞）?",
+            "description": "回答不必用 Yes/No。疑問詞 who 或 what 當主詞時，視為第三人稱單數，用 was。",
+            "examples": [
+              "Where were Tony and Maria last Sunday afternoon? — They were in the movie theater.",
+              "Who was outside the restaurant half an hour ago? — Amber was."
+            ]
+          },
+          {
+            "title": "一般動詞過去式的規則變化",
+            "rule": "①字尾直接加 ed ②字尾有 e 只加 d ③短母音＋子音：重複字尾子音再加 ed ④子音＋y：去 y 加 ied ⑤特殊：picnic → picnicked",
+            "description": "過去式動詞不隨主詞變化，一律不加 s/es。例：watched、placed、shared、jogged、planned、shopped、studied、carried、cried。",
+            "examples": [
+              "Tony shopped in the night market yesterday evening.",
+              "Amy studied English two days ago."
+            ]
+          },
+          {
+            "title": "規則動詞字尾 ed 的發音",
+            "rule": "①字尾發無聲子音 → ed 唸 [t] ②字尾發母音或有聲子音 → ed 唸 [d] ③字尾發 [t] 或 [d] → ed 唸 [ɪd]",
+            "description": "記憶口訣：無聲配無聲 [t]，有聲配有聲 [d]，[t]/[d] 結尾多一個音節唸 [ɪd]。例：checked/danced/helped 唸 [t]；called/enjoyed/showed 唸 [d]；celebrated/invited/planted 唸 [ɪd]。",
+            "examples": [
+              "watched [t]",
+              "jogged [d]",
+              "reminded [ɪd]"
+            ]
+          },
+          {
+            "title": "一般動詞過去式的句型",
+            "rule": "肯定「主詞＋過去式動詞...」；否定「主詞＋didn't＋原形動詞...」；疑問「Did＋主詞＋原形動詞...?」",
+            "description": "didn't/Did 出現後，後面的動詞一律回到原形，字尾絕不可加 s、es、ing 或 ed。簡答：Yes, 主詞＋did. / No, 主詞＋didn't.",
+            "examples": [
+              "The boy didn't wash dishes the day before yesterday.",
+              "Did you visit your grandmother last weekend? — Yes, I did."
+            ]
+          },
+          {
+            "title": "否定疑問句（一般動詞）",
+            "rule": "Didn't＋主詞＋原形動詞...? ＝ Did＋主詞＋not＋原形動詞...?",
+            "description": "回答照事實，跟肯定疑問句一樣；中譯時 Yes 譯成「不」、No 譯成「是；沒錯」。",
+            "examples": [
+              "Didn't you jog yesterday evening? — Yes, I did.（不，我有。）"
+            ]
+          },
+          {
+            "title": "疑問詞開頭的過去式疑問句（一般動詞）",
+            "rule": "疑問詞（What/How/Who/When/Where/Why）＋did＋主詞＋原形動詞...?",
+            "description": "不必回答 Yes/No。「What did＋主詞＋do?」問「做了什麼」。疑問詞 what/who 當主詞時不加 did，直接接過去式動詞：What happened?",
+            "examples": [
+              "When did Peter call Lisa? — He called her last Wednesday.",
+              "Who saved the little girl? — Tom did."
+            ]
+          },
+          {
+            "title": "be 動詞與助動詞的代替用法",
+            "rule": "用 be 動詞代替前面提過的敘述；用 did 代替前面提過的「動詞＋後面的字」",
+            "description": "避免重複，常見於簡答句。",
+            "examples": [
+              "Bill is watching the touching movie, and we are, too.",
+              "You danced very well. — We did."
+            ]
+          }
+        ],
+        "quiz": [
+          { "id": "m2-1-u1-q001", "question": "He ___ a student last year, but he is a farmer now.", "options": ["A. was", "B. were", "C. is", "D. are"], "answer": "A", "answer_index": 0, "hint": "last year 是過去時間，主詞 he 是第三人稱單數，be 動詞用 was。" },
+          { "id": "m2-1-u1-q002", "question": "The girls ___ at the party last night.", "options": ["A. was", "B. are", "C. were", "D. is"], "answer": "C", "answer_index": 2, "hint": "主詞 the girls 是複數，last night 是過去時間，用 were。" },
+          { "id": "m2-1-u1-q003", "question": "It ___ very cold last winter.", "options": ["A. were", "B. is", "C. are", "D. was"], "answer": "D", "answer_index": 3, "hint": "last winter 是過去時間，主詞 it 單數，用 was。" },
+          { "id": "m2-1-u1-q004", "question": "Sophia and Sherry ___ in Japan last year, but they ___ in Taiwan now.", "options": ["A. was; are", "B. were; are", "C. were; were", "D. are; were"], "answer": "B", "answer_index": 1, "hint": "兩人是複數主詞，last year 用 were；now 表現在，用 are。" },
+          { "id": "m2-1-u1-q005", "question": "Harry ___ scared of ghosts before.", "options": ["A. were", "B. is", "C. was", "D. did"], "answer": "C", "answer_index": 2, "hint": "before 表「以前」，Harry 是單數主詞，用 was；scared 前面要用 be 動詞，不用 did。" },
+          { "id": "m2-1-u1-q006", "question": "You ___ classmates five years ago.", "options": ["A. was", "B. were", "C. are", "D. is"], "answer": "B", "answer_index": 1, "hint": "five years ago 是過去時間，主詞 you 一律搭配 were。" },
+          { "id": "m2-1-u1-q007", "question": "Ken ___ in the park yesterday morning.", "options": ["A. jogged", "B. jogs", "C. jogging", "D. jog"], "answer": "A", "answer_index": 0, "hint": "yesterday morning 是過去時間；jog 是「短母音＋子音」結尾，重複 g 再加 ed → jogged。" },
+          { "id": "m2-1-u1-q008", "question": "Amy ___ English with her son two days ago.", "options": ["A. studys", "B. studyed", "C. studying", "D. studied"], "answer": "D", "answer_index": 3, "hint": "two days ago 用過去式；study 字尾是「子音＋y」，去 y 加 ied → studied。" },
+          { "id": "m2-1-u1-q009", "question": "Tony ___ in the night market yesterday evening.", "options": ["A. shop", "B. shops", "C. shopped", "D. shopping"], "answer": "C", "answer_index": 2, "hint": "過去時間 yesterday evening；shop 是短母音＋子音結尾，重複 p 加 ed → shopped。" },
+          { "id": "m2-1-u1-q010", "question": "Mrs. Jones ___ some food for the party last night.", "options": ["A. prepares", "B. prepared", "C. prepare", "D. preparing"], "answer": "B", "answer_index": 1, "hint": "last night 是過去時間；prepare 字尾有 e，只加 d → prepared。" },
+          { "id": "m2-1-u1-q011", "question": "We ___ the bags to the flower shop this morning.", "options": ["A. carry", "B. carrys", "C. carryed", "D. carried"], "answer": "D", "answer_index": 3, "hint": "this morning 在此指今天早上（已過去）；carry 字尾「子音＋y」，去 y 加 ied → carried。" },
+          { "id": "m2-1-u1-q012", "question": "They ___ Christmas in the restaurant last Saturday.", "options": ["A. celebrated", "B. celebrates", "C. celebrate", "D. celebrating"], "answer": "A", "answer_index": 0, "hint": "last Saturday 是過去時間，celebrate 字尾有 e 只加 d → celebrated。" },
+          { "id": "m2-1-u1-q013", "question": "The boy didn't ___ dishes the day before yesterday.", "options": ["A. washed", "B. wash", "C. washes", "D. washing"], "answer": "B", "answer_index": 1, "hint": "didn't 後面一律接原形動詞，不可加 ed、s 或 ing。" },
+          { "id": "m2-1-u1-q014", "question": "Jenny didn't ___ the movie with us last night.", "options": ["A. watched", "B. watches", "C. watch", "D. watching"], "answer": "C", "answer_index": 2, "hint": "didn't 已表達過去，後面動詞回到原形 watch。" },
+          { "id": "m2-1-u1-q015", "question": "___ you visit your grandmother last weekend?", "options": ["A. Did", "B. Were", "C. Do", "D. Was"], "answer": "A", "answer_index": 0, "hint": "visit 是一般動詞原形，過去式疑問句用 Did 開頭，不用 be 動詞。" },
+          { "id": "m2-1-u1-q016", "question": "Did your daughter ___ a lesson from this thing?", "options": ["A. learned", "B. learns", "C. learning", "D. learn"], "answer": "D", "answer_index": 3, "hint": "Did 開頭的疑問句，主詞後面的動詞用原形 learn。" },
+          { "id": "m2-1-u1-q017", "question": "Did Mr. Wang pass away five months ago? — Yes, ___.", "options": ["A. he was", "B. he did", "C. he does", "D. he didn't"], "answer": "B", "answer_index": 1, "hint": "用 Did 問就用 did 答；肯定簡答是 Yes, he did.。" },
+          { "id": "m2-1-u1-q018", "question": "Didn't you jog yesterday evening? — ___. I jogged with my sister.", "options": ["A. No, I didn't", "B. Yes, I was", "C. Yes, I did", "D. No, I did"], "answer": "C", "answer_index": 2, "hint": "否定疑問句照事實回答，後句說「我有慢跑」，所以答 Yes, I did.。" },
+          { "id": "m2-1-u1-q019", "question": "Who ___ outside the restaurant half an hour ago?", "options": ["A. was", "B. were", "C. did", "D. are"], "answer": "A", "answer_index": 0, "hint": "疑問詞 who 當主詞時視為第三人稱單數，過去時間用 was。" },
+          { "id": "m2-1-u1-q020", "question": "Where ___ Tony and Maria last Sunday afternoon?", "options": ["A. was", "B. did", "C. is", "D. were"], "answer": "D", "answer_index": 3, "hint": "主詞 Tony and Maria 是複數，過去時間用 were；句中沒有一般動詞，不用 did。" },
+          { "id": "m2-1-u1-q021", "question": "When ___ Peter call Lisa?", "options": ["A. was", "B. did", "C. does", "D. is"], "answer": "B", "answer_index": 1, "hint": "call 是一般動詞原形，疑問詞開頭的過去式問句用 did。" },
+          { "id": "m2-1-u1-q022", "question": "What ___? Why are you crying?", "options": ["A. did happen", "B. was happen", "C. happened", "D. happening"], "answer": "C", "answer_index": 2, "hint": "疑問詞 what 當主詞時不加 did，直接接過去式動詞 → What happened?" },
+          { "id": "m2-1-u1-q023", "question": "Who ___ the little girl? — Tom did.", "options": ["A. saved", "B. did save", "C. saves", "D. saving"], "answer": "A", "answer_index": 0, "hint": "who 當主詞不加 did，直接用過去式動詞 saved；由答句 Tom did 可知是過去式。" },
+          { "id": "m2-1-u1-q024", "question": "What did Amy ___ yesterday morning?", "options": ["A. did", "B. do", "C. does", "D. doing"], "answer": "B", "answer_index": 1, "hint": "did 是助動詞，後面接原形動詞 do（此處 do 是「做」的意思）。" },
+          { "id": "m2-1-u1-q025", "question": "My grandfather ___ two years ago.", "options": ["A. pass away", "B. passes away", "C. passing away", "D. passed away"], "answer": "D", "answer_index": 3, "hint": "two years ago 是過去時間，pass away（過世）用過去式 passed away。" },
+          { "id": "m2-1-u1-q026", "question": "We ___ a big meal for our relatives last night.", "options": ["A. cook", "B. cooks", "C. cooked", "D. cooking"], "answer": "C", "answer_index": 2, "hint": "last night 是過去時間，cook 字尾直接加 ed → cooked。" },
+          { "id": "m2-1-u1-q027", "question": "The students stood ___ and sang songs.", "options": ["A. in a circle", "B. on a circle", "C. at a circle", "D. with a circle"], "answer": "A", "answer_index": 0, "hint": "「圍成圓圈」的固定片語是 in a circle。" },
+          { "id": "m2-1-u1-q028", "question": "Chinese people sweep tombs ___ Tomb Sweeping Day.", "options": ["A. in", "B. at", "C. with", "D. on"], "answer": "D", "answer_index": 3, "hint": "「在某節日」用 on＋節日 → on Tomb Sweeping Day。" },
+          { "id": "m2-1-u1-q029", "question": "The dress ___ me of my grandmother.", "options": ["A. remembers", "B. reminds", "C. looks", "D. thinks"], "answer": "B", "answer_index": 1, "hint": "「使（人）想起」的句型是 remind＋人＋of＋事/人；remember 是「（自己）記得」。" },
+          { "id": "m2-1-u1-q030", "question": "Please ___ my little sister for me.", "options": ["A. look at", "B. look for", "C. look after", "D. look up"], "answer": "C", "answer_index": 2, "hint": "「照顧」是 look after；look at 是「看」、look for 是「尋找」。" },
+          { "id": "m2-1-u1-q031", "question": "We need ___ tables for the party.", "options": ["A. a little", "B. much", "C. a lot", "D. a few"], "answer": "D", "answer_index": 3, "hint": "tables 是複數可數名詞，「一些」用 a few；a little 和 much 接不可數名詞。" },
+          { "id": "m2-1-u1-q032", "question": "Linda was in New York one week ___.", "options": ["A. before", "B. ago", "C. later", "D. last"], "answer": "B", "answer_index": 1, "hint": "「一段時間＋ago」表「…以前」；before 通常單獨存在，不接在時間長度後面。" },
+          { "id": "m2-1-u1-q033", "question": "We watched the movie together ___.", "options": ["A. last night", "B. tomorrow night", "C. every night", "D. next week"], "answer": "A", "answer_index": 0, "hint": "watched 是過去式，要搭配過去時間副詞 last night。" },
+          { "id": "m2-1-u1-q034", "question": "They were often late ___.", "options": ["A. last the year", "B. in last year", "C. last year", "D. on last year"], "answer": "C", "answer_index": 2, "hint": "last＋時間前面不加介系詞 in/on/at，也不加 the，直接說 last year。" },
+          { "id": "m2-1-u1-q035", "question": "Mr. and Mrs. Brown danced ___ music in the living room last night.", "options": ["A. with", "B. on", "C. in", "D. to"], "answer": "D", "answer_index": 3, "hint": "「隨音樂起舞」的固定片語是 dance to music。" },
+          { "id": "m2-1-u1-q036", "question": "They danced ___ a lively way.", "options": ["A. in", "B. on", "C. at", "D. by"], "answer": "A", "answer_index": 0, "hint": "「用…的方式」用 in a/an＋形容詞＋way。" },
+          { "id": "m2-1-u1-q037", "question": "We were all sad ___ that story.", "options": ["A. of", "B. about", "C. at", "D. with"], "answer": "B", "answer_index": 1, "hint": "「對…感到悲傷」的句型是 be 動詞＋sad＋about...。" },
+          { "id": "m2-1-u1-q038", "question": "Be kind to Ken. ___, he is only five years old.", "options": ["A. At all", "B. In all", "C. After all", "D. For all"], "answer": "C", "answer_index": 2, "hint": "「畢竟」是 after all。" },
+          { "id": "m2-1-u1-q039", "question": "The boys ___ in costumes on Halloween last year.", "options": ["A. dress up", "B. dresses up", "C. dressing up", "D. dressed up"], "answer": "D", "answer_index": 3, "hint": "last year 是過去時間，dress up（裝扮）用過去式 dressed up。" },
+          { "id": "m2-1-u1-q040", "question": "Sherry ___ late for class yesterday morning.", "options": ["A. was", "B. did", "C. were", "D. is"], "answer": "A", "answer_index": 0, "hint": "late 是形容詞，前面用 be 動詞；Sherry 單數＋過去時間 → was。" },
+          { "id": "m2-1-u1-q041", "question": "The bathroom ___ clean then.", "options": ["A. is", "B. did", "C. was", "D. were"], "answer": "C", "answer_index": 2, "hint": "then 是「那時」，表過去；主詞 the bathroom 單數，用 was。" },
+          { "id": "m2-1-u1-q042", "question": "They ___ actresses before.", "options": ["A. wasn't", "B. didn't", "C. aren't", "D. weren't"], "answer": "D", "answer_index": 3, "hint": "before 表過去，主詞 they 複數，否定用 weren't；actresses 是名詞，不用 didn't。" },
+          { "id": "m2-1-u1-q043", "question": "___ you happy last night? — Yes, I was.", "options": ["A. Did", "B. Were", "C. Are", "D. Was"], "answer": "B", "answer_index": 1, "hint": "happy 是形容詞，疑問句用 be 動詞；主詞 you 過去式用 Were。" },
+          { "id": "m2-1-u1-q044", "question": "Wasn't Jake short last year? — ___. He was very tall.", "options": ["A. No, he wasn't", "B. Yes, he was", "C. No, he was", "D. Yes, he wasn't"], "answer": "A", "answer_index": 0, "hint": "否定疑問句照事實回答：他不矮（很高），所以答 No, he wasn't.；Yes 配 was、No 配 wasn't，不可混用。" },
+          { "id": "m2-1-u1-q045", "question": "I ___ busy yesterday, but I ___ not now.", "options": ["A. was; was", "B. was; am", "C. am; was", "D. were; am"], "answer": "B", "answer_index": 1, "hint": "yesterday 用過去式 was；now 表現在，I 配 am。" },
+          { "id": "m2-1-u1-q046", "question": "Rose: Who was in the night market last night? — Miss Lin: Coco and Mary ___.", "options": ["A. was", "B. did", "C. were", "D. are"], "answer": "C", "answer_index": 2, "hint": "用 be 動詞代替前面的敘述；答句主詞是兩個人（複數）且是過去時間，用 were。" },
+          { "id": "m2-1-u1-q047", "question": "Peter: You danced very well. — Jack: We ___.", "options": ["A. do", "B. are", "C. were", "D. did"], "answer": "D", "answer_index": 3, "hint": "用助動詞 did 代替前面提過的 danced very well（一般動詞過去式）。" },
+          { "id": "m2-1-u1-q048", "question": "Alice is a reporter now, but she ___ last year.", "options": ["A. wasn't", "B. isn't", "C. didn't", "D. weren't"], "answer": "A", "answer_index": 0, "hint": "last year 表過去，代替「不是記者」用 be 動詞否定；she 單數 → wasn't。" },
+          { "id": "m2-1-u1-q049", "question": "下列動詞字尾 ed 的發音，何者唸 [ɪd]？", "options": ["A. washed", "B. planted", "C. helped", "D. called"], "answer": "B", "answer_index": 1, "hint": "plant 字尾發 [t]，加 ed 唸 [ɪd]；washed/helped 唸 [t]，called 唸 [d]。" },
+          { "id": "m2-1-u1-q050", "question": "下列動詞字尾 ed 的發音，何者唸 [t]？", "options": ["A. enjoyed", "B. reminded", "C. danced", "D. showed"], "answer": "C", "answer_index": 2, "hint": "dance 字尾發無聲子音 [s]，ed 唸 [t]；enjoyed/showed 唸 [d]，reminded 唸 [ɪd]。" }
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          { "id": "m2-1-u1-sv001", "vocab_id": "m2-1-u1-v001", "sentence": "I studied English yesterday.", "sentence_chinese": "我昨天研讀英文。" },
+          { "id": "m2-1-u1-sv002", "vocab_id": "m2-1-u1-v002", "sentence": "We studied for the test last night.", "sentence_chinese": "我們昨晚為考試讀書。" },
+          { "id": "m2-1-u1-sv003", "vocab_id": "m2-1-u1-v003", "sentence": "He jogged in the park yesterday morning.", "sentence_chinese": "他昨天早上在公園慢跑。" },
+          { "id": "m2-1-u1-sv004", "vocab_id": "m2-1-u1-v004", "sentence": "They watched a movie last night.", "sentence_chinese": "他們昨晚看了一部電影。" },
+          { "id": "m2-1-u1-sv005", "vocab_id": "m2-1-u1-v005", "sentence": "It was very cold last winter.", "sentence_chinese": "去年冬天很冷。" },
+          { "id": "m2-1-u1-sv006", "vocab_id": "m2-1-u1-v006", "sentence": "We were sad about the death of the old man.", "sentence_chinese": "我們對那位老人的死感到難過。" },
+          { "id": "m2-1-u1-sv007", "vocab_id": "m2-1-u1-v007", "sentence": "The song reminded me of my mother.", "sentence_chinese": "這首歌讓我想起我媽媽。" },
+          { "id": "m2-1-u1-sv008", "vocab_id": "m2-1-u1-v008", "sentence": "I bought a few apples this morning.", "sentence_chinese": "我今天早上買了一些蘋果。" },
+          { "id": "m2-1-u1-sv009", "vocab_id": "m2-1-u1-v009", "sentence": "Linda was in New York one week ago.", "sentence_chinese": "Linda 一週前在紐約。" },
+          { "id": "m2-1-u1-sv010", "vocab_id": "m2-1-u1-v010", "sentence": "My parents were busy yesterday.", "sentence_chinese": "我父母昨天很忙。" },
+          { "id": "m2-1-u1-sv011", "vocab_id": "m2-1-u1-v011", "sentence": "You were at home last night.", "sentence_chinese": "你昨晚在家。" },
+          { "id": "m2-1-u1-sv012", "vocab_id": "m2-1-u1-v012", "sentence": "She looked after her little sister yesterday.", "sentence_chinese": "她昨天照顧她妹妹。" },
+          { "id": "m2-1-u1-sv013", "vocab_id": "m2-1-u1-v013", "sentence": "He was a student last year.", "sentence_chinese": "他去年是一位學生。" },
+          { "id": "m2-1-u1-sv014", "vocab_id": "m2-1-u1-v014", "sentence": "You must be kind to old people.", "sentence_chinese": "你必須善待老人。" },
+          { "id": "m2-1-u1-sv015", "vocab_id": "m2-1-u1-v015", "sentence": "My grandfather passed away two years ago.", "sentence_chinese": "我祖父兩年前過世了。" },
+          { "id": "m2-1-u1-sv016", "vocab_id": "m2-1-u1-v016", "sentence": "After all, he is only five years old.", "sentence_chinese": "畢竟他才五歲。" },
+          { "id": "m2-1-u1-sv017", "vocab_id": "m2-1-u1-v017", "sentence": "I have sweet memories of my grandmother.", "sentence_chinese": "我有關於祖母的甜美回憶。" },
+          { "id": "m2-1-u1-sv018", "vocab_id": "m2-1-u1-v018", "sentence": "We watched the movie together last night.", "sentence_chinese": "我們昨晚一起看那部電影。" },
+          { "id": "m2-1-u1-sv019", "vocab_id": "m2-1-u1-v019", "sentence": "It was sweet of you to help me.", "sentence_chinese": "你幫我真貼心。" },
+          { "id": "m2-1-u1-sv020", "vocab_id": "m2-1-u1-v020", "sentence": "The boys dressed up in costumes.", "sentence_chinese": "男孩們盛裝打扮。" },
+          { "id": "m2-1-u1-sv021", "vocab_id": "m2-1-u1-v021", "sentence": "They danced to music last night.", "sentence_chinese": "他們昨晚隨音樂起舞。" },
+          { "id": "m2-1-u1-sv022", "vocab_id": "m2-1-u1-v022", "sentence": "The students stood in a circle.", "sentence_chinese": "學生們圍成一個圓圈。" },
+          { "id": "m2-1-u1-sv023", "vocab_id": "m2-1-u1-v023", "sentence": "We planted flowers in the garden yesterday.", "sentence_chinese": "我們昨天在花園裡種花。" },
+          { "id": "m2-1-u1-sv024", "vocab_id": "m2-1-u1-v024", "sentence": "She placed flowers on the tomb.", "sentence_chinese": "她把花放在墳墓上。" },
+          { "id": "m2-1-u1-sv025", "vocab_id": "m2-1-u1-v025", "sentence": "He placed a candle on the table.", "sentence_chinese": "他把一根蠟燭放在桌上。" },
+          { "id": "m2-1-u1-sv026", "vocab_id": "m2-1-u1-v026", "sentence": "There were ten candles on the cake.", "sentence_chinese": "蛋糕上有十根蠟燭。" },
+          { "id": "m2-1-u1-sv027", "vocab_id": "m2-1-u1-v027", "sentence": "People sweep tombs on Tomb Sweeping Day.", "sentence_chinese": "人們在清明節掃墓。" },
+          { "id": "m2-1-u1-sv028", "vocab_id": "m2-1-u1-v028", "sentence": "I swept the floor this morning.", "sentence_chinese": "我今天早上掃了地。" },
+          { "id": "m2-1-u1-sv029", "vocab_id": "m2-1-u1-v029", "sentence": "I still remember my first teacher.", "sentence_chinese": "我仍然記得我的第一位老師。" },
+          { "id": "m2-1-u1-sv030", "vocab_id": "m2-1-u1-v030", "sentence": "The old tree was dead last year.", "sentence_chinese": "那棵老樹去年就枯死了。" },
+          { "id": "m2-1-u1-sv031", "vocab_id": "m2-1-u1-v031", "sentence": "We welcomed our relatives with joy.", "sentence_chinese": "我們喜悅地歡迎親戚們。" },
+          { "id": "m2-1-u1-sv032", "vocab_id": "m2-1-u1-v032", "sentence": "They danced in a lively way.", "sentence_chinese": "他們用充滿活力的方式跳舞。" },
+          { "id": "m2-1-u1-sv033", "vocab_id": "m2-1-u1-v033", "sentence": "Harry was scared of ghosts before.", "sentence_chinese": "Harry 以前怕鬼。" },
+          { "id": "m2-1-u1-sv034", "vocab_id": "m2-1-u1-v034", "sentence": "He came back home two hours later.", "sentence_chinese": "他兩小時後回到家。" },
+          { "id": "m2-1-u1-sv035", "vocab_id": "m2-1-u1-v035", "sentence": "The kids shared the candy last night.", "sentence_chinese": "孩子們昨晚分享了糖果。" },
+          { "id": "m2-1-u1-sv036", "vocab_id": "m2-1-u1-v036", "sentence": "We cooked a big meal for our relatives.", "sentence_chinese": "我們為親戚們煮了一頓大餐。" },
+          { "id": "m2-1-u1-sv037", "vocab_id": "m2-1-u1-v037", "sentence": "I shared a room with my brother.", "sentence_chinese": "我跟我弟弟共用房間。" },
+          { "id": "m2-1-u1-sv038", "vocab_id": "m2-1-u1-v038", "sentence": "The story was really touching.", "sentence_chinese": "這個故事真的很感人。" },
+          { "id": "m2-1-u1-sv039", "vocab_id": "m2-1-u1-v039", "sentence": "We were all sad about that story.", "sentence_chinese": "我們全都對那個故事感到難過。" },
+          { "id": "m2-1-u1-sv040", "vocab_id": "m2-1-u1-v040", "sentence": "He had a fear of ghosts before.", "sentence_chinese": "他以前對鬼感到害怕。" }
+        ],
+        "phrases": [
+          { "id": "m2-1-u1-sp001", "phrase_id": "m2-1-u1-p001", "sentence": "After breakfast, I have fruit.", "sentence_chinese": "早餐後，我吃水果。" },
+          { "id": "m2-1-u1-sp002", "phrase_id": "m2-1-u1-p002", "sentence": "We watched the movie together last night.", "sentence_chinese": "我們昨晚一起看那部電影。" },
+          { "id": "m2-1-u1-sp003", "phrase_id": "m2-1-u1-p003", "sentence": "It was very cold last winter.", "sentence_chinese": "去年冬天很冷。" },
+          { "id": "m2-1-u1-sp004", "phrase_id": "m2-1-u1-p004", "sentence": "It's a movie about animals.", "sentence_chinese": "那是一部有關動物的電影。" },
+          { "id": "m2-1-u1-sp005", "phrase_id": "m2-1-u1-p005", "sentence": "The dress reminds me of my grandmother.", "sentence_chinese": "那件洋裝讓我想起祖母。" },
+          { "id": "m2-1-u1-sp006", "phrase_id": "m2-1-u1-p006", "sentence": "We need a few tables for the party.", "sentence_chinese": "我們宴會需要一些桌子。" },
+          { "id": "m2-1-u1-sp007", "phrase_id": "m2-1-u1-p007", "sentence": "Linda was in New York one week ago.", "sentence_chinese": "Linda 一週前在紐約。" },
+          { "id": "m2-1-u1-sp008", "phrase_id": "m2-1-u1-p008", "sentence": "Please look after my sister for me.", "sentence_chinese": "請幫我照顧我妹妹。" },
+          { "id": "m2-1-u1-sp009", "phrase_id": "m2-1-u1-p009", "sentence": "Jenny is busy all the time.", "sentence_chinese": "Jenny 隨時都很忙。" },
+          { "id": "m2-1-u1-sp010", "phrase_id": "m2-1-u1-p010", "sentence": "My grandfather passed away two years ago.", "sentence_chinese": "我祖父兩年前過世了。" },
+          { "id": "m2-1-u1-sp011", "phrase_id": "m2-1-u1-p011", "sentence": "We were all sad about that story.", "sentence_chinese": "我們全都對那個故事感到難過。" },
+          { "id": "m2-1-u1-sp012", "phrase_id": "m2-1-u1-p012", "sentence": "Be kind to Ken. After all, he is only five years old.", "sentence_chinese": "對 Ken 要慈愛。畢竟，他才五歲。" },
+          { "id": "m2-1-u1-sp013", "phrase_id": "m2-1-u1-p013", "sentence": "My friend walked me to school yesterday.", "sentence_chinese": "我的朋友昨天和我走路上學。" },
+          { "id": "m2-1-u1-sp014", "phrase_id": "m2-1-u1-p014", "sentence": "After school, we played basketball.", "sentence_chinese": "放學後，我們打籃球。" },
+          { "id": "m2-1-u1-sp015", "phrase_id": "m2-1-u1-p015", "sentence": "Ken played basketball with his classmates last Sunday.", "sentence_chinese": "上星期天 Ken 和他的同學們打籃球。" },
+          { "id": "m2-1-u1-sp016", "phrase_id": "m2-1-u1-p016", "sentence": "They helped us in different ways.", "sentence_chinese": "他們用不同的方式幫我們。" },
+          { "id": "m2-1-u1-sp017", "phrase_id": "m2-1-u1-p017", "sentence": "The girls talked about the singer all night.", "sentence_chinese": "這些女孩整晚都在談論這位歌手。" },
+          { "id": "m2-1-u1-sp018", "phrase_id": "m2-1-u1-p018", "sentence": "Chinese people sweep tombs on Tomb Sweeping Day.", "sentence_chinese": "華人在清明節掃墓。" },
+          { "id": "m2-1-u1-sp019", "phrase_id": "m2-1-u1-p019", "sentence": "We welcomed our relatives with joy.", "sentence_chinese": "我們喜悅地歡迎親戚們。" },
+          { "id": "m2-1-u1-sp020", "phrase_id": "m2-1-u1-p020", "sentence": "They danced in a lively way.", "sentence_chinese": "他們用充滿活力的方式跳舞。" },
+          { "id": "m2-1-u1-sp021", "phrase_id": "m2-1-u1-p021", "sentence": "Alice was in Japan for New Year's Day on January first.", "sentence_chinese": "Alice 一月一日在日本過元旦。" },
+          { "id": "m2-1-u1-sp022", "phrase_id": "m2-1-u1-p022", "sentence": "The teacher invited her students back to the school.", "sentence_chinese": "那位老師邀請她的學生回學校。" },
+          { "id": "m2-1-u1-sp023", "phrase_id": "m2-1-u1-p023", "sentence": "The boys dressed up in costumes.", "sentence_chinese": "男孩們盛裝打扮。" },
+          { "id": "m2-1-u1-sp024", "phrase_id": "m2-1-u1-p024", "sentence": "Painting the face is fun.", "sentence_chinese": "臉部彩繪很好玩。" },
+          { "id": "m2-1-u1-sp025", "phrase_id": "m2-1-u1-p025", "sentence": "We cooked a big meal for relatives last night.", "sentence_chinese": "昨晚我們為親戚們煮大餐。" },
+          { "id": "m2-1-u1-sp026", "phrase_id": "m2-1-u1-p026", "sentence": "I shared a room with my brother then.", "sentence_chinese": "那時我跟我弟弟共用房間。" },
+          { "id": "m2-1-u1-sp027", "phrase_id": "m2-1-u1-p027", "sentence": "Mr. and Mrs. Brown danced to music in the living room last night.", "sentence_chinese": "昨晚 Brown 夫婦在客廳隨音樂起舞。" },
+          { "id": "m2-1-u1-sp028", "phrase_id": "m2-1-u1-p028", "sentence": "The students stood in a circle and sang songs.", "sentence_chinese": "那些學生圍成圓圈唱歌。" }
+        ],
+        "grammar": [
+          { "id": "m2-1-u1-sg001", "sentence": "He was a student last year.", "sentence_chinese": "他去年是一位學生。" },
+          { "id": "m2-1-u1-sg002", "sentence": "My parents were busy yesterday morning.", "sentence_chinese": "我父母昨天早上很忙。" },
+          { "id": "m2-1-u1-sg003", "sentence": "It was very cold last winter.", "sentence_chinese": "去年冬天很冷。" },
+          { "id": "m2-1-u1-sg004", "sentence": "Ken jogged in the park yesterday morning.", "sentence_chinese": "Ken 昨天早上在公園慢跑。" },
+          { "id": "m2-1-u1-sg005", "sentence": "The girls were at the party last night.", "sentence_chinese": "那些女孩昨晚在派對上。" },
+          { "id": "m2-1-u1-sg006", "sentence": "Amy studied English two days ago.", "sentence_chinese": "Amy 兩天前研讀英文。" },
+          { "id": "m2-1-u1-sg007", "sentence": "Tony shopped in the night market yesterday evening.", "sentence_chinese": "Tony 昨晚在夜市購物。" },
+          { "id": "m2-1-u1-sg008", "sentence": "We cooked a big meal for our relatives.", "sentence_chinese": "我們為親戚們煮了一頓大餐。" },
+          { "id": "m2-1-u1-sg009", "sentence": "The boys dressed up in costumes last night.", "sentence_chinese": "男孩們昨晚盛裝打扮。" },
+          { "id": "m2-1-u1-sg010", "sentence": "She placed a few flowers on the tomb.", "sentence_chinese": "她把一些花放在墳墓上。" },
+          { "id": "m2-1-u1-sg011", "sentence": "The students danced to music in a circle.", "sentence_chinese": "學生們圍成圓圈隨音樂起舞。" },
+          { "id": "m2-1-u1-sg012", "sentence": "We watched a touching movie together last night.", "sentence_chinese": "我們昨晚一起看了一部感人的電影。" },
+          { "id": "m2-1-u1-sg013", "sentence": "He didn't wash the dishes yesterday.", "sentence_chinese": "他昨天沒有洗碗。" },
+          { "id": "m2-1-u1-sg014", "sentence": "Jenny didn't watch the movie with us.", "sentence_chinese": "Jenny 沒有和我們一起看電影。" },
+          { "id": "m2-1-u1-sg015", "sentence": "They didn't study for the test last night.", "sentence_chinese": "他們昨晚沒有為考試讀書。" },
+          { "id": "m2-1-u1-sg016", "sentence": "Did you visit your grandmother last weekend?", "sentence_chinese": "你上週末拜訪了你的奶奶嗎？" },
+          { "id": "m2-1-u1-sg017", "sentence": "Did Mr. Wang pass away five months ago?", "sentence_chinese": "王先生五個月前過世了嗎？" },
+          { "id": "m2-1-u1-sg018", "sentence": "Where were you the day before yesterday?", "sentence_chinese": "你前天在哪裡？" },
+          { "id": "m2-1-u1-sg019", "sentence": "Who was outside the restaurant half an hour ago?", "sentence_chinese": "半小時前誰在餐廳外面？" },
+          { "id": "m2-1-u1-sg020", "sentence": "When did Peter call his good friend?", "sentence_chinese": "Peter 何時打電話給他的好朋友？" },
+          { "id": "m2-1-u1-sg021", "sentence": "What did Amy do yesterday morning?", "sentence_chinese": "Amy 昨天早上做了什麼？" },
+          { "id": "m2-1-u1-sg022", "sentence": "Who looked after your little sister yesterday?", "sentence_chinese": "昨天誰照顧你的妹妹？" },
+          { "id": "m2-1-u1-sg023", "sentence": "The song reminded me of my sweet grandmother.", "sentence_chinese": "這首歌讓我想起我貼心的祖母。" },
+          { "id": "m2-1-u1-sg024", "sentence": "My grandfather passed away two years ago.", "sentence_chinese": "我祖父兩年前過世了。" },
+          { "id": "m2-1-u1-sg025", "sentence": "We were all sad about that touching story.", "sentence_chinese": "我們全都對那個感人的故事感到難過。" },
+          { "id": "m2-1-u1-sg026", "sentence": "After all, he is only five years old.", "sentence_chinese": "畢竟，他才五歲。" },
+          { "id": "m2-1-u1-sg027", "sentence": "We welcomed our relatives with joy last night.", "sentence_chinese": "我們昨晚喜悅地歡迎親戚們。" },
+          { "id": "m2-1-u1-sg028", "sentence": "Weren't you at home yesterday afternoon?", "sentence_chinese": "你昨天下午不在家嗎？" },
+          { "id": "m2-1-u1-sg029", "sentence": "Harry was scared of ghosts many years ago.", "sentence_chinese": "Harry 很多年前很怕鬼。" },
+          { "id": "m2-1-u1-sg030", "sentence": "They celebrated Christmas in the restaurant last Saturday.", "sentence_chinese": "他們上星期六在餐廳慶祝聖誕節。" }
+        ]
+      }
+    }
+  }
+}
