@@ -6,7 +6,7 @@
                 {
                     "id": "m1-4-u4-v001",
                     "word": "why",
-                    "part_of_speech": "adv.",
+                    "part_of_speech": "副",
                     "chinese": "為什麼",
                     "sentence": "Why are you wearing a mask?",
                     "sentence_chinese": "你為什麼戴著口罩？"
@@ -14,7 +14,7 @@
                 {
                     "id": "m1-4-u4-v002",
                     "word": "wear",
-                    "part_of_speech": "v.",
+                    "part_of_speech": "動",
                     "chinese": "戴；穿",
                     "sentence": "He wears a jacket because it is cold.",
                     "sentence_chinese": "他因為很冷所以穿著外套。"
@@ -22,7 +22,7 @@
                 {
                     "id": "m1-4-u4-v003",
                     "word": "mask",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "口罩；面具",
                     "sentence": "Please wear a mask when you are sick.",
                     "sentence_chinese": "生病時請戴口罩。"
@@ -30,7 +30,7 @@
                 {
                     "id": "m1-4-u4-v004",
                     "word": "because",
-                    "part_of_speech": "conj.",
+                    "part_of_speech": "連",
                     "chinese": "因為",
                     "sentence": "I drink water because I am thirsty.",
                     "sentence_chinese": "我喝水因為我口渴。"
@@ -38,7 +38,7 @@
                 {
                     "id": "m1-4-u4-v005",
                     "word": "sick",
-                    "part_of_speech": "adj.",
+                    "part_of_speech": "形",
                     "chinese": "生病的",
                     "sentence": "The boy is sick today.",
                     "sentence_chinese": "這男孩今天生病了。"
@@ -46,7 +46,7 @@
                 {
                     "id": "m1-4-u4-v006",
                     "word": "water",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "水",
                     "sentence": "We need some water.",
                     "sentence_chinese": "我們需要一些水。"
@@ -54,7 +54,7 @@
                 {
                     "id": "m1-4-u4-v007",
                     "word": "glass",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "玻璃杯；玻璃",
                     "sentence": "I want a glass of juice.",
                     "sentence_chinese": "我想要一杯果汁。"
@@ -62,7 +62,7 @@
                 {
                     "id": "m1-4-u4-v008",
                     "word": "flour",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "麵粉",
                     "sentence": "How much flour do we need?",
                     "sentence_chinese": "我們需要多少麵粉？"
@@ -70,7 +70,7 @@
                 {
                     "id": "m1-4-u4-v009",
                     "word": "need",
-                    "part_of_speech": "v.",
+                    "part_of_speech": "動",
                     "chinese": "需要；需求",
                     "sentence": "They need two bags of salt.",
                     "sentence_chinese": "他們需要兩袋鹽。"
@@ -78,7 +78,7 @@
                 {
                     "id": "m1-4-u4-v010",
                     "word": "pie",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "派",
                     "sentence": "This apple pie is yummy.",
                     "sentence_chinese": "這個蘋果派很好吃。"
@@ -86,7 +86,7 @@
                 {
                     "id": "m1-4-u4-v011",
                     "word": "still",
-                    "part_of_speech": "adv.",
+                    "part_of_speech": "副",
                     "chinese": "仍然",
                     "sentence": "He is still hungry.",
                     "sentence_chinese": "他仍然很餓。"
@@ -94,7 +94,7 @@
                 {
                     "id": "m1-4-u4-v012",
                     "word": "thing",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "東西；事情",
                     "sentence": "What is this thing?",
                     "sentence_chinese": "這個東西是什麼？"
@@ -102,7 +102,7 @@
                 {
                     "id": "m1-4-u4-v013",
                     "word": "salt",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "鹽",
                     "sentence": "Please pass me the salt.",
                     "sentence_chinese": "請把鹽遞給我。"
@@ -110,7 +110,7 @@
                 {
                     "id": "m1-4-u4-v014",
                     "word": "something",
-                    "part_of_speech": "pron.",
+                    "part_of_speech": "代",
                     "chinese": "某物；某事",
                     "sentence": "I want something to eat.",
                     "sentence_chinese": "我想吃點東西。"
@@ -118,7 +118,7 @@
                 {
                     "id": "m1-4-u4-v015",
                     "word": "sugar",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "糖",
                     "sentence": "She puts sugar in her tea.",
                     "sentence_chinese": "她在茶裡加糖。"
@@ -126,7 +126,7 @@
                 {
                     "id": "m1-4-u4-v016",
                     "word": "get",
-                    "part_of_speech": "v.",
+                    "part_of_speech": "動",
                     "chinese": "取得",
                     "sentence": "Where can I get some snacks?",
                     "sentence_chinese": "我可以在哪裡買到點心？"
@@ -134,7 +134,7 @@
                 {
                     "id": "m1-4-u4-v017",
                     "word": "so",
-                    "part_of_speech": "conj.",
+                    "part_of_speech": "連",
                     "chinese": "所以",
                     "sentence": "I am tired, so I go to sleep.",
                     "sentence_chinese": "我很累，所以我去睡覺了。"
@@ -142,7 +142,7 @@
                 {
                     "id": "m1-4-u4-v018",
                     "word": "meal",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "餐",
                     "sentence": "Breakfast is the first meal of the day.",
                     "sentence_chinese": "早餐是一天的第一餐。"
@@ -150,7 +150,7 @@
                 {
                     "id": "m1-4-u4-v019",
                     "word": "bottle",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "瓶子",
                     "sentence": "There is a bottle of milk on the table.",
                     "sentence_chinese": "桌上有一瓶牛奶。"
@@ -158,7 +158,7 @@
                 {
                     "id": "m1-4-u4-v020",
                     "word": "candy",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "糖果",
                     "sentence": "The kids like candy very much.",
                     "sentence_chinese": "小孩們非常喜歡糖果。"
@@ -166,7 +166,7 @@
                 {
                     "id": "m1-4-u4-v021",
                     "word": "popcorn",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "爆米花",
                     "sentence": "We eat popcorn at the movies.",
                     "sentence_chinese": "我們看電影時吃爆米花。"
@@ -174,7 +174,7 @@
                 {
                     "id": "m1-4-u4-v022",
                     "word": "cup",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "杯",
                     "sentence": "Can I have a cup of coffee?",
                     "sentence_chinese": "可以給我一杯咖啡嗎？"
@@ -182,7 +182,7 @@
                 {
                     "id": "m1-4-u4-v023",
                     "word": "bowl",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "碗",
                     "sentence": "He eats a bowl of soup.",
                     "sentence_chinese": "他喝了一碗湯。"
@@ -190,7 +190,7 @@
                 {
                     "id": "m1-4-u4-v024",
                     "word": "fruit salad",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "水果沙拉",
                     "sentence": "She is making a fruit salad.",
                     "sentence_chinese": "她正在做水果沙拉。"
@@ -198,7 +198,7 @@
                 {
                     "id": "m1-4-u4-v025",
                     "word": "pizza",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "披薩",
                     "sentence": "We ordered a big pizza.",
                     "sentence_chinese": "我們訂了一個大披薩。"
@@ -206,7 +206,7 @@
                 {
                     "id": "m1-4-u4-v026",
                     "word": "milk shake",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "奶昔",
                     "sentence": "I want a strawberry milk shake.",
                     "sentence_chinese": "我想要一杯草莓奶昔。"
@@ -214,7 +214,7 @@
                 {
                     "id": "m1-4-u4-v027",
                     "word": "can",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "罐子",
                     "sentence": "There are three cans of cola.",
                     "sentence_chinese": "有三罐可樂。"
@@ -222,7 +222,7 @@
                 {
                     "id": "m1-4-u4-v028",
                     "word": "toast",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "烤吐司；烘烤",
                     "sentence": "I usually have toast for breakfast.",
                     "sentence_chinese": "我早餐通常吃烤吐司。"
@@ -230,7 +230,7 @@
                 {
                     "id": "m1-4-u4-v029",
                     "word": "bread",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "麵包",
                     "sentence": "We need to buy some bread.",
                     "sentence_chinese": "我們需要買一些麵包。"
@@ -238,7 +238,7 @@
                 {
                     "id": "m1-4-u4-v030",
                     "word": "yummy",
-                    "part_of_speech": "adj.",
+                    "part_of_speech": "形",
                     "chinese": "好吃的",
                     "sentence": "This cake is yummy.",
                     "sentence_chinese": "這塊蛋糕很好吃。"
@@ -246,7 +246,7 @@
                 {
                     "id": "m1-4-u4-v031",
                     "word": "easy",
-                    "part_of_speech": "adj.",
+                    "part_of_speech": "形",
                     "chinese": "容易的",
                     "sentence": "The test is very easy.",
                     "sentence_chinese": "這個考試很簡單。"
@@ -254,7 +254,7 @@
                 {
                     "id": "m1-4-u4-v032",
                     "word": "snack",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "點心",
                     "sentence": "It is time for a snack.",
                     "sentence_chinese": "吃點心的時間到了。"
@@ -262,7 +262,7 @@
                 {
                     "id": "m1-4-u4-v033",
                     "word": "kid",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "小孩",
                     "sentence": "The kid is playing in the park.",
                     "sentence_chinese": "那個小孩在公園裡玩耍。"
@@ -270,7 +270,7 @@
                 {
                     "id": "m1-4-u4-v034",
                     "word": "cheese",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "乳酪",
                     "sentence": "Mice love cheese.",
                     "sentence_chinese": "老鼠喜歡乳酪。"
@@ -278,7 +278,7 @@
                 {
                     "id": "m1-4-u4-v035",
                     "word": "plate",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "盤子",
                     "sentence": "Put the chicken on the plate.",
                     "sentence_chinese": "把雞肉放在盤子上。"
@@ -286,7 +286,7 @@
                 {
                     "id": "m1-4-u4-v036",
                     "word": "last",
-                    "part_of_speech": "adj.",
+                    "part_of_speech": "形",
                     "chinese": "最後(的)",
                     "sentence": "This is the last piece of pie.",
                     "sentence_chinese": "這是最後一塊派。"
@@ -294,7 +294,7 @@
                 {
                     "id": "m1-4-u4-v037",
                     "word": "enjoy",
-                    "part_of_speech": "v.",
+                    "part_of_speech": "動",
                     "chinese": "享受；喜愛",
                     "sentence": "I enjoy listening to music.",
                     "sentence_chinese": "我享受聽音樂。"
@@ -302,7 +302,7 @@
                 {
                     "id": "m1-4-u4-v038",
                     "word": "each",
-                    "part_of_speech": "adj.",
+                    "part_of_speech": "形",
                     "chinese": "每一個(的)",
                     "sentence": "Each student has a book.",
                     "sentence_chinese": "每個學生都有一本書。"

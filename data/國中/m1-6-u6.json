@@ -6,7 +6,7 @@
         {
           "id": "m1-6-u6-v001",
           "word": "airport",
-          "part_of_speech": "noun",
+          "part_of_speech": "名",
           "chinese": "機場",
           "sentence": "We arrived at the airport early yesterday.",
           "sentence_chinese": "我們昨天很早到機場。"
@@ -14,7 +14,7 @@
         {
           "id": "m1-6-u6-v002",
           "word": "travel",
-          "part_of_speech": "verb/noun",
+          "part_of_speech": "動／名",
           "chinese": "旅行；行進",
           "sentence": "My family traveled to India last month.",
           "sentence_chinese": "我家上個月去印度旅行。"
@@ -22,7 +22,7 @@
         {
           "id": "m1-6-u6-v003",
           "word": "rest",
-          "part_of_speech": "noun/verb",
+          "part_of_speech": "名／動",
           "chinese": "休息",
           "sentence": "Tina took a rest after lunch.",
           "sentence_chinese": "Tina 午餐後休息了一下。"
@@ -30,7 +30,7 @@
         {
           "id": "m1-6-u6-v004",
           "word": "take",
-          "part_of_speech": "verb",
+          "part_of_speech": "動",
           "chinese": "帶；拿；取",
           "sentence": "The guide took us to the hotel.",
           "sentence_chinese": "導遊帶我們去飯店。"
@@ -38,7 +38,7 @@
         {
           "id": "m1-6-u6-v005",
           "word": "hotel",
-          "part_of_speech": "noun",
+          "part_of_speech": "名",
           "chinese": "飯店",
           "sentence": "They stayed at a clean hotel near the station.",
           "sentence_chinese": "他們住在車站附近一間乾淨的飯店。"
@@ -46,7 +46,7 @@
         {
           "id": "m1-6-u6-v006",
           "word": "plane",
-          "part_of_speech": "noun",
+          "part_of_speech": "名",
           "chinese": "飛機",
           "sentence": "The plane left at seven this morning.",
           "sentence_chinese": "飛機今天早上 7 點起飛。"
@@ -54,7 +54,7 @@
         {
           "id": "m1-6-u6-v007",
           "word": "the sights",
-          "part_of_speech": "noun phrase",
+          "part_of_speech": "片",
           "chinese": "風景；名勝",
           "sentence": "We saw the sights in the old city.",
           "sentence_chinese": "我們在古城看了名勝。"
@@ -62,7 +62,7 @@
         {
           "id": "m1-6-u6-v008",
           "word": "bookstore",
-          "part_of_speech": "noun",
+          "part_of_speech": "名",
           "chinese": "書店",
           "sentence": "I went to a bookstore and bought a map.",
           "sentence_chinese": "我去了一家書店並買了一張地圖。"
@@ -70,7 +70,7 @@
         {
           "id": "m1-6-u6-v009",
           "word": "buy",
-          "part_of_speech": "verb",
+          "part_of_speech": "動",
           "chinese": "購買",
           "sentence": "Dad bought two cups of lassi for us.",
           "sentence_chinese": "爸爸買了兩杯拉西給我們。"
@@ -78,7 +78,7 @@
         {
           "id": "m1-6-u6-v010",
           "word": "just",
-          "part_of_speech": "adverb",
+          "part_of_speech": "副",
           "chinese": "剛才；就；只",
           "sentence": "I just saw Kevin at the market.",
           "sentence_chinese": "我剛才在市場看到 Kevin。"
@@ -86,7 +86,7 @@
         {
           "id": "m1-6-u6-v011",
           "word": "learn",
-          "part_of_speech": "verb",
+          "part_of_speech": "動",
           "chinese": "學習",
           "sentence": "We learned a lot about Indian culture.",
           "sentence_chinese": "我們學到了很多關於印度文化的事。"
@@ -94,7 +94,7 @@
         {
           "id": "m1-6-u6-v012",
           "word": "story",
-          "part_of_speech": "noun",
+          "part_of_speech": "名",
           "chinese": "故事",
           "sentence": "Grandpa told us a story about the temple.",
           "sentence_chinese": "爺爺告訴我們一個關於那座寺廟的故事。"
@@ -102,7 +102,7 @@
         {
           "id": "m1-6-u6-v013",
           "word": "cool",
-          "part_of_speech": "adjective",
+          "part_of_speech": "形",
           "chinese": "酷的",
           "sentence": "The movie about India was cool.",
           "sentence_chinese": "那部關於印度的電影很酷。"
@@ -110,7 +110,7 @@
         {
           "id": "m1-6-u6-v014",
           "word": "train",
-          "part_of_speech": "noun",
+          "part_of_speech": "名",
           "chinese": "火車",
           "sentence": "We took a train to the city.",
           "sentence_chinese": "我們搭火車去那座城市。"
@@ -118,7 +118,7 @@
         {
           "id": "m1-6-u6-v015",
           "word": "cold",
-          "part_of_speech": "adjective",
+          "part_of_speech": "形",
           "chinese": "冷的",
           "sentence": "The drink was cold and sweet.",
           "sentence_chinese": "那杯飲料又冰又甜。"
@@ -126,7 +126,7 @@
         {
           "id": "m1-6-u6-v016",
           "word": "try",
-          "part_of_speech": "verb/noun",
+          "part_of_speech": "動／名",
           "chinese": "嘗試",
           "sentence": "I tried lassi for the first time.",
           "sentence_chinese": "我第一次試喝拉西。"
@@ -134,7 +134,7 @@
         {
           "id": "m1-6-u6-v017",
           "word": "way",
-          "part_of_speech": "noun",
+          "part_of_speech": "名",
           "chinese": "距離；路線",
           "sentence": "The station was a long way from our hotel.",
           "sentence_chinese": "車站離我們的飯店很遠。"
@@ -142,7 +142,7 @@
         {
           "id": "m1-6-u6-v018",
           "word": "station",
-          "part_of_speech": "noun",
+          "part_of_speech": "名",
           "chinese": "車站；局",
           "sentence": "The train stopped at the station.",
           "sentence_chinese": "火車停在車站。"
@@ -150,7 +150,7 @@
         {
           "id": "m1-6-u6-v019",
           "word": "department store",
-          "part_of_speech": "noun",
+          "part_of_speech": "名",
           "chinese": "百貨公司",
           "sentence": "Mom bought a bag at the department store.",
           "sentence_chinese": "媽媽在百貨公司買了一個包包。"
@@ -158,7 +158,7 @@
         {
           "id": "m1-6-u6-v020",
           "word": "restaurant",
-          "part_of_speech": "noun",
+          "part_of_speech": "名",
           "chinese": "餐廳",
           "sentence": "We ate dinner at an Indian restaurant.",
           "sentence_chinese": "我們在一家印度餐廳吃晚餐。"
@@ -166,7 +166,7 @@
         {
           "id": "m1-6-u6-v021",
           "word": "theater",
-          "part_of_speech": "noun",
+          "part_of_speech": "名",
           "chinese": "電影院",
           "sentence": "They saw a movie at the theater last night.",
           "sentence_chinese": "他們昨晚在電影院看了一部電影。"
@@ -174,7 +174,7 @@
         {
           "id": "m1-6-u6-v022",
           "word": "market",
-          "part_of_speech": "noun",
+          "part_of_speech": "名",
           "chinese": "市場",
           "sentence": "We walked through the market in the morning.",
           "sentence_chinese": "我們早上走過市場。"
@@ -182,7 +182,7 @@
         {
           "id": "m1-6-u6-v023",
           "word": "temple",
-          "part_of_speech": "noun",
+          "part_of_speech": "名",
           "chinese": "寺廟",
           "sentence": "The old temple stood near the river.",
           "sentence_chinese": "那座古老的寺廟位在河邊。"
@@ -190,7 +190,7 @@
         {
           "id": "m1-6-u6-v024",
           "word": "famous",
-          "part_of_speech": "adjective",
+          "part_of_speech": "形",
           "chinese": "有名的",
           "sentence": "The Taj Mahal is a famous place in India.",
           "sentence_chinese": "泰姬瑪哈陵是印度有名的地方。"
@@ -198,7 +198,7 @@
         {
           "id": "m1-6-u6-v025",
           "word": "during",
-          "part_of_speech": "preposition",
+          "part_of_speech": "介",
           "chinese": "在……期間",
           "sentence": "We took many photos during the trip.",
           "sentence_chinese": "我們在旅途中拍了很多照片。"
@@ -206,7 +206,7 @@
         {
           "id": "m1-6-u6-v026",
           "word": "besides",
-          "part_of_speech": "preposition",
+          "part_of_speech": "介",
           "chinese": "除了……之外",
           "sentence": "Besides the temple, we visited a market.",
           "sentence_chinese": "除了寺廟之外，我們也參觀了一個市場。"
@@ -214,7 +214,7 @@
         {
           "id": "m1-6-u6-v027",
           "word": "age",
-          "part_of_speech": "noun",
+          "part_of_speech": "名",
           "chinese": "年紀",
           "sentence": "The story changed with age.",
           "sentence_chinese": "那個故事隨著時間改變。"
@@ -222,7 +222,7 @@
         {
           "id": "m1-6-u6-v028",
           "word": "lose",
-          "part_of_speech": "verb",
+          "part_of_speech": "動",
           "chinese": "失去",
           "sentence": "Ben lost his ticket at the airport.",
           "sentence_chinese": "Ben 在機場弄丟了他的票。"
@@ -230,7 +230,7 @@
         {
           "id": "m1-6-u6-v029",
           "word": "cry",
-          "part_of_speech": "verb",
+          "part_of_speech": "動",
           "chinese": "哭泣",
           "sentence": "The baby cried on the plane.",
           "sentence_chinese": "那個嬰兒在飛機上哭了。"
@@ -238,7 +238,7 @@
         {
           "id": "m1-6-u6-v030",
           "word": "hide",
-          "part_of_speech": "verb",
+          "part_of_speech": "動",
           "chinese": "躲藏",
           "sentence": "The cat hid under the sofa.",
           "sentence_chinese": "那隻貓躲在沙發下面。"
@@ -246,7 +246,7 @@
         {
           "id": "m1-6-u6-v031",
           "word": "build",
-          "part_of_speech": "verb",
+          "part_of_speech": "動",
           "chinese": "建造",
           "sentence": "Workers built the bridge many years ago.",
           "sentence_chinese": "工人們很多年前建造了那座橋。"
@@ -254,7 +254,7 @@
         {
           "id": "m1-6-u6-v032",
           "word": "trip",
-          "part_of_speech": "noun",
+          "part_of_speech": "名",
           "chinese": "旅行；行程",
           "sentence": "Our trip to India was exciting.",
           "sentence_chinese": "我們的印度之旅很令人興奮。"
@@ -262,7 +262,7 @@
         {
           "id": "m1-6-u6-v033",
           "word": "sadly",
-          "part_of_speech": "adverb",
+          "part_of_speech": "副",
           "chinese": "令人傷心地",
           "sentence": "Sadly, we lost our camera during the trip.",
           "sentence_chinese": "令人傷心的是，我們在旅途中弄丟了相機。"
@@ -270,7 +270,7 @@
         {
           "id": "m1-6-u6-v034",
           "word": "last",
-          "part_of_speech": "verb/adjective",
+          "part_of_speech": "動／形",
           "chinese": "持續；最後的",
           "sentence": "The show lasted two hours.",
           "sentence_chinese": "那場表演持續了 2 個小時。"

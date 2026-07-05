@@ -6,7 +6,7 @@
         {
           "id": "m1-6-u5-v001",
           "word": "yesterday",
-          "part_of_speech": "adv./n.",
+          "part_of_speech": "副／名",
           "chinese": "昨天",
           "sentence": "I visited my grandparents yesterday.",
           "sentence_chinese": "我昨天拜訪了我的祖父母。"
@@ -14,7 +14,7 @@
         {
           "id": "m1-6-u5-v002",
           "word": "beach",
-          "part_of_speech": "n.",
+          "part_of_speech": "名",
           "chinese": "海灘",
           "sentence": "There was a lot of trash on the beach yesterday.",
           "sentence_chinese": "昨天海灘上有很多垃圾。"
@@ -22,7 +22,7 @@
         {
           "id": "m1-6-u5-v003",
           "word": "trash",
-          "part_of_speech": "n.",
+          "part_of_speech": "名",
           "chinese": "垃圾",
           "sentence": "We cleaned the trash after lunch.",
           "sentence_chinese": "我們午餐後清理了垃圾。"
@@ -30,7 +30,7 @@
         {
           "id": "m1-6-u5-v004",
           "word": "ago",
-          "part_of_speech": "adv.",
+          "part_of_speech": "副",
           "chinese": "前；以前",
           "sentence": "They lived by the river two years ago.",
           "sentence_chinese": "他們兩年前住在河邊。"
@@ -38,7 +38,7 @@
         {
           "id": "m1-6-u5-v005",
           "word": "visit",
-          "part_of_speech": "v./n.",
+          "part_of_speech": "動／名",
           "chinese": "拜訪",
           "sentence": "Kevin visited the island last month.",
           "sentence_chinese": "Kevin 上個月拜訪了那座島。"
@@ -46,7 +46,7 @@
         {
           "id": "m1-6-u5-v006",
           "word": "island",
-          "part_of_speech": "n.",
+          "part_of_speech": "名",
           "chinese": "島嶼",
           "sentence": "There were many birds on the island last year.",
           "sentence_chinese": "去年那座島上有很多鳥。"
@@ -54,7 +54,7 @@
         {
           "id": "m1-6-u5-v007",
           "word": "sea",
-          "part_of_speech": "n.",
+          "part_of_speech": "名",
           "chinese": "海",
           "sentence": "There was oil in the sea then.",
           "sentence_chinese": "那時海裡有油。"
@@ -62,7 +62,7 @@
         {
           "id": "m1-6-u5-v008",
           "word": "stop",
-          "part_of_speech": "v.",
+          "part_of_speech": "動",
           "chinese": "停止",
           "sentence": "The rain stopped at six last night.",
           "sentence_chinese": "昨晚六點雨停了。"
@@ -70,7 +70,7 @@
         {
           "id": "m1-6-u5-v009",
           "word": "happen",
-          "part_of_speech": "v.",
+          "part_of_speech": "動",
           "chinese": "發生",
           "sentence": "What happened at the playground yesterday?",
           "sentence_chinese": "昨天操場發生了什麼事？"
@@ -78,7 +78,7 @@
         {
           "id": "m1-6-u5-v010",
           "word": "dead",
-          "part_of_speech": "adj.",
+          "part_of_speech": "形",
           "chinese": "死的",
           "sentence": "The plants were dead last week.",
           "sentence_chinese": "那些植物上週都死了。"
@@ -86,7 +86,7 @@
         {
           "id": "m1-6-u5-v011",
           "word": "warm",
-          "part_of_speech": "adj.",
+          "part_of_speech": "形",
           "chinese": "溫暖的",
           "sentence": "It was warm by the lake this afternoon.",
           "sentence_chinese": "今天下午湖邊很溫暖。"
@@ -94,7 +94,7 @@
         {
           "id": "m1-6-u5-v012",
           "word": "rainforest",
-          "part_of_speech": "n.",
+          "part_of_speech": "名",
           "chinese": "雨林",
           "sentence": "The rainforest was beautiful five years ago.",
           "sentence_chinese": "五年前那座雨林很美。"
@@ -102,7 +102,7 @@
         {
           "id": "m1-6-u5-v013",
           "word": "die",
-          "part_of_speech": "v.",
+          "part_of_speech": "動",
           "chinese": "死亡",
           "sentence": "Many small fish died in the dirty river.",
           "sentence_chinese": "很多小魚死在骯髒的河裡。"
@@ -110,7 +110,7 @@
         {
           "id": "m1-6-u5-v014",
           "word": "by",
-          "part_of_speech": "prep.",
+          "part_of_speech": "介",
           "chinese": "在……旁邊",
           "sentence": "We were by the sea last Sunday.",
           "sentence_chinese": "我們上週日在海邊。"
@@ -118,7 +118,7 @@
         {
           "id": "m1-6-u5-v015",
           "word": "then",
-          "part_of_speech": "adv.",
+          "part_of_speech": "副",
           "chinese": "那時候",
           "sentence": "I was busy then.",
           "sentence_chinese": "我那時候很忙。"
@@ -126,7 +126,7 @@
         {
           "id": "m1-6-u5-v016",
           "word": "busy",
-          "part_of_speech": "adj.",
+          "part_of_speech": "形",
           "chinese": "忙碌的",
           "sentence": "My parents were busy last weekend.",
           "sentence_chinese": "我的父母上週末很忙。"
@@ -134,7 +134,7 @@
         {
           "id": "m1-6-u5-v017",
           "word": "river",
-          "part_of_speech": "n.",
+          "part_of_speech": "名",
           "chinese": "河流",
           "sentence": "The river was clean before.",
           "sentence_chinese": "這條河以前很乾淨。"
@@ -142,7 +142,7 @@
         {
           "id": "m1-6-u5-v018",
           "word": "lake",
-          "part_of_speech": "n.",
+          "part_of_speech": "名",
           "chinese": "湖泊",
           "sentence": "We camped by the lake last night.",
           "sentence_chinese": "我們昨晚在湖邊露營。"
@@ -150,7 +150,7 @@
         {
           "id": "m1-6-u5-v019",
           "word": "hill",
-          "part_of_speech": "n.",
+          "part_of_speech": "名",
           "chinese": "山丘",
           "sentence": "There were many trees on the hill before.",
           "sentence_chinese": "以前山丘上有很多樹。"
@@ -158,7 +158,7 @@
         {
           "id": "m1-6-u5-v020",
           "word": "mountain",
-          "part_of_speech": "n.",
+          "part_of_speech": "名",
           "chinese": "山",
           "sentence": "They climbed the mountain yesterday morning.",
           "sentence_chinese": "他們昨天早上爬了那座山。"
@@ -166,7 +166,7 @@
         {
           "id": "m1-6-u5-v021",
           "word": "camp",
-          "part_of_speech": "v./n.",
+          "part_of_speech": "動／名",
           "chinese": "露營；營地",
           "sentence": "We camped near the river two days ago.",
           "sentence_chinese": "我們兩天前在河邊露營。"
@@ -174,7 +174,7 @@
         {
           "id": "m1-6-u5-v022",
           "word": "climb",
-          "part_of_speech": "v.",
+          "part_of_speech": "動",
           "chinese": "爬",
           "sentence": "Ruby climbed a small hill last Saturday.",
           "sentence_chinese": "Ruby 上週六爬了一座小山丘。"
@@ -182,7 +182,7 @@
         {
           "id": "m1-6-u5-v023",
           "word": "plant",
-          "part_of_speech": "v./n.",
+          "part_of_speech": "動／名",
           "chinese": "種植；植物",
           "sentence": "The students planted trees last month.",
           "sentence_chinese": "學生們上個月種了樹。"
@@ -190,7 +190,7 @@
         {
           "id": "m1-6-u5-v024",
           "word": "hike",
-          "part_of_speech": "v./n.",
+          "part_of_speech": "動／名",
           "chinese": "健行",
           "sentence": "We hiked in the mountains last weekend.",
           "sentence_chinese": "我們上週末在山裡健行。"
@@ -198,7 +198,7 @@
         {
           "id": "m1-6-u5-v025",
           "word": "picnic",
-          "part_of_speech": "v./n.",
+          "part_of_speech": "動／名",
           "chinese": "野餐",
           "sentence": "They picnicked on the hill yesterday.",
           "sentence_chinese": "他們昨天在山丘上野餐。"
@@ -206,7 +206,7 @@
         {
           "id": "m1-6-u5-v026",
           "word": "last",
-          "part_of_speech": "adj.",
+          "part_of_speech": "形",
           "chinese": "上一個的",
           "sentence": "We cleaned the classroom last Friday.",
           "sentence_chinese": "我們上週五打掃了教室。"
@@ -214,7 +214,7 @@
         {
           "id": "m1-6-u5-v027",
           "word": "live",
-          "part_of_speech": "v.",
+          "part_of_speech": "動",
           "chinese": "居住",
           "sentence": "My aunt lived in Kaohsiung before.",
           "sentence_chinese": "我阿姨以前住在高雄。"
@@ -222,7 +222,7 @@
         {
           "id": "m1-6-u5-v028",
           "word": "playground",
-          "part_of_speech": "n.",
+          "part_of_speech": "名",
           "chinese": "遊樂場；操場",
           "sentence": "The children played on the playground yesterday.",
           "sentence_chinese": "孩子們昨天在操場上玩。"
@@ -230,7 +230,7 @@
         {
           "id": "m1-6-u5-v029",
           "word": "everything",
-          "part_of_speech": "pron.",
+          "part_of_speech": "代",
           "chinese": "每樣事物",
           "sentence": "Everything changed little by little.",
           "sentence_chinese": "每樣事物都一點一點地改變了。"
@@ -238,7 +238,7 @@
         {
           "id": "m1-6-u5-v030",
           "word": "change",
-          "part_of_speech": "v./n.",
+          "part_of_speech": "動／名",
           "chinese": "改變",
           "sentence": "The weather changed last night.",
           "sentence_chinese": "天氣昨晚改變了。"
@@ -246,7 +246,7 @@
         {
           "id": "m1-6-u5-v031",
           "word": "burn",
-          "part_of_speech": "v.",
+          "part_of_speech": "動",
           "chinese": "燃燒",
           "sentence": "The fire burned for two hours.",
           "sentence_chinese": "那場火燒了兩個小時。"
@@ -254,7 +254,7 @@
         {
           "id": "m1-6-u5-v032",
           "word": "oil",
-          "part_of_speech": "n.",
+          "part_of_speech": "名",
           "chinese": "油",
           "sentence": "There was oil on the water yesterday.",
           "sentence_chinese": "昨天水面上有油。"
@@ -262,7 +262,7 @@
         {
           "id": "m1-6-u5-v033",
           "word": "sell",
-          "part_of_speech": "v.",
+          "part_of_speech": "動",
           "chinese": "賣",
           "sentence": "The man sold drinks by the beach.",
           "sentence_chinese": "那名男子在海灘邊賣飲料。"
@@ -270,7 +270,7 @@
         {
           "id": "m1-6-u5-v034",
           "word": "miss",
-          "part_of_speech": "v.",
+          "part_of_speech": "動",
           "chinese": "想念",
           "sentence": "I missed my old school last year.",
           "sentence_chinese": "我去年想念我的舊學校。"
@@ -278,7 +278,7 @@
         {
           "id": "m1-6-u5-v035",
           "word": "little",
-          "part_of_speech": "adj.",
+          "part_of_speech": "形",
           "chinese": "小的",
           "sentence": "There was a little dog near the lake.",
           "sentence_chinese": "湖邊有一隻小狗。"
@@ -286,7 +286,7 @@
         {
           "id": "m1-6-u5-v036",
           "word": "way",
-          "part_of_speech": "n.",
+          "part_of_speech": "名",
           "chinese": "方式",
           "sentence": "We found a new way to clean the beach.",
           "sentence_chinese": "我們找到了一個清理海灘的新方式。"

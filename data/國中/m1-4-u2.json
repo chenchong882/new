@@ -6,7 +6,7 @@
                 {
                     "id": "m1-4-u2-v001",
                     "word": "answer",
-                    "part_of_speech": "n./v.",
+                    "part_of_speech": "名／動",
                     "chinese": "回答；答案",
                     "sentence": "I don't know the answer to the question.",
                     "sentence_chinese": "我不知道這個問題的答案。"
@@ -14,7 +14,7 @@
                 {
                     "id": "m1-4-u2-v002",
                     "word": "question",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "問題",
                     "sentence": "Can I ask a question?",
                     "sentence_chinese": "我可以問個問題嗎？"
@@ -22,7 +22,7 @@
                 {
                     "id": "m1-4-u2-v003",
                     "word": "trouble",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "困難；麻煩",
                     "sentence": "He is in trouble now.",
                     "sentence_chinese": "他現在有麻煩了。"
@@ -30,7 +30,7 @@
                 {
                     "id": "m1-4-u2-v004",
                     "word": "life",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "生活；生命",
                     "sentence": "Music is a big part of my life.",
                     "sentence_chinese": "音樂是我生活的一大部分。"
@@ -38,7 +38,7 @@
                 {
                     "id": "m1-4-u2-v005",
                     "word": "owl",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "貓頭鷹",
                     "sentence": "An owl is a bird that stays up late.",
                     "sentence_chinese": "貓頭鷹是熬夜的鳥類。"
@@ -46,7 +46,7 @@
                 {
                     "id": "m1-4-u2-v006",
                     "word": "face",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "臉",
                     "sentence": "Wash your face before you go to bed.",
                     "sentence_chinese": "睡覺前洗臉。"
@@ -54,7 +54,7 @@
                 {
                     "id": "m1-4-u2-v007",
                     "word": "breakfast",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "早餐",
                     "sentence": "I usually eat breakfast at seven.",
                     "sentence_chinese": "我通常七點吃早餐。"
@@ -62,7 +62,7 @@
                 {
                     "id": "m1-4-u2-v008",
                     "word": "lunch",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "午餐",
                     "sentence": "We have lunch at school every day.",
                     "sentence_chinese": "我們每天在學校吃午餐。"
@@ -70,7 +70,7 @@
                 {
                     "id": "m1-4-u2-v009",
                     "word": "computer",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "電腦",
                     "sentence": "He uses the computer for work.",
                     "sentence_chinese": "他用電腦工作。"
@@ -78,7 +78,7 @@
                 {
                     "id": "m1-4-u2-v010",
                     "word": "always",
-                    "part_of_speech": "adv.",
+                    "part_of_speech": "副",
                     "chinese": "總是",
                     "sentence": "I am always happy at school.",
                     "sentence_chinese": "我在學校總是很快樂。"
@@ -86,7 +86,7 @@
                 {
                     "id": "m1-4-u2-v011",
                     "word": "tired",
-                    "part_of_speech": "adj.",
+                    "part_of_speech": "形",
                     "chinese": "疲累的",
                     "sentence": "He is often tired after school.",
                     "sentence_chinese": "他放學後經常很累。"
@@ -94,7 +94,7 @@
                 {
                     "id": "m1-4-u2-v012",
                     "word": "shower",
-                    "part_of_speech": "n./v.",
+                    "part_of_speech": "名／動",
                     "chinese": "淋浴",
                     "sentence": "I take a shower every night.",
                     "sentence_chinese": "我每晚洗澡。"
@@ -102,7 +102,7 @@
                 {
                     "id": "m1-4-u2-v013",
                     "word": "never",
-                    "part_of_speech": "adv.",
+                    "part_of_speech": "副",
                     "chinese": "從未",
                     "sentence": "We never fight with each other.",
                     "sentence_chinese": "我們從不互相吵架。"
@@ -110,7 +110,7 @@
                 {
                     "id": "m1-4-u2-v014",
                     "word": "library",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "圖書館",
                     "sentence": "I go to the library once a week.",
                     "sentence_chinese": "我每週去一次圖書館。"
@@ -118,7 +118,7 @@
                 {
                     "id": "m1-4-u2-v015",
                     "word": "once",
-                    "part_of_speech": "adv.",
+                    "part_of_speech": "副",
                     "chinese": "一次",
                     "sentence": "I visit my grandma once a month.",
                     "sentence_chinese": "我每個月看望奶奶一次。"
@@ -126,7 +126,7 @@
                 {
                     "id": "m1-4-u2-v016",
                     "word": "twice",
-                    "part_of_speech": "adv.",
+                    "part_of_speech": "副",
                     "chinese": "兩次",
                     "sentence": "We exercise twice a day.",
                     "sentence_chinese": "我們一天運動兩次。"
@@ -134,7 +134,7 @@
                 {
                     "id": "m1-4-u2-v017",
                     "word": "about",
-                    "part_of_speech": "adv.",
+                    "part_of_speech": "副",
                     "chinese": "大約",
                     "sentence": "It's about ten o'clock now.",
                     "sentence_chinese": "現在大約十點。"
@@ -142,7 +142,7 @@
                 {
                     "id": "m1-4-u2-v018",
                     "word": "early",
-                    "part_of_speech": "adj./adv.",
+                    "part_of_speech": "形／副",
                     "chinese": "早的/早地",
                     "sentence": "He gets up early in the morning.",
                     "sentence_chinese": "他早上很早起床。"
@@ -150,7 +150,7 @@
                 {
                     "id": "m1-4-u2-v019",
                     "word": "work",
-                    "part_of_speech": "n./v.",
+                    "part_of_speech": "名／動",
                     "chinese": "工作",
                     "sentence": "My dad goes to work by car.",
                     "sentence_chinese": "我爸爸開車去上班。"
@@ -158,7 +158,7 @@
                 {
                     "id": "m1-4-u2-v020",
                     "word": "often",
-                    "part_of_speech": "adv.",
+                    "part_of_speech": "副",
                     "chinese": "經常",
                     "sentence": "How often do you watch TV?",
                     "sentence_chinese": "你多常看電視？"
@@ -166,7 +166,7 @@
                 {
                     "id": "m1-4-u2-v021",
                     "word": "usually",
-                    "part_of_speech": "adv.",
+                    "part_of_speech": "副",
                     "chinese": "通常",
                     "sentence": "I usually go to bed at ten.",
                     "sentence_chinese": "我通常十點睡覺。"
@@ -174,7 +174,7 @@
                 {
                     "id": "m1-4-u2-v022",
                     "word": "seldom",
-                    "part_of_speech": "adv.",
+                    "part_of_speech": "副",
                     "chinese": "很少",
                     "sentence": "They are seldom quiet in class.",
                     "sentence_chinese": "他們在課堂上很少安靜。"
@@ -182,7 +182,7 @@
                 {
                     "id": "m1-4-u2-v023",
                     "word": "sometimes",
-                    "part_of_speech": "adv.",
+                    "part_of_speech": "副",
                     "chinese": "有時候",
                     "sentence": "She sometimes walks her dog at night.",
                     "sentence_chinese": "她有時候在晚上遛狗。"
@@ -190,7 +190,7 @@
                 {
                     "id": "m1-4-u2-v024",
                     "word": "even",
-                    "part_of_speech": "adv.",
+                    "part_of_speech": "副",
                     "chinese": "甚至",
                     "sentence": "He is even busy on weekends.",
                     "sentence_chinese": "他甚至在週末也很忙。"
@@ -198,7 +198,7 @@
                 {
                     "id": "m1-4-u2-v025",
                     "word": "late",
-                    "part_of_speech": "adj./adv.",
+                    "part_of_speech": "形／副",
                     "chinese": "晚的/晚地",
                     "sentence": "Don't be late for school.",
                     "sentence_chinese": "上學不要遲到。"
@@ -206,7 +206,7 @@
                 {
                     "id": "m1-4-u2-v026",
                     "word": "hour",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "小時",
                     "sentence": "I study for one hour every day.",
                     "sentence_chinese": "我每天讀書一小時。"
@@ -214,7 +214,7 @@
                 {
                     "id": "m1-4-u2-v027",
                     "word": "minute",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "分鐘",
                     "sentence": "Wait a minute, please.",
                     "sentence_chinese": "請等一下。"
@@ -222,7 +222,7 @@
                 {
                     "id": "m1-4-u2-v028",
                     "word": "study",
-                    "part_of_speech": "v.",
+                    "part_of_speech": "動",
                     "chinese": "研讀；學習",
                     "sentence": "They study English together.",
                     "sentence_chinese": "他們一起讀英文。"
@@ -230,7 +230,7 @@
                 {
                     "id": "m1-4-u2-v029",
                     "word": "exercise",
-                    "part_of_speech": "n./v.",
+                    "part_of_speech": "名／動",
                     "chinese": "運動",
                     "sentence": "He exercises twice a day.",
                     "sentence_chinese": "他一天運動兩次。"
@@ -238,7 +238,7 @@
                 {
                     "id": "m1-4-u2-v030",
                     "word": "bike",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "腳踏車",
                     "sentence": "I go to school by bike.",
                     "sentence_chinese": "我騎腳踏車上學。"

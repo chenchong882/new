@@ -6,7 +6,7 @@
                 {
                     "id": "h1-6-u5-v001",
                     "word": "costume",
-                    "part_of_speech": "n. [C][U]",
+                    "part_of_speech": "名",
                     "chinese": "特殊場合的服裝",
                     "sentence": "Ted went to the Halloween party in a Super Mario costume.",
                     "sentence_chinese": "Ted 穿著超級瑪利歐的服裝去參加萬聖節派對。"
@@ -14,7 +14,7 @@
                 {
                     "id": "h1-6-u5-v002",
                     "word": "ability",
-                    "part_of_speech": "n. [C][U]",
+                    "part_of_speech": "名",
                     "chinese": "才能",
                     "sentence": "The girl is known for her language ability.",
                     "sentence_chinese": "這個女孩以她的語言才能而聞名。"
@@ -22,7 +22,7 @@
                 {
                     "id": "h1-6-u5-v003",
                     "word": "weakness",
-                    "part_of_speech": "n. [C]",
+                    "part_of_speech": "名",
                     "chinese": "缺點；弱點",
                     "sentence": "This scooter is amazing. It only has one weakness—it is too heavy for me.",
                     "sentence_chinese": "這台機車很棒，它只有一個缺點——對我來說太重了。"
@@ -30,7 +30,7 @@
                 {
                     "id": "h1-6-u5-v004",
                     "word": "personal",
-                    "part_of_speech": "adj.",
+                    "part_of_speech": "形",
                     "chinese": "個人的；私人的",
                     "sentence": "Ann seldom talks about her personal life, so we know very little about her.",
                     "sentence_chinese": "Ann 很少談論她的私人生活，所以我們對她了解得很少。"
@@ -38,7 +38,7 @@
                 {
                     "id": "h1-6-u5-v005",
                     "word": "normal",
-                    "part_of_speech": "adj.",
+                    "part_of_speech": "形",
                     "chinese": "一般的；正常的",
                     "sentence": "It is normal to feel sad when his pet dies.",
                     "sentence_chinese": "當他的寵物死去時感到難過是正常的。"
@@ -46,7 +46,7 @@
                 {
                     "id": "h1-6-u5-v006",
                     "word": "murder",
-                    "part_of_speech": "vt.",
+                    "part_of_speech": "動",
                     "chinese": "謀殺",
                     "sentence": "After the pop star was murdered, all of his fans cried over his death.",
                     "sentence_chinese": "那位流行歌手被謀殺後，他所有的粉絲都為他的死亡而哭泣。"
@@ -54,7 +54,7 @@
                 {
                     "id": "h1-6-u5-v007",
                     "word": "depressed",
-                    "part_of_speech": "adj.",
+                    "part_of_speech": "形",
                     "chinese": "沮喪的；憂憂的",
                     "sentence": "Gina just broke up with her boyfriend, and she was very depressed about it.",
                     "sentence_chinese": "Gina 剛剛和她的男友分手，她對此感到非常沮喪。"
@@ -62,7 +62,7 @@
                 {
                     "id": "h1-6-u5-v008",
                     "word": "crime",
-                    "part_of_speech": "n. [U][C]",
+                    "part_of_speech": "名",
                     "chinese": "犯罪；罪行",
                     "sentence": "Today, computer crime is a big problem.",
                     "sentence_chinese": "如今，電腦犯罪是一個大問題。"
@@ -70,7 +70,7 @@
                 {
                     "id": "h1-6-u5-v009",
                     "word": "anger",
-                    "part_of_speech": "n. [U]",
+                    "part_of_speech": "名",
                     "chinese": "憤怒；生氣",
                     "sentence": "Ben sent a long message to Jane in anger because she forgot about their date.",
                     "sentence_chinese": "Ben 因為 Jane 忘記了他們的約會而憤怒地發了一封長訊息給她。"
@@ -78,7 +78,7 @@
                 {
                     "id": "h1-6-u5-v010",
                     "word": "protect",
-                    "part_of_speech": "vt.; vi.",
+                    "part_of_speech": "動",
                     "chinese": "保護",
                     "sentence": "My brother wore a mask to protect himself from the dirty air.",
                     "sentence_chinese": "我的哥哥戴著口罩來保護自己免受髒空氣侵害。"
@@ -86,7 +86,7 @@
                 {
                     "id": "h1-6-u5-v010-1",
                     "word": "protection",
-                    "part_of_speech": "n. [U]",
+                    "part_of_speech": "名",
                     "chinese": "保護",
                     "sentence": "Celine changed to a different phone case to provide better protection for her smartphone.",
                     "sentence_chinese": "Celine 換了一個不同的手機殼，為她的智慧型手機提供更好的保護。"
@@ -94,7 +94,7 @@
                 {
                     "id": "h1-6-u5-v011",
                     "word": "childhood",
-                    "part_of_speech": "n. [C][U]",
+                    "part_of_speech": "名",
                     "chinese": "童年；孩童時期",
                     "sentence": "I had a lovely blanket in my childhood, but it is gone now.",
                     "sentence_chinese": "我童年時有一條可愛的毯子，但現在它已不見了。"
@@ -102,7 +102,7 @@
                 {
                     "id": "h1-6-u5-v012",
                     "word": "female",
-                    "part_of_speech": "adj.",
+                    "part_of_speech": "形",
                     "chinese": "女性的",
                     "sentence": "There are fewer female taxi drivers than male ones.",
                     "sentence_chinese": "女性計程車司機比男性少。"
@@ -110,7 +110,7 @@
                 {
                     "id": "h1-6-u5-v013",
                     "word": "respect",
-                    "part_of_speech": "vt.",
+                    "part_of_speech": "動",
                     "chinese": "尊敬",
                     "sentence": "Many people respect Jam Hsiao for his acts of kindness.",
                     "sentence_chinese": "許多人因蕭敬騰的善舉而尊敬他。"
@@ -118,7 +118,7 @@
                 {
                     "id": "h1-6-u5-v014",
                     "word": "emotion",
-                    "part_of_speech": "n. [C][U]",
+                    "part_of_speech": "名",
                     "chinese": "情緒；情感",
                     "sentence": "Mike is not good at hiding his emotions.",
                     "sentence_chinese": "Mike 不擅長隱藏他的情緒。"
@@ -126,7 +126,7 @@
                 {
                     "id": "h1-6-u5-v015",
                     "word": "negative",
-                    "part_of_speech": "adj.",
+                    "part_of_speech": "形",
                     "chinese": "不好的；負面的",
                     "sentence": "Going to bed late has a negative effect on the human body.",
                     "sentence_chinese": "晚睡對人體有負面影響。"

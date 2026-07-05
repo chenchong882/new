@@ -3,14 +3,14 @@
     "gg-u1": {
       "title": "Unit 1",
       "vocab": [
-        { "id": "gg-u1-v001", "word": "Australia", "part_of_speech": "n.", "chinese": "澳洲", "sentence": "I'm from Australia.", "sentence_chinese": "我來自澳洲。" },
-        { "id": "gg-u1-v002", "word": "India", "part_of_speech": "n.", "chinese": "印度", "sentence": "She is from India.", "sentence_chinese": "她來自印度。" },
-        { "id": "gg-u1-v003", "word": "Japan", "part_of_speech": "n.", "chinese": "日本", "sentence": "Is he from Japan? Yes, he is.", "sentence_chinese": "他來自日本嗎？是的，他是。" },
-        { "id": "gg-u1-v004", "word": "Singapore", "part_of_speech": "n.", "chinese": "新加坡", "sentence": "I'm from Singapore.", "sentence_chinese": "我來自新加坡。" },
-        { "id": "gg-u1-v005", "word": "Spain", "part_of_speech": "n.", "chinese": "西班牙", "sentence": "She is from Spain.", "sentence_chinese": "她來自西班牙。" },
-        { "id": "gg-u1-v006", "word": "Taiwan", "part_of_speech": "n.", "chinese": "台灣", "sentence": "I'm from Taiwan.", "sentence_chinese": "我來自台灣。" },
-        { "id": "gg-u1-v007", "word": "the UK", "part_of_speech": "n.", "chinese": "英國", "sentence": "He is from the UK.", "sentence_chinese": "他來自英國。" },
-        { "id": "gg-u1-v008", "word": "the USA", "part_of_speech": "n.", "chinese": "美國", "sentence": "Are you from the USA? No, I'm not.", "sentence_chinese": "你來自美國嗎？不，我不是。" }
+        { "id": "gg-u1-v001", "word": "Australia", "part_of_speech": "名", "chinese": "澳洲", "sentence": "I'm from Australia.", "sentence_chinese": "我來自澳洲。" },
+        { "id": "gg-u1-v002", "word": "India", "part_of_speech": "名", "chinese": "印度", "sentence": "She is from India.", "sentence_chinese": "她來自印度。" },
+        { "id": "gg-u1-v003", "word": "Japan", "part_of_speech": "名", "chinese": "日本", "sentence": "Is he from Japan? Yes, he is.", "sentence_chinese": "他來自日本嗎？是的，他是。" },
+        { "id": "gg-u1-v004", "word": "Singapore", "part_of_speech": "名", "chinese": "新加坡", "sentence": "I'm from Singapore.", "sentence_chinese": "我來自新加坡。" },
+        { "id": "gg-u1-v005", "word": "Spain", "part_of_speech": "名", "chinese": "西班牙", "sentence": "She is from Spain.", "sentence_chinese": "她來自西班牙。" },
+        { "id": "gg-u1-v006", "word": "Taiwan", "part_of_speech": "名", "chinese": "台灣", "sentence": "I'm from Taiwan.", "sentence_chinese": "我來自台灣。" },
+        { "id": "gg-u1-v007", "word": "the UK", "part_of_speech": "名", "chinese": "英國", "sentence": "He is from the UK.", "sentence_chinese": "他來自英國。" },
+        { "id": "gg-u1-v008", "word": "the USA", "part_of_speech": "名", "chinese": "美國", "sentence": "Are you from the USA? No, I'm not.", "sentence_chinese": "你來自美國嗎？不，我不是。" }
       ],
       "phrases": [
         { "id": "gg-u1-p001", "phrase": "Where are you from?", "chinese": "你從哪裡來？", "sentence": "Where are you from? I'm from Taiwan.", "sentence_chinese": "你從哪裡來？我來自台灣。" },

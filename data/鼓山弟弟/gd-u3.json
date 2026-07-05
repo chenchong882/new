@@ -3,12 +3,12 @@
     "gd-u3": {
       "title": "Unit 3",
       "vocab": [
-        { "id": "gd-u3-v001", "word": "apples", "part_of_speech": "n. [pl.]", "chinese": "蘋果", "sentence": "Do you like apples? Yes, I do.", "sentence_chinese": "你喜歡蘋果嗎？是的，我喜歡。" },
-        { "id": "gd-u3-v002", "word": "bananas", "part_of_speech": "n. [pl.]", "chinese": "香蕉", "sentence": "What are these? They're bananas.", "sentence_chinese": "這些是什麼？它們是香蕉。" },
-        { "id": "gd-u3-v003", "word": "grapes", "part_of_speech": "n. [pl.]", "chinese": "葡萄", "sentence": "I like grapes. They are sweet.", "sentence_chinese": "我喜歡葡萄。它們很甜。" },
-        { "id": "gd-u3-v004", "word": "oranges", "part_of_speech": "n. [pl.]", "chinese": "柳橙", "sentence": "What are those? They're oranges.", "sentence_chinese": "那些是什麼？它們是柳橙。" },
-        { "id": "gd-u3-v005", "word": "papayas", "part_of_speech": "n. [pl.]", "chinese": "木瓜", "sentence": "Do you like papayas? No, I don't.", "sentence_chinese": "你喜歡木瓜嗎？不，我不喜歡。" },
-        { "id": "gd-u3-v006", "word": "watermelons", "part_of_speech": "n. [pl.]", "chinese": "西瓜", "sentence": "What are those? They're watermelons.", "sentence_chinese": "那些是什麼？它們是西瓜。" }
+        { "id": "gd-u3-v001", "word": "apples", "part_of_speech": "名", "chinese": "蘋果", "sentence": "Do you like apples? Yes, I do.", "sentence_chinese": "你喜歡蘋果嗎？是的，我喜歡。" },
+        { "id": "gd-u3-v002", "word": "bananas", "part_of_speech": "名", "chinese": "香蕉", "sentence": "What are these? They're bananas.", "sentence_chinese": "這些是什麼？它們是香蕉。" },
+        { "id": "gd-u3-v003", "word": "grapes", "part_of_speech": "名", "chinese": "葡萄", "sentence": "I like grapes. They are sweet.", "sentence_chinese": "我喜歡葡萄。它們很甜。" },
+        { "id": "gd-u3-v004", "word": "oranges", "part_of_speech": "名", "chinese": "柳橙", "sentence": "What are those? They're oranges.", "sentence_chinese": "那些是什麼？它們是柳橙。" },
+        { "id": "gd-u3-v005", "word": "papayas", "part_of_speech": "名", "chinese": "木瓜", "sentence": "Do you like papayas? No, I don't.", "sentence_chinese": "你喜歡木瓜嗎？不，我不喜歡。" },
+        { "id": "gd-u3-v006", "word": "watermelons", "part_of_speech": "名", "chinese": "西瓜", "sentence": "What are those? They're watermelons.", "sentence_chinese": "那些是什麼？它們是西瓜。" }
       ],
       "phrases": [
         { "id": "gd-u3-p001", "phrase": "Yummy!", "chinese": "好吃！", "sentence": "These apples are yummy!", "sentence_chinese": "這些蘋果好吃！" },

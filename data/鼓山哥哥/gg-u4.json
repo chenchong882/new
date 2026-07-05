@@ -3,13 +3,13 @@
     "gg-u4": {
       "title": "Unit 4",
       "vocab": [
-        { "id": "gg-u4-v001", "word": "get up", "part_of_speech": "v. phr.", "chinese": "起床", "sentence": "What time do you get up? I get up at 6:45.", "sentence_chinese": "你幾點起床？我六點四十五分起床。" },
-        { "id": "gg-u4-v002", "word": "go to school", "part_of_speech": "v. phr.", "chinese": "去上學", "sentence": "I go to school at seven.", "sentence_chinese": "我七點去上學。" },
-        { "id": "gg-u4-v003", "word": "have lunch", "part_of_speech": "v. phr.", "chinese": "吃午餐", "sentence": "When does she have lunch? She has lunch at noon.", "sentence_chinese": "她什麼時候吃午餐？她在中午吃午餐。" },
-        { "id": "gg-u4-v004", "word": "go home", "part_of_speech": "v. phr.", "chinese": "回家", "sentence": "I go home at four.", "sentence_chinese": "我四點回家。" },
-        { "id": "gg-u4-v005", "word": "do my homework", "part_of_speech": "v. phr.", "chinese": "做我的作業", "sentence": "What time does he do his homework? He does it at 5:30.", "sentence_chinese": "他幾點做作業？他五點半做。" },
-        { "id": "gg-u4-v006", "word": "take a bath", "part_of_speech": "v. phr.", "chinese": "洗澡", "sentence": "I take a bath at eight.", "sentence_chinese": "我八點洗澡。" },
-        { "id": "gg-u4-v007", "word": "go to bed", "part_of_speech": "v. phr.", "chinese": "去睡覺", "sentence": "What time do you go to bed? I go to bed at ten.", "sentence_chinese": "你幾點睡覺？我十點睡覺。" }
+        { "id": "gg-u4-v001", "word": "get up", "part_of_speech": "片", "chinese": "起床", "sentence": "What time do you get up? I get up at 6:45.", "sentence_chinese": "你幾點起床？我六點四十五分起床。" },
+        { "id": "gg-u4-v002", "word": "go to school", "part_of_speech": "片", "chinese": "去上學", "sentence": "I go to school at seven.", "sentence_chinese": "我七點去上學。" },
+        { "id": "gg-u4-v003", "word": "have lunch", "part_of_speech": "片", "chinese": "吃午餐", "sentence": "When does she have lunch? She has lunch at noon.", "sentence_chinese": "她什麼時候吃午餐？她在中午吃午餐。" },
+        { "id": "gg-u4-v004", "word": "go home", "part_of_speech": "片", "chinese": "回家", "sentence": "I go home at four.", "sentence_chinese": "我四點回家。" },
+        { "id": "gg-u4-v005", "word": "do my homework", "part_of_speech": "片", "chinese": "做我的作業", "sentence": "What time does he do his homework? He does it at 5:30.", "sentence_chinese": "他幾點做作業？他五點半做。" },
+        { "id": "gg-u4-v006", "word": "take a bath", "part_of_speech": "片", "chinese": "洗澡", "sentence": "I take a bath at eight.", "sentence_chinese": "我八點洗澡。" },
+        { "id": "gg-u4-v007", "word": "go to bed", "part_of_speech": "片", "chinese": "去睡覺", "sentence": "What time do you go to bed? I go to bed at ten.", "sentence_chinese": "你幾點睡覺？我十點睡覺。" }
       ],
       "phrases": [
         { "id": "gg-u4-p001", "phrase": "What time is it?", "chinese": "現在幾點？", "sentence": "What time is it? It's seven o'clock.", "sentence_chinese": "現在幾點？七點鐘。" },

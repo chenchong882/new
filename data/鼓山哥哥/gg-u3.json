@@ -3,14 +3,14 @@
     "gg-u3": {
       "title": "Unit 3",
       "vocab": [
-        { "id": "gg-u3-v001", "word": "listen to music", "part_of_speech": "v. phr.", "chinese": "聽音樂", "sentence": "I listen to music after school.", "sentence_chinese": "我放學後聽音樂。" },
-        { "id": "gg-u3-v002", "word": "play baseball", "part_of_speech": "v. phr.", "chinese": "打棒球", "sentence": "Does he play baseball? Yes, he does.", "sentence_chinese": "他打棒球嗎？是的，他打。" },
-        { "id": "gg-u3-v003", "word": "play basketball", "part_of_speech": "v. phr.", "chinese": "打籃球", "sentence": "I play basketball after school.", "sentence_chinese": "我放學後打籃球。" },
-        { "id": "gg-u3-v004", "word": "play football", "part_of_speech": "v. phr.", "chinese": "踢足球", "sentence": "She plays football in her free time.", "sentence_chinese": "她在空閒時踢足球。" },
-        { "id": "gg-u3-v005", "word": "ride a bike", "part_of_speech": "v. phr.", "chinese": "騎腳踏車", "sentence": "What does she do after school? She rides a bike.", "sentence_chinese": "她放學後做什麼？她騎腳踏車。" },
-        { "id": "gg-u3-v006", "word": "surf the Internet", "part_of_speech": "v. phr.", "chinese": "上網", "sentence": "Do you surf the Internet? Yes, I do.", "sentence_chinese": "你上網嗎？是的，我上。" },
-        { "id": "gg-u3-v007", "word": "go jogging", "part_of_speech": "v. phr.", "chinese": "去慢跑", "sentence": "I go jogging every morning.", "sentence_chinese": "我每天早上去慢跑。" },
-        { "id": "gg-u3-v008", "word": "watch TV", "part_of_speech": "v. phr.", "chinese": "看電視", "sentence": "What does he do after school? He watches TV.", "sentence_chinese": "他放學後做什麼？他看電視。" }
+        { "id": "gg-u3-v001", "word": "listen to music", "part_of_speech": "片", "chinese": "聽音樂", "sentence": "I listen to music after school.", "sentence_chinese": "我放學後聽音樂。" },
+        { "id": "gg-u3-v002", "word": "play baseball", "part_of_speech": "片", "chinese": "打棒球", "sentence": "Does he play baseball? Yes, he does.", "sentence_chinese": "他打棒球嗎？是的，他打。" },
+        { "id": "gg-u3-v003", "word": "play basketball", "part_of_speech": "片", "chinese": "打籃球", "sentence": "I play basketball after school.", "sentence_chinese": "我放學後打籃球。" },
+        { "id": "gg-u3-v004", "word": "play football", "part_of_speech": "片", "chinese": "踢足球", "sentence": "She plays football in her free time.", "sentence_chinese": "她在空閒時踢足球。" },
+        { "id": "gg-u3-v005", "word": "ride a bike", "part_of_speech": "片", "chinese": "騎腳踏車", "sentence": "What does she do after school? She rides a bike.", "sentence_chinese": "她放學後做什麼？她騎腳踏車。" },
+        { "id": "gg-u3-v006", "word": "surf the Internet", "part_of_speech": "片", "chinese": "上網", "sentence": "Do you surf the Internet? Yes, I do.", "sentence_chinese": "你上網嗎？是的，我上。" },
+        { "id": "gg-u3-v007", "word": "go jogging", "part_of_speech": "片", "chinese": "去慢跑", "sentence": "I go jogging every morning.", "sentence_chinese": "我每天早上去慢跑。" },
+        { "id": "gg-u3-v008", "word": "watch TV", "part_of_speech": "片", "chinese": "看電視", "sentence": "What does he do after school? He watches TV.", "sentence_chinese": "他放學後做什麼？他看電視。" }
       ],
       "phrases": [
         { "id": "gg-u3-p001", "phrase": "What do you do after school?", "chinese": "你放學後做什麼？", "sentence": "What do you do after school? I go jogging after school.", "sentence_chinese": "你放學後做什麼？我放學後去慢跑。" },

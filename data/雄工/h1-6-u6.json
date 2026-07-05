@@ -6,7 +6,7 @@
                 {
                     "id": "h1-6-u6-v001",
                     "word": "preserve",
-                    "part_of_speech": "vt.",
+                    "part_of_speech": "動",
                     "chinese": "保存；保護；維護",
                     "sentence": "Museums preserve important artifacts for future students.",
                     "sentence_chinese": "博物館保存重要文物，讓未來的學生能學習。"
@@ -14,7 +14,7 @@
                 {
                     "id": "h1-6-u6-v002",
                     "word": "institution",
-                    "part_of_speech": "n. [C]",
+                    "part_of_speech": "名",
                     "chinese": "機構；制度",
                     "sentence": "This institution trains young artists to repair old paintings.",
                     "sentence_chinese": "這個機構訓練年輕藝術家修復古畫。"
@@ -22,7 +22,7 @@
                 {
                     "id": "h1-6-u6-v003",
                     "word": "artifact",
-                    "part_of_speech": "n. [C]",
+                    "part_of_speech": "名",
                     "chinese": "文物；古器物",
                     "sentence": "The bronze artifact was found inside an ancient tomb.",
                     "sentence_chinese": "這件青銅文物是在一座古墓裡被發現的。"
@@ -30,7 +30,7 @@
                 {
                     "id": "h1-6-u6-v004",
                     "word": "convert",
-                    "part_of_speech": "vt./vi.",
+                    "part_of_speech": "動",
                     "chinese": "改造；轉換",
                     "sentence": "The city plans to convert the old station into a museum.",
                     "sentence_chinese": "市政府計畫把舊車站改造成博物館。"
@@ -38,7 +38,7 @@
                 {
                     "id": "h1-6-u6-v005",
                     "word": "extraordinary",
-                    "part_of_speech": "adj.",
+                    "part_of_speech": "形",
                     "chinese": "非凡的；傑出的",
                     "sentence": "The guide told us an extraordinary story about the temple.",
                     "sentence_chinese": "導遊告訴我們一個關於這座寺廟的非凡故事。"
@@ -46,7 +46,7 @@
                 {
                     "id": "h1-6-u6-v006",
                     "word": "approximately",
-                    "part_of_speech": "adv.",
+                    "part_of_speech": "副",
                     "chinese": "大約",
                     "sentence": "Approximately two thousand people visit the site every day.",
                     "sentence_chinese": "每天大約有兩千人參觀這個地點。"
@@ -54,7 +54,7 @@
                 {
                     "id": "h1-6-u6-v007",
                     "word": "infrastructure",
-                    "part_of_speech": "n. [U]",
+                    "part_of_speech": "名",
                     "chinese": "基礎建設",
                     "sentence": "Better infrastructure can make travel to the island easier.",
                     "sentence_chinese": "更好的基礎建設能讓前往這座島的旅程更方便。"
@@ -62,7 +62,7 @@
                 {
                     "id": "h1-6-u6-v008",
                     "word": "deteriorate",
-                    "part_of_speech": "vi.",
+                    "part_of_speech": "動",
                     "chinese": "惡化",
                     "sentence": "The wall will deteriorate quickly if no one repairs it.",
                     "sentence_chinese": "如果沒有人修理，這面牆會很快惡化。"
@@ -70,7 +70,7 @@
                 {
                     "id": "h1-6-u6-v009",
                     "word": "destination",
-                    "part_of_speech": "n. [C]",
+                    "part_of_speech": "名",
                     "chinese": "目的地",
                     "sentence": "The old castle has become a popular destination for families.",
                     "sentence_chinese": "這座古堡已成為家庭旅遊的熱門目的地。"
@@ -78,7 +78,7 @@
                 {
                     "id": "h1-6-u6-v010",
                     "word": "specialized",
-                    "part_of_speech": "adj.",
+                    "part_of_speech": "形",
                     "chinese": "專業的；專門的",
                     "sentence": "The museum uses specialized tools to clean fragile objects.",
                     "sentence_chinese": "博物館使用專門工具清潔脆弱物件。"
@@ -86,7 +86,7 @@
                 {
                     "id": "h1-6-u6-v011",
                     "word": "intensely",
-                    "part_of_speech": "adv.",
+                    "part_of_speech": "副",
                     "chinese": "強烈地；專注地",
                     "sentence": "The researcher studied the ancient map intensely for hours.",
                     "sentence_chinese": "研究員專注地研究那張古地圖好幾個小時。"
@@ -94,7 +94,7 @@
                 {
                     "id": "h1-6-u6-v012",
                     "word": "notable",
-                    "part_of_speech": "adj.",
+                    "part_of_speech": "形",
                     "chinese": "顯著的；著名的",
                     "sentence": "There are several notable temples in this historic district.",
                     "sentence_chinese": "這個歷史街區有幾座著名寺廟。"
@@ -102,7 +102,7 @@
                 {
                     "id": "h1-6-u6-v013",
                     "word": "donate",
-                    "part_of_speech": "vt./vi.",
+                    "part_of_speech": "動",
                     "chinese": "捐贈",
                     "sentence": "Many people donate money to help preserve local heritage.",
                     "sentence_chinese": "許多人捐錢幫助保存地方文化遺產。"
@@ -110,7 +110,7 @@
                 {
                     "id": "h1-6-u6-v014",
                     "word": "bronze",
-                    "part_of_speech": "adj./n. [U]",
+                    "part_of_speech": "形／名",
                     "chinese": "青銅的；銅牌的",
                     "sentence": "The bronze statue stands near the entrance of the museum.",
                     "sentence_chinese": "那座青銅雕像立在博物館入口附近。"
@@ -118,7 +118,7 @@
                 {
                     "id": "h1-6-u6-v015",
                     "word": "contemporary",
-                    "part_of_speech": "adj.",
+                    "part_of_speech": "形",
                     "chinese": "當代的；現代的",
                     "sentence": "The gallery shows both ancient artifacts and contemporary art.",
                     "sentence_chinese": "這間畫廊展示古文物與當代藝術。"
@@ -126,7 +126,7 @@
                 {
                     "id": "h1-6-u6-v016",
                     "word": "ample",
-                    "part_of_speech": "adj.",
+                    "part_of_speech": "形",
                     "chinese": "充足的",
                     "sentence": "The new hall gives visitors ample space to walk around.",
                     "sentence_chinese": "新大廳給參觀者充足的走動空間。"
@@ -134,7 +134,7 @@
                 {
                     "id": "h1-6-u6-v017",
                     "word": "evidence",
-                    "part_of_speech": "n. [U]",
+                    "part_of_speech": "名",
                     "chinese": "證據",
                     "sentence": "The broken vase is evidence of life in the ancient village.",
                     "sentence_chinese": "這個破碎花瓶是古村落生活的證據。"
@@ -142,7 +142,7 @@
                 {
                     "id": "h1-6-u6-v018",
                     "word": "tomb",
-                    "part_of_speech": "n. [C]",
+                    "part_of_speech": "名",
                     "chinese": "墳墓",
                     "sentence": "The king was buried in a tomb under the hill.",
                     "sentence_chinese": "那位國王被埋葬在山丘下的墳墓裡。"
@@ -150,7 +150,7 @@
                 {
                     "id": "h1-6-u6-v019",
                     "word": "heritage",
-                    "part_of_speech": "n. [U]",
+                    "part_of_speech": "名",
                     "chinese": "遺產；文化遺產",
                     "sentence": "Young people should learn to cherish their cultural heritage.",
                     "sentence_chinese": "年輕人應該學會珍惜自己的文化遺產。"
@@ -158,7 +158,7 @@
                 {
                     "id": "h1-6-u6-v020",
                     "word": "merely",
-                    "part_of_speech": "adv.",
+                    "part_of_speech": "副",
                     "chinese": "僅僅；只是",
                     "sentence": "The building is not merely old; it is part of our history.",
                     "sentence_chinese": "這棟建築不僅僅是老舊，它也是我們歷史的一部分。"
@@ -166,7 +166,7 @@
                 {
                     "id": "h1-6-u6-v021",
                     "word": "cherish",
-                    "part_of_speech": "vt.",
+                    "part_of_speech": "動",
                     "chinese": "珍惜；珍愛",
                     "sentence": "Grandma taught us to cherish every family photo.",
                     "sentence_chinese": "奶奶教我們珍惜每一張家庭照片。"
@@ -174,7 +174,7 @@
                 {
                     "id": "h1-6-u6-v022",
                     "word": "physical",
-                    "part_of_speech": "adj.",
+                    "part_of_speech": "形",
                     "chinese": "身體的；實體的",
                     "sentence": "Visitors can see physical evidence of the city's past.",
                     "sentence_chinese": "參觀者可以看見這座城市過去的實體證據。"
@@ -182,7 +182,7 @@
                 {
                     "id": "h1-6-u6-v023",
                     "word": "professional",
-                    "part_of_speech": "adj./n. [C]",
+                    "part_of_speech": "形／名",
                     "chinese": "專業的；職業的",
                     "sentence": "A professional repaired the damaged bronze bowl.",
                     "sentence_chinese": "一位專業人士修復了受損的青銅碗。"
@@ -190,7 +190,7 @@
                 {
                     "id": "h1-6-u6-v024",
                     "word": "restriction",
-                    "part_of_speech": "n. [C]",
+                    "part_of_speech": "名",
                     "chinese": "限制",
                     "sentence": "There is a restriction on touching the artifacts.",
                     "sentence_chinese": "館內有禁止觸摸文物的限制。"
@@ -198,7 +198,7 @@
                 {
                     "id": "h1-6-u6-v025",
                     "word": "verbal",
-                    "part_of_speech": "adj.",
+                    "part_of_speech": "形",
                     "chinese": "口頭的；言語的",
                     "sentence": "The guide gave us verbal instructions before we entered the tomb.",
                     "sentence_chinese": "導遊在我們進入古墓前給了口頭指示。"
@@ -206,7 +206,7 @@
                 {
                     "id": "h1-6-u6-v026",
                     "word": "violate",
-                    "part_of_speech": "vt.",
+                    "part_of_speech": "動",
                     "chinese": "違反；侵犯",
                     "sentence": "Taking photos may violate the rules in this museum.",
                     "sentence_chinese": "拍照可能違反這間博物館的規定。"
@@ -214,7 +214,7 @@
                 {
                     "id": "h1-6-u6-v027",
                     "word": "content",
-                    "part_of_speech": "n. [U]",
+                    "part_of_speech": "名",
                     "chinese": "內容",
                     "sentence": "The online content explains why the old wall must be protected.",
                     "sentence_chinese": "線上內容說明為什麼這面古牆必須被保護。"
@@ -222,7 +222,7 @@
                 {
                     "id": "h1-6-u6-v028",
                     "word": "neglect",
-                    "part_of_speech": "vt./n. [U]",
+                    "part_of_speech": "動／名",
                     "chinese": "忽視",
                     "sentence": "If people neglect the temple, it will soon deteriorate.",
                     "sentence_chinese": "如果人們忽視這座寺廟，它很快就會惡化。"
@@ -230,7 +230,7 @@
                 {
                     "id": "h1-6-u6-v029",
                     "word": "beneficial",
-                    "part_of_speech": "adj.",
+                    "part_of_speech": "形",
                     "chinese": "有益的",
                     "sentence": "A guided tour can be beneficial to first-time visitors.",
                     "sentence_chinese": "導覽對第一次來的參觀者很有益。"

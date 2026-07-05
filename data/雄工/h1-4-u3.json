@@ -6,7 +6,7 @@
                 {
                     "id": "h1-4-u3-v001",
                     "word": "reality",
-                    "part_of_speech": "n. [C][U]",
+                    "part_of_speech": "名",
                     "chinese": "現實",
                     "sentence": "Rachel is hoping that time travel will become a reality.",
                     "sentence_chinese": "Rachel 希望時光旅行能成為現實。"
@@ -14,7 +14,7 @@
                 {
                     "id": "h1-4-u3-v002",
                     "word": "add",
-                    "part_of_speech": "vt.",
+                    "part_of_speech": "動",
                     "chinese": "加",
                     "sentence": "Melody added a sticker to her message to show her feelings.",
                     "sentence_chinese": "Melody 在她的訊息中加了一張貼紙來表達她的感受。"
@@ -22,7 +22,7 @@
                 {
                     "id": "h1-4-u3-v003",
                     "word": "effects",
-                    "part_of_speech": "n. [pl.]",
+                    "part_of_speech": "名",
                     "chinese": "特效，效果",
                     "sentence": "I liked the performance because it had great sound effects.",
                     "sentence_chinese": "我喜歡這場表演，因為它有很棒的音效。"
@@ -30,7 +30,7 @@
                 {
                     "id": "h1-4-u3-v004",
                     "word": "appearance",
-                    "part_of_speech": "n. [C][U]",
+                    "part_of_speech": "名",
                     "chinese": "外表",
                     "sentence": "Young people often care a lot about their appearance.",
                     "sentence_chinese": "年輕人通常很在乎他們的外表。"
@@ -38,7 +38,7 @@
                 {
                     "id": "h1-4-u3-v005",
                     "word": "involved",
-                    "part_of_speech": "adj.",
+                    "part_of_speech": "形",
                     "chinese": "參與的，有關的",
                     "sentence": "This music event is huge. More than 20 bands are involved in it.",
                     "sentence_chinese": "這場音樂盛會規模龐大。超過 20 個樂團參與其中。"
@@ -46,7 +46,7 @@
                 {
                     "id": "h1-4-u3-v006",
                     "word": "scary",
-                    "part_of_speech": "adj.",
+                    "part_of_speech": "形",
                     "chinese": "可怕的",
                     "sentence": "The old house looked scary in the dark.",
                     "sentence_chinese": "這棟老房子在黑暗中看起來很可怕。"
@@ -54,7 +54,7 @@
                 {
                     "id": "h1-4-u3-v007",
                     "word": "wild",
-                    "part_of_speech": "n. [sing.]",
+                    "part_of_speech": "名",
                     "chinese": "荒野，野生環境",
                     "sentence": "In the game, the players are left in the wild and must find food to live.",
                     "sentence_chinese": "在遊戲中，玩家被留在荒野，必須尋找食物才能生存。"
@@ -62,7 +62,7 @@
                 {
                     "id": "h1-4-u3-v008",
                     "word": "information",
-                    "part_of_speech": "n. [U]",
+                    "part_of_speech": "名",
                     "chinese": "資訊，消息",
                     "sentence": "On the Internet, we can find information about almost everything.",
                     "sentence_chinese": "在網路上，我們幾乎可以找到關於任何事情的資訊。"
@@ -70,7 +70,7 @@
                 {
                     "id": "h1-4-u3-v009",
                     "word": "scene",
-                    "part_of_speech": "n. [C]",
+                    "part_of_speech": "名",
                     "chinese": "場景",
                     "sentence": "To our surprise, there are many love scenes in this scary movie.",
                     "sentence_chinese": "令我們驚訝的是，這部恐怖片裡有很多愛情場景。"
@@ -78,7 +78,7 @@
                 {
                     "id": "h1-4-u3-v010",
                     "word": "image",
-                    "part_of_speech": "n. [C]",
+                    "part_of_speech": "名",
                     "chinese": "影像，圖像",
                     "sentence": "In the past, images on TV were only black and white.",
                     "sentence_chinese": "過去，電視上的影像只有黑白的。"
@@ -86,7 +86,7 @@
                 {
                     "id": "h1-4-u3-v011",
                     "word": "extra",
-                    "part_of_speech": "adj.",
+                    "part_of_speech": "形",
                     "chinese": "額外的，另外的",
                     "sentence": "Customers need to pay more if they want extra cheese on their pizzas.",
                     "sentence_chinese": "如果顧客想要在披薩上加額外的起司，他們需要付更多錢。"
@@ -94,7 +94,7 @@
                 {
                     "id": "h1-4-u3-v012",
                     "word": "curious",
-                    "part_of_speech": "adj.",
+                    "part_of_speech": "形",
                     "chinese": "好奇的",
                     "sentence": "Tim is very curious about what his online friend looks like.",
                     "sentence_chinese": "Tim 對他的網友長什麼樣子感到很好奇。"
@@ -102,7 +102,7 @@
                 {
                     "id": "h1-4-u3-v013",
                     "word": "explore",
-                    "part_of_speech": "vt.; vi.",
+                    "part_of_speech": "動",
                     "chinese": "探索",
                     "sentence": "Many tourists like to take a glass-bottom boat to explore the ocean.",
                     "sentence_chinese": "許多遊客喜歡搭乘玻璃底船來探索海洋。"
@@ -110,7 +110,7 @@
                 {
                     "id": "h1-4-u3-v014",
                     "word": "develop",
-                    "part_of_speech": "vi.; vt.",
+                    "part_of_speech": "動",
                     "chinese": "發展，成長",
                     "sentence": "With the help of artists, the old station developed into a new attraction.",
                     "sentence_chinese": "在藝術家的幫助下，這座舊車站發展成了一個新景點。"

@@ -3,14 +3,14 @@
     "gg-u2": {
       "title": "Unit 2",
       "vocab": [
-        { "id": "gg-u2-v001", "word": "by bike", "part_of_speech": "prep. phr.", "chinese": "騎腳踏車", "sentence": "I go to school by bike.", "sentence_chinese": "我騎腳踏車上學。" },
-        { "id": "gg-u2-v002", "word": "by bus", "part_of_speech": "prep. phr.", "chinese": "搭公車", "sentence": "Does he go to school by bus? Yes, he does.", "sentence_chinese": "他搭公車上學嗎？是的，他是。" },
-        { "id": "gg-u2-v003", "word": "by car", "part_of_speech": "prep. phr.", "chinese": "搭車", "sentence": "She goes to school by car.", "sentence_chinese": "她搭車上學。" },
-        { "id": "gg-u2-v004", "word": "by MRT", "part_of_speech": "prep. phr.", "chinese": "搭捷運", "sentence": "I go to school by MRT.", "sentence_chinese": "我搭捷運上學。" },
-        { "id": "gg-u2-v005", "word": "by scooter", "part_of_speech": "prep. phr.", "chinese": "騎摩托車", "sentence": "My dad goes to work by scooter.", "sentence_chinese": "我爸爸騎摩托車去上班。" },
-        { "id": "gg-u2-v006", "word": "by taxi", "part_of_speech": "prep. phr.", "chinese": "搭計程車", "sentence": "She goes to school by taxi.", "sentence_chinese": "她搭計程車上學。" },
-        { "id": "gg-u2-v007", "word": "by train", "part_of_speech": "prep. phr.", "chinese": "搭火車", "sentence": "Does he go to school by train? No, he doesn't.", "sentence_chinese": "他搭火車上學嗎？不，他不是。" },
-        { "id": "gg-u2-v008", "word": "on foot", "part_of_speech": "prep. phr.", "chinese": "走路", "sentence": "I go to school on foot.", "sentence_chinese": "我走路上學。" }
+        { "id": "gg-u2-v001", "word": "by bike", "part_of_speech": "片", "chinese": "騎腳踏車", "sentence": "I go to school by bike.", "sentence_chinese": "我騎腳踏車上學。" },
+        { "id": "gg-u2-v002", "word": "by bus", "part_of_speech": "片", "chinese": "搭公車", "sentence": "Does he go to school by bus? Yes, he does.", "sentence_chinese": "他搭公車上學嗎？是的，他是。" },
+        { "id": "gg-u2-v003", "word": "by car", "part_of_speech": "片", "chinese": "搭車", "sentence": "She goes to school by car.", "sentence_chinese": "她搭車上學。" },
+        { "id": "gg-u2-v004", "word": "by MRT", "part_of_speech": "片", "chinese": "搭捷運", "sentence": "I go to school by MRT.", "sentence_chinese": "我搭捷運上學。" },
+        { "id": "gg-u2-v005", "word": "by scooter", "part_of_speech": "片", "chinese": "騎摩托車", "sentence": "My dad goes to work by scooter.", "sentence_chinese": "我爸爸騎摩托車去上班。" },
+        { "id": "gg-u2-v006", "word": "by taxi", "part_of_speech": "片", "chinese": "搭計程車", "sentence": "She goes to school by taxi.", "sentence_chinese": "她搭計程車上學。" },
+        { "id": "gg-u2-v007", "word": "by train", "part_of_speech": "片", "chinese": "搭火車", "sentence": "Does he go to school by train? No, he doesn't.", "sentence_chinese": "他搭火車上學嗎？不，他不是。" },
+        { "id": "gg-u2-v008", "word": "on foot", "part_of_speech": "片", "chinese": "走路", "sentence": "I go to school on foot.", "sentence_chinese": "我走路上學。" }
       ],
       "phrases": [
         { "id": "gg-u2-p001", "phrase": "How do you go to school?", "chinese": "你怎麼去上學？", "sentence": "How do you go to school? I go to school by bus.", "sentence_chinese": "你怎麼去上學？我搭公車上學。" },

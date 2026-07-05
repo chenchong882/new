@@ -1,4 +1,5 @@
 {
   "title": "鼓山弟弟 段考範圍",
-  "units": ["gd-u1", "gd-u2", "gd-u3", "gd-u4"]
+  "units": ["gd-u1", "gd-u2", "gd-u3", "gd-u4"],
+  "all": ["gd-u1", "gd-u2", "gd-u3", "gd-u4"]
 }

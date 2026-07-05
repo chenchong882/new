@@ -6,7 +6,7 @@
                 {
                     "id": "h1-4-u4-v001",
                     "word": "consider",
-                    "part_of_speech": "vt.; vi.",
+                    "part_of_speech": "動",
                     "chinese": "考慮",
                     "sentence": "Patrick is considering buying a Happy Meal to get the free toy.",
                     "sentence_chinese": "派翠克正在考慮買快樂兒童餐來獲得免費玩具。"
@@ -14,7 +14,7 @@
                 {
                     "id": "h1-4-u4-v002",
                     "word": "consideration",
-                    "part_of_speech": "n. [U]",
+                    "part_of_speech": "名",
                     "chinese": "考慮",
                     "sentence": "Alisa usually takes breakfast into consideration when she chooses a hotel.",
                     "sentence_chinese": "艾莉莎選擇飯店時通常會將早餐納入考慮。"
@@ -22,7 +22,7 @@
                 {
                     "id": "h1-4-u4-v003",
                     "word": "situation",
-                    "part_of_speech": "n. [C]",
+                    "part_of_speech": "名",
                     "chinese": "情況",
                     "sentence": "The red button in the public toilet is for dangerous situations only.",
                     "sentence_chinese": "公廁裡的紅色按鈕僅供危險情況使用。"
@@ -30,7 +30,7 @@
                 {
                     "id": "h1-4-u4-v004",
                     "word": "tend",
-                    "part_of_speech": "vi.",
+                    "part_of_speech": "動",
                     "chinese": "傾向，往往",
                     "sentence": "Irene tends to choose a window seat when she takes a plane.",
                     "sentence_chinese": "艾琳搭飛機時往往會選擇靠窗的座位。"
@@ -38,7 +38,7 @@
                 {
                     "id": "h1-4-u4-v005",
                     "word": "crowd",
-                    "part_of_speech": "n. [C]",
+                    "part_of_speech": "名",
                     "chinese": "群眾",
                     "sentence": "The Christmas event was fun, so it attracted large crowds of people.",
                     "sentence_chinese": "這場聖誕活動很有趣，所以吸引了大批群眾。"
@@ -46,7 +46,7 @@
                 {
                     "id": "h1-4-u4-v006",
                     "word": "daily",
-                    "part_of_speech": "adj.",
+                    "part_of_speech": "形",
                     "chinese": "日常的，每天的",
                     "sentence": "The daily job of some social workers is to check on how poor families are doing.",
                     "sentence_chinese": "一些社會工作者的日常工作是查看貧困家庭的狀況。"
@@ -54,7 +54,7 @@
                 {
                     "id": "h1-4-u4-v007",
                     "word": "suddenly",
-                    "part_of_speech": "adv.",
+                    "part_of_speech": "副",
                     "chinese": "突然",
                     "sentence": "The earthquake occurred suddenly and scared my parents.",
                     "sentence_chinese": "地震突然發生，嚇到了我父母。"
@@ -62,7 +62,7 @@
                 {
                     "id": "h1-4-u4-v008",
                     "word": "include",
-                    "part_of_speech": "vt.",
+                    "part_of_speech": "動",
                     "chinese": "包括",
                     "sentence": "This set lunch includes a main dish and a drink.",
                     "sentence_chinese": "這份套餐包括一份主菜和一杯飲料。"
@@ -70,7 +70,7 @@
                 {
                     "id": "h1-4-u4-v009",
                     "word": "including",
-                    "part_of_speech": "prep.",
+                    "part_of_speech": "介",
                     "chinese": "包含",
                     "sentence": "Certain behavior is not allowed in the race, including hitting others.",
                     "sentence_chinese": "比賽中不允許某些行為，包含打別人。"
@@ -78,7 +78,7 @@
                 {
                     "id": "h1-4-u4-v010",
                     "word": "gesture",
-                    "part_of_speech": "n. [C][U]",
+                    "part_of_speech": "名",
                     "chinese": "手勢",
                     "sentence": "Michael made a gesture to tell his team member to shoot the ball.",
                     "sentence_chinese": "麥可做了一個手勢告訴他的隊員投籃。"
@@ -86,7 +86,7 @@
                 {
                     "id": "h1-4-u4-v011",
                     "word": "rapidly",
-                    "part_of_speech": "adv.",
+                    "part_of_speech": "副",
                     "chinese": "迅速地",
                     "sentence": "If a popular YouTuber promotes our product, our sales increase rapidly.",
                     "sentence_chinese": "如果受歡迎的 YouTuber 推廣我們的產品，我們的銷售量會迅速增加。"
@@ -94,7 +94,7 @@
                 {
                     "id": "h1-4-u4-v012",
                     "word": "rapid",
-                    "part_of_speech": "adj.",
+                    "part_of_speech": "形",
                     "chinese": "迅速的",
                     "sentence": "The rapid change in the weather made me catch a cold.",
                     "sentence_chinese": "天氣的迅速變化讓我感冒了。"
@@ -102,7 +102,7 @@
                 {
                     "id": "h1-4-u4-v013",
                     "word": "besides",
-                    "part_of_speech": "adv.",
+                    "part_of_speech": "副",
                     "chinese": "此外",
                     "sentence": "I don't feel like eating out tonight. Besides, I spent too much money this month.",
                     "sentence_chinese": "我今晚不想在外面吃。此外，我這個月花太多錢了。"
@@ -110,7 +110,7 @@
                 {
                     "id": "h1-4-u4-v014",
                     "word": "drama",
-                    "part_of_speech": "n. [C]",
+                    "part_of_speech": "名",
                     "chinese": "戲劇",
                     "sentence": "It is surprising that the singer plays the role of a clown in the new TV drama.",
                     "sentence_chinese": "令人驚訝的是，這位歌手在新電視劇中扮演小丑的角色。"
@@ -118,7 +118,7 @@
                 {
                     "id": "h1-4-u4-v015",
                     "word": "unfortunately",
-                    "part_of_speech": "adv.",
+                    "part_of_speech": "副",
                     "chinese": "不幸地",
                     "sentence": "Sherry came for her favorite dessert at the café. Unfortunately, it was not open.",
                     "sentence_chinese": "雪莉來這家咖啡館吃她最喜歡的甜點。不幸地是，它沒開。"
@@ -126,7 +126,7 @@
                 {
                     "id": "h1-4-u4-v016",
                     "word": "fortunate",
-                    "part_of_speech": "adj.",
+                    "part_of_speech": "形",
                     "chinese": "幸運的",
                     "sentence": "Daniel was fortunate to earn a free set of LINE stickers.",
                     "sentence_chinese": "丹尼爾很幸運地獲得了一組免費的 LINE 貼圖。"
@@ -134,7 +134,7 @@
                 {
                     "id": "h1-4-u4-v017",
                     "word": "harmful",
-                    "part_of_speech": "adj.",
+                    "part_of_speech": "形",
                     "chinese": "有害的",
                     "sentence": "Eating too many instant noodles can be harmful to health.",
                     "sentence_chinese": "吃太多泡麵可能對健康有害。"
@@ -142,7 +142,7 @@
                 {
                     "id": "h1-4-u4-v018",
                     "word": "harm",
-                    "part_of_speech": "n. [U]",
+                    "part_of_speech": "名",
                     "chinese": "傷害",
                     "sentence": "The hurtful comments on Rita's blog did harm to her feelings.",
                     "sentence_chinese": "麗塔部落格上的傷人評論對她的感情造成了傷害。"
@@ -150,7 +150,7 @@
                 {
                     "id": "h1-4-u4-v019",
                     "word": "pressure",
-                    "part_of_speech": "n. [U][C]",
+                    "part_of_speech": "名",
                     "chinese": "壓力",
                     "sentence": "The young singer is under a lot of pressure to perform in the big show.",
                     "sentence_chinese": "這位年輕歌手在大型演出中承受著很大的壓力。"
@@ -158,7 +158,7 @@
                 {
                     "id": "h1-4-u4-v020",
                     "word": "isolate",
-                    "part_of_speech": "vt.",
+                    "part_of_speech": "動",
                     "chinese": "孤立",
                     "sentence": "The island is isolated by oceans, so we need to go there by boat.",
                     "sentence_chinese": "這座島嶼被海洋孤立，所以我們需要搭船去那裡。"

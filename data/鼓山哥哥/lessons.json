@@ -1,4 +1,5 @@
 {
   "title": "鼓山哥哥 段考範圍",
-  "units": ["gg-u1", "gg-u2", "gg-u3", "gg-u4"]
+  "units": ["gg-u1", "gg-u2", "gg-u3", "gg-u4"],
+  "all": ["gg-u1", "gg-u2", "gg-u3", "gg-u4"]
 }

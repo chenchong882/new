@@ -6,7 +6,7 @@
                 {
                     "id": "m1-4-u3-v001",
                     "word": "painting",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "畫作",
                     "sentence": "The paintings on the wall are beautiful.",
                     "sentence_chinese": "牆上的畫作很漂亮。"
@@ -14,7 +14,7 @@
                 {
                     "id": "m1-4-u3-v002",
                     "word": "flower",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "花",
                     "sentence": "Do we have enough flowers for our dinner party?",
                     "sentence_chinese": "我們的晚宴有足夠的花嗎？"
@@ -22,7 +22,7 @@
                 {
                     "id": "m1-4-u3-v003",
                     "word": "which",
-                    "part_of_speech": "pron.; adj.",
+                    "part_of_speech": "代／形",
                     "chinese": "哪一個",
                     "sentence": "A: Which is Kyle's house? B: The red house over there is.",
                     "sentence_chinese": "A：哪一個是凱爾的房子？B：那邊那棟紅色的房子是。"
@@ -30,7 +30,7 @@
                 {
                     "id": "m1-4-u3-v004",
                     "word": "thirsty",
-                    "part_of_speech": "adj.",
+                    "part_of_speech": "形",
                     "chinese": "口渴的",
                     "sentence": "I am always hot and thirsty after baseball games.",
                     "sentence_chinese": "棒球比賽後我總是又熱又渴。"
@@ -38,7 +38,7 @@
                 {
                     "id": "m1-4-u3-v005",
                     "word": "coffee",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "咖啡",
                     "sentence": "Too much coffee is not good for you.",
                     "sentence_chinese": "喝太多咖啡對你不好。"
@@ -46,7 +46,7 @@
                 {
                     "id": "m1-4-u3-v006",
                     "word": "shop",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "商店",
                     "sentence": "There aren't many shops near my house.",
                     "sentence_chinese": "我家附近沒有很多商店。"
@@ -54,7 +54,7 @@
                 {
                     "id": "m1-4-u3-v007",
                     "word": "later",
-                    "part_of_speech": "adv.",
+                    "part_of_speech": "副",
                     "chinese": "稍後；晚點",
                     "sentence": "A: I'm going home now. Bye. B: See you later.",
                     "sentence_chinese": "A：我現在要回家了。再見。B：待會見。"
@@ -62,7 +62,7 @@
                 {
                     "id": "m1-4-u3-v008",
                     "word": "clerk",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "店員",
                     "sentence": "The clerk is very nice. She helps me a lot.",
                     "sentence_chinese": "那位店員人很好。她幫了我很多忙。"
@@ -70,7 +70,7 @@
                 {
                     "id": "m1-4-u3-v009",
                     "word": "may",
-                    "part_of_speech": "aux.",
+                    "part_of_speech": "助",
                     "chinese": "可以；可能",
                     "sentence": "A: May I come in? B: Sure. Please come in.",
                     "sentence_chinese": "A：我可以進來嗎？B：當然。請進。"
@@ -78,7 +78,7 @@
                 {
                     "id": "m1-4-u3-v010",
                     "word": "juice",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "果汁",
                     "sentence": "I always have orange juice for breakfast.",
                     "sentence_chinese": "我早餐總是喝柳橙汁。"
@@ -86,7 +86,7 @@
                 {
                     "id": "m1-4-u3-v011",
                     "word": "want",
-                    "part_of_speech": "v.",
+                    "part_of_speech": "動",
                     "chinese": "想要",
                     "sentence": "Mr. Chen wants a baby, but Mrs. Chen doesn't.",
                     "sentence_chinese": "陳先生想要一個孩子，但陳太太不想要。"
@@ -94,7 +94,7 @@
                 {
                     "id": "m1-4-u3-v012",
                     "word": "anything",
-                    "part_of_speech": "pron.",
+                    "part_of_speech": "代",
                     "chinese": "任何事物",
                     "sentence": "Do you know anything about Van Gogh?",
                     "sentence_chinese": "你對梵谷有任何了解嗎？"
@@ -102,7 +102,7 @@
                 {
                     "id": "m1-4-u3-v013",
                     "word": "else",
-                    "part_of_speech": "adv.",
+                    "part_of_speech": "副",
                     "chinese": "其他",
                     "sentence": "Joanne is not happy, but everyone else is.",
                     "sentence_chinese": "Joanne 不開心，但其他每個人都很開心。"
@@ -110,7 +110,7 @@
                 {
                     "id": "m1-4-u3-v014",
                     "word": "treat",
-                    "part_of_speech": "n.; v.",
+                    "part_of_speech": "名／動",
                     "chinese": "請客；款待",
                     "sentence": "Let me treat you to dinner later.",
                     "sentence_chinese": "晚點讓我請你吃晚餐吧。"
@@ -118,7 +118,7 @@
                 {
                     "id": "m1-4-u3-v015",
                     "word": "sweet",
-                    "part_of_speech": "adj.",
+                    "part_of_speech": "形",
                     "chinese": "甜美的；甜的",
                     "sentence": "Holly is a sweet girl. People love her.",
                     "sentence_chinese": "Holly 是個甜美的女孩。大家都很喜歡她。"
@@ -126,7 +126,7 @@
                 {
                     "id": "m1-4-u3-v016",
                     "word": "hot",
-                    "part_of_speech": "adj.",
+                    "part_of_speech": "形",
                     "chinese": "熱的",
                     "sentence": "It's so hot. I want some ice cream.",
                     "sentence_chinese": "好熱。我想要吃點冰淇淋。"
@@ -134,7 +134,7 @@
                 {
                     "id": "m1-4-u3-v017",
                     "word": "chocolate",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "巧克力",
                     "sentence": "Chocolate ice cream is my favorite.",
                     "sentence_chinese": "巧克力冰淇淋是我的最愛。"
@@ -142,7 +142,7 @@
                 {
                     "id": "m1-4-u3-v018",
                     "word": "dollar",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "元",
                     "sentence": "A: How much is that comic book? B: It's two hundred dollars.",
                     "sentence_chinese": "A：那本漫畫書多少錢？B：兩百元。"
@@ -150,7 +150,7 @@
                 {
                     "id": "m1-4-u3-v019",
                     "word": "bright",
-                    "part_of_speech": "adj.",
+                    "part_of_speech": "形",
                     "chinese": "鮮豔的；明亮的",
                     "sentence": "The man is painting the wall bright blue.",
                     "sentence_chinese": "那個男人正在把牆壁漆成鮮豔的藍色。"
@@ -158,7 +158,7 @@
                 {
                     "id": "m1-4-u3-v020",
                     "word": "dark",
-                    "part_of_speech": "adj.",
+                    "part_of_speech": "形",
                     "chinese": "黑的；暗的",
                     "sentence": "It's too dark in my room. I can't read.",
                     "sentence_chinese": "我房間太暗了。我沒辦法看書。"
@@ -166,7 +166,7 @@
                 {
                     "id": "m1-4-u3-v021",
                     "word": "art",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "美術；藝術",
                     "sentence": "Miss Lee is an art teacher at Green Junior High School.",
                     "sentence_chinese": "李老師是格林國中的美術老師。"
@@ -174,7 +174,7 @@
                 {
                     "id": "m1-4-u3-v022",
                     "word": "milk",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "牛奶",
                     "sentence": "Have some hot milk before bed.",
                     "sentence_chinese": "睡前喝點熱牛奶吧。"
@@ -182,7 +182,7 @@
                 {
                     "id": "m1-4-u3-v023",
                     "word": "hamburger",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "漢堡",
                     "sentence": "The hamburger house on Elm Street is great.",
                     "sentence_chinese": "榆樹街上的那家漢堡店很棒。"
@@ -190,7 +190,7 @@
                 {
                     "id": "m1-4-u3-v024",
                     "word": "chicken rice",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "雞肉飯",
                     "sentence": "My mom makes good chicken rice.",
                     "sentence_chinese": "我媽媽做的雞肉飯很好吃。"
@@ -198,7 +198,7 @@
                 {
                     "id": "m1-4-u3-v025",
                     "word": "tea",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "茶",
                     "sentence": "Do you have some ice? My tea is too hot.",
                     "sentence_chinese": "你有些冰塊嗎？我的茶太熱了。"
@@ -206,7 +206,7 @@
                 {
                     "id": "m1-4-u3-v026",
                     "word": "ice cream",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "冰淇淋",
                     "sentence": "Lara's favorite food is ice cream.",
                     "sentence_chinese": "Lara 最喜歡的食物是冰淇淋。"
@@ -214,7 +214,7 @@
                 {
                     "id": "m1-4-u3-v027",
                     "word": "soup",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "湯",
                     "sentence": "In English, we always say \"eat soup,\" not \"drink soup.\"",
                     "sentence_chinese": "在英文裡，我們總是說「吃湯」，而不是「喝湯」。"
@@ -222,7 +222,7 @@
                 {
                     "id": "m1-4-u3-v028",
                     "word": "sandwich",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "三明治",
                     "sentence": "That shop has really good sandwiches.",
                     "sentence_chinese": "那家店有非常棒的三明治。"
@@ -230,7 +230,7 @@
                 {
                     "id": "m1-4-u3-v029",
                     "word": "work",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "作品",
                     "sentence": "The Mona Lisa is a work by Leonardo da Vinci.",
                     "sentence_chinese": "蒙娜麗莎是達文西的作品。"
@@ -238,7 +238,7 @@
                 {
                     "id": "m1-4-u3-v030",
                     "word": "show",
-                    "part_of_speech": "v.",
+                    "part_of_speech": "動",
                     "chinese": "表現；秀出",
                     "sentence": "She's showing her new watch to her friends.",
                     "sentence_chinese": "她正在向她的朋友們展示她的新秀錶。"
@@ -246,7 +246,7 @@
                 {
                     "id": "m1-4-u3-v031",
                     "word": "part",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "部分",
                     "sentence": "Music is an important part in a movie.",
                     "sentence_chinese": "音樂是電影中重要的一部分。"
@@ -254,7 +254,7 @@
                 {
                     "id": "m1-4-u3-v032",
                     "word": "sky",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "天空",
                     "sentence": "The sky is gray today.",
                     "sentence_chinese": "今天天空是灰色的。"
@@ -262,7 +262,7 @@
                 {
                     "id": "m1-4-u3-v033",
                     "word": "street",
-                    "part_of_speech": "n.",
+                    "part_of_speech": "名",
                     "chinese": "街道",
                     "sentence": "It's a quiet night. There are no people on the street.",
                     "sentence_chinese": "這是一個安靜的夜晚。街上沒有人。"
@@ -270,7 +270,7 @@
                 {
                     "id": "m1-4-u3-v034",
                     "word": "by",
-                    "part_of_speech": "prep.",
+                    "part_of_speech": "介",
                     "chinese": "被；由",
                     "sentence": "I'm reading some books by Charles Dickens.",
                     "sentence_chinese": "我正在讀一些查爾斯·狄更斯的書。"

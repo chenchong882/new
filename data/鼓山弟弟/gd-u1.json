@@ -3,13 +3,13 @@
     "gd-u1": {
       "title": "Unit 1",
       "vocab": [
-        { "id": "gd-u1-v001", "word": "angry", "part_of_speech": "adj.", "chinese": "生氣的", "sentence": "Tom is angry because he lost his pencil.", "sentence_chinese": "Tom 因為遺失鉛筆而生氣。" },
-        { "id": "gd-u1-v002", "word": "thirsty", "part_of_speech": "adj.", "chinese": "口渴的", "sentence": "I am thirsty. I want some juice.", "sentence_chinese": "我口渴了。我想喝果汁。" },
-        { "id": "gd-u1-v003", "word": "happy", "part_of_speech": "adj.", "chinese": "快樂的", "sentence": "Are you happy today? Yes, I am.", "sentence_chinese": "你今天快樂嗎？是的，我是。" },
-        { "id": "gd-u1-v004", "word": "hungry", "part_of_speech": "adj.", "chinese": "飢餓的", "sentence": "She is hungry. She wants a hot dog.", "sentence_chinese": "她肚子餓了。她想要一個熱狗。" },
-        { "id": "gd-u1-v005", "word": "sad", "part_of_speech": "adj.", "chinese": "難過的", "sentence": "Is he sad? Yes, he is.", "sentence_chinese": "他難過嗎？是的，他是。" },
-        { "id": "gd-u1-v006", "word": "sick", "part_of_speech": "adj.", "chinese": "生病的", "sentence": "I am sick today. I can't go to school.", "sentence_chinese": "我今天生病了。我不能去學校。" },
-        { "id": "gd-u1-v007", "word": "tired", "part_of_speech": "adj.", "chinese": "疲倦的", "sentence": "She is tired. She wants to sleep.", "sentence_chinese": "她很累。她想睡覺。" }
+        { "id": "gd-u1-v001", "word": "angry", "part_of_speech": "形", "chinese": "生氣的", "sentence": "Tom is angry because he lost his pencil.", "sentence_chinese": "Tom 因為遺失鉛筆而生氣。" },
+        { "id": "gd-u1-v002", "word": "thirsty", "part_of_speech": "形", "chinese": "口渴的", "sentence": "I am thirsty. I want some juice.", "sentence_chinese": "我口渴了。我想喝果汁。" },
+        { "id": "gd-u1-v003", "word": "happy", "part_of_speech": "形", "chinese": "快樂的", "sentence": "Are you happy today? Yes, I am.", "sentence_chinese": "你今天快樂嗎？是的，我是。" },
+        { "id": "gd-u1-v004", "word": "hungry", "part_of_speech": "形", "chinese": "飢餓的", "sentence": "She is hungry. She wants a hot dog.", "sentence_chinese": "她肚子餓了。她想要一個熱狗。" },
+        { "id": "gd-u1-v005", "word": "sad", "part_of_speech": "形", "chinese": "難過的", "sentence": "Is he sad? Yes, he is.", "sentence_chinese": "他難過嗎？是的，他是。" },
+        { "id": "gd-u1-v006", "word": "sick", "part_of_speech": "形", "chinese": "生病的", "sentence": "I am sick today. I can't go to school.", "sentence_chinese": "我今天生病了。我不能去學校。" },
+        { "id": "gd-u1-v007", "word": "tired", "part_of_speech": "形", "chinese": "疲倦的", "sentence": "She is tired. She wants to sleep.", "sentence_chinese": "她很累。她想睡覺。" }
       ],
       "phrases": [
         { "id": "gd-u1-p001", "phrase": "Watch out!", "chinese": "小心！", "sentence": "Watch out! A car is coming.", "sentence_chinese": "小心！有車來了。" },

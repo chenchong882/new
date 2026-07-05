@@ -3,13 +3,13 @@
     "gd-u2": {
       "title": "Unit 2",
       "vocab": [
-        { "id": "gd-u2-v001", "word": "dance", "part_of_speech": "v.", "chinese": "跳舞", "sentence": "Can you dance? Yes, I can.", "sentence_chinese": "你會跳舞嗎？是的，我會。" },
-        { "id": "gd-u2-v002", "word": "draw", "part_of_speech": "v.", "chinese": "畫畫", "sentence": "She can draw very well.", "sentence_chinese": "她畫畫畫得很好。" },
-        { "id": "gd-u2-v003", "word": "fly", "part_of_speech": "v.", "chinese": "飛", "sentence": "Birds can fly in the sky.", "sentence_chinese": "鳥兒可以在天空中飛翔。" },
-        { "id": "gd-u2-v004", "word": "jump", "part_of_speech": "v.", "chinese": "跳", "sentence": "Can he jump? Yes, he can.", "sentence_chinese": "他會跳嗎？是的，他會。" },
-        { "id": "gd-u2-v005", "word": "read", "part_of_speech": "v.", "chinese": "閱讀", "sentence": "I can read this book.", "sentence_chinese": "我能讀這本書。" },
-        { "id": "gd-u2-v006", "word": "sing", "part_of_speech": "v.", "chinese": "唱歌", "sentence": "Can she sing? Yes, she can.", "sentence_chinese": "她會唱歌嗎？是的，她會。" },
-        { "id": "gd-u2-v007", "word": "swim", "part_of_speech": "v.", "chinese": "游泳", "sentence": "Can you swim? No, I can't.", "sentence_chinese": "你會游泳嗎？不，我不會。" }
+        { "id": "gd-u2-v001", "word": "dance", "part_of_speech": "動", "chinese": "跳舞", "sentence": "Can you dance? Yes, I can.", "sentence_chinese": "你會跳舞嗎？是的，我會。" },
+        { "id": "gd-u2-v002", "word": "draw", "part_of_speech": "動", "chinese": "畫畫", "sentence": "She can draw very well.", "sentence_chinese": "她畫畫畫得很好。" },
+        { "id": "gd-u2-v003", "word": "fly", "part_of_speech": "動", "chinese": "飛", "sentence": "Birds can fly in the sky.", "sentence_chinese": "鳥兒可以在天空中飛翔。" },
+        { "id": "gd-u2-v004", "word": "jump", "part_of_speech": "動", "chinese": "跳", "sentence": "Can he jump? Yes, he can.", "sentence_chinese": "他會跳嗎？是的，他會。" },
+        { "id": "gd-u2-v005", "word": "read", "part_of_speech": "動", "chinese": "閱讀", "sentence": "I can read this book.", "sentence_chinese": "我能讀這本書。" },
+        { "id": "gd-u2-v006", "word": "sing", "part_of_speech": "動", "chinese": "唱歌", "sentence": "Can she sing? Yes, she can.", "sentence_chinese": "她會唱歌嗎？是的，她會。" },
+        { "id": "gd-u2-v007", "word": "swim", "part_of_speech": "動", "chinese": "游泳", "sentence": "Can you swim? No, I can't.", "sentence_chinese": "你會游泳嗎？不，我不會。" }
       ],
       "phrases": [
         { "id": "gd-u2-p001", "phrase": "Help!", "chinese": "救命！", "sentence": "Help! I can't swim.", "sentence_chinese": "救命！我不會游泳。" },

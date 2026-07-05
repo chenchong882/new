@@ -3,13 +3,13 @@
     "gd-u4": {
       "title": "Unit 4",
       "vocab": [
-        { "id": "gd-u4-v001", "word": "hot dog", "part_of_speech": "n.", "chinese": "熱狗", "sentence": "I want a hot dog for lunch.", "sentence_chinese": "我午餐想要一個熱狗。" },
-        { "id": "gd-u4-v002", "word": "egg", "part_of_speech": "n.", "chinese": "雞蛋", "sentence": "I want two eggs, please.", "sentence_chinese": "請給我兩個雞蛋。" },
-        { "id": "gd-u4-v003", "word": "bread", "part_of_speech": "n.", "chinese": "麵包", "sentence": "I want some bread and milk.", "sentence_chinese": "我想要一些麵包和牛奶。" },
-        { "id": "gd-u4-v004", "word": "juice", "part_of_speech": "n.", "chinese": "果汁", "sentence": "I want some juice. It is yummy.", "sentence_chinese": "我想要一些果汁。它很好喝。" },
-        { "id": "gd-u4-v005", "word": "milk", "part_of_speech": "n.", "chinese": "牛奶", "sentence": "What do you want? I want milk.", "sentence_chinese": "你想要什麼？我想要牛奶。" },
-        { "id": "gd-u4-v006", "word": "cupcake", "part_of_speech": "n.", "chinese": "杯子蛋糕", "sentence": "I want a cupcake. It looks yummy!", "sentence_chinese": "我想要一個杯子蛋糕。它看起來好吃！" },
-        { "id": "gd-u4-v007", "word": "tea", "part_of_speech": "n.", "chinese": "茶", "sentence": "I want some tea, please.", "sentence_chinese": "請給我一些茶。" }
+        { "id": "gd-u4-v001", "word": "hot dog", "part_of_speech": "名", "chinese": "熱狗", "sentence": "I want a hot dog for lunch.", "sentence_chinese": "我午餐想要一個熱狗。" },
+        { "id": "gd-u4-v002", "word": "egg", "part_of_speech": "名", "chinese": "雞蛋", "sentence": "I want two eggs, please.", "sentence_chinese": "請給我兩個雞蛋。" },
+        { "id": "gd-u4-v003", "word": "bread", "part_of_speech": "名", "chinese": "麵包", "sentence": "I want some bread and milk.", "sentence_chinese": "我想要一些麵包和牛奶。" },
+        { "id": "gd-u4-v004", "word": "juice", "part_of_speech": "名", "chinese": "果汁", "sentence": "I want some juice. It is yummy.", "sentence_chinese": "我想要一些果汁。它很好喝。" },
+        { "id": "gd-u4-v005", "word": "milk", "part_of_speech": "名", "chinese": "牛奶", "sentence": "What do you want? I want milk.", "sentence_chinese": "你想要什麼？我想要牛奶。" },
+        { "id": "gd-u4-v006", "word": "cupcake", "part_of_speech": "名", "chinese": "杯子蛋糕", "sentence": "I want a cupcake. It looks yummy!", "sentence_chinese": "我想要一個杯子蛋糕。它看起來好吃！" },
+        { "id": "gd-u4-v007", "word": "tea", "part_of_speech": "名", "chinese": "茶", "sentence": "I want some tea, please.", "sentence_chinese": "請給我一些茶。" }
       ],
       "phrases": [
         { "id": "gd-u4-p001", "phrase": "Here you are.", "chinese": "給你。", "sentence": "Here you are. Enjoy your food!", "sentence_chinese": "給你。好好享用！" },
