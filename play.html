@@ -1713,20 +1713,27 @@
             };
 
             useEffect(() => {
-                // 依網址的 ?id 載入該學生專屬的單字檔（data/<學校>/<代號>.json）
-                const id = new URLSearchParams(location.search).get('id');
-                if (!id) {
+                // 依網址載入單字檔（data/<資料夾>/<代號>.json）
+                const q = new URLSearchParams(location.search);
+                const id = q.get('id');            // 學生固定連結用（永遠不變）
+                const src = q.get('src');          // 臨時展示：課程檔改從這個資料夾抓（老師鑰匙用）
+                const unitsParam = q.get('units'); // 臨時展示：直接指定要載入的課程代號（逗號分隔）
+                const folder = src || id;          // 實際去哪個資料夾抓課程檔
+                if (!folder) {
                     setError('缺少代號，請用老師發給你的專屬連結開啟（網址需含 ?id=…）');
                     setLoading(false);
                     return;
                 }
-                // ?id 指向 data/<id>/ 資料夾；先讀 lessons.json 得知本次段考要抓哪幾課，再抓那幾課合併
-                const dir = 'data/' + id;
-                fetch(encodeURI(dir + '/lessons.json'), { cache: 'no-store' })
-                    .then(res => { if (!res.ok) throw new Error(`找不到課程清單 lessons.json（HTTP ${res.status}）`); return res.json(); })
-                    .then(manifest => {
-                        const codes = manifest.units || [];
-                        if (!codes.length) throw new Error('lessons.json 沒有列出任何單元');
+                const dir = 'data/' + folder;
+                // 有帶 ?units= 就照網址指定（臨時展示，完全不動 lessons.json）；否則照該資料夾 lessons.json 的本次段考範圍
+                const codesPromise = unitsParam
+                    ? Promise.resolve(unitsParam.split(',').map(c => c.trim()).filter(Boolean))
+                    : fetch(encodeURI(dir + '/lessons.json'), { cache: 'no-store' })
+                        .then(res => { if (!res.ok) throw new Error(`找不到課程清單 lessons.json（HTTP ${res.status}）`); return res.json(); })
+                        .then(manifest => manifest.units || []);
+                codesPromise
+                    .then(codes => {
+                        if (!codes.length) throw new Error('沒有列出任何單元');
                         return Promise.all(codes.map(code =>
                             fetch(encodeURI(dir + '/' + code + '.json'), { cache: 'no-store' })
                                 .then(res => { if (!res.ok) throw new Error(`課程檔 ${code} 載入失敗（HTTP ${res.status}）`); return res.json(); })

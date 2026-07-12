@@ -45,12 +45,53 @@
     }
     .linkrow button.open { color: #f8fafc; background: rgba(15,23,42,.92); border-color: rgba(255,255,255,.16); }
     .note { margin-top: 28px; color: #94a3b8; font-size: 13px; line-height: 1.7; }
+
+    /* 🔑 臨時展示（萬用鑰匙） */
+    .mkey {
+      border: 1px solid rgba(250,204,21,.35); border-radius: 12px;
+      background: rgba(30,27,10,.55); padding: 16px 18px; margin-bottom: 26px;
+    }
+    .mkey h2 { margin: 0 0 6px; }
+    .mkey-lead { margin: 0 0 14px; color: #cbd5e1; font-size: 13px; line-height: 1.6; }
+    .mkey-controls label { font-size: 14px; font-weight: 700; color: #e2e8f0; }
+    .mkey-controls select {
+      margin-left: 8px; padding: 7px 10px; font-size: 14px; color: #f8fafc;
+      background: rgba(2,6,23,.7); border: 1px solid rgba(255,255,255,.2); border-radius: 8px;
+    }
+    .mkey-chips { display: flex; gap: 8px; flex-wrap: wrap; margin: 14px 0; min-height: 4px; }
+    .mkey-chip {
+      font-size: 13px; font-weight: 700; color: #cbd5e1; cursor: pointer; user-select: none;
+      border: 1px solid rgba(255,255,255,.18); border-radius: 999px; padding: 6px 12px;
+      background: rgba(2,6,23,.4); transition: all .12s;
+    }
+    .mkey-chip:hover { border-color: rgba(250,204,21,.6); }
+    .mkey-chip.sel { color: #0b1220; background: #facc15; border-color: #facc15; }
+    .mkey-chip .star { color: #fbbf24; margin-right: 3px; }
+    .mkey-chip.sel .star { color: #92400e; }
+    .mkey-empty { color: #94a3b8; font-size: 13px; }
   </style>
 </head>
 <body>
   <main>
     <h1>👩‍🏫 學生總覽</h1>
     <p class="lead">這頁只給老師自己用：每個學生練哪幾課、一鍵複製他專屬的遊戲連結。學生只會拿到自己那條連結，看不到別人。</p>
+
+    <section class="mkey">
+      <h2>🔑 臨時展示（萬用鑰匙）</h2>
+      <p class="mkey-lead">臨時叫出任何學生做過的任何一課給人看——<b>不會動到學生的固定連結，也不改任何檔案</b>。選來源學生 → 點要看的課（★ 是本次段考）→ 複製或開啟連結。</p>
+      <div class="mkey-controls">
+        <label>來源學生
+          <select id="mk-src"></select>
+        </label>
+      </div>
+      <div id="mk-chips" class="mkey-chips"><span class="mkey-empty">載入中…</span></div>
+      <div class="linkrow" id="mk-linkrow" style="display:none">
+        <input id="mk-url" type="text" readonly>
+        <button type="button" id="mk-copy">複製</button>
+        <button type="button" class="open" id="mk-open">開啟</button>
+      </div>
+    </section>
+
     <div id="list"></div>
     <p class="note">※ 名單來自 <code>students.json</code>（只記資料夾 id）。每張卡片即時讀該資料夾的 <code>lessons.json</code> 與課程檔，永遠顯示最新範圍。新增學生：建立 <code>data/&lt;id&gt;/</code> 資料夾（含 lessons.json + 課程檔），再到 <code>students.json</code> 補一筆 <code>{"id":"..."}</code> 即可。</p>
   </main>
@@ -106,10 +147,82 @@
       }));
     }
 
+    // ===== 🔑 臨時展示（萬用鑰匙）=====
+    function tempUrl(srcId, codes) {
+      return base + 'play.html?src=' + encodeURIComponent(srcId) + '&units=' + codes.join(',');
+    }
+
+    function setupMasterKey(students) {
+      const sel = document.getElementById('mk-src');
+      const chipsEl = document.getElementById('mk-chips');
+      const linkrow = document.getElementById('mk-linkrow');
+      const urlInput = document.getElementById('mk-url');
+      const copyBtn = document.getElementById('mk-copy');
+      const openBtn = document.getElementById('mk-open');
+      let currentSrc = null;
+
+      students.forEach(s => {
+        const opt = document.createElement('option');
+        opt.value = s.id; opt.textContent = s.name || s.id;
+        sel.appendChild(opt);
+      });
+
+      function refreshLink() {
+        const codes = [...chipsEl.querySelectorAll('.mkey-chip.sel')].map(c => c.dataset.code);
+        if (!codes.length || !currentSrc) { linkrow.style.display = 'none'; return; }
+        urlInput.value = tempUrl(currentSrc, codes);
+        linkrow.style.display = 'flex';
+      }
+
+      async function loadChapters(id) {
+        currentSrc = id;
+        linkrow.style.display = 'none';
+        chipsEl.innerHTML = '<span class="mkey-empty">載入中…</span>';
+        try {
+          const dir = 'data/' + id;
+          const m = await (await fetch(encodeURI(dir + '/lessons.json'), { cache: 'no-store' })).json();
+          const all = m.all || m.units || [];
+          const current = new Set(m.units || []);
+          const titles = await Promise.all(all.map(async code => {
+            try {
+              const d = await (await fetch(encodeURI(dir + '/' + code + '.json'), { cache: 'no-store' })).json();
+              const unit = (d.units || {})[code] || Object.values(d.units || {})[0] || {};
+              return unit.title || code;
+            } catch { return code; }
+          }));
+          if (!all.length) { chipsEl.innerHTML = '<span class="mkey-empty">這個資料夾沒有課程檔</span>'; return; }
+          chipsEl.innerHTML = '';
+          all.forEach((code, i) => {
+            const chip = document.createElement('span');
+            chip.className = 'mkey-chip';
+            chip.dataset.code = code;
+            chip.innerHTML = (current.has(code) ? '<span class="star">★</span>' : '') + titles[i];
+            chip.title = code;
+            chip.addEventListener('click', () => { chip.classList.toggle('sel'); refreshLink(); });
+            chipsEl.appendChild(chip);
+          });
+        } catch (err) {
+          chipsEl.innerHTML = '<span class="mkey-empty" style="color:#fca5a5">讀取失敗：' + err.message + '</span>';
+        }
+      }
+
+      sel.addEventListener('change', () => loadChapters(sel.value));
+      copyBtn.addEventListener('click', async () => {
+        try { await navigator.clipboard.writeText(urlInput.value); }
+        catch { urlInput.select(); document.execCommand('copy'); }
+        copyBtn.textContent = '已複製'; setTimeout(() => copyBtn.textContent = '複製', 1200);
+      });
+      openBtn.addEventListener('click', () => { if (urlInput.value) window.open(urlInput.value, '_blank'); });
+
+      if (students.length) { sel.value = students[0].id; loadChapters(students[0].id); }
+      else chipsEl.innerHTML = '<span class="mkey-empty">沒有學生</span>';
+    }
+
     async function boot() {
       try {
         const res = await fetch('students.json', { cache: 'no-store' });
         const list = await res.json();
+        setupMasterKey(list);
         for (const s of list) {
           try {
             const units = await loadUnitsInfo(s.id);
