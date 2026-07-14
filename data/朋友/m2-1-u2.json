@@ -106,7 +106,7 @@
           {"id":"m2-1-u2-q044","question":"The doctor ___ the girl some medicine.","options":["A. gave","B. give","C. giving","D. gives"],"answer":"A","answer_index":0,"hint":"描述已做的治療，give 用過去式 gave。"},
           {"id":"m2-1-u2-q045","question":"My sister made a card ___ me.","options":["A. to","B. for","C. at","D. with"],"answer":"B","answer_index":1,"hint":"make 物為某人做時，使用 for。"},
           {"id":"m2-1-u2-q046","question":"Dad showed his new coat ___ us.","options":["A. for","B. at","C. to","D. from"],"answer":"C","answer_index":2,"hint":"show 物給人時，用 to 接人。"},
-          {"id":"m2-1-u2-q047","question":"Mom wrote ___ a message last night.","options":["A. she","B. her","C. hers","D. her"],"answer":"D","answer_index":3,"hint":"write 後面的人是間接受詞，要用受格 her。"},
+          {"id":"m2-1-u2-q047","question":"Mom wrote ___ a message last night.","options":["A. she","B. they","C. hers","D. her"],"answer":"D","answer_index":3,"hint":"write 後面的人是間接受詞，要用受格 her。"},
           {"id":"m2-1-u2-q048","question":"My uncle ___ his son a new bike.","options":["A. bought","B. buy","C. buying","D. buys"],"answer":"A","answer_index":0,"hint":"句子敘述過去，buy 要用過去式 bought。"},
           {"id":"m2-1-u2-q049","question":"Why did your mom ___ you?","options":["A. called","B. call","C. calling","D. calls"],"answer":"B","answer_index":1,"hint":"did 後面要接原形動詞 call。"},
           {"id":"m2-1-u2-q050","question":"I wore a mask ___ the doctor told me to.","options":["A. so","B. but","C. because","D. or"],"answer":"C","answer_index":2,"hint":"the doctor told me to 是原因子句，前面用 because。"}
