@@ -1,0 +1,9 @@
+{
+  "name": "英文單字遊戲",
+  "short_name": "英文單字",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#111827",
+  "lang": "zh-TW"
+}
