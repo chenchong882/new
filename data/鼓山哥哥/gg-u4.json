@@ -1,7 +1,7 @@
 {
   "units": {
     "gg-u4": {
-      "title": "Unit 4",
+      "title": "U4",
       "vocab": [
         { "id": "gg-u4-v001", "word": "get up", "part_of_speech": "片", "chinese": "起床", "sentence": "What time do you get up? I get up at 6:45.", "sentence_chinese": "你幾點起床？我六點四十五分起床。" },
         { "id": "gg-u4-v002", "word": "go to school", "part_of_speech": "片", "chinese": "去上學", "sentence": "I go to school at seven.", "sentence_chinese": "我七點去上學。" },

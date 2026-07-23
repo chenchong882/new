@@ -1,7 +1,7 @@
 {
   "units": {
     "gd-u3": {
-      "title": "Unit 3",
+      "title": "U3",
       "vocab": [
         { "id": "gd-u3-v001", "word": "apples", "part_of_speech": "名", "chinese": "蘋果", "sentence": "Do you like apples? Yes, I do.", "sentence_chinese": "你喜歡蘋果嗎？是的，我喜歡。" },
         { "id": "gd-u3-v002", "word": "bananas", "part_of_speech": "名", "chinese": "香蕉", "sentence": "What are these? They're bananas.", "sentence_chinese": "這些是什麼？它們是香蕉。" },

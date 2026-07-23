@@ -1,7 +1,7 @@
 {
   "units": {
     "m2-1-u2": {
-      "title": "Lesson 2 Why Didn't You See a Doctor?",
+      "title": "U2",
       "vocab": [
         {"id":"m2-1-u2-v001","word":"head","part_of_speech":"名","chinese":"頭","sentence":"My head hurts today.","sentence_chinese":"我今天頭痛。"},
         {"id":"m2-1-u2-v002","word":"hair","part_of_speech":"名","chinese":"頭髮","sentence":"Her hair is long.","sentence_chinese":"她的頭髮很長。"},

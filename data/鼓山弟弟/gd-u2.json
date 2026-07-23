@@ -1,7 +1,7 @@
 {
   "units": {
     "gd-u2": {
-      "title": "Unit 2",
+      "title": "U2",
       "vocab": [
         { "id": "gd-u2-v001", "word": "dance", "part_of_speech": "動", "chinese": "跳舞", "sentence": "Can you dance? Yes, I can.", "sentence_chinese": "你會跳舞嗎？是的，我會。" },
         { "id": "gd-u2-v002", "word": "draw", "part_of_speech": "動", "chinese": "畫畫", "sentence": "She can draw very well.", "sentence_chinese": "她畫畫畫得很好。" },

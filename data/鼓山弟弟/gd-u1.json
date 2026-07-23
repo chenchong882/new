@@ -1,7 +1,7 @@
 {
   "units": {
     "gd-u1": {
-      "title": "Unit 1",
+      "title": "U1",
       "vocab": [
         { "id": "gd-u1-v001", "word": "angry", "part_of_speech": "形", "chinese": "生氣的", "sentence": "Tom is angry because he lost his pencil.", "sentence_chinese": "Tom 因為遺失鉛筆而生氣。" },
         { "id": "gd-u1-v002", "word": "thirsty", "part_of_speech": "形", "chinese": "口渴的", "sentence": "I am thirsty. I want some juice.", "sentence_chinese": "我口渴了。我想喝果汁。" },

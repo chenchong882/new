@@ -1,7 +1,7 @@
 {
   "units": {
     "m2-1-u1": {
-      "title": "Lesson 1 It Rained a Lot Yesterday",
+      "title": "U1",
       "vocab": [
         {"id":"m2-1-u1-v001","word":"season","part_of_speech":"名","chinese":"季節","sentence":"Spring is a warm season.","sentence_chinese":"春天是溫暖的季節。"},
         {"id":"m2-1-u1-v002","word":"weather","part_of_speech":"名","chinese":"天氣","sentence":"How is the weather today?","sentence_chinese":"今天天氣如何？"},

@@ -1,7 +1,7 @@
 {
   "units": {
     "gg-u3": {
-      "title": "Unit 3",
+      "title": "U3",
       "vocab": [
         { "id": "gg-u3-v001", "word": "listen to music", "part_of_speech": "片", "chinese": "聽音樂", "sentence": "I listen to music after school.", "sentence_chinese": "我放學後聽音樂。" },
         { "id": "gg-u3-v002", "word": "play baseball", "part_of_speech": "片", "chinese": "打棒球", "sentence": "Does he play baseball? Yes, he does.", "sentence_chinese": "他打棒球嗎？是的，他打。" },

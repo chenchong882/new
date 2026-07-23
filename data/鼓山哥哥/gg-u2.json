@@ -1,7 +1,7 @@
 {
   "units": {
     "gg-u2": {
-      "title": "Unit 2",
+      "title": "U2",
       "vocab": [
         { "id": "gg-u2-v001", "word": "by bike", "part_of_speech": "片", "chinese": "騎腳踏車", "sentence": "I go to school by bike.", "sentence_chinese": "我騎腳踏車上學。" },
         { "id": "gg-u2-v002", "word": "by bus", "part_of_speech": "片", "chinese": "搭公車", "sentence": "Does he go to school by bus? Yes, he does.", "sentence_chinese": "他搭公車上學嗎？是的，他是。" },

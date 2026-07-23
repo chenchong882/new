@@ -1,7 +1,7 @@
 {
   "units": {
     "gg-u1": {
-      "title": "Unit 1",
+      "title": "U1",
       "vocab": [
         { "id": "gg-u1-v001", "word": "Australia", "part_of_speech": "名", "chinese": "澳洲", "sentence": "I'm from Australia.", "sentence_chinese": "我來自澳洲。" },
         { "id": "gg-u1-v002", "word": "India", "part_of_speech": "名", "chinese": "印度", "sentence": "She is from India.", "sentence_chinese": "她來自印度。" },

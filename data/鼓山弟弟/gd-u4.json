@@ -1,7 +1,7 @@
 {
   "units": {
     "gd-u4": {
-      "title": "Unit 4",
+      "title": "U4",
       "vocab": [
         { "id": "gd-u4-v001", "word": "hot dog", "part_of_speech": "名", "chinese": "熱狗", "sentence": "I want a hot dog for lunch.", "sentence_chinese": "我午餐想要一個熱狗。" },
         { "id": "gd-u4-v002", "word": "egg", "part_of_speech": "名", "chinese": "雞蛋", "sentence": "I want two eggs, please.", "sentence_chinese": "請給我兩個雞蛋。" },

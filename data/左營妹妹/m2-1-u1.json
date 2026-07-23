@@ -1,7 +1,7 @@
 {
   "units": {
     "m2-1-u1": {
-      "title": "Lesson 1",
+      "title": "U1",
       "vocab": [
         { "id": "m2-1-u1-v001", "word": "yesterday", "part_of_speech": "副", "chinese": "昨天", "sentence": "I studied English yesterday.", "sentence_chinese": "我昨天研讀英文。" },
         { "id": "m2-1-u1-v002", "word": "study", "part_of_speech": "動", "chinese": "研讀", "sentence": "We studied for the test last night.", "sentence_chinese": "我們昨晚為考試讀書。" },
