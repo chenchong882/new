@@ -167,7 +167,7 @@
             CheckCircle, XCircle, Trophy, Star, Sparkles, HelpCircle, RefreshCw, Library,
             Puzzle, Lightbulb, Music, Map, Wand2, Flag, AlertCircle, ArrowDownLeft,
             Shuffle, GraduationCap, PenTool, Coffee, Keyboard, MousePointerClick, Filter, Eye, Timer, Home, Info,
-            FileText, X, Swords, Zap, ExternalLink
+            FileText, X, Swords, Zap
         } from 'lucide-react';
 
         // --- 語音與音效合成優化 ---
@@ -1600,61 +1600,16 @@
 
         // ── 新版遊戲（中央站 studentgames.pages.dev）──────────────────────────
         const GAME_BASE = 'https://studentgames.pages.dev';
-        const CENTRAL_GAMES = [
-            { key: 'miner',  title: '單字挖金礦', emoji: '⛏️', desc: '聽發音，抓正確金塊', color: 'amber' },
-            { key: 'bomb',   title: '炸彈英文',   emoji: '💣', desc: '駕駛飛機，炸掉目標單字', color: 'rose' },
-            { key: 'tank',   title: '單字坦克',   emoji: '🦖', desc: '找出樹上正確的單字射下來', color: 'lime' },
-            { key: 'ship',   title: '海岸狙擊手', emoji: '🚢', desc: '瞄準意思正確的船艦擊沉', color: 'sky' },
-            { key: 'runner', title: '英文跑酷',   emoji: '🏃', desc: '邊跑邊選正確答案閃避障礙', color: 'cyan' },
-            { key: 'battle', title: '英文攻防戰', emoji: '⚔️', desc: '答題出兵＋升級＋BOSS 波', color: 'orange' },
-        ];
-
-        const NewGamesMenu = ({ allWords, grammarData, unitTitle, onBack }) => {
-            const openGame = (g) => {
+        const GameMode = ({ allWords, grammarData, unitTitle }) => {
+            const [screen, setScreen] = useState('home');
+            const openNewGames = () => {
                 const payload = encodeURIComponent(JSON.stringify({
                     unitTitle,
                     words: allWords,
                     grammarQuiz: grammarData?.quiz || [],
                 }));
-                window.open(`${GAME_BASE}/games/${g.key}#lessonData=${payload}`, 'studentgame');
+                window.open(`${GAME_BASE}/#lessonData=${payload}`, 'studentgame');
             };
-            return (
-                <div className="space-y-4 pb-6">
-                    <div className="flex items-center justify-between gap-3">
-                        <button onClick={onBack} className="text-slate-400 font-bold text-sm hover:text-slate-200 transition-colors flex items-center gap-1 py-1">
-                            <ChevronLeft className="w-4 h-4" /> 回遊戲選單
-                        </button>
-                        <span className="bg-emerald-400 text-emerald-950 text-xs font-black px-3 py-1 rounded-full border-b-2 border-emerald-700">🆕 新版遊戲</span>
-                    </div>
-                    <div className="text-center pt-1">
-                        <div className="text-4xl mb-2">🆕</div>
-                        <h2 className="text-2xl font-black text-white">新版遊戲（6 款）</h2>
-                        <p className="text-slate-500 font-bold text-sm mt-1">點下方遊戲 → 全螢幕開啟（最多只佔一個分頁）</p>
-                    </div>
-                    {CENTRAL_GAMES.map(g => (
-                        <button key={g.key} onClick={() => openGame(g)}
-                            className="w-full bg-slate-800 border-2 border-slate-700 hover:border-emerald-500 p-5 rounded-2xl text-left transition-all group relative overflow-hidden">
-                            <div className="absolute inset-0 bg-emerald-400/5 opacity-0 group-hover:opacity-100 transition-opacity rounded-2xl" />
-                            <div className="relative flex items-center gap-4">
-                                <div className="w-14 h-14 bg-slate-600 rounded-2xl border border-slate-500 flex flex-col items-center justify-center gap-0.5 shrink-0 shadow-inner">
-                                    <span className="text-2xl leading-none select-none">{g.emoji}</span>
-                                    <span className="text-white font-black text-[9px] tracking-widest leading-none">NEW</span>
-                                </div>
-                                <div>
-                                    <div className="text-white font-black text-lg">{g.title}</div>
-                                    <div className="text-slate-400 text-sm font-bold mt-0.5">{g.desc}</div>
-                                </div>
-                                <ExternalLink className="w-5 h-5 text-slate-600 group-hover:text-emerald-500 ml-auto transition-colors" />
-                            </div>
-                        </button>
-                    ))}
-                </div>
-            );
-        };
-
-        const GameMode = ({ allWords, grammarData, unitTitle }) => {
-            const [screen, setScreen] = useState('home');
-            if (screen === 'newgames') return <NewGamesMenu allWords={allWords} grammarData={grammarData} unitTitle={unitTitle} onBack={() => setScreen('home')} />;
             if (screen === 'survival') return <SurvivalMode allWords={allWords} onBack={() => setScreen('home')} />;
             if (screen === 'boss') return <BossMode allWords={allWords} onBack={() => setScreen('home')} />;
             return (
@@ -1688,7 +1643,7 @@
                             <ChevronRight className="w-5 h-5 text-slate-600 group-hover:text-rose-500 ml-auto transition-colors" />
                         </div>
                     </button>
-                    <button onClick={() => setScreen('newgames')}
+                    <button onClick={openNewGames}
                         className="w-full bg-emerald-900/40 border-2 border-emerald-600 hover:border-emerald-400 p-5 rounded-2xl text-left transition-all group relative overflow-hidden">
                         <div className="absolute inset-0 bg-emerald-400/10 opacity-0 group-hover:opacity-100 transition-opacity rounded-2xl" />
                         <div className="relative flex items-center gap-4">
