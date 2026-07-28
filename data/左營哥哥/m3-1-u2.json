@@ -1,0 +1,1288 @@
+{
+  "units": {
+    "m3-1-u2": {
+      "title": "U2",
+      "vocab": [
+        {
+          "id": "m3-1-u2-v001",
+          "word": "delivery",
+          "part_of_speech": "名",
+          "chinese": "運送",
+          "sentence": "The food delivery is fast.",
+          "sentence_chinese": "外送很快。"
+        },
+        {
+          "id": "m3-1-u2-v002",
+          "word": "among",
+          "part_of_speech": "介",
+          "chinese": "在……中",
+          "sentence": "This app is popular among students.",
+          "sentence_chinese": "這個 App 在學生中很受歡迎。"
+        },
+        {
+          "id": "m3-1-u2-v003",
+          "word": "age",
+          "part_of_speech": "名",
+          "chinese": "年齡",
+          "sentence": "What is the right age to use the app?",
+          "sentence_chinese": "使用這個 App 的適當年齡是幾歲？"
+        },
+        {
+          "id": "m3-1-u2-v004",
+          "word": "chart",
+          "part_of_speech": "名",
+          "chinese": "圖表",
+          "sentence": "The chart looks helpful to me.",
+          "sentence_chinese": "這張圖表對我來說看起來很有用。"
+        },
+        {
+          "id": "m3-1-u2-v005",
+          "word": "page",
+          "part_of_speech": "名",
+          "chinese": "頁；網頁",
+          "sentence": "This page is easy to read.",
+          "sentence_chinese": "這個網頁很容易閱讀。"
+        },
+        {
+          "id": "m3-1-u2-v006",
+          "word": "interested",
+          "part_of_speech": "形",
+          "chinese": "感興趣的",
+          "sentence": "I am interested in food delivery apps.",
+          "sentence_chinese": "我對外送 App 感興趣。"
+        },
+        {
+          "id": "m3-1-u2-v007",
+          "word": "reason",
+          "part_of_speech": "名",
+          "chinese": "原因",
+          "sentence": "I know the reason that he is late.",
+          "sentence_chinese": "我知道他遲到的原因。"
+        },
+        {
+          "id": "m3-1-u2-v008",
+          "word": "helpful",
+          "part_of_speech": "形",
+          "chinese": "有用的",
+          "sentence": "I think that this tip is helpful.",
+          "sentence_chinese": "我認為這個提示很有用。"
+        },
+        {
+          "id": "m3-1-u2-v009",
+          "word": "tired",
+          "part_of_speech": "形",
+          "chinese": "疲勞的",
+          "sentence": "My father is tired after work.",
+          "sentence_chinese": "我爸爸下班後很疲累。"
+        },
+        {
+          "id": "m3-1-u2-v010",
+          "word": "offer",
+          "part_of_speech": "動",
+          "chinese": "提供",
+          "sentence": "The app offers cheap meals.",
+          "sentence_chinese": "這個 App 提供便宜的餐點。"
+        },
+        {
+          "id": "m3-1-u2-v011",
+          "word": "discount",
+          "part_of_speech": "名",
+          "chinese": "折扣",
+          "sentence": "The store offers a discount today.",
+          "sentence_chinese": "這家店今天提供折扣。"
+        },
+        {
+          "id": "m3-1-u2-v012",
+          "word": "driver",
+          "part_of_speech": "名",
+          "chinese": "駕駛；司機",
+          "sentence": "The driver looks tired.",
+          "sentence_chinese": "這位司機看起來很累。"
+        },
+        {
+          "id": "m3-1-u2-v013",
+          "word": "uniform",
+          "part_of_speech": "名",
+          "chinese": "制服",
+          "sentence": "The driver wears a clean uniform.",
+          "sentence_chinese": "這位司機穿著乾淨的制服。"
+        },
+        {
+          "id": "m3-1-u2-v014",
+          "word": "excited",
+          "part_of_speech": "形",
+          "chinese": "感到興奮的",
+          "sentence": "We are excited about the party.",
+          "sentence_chinese": "我們對這場派對感到興奮。"
+        },
+        {
+          "id": "m3-1-u2-v015",
+          "word": "boring",
+          "part_of_speech": "形",
+          "chinese": "無聊的；無趣的",
+          "sentence": "The long wait is boring.",
+          "sentence_chinese": "漫長的等待很無聊。"
+        },
+        {
+          "id": "m3-1-u2-v016",
+          "word": "bored",
+          "part_of_speech": "形",
+          "chinese": "感到厭煩的",
+          "sentence": "The children are bored with the game.",
+          "sentence_chinese": "孩子們對這個遊戲感到厭煩。"
+        },
+        {
+          "id": "m3-1-u2-v017",
+          "word": "tiring",
+          "part_of_speech": "形",
+          "chinese": "令人疲倦的",
+          "sentence": "Walking home is tiring.",
+          "sentence_chinese": "走路回家令人疲倦。"
+        },
+        {
+          "id": "m3-1-u2-v018",
+          "word": "surprising",
+          "part_of_speech": "形",
+          "chinese": "令人驚訝的",
+          "sentence": "The news is surprising to us.",
+          "sentence_chinese": "這個消息令我們驚訝。"
+        },
+        {
+          "id": "m3-1-u2-v019",
+          "word": "surprised",
+          "part_of_speech": "形",
+          "chinese": "感到驚訝的",
+          "sentence": "I am surprised at the price.",
+          "sentence_chinese": "我對這個價格感到驚訝。"
+        },
+        {
+          "id": "m3-1-u2-v020",
+          "word": "tip",
+          "part_of_speech": "動；名",
+          "chinese": "給……小費；小費",
+          "sentence": "My dad gave the driver a tip.",
+          "sentence_chinese": "我爸爸給司機一筆小費。"
+        },
+        {
+          "id": "m3-1-u2-v021",
+          "word": "couch",
+          "part_of_speech": "名",
+          "chinese": "沙發",
+          "sentence": "The couch looks comfortable.",
+          "sentence_chinese": "這張沙發看起來很舒適。"
+        },
+        {
+          "id": "m3-1-u2-v022",
+          "word": "interest",
+          "part_of_speech": "名；動",
+          "chinese": "興趣；使……感興趣",
+          "sentence": "The story interests my brother.",
+          "sentence_chinese": "這個故事使我弟弟感興趣。"
+        },
+        {
+          "id": "m3-1-u2-v023",
+          "word": "mind",
+          "part_of_speech": "動",
+          "chinese": "介意",
+          "sentence": "Do you mind that I sit here?",
+          "sentence_chinese": "你介意我坐這裡嗎？"
+        },
+        {
+          "id": "m3-1-u2-v024",
+          "word": "chance",
+          "part_of_speech": "名",
+          "chinese": "機會",
+          "sentence": "I think that I have a chance.",
+          "sentence_chinese": "我認為我有機會。"
+        },
+        {
+          "id": "m3-1-u2-v025",
+          "word": "list",
+          "part_of_speech": "名",
+          "chinese": "清單",
+          "sentence": "The list is helpful for me.",
+          "sentence_chinese": "這份清單對我很有用。"
+        },
+        {
+          "id": "m3-1-u2-v026",
+          "word": "at least",
+          "part_of_speech": "副",
+          "chinese": "至少",
+          "sentence": "I need at least ten minutes.",
+          "sentence_chinese": "我至少需要十分鐘。"
+        },
+        {
+          "id": "m3-1-u2-v027",
+          "word": "location",
+          "part_of_speech": "名",
+          "chinese": "位置",
+          "sentence": "The app knows my location.",
+          "sentence_chinese": "這個 App 知道我的位置。"
+        },
+        {
+          "id": "m3-1-u2-v028",
+          "word": "tap",
+          "part_of_speech": "動",
+          "chinese": "輕觸",
+          "sentence": "Please tap the button.",
+          "sentence_chinese": "請輕觸這個按鈕。"
+        },
+        {
+          "id": "m3-1-u2-v029",
+          "word": "button",
+          "part_of_speech": "名",
+          "chinese": "按鈕；鈕扣",
+          "sentence": "This button looks useful.",
+          "sentence_chinese": "這個按鈕看起來很有用。"
+        }
+      ],
+      "phrases": [],
+      "grammar": {
+        "tips": [
+          {
+            "label": "情緒形容詞",
+            "text": "V-ing 描述事物「令人……」；過去分詞描述人「感到……」。"
+          },
+          {
+            "label": "常見搭配",
+            "text": "interested in、excited about、bored with、surprised at。"
+          },
+          {
+            "label": "that 名詞子句",
+            "text": "that 可引導完整句子，作動詞受詞、主詞或補語。"
+          }
+        ],
+        "notes": [
+          {
+            "title": "情緒動詞與形容詞",
+            "rule": "事物＋情緒動詞＋人／物",
+            "description": "bore、excite、interest、surprise、tire 等動詞表示使人產生感受。",
+            "examples": [
+              "The movie bored us.",
+              "The news surprised everyone."
+            ]
+          },
+          {
+            "title": "現在分詞與過去分詞",
+            "rule": "V-ing＝令人……；p.p.＝感到……",
+            "description": "現在分詞修飾造成感受的事物；過去分詞修飾感受的人。",
+            "examples": [
+              "The game is boring.",
+              "The students are bored."
+            ]
+          },
+          {
+            "title": "過去分詞的介系詞",
+            "rule": "interested in／excited about／bored with／surprised at",
+            "description": "不同的情緒形容詞常搭配固定介系詞。",
+            "examples": [
+              "I am interested in the app.",
+              "We were excited about the trip."
+            ]
+          },
+          {
+            "title": "that 引導名詞子句",
+            "rule": "主詞＋動詞＋(that)＋完整子句",
+            "description": "that 子句可作動詞受詞，that 常可省略；作主詞時不可省略，視為單數。",
+            "examples": [
+              "I think (that) the app is useful.",
+              "That the app is useful is true."
+            ]
+          },
+          {
+            "title": "that 子句作補語",
+            "rule": "主詞＋be 動詞＋that＋完整子句",
+            "description": "that 子句可放在 be 動詞或形容詞後補充說明。",
+            "examples": [
+              "The problem is that nobody can drive.",
+              "It is surprising that he knows this."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "id": "m3-1-u2-q001",
+            "question": "The delivery app is ___ to many students.",
+            "options": [
+              "A. interesting",
+              "B. interested",
+              "C. interest",
+              "D. interests"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "事物令人感興趣，用現在分詞 interesting。"
+          },
+          {
+            "id": "m3-1-u2-q002",
+            "question": "I am ___ in trying this food app.",
+            "options": [
+              "A. interest",
+              "B. interested",
+              "C. interesting",
+              "D. interests"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "人感到有興趣，用過去分詞 interested，並搭配 in。"
+          },
+          {
+            "id": "m3-1-u2-q003",
+            "question": "The long walk was very ___.",
+            "options": [
+              "A. tired",
+              "B. tire",
+              "C. tiring",
+              "D. tiredly"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "事物使人疲倦，用 tiring。"
+          },
+          {
+            "id": "m3-1-u2-q004",
+            "question": "My mom felt ___ after work.",
+            "options": [
+              "A. tiring",
+              "B. tire",
+              "C. tires",
+              "D. tired"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "人感到疲倦，用 tired。"
+          },
+          {
+            "id": "m3-1-u2-q005",
+            "question": "The news was ___ to everyone.",
+            "options": [
+              "A. surprising",
+              "B. surprised",
+              "C. surprise",
+              "D. surprisingly"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "news 是令人驚訝的事物，用 surprising。"
+          },
+          {
+            "id": "m3-1-u2-q006",
+            "question": "We were ___ at the low price.",
+            "options": [
+              "A. surprising",
+              "B. surprised",
+              "C. surprises",
+              "D. surprise"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "人感到驚訝，用 surprised at。"
+          },
+          {
+            "id": "m3-1-u2-q007",
+            "question": "The movie ___ the children.",
+            "options": [
+              "A. bored",
+              "B. boring",
+              "C. bore",
+              "D. boredom"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "主詞 movie 使孩子感到無聊，動詞用 bore。"
+          },
+          {
+            "id": "m3-1-u2-q008",
+            "question": "The children were ___ with the movie.",
+            "options": [
+              "A. boring",
+              "B. bore",
+              "C. boredom",
+              "D. bored"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "孩子感到厭煩，用 bored with。"
+          },
+          {
+            "id": "m3-1-u2-q009",
+            "question": "This chart looks ___ to me.",
+            "options": [
+              "A. helpful",
+              "B. helped",
+              "C. help",
+              "D. helpfully"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "chart 是有用的事物，用形容詞 helpful。"
+          },
+          {
+            "id": "m3-1-u2-q010",
+            "question": "The driver is excited ___ the discount.",
+            "options": [
+              "A. with",
+              "B. about",
+              "C. in",
+              "D. at"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "excited 常搭配介系詞 about。"
+          },
+          {
+            "id": "m3-1-u2-q011",
+            "question": "I know ___ this app is helpful.",
+            "options": [
+              "A. what",
+              "B. which",
+              "C. that",
+              "D. who"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "know 後可接 that 引導的名詞子句。"
+          },
+          {
+            "id": "m3-1-u2-q012",
+            "question": "She thinks ___ the page is easy to use.",
+            "options": [
+              "A. than",
+              "B. then",
+              "C. those",
+              "D. that"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "think 後接完整子句，用 that。"
+          },
+          {
+            "id": "m3-1-u2-q013",
+            "question": "We don't believe ___ the delivery is free.",
+            "options": [
+              "A. that",
+              "B. what",
+              "C. which",
+              "D. who"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "believe 後可接 that 子句作受詞。"
+          },
+          {
+            "id": "m3-1-u2-q014",
+            "question": "Tom told me ___ he was tired.",
+            "options": [
+              "A. what",
+              "B. that",
+              "C. than",
+              "D. this"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "tell + 人 + that 子句，that 表示「……的事」。"
+          },
+          {
+            "id": "m3-1-u2-q015",
+            "question": "I was surprised ___ the result.",
+            "options": [
+              "A. in",
+              "B. with",
+              "C. at",
+              "D. for"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "surprised 常搭配 at。"
+          },
+          {
+            "id": "m3-1-u2-q016",
+            "question": "The students are interested ___ the new app.",
+            "options": [
+              "A. at",
+              "B. on",
+              "C. about",
+              "D. in"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "interested 固定搭配 in。"
+          },
+          {
+            "id": "m3-1-u2-q017",
+            "question": "I think ___ the discount is helpful.",
+            "options": [
+              "A. that",
+              "B. what",
+              "C. who",
+              "D. which"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "think 後接完整子句時，用 that 引導。"
+          },
+          {
+            "id": "m3-1-u2-q018",
+            "question": "The couch is so ___ that I want to sit down.",
+            "options": [
+              "A. comfort",
+              "B. comfortable",
+              "C. comforting",
+              "D. comfortably"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "couch 是令人感到舒適的物品，用形容詞 comfortable。"
+          },
+          {
+            "id": "m3-1-u2-q019",
+            "question": "Do you mind ___ I tap this button?",
+            "options": [
+              "A. what",
+              "B. which",
+              "C. that",
+              "D. who"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "mind 後可接 that 子句。"
+          },
+          {
+            "id": "m3-1-u2-q020",
+            "question": "It is surprising ___ the driver knows every location.",
+            "options": [
+              "A. what",
+              "B. which",
+              "C. who",
+              "D. that"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "that 子句可放在形容詞後作補語。"
+          },
+          {
+            "id": "m3-1-u2-q021",
+            "question": "The list is ___ to new users.",
+            "options": [
+              "A. helpful",
+              "B. help",
+              "C. helped",
+              "D. helpfully"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "be 動詞後接形容詞 helpful。"
+          },
+          {
+            "id": "m3-1-u2-q022",
+            "question": "I am bored ___ waiting for the delivery.",
+            "options": [
+              "A. at",
+              "B. with",
+              "C. about",
+              "D. in"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "bored 常搭配 with。"
+          },
+          {
+            "id": "m3-1-u2-q023",
+            "question": "The game was ___, so nobody wanted to play.",
+            "options": [
+              "A. bored",
+              "B. bore",
+              "C. boring",
+              "D. boredom"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "game 是令人無聊的事物，用 boring。"
+          },
+          {
+            "id": "m3-1-u2-q024",
+            "question": "My sister was ___ when she got the gift.",
+            "options": [
+              "A. exciting",
+              "B. excite",
+              "C. excitedly",
+              "D. excited"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "人收到禮物感到興奮，用 excited。"
+          },
+          {
+            "id": "m3-1-u2-q025",
+            "question": "That the app is useful ___ true.",
+            "options": [
+              "A. is",
+              "B. are",
+              "C. be",
+              "D. being"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "That 子句作主詞時視為單數，用 is。"
+          },
+          {
+            "id": "m3-1-u2-q026",
+            "question": "I forgot ___ the driver was waiting outside.",
+            "options": [
+              "A. what",
+              "B. that",
+              "C. who",
+              "D. which"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "forgot 後面接 that 子句。"
+          },
+          {
+            "id": "m3-1-u2-q027",
+            "question": "The food app ___ my parents.",
+            "options": [
+              "A. interested",
+              "B. interesting",
+              "C. interests",
+              "D. interest"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "主詞 app 是單數，動詞用 interests。"
+          },
+          {
+            "id": "m3-1-u2-q028",
+            "question": "The delivery was ___ than I expected.",
+            "options": [
+              "A. surprised",
+              "B. surprise",
+              "C. surprises",
+              "D. surprising"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "delivery 是令人驚訝的事物，用 surprising。"
+          },
+          {
+            "id": "m3-1-u2-q029",
+            "question": "We were tired ___ the long trip.",
+            "options": [
+              "A. from",
+              "B. at",
+              "C. in",
+              "D. on"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "tired from 表示因……而疲累。"
+          },
+          {
+            "id": "m3-1-u2-q030",
+            "question": "The store gives drivers a ___ for good work.",
+            "options": [
+              "A. tired",
+              "B. tip",
+              "C. tap",
+              "D. chance"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "給小費是 tip。"
+          },
+          {
+            "id": "m3-1-u2-q031",
+            "question": "I think ___ we have a good chance.",
+            "options": [
+              "A. what",
+              "B. who",
+              "C. that",
+              "D. which"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "think 後接 that 子句。"
+          },
+          {
+            "id": "m3-1-u2-q032",
+            "question": "The boy looks ___ because he has nothing to do.",
+            "options": [
+              "A. boring",
+              "B. bore",
+              "C. boredom",
+              "D. bored"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "人感到無聊，用 bored。"
+          },
+          {
+            "id": "m3-1-u2-q033",
+            "question": "The app has a ___ for every kind of food.",
+            "options": [
+              "A. list",
+              "B. location",
+              "C. chance",
+              "D. reason"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "列出食物的清單是 list。"
+          },
+          {
+            "id": "m3-1-u2-q034",
+            "question": "It is tiring ___ food in the rain.",
+            "options": [
+              "A. deliver",
+              "B. delivering",
+              "C. delivered",
+              "D. to delivery"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "It is + 形容詞 + V-ing，可描述做某事令人疲累。"
+          },
+          {
+            "id": "m3-1-u2-q035",
+            "question": "The customers are excited ___ the new offer.",
+            "options": [
+              "A. with",
+              "B. in",
+              "C. about",
+              "D. at"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "excited about 表示對某事感到興奮。"
+          },
+          {
+            "id": "m3-1-u2-q036",
+            "question": "I know the reason ___ he is late.",
+            "options": [
+              "A. what",
+              "B. who",
+              "C. which",
+              "D. that"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "reason 後可接 that 子句說明原因。"
+          },
+          {
+            "id": "m3-1-u2-q037",
+            "question": "The discount makes the app more ___.",
+            "options": [
+              "A. interesting",
+              "B. interested",
+              "C. interest",
+              "D. interests"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "app 是令人感興趣的事物，用 interesting。"
+          },
+          {
+            "id": "m3-1-u2-q038",
+            "question": "That he wears a uniform ___ important.",
+            "options": [
+              "A. are",
+              "B. is",
+              "C. were",
+              "D. be"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "That 子句作主詞，動詞用單數 is。"
+          },
+          {
+            "id": "m3-1-u2-q039",
+            "question": "The driver was tired, ___ he kept working.",
+            "options": [
+              "A. that",
+              "B. who",
+              "C. but",
+              "D. what"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "兩個完整子句表轉折用 but。"
+          },
+          {
+            "id": "m3-1-u2-q040",
+            "question": "Please tap the green ___.",
+            "options": [
+              "A. couch",
+              "B. page",
+              "C. chart",
+              "D. button"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "輕觸的按鈕是 button。"
+          },
+          {
+            "id": "m3-1-u2-q041",
+            "question": "The app can find your ___.",
+            "options": [
+              "A. location",
+              "B. reason",
+              "C. age",
+              "D. chance"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "App 可以找到你的位置，用 location。"
+          },
+          {
+            "id": "m3-1-u2-q042",
+            "question": "I don't mind ___ you use my phone.",
+            "options": [
+              "A. what",
+              "B. that",
+              "C. which",
+              "D. who"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "mind 後可接 that 子句。"
+          },
+          {
+            "id": "m3-1-u2-q043",
+            "question": "The result was ___ to all of us.",
+            "options": [
+              "A. surprise",
+              "B. surprised",
+              "C. surprising",
+              "D. surprises"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "result 是令人驚訝的事物，用 surprising。"
+          },
+          {
+            "id": "m3-1-u2-q044",
+            "question": "He was ___ at the answer.",
+            "options": [
+              "A. surprising",
+              "B. surprise",
+              "C. surprises",
+              "D. surprised"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "he 是感到驚訝的人，用 surprised at。"
+          },
+          {
+            "id": "m3-1-u2-q045",
+            "question": "At least, give me a ___ to try.",
+            "options": [
+              "A. chance",
+              "B. chart",
+              "C. couch",
+              "D. tip"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "給某人機會是 give someone a chance。"
+          },
+          {
+            "id": "m3-1-u2-q046",
+            "question": "The food is popular ___ young people.",
+            "options": [
+              "A. at",
+              "B. among",
+              "C. with",
+              "D. from"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "among 表示「在……之中」。"
+          },
+          {
+            "id": "m3-1-u2-q047",
+            "question": "The page offers ___ useful tips.",
+            "options": [
+              "A. among",
+              "B. tired",
+              "C. at least",
+              "D. bored"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "at least 表示至少。"
+          },
+          {
+            "id": "m3-1-u2-q048",
+            "question": "I believe ___ the driver can help us.",
+            "options": [
+              "A. what",
+              "B. who",
+              "C. which",
+              "D. that"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "believe 後面接完整子句，用 that。"
+          },
+          {
+            "id": "m3-1-u2-q049",
+            "question": "The driver looks ___ after the long day.",
+            "options": [
+              "A. tired",
+              "B. tiring",
+              "C. tire",
+              "D. tiredly"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "driver 是感到疲倦的人，用過去分詞 tired。"
+          },
+          {
+            "id": "m3-1-u2-q050",
+            "question": "It is helpful ___ the list is clear.",
+            "options": [
+              "A. what",
+              "B. that",
+              "C. who",
+              "D. which"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "形容詞 helpful 後可接 that 子句補充說明。"
+          }
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          {
+            "id": "m3-1-u2-sv001",
+            "vocab_id": "m3-1-u2-v001",
+            "sentence": "The food delivery is fast.",
+            "sentence_chinese": "外送很快。"
+          },
+          {
+            "id": "m3-1-u2-sv002",
+            "vocab_id": "m3-1-u2-v002",
+            "sentence": "This app is popular among students.",
+            "sentence_chinese": "這個 App 在學生中很受歡迎。"
+          },
+          {
+            "id": "m3-1-u2-sv003",
+            "vocab_id": "m3-1-u2-v003",
+            "sentence": "What is the right age to use the app?",
+            "sentence_chinese": "使用這個 App 的適當年齡是幾歲？"
+          },
+          {
+            "id": "m3-1-u2-sv004",
+            "vocab_id": "m3-1-u2-v004",
+            "sentence": "The chart looks helpful to me.",
+            "sentence_chinese": "這張圖表對我來說看起來很有用。"
+          },
+          {
+            "id": "m3-1-u2-sv005",
+            "vocab_id": "m3-1-u2-v005",
+            "sentence": "This page is easy to read.",
+            "sentence_chinese": "這個網頁很容易閱讀。"
+          },
+          {
+            "id": "m3-1-u2-sv006",
+            "vocab_id": "m3-1-u2-v006",
+            "sentence": "I am interested in food delivery apps.",
+            "sentence_chinese": "我對外送 App 感興趣。"
+          },
+          {
+            "id": "m3-1-u2-sv007",
+            "vocab_id": "m3-1-u2-v007",
+            "sentence": "I know the reason that he is late.",
+            "sentence_chinese": "我知道他遲到的原因。"
+          },
+          {
+            "id": "m3-1-u2-sv008",
+            "vocab_id": "m3-1-u2-v008",
+            "sentence": "I think that this tip is helpful.",
+            "sentence_chinese": "我認為這個提示很有用。"
+          },
+          {
+            "id": "m3-1-u2-sv009",
+            "vocab_id": "m3-1-u2-v009",
+            "sentence": "My father is tired after work.",
+            "sentence_chinese": "我爸爸下班後很疲累。"
+          },
+          {
+            "id": "m3-1-u2-sv010",
+            "vocab_id": "m3-1-u2-v010",
+            "sentence": "The app offers cheap meals.",
+            "sentence_chinese": "這個 App 提供便宜的餐點。"
+          },
+          {
+            "id": "m3-1-u2-sv011",
+            "vocab_id": "m3-1-u2-v011",
+            "sentence": "The store offers a discount today.",
+            "sentence_chinese": "這家店今天提供折扣。"
+          },
+          {
+            "id": "m3-1-u2-sv012",
+            "vocab_id": "m3-1-u2-v012",
+            "sentence": "The driver looks tired.",
+            "sentence_chinese": "這位司機看起來很累。"
+          },
+          {
+            "id": "m3-1-u2-sv013",
+            "vocab_id": "m3-1-u2-v013",
+            "sentence": "The driver wears a clean uniform.",
+            "sentence_chinese": "這位司機穿著乾淨的制服。"
+          },
+          {
+            "id": "m3-1-u2-sv014",
+            "vocab_id": "m3-1-u2-v014",
+            "sentence": "We are excited about the party.",
+            "sentence_chinese": "我們對這場派對感到興奮。"
+          },
+          {
+            "id": "m3-1-u2-sv015",
+            "vocab_id": "m3-1-u2-v015",
+            "sentence": "The long wait is boring.",
+            "sentence_chinese": "漫長的等待很無聊。"
+          },
+          {
+            "id": "m3-1-u2-sv016",
+            "vocab_id": "m3-1-u2-v016",
+            "sentence": "The children are bored with the game.",
+            "sentence_chinese": "孩子們對這個遊戲感到厭煩。"
+          },
+          {
+            "id": "m3-1-u2-sv017",
+            "vocab_id": "m3-1-u2-v017",
+            "sentence": "Walking home is tiring.",
+            "sentence_chinese": "走路回家令人疲倦。"
+          },
+          {
+            "id": "m3-1-u2-sv018",
+            "vocab_id": "m3-1-u2-v018",
+            "sentence": "The news is surprising to us.",
+            "sentence_chinese": "這個消息令我們驚訝。"
+          },
+          {
+            "id": "m3-1-u2-sv019",
+            "vocab_id": "m3-1-u2-v019",
+            "sentence": "I am surprised at the price.",
+            "sentence_chinese": "我對這個價格感到驚訝。"
+          },
+          {
+            "id": "m3-1-u2-sv020",
+            "vocab_id": "m3-1-u2-v020",
+            "sentence": "My dad gave the driver a tip.",
+            "sentence_chinese": "我爸爸給司機一筆小費。"
+          },
+          {
+            "id": "m3-1-u2-sv021",
+            "vocab_id": "m3-1-u2-v021",
+            "sentence": "The couch looks comfortable.",
+            "sentence_chinese": "這張沙發看起來很舒適。"
+          },
+          {
+            "id": "m3-1-u2-sv022",
+            "vocab_id": "m3-1-u2-v022",
+            "sentence": "The story interests my brother.",
+            "sentence_chinese": "這個故事使我弟弟感興趣。"
+          },
+          {
+            "id": "m3-1-u2-sv023",
+            "vocab_id": "m3-1-u2-v023",
+            "sentence": "Do you mind that I sit here?",
+            "sentence_chinese": "你介意我坐這裡嗎？"
+          },
+          {
+            "id": "m3-1-u2-sv024",
+            "vocab_id": "m3-1-u2-v024",
+            "sentence": "I think that I have a chance.",
+            "sentence_chinese": "我認為我有機會。"
+          },
+          {
+            "id": "m3-1-u2-sv025",
+            "vocab_id": "m3-1-u2-v025",
+            "sentence": "The list is helpful for me.",
+            "sentence_chinese": "這份清單對我很有用。"
+          },
+          {
+            "id": "m3-1-u2-sv026",
+            "vocab_id": "m3-1-u2-v026",
+            "sentence": "I need at least ten minutes.",
+            "sentence_chinese": "我至少需要十分鐘。"
+          },
+          {
+            "id": "m3-1-u2-sv027",
+            "vocab_id": "m3-1-u2-v027",
+            "sentence": "The app knows my location.",
+            "sentence_chinese": "這個 App 知道我的位置。"
+          },
+          {
+            "id": "m3-1-u2-sv028",
+            "vocab_id": "m3-1-u2-v028",
+            "sentence": "Please tap the button.",
+            "sentence_chinese": "請輕觸這個按鈕。"
+          },
+          {
+            "id": "m3-1-u2-sv029",
+            "vocab_id": "m3-1-u2-v029",
+            "sentence": "This button looks useful.",
+            "sentence_chinese": "這個按鈕看起來很有用。"
+          }
+        ],
+        "phrases": [],
+        "grammar": [
+          {
+            "id": "m3-1-u2-sg001",
+            "sentence": "The delivery app is interesting to many students.",
+            "sentence_chinese": "這個外送 App 對許多學生來說很有趣。"
+          },
+          {
+            "id": "m3-1-u2-sg002",
+            "sentence": "I am interested in trying this new app.",
+            "sentence_chinese": "我對嘗試這個新 App 感興趣。"
+          },
+          {
+            "id": "m3-1-u2-sg003",
+            "sentence": "The long walk home is tiring today.",
+            "sentence_chinese": "今天走長路回家很累人。"
+          },
+          {
+            "id": "m3-1-u2-sg004",
+            "sentence": "My father feels tired after a busy day.",
+            "sentence_chinese": "我爸爸忙碌一天後感到疲累。"
+          },
+          {
+            "id": "m3-1-u2-sg005",
+            "sentence": "The news is surprising to all of us.",
+            "sentence_chinese": "這個消息令我們都感到驚訝。"
+          },
+          {
+            "id": "m3-1-u2-sg006",
+            "sentence": "We were surprised at the low price.",
+            "sentence_chinese": "我們對低價感到驚訝。"
+          },
+          {
+            "id": "m3-1-u2-sg007",
+            "sentence": "The movie bored the children last night.",
+            "sentence_chinese": "這部電影昨晚讓孩子們感到無聊。"
+          },
+          {
+            "id": "m3-1-u2-sg008",
+            "sentence": "The children are bored with the movie.",
+            "sentence_chinese": "孩子們對這部電影感到厭煩。"
+          },
+          {
+            "id": "m3-1-u2-sg009",
+            "sentence": "This chart looks helpful to new users.",
+            "sentence_chinese": "這張圖表對新使用者看來很有用。"
+          },
+          {
+            "id": "m3-1-u2-sg010",
+            "sentence": "The driver is excited about the discount.",
+            "sentence_chinese": "這位司機對折扣感到興奮。"
+          },
+          {
+            "id": "m3-1-u2-sg011",
+            "sentence": "I know that this app is helpful.",
+            "sentence_chinese": "我知道這個 App 很有用。"
+          },
+          {
+            "id": "m3-1-u2-sg012",
+            "sentence": "She thinks that the page is easy.",
+            "sentence_chinese": "她認為這個網頁很容易使用。"
+          },
+          {
+            "id": "m3-1-u2-sg013",
+            "sentence": "We believe that the delivery is free.",
+            "sentence_chinese": "我們相信外送是免費的。"
+          },
+          {
+            "id": "m3-1-u2-sg014",
+            "sentence": "Tom told me that he was tired.",
+            "sentence_chinese": "Tom 告訴我他累了。"
+          },
+          {
+            "id": "m3-1-u2-sg015",
+            "sentence": "I am surprised at the final result.",
+            "sentence_chinese": "我對最後結果感到驚訝。"
+          },
+          {
+            "id": "m3-1-u2-sg016",
+            "sentence": "The students are interested in the new app.",
+            "sentence_chinese": "學生們對這個新 App 感興趣。"
+          },
+          {
+            "id": "m3-1-u2-sg017",
+            "sentence": "That the app is useful is true.",
+            "sentence_chinese": "這個 App 有用這件事是真的。"
+          },
+          {
+            "id": "m3-1-u2-sg018",
+            "sentence": "I forgot that the driver was outside.",
+            "sentence_chinese": "我忘了司機在外面。"
+          },
+          {
+            "id": "m3-1-u2-sg019",
+            "sentence": "The food app interests my younger brother.",
+            "sentence_chinese": "這個外送 App 使我弟弟感興趣。"
+          },
+          {
+            "id": "m3-1-u2-sg020",
+            "sentence": "It is surprising that he knows every location.",
+            "sentence_chinese": "他知道每個位置令人驚訝。"
+          },
+          {
+            "id": "m3-1-u2-sg021",
+            "sentence": "The long list is boring to read.",
+            "sentence_chinese": "這份長清單讀起來很無聊。"
+          },
+          {
+            "id": "m3-1-u2-sg022",
+            "sentence": "My sister is excited about her chance.",
+            "sentence_chinese": "我姊姊對她的機會感到興奮。"
+          },
+          {
+            "id": "m3-1-u2-sg023",
+            "sentence": "Do you mind that I tap this button?",
+            "sentence_chinese": "你介意我按這個按鈕嗎？"
+          },
+          {
+            "id": "m3-1-u2-sg024",
+            "sentence": "The driver gave my dad a small tip.",
+            "sentence_chinese": "這位司機給了我爸爸一筆小費。"
+          },
+          {
+            "id": "m3-1-u2-sg025",
+            "sentence": "The couch looks comfortable to my grandma.",
+            "sentence_chinese": "這張沙發對我奶奶看起來很舒適。"
+          },
+          {
+            "id": "m3-1-u2-sg026",
+            "sentence": "I think that we have enough time.",
+            "sentence_chinese": "我認為我們有足夠的時間。"
+          },
+          {
+            "id": "m3-1-u2-sg027",
+            "sentence": "That he wears a uniform is important.",
+            "sentence_chinese": "他穿制服這件事很重要。"
+          },
+          {
+            "id": "m3-1-u2-sg028",
+            "sentence": "The app knows your location right now.",
+            "sentence_chinese": "這個 App 現在知道你的位置。"
+          },
+          {
+            "id": "m3-1-u2-sg029",
+            "sentence": "At least, give the driver some water.",
+            "sentence_chinese": "至少給司機一些水。"
+          },
+          {
+            "id": "m3-1-u2-sg030",
+            "sentence": "The food is popular among young people.",
+            "sentence_chinese": "這種食物在年輕人中很受歡迎。"
+          }
+        ]
+      }
+    }
+  }
+}
