@@ -1,0 +1,1378 @@
+{
+  "units": {
+    "m1-1-u2": {
+      "title": "U2",
+      "vocab": [
+        {
+          "id": "m1-1-u2-v001",
+          "word": "house",
+          "part_of_speech": "名",
+          "chinese": "房子",
+          "sentence": "My house is near the school.",
+          "sentence_chinese": "我家在學校附近。"
+        },
+        {
+          "id": "m1-1-u2-v002",
+          "word": "parents",
+          "part_of_speech": "名",
+          "chinese": "父母親",
+          "sentence": "My parents are at home.",
+          "sentence_chinese": "我父母在家。"
+        },
+        {
+          "id": "m1-1-u2-v003",
+          "word": "living room",
+          "part_of_speech": "名",
+          "chinese": "客廳",
+          "sentence": "The living room is big.",
+          "sentence_chinese": "客廳很大。"
+        },
+        {
+          "id": "m1-1-u2-v004",
+          "word": "wall",
+          "part_of_speech": "名",
+          "chinese": "牆壁",
+          "sentence": "The picture is on the wall.",
+          "sentence_chinese": "照片在牆上。"
+        },
+        {
+          "id": "m1-1-u2-v005",
+          "word": "purple",
+          "part_of_speech": "形／名",
+          "chinese": "紫色（的）",
+          "sentence": "Her favorite color is purple.",
+          "sentence_chinese": "她最喜愛的顏色是紫色。"
+        },
+        {
+          "id": "m1-1-u2-v006",
+          "word": "favorite",
+          "part_of_speech": "形／名",
+          "chinese": "最喜愛（的）",
+          "sentence": "This is my favorite cookie.",
+          "sentence_chinese": "這是我最喜愛的餅乾。"
+        },
+        {
+          "id": "m1-1-u2-v007",
+          "word": "color",
+          "part_of_speech": "名",
+          "chinese": "顏色",
+          "sentence": "What color is your bag?",
+          "sentence_chinese": "你的書包是什麼顏色？"
+        },
+        {
+          "id": "m1-1-u2-v008",
+          "word": "kitchen",
+          "part_of_speech": "名",
+          "chinese": "廚房",
+          "sentence": "Mom is in the kitchen.",
+          "sentence_chinese": "媽媽在廚房裡。"
+        },
+        {
+          "id": "m1-1-u2-v009",
+          "word": "dining room",
+          "part_of_speech": "名",
+          "chinese": "飯廳",
+          "sentence": "We eat in the dining room.",
+          "sentence_chinese": "我們在飯廳吃飯。"
+        },
+        {
+          "id": "m1-1-u2-v010",
+          "word": "but",
+          "part_of_speech": "連",
+          "chinese": "但是",
+          "sentence": "It is small but special.",
+          "sentence_chinese": "它很小但很特別。"
+        },
+        {
+          "id": "m1-1-u2-v011",
+          "word": "gray",
+          "part_of_speech": "形／名",
+          "chinese": "灰色（的）",
+          "sentence": "The cat is gray and white.",
+          "sentence_chinese": "那隻貓是灰白色的。"
+        },
+        {
+          "id": "m1-1-u2-v012",
+          "word": "brown",
+          "part_of_speech": "形／名",
+          "chinese": "棕色（的）",
+          "sentence": "The sofa is brown.",
+          "sentence_chinese": "沙發是棕色的。"
+        },
+        {
+          "id": "m1-1-u2-v013",
+          "word": "cookie",
+          "part_of_speech": "名",
+          "chinese": "餅乾",
+          "sentence": "These cookies are for you.",
+          "sentence_chinese": "這些餅乾是給你的。"
+        },
+        {
+          "id": "m1-1-u2-v014",
+          "word": "mice",
+          "part_of_speech": "名",
+          "chinese": "老鼠（mouse 的複數）",
+          "sentence": "The mice are behind the box.",
+          "sentence_chinese": "老鼠在盒子後面。"
+        },
+        {
+          "id": "m1-1-u2-v015",
+          "word": "maybe",
+          "part_of_speech": "副",
+          "chinese": "可能",
+          "sentence": "Maybe he is hungry.",
+          "sentence_chinese": "他可能餓了。"
+        },
+        {
+          "id": "m1-1-u2-v016",
+          "word": "sofa",
+          "part_of_speech": "名",
+          "chinese": "沙發",
+          "sentence": "The cat is under the sofa.",
+          "sentence_chinese": "貓在沙發下面。"
+        },
+        {
+          "id": "m1-1-u2-v017",
+          "word": "hungry",
+          "part_of_speech": "形",
+          "chinese": "餓的",
+          "sentence": "I am hungry after school.",
+          "sentence_chinese": "我放學後很餓。"
+        },
+        {
+          "id": "m1-1-u2-v018",
+          "word": "notebook",
+          "part_of_speech": "名",
+          "chinese": "筆記本",
+          "sentence": "My notebook is on the table.",
+          "sentence_chinese": "我的筆記本在桌上。"
+        },
+        {
+          "id": "m1-1-u2-v019",
+          "word": "marker",
+          "part_of_speech": "名",
+          "chinese": "記號筆",
+          "sentence": "The markers are in my pencil case.",
+          "sentence_chinese": "記號筆在我的鉛筆盒裡。"
+        },
+        {
+          "id": "m1-1-u2-v020",
+          "word": "brush",
+          "part_of_speech": "名",
+          "chinese": "毛筆；刷子",
+          "sentence": "The brush is on the desk.",
+          "sentence_chinese": "毛筆在書桌上。"
+        },
+        {
+          "id": "m1-1-u2-v021",
+          "word": "gift",
+          "part_of_speech": "名",
+          "chinese": "禮物",
+          "sentence": "This gift is for my mother.",
+          "sentence_chinese": "這個禮物是給我媽媽的。"
+        },
+        {
+          "id": "m1-1-u2-v022",
+          "word": "pencil case",
+          "part_of_speech": "名",
+          "chinese": "鉛筆盒",
+          "sentence": "My pencil case is purple.",
+          "sentence_chinese": "我的鉛筆盒是紫色的。"
+        },
+        {
+          "id": "m1-1-u2-v023",
+          "word": "bathroom",
+          "part_of_speech": "名",
+          "chinese": "浴室；廁所",
+          "sentence": "The bathroom is next to my bedroom.",
+          "sentence_chinese": "浴室在我臥室旁邊。"
+        },
+        {
+          "id": "m1-1-u2-v024",
+          "word": "table",
+          "part_of_speech": "名",
+          "chinese": "桌子",
+          "sentence": "The books are on the table.",
+          "sentence_chinese": "書在桌上。"
+        },
+        {
+          "id": "m1-1-u2-v025",
+          "word": "bedroom",
+          "part_of_speech": "名",
+          "chinese": "臥室",
+          "sentence": "My bedroom is clean.",
+          "sentence_chinese": "我的臥室很乾淨。"
+        },
+        {
+          "id": "m1-1-u2-v026",
+          "word": "near",
+          "part_of_speech": "介",
+          "chinese": "在……附近",
+          "sentence": "The library is near my house.",
+          "sentence_chinese": "圖書館在我家附近。"
+        },
+        {
+          "id": "m1-1-u2-v027",
+          "word": "between",
+          "part_of_speech": "介",
+          "chinese": "在……之間",
+          "sentence": "The cat is between two chairs.",
+          "sentence_chinese": "貓在兩張椅子中間。"
+        },
+        {
+          "id": "m1-1-u2-v028",
+          "word": "behind",
+          "part_of_speech": "介",
+          "chinese": "在……後面",
+          "sentence": "The dog is behind the door.",
+          "sentence_chinese": "狗在門後面。"
+        },
+        {
+          "id": "m1-1-u2-v029",
+          "word": "in front of",
+          "part_of_speech": "介",
+          "chinese": "在……前面",
+          "sentence": "The bus is in front of the school.",
+          "sentence_chinese": "公車在學校前面。"
+        },
+        {
+          "id": "m1-1-u2-v030",
+          "word": "special",
+          "part_of_speech": "形",
+          "chinese": "特別的",
+          "sentence": "Today is a special day.",
+          "sentence_chinese": "今天是特別的一天。"
+        },
+        {
+          "id": "m1-1-u2-v031",
+          "word": "inside",
+          "part_of_speech": "介",
+          "chinese": "在……裡面",
+          "sentence": "The cookie is inside the box.",
+          "sentence_chinese": "餅乾在盒子裡面。"
+        },
+        {
+          "id": "m1-1-u2-v032",
+          "word": "right",
+          "part_of_speech": "形／副",
+          "chinese": "右邊（的）；就",
+          "sentence": "Turn right at the corner.",
+          "sentence_chinese": "在轉角向右轉。"
+        },
+        {
+          "id": "m1-1-u2-v033",
+          "word": "each other",
+          "part_of_speech": "代",
+          "chinese": "彼此；互相",
+          "sentence": "The twins help each other.",
+          "sentence_chinese": "這對雙胞胎互相幫忙。"
+        },
+        {
+          "id": "m1-1-u2-v034",
+          "word": "above",
+          "part_of_speech": "介／副",
+          "chinese": "在……上方；在上方",
+          "sentence": "The bird is above the box.",
+          "sentence_chinese": "鳥在盒子上方。"
+        },
+        {
+          "id": "m1-1-u2-v035",
+          "word": "enough",
+          "part_of_speech": "形／副",
+          "chinese": "足夠（的）",
+          "sentence": "We have enough cookies.",
+          "sentence_chinese": "我們有足夠的餅乾。"
+        },
+        {
+          "id": "m1-1-u2-v036",
+          "word": "person",
+          "part_of_speech": "名",
+          "chinese": "人",
+          "sentence": "One person is in the room.",
+          "sentence_chinese": "一個人在房間裡。"
+        }
+      ],
+      "phrases": [],
+      "grammar": {
+        "tips": [
+          {
+            "label": "單複數",
+            "text": "單數可數名詞須有限定詞；兩個以上用複數名詞。"
+          },
+          {
+            "label": "指示詞",
+            "text": "this／that 接單數與 is；these／those 接複數與 are。"
+          },
+          {
+            "label": "位置",
+            "text": "用介系詞說明位置；Where 用來詢問位置。"
+          }
+        ],
+        "notes": [
+          {
+            "title": "可數名詞複數",
+            "rule": "一般加 -s；部分字尾加 -es、改 -y 為 -ies 或改為 -ves；也有不規則變化。",
+            "description": "名詞數量超過一個時，須使用正確複數形式。",
+            "examples": [
+              "cookie → cookies",
+              "baby → babies",
+              "mouse → mice"
+            ]
+          },
+          {
+            "title": "單數句與複數句",
+            "rule": "this／that + is；these／those + are。",
+            "description": "指示詞、be 動詞與名詞數量必須一致。",
+            "examples": [
+              "This is a pencil.",
+              "Those are pencils."
+            ]
+          },
+          {
+            "title": "what 與 where 問句",
+            "rule": "What 問物品；Where 問位置。",
+            "description": "回答位置時可用完整句或「介系詞＋名詞」。",
+            "examples": [
+              "What is it? It is a brush.",
+              "Where is the cat? It is under the sofa."
+            ]
+          },
+          {
+            "title": "表示位置的介系詞",
+            "rule": "介系詞 + 名詞表示位置。",
+            "description": "本課重點包括 on、in、under、near、between、behind、in front of、inside、at、above。",
+            "examples": [
+              "The bird is above the box.",
+              "The dog is behind the door."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "id": "m1-1-u2-q001",
+            "question": "I have two ______ on the table.",
+            "options": [
+              "A. cookies",
+              "B. cookie",
+              "C. cookies",
+              "D. cookiees"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "two 表示複數，名詞要用正確複數 cookies。"
+          },
+          {
+            "id": "m1-1-u2-q002",
+            "question": "I have two ______ on the table. (No. 2)",
+            "options": [
+              "A. house",
+              "B. houses",
+              "C. houses",
+              "D. housees"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "two 表示複數，名詞要用正確複數 houses。"
+          },
+          {
+            "id": "m1-1-u2-q003",
+            "question": "I have two ______ on the table. (No. 3)",
+            "options": [
+              "A. brush",
+              "B. brushs",
+              "C. brushes",
+              "D. brushes"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "two 表示複數，名詞要用正確複數 brushes。"
+          },
+          {
+            "id": "m1-1-u2-q004",
+            "question": "I have two ______ on the table. (No. 4)",
+            "options": [
+              "A. baby",
+              "B. babys",
+              "C. babyes",
+              "D. babies"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "two 表示複數，名詞要用正確複數 babies。"
+          },
+          {
+            "id": "m1-1-u2-q005",
+            "question": "I have two ______ on the table. (No. 5)",
+            "options": [
+              "A. wives",
+              "B. wife",
+              "C. wifes",
+              "D. wifees"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "two 表示複數，名詞要用正確複數 wives。"
+          },
+          {
+            "id": "m1-1-u2-q006",
+            "question": "I have two ______ on the table. (No. 6)",
+            "options": [
+              "A. mouse",
+              "B. mice",
+              "C. mouses",
+              "D. mousees"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "two 表示複數，名詞要用正確複數 mice。"
+          },
+          {
+            "id": "m1-1-u2-q007",
+            "question": "I have two ______ on the table. (No. 7)",
+            "options": [
+              "A. person",
+              "B. persons",
+              "C. people",
+              "D. persones"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "two 表示複數，名詞要用正確複數 people。"
+          },
+          {
+            "id": "m1-1-u2-q008",
+            "question": "I have two ______ on the table. (No. 8)",
+            "options": [
+              "A. pencil case",
+              "B. pencil cases",
+              "C. pencil casees",
+              "D. pencil cases"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "two 表示複數，名詞要用正確複數 pencil cases。"
+          },
+          {
+            "id": "m1-1-u2-q009",
+            "question": "I have two ______ on the table. (No. 9)",
+            "options": [
+              "A. boxes",
+              "B. box",
+              "C. boxs",
+              "D. boxes"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "two 表示複數，名詞要用正確複數 boxes。"
+          },
+          {
+            "id": "m1-1-u2-q010",
+            "question": "I have two ______ on the table. (No. 10)",
+            "options": [
+              "A. family",
+              "B. families",
+              "C. familys",
+              "D. familyes"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "two 表示複數，名詞要用正確複數 families。"
+          },
+          {
+            "id": "m1-1-u2-q011",
+            "question": "______ markers.",
+            "options": [
+              "A. This",
+              "B. That",
+              "C. These",
+              "D. Those"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "markers 的單複數要搭配正確的指示詞 These。"
+          },
+          {
+            "id": "m1-1-u2-q012",
+            "question": "______ a notebook.",
+            "options": [
+              "A. This",
+              "B. These",
+              "C. Those",
+              "D. That"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "a notebook 的單複數要搭配正確的指示詞 That。"
+          },
+          {
+            "id": "m1-1-u2-q013",
+            "question": "______ a pencil case.",
+            "options": [
+              "A. This",
+              "B. That",
+              "C. These",
+              "D. Those"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "a pencil case 的單複數要搭配正確的指示詞 This。"
+          },
+          {
+            "id": "m1-1-u2-q014",
+            "question": "______ cookies.",
+            "options": [
+              "A. This",
+              "B. Those",
+              "C. That",
+              "D. These"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "cookies 的單複數要搭配正確的指示詞 Those。"
+          },
+          {
+            "id": "m1-1-u2-q015",
+            "question": "______ my parents.",
+            "options": [
+              "A. This",
+              "B. That",
+              "C. These",
+              "D. Those"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "my parents 的單複數要搭配正確的指示詞 These。"
+          },
+          {
+            "id": "m1-1-u2-q016",
+            "question": "______ a gray sofa.",
+            "options": [
+              "A. This",
+              "B. These",
+              "C. Those",
+              "D. That"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "a gray sofa 的單複數要搭配正確的指示詞 That。"
+          },
+          {
+            "id": "m1-1-u2-q017",
+            "question": "______ a special gift.",
+            "options": [
+              "A. This",
+              "B. That",
+              "C. These",
+              "D. Those"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "a special gift 的單複數要搭配正確的指示詞 This。"
+          },
+          {
+            "id": "m1-1-u2-q018",
+            "question": "______ mice.",
+            "options": [
+              "A. This",
+              "B. Those",
+              "C. That",
+              "D. These"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "mice 的單複數要搭配正確的指示詞 Those。"
+          },
+          {
+            "id": "m1-1-u2-q019",
+            "question": "______ brown tables.",
+            "options": [
+              "A. This",
+              "B. That",
+              "C. These",
+              "D. Those"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "brown tables 的單複數要搭配正確的指示詞 These。"
+          },
+          {
+            "id": "m1-1-u2-q020",
+            "question": "______ my house.",
+            "options": [
+              "A. This",
+              "B. These",
+              "C. Those",
+              "D. That"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "my house 的單複數要搭配正確的指示詞 That。"
+          },
+          {
+            "id": "m1-1-u2-q021",
+            "question": "A: ______ is it? B: It is a brush.",
+            "options": [
+              "A. What",
+              "B. Who",
+              "C. Where",
+              "D. How"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "詢問物品名稱用 What；詢問顏色可用 What color。"
+          },
+          {
+            "id": "m1-1-u2-q022",
+            "question": "A: ______ is it? B: They are notebooks.",
+            "options": [
+              "A. Who",
+              "B. What",
+              "C. Where",
+              "D. How"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "詢問物品名稱用 What；詢問顏色可用 What color。"
+          },
+          {
+            "id": "m1-1-u2-q023",
+            "question": "A: ______ is it? B: It is purple.",
+            "options": [
+              "A. Who",
+              "B. Where",
+              "C. What color",
+              "D. How"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "詢問物品名稱用 What；詢問顏色可用 What color。"
+          },
+          {
+            "id": "m1-1-u2-q024",
+            "question": "A: ______ is it? B: That is my house.",
+            "options": [
+              "A. Who",
+              "B. Where",
+              "C. How",
+              "D. What"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "詢問物品名稱用 What；詢問顏色可用 What color。"
+          },
+          {
+            "id": "m1-1-u2-q025",
+            "question": "A: ______ is it? B: These are cookies.",
+            "options": [
+              "A. What",
+              "B. Who",
+              "C. Where",
+              "D. How"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "詢問物品名稱用 What；詢問顏色可用 What color。"
+          },
+          {
+            "id": "m1-1-u2-q026",
+            "question": "A: ______ is it? B: It is brown.",
+            "options": [
+              "A. Who",
+              "B. What color",
+              "C. Where",
+              "D. How"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "詢問物品名稱用 What；詢問顏色可用 What color。"
+          },
+          {
+            "id": "m1-1-u2-q027",
+            "question": "A: ______ is it? B: It is a pencil case.",
+            "options": [
+              "A. Who",
+              "B. Where",
+              "C. What",
+              "D. How"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "詢問物品名稱用 What；詢問顏色可用 What color。"
+          },
+          {
+            "id": "m1-1-u2-q028",
+            "question": "A: ______ is it? B: Those are markers.",
+            "options": [
+              "A. Who",
+              "B. Where",
+              "C. How",
+              "D. What"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "詢問物品名稱用 What；詢問顏色可用 What color。"
+          },
+          {
+            "id": "m1-1-u2-q029",
+            "question": "A: ______ is it? B: They are gray.",
+            "options": [
+              "A. What color",
+              "B. Who",
+              "C. Where",
+              "D. How"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "詢問物品名稱用 What；詢問顏色可用 What color。"
+          },
+          {
+            "id": "m1-1-u2-q030",
+            "question": "A: ______ is it? B: This is a gift.",
+            "options": [
+              "A. Who",
+              "B. What",
+              "C. Where",
+              "D. How"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "詢問物品名稱用 What；詢問顏色可用 What color。"
+          },
+          {
+            "id": "m1-1-u2-q031",
+            "question": "The cat is ______ the sofa.",
+            "options": [
+              "A. behind",
+              "B. between",
+              "C. under",
+              "D. in front of"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "依位置關係選擇正確介系詞 under。"
+          },
+          {
+            "id": "m1-1-u2-q032",
+            "question": "The dog is ______ the door.",
+            "options": [
+              "A. under",
+              "B. between",
+              "C. in front of",
+              "D. behind"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "依位置關係選擇正確介系詞 behind。"
+          },
+          {
+            "id": "m1-1-u2-q033",
+            "question": "The chair is ______ the tables.",
+            "options": [
+              "A. between",
+              "B. under",
+              "C. behind",
+              "D. in front of"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "依位置關係選擇正確介系詞 between。"
+          },
+          {
+            "id": "m1-1-u2-q034",
+            "question": "The bus is ______ the school.",
+            "options": [
+              "A. under",
+              "B. in front of",
+              "C. behind",
+              "D. between"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "依位置關係選擇正確介系詞 in front of。"
+          },
+          {
+            "id": "m1-1-u2-q035",
+            "question": "My house is ______ the park.",
+            "options": [
+              "A. under",
+              "B. behind",
+              "C. near",
+              "D. between"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "依位置關係選擇正確介系詞 near。"
+          },
+          {
+            "id": "m1-1-u2-q036",
+            "question": "The cookie is ______ the box.",
+            "options": [
+              "A. under",
+              "B. behind",
+              "C. between",
+              "D. inside"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "依位置關係選擇正確介系詞 inside。"
+          },
+          {
+            "id": "m1-1-u2-q037",
+            "question": "The bird is ______ the box.",
+            "options": [
+              "A. above",
+              "B. under",
+              "C. behind",
+              "D. between"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "依位置關係選擇正確介系詞 above。"
+          },
+          {
+            "id": "m1-1-u2-q038",
+            "question": "The notebook is ______ the table.",
+            "options": [
+              "A. under",
+              "B. on",
+              "C. behind",
+              "D. between"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "依位置關係選擇正確介系詞 on。"
+          },
+          {
+            "id": "m1-1-u2-q039",
+            "question": "The bathroom is ______ the bedroom.",
+            "options": [
+              "A. under",
+              "B. behind",
+              "C. next to",
+              "D. between"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "依位置關係選擇正確介系詞 next to。"
+          },
+          {
+            "id": "m1-1-u2-q040",
+            "question": "We are ______ Naomi's house.",
+            "options": [
+              "A. under",
+              "B. behind",
+              "C. between",
+              "D. at"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "依位置關係選擇正確介系詞 at。"
+          },
+          {
+            "id": "m1-1-u2-q041",
+            "question": "These ______ my new markers.",
+            "options": [
+              "A. are",
+              "B. am",
+              "C. is",
+              "D. be"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "主詞的單複數決定 be 動詞；本題要用 are。"
+          },
+          {
+            "id": "m1-1-u2-q042",
+            "question": "That ______ a brown sofa.",
+            "options": [
+              "A. am",
+              "B. is",
+              "C. are",
+              "D. be"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "主詞的單複數決定 be 動詞；本題要用 is。"
+          },
+          {
+            "id": "m1-1-u2-q043",
+            "question": "Those ______ purple cookies.",
+            "options": [
+              "A. am",
+              "B. is",
+              "C. are",
+              "D. be"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "主詞的單複數決定 be 動詞；本題要用 are。"
+          },
+          {
+            "id": "m1-1-u2-q044",
+            "question": "This ______ my favorite notebook.",
+            "options": [
+              "A. am",
+              "B. are",
+              "C. be",
+              "D. is"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "主詞的單複數決定 be 動詞；本題要用 is。"
+          },
+          {
+            "id": "m1-1-u2-q045",
+            "question": "The mice ______ behind the wall.",
+            "options": [
+              "A. are",
+              "B. am",
+              "C. is",
+              "D. be"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "主詞的單複數決定 be 動詞；本題要用 are。"
+          },
+          {
+            "id": "m1-1-u2-q046",
+            "question": "The pencil case ______ on the table.",
+            "options": [
+              "A. am",
+              "B. is",
+              "C. are",
+              "D. be"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "主詞的單複數決定 be 動詞；本題要用 is。"
+          },
+          {
+            "id": "m1-1-u2-q047",
+            "question": "My parents ______ in the kitchen.",
+            "options": [
+              "A. am",
+              "B. is",
+              "C. are",
+              "D. be"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "主詞的單複數決定 be 動詞；本題要用 are。"
+          },
+          {
+            "id": "m1-1-u2-q048",
+            "question": "The bathroom ______ near the bedroom.",
+            "options": [
+              "A. am",
+              "B. are",
+              "C. be",
+              "D. is"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "主詞的單複數決定 be 動詞；本題要用 is。"
+          },
+          {
+            "id": "m1-1-u2-q049",
+            "question": "These gifts ______ special.",
+            "options": [
+              "A. are",
+              "B. am",
+              "C. is",
+              "D. be"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "主詞的單複數決定 be 動詞；本題要用 are。"
+          },
+          {
+            "id": "m1-1-u2-q050",
+            "question": "The living room ______ inside the house.",
+            "options": [
+              "A. am",
+              "B. is",
+              "C. are",
+              "D. be"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "主詞的單複數決定 be 動詞；本題要用 is。"
+          }
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          {
+            "id": "m1-1-u2-sv001",
+            "vocab_id": "m1-1-u2-v001",
+            "sentence": "My house is near the school.",
+            "sentence_chinese": "我家在學校附近。"
+          },
+          {
+            "id": "m1-1-u2-sv002",
+            "vocab_id": "m1-1-u2-v002",
+            "sentence": "My parents are at home.",
+            "sentence_chinese": "我父母在家。"
+          },
+          {
+            "id": "m1-1-u2-sv003",
+            "vocab_id": "m1-1-u2-v003",
+            "sentence": "The living room is big.",
+            "sentence_chinese": "客廳很大。"
+          },
+          {
+            "id": "m1-1-u2-sv004",
+            "vocab_id": "m1-1-u2-v004",
+            "sentence": "The picture is on the wall.",
+            "sentence_chinese": "照片在牆上。"
+          },
+          {
+            "id": "m1-1-u2-sv005",
+            "vocab_id": "m1-1-u2-v005",
+            "sentence": "Her favorite color is purple.",
+            "sentence_chinese": "她最喜愛的顏色是紫色。"
+          },
+          {
+            "id": "m1-1-u2-sv006",
+            "vocab_id": "m1-1-u2-v006",
+            "sentence": "This is my favorite cookie.",
+            "sentence_chinese": "這是我最喜愛的餅乾。"
+          },
+          {
+            "id": "m1-1-u2-sv007",
+            "vocab_id": "m1-1-u2-v007",
+            "sentence": "What color is your bag?",
+            "sentence_chinese": "你的書包是什麼顏色？"
+          },
+          {
+            "id": "m1-1-u2-sv008",
+            "vocab_id": "m1-1-u2-v008",
+            "sentence": "Mom is in the kitchen.",
+            "sentence_chinese": "媽媽在廚房裡。"
+          },
+          {
+            "id": "m1-1-u2-sv009",
+            "vocab_id": "m1-1-u2-v009",
+            "sentence": "We eat in the dining room.",
+            "sentence_chinese": "我們在飯廳吃飯。"
+          },
+          {
+            "id": "m1-1-u2-sv010",
+            "vocab_id": "m1-1-u2-v010",
+            "sentence": "It is small but special.",
+            "sentence_chinese": "它很小但很特別。"
+          },
+          {
+            "id": "m1-1-u2-sv011",
+            "vocab_id": "m1-1-u2-v011",
+            "sentence": "The cat is gray and white.",
+            "sentence_chinese": "那隻貓是灰白色的。"
+          },
+          {
+            "id": "m1-1-u2-sv012",
+            "vocab_id": "m1-1-u2-v012",
+            "sentence": "The sofa is brown.",
+            "sentence_chinese": "沙發是棕色的。"
+          },
+          {
+            "id": "m1-1-u2-sv013",
+            "vocab_id": "m1-1-u2-v013",
+            "sentence": "These cookies are for you.",
+            "sentence_chinese": "這些餅乾是給你的。"
+          },
+          {
+            "id": "m1-1-u2-sv014",
+            "vocab_id": "m1-1-u2-v014",
+            "sentence": "The mice are behind the box.",
+            "sentence_chinese": "老鼠在盒子後面。"
+          },
+          {
+            "id": "m1-1-u2-sv015",
+            "vocab_id": "m1-1-u2-v015",
+            "sentence": "Maybe he is hungry.",
+            "sentence_chinese": "他可能餓了。"
+          },
+          {
+            "id": "m1-1-u2-sv016",
+            "vocab_id": "m1-1-u2-v016",
+            "sentence": "The cat is under the sofa.",
+            "sentence_chinese": "貓在沙發下面。"
+          },
+          {
+            "id": "m1-1-u2-sv017",
+            "vocab_id": "m1-1-u2-v017",
+            "sentence": "I am hungry after school.",
+            "sentence_chinese": "我放學後很餓。"
+          },
+          {
+            "id": "m1-1-u2-sv018",
+            "vocab_id": "m1-1-u2-v018",
+            "sentence": "My notebook is on the table.",
+            "sentence_chinese": "我的筆記本在桌上。"
+          },
+          {
+            "id": "m1-1-u2-sv019",
+            "vocab_id": "m1-1-u2-v019",
+            "sentence": "The markers are in my pencil case.",
+            "sentence_chinese": "記號筆在我的鉛筆盒裡。"
+          },
+          {
+            "id": "m1-1-u2-sv020",
+            "vocab_id": "m1-1-u2-v020",
+            "sentence": "The brush is on the desk.",
+            "sentence_chinese": "毛筆在書桌上。"
+          },
+          {
+            "id": "m1-1-u2-sv021",
+            "vocab_id": "m1-1-u2-v021",
+            "sentence": "This gift is for my mother.",
+            "sentence_chinese": "這個禮物是給我媽媽的。"
+          },
+          {
+            "id": "m1-1-u2-sv022",
+            "vocab_id": "m1-1-u2-v022",
+            "sentence": "My pencil case is purple.",
+            "sentence_chinese": "我的鉛筆盒是紫色的。"
+          },
+          {
+            "id": "m1-1-u2-sv023",
+            "vocab_id": "m1-1-u2-v023",
+            "sentence": "The bathroom is next to my bedroom.",
+            "sentence_chinese": "浴室在我臥室旁邊。"
+          },
+          {
+            "id": "m1-1-u2-sv024",
+            "vocab_id": "m1-1-u2-v024",
+            "sentence": "The books are on the table.",
+            "sentence_chinese": "書在桌上。"
+          },
+          {
+            "id": "m1-1-u2-sv025",
+            "vocab_id": "m1-1-u2-v025",
+            "sentence": "My bedroom is clean.",
+            "sentence_chinese": "我的臥室很乾淨。"
+          },
+          {
+            "id": "m1-1-u2-sv026",
+            "vocab_id": "m1-1-u2-v026",
+            "sentence": "The library is near my house.",
+            "sentence_chinese": "圖書館在我家附近。"
+          },
+          {
+            "id": "m1-1-u2-sv027",
+            "vocab_id": "m1-1-u2-v027",
+            "sentence": "The cat is between two chairs.",
+            "sentence_chinese": "貓在兩張椅子中間。"
+          },
+          {
+            "id": "m1-1-u2-sv028",
+            "vocab_id": "m1-1-u2-v028",
+            "sentence": "The dog is behind the door.",
+            "sentence_chinese": "狗在門後面。"
+          },
+          {
+            "id": "m1-1-u2-sv029",
+            "vocab_id": "m1-1-u2-v029",
+            "sentence": "The bus is in front of the school.",
+            "sentence_chinese": "公車在學校前面。"
+          },
+          {
+            "id": "m1-1-u2-sv030",
+            "vocab_id": "m1-1-u2-v030",
+            "sentence": "Today is a special day.",
+            "sentence_chinese": "今天是特別的一天。"
+          },
+          {
+            "id": "m1-1-u2-sv031",
+            "vocab_id": "m1-1-u2-v031",
+            "sentence": "The cookie is inside the box.",
+            "sentence_chinese": "餅乾在盒子裡面。"
+          },
+          {
+            "id": "m1-1-u2-sv032",
+            "vocab_id": "m1-1-u2-v032",
+            "sentence": "Turn right at the corner.",
+            "sentence_chinese": "在轉角向右轉。"
+          },
+          {
+            "id": "m1-1-u2-sv033",
+            "vocab_id": "m1-1-u2-v033",
+            "sentence": "The twins help each other.",
+            "sentence_chinese": "這對雙胞胎互相幫忙。"
+          },
+          {
+            "id": "m1-1-u2-sv034",
+            "vocab_id": "m1-1-u2-v034",
+            "sentence": "The bird is above the box.",
+            "sentence_chinese": "鳥在盒子上方。"
+          },
+          {
+            "id": "m1-1-u2-sv035",
+            "vocab_id": "m1-1-u2-v035",
+            "sentence": "We have enough cookies.",
+            "sentence_chinese": "我們有足夠的餅乾。"
+          },
+          {
+            "id": "m1-1-u2-sv036",
+            "vocab_id": "m1-1-u2-v036",
+            "sentence": "One person is in the room.",
+            "sentence_chinese": "一個人在房間裡。"
+          }
+        ],
+        "phrases": [],
+        "grammar": [
+          {
+            "id": "m1-1-u2-sg001",
+            "sentence": "These cookies are on the table.",
+            "sentence_chinese": "請依英文句子重組。"
+          },
+          {
+            "id": "m1-1-u2-sg002",
+            "sentence": "That is my favorite purple marker.",
+            "sentence_chinese": "請依英文句子重組。"
+          },
+          {
+            "id": "m1-1-u2-sg003",
+            "sentence": "What color is your pencil case?",
+            "sentence_chinese": "請依英文句子重組。"
+          },
+          {
+            "id": "m1-1-u2-sg004",
+            "sentence": "The mice are behind the brown sofa.",
+            "sentence_chinese": "請依英文句子重組。"
+          },
+          {
+            "id": "m1-1-u2-sg005",
+            "sentence": "My parents are in the living room.",
+            "sentence_chinese": "請依英文句子重組。"
+          },
+          {
+            "id": "m1-1-u2-sg006",
+            "sentence": "The gift is inside the pencil case.",
+            "sentence_chinese": "請依英文句子重組。"
+          },
+          {
+            "id": "m1-1-u2-sg007",
+            "sentence": "Those notebooks are for the students.",
+            "sentence_chinese": "請依英文句子重組。"
+          },
+          {
+            "id": "m1-1-u2-sg008",
+            "sentence": "The bathroom is next to my bedroom.",
+            "sentence_chinese": "請依英文句子重組。"
+          },
+          {
+            "id": "m1-1-u2-sg009",
+            "sentence": "The cat is under the dining table.",
+            "sentence_chinese": "請依英文句子重組。"
+          },
+          {
+            "id": "m1-1-u2-sg010",
+            "sentence": "This brush is on the wall.",
+            "sentence_chinese": "請依英文句子重組。"
+          },
+          {
+            "id": "m1-1-u2-sg011",
+            "sentence": "The bird is above the house.",
+            "sentence_chinese": "請依英文句子重組。"
+          },
+          {
+            "id": "m1-1-u2-sg012",
+            "sentence": "Our house is near the school.",
+            "sentence_chinese": "請依英文句子重組。"
+          },
+          {
+            "id": "m1-1-u2-sg013",
+            "sentence": "The chair is between two tables.",
+            "sentence_chinese": "請依英文句子重組。"
+          },
+          {
+            "id": "m1-1-u2-sg014",
+            "sentence": "The bus is in front of the park.",
+            "sentence_chinese": "請依英文句子重組。"
+          },
+          {
+            "id": "m1-1-u2-sg015",
+            "sentence": "Maybe the baby is hungry.",
+            "sentence_chinese": "請依英文句子重組。"
+          },
+          {
+            "id": "m1-1-u2-sg016",
+            "sentence": "These are special gifts for you.",
+            "sentence_chinese": "請依英文句子重組。"
+          },
+          {
+            "id": "m1-1-u2-sg017",
+            "sentence": "One person is in the kitchen.",
+            "sentence_chinese": "請依英文句子重組。"
+          },
+          {
+            "id": "m1-1-u2-sg018",
+            "sentence": "The gray cat is behind the door.",
+            "sentence_chinese": "請依英文句子重組。"
+          },
+          {
+            "id": "m1-1-u2-sg019",
+            "sentence": "Those brown boxes are very big.",
+            "sentence_chinese": "請依英文句子重組。"
+          },
+          {
+            "id": "m1-1-u2-sg020",
+            "sentence": "What are these on the sofa?",
+            "sentence_chinese": "請依英文句子重組。"
+          },
+          {
+            "id": "m1-1-u2-sg021",
+            "sentence": "They are my new notebooks.",
+            "sentence_chinese": "請依英文句子重組。"
+          },
+          {
+            "id": "m1-1-u2-sg022",
+            "sentence": "The markers are in my pencil case.",
+            "sentence_chinese": "請依英文句子重組。"
+          },
+          {
+            "id": "m1-1-u2-sg023",
+            "sentence": "My favorite color is purple.",
+            "sentence_chinese": "請依英文句子重組。"
+          },
+          {
+            "id": "m1-1-u2-sg024",
+            "sentence": "The dog is at Naomi's house.",
+            "sentence_chinese": "請依英文句子重組。"
+          },
+          {
+            "id": "m1-1-u2-sg025",
+            "sentence": "The cookies are enough for everyone.",
+            "sentence_chinese": "請依英文句子重組。"
+          },
+          {
+            "id": "m1-1-u2-sg026",
+            "sentence": "This is a gift from my parents.",
+            "sentence_chinese": "請依英文句子重組。"
+          },
+          {
+            "id": "m1-1-u2-sg027",
+            "sentence": "The children help each other.",
+            "sentence_chinese": "請依英文句子重組。"
+          },
+          {
+            "id": "m1-1-u2-sg028",
+            "sentence": "Where is the notebook?",
+            "sentence_chinese": "請依英文句子重組。"
+          },
+          {
+            "id": "m1-1-u2-sg029",
+            "sentence": "It is on the table.",
+            "sentence_chinese": "請依英文句子重組。"
+          },
+          {
+            "id": "m1-1-u2-sg030",
+            "sentence": "The family is in the living room.",
+            "sentence_chinese": "請依英文句子重組。"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1299 @@
+{
+  "units": {
+    "m1-1-u1": {
+      "title": "U1",
+      "vocab": [
+        {
+          "id": "m1-1-u1-v001",
+          "word": "handsome",
+          "part_of_speech": "形",
+          "chinese": "英俊的",
+          "sentence": "My brother is handsome.",
+          "sentence_chinese": "我哥哥很英俊。"
+        },
+        {
+          "id": "m1-1-u1-v002",
+          "word": "new",
+          "part_of_speech": "形",
+          "chinese": "新的",
+          "sentence": "She is my new classmate.",
+          "sentence_chinese": "她是我的新同學。"
+        },
+        {
+          "id": "m1-1-u1-v003",
+          "word": "classmate",
+          "part_of_speech": "名",
+          "chinese": "同學",
+          "sentence": "Ben is a kind classmate.",
+          "sentence_chinese": "Ben 是一位親切的同學。"
+        },
+        {
+          "id": "m1-1-u1-v004",
+          "word": "young",
+          "part_of_speech": "形",
+          "chinese": "年輕的",
+          "sentence": "My aunt is still young.",
+          "sentence_chinese": "我阿姨仍然很年輕。"
+        },
+        {
+          "id": "m1-1-u1-v005",
+          "word": "woman",
+          "part_of_speech": "名",
+          "chinese": "女人",
+          "sentence": "That woman is my teacher.",
+          "sentence_chinese": "那位女士是我的老師。"
+        },
+        {
+          "id": "m1-1-u1-v006",
+          "word": "very",
+          "part_of_speech": "副",
+          "chinese": "非常",
+          "sentence": "My mother is very kind.",
+          "sentence_chinese": "我媽媽非常親切。"
+        },
+        {
+          "id": "m1-1-u1-v007",
+          "word": "beautiful",
+          "part_of_speech": "形",
+          "chinese": "美麗的",
+          "sentence": "The girl is beautiful.",
+          "sentence_chinese": "那個女孩很美麗。"
+        },
+        {
+          "id": "m1-1-u1-v008",
+          "word": "too",
+          "part_of_speech": "副",
+          "chinese": "也",
+          "sentence": "I am a student, too.",
+          "sentence_chinese": "我也是學生。"
+        },
+        {
+          "id": "m1-1-u1-v009",
+          "word": "Nice to meet you.",
+          "part_of_speech": "片",
+          "chinese": "很高興認識你",
+          "sentence": "Nice to meet you, Tina.",
+          "sentence_chinese": "很高興認識你，蒂娜。"
+        },
+        {
+          "id": "m1-1-u1-v010",
+          "word": "cousin",
+          "part_of_speech": "名",
+          "chinese": "堂表兄弟姊妹",
+          "sentence": "Amy is my cousin.",
+          "sentence_chinese": "艾咪是我的表妹。"
+        },
+        {
+          "id": "m1-1-u1-v011",
+          "word": "really",
+          "part_of_speech": "副",
+          "chinese": "真的",
+          "sentence": "He is really funny.",
+          "sentence_chinese": "他真的很有趣。"
+        },
+        {
+          "id": "m1-1-u1-v012",
+          "word": "year(s) old",
+          "part_of_speech": "片",
+          "chinese": "…… 歲",
+          "sentence": "My sister is twelve years old.",
+          "sentence_chinese": "我妹妹十二歲。"
+        },
+        {
+          "id": "m1-1-u1-v013",
+          "word": "I see.",
+          "part_of_speech": "片",
+          "chinese": "我知道了",
+          "sentence": "I see. She is your sister.",
+          "sentence_chinese": "我知道了。她是你妹妹。"
+        },
+        {
+          "id": "m1-1-u1-v014",
+          "word": "singer",
+          "part_of_speech": "名",
+          "chinese": "歌手",
+          "sentence": "Jay is a famous singer.",
+          "sentence_chinese": "周杰倫是一位知名歌手。"
+        },
+        {
+          "id": "m1-1-u1-v015",
+          "word": "office worker",
+          "part_of_speech": "名",
+          "chinese": "上班族",
+          "sentence": "My dad is an office worker.",
+          "sentence_chinese": "我爸爸是上班族。"
+        },
+        {
+          "id": "m1-1-u1-v016",
+          "word": "housewife",
+          "part_of_speech": "名",
+          "chinese": "家庭主婦",
+          "sentence": "My mom is a housewife.",
+          "sentence_chinese": "我媽媽是家庭主婦。"
+        },
+        {
+          "id": "m1-1-u1-v017",
+          "word": "police officer",
+          "part_of_speech": "名",
+          "chinese": "警察",
+          "sentence": "His uncle is a police officer.",
+          "sentence_chinese": "他叔叔是一名警察。"
+        },
+        {
+          "id": "m1-1-u1-v018",
+          "word": "writer",
+          "part_of_speech": "名",
+          "chinese": "作家",
+          "sentence": "Her aunt is a writer.",
+          "sentence_chinese": "她阿姨是一位作家。"
+        },
+        {
+          "id": "m1-1-u1-v019",
+          "word": "uncle",
+          "part_of_speech": "名",
+          "chinese": "叔伯；舅舅",
+          "sentence": "My uncle is tall.",
+          "sentence_chinese": "我叔叔很高。"
+        },
+        {
+          "id": "m1-1-u1-v020",
+          "word": "aunt",
+          "part_of_speech": "名",
+          "chinese": "阿姨；姑姑",
+          "sentence": "My aunt is very nice.",
+          "sentence_chinese": "我阿姨非常親切。"
+        },
+        {
+          "id": "m1-1-u1-v021",
+          "word": "wife",
+          "part_of_speech": "名",
+          "chinese": "妻子",
+          "sentence": "Mrs. Wang is Mr. Wang's wife.",
+          "sentence_chinese": "王太太是王先生的妻子。"
+        },
+        {
+          "id": "m1-1-u1-v022",
+          "word": "daughter",
+          "part_of_speech": "名",
+          "chinese": "女兒",
+          "sentence": "Lisa is their daughter.",
+          "sentence_chinese": "麗莎是他們的女兒。"
+        },
+        {
+          "id": "m1-1-u1-v023",
+          "word": "husband",
+          "part_of_speech": "名",
+          "chinese": "丈夫",
+          "sentence": "Her husband is a doctor.",
+          "sentence_chinese": "她的丈夫是醫生。"
+        },
+        {
+          "id": "m1-1-u1-v024",
+          "word": "son",
+          "part_of_speech": "名",
+          "chinese": "兒子",
+          "sentence": "Their son is six years old.",
+          "sentence_chinese": "他們的兒子六歲。"
+        },
+        {
+          "id": "m1-1-u1-v025",
+          "word": "dear",
+          "part_of_speech": "形",
+          "chinese": "親愛的",
+          "sentence": "Dear Mom, thank you.",
+          "sentence_chinese": "親愛的媽媽，謝謝你。"
+        },
+        {
+          "id": "m1-1-u1-v026",
+          "word": "family",
+          "part_of_speech": "名",
+          "chinese": "家庭；家人",
+          "sentence": "My family is happy.",
+          "sentence_chinese": "我的家庭很幸福。"
+        },
+        {
+          "id": "m1-1-u1-v027",
+          "word": "elementary school",
+          "part_of_speech": "名",
+          "chinese": "國小",
+          "sentence": "My brother is in elementary school.",
+          "sentence_chinese": "我弟弟讀國小。"
+        },
+        {
+          "id": "m1-1-u1-v028",
+          "word": "junior high school",
+          "part_of_speech": "名",
+          "chinese": "國中",
+          "sentence": "I am a junior high school student.",
+          "sentence_chinese": "我是國中生。"
+        },
+        {
+          "id": "m1-1-u1-v029",
+          "word": "baby",
+          "part_of_speech": "名／形",
+          "chinese": "嬰兒；年幼的",
+          "sentence": "The baby is very cute.",
+          "sentence_chinese": "那個嬰兒非常可愛。"
+        }
+      ],
+      "phrases": [],
+      "grammar": {
+        "tips": [
+          {
+            "label": "名詞所有格",
+            "text": "單數名詞通常加 's；以 s 結尾的複數名詞只加 '；不規則複數仍加 's。"
+          },
+          {
+            "label": "共同與分別所有",
+            "text": "A and B's 表示共同擁有；A's and B's 表示兩人分別擁有。"
+          },
+          {
+            "label": "be 動詞",
+            "text": "I 搭配 am，單數搭配 is，you 或複數搭配 are；否定時在 be 後加 not。"
+          },
+          {
+            "label": "問句",
+            "text": "一般問句把 be 移到句首；詢問人物時使用 Who + be + 主詞？"
+          }
+        ],
+        "notes": [
+          {
+            "title": "一般名詞的所有格",
+            "rule": "單數名詞加 's；以 s 結尾的複數名詞只加 '；不以 s 結尾的不規則複數加 's。",
+            "description": "所有格表示人與事物的所屬關係。兩人共同擁有時，只在第二個名字後加 's；分別擁有時，兩個名字都加 's。",
+            "examples": [
+              "Peter's book is new.",
+              "The boys' jackets are blue.",
+              "The women's bags are here.",
+              "Ruby and Kate's brother is Fred.",
+              "Amy's and Ella's aunts are friends."
+            ]
+          },
+          {
+            "title": "含 be 動詞的直述句與否定句",
+            "rule": "主詞 + am / are / is + 名詞或形容詞；否定句在 be 後加 not。",
+            "description": "am not 不可縮寫；is not 可縮寫為 isn't，are not 可縮寫為 aren't。",
+            "examples": [
+              "I am a student.",
+              "My mother is beautiful.",
+              "He isn't an office worker.",
+              "They aren't classmates."
+            ]
+          },
+          {
+            "title": "be 動詞的一般問句與答句",
+            "rule": "Be 動詞 + 主詞 + 名詞或形容詞？",
+            "description": "把直述句的 be 動詞移到句首。肯定簡答不可縮寫；否定簡答可使用 isn't 或 aren't。",
+            "examples": [
+              "Is Helen a writer? Yes, she is.",
+              "Are they cousins? No, they aren't.",
+              "Am I your new classmate? Yes, you are."
+            ]
+          },
+          {
+            "title": "否定疑問句",
+            "rule": "Isn't / Aren't + 主詞 + 名詞或形容詞？",
+            "description": "否定疑問句常用來確認原先的想法；回答仍依實際情況使用 Yes 或 No。",
+            "examples": [
+              "Isn't he your uncle? Yes, he is.",
+              "Aren't they students? No, they aren't."
+            ]
+          },
+          {
+            "title": "以 who 為首的問句",
+            "rule": "Who + am / are / is + 主詞？",
+            "description": "who 用來詢問姓名、身分或關係。回答可使用姓名、職業、關係，或以同位語同時補充姓名與關係。",
+            "examples": [
+              "Who's she? She is Miranda.",
+              "Who's he? He's my English teacher.",
+              "Who is the girl? She is my sister Sandy."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "id": "m1-1-u1-q001",
+            "question": "That is ______ book.",
+            "options": [
+              "A. Amy's",
+              "B. Amy",
+              "C. Amys",
+              "D. Amys'"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "book 屬於 Amy；單數人名後加 's。"
+          },
+          {
+            "id": "m1-1-u1-q002",
+            "question": "This is ______ car.",
+            "options": [
+              "A. my uncle",
+              "B. my uncle's",
+              "C. my uncles",
+              "D. my uncles'"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "car 屬於一位叔叔；單數名詞 uncle 後加 's。"
+          },
+          {
+            "id": "m1-1-u1-q003",
+            "question": "Those are ______ bags.",
+            "options": [
+              "A. the boy's",
+              "B. the boys",
+              "C. the boys'",
+              "D. the boys's"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "bags 屬於多位男孩；boys 已以 s 結尾，只加 '。"
+          },
+          {
+            "id": "m1-1-u1-q004",
+            "question": "This is ______ room.",
+            "options": [
+              "A. the woman",
+              "B. the women",
+              "C. the womens'",
+              "D. the women's"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "women 是不規則複數，所有格仍加 's。"
+          },
+          {
+            "id": "m1-1-u1-q005",
+            "question": "Fred is ______ brother.",
+            "options": [
+              "A. Ruby and Kate's",
+              "B. Ruby's and Kate",
+              "C. Ruby's and Kate's",
+              "D. Ruby and Kate"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "Fred 是兩人共同的哥哥，所以只在第二個名字 Kate 後加 's。"
+          },
+          {
+            "id": "m1-1-u1-q006",
+            "question": "______ aunts are very good friends.",
+            "options": [
+              "A. Amy and Ella's",
+              "B. Amy's and Ella's",
+              "C. Amy's and Ella",
+              "D. Amy and Ella"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "兩人各自的阿姨要在 Amy 與 Ella 後都加 's。"
+          },
+          {
+            "id": "m1-1-u1-q007",
+            "question": "That is ______ house.",
+            "options": [
+              "A. my parent's",
+              "B. my parents",
+              "C. my parents'",
+              "D. my parents's"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "house 屬於雙親；parents 已以 s 結尾，只加 '。"
+          },
+          {
+            "id": "m1-1-u1-q008",
+            "question": "These are ______ toys.",
+            "options": [
+              "A. the baby's",
+              "B. the babies",
+              "C. the babies's",
+              "D. the babies'"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "toys 屬於多名嬰兒；babies 已以 s 結尾，只加 '。"
+          },
+          {
+            "id": "m1-1-u1-q009",
+            "question": "This is ______ office.",
+            "options": [
+              "A. the police officer's",
+              "B. the police officer",
+              "C. the police officers",
+              "D. the police officers'"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "office 屬於一名警察；單數名詞後加 's。"
+          },
+          {
+            "id": "m1-1-u1-q010",
+            "question": "These are ______ books.",
+            "options": [
+              "A. the student's",
+              "B. the students'",
+              "C. the students",
+              "D. the students's"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "books 屬於多名學生；students 已以 s 結尾，只加 '。"
+          },
+          {
+            "id": "m1-1-u1-q011",
+            "question": "That is ______ daughter.",
+            "options": [
+              "A. Mr. Lin",
+              "B. Mr. Lins",
+              "C. Mr. Lin's",
+              "D. Mr. Lins'"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "daughter 與 Mr. Lin 是所屬關係，人名後加 's。"
+          },
+          {
+            "id": "m1-1-u1-q012",
+            "question": "My ______ names are Tim and Tina.",
+            "options": [
+              "A. cousin's",
+              "B. cousins",
+              "C. cousins's",
+              "D. cousins'"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "names 屬於多位表兄弟姊妹；cousins 已以 s 結尾，只加 '。"
+          },
+          {
+            "id": "m1-1-u1-q013",
+            "question": "I ______ a junior high school student.",
+            "options": [
+              "A. am",
+              "B. is",
+              "C. are",
+              "D. be"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "主詞 I 固定搭配 am。"
+          },
+          {
+            "id": "m1-1-u1-q014",
+            "question": "My new classmate ______ very young.",
+            "options": [
+              "A. am",
+              "B. is",
+              "C. are",
+              "D. be"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "My new classmate 是單數主詞，搭配 is。"
+          },
+          {
+            "id": "m1-1-u1-q015",
+            "question": "The two women ______ office workers.",
+            "options": [
+              "A. am",
+              "B. is",
+              "C. are",
+              "D. be"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "The two women 是複數主詞，搭配 are。"
+          },
+          {
+            "id": "m1-1-u1-q016",
+            "question": "My family ______ very happy.",
+            "options": [
+              "A. am",
+              "B. are",
+              "C. be",
+              "D. is"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "family 在此視為一個家庭，是單數主詞，搭配 is。"
+          },
+          {
+            "id": "m1-1-u1-q017",
+            "question": "You ______ my dear friend.",
+            "options": [
+              "A. are",
+              "B. am",
+              "C. is",
+              "D. be"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "主詞 you 搭配 are。"
+          },
+          {
+            "id": "m1-1-u1-q018",
+            "question": "The baby ______ two years old.",
+            "options": [
+              "A. am",
+              "B. is",
+              "C. are",
+              "D. be"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "The baby 是單數主詞，搭配 is。"
+          },
+          {
+            "id": "m1-1-u1-q019",
+            "question": "My aunt ______ a singer; she is a writer.",
+            "options": [
+              "A. aren't",
+              "B. am not",
+              "C. isn't",
+              "D. not is"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "My aunt 是單數；否定式使用 is not 或 isn't。"
+          },
+          {
+            "id": "m1-1-u1-q020",
+            "question": "We ______ classmates; we are cousins.",
+            "options": [
+              "A. isn't",
+              "B. am not",
+              "C. not are",
+              "D. aren't"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "主詞 We 搭配 are；否定縮寫是 aren't。"
+          },
+          {
+            "id": "m1-1-u1-q021",
+            "question": "______ I your new classmate?",
+            "options": [
+              "A. Am",
+              "B. Is",
+              "C. Are",
+              "D. Be"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "一般問句把 be 動詞移到句首；I 搭配 Am。"
+          },
+          {
+            "id": "m1-1-u1-q022",
+            "question": "______ your father an office worker?",
+            "options": [
+              "A. Am",
+              "B. Is",
+              "C. Are",
+              "D. Be"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "your father 是單數主詞，所以問句以 Is 開頭。"
+          },
+          {
+            "id": "m1-1-u1-q023",
+            "question": "______ Kevin and Ben your cousins?",
+            "options": [
+              "A. Am",
+              "B. Is",
+              "C. Are",
+              "D. Be"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "Kevin and Ben 是複數主詞，所以問句以 Are 開頭。"
+          },
+          {
+            "id": "m1-1-u1-q024",
+            "question": "Is Lisa a police officer? Yes, ______.",
+            "options": [
+              "A. she's",
+              "B. she isn't",
+              "C. she does",
+              "D. she is"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "be 動詞問句的肯定簡答為 Yes, she is；此處不可縮寫成 she's。"
+          },
+          {
+            "id": "m1-1-u1-q025",
+            "question": "Is Mr. Lin a writer? No, ______.",
+            "options": [
+              "A. he isn't",
+              "B. he is",
+              "C. he doesn't",
+              "D. he not"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "Is 開頭的否定簡答可用 No, he isn't。"
+          },
+          {
+            "id": "m1-1-u1-q026",
+            "question": "Who ______ that beautiful woman?",
+            "options": [
+              "A. am",
+              "B. is",
+              "C. are",
+              "D. be"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "that beautiful woman 是單數，Who 問句使用 is。"
+          },
+          {
+            "id": "m1-1-u1-q027",
+            "question": "Who ______ those young boys?",
+            "options": [
+              "A. am",
+              "B. is",
+              "C. are",
+              "D. be"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "those young boys 是複數，Who 問句使用 are。"
+          },
+          {
+            "id": "m1-1-u1-q028",
+            "question": "Who ______ your new classmate?",
+            "options": [
+              "A. am",
+              "B. are",
+              "C. be",
+              "D. is"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "your new classmate 是單數，Who 問句使用 is。"
+          },
+          {
+            "id": "m1-1-u1-q029",
+            "question": "Who's she? ______",
+            "options": [
+              "A. She's my aunt.",
+              "B. She's very young.",
+              "C. Yes, she is.",
+              "D. No, she isn't."
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "Who's she? 詢問身分或關係；She's my aunt 直接回答關係。"
+          },
+          {
+            "id": "m1-1-u1-q030",
+            "question": "Who's Mr. Chen? ______",
+            "options": [
+              "A. He's very handsome.",
+              "B. He's our English teacher.",
+              "C. Yes, he is.",
+              "D. No, he isn't."
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "Who's Mr. Chen? 詢問身分；He's our English teacher 回答其身分。"
+          },
+          {
+            "id": "m1-1-u1-q031",
+            "question": "Isn't Jack your cousin? Yes, ______.",
+            "options": [
+              "A. he isn't",
+              "B. he's",
+              "C. he is",
+              "D. he does"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "依實際肯定情況回答 Yes, he is；即使問句是否定形式，肯定簡答不變。"
+          },
+          {
+            "id": "m1-1-u1-q032",
+            "question": "Aren't Amy and Tina students? No, ______.",
+            "options": [
+              "A. they are",
+              "B. they don't",
+              "C. they not",
+              "D. they aren't"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "複數主詞的否定簡答為 No, they aren't。"
+          },
+          {
+            "id": "m1-1-u1-q033",
+            "question": "Who ______ Tom's mom and dad?",
+            "options": [
+              "A. are",
+              "B. am",
+              "C. is",
+              "D. be"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "Tom's mom and dad 指兩個人，是複數主詞，使用 are。"
+          },
+          {
+            "id": "m1-1-u1-q034",
+            "question": "Who ______ the handsome boy over there?",
+            "options": [
+              "A. am",
+              "B. is",
+              "C. are",
+              "D. be"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "the handsome boy 是單數主詞，使用 is。"
+          },
+          {
+            "id": "m1-1-u1-q035",
+            "question": "My mother and father ______ office workers.",
+            "options": [
+              "A. am",
+              "B. is",
+              "C. are",
+              "D. be"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "My mother and father 是兩個人，搭配 are。"
+          },
+          {
+            "id": "m1-1-u1-q036",
+            "question": "The writer ______ young.",
+            "options": [
+              "A. aren't",
+              "B. am not",
+              "C. don't",
+              "D. isn't"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "The writer 是單數主詞；be 動詞的否定式使用 isn't。"
+          },
+          {
+            "id": "m1-1-u1-q037",
+            "question": "This woman and that man ______ my aunt and uncle.",
+            "options": [
+              "A. are",
+              "B. am",
+              "C. is",
+              "D. be"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "This woman and that man 是複數主詞，搭配 are。"
+          },
+          {
+            "id": "m1-1-u1-q038",
+            "question": "______ your wife a housewife?",
+            "options": [
+              "A. Aren't",
+              "B. Isn't",
+              "C. Doesn't",
+              "D. Don't"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "your wife 是單數，be 動詞的否定疑問句以 Isn't 開頭。"
+          },
+          {
+            "id": "m1-1-u1-q039",
+            "question": "My ______ daughter is my cousin.",
+            "options": [
+              "A. aunt",
+              "B. aunts",
+              "C. aunt's",
+              "D. aunts'"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "daughter 屬於一位阿姨；單數 aunt 後加 's。"
+          },
+          {
+            "id": "m1-1-u1-q040",
+            "question": "The ______ teacher is a beautiful woman.",
+            "options": [
+              "A. boy's",
+              "B. boys",
+              "C. boys's",
+              "D. boys'"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "teacher 屬於多位男孩；boys 已以 s 結尾，只加 '。"
+          },
+          {
+            "id": "m1-1-u1-q041",
+            "question": "Peter and Amy's mother ______ an office worker.",
+            "options": [
+              "A. is",
+              "B. am",
+              "C. are",
+              "D. be"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "共同的 mother 是單數主詞，因此搭配 is。"
+          },
+          {
+            "id": "m1-1-u1-q042",
+            "question": "Peter's and Amy's mothers ______ good friends.",
+            "options": [
+              "A. am",
+              "B. are",
+              "C. is",
+              "D. be"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "兩人各自的 mothers 是複數主詞，因此搭配 are。"
+          },
+          {
+            "id": "m1-1-u1-q043",
+            "question": "Dear Amy, this ______ my family.",
+            "options": [
+              "A. am",
+              "B. are",
+              "C. is",
+              "D. be"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "this 是單數主詞，搭配 is。"
+          },
+          {
+            "id": "m1-1-u1-q044",
+            "question": "How old ______ your son?",
+            "options": [
+              "A. am",
+              "B. are",
+              "C. be",
+              "D. is"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "your son 是單數主詞，使用 is。"
+          },
+          {
+            "id": "m1-1-u1-q045",
+            "question": "My baby sister ______ one year old.",
+            "options": [
+              "A. is",
+              "B. am",
+              "C. are",
+              "D. be"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "My baby sister 是單數主詞，搭配 is。"
+          },
+          {
+            "id": "m1-1-u1-q046",
+            "question": "Who ______ your cousins?",
+            "options": [
+              "A. am",
+              "B. are",
+              "C. is",
+              "D. be"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "your cousins 是複數主詞，Who 問句使用 are。"
+          },
+          {
+            "id": "m1-1-u1-q047",
+            "question": "No, she ______ my classmate.",
+            "options": [
+              "A. aren't",
+              "B. doesn't",
+              "C. isn't",
+              "D. not is"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "she 是單數主詞；be 動詞的否定縮寫是 isn't。"
+          },
+          {
+            "id": "m1-1-u1-q048",
+            "question": "Are you a junior high school student? Yes, ______.",
+            "options": [
+              "A. I'm",
+              "B. I are",
+              "C. I do",
+              "D. I am"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "Are you...? 的肯定簡答為 Yes, I am；簡答中的 be 動詞不可縮寫。"
+          },
+          {
+            "id": "m1-1-u1-q049",
+            "question": "______ your uncle a writer?",
+            "options": [
+              "A. Is",
+              "B. Am",
+              "C. Are",
+              "D. Be"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "your uncle 是單數主詞，所以一般問句以 Is 開頭。"
+          },
+          {
+            "id": "m1-1-u1-q050",
+            "question": "Who ______ that beautiful woman and the young girl?",
+            "options": [
+              "A. am",
+              "B. are",
+              "C. is",
+              "D. be"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "woman and girl 指兩個人，是複數主詞，使用 are。"
+          }
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          {
+            "id": "m1-1-u1-sv001",
+            "vocab_id": "m1-1-u1-v001",
+            "sentence": "My brother is handsome.",
+            "sentence_chinese": "我哥哥很英俊。"
+          },
+          {
+            "id": "m1-1-u1-sv002",
+            "vocab_id": "m1-1-u1-v002",
+            "sentence": "She is my new classmate.",
+            "sentence_chinese": "她是我的新同學。"
+          },
+          {
+            "id": "m1-1-u1-sv003",
+            "vocab_id": "m1-1-u1-v003",
+            "sentence": "Ben is a kind classmate.",
+            "sentence_chinese": "班是一位親切的同學。"
+          },
+          {
+            "id": "m1-1-u1-sv004",
+            "vocab_id": "m1-1-u1-v004",
+            "sentence": "My aunt is still young.",
+            "sentence_chinese": "我阿姨仍然很年輕。"
+          },
+          {
+            "id": "m1-1-u1-sv005",
+            "vocab_id": "m1-1-u1-v005",
+            "sentence": "That woman is my teacher.",
+            "sentence_chinese": "那位女士是我的老師。"
+          },
+          {
+            "id": "m1-1-u1-sv006",
+            "vocab_id": "m1-1-u1-v006",
+            "sentence": "My mother is very kind.",
+            "sentence_chinese": "我媽媽非常親切。"
+          },
+          {
+            "id": "m1-1-u1-sv007",
+            "vocab_id": "m1-1-u1-v007",
+            "sentence": "The girl is beautiful.",
+            "sentence_chinese": "那個女孩很美麗。"
+          },
+          {
+            "id": "m1-1-u1-sv008",
+            "vocab_id": "m1-1-u1-v008",
+            "sentence": "I am a student, too.",
+            "sentence_chinese": "我也是學生。"
+          },
+          {
+            "id": "m1-1-u1-sv009",
+            "vocab_id": "m1-1-u1-v009",
+            "sentence": "Nice to meet you, Tina.",
+            "sentence_chinese": "很高興認識你，蒂娜。"
+          },
+          {
+            "id": "m1-1-u1-sv010",
+            "vocab_id": "m1-1-u1-v010",
+            "sentence": "Amy is my cousin.",
+            "sentence_chinese": "艾咪是我的表妹。"
+          },
+          {
+            "id": "m1-1-u1-sv011",
+            "vocab_id": "m1-1-u1-v011",
+            "sentence": "He is really funny.",
+            "sentence_chinese": "他真的很有趣。"
+          },
+          {
+            "id": "m1-1-u1-sv012",
+            "vocab_id": "m1-1-u1-v012",
+            "sentence": "My sister is twelve years old.",
+            "sentence_chinese": "我妹妹十二歲。"
+          },
+          {
+            "id": "m1-1-u1-sv013",
+            "vocab_id": "m1-1-u1-v013",
+            "sentence": "I see. She is your sister.",
+            "sentence_chinese": "我知道了。她是你妹妹。"
+          },
+          {
+            "id": "m1-1-u1-sv014",
+            "vocab_id": "m1-1-u1-v014",
+            "sentence": "Jay is a famous singer.",
+            "sentence_chinese": "周杰倫是一位知名歌手。"
+          },
+          {
+            "id": "m1-1-u1-sv015",
+            "vocab_id": "m1-1-u1-v015",
+            "sentence": "My dad is an office worker.",
+            "sentence_chinese": "我爸爸是上班族。"
+          },
+          {
+            "id": "m1-1-u1-sv016",
+            "vocab_id": "m1-1-u1-v016",
+            "sentence": "My mom is a housewife.",
+            "sentence_chinese": "我媽媽是家庭主婦。"
+          },
+          {
+            "id": "m1-1-u1-sv017",
+            "vocab_id": "m1-1-u1-v017",
+            "sentence": "His uncle is a police officer.",
+            "sentence_chinese": "他叔叔是一名警察。"
+          },
+          {
+            "id": "m1-1-u1-sv018",
+            "vocab_id": "m1-1-u1-v018",
+            "sentence": "Her aunt is a writer.",
+            "sentence_chinese": "她阿姨是一位作家。"
+          },
+          {
+            "id": "m1-1-u1-sv019",
+            "vocab_id": "m1-1-u1-v019",
+            "sentence": "My uncle is tall.",
+            "sentence_chinese": "我叔叔很高。"
+          },
+          {
+            "id": "m1-1-u1-sv020",
+            "vocab_id": "m1-1-u1-v020",
+            "sentence": "My aunt is very nice.",
+            "sentence_chinese": "我阿姨非常親切。"
+          },
+          {
+            "id": "m1-1-u1-sv021",
+            "vocab_id": "m1-1-u1-v021",
+            "sentence": "Mrs. Wang is Mr. Wang's wife.",
+            "sentence_chinese": "王太太是王先生的妻子。"
+          },
+          {
+            "id": "m1-1-u1-sv022",
+            "vocab_id": "m1-1-u1-v022",
+            "sentence": "Lisa is their daughter.",
+            "sentence_chinese": "麗莎是他們的女兒。"
+          },
+          {
+            "id": "m1-1-u1-sv023",
+            "vocab_id": "m1-1-u1-v023",
+            "sentence": "Her husband is a doctor.",
+            "sentence_chinese": "她的丈夫是醫生。"
+          },
+          {
+            "id": "m1-1-u1-sv024",
+            "vocab_id": "m1-1-u1-v024",
+            "sentence": "Their son is six years old.",
+            "sentence_chinese": "他們的兒子六歲。"
+          },
+          {
+            "id": "m1-1-u1-sv025",
+            "vocab_id": "m1-1-u1-v025",
+            "sentence": "Dear Mom, thank you.",
+            "sentence_chinese": "親愛的媽媽，謝謝你。"
+          },
+          {
+            "id": "m1-1-u1-sv026",
+            "vocab_id": "m1-1-u1-v026",
+            "sentence": "My family is happy.",
+            "sentence_chinese": "我的家庭很幸福。"
+          },
+          {
+            "id": "m1-1-u1-sv027",
+            "vocab_id": "m1-1-u1-v027",
+            "sentence": "My brother is in elementary school.",
+            "sentence_chinese": "我弟弟讀國小。"
+          },
+          {
+            "id": "m1-1-u1-sv028",
+            "vocab_id": "m1-1-u1-v028",
+            "sentence": "I am a junior high school student.",
+            "sentence_chinese": "我是國中生。"
+          },
+          {
+            "id": "m1-1-u1-sv029",
+            "vocab_id": "m1-1-u1-v029",
+            "sentence": "The baby is very cute.",
+            "sentence_chinese": "那個嬰兒非常可愛。"
+          }
+        ],
+        "phrases": [],
+        "grammar": [
+          {
+            "id": "m1-1-u1-sg001",
+            "sentence": "This is my new classmate's English book.",
+            "sentence_chinese": "這是我新同學的英文課本。"
+          },
+          {
+            "id": "m1-1-u1-sg002",
+            "sentence": "My parents are both busy office workers.",
+            "sentence_chinese": "我的父母都是忙碌的上班族。"
+          },
+          {
+            "id": "m1-1-u1-sg003",
+            "sentence": "Is your cousin a junior high school student?",
+            "sentence_chinese": "你的表哥是國中生嗎？"
+          },
+          {
+            "id": "m1-1-u1-sg004",
+            "sentence": "That beautiful woman is my English teacher.",
+            "sentence_chinese": "那位漂亮的女士是我的英文老師。"
+          },
+          {
+            "id": "m1-1-u1-sg005",
+            "sentence": "The boys' mother is still very young.",
+            "sentence_chinese": "那些男孩的媽媽仍然很年輕。"
+          },
+          {
+            "id": "m1-1-u1-sg006",
+            "sentence": "I am not a singer or writer.",
+            "sentence_chinese": "我不是歌手，也不是作家。"
+          },
+          {
+            "id": "m1-1-u1-sg007",
+            "sentence": "Are these two girls your new classmates?",
+            "sentence_chinese": "這兩個女孩是你的新同學嗎？"
+          },
+          {
+            "id": "m1-1-u1-sg008",
+            "sentence": "No, he isn't a police officer.",
+            "sentence_chinese": "不，他不是警察。"
+          },
+          {
+            "id": "m1-1-u1-sg009",
+            "sentence": "My sons' names are Kevin and Ken.",
+            "sentence_chinese": "我兒子們的名字是 Kevin 和 Ken。"
+          },
+          {
+            "id": "m1-1-u1-sg010",
+            "sentence": "Who is your handsome English teacher?",
+            "sentence_chinese": "你那位英俊的英文老師是誰？"
+          },
+          {
+            "id": "m1-1-u1-sg011",
+            "sentence": "We aren't classmates, but we are cousins.",
+            "sentence_chinese": "我們不是同學，但我們是表兄弟。"
+          },
+          {
+            "id": "m1-1-u1-sg012",
+            "sentence": "The cute baby is one year old.",
+            "sentence_chinese": "那個可愛的嬰兒 1 歲。"
+          },
+          {
+            "id": "m1-1-u1-sg013",
+            "sentence": "This is my dear uncle's new house.",
+            "sentence_chinese": "這是我親愛的叔叔的新房子。"
+          },
+          {
+            "id": "m1-1-u1-sg014",
+            "sentence": "Yes, we are cousins and good friends.",
+            "sentence_chinese": "是的，我們是表兄弟，也是好朋友。"
+          },
+          {
+            "id": "m1-1-u1-sg015",
+            "sentence": "Who is that young woman's husband?",
+            "sentence_chinese": "那位年輕女士的丈夫是誰？"
+          },
+          {
+            "id": "m1-1-u1-sg016",
+            "sentence": "Those two people are my dear parents.",
+            "sentence_chinese": "那兩個人是我親愛的父母。"
+          },
+          {
+            "id": "m1-1-u1-sg017",
+            "sentence": "My aunt isn't a singer or housewife.",
+            "sentence_chinese": "我阿姨不是歌手，也不是家庭主婦。"
+          },
+          {
+            "id": "m1-1-u1-sg018",
+            "sentence": "Her name is Lucy, my new classmate.",
+            "sentence_chinese": "她叫 Lucy，是我的新同學。"
+          },
+          {
+            "id": "m1-1-u1-sg019",
+            "sentence": "Is this your family's beautiful new car?",
+            "sentence_chinese": "這是你家的漂亮新車嗎？"
+          },
+          {
+            "id": "m1-1-u1-sg020",
+            "sentence": "The students' English books are on the desk.",
+            "sentence_chinese": "學生們的英文課本在桌上。"
+          },
+          {
+            "id": "m1-1-u1-sg021",
+            "sentence": "Is your young mother a housewife?",
+            "sentence_chinese": "你年輕的媽媽是家庭主婦嗎？"
+          },
+          {
+            "id": "m1-1-u1-sg022",
+            "sentence": "They are my new junior high classmates.",
+            "sentence_chinese": "他們是我的國中新同學。"
+          },
+          {
+            "id": "m1-1-u1-sg023",
+            "sentence": "My brother and I are both students.",
+            "sentence_chinese": "我哥哥和我都是學生。"
+          },
+          {
+            "id": "m1-1-u1-sg024",
+            "sentence": "Who is the baby's young mother?",
+            "sentence_chinese": "那個嬰兒年輕的媽媽是誰？"
+          },
+          {
+            "id": "m1-1-u1-sg025",
+            "sentence": "Tom and Amy's dog is very cute.",
+            "sentence_chinese": "Tom 和 Amy 共有的狗非常可愛。"
+          },
+          {
+            "id": "m1-1-u1-sg026",
+            "sentence": "The women are our new English teachers.",
+            "sentence_chinese": "那些女士是我們的新英文老師。"
+          },
+          {
+            "id": "m1-1-u1-sg027",
+            "sentence": "He is my dear father, Mr. Lin.",
+            "sentence_chinese": "他是我親愛的爸爸林先生。"
+          },
+          {
+            "id": "m1-1-u1-sg028",
+            "sentence": "My parents' names are Jack and May.",
+            "sentence_chinese": "我父母的名字是 Jack 和 May。"
+          },
+          {
+            "id": "m1-1-u1-sg029",
+            "sentence": "Isn't she your beautiful new classmate?",
+            "sentence_chinese": "她不是你漂亮的新同學嗎？"
+          },
+          {
+            "id": "m1-1-u1-sg030",
+            "sentence": "No, they aren't famous singers or writers.",
+            "sentence_chinese": "不，他們不是知名的歌手或作家。"
+          }
+        ]
+      }
+    }
+  }
+}
