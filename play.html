@@ -1602,7 +1602,9 @@
         const GAME_BASE = 'https://studentgames.pages.dev';
         const CentralGamesMode = ({ allWords, grammarData, unitTitle, onBack }) => {
             const [loading, setLoading] = useState(true);
+            const [showHeader, setShowHeader] = useState(true);
             const backButtonRef = useRef(null);
+            const centralFrameRef = useRef(null);
             const payload = encodeURIComponent(JSON.stringify({
                 unitTitle,
                 words: allWords,
@@ -1616,17 +1618,28 @@
                 return () => { document.body.style.overflow = previousOverflow; };
             }, []);
 
+            useEffect(() => {
+                const handleCentralView = (event) => {
+                    if (event.origin !== GAME_BASE || event.source !== centralFrameRef.current?.contentWindow || event.data?.type !== 'CENTRAL_GAMES_VIEW') return;
+                    setShowHeader(event.data.view !== 'game');
+                };
+                window.addEventListener('message', handleCentralView);
+                return () => window.removeEventListener('message', handleCentralView);
+            }, []);
+
             return (
                 <div className="fixed inset-0 z-[100] flex flex-col bg-slate-950" role="dialog" aria-modal="true" aria-label="新版遊戲">
-                    <div className="shrink-0 flex items-center justify-between gap-3 border-b border-slate-700 bg-slate-900 px-3 pb-2"
-                        style={{ paddingTop: 'max(8px, env(safe-area-inset-top))' }}>
-                        <button ref={backButtonRef} type="button" onClick={onBack}
-                            className="min-h-[44px] rounded-xl px-3 text-sm font-black text-white bg-slate-800 border border-slate-600 hover:bg-slate-700 active:scale-95 transition motion-reduce:transform-none motion-reduce:transition-none flex items-center gap-1.5 focus:outline-none focus:ring-2 focus:ring-cyan-300"
-                            aria-label="離開新版遊戲，返回學生教材">
-                            <ChevronLeft className="w-5 h-5" /> 返回教材
-                        </button>
-                        <span className="text-xs font-bold text-slate-400" aria-hidden="true">中央遊戲站</span>
-                    </div>
+                    {showHeader && (
+                        <div className="shrink-0 flex items-center justify-between gap-3 border-b border-slate-700 bg-slate-900 px-3 pb-2"
+                            style={{ paddingTop: 'max(8px, env(safe-area-inset-top))' }}>
+                            <button ref={backButtonRef} type="button" onClick={onBack}
+                                className="min-h-[44px] rounded-xl px-3 text-sm font-black text-white bg-slate-800 border border-slate-600 hover:bg-slate-700 active:scale-95 transition motion-reduce:transform-none motion-reduce:transition-none flex items-center gap-1.5 focus:outline-none focus:ring-2 focus:ring-cyan-300"
+                                aria-label="離開新版遊戲，返回學生教材">
+                                <ChevronLeft className="w-5 h-5" /> 返回教材
+                            </button>
+                            <span className="text-xs font-bold text-slate-400" aria-hidden="true">中央遊戲站</span>
+                        </div>
+                    )}
                     <div className="relative min-h-0 flex-1 bg-[#06101f]">
                         {loading && (
                             <div className="absolute inset-0 flex items-center justify-center gap-3 text-slate-300 font-bold" role="status">
@@ -1634,6 +1647,7 @@
                             </div>
                         )}
                         <iframe
+                            ref={centralFrameRef}
                             title="中央英文單字遊戲站"
                             src={`${GAME_BASE}/#lessonData=${payload}`}
                             className="absolute inset-0 h-full w-full border-0 bg-[#06101f]"
