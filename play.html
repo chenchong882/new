@@ -356,6 +356,8 @@
             };
             const handleSolve = () => {
                 if (feedback === 'correct' || feedback === 'no_score_hints' || feedback === 'no_score_solved' || feedback === 'no_score_errors') return;
+                const currentItem = quizItems[currentQIndex];
+                if (!currentItem || !window.confirm("確定要查看答案嗎？查看後這題將不計分。")) return;
                 let tempPool = [...poolLetters, ...currentLetters];
                 const solution = [];
                 const remainingPool = [...tempPool];
@@ -366,6 +368,9 @@
                 setCurrentLetters(solution);
                 setPoolLetters(remainingPool);
                 setSolvedByCheat(true);
+                const newHist = [...scoreHistoryRef.current, { word: currentItem.word, scored: false, reason: 'solved' }];
+                scoreHistoryRef.current = newHist;
+                setScoreHistory(newHist);
                 setFeedback('no_score_solved');
             };
 
