@@ -1,0 +1,39 @@
+{
+  "units": {
+    "h1-3-u4": {
+      "title": "U4",
+      "vocab": [
+        {"id":"h1-3-u4-v001","word":"custom","part_of_speech":"名","chinese":"習慣；傳統","sentence":"Giving red envelopes is an important custom during the Lunar New Year.","sentence_chinese":"農曆新年期間送紅包是一項重要傳統。"},
+        {"id":"h1-3-u4-v002","word":"exchange","part_of_speech":"動；名","chinese":"交換","sentence":"At the Christmas party, students happily exchanged gifts and had a good time.","sentence_chinese":"在聖誕派對上，學生們開心地交換禮物，度過了愉快的時光。"},
+        {"id":"h1-3-u4-v003","word":"greeting","part_of_speech":"名","chinese":"問候；招呼","sentence":"Teresa waved her hand in greeting when her brother got out of the train station.","sentence_chinese":"Teresa 的哥哥走出火車站時，她揮手向他打招呼。"},
+        {"id":"h1-3-u4-v004","word":"attend","part_of_speech":"動","chinese":"出席；參加","sentence":"Many students attended the school ceremony yesterday.","sentence_chinese":"昨天有許多學生參加學校典禮。"},
+        {"id":"h1-3-u4-v005","word":"ceremony","part_of_speech":"名","chinese":"典禮；儀式","sentence":"The principal delivered an inspiring speech at the graduation ceremony.","sentence_chinese":"校長在畢業典禮上發表了一場激勵人心的演講。"},
+        {"id":"h1-3-u4-v006","word":"error","part_of_speech":"名","chinese":"錯誤","sentence":"The accident was caused by human error.","sentence_chinese":"這起事故是人為錯誤造成的。"},
+        {"id":"h1-3-u4-v007","word":"deliver","part_of_speech":"動","chinese":"運送；投遞","sentence":"The mailman delivers letters to the remote village in the mountains once a week.","sentence_chinese":"郵差每週一次將信件送到山中的偏遠村落。"},
+        {"id":"h1-3-u4-v008","word":"million","part_of_speech":"名","chinese":"百萬","sentence":"More than one million people visit the city every year.","sentence_chinese":"每年有超過一百萬人造訪這座城市。"},
+        {"id":"h1-3-u4-v009","word":"speed","part_of_speech":"名","chinese":"速度","sentence":"Drivers must follow the speed limits on this road.","sentence_chinese":"駕駛人必須遵守這條道路的速限。"}
+      ],
+      "phrases": [
+        {"id":"h1-3-u4-p001","phrase":"for your information","chinese":"供你參考；告訴你（縮寫 FYI）","sentence":"For your information, all our products come with a one-year warranty.","sentence_chinese":"告訴你，我們所有產品都附有一年保固。"}
+      ],
+      "grammar": {"tips":[],"notes":[],"quiz":[]},
+      "scrambles": {
+        "vocab": [
+          {"id":"h1-3-u4-sv001","vocab_id":"h1-3-u4-v001","sentence":"Giving red envelopes is an important custom during the Lunar New Year.","sentence_chinese":"農曆新年期間送紅包是一項重要傳統。"},
+          {"id":"h1-3-u4-sv002","vocab_id":"h1-3-u4-v002","sentence":"At the Christmas party, students happily exchanged gifts and had a good time.","sentence_chinese":"在聖誕派對上，學生們開心地交換禮物，度過了愉快的時光。"},
+          {"id":"h1-3-u4-sv003","vocab_id":"h1-3-u4-v003","sentence":"Teresa waved her hand in greeting when her brother got out of the train station.","sentence_chinese":"Teresa 的哥哥走出火車站時，她揮手向他打招呼。"},
+          {"id":"h1-3-u4-sv004","vocab_id":"h1-3-u4-v004","sentence":"Many students attended the school ceremony yesterday.","sentence_chinese":"昨天有許多學生參加學校典禮。"},
+          {"id":"h1-3-u4-sv005","vocab_id":"h1-3-u4-v005","sentence":"The principal delivered an inspiring speech at the graduation ceremony.","sentence_chinese":"校長在畢業典禮上發表了一場激勵人心的演講。"},
+          {"id":"h1-3-u4-sv006","vocab_id":"h1-3-u4-v006","sentence":"The accident was caused by human error.","sentence_chinese":"這起事故是人為錯誤造成的。"},
+          {"id":"h1-3-u4-sv007","vocab_id":"h1-3-u4-v007","sentence":"The mailman delivers letters to the remote village in the mountains once a week.","sentence_chinese":"郵差每週一次將信件送到山中的偏遠村落。"},
+          {"id":"h1-3-u4-sv008","vocab_id":"h1-3-u4-v008","sentence":"More than one million people visit the city every year.","sentence_chinese":"每年有超過一百萬人造訪這座城市。"},
+          {"id":"h1-3-u4-sv009","vocab_id":"h1-3-u4-v009","sentence":"Drivers must follow the speed limits on this road.","sentence_chinese":"駕駛人必須遵守這條道路的速限。"}
+        ],
+        "phrases": [
+          {"id":"h1-3-u4-sp001","phrase_id":"h1-3-u4-p001","sentence":"For your information, all our products come with a one-year warranty.","sentence_chinese":"告訴你，我們所有產品都附有一年保固。"}
+        ],
+        "grammar": []
+      }
+    }
+  }
+}
