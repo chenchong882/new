@@ -1,0 +1,132 @@
+{
+  "units": {
+    "h1-3-u3": {
+      "title": "U3",
+      "vocab": [
+        {"id":"h1-3-u3-v001","word":"understandable","part_of_speech":"形","chinese":"可理解的；能懂的","sentence":"The teacher explains scientific laws with simple words to make them more understandable.","sentence_chinese":"老師用簡單的文字解釋科學定律，使它們更容易理解。"},
+        {"id":"h1-3-u3-v002","word":"term","part_of_speech":"名","chinese":"用語；措辭","sentence":"The user's manual of this new oven is hard to understand due to all the technical terms in it.","sentence_chinese":"這台新烤箱的使用手冊因為有許多專業術語而難以理解。"},
+        {"id":"h1-3-u3-v003","word":"hint","part_of_speech":"動；名","chinese":"暗示；提示","sentence":"Kevin hinted at the possibility that Joe will be fired soon and I'll take his place.","sentence_chinese":"Kevin 暗示 Joe 可能很快會被解雇，而我將接替他的位置。"},
+        {"id":"h1-3-u3-v004","word":"opposite","part_of_speech":"名；介","chinese":"相反事物；對立物；在……對面","sentence":"Cinderella was a pretty and kind-hearted girl, while her two elder sisters were just the opposite.","sentence_chinese":"Cinderella 是一位漂亮又善良的女孩，而她的兩個姊姊恰好相反。"},
+        {"id":"h1-3-u3-v005","word":"nickname","part_of_speech":"動；名","chinese":"給……取綽號；綽號；暱稱","sentence":"Simone's mom nicknamed her \"Pixie\" because she was small and cute when she was a kid.","sentence_chinese":"Simone 的媽媽叫她「Pixie」，因為她小時候嬌小又可愛。"},
+        {"id":"h1-3-u3-v006","word":"superstition","part_of_speech":"名","chinese":"迷信","sentence":"Some people believe the superstition that breaking a mirror brings bad luck.","sentence_chinese":"有些人相信打破鏡子會帶來厄運的迷信。"}
+      ],
+      "phrases": [
+        {"id":"h1-3-u3-p001","phrase":"instead of","chinese":"而非……；代替……","sentence":"I drank water instead of soda.","sentence_chinese":"我喝水而沒有喝汽水。"},
+        {"id":"h1-3-u3-p002","phrase":"originate from","chinese":"起源於……；出自……","sentence":"This custom may originate from an old story.","sentence_chinese":"這項習俗可能源自一個古老的故事。"},
+        {"id":"h1-3-u3-p003","phrase":"have nothing to do with","chinese":"與……無關","sentence":"Tom has nothing to do with the accident.","sentence_chinese":"Tom 與這起事故無關。"},
+        {"id":"h1-3-u3-p004","phrase":"as long as","chinese":"只要","sentence":"You can borrow my bike as long as you return it today.","sentence_chinese":"只要你今天歸還，就可以借我的腳踏車。"}
+      ],
+      "grammar": {
+        "tips": [
+          {"label":"連綴動詞＋形容詞","text":"feel / look / smell / taste / sound / seem 後接形容詞，用來描述主詞的狀態。"},
+          {"label":"連綴動詞＋like＋名詞","text":"要表達「像……」時，用 feel / look / smell / taste / sound / seem + like + 名詞。"},
+          {"label":"常見錯誤","text":"連綴動詞後描述狀態時不用副詞；like 後面要接名詞或名詞片語。"}
+        ],
+        "notes": [
+          {"title":"感官動詞與 seem 作連綴動詞","rule":"S + feel / look / smell / taste / sound / seem + 形容詞","description":"這些動詞後面的形容詞是主詞補語，用來描述主詞的感覺、外觀、氣味、味道、聲音或看起來的狀態。不要改用副詞。","examples":["You might feel offended or confused.","The instructions seem understandable.","The soup tastes delicious."]},
+          {"title":"連綴動詞搭配 like","rule":"S + feel / look / smell / taste / sound / seem + like + 名詞（片語）","description":"like 在此是介系詞，意為「像……」，後面接名詞、代名詞或名詞片語。若後面是形容詞，就不加 like。","examples":["It seems like a curse instead of a blessing.","The cloud looks like a rabbit.","That noise sounds like thunder."]}
+        ],
+        "quiz": [
+          {"id":"h1-3-u3-q001","question":"The teacher's explanation sounds ___.","options":["A. clear","B. clearly","C. clarity","D. clear up"],"answer":"A","answer_index":0,"hint":"sound 是連綴動詞，後面接形容詞 clear 描述 explanation。"},
+          {"id":"h1-3-u3-q002","question":"These flowers smell ___.","options":["A. sweetness","B. sweet","C. sweetly","D. sweeten"],"answer":"B","answer_index":1,"hint":"smell 是感官連綴動詞，後面接形容詞 sweet。"},
+          {"id":"h1-3-u3-q003","question":"The child looks ___ before the test.","options":["A. nervously","B. nerve","C. nervous","D. nervousness"],"answer":"C","answer_index":2,"hint":"look 後接形容詞 nervous，描述孩子的狀態。"},
+          {"id":"h1-3-u3-q004","question":"The soup tastes ___.","options":["A. deliciously","B. delight","C. taste","D. delicious"],"answer":"D","answer_index":3,"hint":"taste 作連綴動詞時，後面接形容詞 delicious。"},
+          {"id":"h1-3-u3-q005","question":"This blanket feels ___.","options":["A. soft","B. softly","C. softness","D. soften"],"answer":"A","answer_index":0,"hint":"feel 後面接形容詞 soft，表示毯子的觸感。"},
+          {"id":"h1-3-u3-q006","question":"Your plan seems ___.","options":["A. reason","B. reasonable","C. reasonably","D. reasoning"],"answer":"B","answer_index":1,"hint":"seem 是連綴動詞，後面接形容詞 reasonable。"},
+          {"id":"h1-3-u3-q007","question":"That sounds ___ a good idea.","options":["A. likely","B. alike","C. like","D. liking"],"answer":"C","answer_index":2,"hint":"後面是名詞片語 a good idea，使用 sound like。"},
+          {"id":"h1-3-u3-q008","question":"This strange term looks ___.","options":["A. difficulty","B. difficultly","C. like difficult","D. difficult"],"answer":"D","answer_index":3,"hint":"後面需要形容詞 difficult 描述 term，不加 like。"},
+          {"id":"h1-3-u3-q009","question":"The warning sounds ___.","options":["A. serious","B. seriously","C. seriousness","D. like serious"],"answer":"A","answer_index":0,"hint":"sound 後面接形容詞 serious 描述 warning。"},
+          {"id":"h1-3-u3-q010","question":"The milk smells ___.","options":["A. sourly","B. sour","C. sourness","D. like sour"],"answer":"B","answer_index":1,"hint":"smell 作連綴動詞，後面接形容詞 sour。"},
+          {"id":"h1-3-u3-q011","question":"This technical term seems ___.","options":["A. unfamiliarity","B. unfamiliarly","C. unfamiliar","D. like unfamiliar"],"answer":"C","answer_index":2,"hint":"seem 後接形容詞 unfamiliar。"},
+          {"id":"h1-3-u3-q012","question":"The new equipment looks ___.","options":["A. newly","B. newness","C. renewal","D. new"],"answer":"D","answer_index":3,"hint":"look 後接形容詞 new，描述 equipment 的狀態。"},
+          {"id":"h1-3-u3-q013","question":"The room feels ___.","options":["A. cold","B. coldly","C. coldness","D. like cold"],"answer":"A","answer_index":0,"hint":"feel 作連綴動詞時接形容詞 cold。"},
+          {"id":"h1-3-u3-q014","question":"His story sounds ___.","options":["A. strangely","B. strange","C. strangeness","D. like strange"],"answer":"B","answer_index":1,"hint":"sound 後面接形容詞 strange。"},
+          {"id":"h1-3-u3-q015","question":"That wall looks ___ a barrier.","options":["A. alike","B. likely","C. like","D. liking"],"answer":"C","answer_index":2,"hint":"a barrier 是名詞片語，因此用 look like。"},
+          {"id":"h1-3-u3-q016","question":"This candy tastes ___ lemon.","options":["A. sour","B. likely","C. liking","D. like"],"answer":"D","answer_index":3,"hint":"lemon 是名詞，表示「嚐起來像檸檬」用 taste like。"},
+          {"id":"h1-3-u3-q017","question":"The new fabric feels ___.","options":["A. smooth","B. smoothly","C. smoothness","D. like smooth"],"answer":"A","answer_index":0,"hint":"feel 後面接形容詞 smooth 描述 fabric。"},
+          {"id":"h1-3-u3-q018","question":"These instructions seem ___.","options":["A. understandably","B. understandable","C. understanding","D. like understandable"],"answer":"B","answer_index":1,"hint":"seem 後面用形容詞 understandable。"},
+          {"id":"h1-3-u3-q019","question":"That cloud looks ___ a rabbit.","options":["A. likely","B. alike","C. like","D. liking"],"answer":"C","answer_index":2,"hint":"a rabbit 是名詞片語，使用 look like。"},
+          {"id":"h1-3-u3-q020","question":"The loud noise sounds ___ thunder.","options":["A. loudly","B. alike","C. likely","D. like"],"answer":"D","answer_index":3,"hint":"thunder 是名詞，表示「聽起來像雷聲」用 sound like。"},
+          {"id":"h1-3-u3-q021","question":"The opposite answer seems ___.","options":["A. obvious","B. obviously","C. obviousness","D. like obvious"],"answer":"A","answer_index":0,"hint":"seem 後面接形容詞 obvious。"},
+          {"id":"h1-3-u3-q022","question":"The coffee smells ___.","options":["A. wonderfully","B. wonderful","C. wonder","D. like wonderful"],"answer":"B","answer_index":1,"hint":"smell 後面接形容詞 wonderful 描述咖啡氣味。"},
+          {"id":"h1-3-u3-q023","question":"Her nickname sounds ___.","options":["A. funniness","B. funnily","C. funny","D. like funny"],"answer":"C","answer_index":2,"hint":"sound 後面接形容詞 funny。"},
+          {"id":"h1-3-u3-q024","question":"This bread tastes ___.","options":["A. freshly","B. freshness","C. like fresh","D. fresh"],"answer":"D","answer_index":3,"hint":"taste 後面接形容詞 fresh。"},
+          {"id":"h1-3-u3-q025","question":"The machine sounds ___.","options":["A. faulty","B. faultily","C. fault","D. like faulty"],"answer":"A","answer_index":0,"hint":"sound 後面接形容詞 faulty 描述機器狀態。"},
+          {"id":"h1-3-u3-q026","question":"This old superstition seems ___.","options":["A. strangely","B. strange","C. strangeness","D. like strange"],"answer":"B","answer_index":1,"hint":"seem 後面接形容詞 strange。"},
+          {"id":"h1-3-u3-q027","question":"The symbol looks ___ a lucky star.","options":["A. likely","B. alike","C. like","D. liking"],"answer":"C","answer_index":2,"hint":"a lucky star 是名詞片語，所以用 look like。"},
+          {"id":"h1-3-u3-q028","question":"The soft bed feels ___ a cloud.","options":["A. softly","B. likely","C. alike","D. like"],"answer":"D","answer_index":3,"hint":"a cloud 是名詞片語，表示「感覺像」用 feel like。"},
+          {"id":"h1-3-u3-q029","question":"The hint seems ___.","options":["A. helpful","B. helpfully","C. helpfulness","D. like helpful"],"answer":"A","answer_index":0,"hint":"seem 後面接形容詞 helpful。"},
+          {"id":"h1-3-u3-q030","question":"The wet dog smells ___.","options":["A. terribly","B. terrible","C. terror","D. like terrible"],"answer":"B","answer_index":1,"hint":"smell 後面接形容詞 terrible 描述氣味。"},
+          {"id":"h1-3-u3-q031","question":"The explanation sounds ___.","options":["A. confusion","B. confusingly","C. confusing","D. like confusing"],"answer":"C","answer_index":2,"hint":"sound 後接形容詞 confusing。"},
+          {"id":"h1-3-u3-q032","question":"The cake tastes ___.","options":["A. sweetness","B. sweetly","C. like sweet","D. sweet"],"answer":"D","answer_index":3,"hint":"taste 後面接形容詞 sweet。"},
+          {"id":"h1-3-u3-q033","question":"After the long trip, I feel ___.","options":["A. tired","B. tiredly","C. tiredness","D. like tired"],"answer":"A","answer_index":0,"hint":"feel 後面接形容詞 tired 描述人的狀態。"},
+          {"id":"h1-3-u3-q034","question":"The two terms look ___.","options":["A. differently","B. different","C. difference","D. like different"],"answer":"B","answer_index":1,"hint":"look 後面接形容詞 different。"},
+          {"id":"h1-3-u3-q035","question":"That nickname sounds ___ an animal's name.","options":["A. likely","B. alike","C. like","D. liking"],"answer":"C","answer_index":2,"hint":"an animal's name 是名詞片語，使用 sound like。"},
+          {"id":"h1-3-u3-q036","question":"The medicine tastes ___ salt water.","options":["A. salty","B. likely","C. alike","D. like"],"answer":"D","answer_index":3,"hint":"salt water 是名詞片語，使用 taste like。"},
+          {"id":"h1-3-u3-q037","question":"His excuse seems ___.","options":["A. untrue","B. untruly","C. untruth","D. like untrue"],"answer":"A","answer_index":0,"hint":"seem 後面接形容詞 untrue。"},
+          {"id":"h1-3-u3-q038","question":"The baby's skin feels ___.","options":["A. softly","B. soft","C. softness","D. like soft"],"answer":"B","answer_index":1,"hint":"feel 後面接形容詞 soft。"},
+          {"id":"h1-3-u3-q039","question":"The technical terms sound ___.","options":["A. difficulty","B. difficultly","C. difficult","D. like difficult"],"answer":"C","answer_index":2,"hint":"sound 後面接形容詞 difficult。"},
+          {"id":"h1-3-u3-q040","question":"From far away, the rock looks ___ a sleeping bear.","options":["A. sleepily","B. likely","C. alike","D. like"],"answer":"D","answer_index":3,"hint":"a sleeping bear 是名詞片語，因此用 look like。"},
+          {"id":"h1-3-u3-q041","question":"Your idea sounds ___.","options":["A. sensible","B. sensibly","C. sense","D. like sensible"],"answer":"A","answer_index":0,"hint":"sound 後面接形容詞 sensible。"},
+          {"id":"h1-3-u3-q042","question":"The cookies smell ___.","options":["A. deliciously","B. delicious","C. delight","D. like delicious"],"answer":"B","answer_index":1,"hint":"smell 後面接形容詞 delicious。"},
+          {"id":"h1-3-u3-q043","question":"This protective coat feels ___.","options":["A. warmly","B. warmth","C. warm","D. like warm"],"answer":"C","answer_index":2,"hint":"feel 後面接形容詞 warm。"},
+          {"id":"h1-3-u3-q044","question":"The old building looks ___ a castle.","options":["A. ancient","B. likely","C. alike","D. like"],"answer":"D","answer_index":3,"hint":"a castle 是名詞片語，使用 look like。"},
+          {"id":"h1-3-u3-q045","question":"Your answer seems ___.","options":["A. correct","B. correctly","C. correction","D. like correct"],"answer":"A","answer_index":0,"hint":"seem 後面接形容詞 correct。"},
+          {"id":"h1-3-u3-q046","question":"That voice sounds ___.","options":["A. familiarly","B. familiar","C. familiarity","D. like familiar"],"answer":"B","answer_index":1,"hint":"sound 後面接形容詞 familiar。"},
+          {"id":"h1-3-u3-q047","question":"The orange juice tastes ___.","options":["A. sweetness","B. sweetly","C. sweet","D. like sweet"],"answer":"C","answer_index":2,"hint":"taste 後面接形容詞 sweet。"},
+          {"id":"h1-3-u3-q048","question":"This heavy object feels ___ a stone.","options":["A. heavily","B. likely","C. alike","D. like"],"answer":"D","answer_index":3,"hint":"a stone 是名詞片語，因此用 feel like。"},
+          {"id":"h1-3-u3-q049","question":"The curse sounds ___.","options":["A. frightening","B. frighteningly","C. fright","D. like frightening"],"answer":"A","answer_index":0,"hint":"sound 後面接形容詞 frightening。"},
+          {"id":"h1-3-u3-q050","question":"The simple explanation looks ___.","options":["A. understandably","B. understandable","C. understanding","D. like understandable"],"answer":"B","answer_index":1,"hint":"look 後面接形容詞 understandable。"}
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          {"id":"h1-3-u3-sv001","vocab_id":"h1-3-u3-v001","sentence":"The teacher explains scientific laws with simple words to make them more understandable.","sentence_chinese":"老師用簡單的文字解釋科學定律，使它們更容易理解。"},
+          {"id":"h1-3-u3-sv002","vocab_id":"h1-3-u3-v002","sentence":"The user's manual of this new oven is hard to understand due to all the technical terms in it.","sentence_chinese":"這台新烤箱的使用手冊因為有許多專業術語而難以理解。"},
+          {"id":"h1-3-u3-sv003","vocab_id":"h1-3-u3-v003","sentence":"Kevin hinted at the possibility that Joe will be fired soon and I'll take his place.","sentence_chinese":"Kevin 暗示 Joe 可能很快會被解雇，而我將接替他的位置。"},
+          {"id":"h1-3-u3-sv004","vocab_id":"h1-3-u3-v004","sentence":"Cinderella was a pretty and kind-hearted girl, while her two elder sisters were just the opposite.","sentence_chinese":"Cinderella 是一位漂亮又善良的女孩，而她的兩個姊姊恰好相反。"},
+          {"id":"h1-3-u3-sv005","vocab_id":"h1-3-u3-v005","sentence":"Simone's mom nicknamed her \"Pixie\" because she was small and cute when she was a kid.","sentence_chinese":"Simone 的媽媽叫她「Pixie」，因為她小時候嬌小又可愛。"},
+          {"id":"h1-3-u3-sv006","vocab_id":"h1-3-u3-v006","sentence":"Some people believe the superstition that breaking a mirror brings bad luck.","sentence_chinese":"有些人相信打破鏡子會帶來厄運的迷信。"}
+        ],
+        "phrases": [
+          {"id":"h1-3-u3-sp001","phrase_id":"h1-3-u3-p001","sentence":"I drank water instead of soda.","sentence_chinese":"我喝水而沒有喝汽水。"},
+          {"id":"h1-3-u3-sp002","phrase_id":"h1-3-u3-p002","sentence":"This custom may originate from an old story.","sentence_chinese":"這項習俗可能源自一個古老的故事。"},
+          {"id":"h1-3-u3-sp003","phrase_id":"h1-3-u3-p003","sentence":"Tom has nothing to do with the accident.","sentence_chinese":"Tom 與這起事故無關。"},
+          {"id":"h1-3-u3-sp004","phrase_id":"h1-3-u3-p004","sentence":"You can borrow my bike as long as you return it today.","sentence_chinese":"只要你今天歸還，就可以借我的腳踏車。"}
+        ],
+        "grammar": [
+          {"id":"h1-3-u3-sg001","sentence":"The teacher's explanation sounds clear and understandable.","sentence_chinese":"老師的解釋聽起來清楚易懂。"},
+          {"id":"h1-3-u3-sg002","sentence":"These fresh flowers smell sweet in the morning.","sentence_chinese":"這些鮮花早上聞起來很香甜。"},
+          {"id":"h1-3-u3-sg003","sentence":"The child looks nervous before his English test.","sentence_chinese":"那個孩子在英文考試前看起來很緊張。"},
+          {"id":"h1-3-u3-sg004","sentence":"This hot soup tastes delicious to everyone.","sentence_chinese":"這碗熱湯每個人都覺得很好喝。"},
+          {"id":"h1-3-u3-sg005","sentence":"The soft blanket feels warm on cold nights.","sentence_chinese":"這條柔軟的毯子在寒冷夜晚摸起來很溫暖。"},
+          {"id":"h1-3-u3-sg006","sentence":"Your new plan seems reasonable to our team.","sentence_chinese":"你的新計畫對我們團隊而言似乎很合理。"},
+          {"id":"h1-3-u3-sg007","sentence":"That sounds like a very good idea.","sentence_chinese":"那聽起來像是個很好的主意。"},
+          {"id":"h1-3-u3-sg008","sentence":"This strange symbol looks like a lucky star.","sentence_chinese":"這個奇怪符號看起來像幸運星。"},
+          {"id":"h1-3-u3-sg009","sentence":"The warning sounds serious to all the workers.","sentence_chinese":"這項警告對所有工人而言聽起來很嚴重。"},
+          {"id":"h1-3-u3-sg010","sentence":"The milk smells sour after sitting outside.","sentence_chinese":"牛奶放在外面後聞起來酸酸的。"},
+          {"id":"h1-3-u3-sg011","sentence":"This technical term seems unfamiliar to me.","sentence_chinese":"這個專業術語對我而言似乎很陌生。"},
+          {"id":"h1-3-u3-sg012","sentence":"The new equipment looks clean and safe.","sentence_chinese":"新設備看起來乾淨又安全。"},
+          {"id":"h1-3-u3-sg013","sentence":"The classroom feels cold without any sunlight.","sentence_chinese":"沒有陽光時，教室感覺很冷。"},
+          {"id":"h1-3-u3-sg014","sentence":"His story sounds strange but interesting.","sentence_chinese":"他的故事聽起來奇怪但有趣。"},
+          {"id":"h1-3-u3-sg015","sentence":"That tall wall looks like a barrier.","sentence_chinese":"那道高牆看起來像路障。"},
+          {"id":"h1-3-u3-sg016","sentence":"This yellow candy tastes like fresh lemon.","sentence_chinese":"這顆黃色糖果嚐起來像新鮮檸檬。"},
+          {"id":"h1-3-u3-sg017","sentence":"The new fabric feels smooth and comfortable.","sentence_chinese":"這種新布料摸起來光滑又舒適。"},
+          {"id":"h1-3-u3-sg018","sentence":"These simple instructions seem clear and understandable.","sentence_chinese":"這些簡單指示似乎清楚易懂。"},
+          {"id":"h1-3-u3-sg019","sentence":"That white cloud looks like a rabbit.","sentence_chinese":"那朵白雲看起來像兔子。"},
+          {"id":"h1-3-u3-sg020","sentence":"The loud noise sounds like distant thunder.","sentence_chinese":"那聲巨響聽起來像遠方的雷聲。"},
+          {"id":"h1-3-u3-sg021","sentence":"The opposite answer seems obvious to everyone.","sentence_chinese":"相反的答案對大家而言似乎很明顯。"},
+          {"id":"h1-3-u3-sg022","sentence":"The coffee smells wonderful on this cold morning.","sentence_chinese":"在這個寒冷早晨，咖啡聞起來很香。"},
+          {"id":"h1-3-u3-sg023","sentence":"Her funny nickname sounds like an animal's name.","sentence_chinese":"她有趣的綽號聽起來像動物的名字。"},
+          {"id":"h1-3-u3-sg024","sentence":"This warm bread tastes fresh and delicious.","sentence_chinese":"這個溫熱的麵包嚐起來新鮮又美味。"},
+          {"id":"h1-3-u3-sg025","sentence":"The machine sounds faulty during the safety test.","sentence_chinese":"這台機器在安全測試時聽起來有故障。"},
+          {"id":"h1-3-u3-sg026","sentence":"This old superstition seems strange to young people.","sentence_chinese":"這種古老迷信對年輕人而言似乎很奇怪。"},
+          {"id":"h1-3-u3-sg027","sentence":"The round symbol looks like a golden coin.","sentence_chinese":"這個圓形符號看起來像一枚金幣。"},
+          {"id":"h1-3-u3-sg028","sentence":"The soft bed feels like a cloud.","sentence_chinese":"這張柔軟的床感覺像雲朵。"},
+          {"id":"h1-3-u3-sg029","sentence":"His helpful hint sounds clear to the class.","sentence_chinese":"他有用的提示對全班而言聽起來很清楚。"},
+          {"id":"h1-3-u3-sg030","sentence":"The medicine tastes like salty sea water.","sentence_chinese":"這個藥嚐起來像鹹鹹的海水。"}
+        ]
+      }
+    }
+  }
+}
