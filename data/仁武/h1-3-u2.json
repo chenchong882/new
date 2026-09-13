@@ -1,0 +1,174 @@
+{
+  "units": {
+    "h1-3-u2": {
+      "title": "U2",
+      "vocab": [
+        {
+          "id": "h1-3-u2-v001",
+          "word": "minimize",
+          "part_of_speech": "動",
+          "chinese": "將……減到最少；最小化",
+          "sentence": "People are advised to stay home as much as possible to minimize the risk of catching the disease.",
+          "sentence_chinese": "建議大家盡量待在家裡，以降低感染疾病的風險。"
+        },
+        {
+          "id": "h1-3-u2-v002",
+          "word": "procedure",
+          "part_of_speech": "名",
+          "chinese": "程序；步驟",
+          "sentence": "As long as you follow the procedures I've told you, it won't be difficult to get this task done.",
+          "sentence_chinese": "只要按照我告訴你的步驟進行，完成這項任務就不會很困難。"
+        },
+        {
+          "id": "h1-3-u2-v003",
+          "word": "protective",
+          "part_of_speech": "形",
+          "chinese": "保護的；防護的",
+          "sentence": "Anyone who wants to enter this construction site needs to put on a protective helmet first.",
+          "sentence_chinese": "任何想進入這個工地的人，都必須先戴上防護頭盔。"
+        },
+        {
+          "id": "h1-3-u2-v004",
+          "word": "barrier",
+          "part_of_speech": "名",
+          "chinese": "路障；障礙物",
+          "sentence": "The police have set up a number of barriers to prevent crowds of people from entering the square.",
+          "sentence_chinese": "警方設置了許多路障，防止人群進入廣場。"
+        },
+        {
+          "id": "h1-3-u2-v005",
+          "word": "equipment",
+          "part_of_speech": "名",
+          "chinese": "裝備；設備；配備",
+          "sentence": "Diana's uncle has a real passion for camping and plans to open a store selling camping equipment.",
+          "sentence_chinese": "Diana 的叔叔非常熱愛露營，並計畫開一家販售露營裝備的商店。"
+        },
+        {
+          "id": "h1-3-u2-v006",
+          "word": "training",
+          "part_of_speech": "名",
+          "chinese": "訓練",
+          "sentence": "The athlete is undergoing hard training because he is aiming at winning a place on the national team.",
+          "sentence_chinese": "這名運動員正在接受嚴格訓練，因為他的目標是取得國家代表隊的一席之地。"
+        },
+        {
+          "id": "h1-3-u2-v007",
+          "word": "failing",
+          "part_of_speech": "名",
+          "chinese": "缺點；弱點",
+          "sentence": "We are all ordinary people with our own particular failings; in other words, no one is perfect.",
+          "sentence_chinese": "我們都是各有缺點的普通人；換句話說，沒有人是完美的。"
+        },
+        {
+          "id": "h1-3-u2-v008",
+          "word": "faulty",
+          "part_of_speech": "形",
+          "chinese": "有錯誤的；有缺點的",
+          "sentence": "The mechanic told us that it was a faulty part that caused the machine to break down.",
+          "sentence_chinese": "技師告訴我們，是一個有瑕疵的零件造成機器故障。"
+        }
+      ],
+      "phrases": [
+        {
+          "id": "h1-3-u2-p001",
+          "phrase": "carry out",
+          "chinese": "實行；實現",
+          "sentence": "The super spy has the ability to successfully carry out the secret mission.",
+          "sentence_chinese": "那名超級間諜有能力成功執行祕密任務。"
+        },
+        {
+          "id": "h1-3-u2-p002",
+          "phrase": "in place",
+          "chinese": "就定位；準備就緒",
+          "sentence": "Ricky violated the new safety rule that has just been put in place.",
+          "sentence_chinese": "Ricky 違反了剛實施的新安全規定。"
+        },
+        {
+          "id": "h1-3-u2-p003",
+          "phrase": "and so on",
+          "chinese": "等等；諸如此類",
+          "sentence": "On her way home, Wendy went to a supermarket to buy some vegetables, fruit, meat, and so on.",
+          "sentence_chinese": "Wendy 回家途中去超市買了一些蔬菜、水果、肉類等等。"
+        }
+      ],
+      "grammar": {
+        "tips": [],
+        "notes": [],
+        "quiz": []
+      },
+      "scrambles": {
+        "vocab": [
+          {
+            "id": "h1-3-u2-sv001",
+            "vocab_id": "h1-3-u2-v001",
+            "sentence": "People are advised to stay home as much as possible to minimize the risk of catching the disease.",
+            "sentence_chinese": "建議大家盡量待在家裡，以降低感染疾病的風險。"
+          },
+          {
+            "id": "h1-3-u2-sv002",
+            "vocab_id": "h1-3-u2-v002",
+            "sentence": "As long as you follow the procedures I've told you, it won't be difficult to get this task done.",
+            "sentence_chinese": "只要按照我告訴你的步驟進行，完成這項任務就不會很困難。"
+          },
+          {
+            "id": "h1-3-u2-sv003",
+            "vocab_id": "h1-3-u2-v003",
+            "sentence": "Anyone who wants to enter this construction site needs to put on a protective helmet first.",
+            "sentence_chinese": "任何想進入這個工地的人，都必須先戴上防護頭盔。"
+          },
+          {
+            "id": "h1-3-u2-sv004",
+            "vocab_id": "h1-3-u2-v004",
+            "sentence": "The police have set up a number of barriers to prevent crowds of people from entering the square.",
+            "sentence_chinese": "警方設置了許多路障，防止人群進入廣場。"
+          },
+          {
+            "id": "h1-3-u2-sv005",
+            "vocab_id": "h1-3-u2-v005",
+            "sentence": "Diana's uncle has a real passion for camping and plans to open a store selling camping equipment.",
+            "sentence_chinese": "Diana 的叔叔非常熱愛露營，並計畫開一家販售露營裝備的商店。"
+          },
+          {
+            "id": "h1-3-u2-sv006",
+            "vocab_id": "h1-3-u2-v006",
+            "sentence": "The athlete is undergoing hard training because he is aiming at winning a place on the national team.",
+            "sentence_chinese": "這名運動員正在接受嚴格訓練，因為他的目標是取得國家代表隊的一席之地。"
+          },
+          {
+            "id": "h1-3-u2-sv007",
+            "vocab_id": "h1-3-u2-v007",
+            "sentence": "We are all ordinary people with our own particular failings; in other words, no one is perfect.",
+            "sentence_chinese": "我們都是各有缺點的普通人；換句話說，沒有人是完美的。"
+          },
+          {
+            "id": "h1-3-u2-sv008",
+            "vocab_id": "h1-3-u2-v008",
+            "sentence": "The mechanic told us that it was a faulty part that caused the machine to break down.",
+            "sentence_chinese": "技師告訴我們，是一個有瑕疵的零件造成機器故障。"
+          }
+        ],
+        "phrases": [
+          {
+            "id": "h1-3-u2-sp001",
+            "phrase_id": "h1-3-u2-p001",
+            "sentence": "The super spy has the ability to successfully carry out the secret mission.",
+            "sentence_chinese": "那名超級間諜有能力成功執行祕密任務。"
+          },
+          {
+            "id": "h1-3-u2-sp002",
+            "phrase_id": "h1-3-u2-p002",
+            "sentence": "Ricky violated the new safety rule that has just been put in place.",
+            "sentence_chinese": "Ricky 違反了剛實施的新安全規定。"
+          },
+          {
+            "id": "h1-3-u2-sp003",
+            "phrase_id": "h1-3-u2-p003",
+            "sentence": "On her way home, Wendy went to a supermarket to buy some vegetables, fruit, meat, and so on.",
+            "sentence_chinese": "Wendy 回家途中去超市買了一些蔬菜、水果、肉類等等。"
+          }
+        ],
+        "grammar": []
+      }
+    }
+  }
+}
