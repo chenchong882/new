@@ -1,0 +1,39 @@
+{
+  "units": {
+    "h1-3-u6": {
+      "title": "U6",
+      "vocab": [
+        {"id":"h1-3-u6-v001","word":"tourist","part_of_speech":"名","chinese":"遊客；觀光客","sentence":"Every summer, many tourists visit the island for its beautiful beaches.","sentence_chinese":"每年夏天，許多遊客因為美麗的海灘而造訪這座島。"},
+        {"id":"h1-3-u6-v002","word":"register","part_of_speech":"動","chinese":"登記；註冊","sentence":"Students who are interested in this course need to register for it by the end of September.","sentence_chinese":"對這門課有興趣的學生必須在九月底前完成註冊。"},
+        {"id":"h1-3-u6-v003","word":"region","part_of_speech":"名","chinese":"地區；地帶；區域","sentence":"That primitive tribe lives in a remote mountainous region where few other people have set foot.","sentence_chinese":"那個原始部落住在偏遠山區，幾乎沒有其他人踏足過。"},
+        {"id":"h1-3-u6-v004","word":"resident","part_of_speech":"名","chinese":"居住者；居民","sentence":"The residents of this city are proud of their beautiful parks.","sentence_chinese":"這座城市的居民以美麗的公園為榮。"},
+        {"id":"h1-3-u6-v005","word":"personnel","part_of_speech":"名","chinese":"全體人員；職員","sentence":"The personnel department is looking for three new workers.","sentence_chinese":"人事部門正在招募三名新員工。"},
+        {"id":"h1-3-u6-v006","word":"paradise","part_of_speech":"名","chinese":"天堂；樂園","sentence":"This tropical forest is a paradise for animals and plants.","sentence_chinese":"這座熱帶森林是動植物的天堂。"}
+      ],
+      "phrases": [
+        {"id":"h1-3-u6-p001","phrase":"be located in","chinese":"位於……","sentence":"Shilin Night Market is located in Taipei.","sentence_chinese":"士林夜市位於臺北。"},
+        {"id":"h1-3-u6-p002","phrase":"be covered with","chinese":"充滿；蓋滿","sentence":"The peak of Mount Fuji is covered with snow during winter.","sentence_chinese":"富士山頂在冬季覆蓋著白雪。"},
+        {"id":"h1-3-u6-p003","phrase":"consist of","chinese":"由……組成；由……構成","sentence":"The team consists of five students and one teacher.","sentence_chinese":"這個團隊由五名學生和一位老師組成。"},
+        {"id":"h1-3-u6-p004","phrase":"keep in shape","chinese":"保持良好狀況；保持身材","sentence":"Tina exercises every day to keep in shape.","sentence_chinese":"Tina 每天運動以保持身材。"}
+      ],
+      "grammar": {"tips":[],"notes":[],"quiz":[]},
+      "scrambles": {
+        "vocab": [
+          {"id":"h1-3-u6-sv001","vocab_id":"h1-3-u6-v001","sentence":"Every summer, many tourists visit the island for its beautiful beaches.","sentence_chinese":"每年夏天，許多遊客因為美麗的海灘而造訪這座島。"},
+          {"id":"h1-3-u6-sv002","vocab_id":"h1-3-u6-v002","sentence":"Students who are interested in this course need to register for it by the end of September.","sentence_chinese":"對這門課有興趣的學生必須在九月底前完成註冊。"},
+          {"id":"h1-3-u6-sv003","vocab_id":"h1-3-u6-v003","sentence":"That primitive tribe lives in a remote mountainous region where few other people have set foot.","sentence_chinese":"那個原始部落住在偏遠山區，幾乎沒有其他人踏足過。"},
+          {"id":"h1-3-u6-sv004","vocab_id":"h1-3-u6-v004","sentence":"The residents of this city are proud of their beautiful parks.","sentence_chinese":"這座城市的居民以美麗的公園為榮。"},
+          {"id":"h1-3-u6-sv005","vocab_id":"h1-3-u6-v005","sentence":"The personnel department is looking for three new workers.","sentence_chinese":"人事部門正在招募三名新員工。"},
+          {"id":"h1-3-u6-sv006","vocab_id":"h1-3-u6-v006","sentence":"This tropical forest is a paradise for animals and plants.","sentence_chinese":"這座熱帶森林是動植物的天堂。"}
+        ],
+        "phrases": [
+          {"id":"h1-3-u6-sp001","phrase_id":"h1-3-u6-p001","sentence":"Shilin Night Market is located in Taipei.","sentence_chinese":"士林夜市位於臺北。"},
+          {"id":"h1-3-u6-sp002","phrase_id":"h1-3-u6-p002","sentence":"The peak of Mount Fuji is covered with snow during winter.","sentence_chinese":"富士山頂在冬季覆蓋著白雪。"},
+          {"id":"h1-3-u6-sp003","phrase_id":"h1-3-u6-p003","sentence":"The team consists of five students and one teacher.","sentence_chinese":"這個團隊由五名學生和一位老師組成。"},
+          {"id":"h1-3-u6-sp004","phrase_id":"h1-3-u6-p004","sentence":"Tina exercises every day to keep in shape.","sentence_chinese":"Tina 每天運動以保持身材。"}
+        ],
+        "grammar": []
+      }
+    }
+  }
+}
