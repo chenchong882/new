@@ -1,0 +1,128 @@
+{
+  "units": {
+    "h1-3-u1": {
+      "title": "U1",
+      "vocab": [
+        {"id":"h1-3-u1-v001","word":"endless","part_of_speech":"形","chinese":"無盡的；無休止的","sentence":"The annual meeting seemed endless, and everyone was tired.","sentence_chinese":"年度會議似乎沒完沒了，每個人都累了。"},
+        {"id":"h1-3-u1-v002","word":"dull","part_of_speech":"形","chinese":"乏味的；無聊的","sentence":"The major general's speech was so dull that many soldiers felt sleepy.","sentence_chinese":"少將的演講非常無聊，許多士兵都昏昏欲睡。"},
+        {"id":"h1-3-u1-v003","word":"allowance","part_of_speech":"名","chinese":"允許；容忍","sentence":"People should make allowance for possible losses along the way when they make investments.","sentence_chinese":"人們投資時應該把過程中可能發生的損失考慮進去。"},
+        {"id":"h1-3-u1-v004","word":"purchase","part_of_speech":"動；名","chinese":"買；購買；購買之物","sentence":"Many people have gotten used to purchasing on the Internet because it's very convenient.","sentence_chinese":"許多人已習慣在網路上購物，因為非常方便。"},
+        {"id":"h1-3-u1-v005","word":"gorgeous","part_of_speech":"形","chinese":"華麗的；絢爛的；極好的","sentence":"As soon as Christine showed up in her gorgeous pink dress, she caught everyone's attention at the party.","sentence_chinese":"Christine 穿著華麗的粉紅色洋裝一出現，便吸引了派對上所有人的目光。"},
+        {"id":"h1-3-u1-v006","word":"refuse","part_of_speech":"動","chinese":"拒絕","sentence":"Michael refused my offer to help, saying that he would be able to finish the difficult task on his own.","sentence_chinese":"Michael 拒絕了我的幫忙，說他能獨自完成這項困難的任務。"},
+        {"id":"h1-3-u1-v007","word":"appreciate","part_of_speech":"動","chinese":"感謝；感激","sentence":"I would appreciate it if you could do the dishes tonight. I'm really exhausted.","sentence_chinese":"如果你今晚可以洗碗，我會很感激。我真的累壞了。"},
+        {"id":"h1-3-u1-v008","word":"mercy","part_of_speech":"名","chinese":"慈悲；憐憫","sentence":"On learning that he had been sentenced to death, the man cried and kept begging for mercy.","sentence_chinese":"得知自己被判死刑後，那名男子哭著不停求饒。"}
+      ],
+      "phrases": [
+        {"id":"h1-3-u1-p001","phrase":"spill out","chinese":"灑出；溢出","sentence":"The little boy dropped his glass on the floor, and all the juice spilled out.","sentence_chinese":"小男孩把杯子摔到地上，果汁全灑了出來。"}
+      ],
+      "grammar": {
+        "tips": [
+          {"label":"忍不住做某事","text":"can't / couldn't help but + 原形動詞"},
+          {"label":"時態判斷","text":"現在或一般情況用 can't；過去的情況用 couldn't。but 後面的動詞一律使用原形。"}
+        ],
+        "notes": [
+          {"title":"can't / couldn't help but 的用法","rule":"主詞 + can't / couldn't help but + 原形動詞","description":"此句型表示「忍不住……；情不自禁……」。can't 用於現在或一般情況，couldn't 用於過去。help but 後面必須接原形動詞，不接 V-ing、過去式或 to V。","examples":["I can't help but laugh at his jokes.","She couldn't help but cry when she heard the news.","We can't help but appreciate his kindness."]}
+        ],
+        "quiz": [
+          {"id":"h1-3-u1-q001","question":"The meeting seems endless, so I can't help but ___ at the clock.","options":["A. look","B. looking","C. looked","D. to look"],"answer":"A","answer_index":0,"hint":"can't help but 後面接原形動詞，所以用 look。"},
+          {"id":"h1-3-u1-q002","question":"The speech was so dull that Kevin couldn't help but ___.","options":["A. yawning","B. yawn","C. yawned","D. to yawn"],"answer":"B","answer_index":1,"hint":"couldn't help but 後面要接原形動詞 yawn。"},
+          {"id":"h1-3-u1-q003","question":"Whenever Mia sees that gorgeous dress, she can't help but ___ it.","options":["A. buying","B. bought","C. buy","D. to buy"],"answer":"C","answer_index":2,"hint":"can't help but 的 but 後面用原形動詞 buy。"},
+          {"id":"h1-3-u1-q004","question":"When the juice spilled out, the child couldn't help but ___.","options":["A. crying","B. cried","C. to cry","D. cry"],"answer":"D","answer_index":3,"hint":"couldn't help but 後面接原形動詞 cry。"},
+          {"id":"h1-3-u1-q005","question":"I can't help but ___ your patience with young children.","options":["A. appreciate","B. appreciating","C. appreciated","D. to appreciate"],"answer":"A","answer_index":0,"hint":"can't help but 後面一律接原形動詞 appreciate。"},
+          {"id":"h1-3-u1-q006","question":"After hearing his excuse, we couldn't help but ___ it.","options":["A. refusing","B. refuse","C. refused","D. to refuse"],"answer":"B","answer_index":1,"hint":"couldn't help but 後面用原形動詞 refuse。"},
+          {"id":"h1-3-u1-q007","question":"The puppy looks so cute that I can't help but ___ it.","options":["A. hugged","B. hugging","C. hug","D. to hug"],"answer":"C","answer_index":2,"hint":"can't help but 後面接原形動詞 hug。"},
+          {"id":"h1-3-u1-q008","question":"Seeing the endless line, Nora couldn't help but ___.","options":["A. complaining","B. complained","C. to complain","D. complain"],"answer":"D","answer_index":3,"hint":"couldn't help but 後面要用原形動詞 complain。"},
+          {"id":"h1-3-u1-q009","question":"When I hear that funny story, I can't help but ___.","options":["A. laugh","B. laughing","C. laughed","D. to laugh"],"answer":"A","answer_index":0,"hint":"can't help but 後面用動詞原形 laugh。"},
+          {"id":"h1-3-u1-q010","question":"The audience couldn't help but ___ during the dull movie.","options":["A. sleeping","B. sleep","C. slept","D. to sleep"],"answer":"B","answer_index":1,"hint":"couldn't help but 後面接原形動詞 sleep。"},
+          {"id":"h1-3-u1-q011","question":"I can't help but ___ whether this purchase was necessary.","options":["A. wondered","B. wondering","C. wonder","D. to wonder"],"answer":"C","answer_index":2,"hint":"can't help but 後面接原形動詞 wonder。"},
+          {"id":"h1-3-u1-q012","question":"The man begged for mercy, and I couldn't help but ___ sorry for him.","options":["A. feeling","B. felt","C. to feel","D. feel"],"answer":"D","answer_index":3,"hint":"couldn't help but 後面要用原形動詞 feel。"},
+          {"id":"h1-3-u1-q013","question":"Lily can't help but ___ whenever she sees gorgeous flowers.","options":["A. smile","B. smiling","C. smiled","D. to smile"],"answer":"A","answer_index":0,"hint":"can't help but 後面接原形動詞 smile。"},
+          {"id":"h1-3-u1-q014","question":"We couldn't help but ___ at the endless list of rules.","options":["A. sighing","B. sigh","C. sighed","D. to sigh"],"answer":"B","answer_index":1,"hint":"couldn't help but 後面接原形動詞 sigh。"},
+          {"id":"h1-3-u1-q015","question":"I can't help but ___ an allowance for his age.","options":["A. made","B. making","C. make","D. to make"],"answer":"C","answer_index":2,"hint":"can't help but 後面要接原形動詞 make。"},
+          {"id":"h1-3-u1-q016","question":"When the glass broke, Ted couldn't help but ___ down.","options":["A. looking","B. looked","C. to look","D. look"],"answer":"D","answer_index":3,"hint":"couldn't help but 後面接原形動詞 look。"},
+          {"id":"h1-3-u1-q017","question":"People can't help but ___ online because it is convenient.","options":["A. purchase","B. purchasing","C. purchased","D. to purchase"],"answer":"A","answer_index":0,"hint":"can't help but 後面使用原形動詞 purchase。"},
+          {"id":"h1-3-u1-q018","question":"She couldn't help but ___ the gift after seeing its price.","options":["A. refusing","B. refuse","C. refused","D. to refuse"],"answer":"B","answer_index":1,"hint":"couldn't help but 後面要接原形動詞 refuse。"},
+          {"id":"h1-3-u1-q019","question":"I can't help but ___ his generous allowance.","options":["A. appreciated","B. appreciating","C. appreciate","D. to appreciate"],"answer":"C","answer_index":2,"hint":"can't help but 後面接原形動詞 appreciate。"},
+          {"id":"h1-3-u1-q020","question":"The crowd couldn't help but ___ at her gorgeous gown.","options":["A. staring","B. stared","C. to stare","D. stare"],"answer":"D","answer_index":3,"hint":"couldn't help but 後面使用原形動詞 stare。"},
+          {"id":"h1-3-u1-q021","question":"I can't help but ___ bored during endless meetings.","options":["A. feel","B. feeling","C. felt","D. to feel"],"answer":"A","answer_index":0,"hint":"can't help but 後面接原形動詞 feel。"},
+          {"id":"h1-3-u1-q022","question":"After the milk spilled out, Mom couldn't help but ___.","options":["A. shouting","B. shout","C. shouted","D. to shout"],"answer":"B","answer_index":1,"hint":"couldn't help but 後面接原形動詞 shout。"},
+          {"id":"h1-3-u1-q023","question":"We can't help but ___ mercy to the injured bird.","options":["A. showed","B. showing","C. show","D. to show"],"answer":"C","answer_index":2,"hint":"can't help but 後面要用原形動詞 show。"},
+          {"id":"h1-3-u1-q024","question":"The joke was silly, but Amy couldn't help but ___.","options":["A. laughing","B. laughed","C. to laugh","D. laugh"],"answer":"D","answer_index":3,"hint":"couldn't help but 後面接原形動詞 laugh。"},
+          {"id":"h1-3-u1-q025","question":"I can't help but ___ that the lecture is dull.","options":["A. admit","B. admitting","C. admitted","D. to admit"],"answer":"A","answer_index":0,"hint":"can't help but 後面用原形動詞 admit。"},
+          {"id":"h1-3-u1-q026","question":"Seeing the gorgeous sunset, they couldn't help but ___ pictures.","options":["A. taking","B. take","C. took","D. to take"],"answer":"B","answer_index":1,"hint":"couldn't help but 後面接原形動詞 take。"},
+          {"id":"h1-3-u1-q027","question":"Ken can't help but ___ every purchase he makes.","options":["A. recorded","B. recording","C. record","D. to record"],"answer":"C","answer_index":2,"hint":"can't help but 後面要接原形動詞 record。"},
+          {"id":"h1-3-u1-q028","question":"She couldn't help but ___ when he refused her offer.","options":["A. crying","B. cried","C. to cry","D. cry"],"answer":"D","answer_index":3,"hint":"couldn't help but 後面使用原形動詞 cry。"},
+          {"id":"h1-3-u1-q029","question":"We can't help but ___ the teacher's kindness.","options":["A. appreciate","B. appreciating","C. appreciated","D. to appreciate"],"answer":"A","answer_index":0,"hint":"can't help but 後面接原形動詞 appreciate。"},
+          {"id":"h1-3-u1-q030","question":"During the endless wait, I couldn't help but ___ nervous.","options":["A. becoming","B. become","C. became","D. to become"],"answer":"B","answer_index":1,"hint":"couldn't help but 後面要用原形動詞 become。"},
+          {"id":"h1-3-u1-q031","question":"The soup smells so good that I can't help but ___ it.","options":["A. tasted","B. tasting","C. taste","D. to taste"],"answer":"C","answer_index":2,"hint":"can't help but 後面接原形動詞 taste。"},
+          {"id":"h1-3-u1-q032","question":"The students couldn't help but ___ during the dull class.","options":["A. talking","B. talked","C. to talk","D. talk"],"answer":"D","answer_index":3,"hint":"couldn't help but 後面要接原形動詞 talk。"},
+          {"id":"h1-3-u1-q033","question":"I can't help but ___ about the juice spilling out.","options":["A. worry","B. worrying","C. worried","D. to worry"],"answer":"A","answer_index":0,"hint":"can't help but 後面使用原形動詞 worry。"},
+          {"id":"h1-3-u1-q034","question":"The shop was crowded, so Nina couldn't help but ___ quickly.","options":["A. leaving","B. leave","C. left","D. to leave"],"answer":"B","answer_index":1,"hint":"couldn't help but 後面接原形動詞 leave。"},
+          {"id":"h1-3-u1-q035","question":"I can't help but ___ the gorgeous view from here.","options":["A. admired","B. admiring","C. admire","D. to admire"],"answer":"C","answer_index":2,"hint":"can't help but 後面要用原形動詞 admire。"},
+          {"id":"h1-3-u1-q036","question":"After his endless complaints, we couldn't help but ___ him.","options":["A. avoiding","B. avoided","C. to avoid","D. avoid"],"answer":"D","answer_index":3,"hint":"couldn't help but 後面接原形動詞 avoid。"},
+          {"id":"h1-3-u1-q037","question":"You can't help but ___ sorry for the hungry cat.","options":["A. feel","B. feeling","C. felt","D. to feel"],"answer":"A","answer_index":0,"hint":"can't help but 後面接原形動詞 feel。"},
+          {"id":"h1-3-u1-q038","question":"The child couldn't help but ___ for mercy.","options":["A. begging","B. beg","C. begged","D. to beg"],"answer":"B","answer_index":1,"hint":"couldn't help but 後面使用原形動詞 beg。"},
+          {"id":"h1-3-u1-q039","question":"I can't help but ___ his decision to refuse the deal.","options":["A. respected","B. respecting","C. respect","D. to respect"],"answer":"C","answer_index":2,"hint":"can't help but 後面接原形動詞 respect。"},
+          {"id":"h1-3-u1-q040","question":"When her drink spilled out, she couldn't help but ___.","options":["A. gasping","B. gasped","C. to gasp","D. gasp"],"answer":"D","answer_index":3,"hint":"couldn't help but 後面要用原形動詞 gasp。"},
+          {"id":"h1-3-u1-q041","question":"We can't help but ___ at the gorgeous stars tonight.","options":["A. gaze","B. gazing","C. gazed","D. to gaze"],"answer":"A","answer_index":0,"hint":"can't help but 後面接原形動詞 gaze。"},
+          {"id":"h1-3-u1-q042","question":"After the dull show, I couldn't help but ___ early.","options":["A. leaving","B. leave","C. left","D. to leave"],"answer":"B","answer_index":1,"hint":"couldn't help but 後面接原形動詞 leave。"},
+          {"id":"h1-3-u1-q043","question":"Sam can't help but ___ his latest purchase to everyone.","options":["A. showed","B. showing","C. show","D. to show"],"answer":"C","answer_index":2,"hint":"can't help but 後面要用原形動詞 show。"},
+          {"id":"h1-3-u1-q044","question":"We couldn't help but ___ him another chance.","options":["A. giving","B. gave","C. to give","D. give"],"answer":"D","answer_index":3,"hint":"couldn't help but 後面接原形動詞 give。"},
+          {"id":"h1-3-u1-q045","question":"I can't help but ___ when people show mercy.","options":["A. smile","B. smiling","C. smiled","D. to smile"],"answer":"A","answer_index":0,"hint":"can't help but 後面用原形動詞 smile。"},
+          {"id":"h1-3-u1-q046","question":"The music was beautiful, and Ava couldn't help but ___.","options":["A. dancing","B. dance","C. danced","D. to dance"],"answer":"B","answer_index":1,"hint":"couldn't help but 後面接原形動詞 dance。"},
+          {"id":"h1-3-u1-q047","question":"I can't help but ___ grateful for your allowance.","options":["A. felt","B. feeling","C. feel","D. to feel"],"answer":"C","answer_index":2,"hint":"can't help but 後面要接原形動詞 feel。"},
+          {"id":"h1-3-u1-q048","question":"When Ben saw the endless road, he couldn't help but ___.","options":["A. stopping","B. stopped","C. to stop","D. stop"],"answer":"D","answer_index":3,"hint":"couldn't help but 後面使用原形動詞 stop。"},
+          {"id":"h1-3-u1-q049","question":"We can't help but ___ her gorgeous performance.","options":["A. appreciate","B. appreciating","C. appreciated","D. to appreciate"],"answer":"A","answer_index":0,"hint":"can't help but 後面接原形動詞 appreciate。"},
+          {"id":"h1-3-u1-q050","question":"After spilling the juice, Leo couldn't help but ___ sorry.","options":["A. feeling","B. feel","C. felt","D. to feel"],"answer":"B","answer_index":1,"hint":"couldn't help but 後面要接原形動詞 feel。"}
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          {"id":"h1-3-u1-sv001","vocab_id":"h1-3-u1-v001","sentence":"The annual meeting seemed endless, and everyone was tired.","sentence_chinese":"年度會議似乎沒完沒了，每個人都累了。"},
+          {"id":"h1-3-u1-sv002","vocab_id":"h1-3-u1-v002","sentence":"The major general's speech was so dull that many soldiers felt sleepy.","sentence_chinese":"少將的演講非常無聊，許多士兵都昏昏欲睡。"},
+          {"id":"h1-3-u1-sv003","vocab_id":"h1-3-u1-v003","sentence":"People should make allowance for possible losses along the way when they make investments.","sentence_chinese":"人們投資時應該把過程中可能發生的損失考慮進去。"},
+          {"id":"h1-3-u1-sv004","vocab_id":"h1-3-u1-v004","sentence":"Many people have gotten used to purchasing on the Internet because it's very convenient.","sentence_chinese":"許多人已習慣在網路上購物，因為非常方便。"},
+          {"id":"h1-3-u1-sv005","vocab_id":"h1-3-u1-v005","sentence":"As soon as Christine showed up in her gorgeous pink dress, she caught everyone's attention at the party.","sentence_chinese":"Christine 穿著華麗的粉紅色洋裝一出現，便吸引了派對上所有人的目光。"},
+          {"id":"h1-3-u1-sv006","vocab_id":"h1-3-u1-v006","sentence":"Michael refused my offer to help, saying that he would be able to finish the difficult task on his own.","sentence_chinese":"Michael 拒絕了我的幫忙，說他能獨自完成這項困難的任務。"},
+          {"id":"h1-3-u1-sv007","vocab_id":"h1-3-u1-v007","sentence":"I would appreciate it if you could do the dishes tonight. I'm really exhausted.","sentence_chinese":"如果你今晚可以洗碗，我會很感激。我真的累壞了。"},
+          {"id":"h1-3-u1-sv008","vocab_id":"h1-3-u1-v008","sentence":"On learning that he had been sentenced to death, the man cried and kept begging for mercy.","sentence_chinese":"得知自己被判死刑後，那名男子哭著不停求饒。"}
+        ],
+        "phrases": [
+          {"id":"h1-3-u1-sp001","phrase_id":"h1-3-u1-p001","sentence":"The little boy dropped his glass on the floor, and all the juice spilled out.","sentence_chinese":"小男孩把杯子摔到地上，果汁全灑了出來。"}
+        ],
+        "grammar": [
+          {"id":"h1-3-u1-sg001","sentence":"I can't help but laugh at his jokes.","sentence_chinese":"我聽到他的笑話就忍不住笑。"},
+          {"id":"h1-3-u1-sg002","sentence":"She couldn't help but cry after hearing the news.","sentence_chinese":"她聽到消息後忍不住哭了。"},
+          {"id":"h1-3-u1-sg003","sentence":"We can't help but appreciate your kindness.","sentence_chinese":"我們忍不住感激你的善意。"},
+          {"id":"h1-3-u1-sg004","sentence":"Kevin couldn't help but yawn during the dull speech.","sentence_chinese":"Kevin 在無聊的演講中忍不住打呵欠。"},
+          {"id":"h1-3-u1-sg005","sentence":"I can't help but admire that gorgeous dress.","sentence_chinese":"我忍不住欣賞那件華麗的洋裝。"},
+          {"id":"h1-3-u1-sg006","sentence":"Nora couldn't help but complain about the endless line.","sentence_chinese":"Nora 忍不住抱怨那條沒完沒了的隊伍。"},
+          {"id":"h1-3-u1-sg007","sentence":"They can't help but purchase things online.","sentence_chinese":"他們忍不住在網路上購物。"},
+          {"id":"h1-3-u1-sg008","sentence":"Michael couldn't help but refuse the unfair offer.","sentence_chinese":"Michael 忍不住拒絕那項不公平的提議。"},
+          {"id":"h1-3-u1-sg009","sentence":"I can't help but feel mercy for him.","sentence_chinese":"我忍不住憐憫他。"},
+          {"id":"h1-3-u1-sg010","sentence":"Amy couldn't help but gasp when the juice spilled out.","sentence_chinese":"果汁灑出來時，Amy 忍不住倒抽一口氣。"},
+          {"id":"h1-3-u1-sg011","sentence":"We can't help but make allowance for his age.","sentence_chinese":"我們不得不考量他的年紀。"},
+          {"id":"h1-3-u1-sg012","sentence":"The children couldn't help but laugh at the clown.","sentence_chinese":"孩子們看到小丑忍不住笑了。"},
+          {"id":"h1-3-u1-sg013","sentence":"I can't help but look at the clock.","sentence_chinese":"我忍不住看時鐘。"},
+          {"id":"h1-3-u1-sg014","sentence":"She couldn't help but smile at the puppy.","sentence_chinese":"她看到小狗忍不住微笑。"},
+          {"id":"h1-3-u1-sg015","sentence":"They can't help but admire the gorgeous sunset.","sentence_chinese":"他們忍不住欣賞絢麗的夕陽。"},
+          {"id":"h1-3-u1-sg016","sentence":"Ben couldn't help but worry about his purchase.","sentence_chinese":"Ben 忍不住擔心他買的東西。"},
+          {"id":"h1-3-u1-sg017","sentence":"You can't help but feel bored in this dull class.","sentence_chinese":"你在這堂無聊的課上忍不住感到厭煩。"},
+          {"id":"h1-3-u1-sg018","sentence":"We couldn't help but leave the endless meeting early.","sentence_chinese":"我們忍不住提早離開那場冗長的會議。"},
+          {"id":"h1-3-u1-sg019","sentence":"I can't help but respect her decision.","sentence_chinese":"我忍不住尊重她的決定。"},
+          {"id":"h1-3-u1-sg020","sentence":"The man couldn't help but beg for mercy.","sentence_chinese":"那名男子忍不住求饒。"},
+          {"id":"h1-3-u1-sg021","sentence":"We can't help but stare at the stars.","sentence_chinese":"我們忍不住凝視星星。"},
+          {"id":"h1-3-u1-sg022","sentence":"Lisa couldn't help but refuse his request.","sentence_chinese":"Lisa 忍不住拒絕他的要求。"},
+          {"id":"h1-3-u1-sg023","sentence":"I can't help but show my appreciation.","sentence_chinese":"我忍不住表達我的感激。"},
+          {"id":"h1-3-u1-sg024","sentence":"The audience couldn't help but dance to the music.","sentence_chinese":"觀眾忍不住隨著音樂跳舞。"},
+          {"id":"h1-3-u1-sg025","sentence":"We can't help but notice her gorgeous gown.","sentence_chinese":"我們忍不住注意到她華麗的禮服。"},
+          {"id":"h1-3-u1-sg026","sentence":"Sam couldn't help but record every purchase.","sentence_chinese":"Sam 忍不住記錄每筆購物。"},
+          {"id":"h1-3-u1-sg027","sentence":"I can't help but feel sleepy during dull talks.","sentence_chinese":"我聽無聊的談話時忍不住想睡。"},
+          {"id":"h1-3-u1-sg028","sentence":"Ted couldn't help but clean up the spilled juice.","sentence_chinese":"Ted 忍不住把灑出的果汁清乾淨。"},
+          {"id":"h1-3-u1-sg029","sentence":"You can't help but appreciate this act of mercy.","sentence_chinese":"你忍不住感激這項慈悲之舉。"},
+          {"id":"h1-3-u1-sg030","sentence":"Mia couldn't help but smile throughout the endless trip.","sentence_chinese":"Mia 在漫長的旅途中忍不住一直微笑。"}
+        ]
+      }
+    }
+  }
+}
