@@ -1,0 +1,127 @@
+{
+  "units": {
+    "h1-3-u5": {
+      "title": "U5",
+      "vocab": [
+        {"id":"h1-3-u5-v001","word":"capacity","part_of_speech":"名","chinese":"職位；身分；容量","sentence":"The stadium has a seating capacity of ten thousand people.","sentence_chinese":"這座體育場可容納一萬名觀眾。"},
+        {"id":"h1-3-u5-v002","word":"independently","part_of_speech":"副","chinese":"獨立地；自主地","sentence":"Roger teaches his children to think independently.","sentence_chinese":"Roger 教導孩子們獨立思考。"},
+        {"id":"h1-3-u5-v003","word":"eagerness","part_of_speech":"名","chinese":"渴望；熱切","sentence":"Her eagerness to learn impressed the teacher.","sentence_chinese":"她求知的熱切態度給老師留下深刻印象。"},
+        {"id":"h1-3-u5-v004","word":"familiarity","part_of_speech":"名","chinese":"熟悉；通曉","sentence":"Kevin's familiarity with the city helped us find the station.","sentence_chinese":"Kevin 對這座城市的熟悉幫助我們找到車站。"},
+        {"id":"h1-3-u5-v005","word":"resume","part_of_speech":"名","chinese":"履歷；簡歷","sentence":"Scott sent his resume to just a few companies and got offers from every one of them.","sentence_chinese":"Scott 只把履歷寄給幾家公司，卻收到每一家的錄取通知。"},
+        {"id":"h1-3-u5-v006","word":"employment","part_of_speech":"名","chinese":"雇用；就業；工作","sentence":"Cindy has been looking for employment since she was laid off last year.","sentence_chinese":"Cindy 自從去年被裁員後，一直在找工作。"},
+        {"id":"h1-3-u5-v007","word":"deadline","part_of_speech":"名","chinese":"截止日期；最後期限","sentence":"The deadline for my geography report is this Friday, and I have been working on it for several days.","sentence_chinese":"我的地理報告截止日是本週五，我已經做了好幾天。"}
+      ],
+      "phrases": [
+        {"id":"h1-3-u5-p001","phrase":"fill in","chinese":"填寫","sentence":"Before the interview, please fill in this form first.","sentence_chinese":"面試前，請先填寫這張表格。"}
+      ],
+      "grammar": {
+        "tips": [
+          {"label":"單一內容用 is","text":"the following 後面若指一項內容或單數名詞，be 動詞用 is。"},
+          {"label":"多項內容用 are","text":"the following 後面若指兩項以上或複數名詞，be 動詞用 are。"},
+          {"label":"判斷重點","text":"不要只看 the following，要看後方實際指的是單一還是多項人事物。"}
+        ],
+        "notes": [
+          {"title":"the following 的單複數一致","rule":"The following + is + 單一人事物；The following + are + 兩個以上的人事物","description":"the following 意為「以下的人、事或物」。當它作主詞時，be 動詞的單複數由後面所列內容決定：單一內容用 is，多項內容用 are。","examples":["The following is my opinion of the new plan.","The following are the reasons for my decision.","The following is an example of a good resume."]}
+        ],
+        "quiz": [
+          {"id":"h1-3-u5-q001","question":"The following ___ my resume for the position.","options":["A. is","B. are","C. be","D. being"],"answer":"A","answer_index":0,"hint":"my resume 是單一事物，所以用 is。"},
+          {"id":"h1-3-u5-q002","question":"The following ___ the two deadlines for this project.","options":["A. is","B. are","C. was","D. be"],"answer":"B","answer_index":1,"hint":"two deadlines 是複數，所以用 are。"},
+          {"id":"h1-3-u5-q003","question":"The following ___ one example of independent work.","options":["A. are","B. was","C. is","D. be"],"answer":"C","answer_index":2,"hint":"one example 是單數，所以用 is。"},
+          {"id":"h1-3-u5-q004","question":"The following ___ the skills needed for employment.","options":["A. is","B. was","C. be","D. are"],"answer":"D","answer_index":3,"hint":"the skills 是複數，所以用 are。"},
+          {"id":"h1-3-u5-q005","question":"The following ___ my opinion about the job.","options":["A. is","B. are","C. be","D. being"],"answer":"A","answer_index":0,"hint":"my opinion 是單一內容，所以用 is。"},
+          {"id":"h1-3-u5-q006","question":"The following ___ three questions on the form.","options":["A. is","B. are","C. was","D. be"],"answer":"B","answer_index":1,"hint":"three questions 是複數，所以用 are。"},
+          {"id":"h1-3-u5-q007","question":"The following ___ a summary of her experience.","options":["A. are","B. was","C. is","D. be"],"answer":"C","answer_index":2,"hint":"a summary 是單數，所以用 is。"},
+          {"id":"h1-3-u5-q008","question":"The following ___ the duties of this position.","options":["A. is","B. was","C. be","D. are"],"answer":"D","answer_index":3,"hint":"the duties 是複數，所以用 are。"},
+          {"id":"h1-3-u5-q009","question":"The following ___ the final deadline for applications.","options":["A. is","B. are","C. be","D. being"],"answer":"A","answer_index":0,"hint":"the final deadline 是單數，所以用 is。"},
+          {"id":"h1-3-u5-q010","question":"The following ___ several ways to work independently.","options":["A. is","B. are","C. was","D. be"],"answer":"B","answer_index":1,"hint":"several ways 是複數，所以用 are。"},
+          {"id":"h1-3-u5-q011","question":"The following ___ an example of a completed form.","options":["A. are","B. was","C. is","D. be"],"answer":"C","answer_index":2,"hint":"an example 是單數，所以用 is。"},
+          {"id":"h1-3-u5-q012","question":"The following ___ the names of qualified workers.","options":["A. is","B. was","C. be","D. are"],"answer":"D","answer_index":3,"hint":"the names 是複數，所以用 are。"},
+          {"id":"h1-3-u5-q013","question":"The following ___ a useful tip for your interview.","options":["A. is","B. are","C. be","D. being"],"answer":"A","answer_index":0,"hint":"a useful tip 是單數，所以用 is。"},
+          {"id":"h1-3-u5-q014","question":"The following ___ the main sections of a resume.","options":["A. is","B. are","C. was","D. be"],"answer":"B","answer_index":1,"hint":"the main sections 是複數，所以用 are。"},
+          {"id":"h1-3-u5-q015","question":"The following ___ one reason for her eagerness.","options":["A. are","B. was","C. is","D. be"],"answer":"C","answer_index":2,"hint":"one reason 是單數，所以用 is。"},
+          {"id":"h1-3-u5-q016","question":"The following ___ the rules for filling in the form.","options":["A. is","B. was","C. be","D. are"],"answer":"D","answer_index":3,"hint":"the rules 是複數，所以用 are。"},
+          {"id":"h1-3-u5-q017","question":"The following ___ the capacity of the new stadium.","options":["A. is","B. are","C. be","D. being"],"answer":"A","answer_index":0,"hint":"the capacity 是單數，所以用 is。"},
+          {"id":"h1-3-u5-q018","question":"The following ___ four available positions in our company.","options":["A. is","B. are","C. was","D. be"],"answer":"B","answer_index":1,"hint":"four available positions 是複數，所以用 are。"},
+          {"id":"h1-3-u5-q019","question":"The following ___ a description of the job.","options":["A. are","B. was","C. is","D. be"],"answer":"C","answer_index":2,"hint":"a description 是單數，所以用 is。"},
+          {"id":"h1-3-u5-q020","question":"The following ___ the documents needed by Friday.","options":["A. is","B. was","C. be","D. are"],"answer":"D","answer_index":3,"hint":"the documents 是複數，所以用 are。"},
+          {"id":"h1-3-u5-q021","question":"The following ___ my contact information.","options":["A. is","B. are","C. be","D. being"],"answer":"A","answer_index":0,"hint":"information 是不可數名詞，視為單數，所以用 is。"},
+          {"id":"h1-3-u5-q022","question":"The following ___ the jobs I applied for.","options":["A. is","B. are","C. was","D. be"],"answer":"B","answer_index":1,"hint":"the jobs 是複數，所以用 are。"},
+          {"id":"h1-3-u5-q023","question":"The following ___ an important employment notice.","options":["A. are","B. was","C. is","D. be"],"answer":"C","answer_index":2,"hint":"an important notice 是單數，所以用 is。"},
+          {"id":"h1-3-u5-q024","question":"The following ___ the interview times for tomorrow.","options":["A. is","B. was","C. be","D. are"],"answer":"D","answer_index":3,"hint":"the interview times 是複數，所以用 are。"},
+          {"id":"h1-3-u5-q025","question":"The following ___ a sign of her eagerness to learn.","options":["A. is","B. are","C. be","D. being"],"answer":"A","answer_index":0,"hint":"a sign 是單數，所以用 is。"},
+          {"id":"h1-3-u5-q026","question":"The following ___ two examples of familiar tasks.","options":["A. is","B. are","C. was","D. be"],"answer":"B","answer_index":1,"hint":"two examples 是複數，所以用 are。"},
+          {"id":"h1-3-u5-q027","question":"The following ___ the correct answer to this question.","options":["A. are","B. was","C. is","D. be"],"answer":"C","answer_index":2,"hint":"the correct answer 是單數，所以用 is。"},
+          {"id":"h1-3-u5-q028","question":"The following ___ the steps for completing your resume.","options":["A. is","B. was","C. be","D. are"],"answer":"D","answer_index":3,"hint":"the steps 是複數，所以用 are。"},
+          {"id":"h1-3-u5-q029","question":"The following ___ a message from the manager.","options":["A. is","B. are","C. be","D. being"],"answer":"A","answer_index":0,"hint":"a message 是單數，所以用 is。"},
+          {"id":"h1-3-u5-q030","question":"The following ___ the qualities we need in a worker.","options":["A. is","B. are","C. was","D. be"],"answer":"B","answer_index":1,"hint":"the qualities 是複數，所以用 are。"},
+          {"id":"h1-3-u5-q031","question":"The following ___ one possible solution to the problem.","options":["A. are","B. was","C. is","D. be"],"answer":"C","answer_index":2,"hint":"one possible solution 是單數，所以用 is。"},
+          {"id":"h1-3-u5-q032","question":"The following ___ the dates of our training sessions.","options":["A. is","B. was","C. be","D. are"],"answer":"D","answer_index":3,"hint":"the dates 是複數，所以用 are。"},
+          {"id":"h1-3-u5-q033","question":"The following ___ the purpose of today's meeting.","options":["A. is","B. are","C. be","D. being"],"answer":"A","answer_index":0,"hint":"the purpose 是單數，所以用 is。"},
+          {"id":"h1-3-u5-q034","question":"The following ___ five tips for finding employment.","options":["A. is","B. are","C. was","D. be"],"answer":"B","answer_index":1,"hint":"five tips 是複數，所以用 are。"},
+          {"id":"h1-3-u5-q035","question":"The following ___ an outline of the report.","options":["A. are","B. was","C. is","D. be"],"answer":"C","answer_index":2,"hint":"an outline 是單數，所以用 is。"},
+          {"id":"h1-3-u5-q036","question":"The following ___ the responsibilities of this job.","options":["A. is","B. was","C. be","D. are"],"answer":"D","answer_index":3,"hint":"the responsibilities 是複數，所以用 are。"},
+          {"id":"h1-3-u5-q037","question":"The following ___ my reason for missing the deadline.","options":["A. is","B. are","C. be","D. being"],"answer":"A","answer_index":0,"hint":"my reason 是單數，所以用 is。"},
+          {"id":"h1-3-u5-q038","question":"The following ___ the companies that received his resume.","options":["A. is","B. are","C. was","D. be"],"answer":"B","answer_index":1,"hint":"the companies 是複數，所以用 are。"},
+          {"id":"h1-3-u5-q039","question":"The following ___ a question about your experience.","options":["A. are","B. was","C. is","D. be"],"answer":"C","answer_index":2,"hint":"a question 是單數，所以用 is。"},
+          {"id":"h1-3-u5-q040","question":"The following ___ the forms you must fill in.","options":["A. is","B. was","C. be","D. are"],"answer":"D","answer_index":3,"hint":"the forms 是複數，所以用 are。"},
+          {"id":"h1-3-u5-q041","question":"The following ___ a record of my employment history.","options":["A. is","B. are","C. be","D. being"],"answer":"A","answer_index":0,"hint":"a record 是單數，所以用 is。"},
+          {"id":"h1-3-u5-q042","question":"The following ___ our goals for this month.","options":["A. is","B. are","C. was","D. be"],"answer":"B","answer_index":1,"hint":"our goals 是複數，所以用 are。"},
+          {"id":"h1-3-u5-q043","question":"The following ___ the best example of eagerness.","options":["A. are","B. was","C. is","D. be"],"answer":"C","answer_index":2,"hint":"the best example 是單數，所以用 is。"},
+          {"id":"h1-3-u5-q044","question":"The following ___ the workers with suitable experience.","options":["A. is","B. was","C. be","D. are"],"answer":"D","answer_index":3,"hint":"the workers 是複數，所以用 are。"},
+          {"id":"h1-3-u5-q045","question":"The following ___ a note about the deadline.","options":["A. is","B. are","C. be","D. being"],"answer":"A","answer_index":0,"hint":"a note 是單數，所以用 is。"},
+          {"id":"h1-3-u5-q046","question":"The following ___ three examples of large capacity.","options":["A. is","B. are","C. was","D. be"],"answer":"B","answer_index":1,"hint":"three examples 是複數，所以用 are。"},
+          {"id":"h1-3-u5-q047","question":"The following ___ my plan for the interview.","options":["A. are","B. was","C. is","D. be"],"answer":"C","answer_index":2,"hint":"my plan 是單數，所以用 is。"},
+          {"id":"h1-3-u5-q048","question":"The following ___ the answers on your form.","options":["A. is","B. was","C. be","D. are"],"answer":"D","answer_index":3,"hint":"the answers 是複數，所以用 are。"},
+          {"id":"h1-3-u5-q049","question":"The following ___ a short review of his resume.","options":["A. is","B. are","C. be","D. being"],"answer":"A","answer_index":0,"hint":"a short review 是單數，所以用 is。"},
+          {"id":"h1-3-u5-q050","question":"The following ___ the final tasks before the deadline.","options":["A. is","B. are","C. was","D. be"],"answer":"B","answer_index":1,"hint":"the final tasks 是複數，所以用 are。"}
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          {"id":"h1-3-u5-sv001","vocab_id":"h1-3-u5-v001","sentence":"The stadium has a seating capacity of ten thousand people.","sentence_chinese":"這座體育場可容納一萬名觀眾。"},
+          {"id":"h1-3-u5-sv002","vocab_id":"h1-3-u5-v002","sentence":"Roger teaches his children to think independently.","sentence_chinese":"Roger 教導孩子們獨立思考。"},
+          {"id":"h1-3-u5-sv003","vocab_id":"h1-3-u5-v003","sentence":"Her eagerness to learn impressed the teacher.","sentence_chinese":"她求知的熱切態度給老師留下深刻印象。"},
+          {"id":"h1-3-u5-sv004","vocab_id":"h1-3-u5-v004","sentence":"Kevin's familiarity with the city helped us find the station.","sentence_chinese":"Kevin 對這座城市的熟悉幫助我們找到車站。"},
+          {"id":"h1-3-u5-sv005","vocab_id":"h1-3-u5-v005","sentence":"Scott sent his resume to just a few companies and got offers from every one of them.","sentence_chinese":"Scott 只把履歷寄給幾家公司，卻收到每一家的錄取通知。"},
+          {"id":"h1-3-u5-sv006","vocab_id":"h1-3-u5-v006","sentence":"Cindy has been looking for employment since she was laid off last year.","sentence_chinese":"Cindy 自從去年被裁員後，一直在找工作。"},
+          {"id":"h1-3-u5-sv007","vocab_id":"h1-3-u5-v007","sentence":"The deadline for my geography report is this Friday, and I have been working on it for several days.","sentence_chinese":"我的地理報告截止日是本週五，我已經做了好幾天。"}
+        ],
+        "phrases": [
+          {"id":"h1-3-u5-sp001","phrase_id":"h1-3-u5-p001","sentence":"Before the interview, please fill in this form first.","sentence_chinese":"面試前，請先填寫這張表格。"}
+        ],
+        "grammar": [
+          {"id":"h1-3-u5-sg001","sentence":"The following is my resume for the position.","sentence_chinese":"以下是我應徵該職位的履歷。"},
+          {"id":"h1-3-u5-sg002","sentence":"The following are the deadlines for this project.","sentence_chinese":"以下是這項專案的截止日期。"},
+          {"id":"h1-3-u5-sg003","sentence":"The following is one example of independent work.","sentence_chinese":"以下是一個獨立工作的例子。"},
+          {"id":"h1-3-u5-sg004","sentence":"The following are the skills needed for employment.","sentence_chinese":"以下是就業所需的技能。"},
+          {"id":"h1-3-u5-sg005","sentence":"The following is my opinion about the job.","sentence_chinese":"以下是我對這份工作的看法。"},
+          {"id":"h1-3-u5-sg006","sentence":"The following are three questions on the form.","sentence_chinese":"以下是表格上的三個問題。"},
+          {"id":"h1-3-u5-sg007","sentence":"The following is a summary of her experience.","sentence_chinese":"以下是她經驗的摘要。"},
+          {"id":"h1-3-u5-sg008","sentence":"The following are the duties of this position.","sentence_chinese":"以下是這個職位的工作職責。"},
+          {"id":"h1-3-u5-sg009","sentence":"The following is the final deadline for applications.","sentence_chinese":"以下是申請的最後期限。"},
+          {"id":"h1-3-u5-sg010","sentence":"The following are several ways to work independently.","sentence_chinese":"以下是幾種獨立工作的方法。"},
+          {"id":"h1-3-u5-sg011","sentence":"The following is an example of a completed form.","sentence_chinese":"以下是一份填妥表格的範例。"},
+          {"id":"h1-3-u5-sg012","sentence":"The following are the names of qualified workers.","sentence_chinese":"以下是合格工作人員的姓名。"},
+          {"id":"h1-3-u5-sg013","sentence":"The following is a useful tip for your interview.","sentence_chinese":"以下是對你面試有用的提示。"},
+          {"id":"h1-3-u5-sg014","sentence":"The following are the main sections of a resume.","sentence_chinese":"以下是履歷的主要部分。"},
+          {"id":"h1-3-u5-sg015","sentence":"The following is one reason for her eagerness.","sentence_chinese":"以下是她如此渴望的一個原因。"},
+          {"id":"h1-3-u5-sg016","sentence":"The following are the rules for filling in forms.","sentence_chinese":"以下是填寫表格的規則。"},
+          {"id":"h1-3-u5-sg017","sentence":"The following is the capacity of the new stadium.","sentence_chinese":"以下是新體育場的容納人數。"},
+          {"id":"h1-3-u5-sg018","sentence":"The following are four available positions in our company.","sentence_chinese":"以下是本公司四個目前開放的職位。"},
+          {"id":"h1-3-u5-sg019","sentence":"The following is a description of the job.","sentence_chinese":"以下是這份工作的說明。"},
+          {"id":"h1-3-u5-sg020","sentence":"The following are the documents needed by Friday.","sentence_chinese":"以下是星期五前需要的文件。"},
+          {"id":"h1-3-u5-sg021","sentence":"The following is my contact information.","sentence_chinese":"以下是我的聯絡資料。"},
+          {"id":"h1-3-u5-sg022","sentence":"The following are the jobs I applied for.","sentence_chinese":"以下是我申請的工作。"},
+          {"id":"h1-3-u5-sg023","sentence":"The following is an important employment notice.","sentence_chinese":"以下是一則重要的就業通知。"},
+          {"id":"h1-3-u5-sg024","sentence":"The following are the interview times for tomorrow.","sentence_chinese":"以下是明天的面試時間。"},
+          {"id":"h1-3-u5-sg025","sentence":"The following is a sign of her eagerness.","sentence_chinese":"以下是她熱切態度的一項表現。"},
+          {"id":"h1-3-u5-sg026","sentence":"The following are two examples of familiar tasks.","sentence_chinese":"以下是兩項熟悉任務的例子。"},
+          {"id":"h1-3-u5-sg027","sentence":"The following is the correct answer to this question.","sentence_chinese":"以下是這個問題的正確答案。"},
+          {"id":"h1-3-u5-sg028","sentence":"The following are the steps for completing your resume.","sentence_chinese":"以下是完成履歷的步驟。"},
+          {"id":"h1-3-u5-sg029","sentence":"The following is a message from the manager.","sentence_chinese":"以下是經理傳來的一則訊息。"},
+          {"id":"h1-3-u5-sg030","sentence":"The following are the qualities we need in workers.","sentence_chinese":"以下是我們需要員工具備的特質。"}
+        ]
+      }
+    }
+  }
+}
