@@ -1,0 +1,1210 @@
+{
+  "units": {
+    "h2-1-u3": {
+      "title": "U3",
+      "vocab": [
+        {
+          "word": "failure",
+          "part_of_speech": "名",
+          "chinese": "失敗；失敗的事物",
+          "sentence": "We can learn from failure.",
+          "sentence_chinese": "我們可以從失敗中學習。",
+          "id": "h2-1-u3-v001"
+        },
+        {
+          "word": "amusing",
+          "part_of_speech": "形",
+          "chinese": "有趣的；好笑的",
+          "sentence": "Do you know why this story is amusing?",
+          "sentence_chinese": "你知道這個故事為什麼有趣嗎？",
+          "id": "h2-1-u3-v002"
+        },
+        {
+          "word": "gather",
+          "part_of_speech": "動",
+          "chinese": "聚集；集合",
+          "sentence": "Please tell me where we should gather.",
+          "sentence_chinese": "請告訴我我們應該在哪裡集合。",
+          "id": "h2-1-u3-v003"
+        },
+        {
+          "word": "organization",
+          "part_of_speech": "名",
+          "chinese": "組織；團體",
+          "sentence": "I know what this organization does.",
+          "sentence_chinese": "我知道這個組織做些什麼。",
+          "id": "h2-1-u3-v004"
+        },
+        {
+          "word": "research",
+          "part_of_speech": "名",
+          "chinese": "研究",
+          "sentence": "Their research takes a lot of time.",
+          "sentence_chinese": "他們的研究需要很多時間。",
+          "id": "h2-1-u3-v005"
+        },
+        {
+          "word": "display",
+          "part_of_speech": "動",
+          "chinese": "展示；陳列",
+          "sentence": "Please tell me where we can display these pictures.",
+          "sentence_chinese": "請告訴我我們可以在哪裡展示這些圖片。",
+          "id": "h2-1-u3-v006"
+        },
+        {
+          "word": "insist",
+          "part_of_speech": "動",
+          "chinese": "堅持",
+          "sentence": "I insist on doing the work myself.",
+          "sentence_chinese": "我堅持自己做這份工作。",
+          "id": "h2-1-u3-v007"
+        },
+        {
+          "word": "goal",
+          "part_of_speech": "名",
+          "chinese": "目標",
+          "sentence": "Do you know what her goal is?",
+          "sentence_chinese": "你知道她的目標是什麼嗎？",
+          "id": "h2-1-u3-v008"
+        },
+        {
+          "word": "particularly",
+          "part_of_speech": "副",
+          "chinese": "尤其；特別地",
+          "sentence": "I particularly like the blue bag.",
+          "sentence_chinese": "我特別喜歡那個藍色的包包。",
+          "id": "h2-1-u3-v009"
+        },
+        {
+          "word": "frozen",
+          "part_of_speech": "形",
+          "chinese": "冷凍的；結冰的",
+          "sentence": "I wonder where Mom put the frozen fish.",
+          "sentence_chinese": "我想知道媽媽把冷凍魚放在哪裡。",
+          "id": "h2-1-u3-v010"
+        },
+        {
+          "word": "mix",
+          "part_of_speech": "名",
+          "chinese": "混合物",
+          "sentence": "This drink is a mix of milk and tea.",
+          "sentence_chinese": "這杯飲料是牛奶和茶的混合物。",
+          "id": "h2-1-u3-v011"
+        },
+        {
+          "word": "flavor",
+          "part_of_speech": "名",
+          "chinese": "味道；口味",
+          "sentence": "Please tell me which flavor you like.",
+          "sentence_chinese": "請告訴我你喜歡哪一種口味。",
+          "id": "h2-1-u3-v012"
+        },
+        {
+          "word": "period",
+          "part_of_speech": "名",
+          "chinese": "一段時間；時期",
+          "sentence": "She stayed home for a short period.",
+          "sentence_chinese": "她在家待了一小段時間。",
+          "id": "h2-1-u3-v013"
+        },
+        {
+          "word": "represent",
+          "part_of_speech": "動",
+          "chinese": "代表",
+          "sentence": "Do you know what these colors represent?",
+          "sentence_chinese": "你知道這些顏色代表什麼嗎？",
+          "id": "h2-1-u3-v014"
+        },
+        {
+          "word": "enjoyable",
+          "part_of_speech": "形",
+          "chinese": "令人愉快的",
+          "sentence": "Please tell me why the trip was enjoyable.",
+          "sentence_chinese": "請告訴我這趟旅行為什麼令人愉快。",
+          "id": "h2-1-u3-v015"
+        },
+        {
+          "word": "willing",
+          "part_of_speech": "形",
+          "chinese": "願意的",
+          "sentence": "She is willing to help us clean the room.",
+          "sentence_chinese": "她願意幫我們打掃房間。",
+          "id": "h2-1-u3-v016"
+        },
+        {
+          "word": "embrace",
+          "part_of_speech": "動",
+          "chinese": "擁抱；欣然接受",
+          "sentence": "We should learn to embrace new ideas.",
+          "sentence_chinese": "我們應該學習欣然接受新想法。",
+          "id": "h2-1-u3-v017"
+        },
+        {
+          "word": "path",
+          "part_of_speech": "名",
+          "chinese": "小徑；道路",
+          "sentence": "Do you know where this path goes?",
+          "sentence_chinese": "你知道這條小徑通往哪裡嗎？",
+          "id": "h2-1-u3-v018"
+        }
+      ],
+      "phrases": [
+        {
+          "phrase": "have...in common",
+          "chinese": "有……共同之處",
+          "sentence": "I know what these games have in common.",
+          "sentence_chinese": "我知道這些遊戲有什麼共同之處。",
+          "id": "h2-1-u3-p001"
+        },
+        {
+          "phrase": "come up with",
+          "chinese": "想出；提出",
+          "sentence": "I wonder how she came up with this idea.",
+          "sentence_chinese": "我想知道她是怎麼想出這個點子的。",
+          "id": "h2-1-u3-p002"
+        },
+        {
+          "phrase": "get / be tired of",
+          "chinese": "對……感到厭倦",
+          "sentence": "I am tired of eating the same food.",
+          "sentence_chinese": "我厭倦了吃同樣的食物。",
+          "id": "h2-1-u3-p003"
+        },
+        {
+          "phrase": "due to",
+          "chinese": "由於；因為",
+          "sentence": "The game was canceled due to heavy rain.",
+          "sentence_chinese": "比賽因為大雨而取消了。",
+          "id": "h2-1-u3-p004"
+        },
+        {
+          "phrase": "behind the times",
+          "chinese": "落伍的；過時的",
+          "sentence": "He thinks this phone is behind the times.",
+          "sentence_chinese": "他認為這支手機過時了。",
+          "id": "h2-1-u3-p005"
+        },
+        {
+          "phrase": "go out of business",
+          "chinese": "停業；倒閉",
+          "sentence": "Do you know why that shop went out of business?",
+          "sentence_chinese": "你知道那家店為什麼倒閉了嗎？",
+          "id": "h2-1-u3-p006"
+        }
+      ],
+      "grammar": {
+        "tips": [
+          {
+            "label": "限定三個對象",
+            "text": "One... another... the other...：一個……另一個……剩下的一個……。"
+          },
+          {
+            "label": "接單數名詞",
+            "text": "One + 單數名詞；another + 單數名詞；the other + 單數名詞。"
+          },
+          {
+            "label": "間接問句不倒裝",
+            "text": "主要子句 + 疑問詞 + 主詞 + 動詞；有 can、should 等助動詞時，放在主詞後面。"
+          },
+          {
+            "label": "移除問句的 do / does / did",
+            "text": "改為間接問句時，移除用來形成問句的 do / does / did，並調整主要動詞的單複數或時態。"
+          }
+        ],
+        "notes": [
+          {
+            "title": "限定三者：一個、另一個、最後一個",
+            "rule": "One... Another... The other...",
+            "description": "談的是同一個已知範圍中的三個對象。one 引出第一個，another 引出第二個，the other 指最後剩下的唯一一個。此處三個代名詞皆指單數，使用 is / was 等單數動詞。不可用複數 others 或 the others 代替最後一個。",
+            "examples": [
+              "There are three bags. One is red, another is blue, and the other is black.（有三個包包。一個紅色，另一個藍色，剩下的一個黑色。）"
+            ]
+          },
+          {
+            "title": "代名詞用法與接名詞用法",
+            "rule": "One + 單數名詞... another + 單數名詞... the other + 單數名詞...",
+            "description": "one、another、the other 可以單獨代替已知的單數名詞，也可以各自接單數名詞。another 是一個字，不能拆成 an other，也不能寫 an another。",
+            "examples": [
+              "One student reads, another student writes, and the other student listens.（一名學生閱讀，另一名學生寫字，剩下的一名學生聆聽。）",
+              "One reads, another writes, and the other listens.（一個人閱讀，另一個人寫字，剩下的一個人聆聽。）"
+            ]
+          },
+          {
+            "title": "wh- 間接問句的語序",
+            "rule": "S + V + wh- + S (+ Aux) + V",
+            "description": "疑問詞引導的名詞子句可作 know、wonder、tell 等動詞的受詞。子句使用直述句語序，主詞放在動詞前；有 can / should 等情態助動詞時，放在主詞後。整句是否加問號取決於主要子句：Do you know...? 是問句，I wonder... 是陳述句。",
+            "examples": [
+              "Where is the museum? → Do you know where the museum is?（你知道博物館在哪裡嗎？）",
+              "When should we gather? → Please tell me when we should gather.（請告訴我我們應該什麼時候集合。）",
+              "Why is the story amusing? → I wonder why the story is amusing.（我想知道這個故事為什麼有趣。）"
+            ]
+          },
+          {
+            "title": "do / does / did 的處理",
+            "rule": "wh- + 主詞 + 依主詞與時態變化的動詞",
+            "description": "一般疑問句中用來形成問句的 do / does / did，在普通間接問句裡不保留。原句用 does 時，單數主詞後的現在式動詞須加 s / es；原句用 did 時，主要動詞改成過去式。不要把 did 和過去式動詞一起使用。",
+            "examples": [
+              "Where does this path go? → Do you know where this path goes?（你知道這條小徑通往哪裡嗎？）",
+              "Why did the shop close? → I know why the shop closed.（我知道那家店為什麼關門了。）",
+              "Which flavor do you like? → Tell me which flavor you like.（告訴我你喜歡哪一種口味。）"
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "id": "h2-1-u3-q001",
+            "question": "The museum displays exactly three old phones. One is red, another is blue, and ________ is black.",
+            "options": [
+              "A. another",
+              "B. the other",
+              "C. other",
+              "D. others"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "範圍限定三支手機，已提到兩支，剩下的唯一一支用 the other。"
+          },
+          {
+            "id": "h2-1-u3-q002",
+            "question": "I have three goals. One is to read more, ________ is to exercise, and the other is to sleep earlier.",
+            "options": [
+              "A. another",
+              "B. other",
+              "C. others",
+              "D. the others"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "三個目標中的第二個用 another；one、another、the other 分別指三者。"
+          },
+          {
+            "id": "h2-1-u3-q003",
+            "question": "Three paths lead to the lake. ________ is short, another is long, and the other is dark.",
+            "options": [
+              "A. One",
+              "B. Ones",
+              "C. Others",
+              "D. Another one of"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "此處開始介紹三條小徑中的第一條，單獨作主詞用 One，搭配單數 is。"
+          },
+          {
+            "id": "h2-1-u3-q004",
+            "question": "We tried three flavors. One was sweet, another was sour, and ________ was salty.",
+            "options": [
+              "A. the other",
+              "B. others",
+              "C. other",
+              "D. the others"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "三種口味已提兩種，最後一種用單數 the other；the others 指複數。"
+          },
+          {
+            "id": "h2-1-u3-q005",
+            "question": "Three students are doing research. One student is reading, ________ student is writing, and the other student is drawing.",
+            "options": [
+              "A. others",
+              "B. the others",
+              "C. an other",
+              "D. another"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "another 可直接接單數 student，表示三人中的另一人；不能寫成 an other。"
+          },
+          {
+            "id": "h2-1-u3-q006",
+            "question": "There are three boxes. One holds books, another holds toys, and ________ holds a mix of old things.",
+            "options": [
+              "A. the others",
+              "B. others",
+              "C. the other",
+              "D. other"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "三箱中剩下的最後一箱是單數，須用 the other。"
+          },
+          {
+            "id": "h2-1-u3-q007",
+            "question": "The organization has three rooms. One is large, ________ is small, and the other is empty.",
+            "options": [
+              "A. others",
+              "B. other",
+              "C. another",
+              "D. an another"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "第二個房間用 another，可當代名詞；前面不能再加 an。"
+          },
+          {
+            "id": "h2-1-u3-q008",
+            "question": "Three pictures are on display. One picture shows a tree, another picture shows a lake, and ________ picture shows a bird.",
+            "options": [
+              "A. the others",
+              "B. the other",
+              "C. others",
+              "D. an other"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "最後一張圖片是特定的單一對象，用 the other + 單數名詞 picture。"
+          },
+          {
+            "id": "h2-1-u3-q009",
+            "question": "I watched three shows. One was amusing, ________ was sad, and the other was boring.",
+            "options": [
+              "A. others",
+              "B. another",
+              "C. other",
+              "D. an other"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "三部節目中的第二部用 another，單獨作主詞，搭配 was。"
+          },
+          {
+            "id": "h2-1-u3-q010",
+            "question": "There are three frozen meals. ________ meal is rice, another meal is noodles, and the other meal is soup.",
+            "options": [
+              "A. Ones",
+              "B. One",
+              "C. Others",
+              "D. The others"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "One 可接單數名詞 meal，引出三份餐點中的第一份。"
+          },
+          {
+            "id": "h2-1-u3-q011",
+            "question": "We have three plans. One is cheap, another is easy, and ________ is fast.",
+            "options": [
+              "A. the other",
+              "B. the others",
+              "C. other",
+              "D. others"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "三個計畫中，已介紹兩個，剩下的一個用 the other。"
+          },
+          {
+            "id": "h2-1-u3-q012",
+            "question": "Three shops went out of business. One sold shoes, ________ sold bags, and the other sold hats.",
+            "options": [
+              "A. others",
+              "B. other",
+              "C. another",
+              "D. an another"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "用 another 指三間店中的第二間；other 單獨使用不能代表一間店。"
+          },
+          {
+            "id": "h2-1-u3-q013",
+            "question": "There are three drinks. One is tea, another is juice, and ________ is milk.",
+            "options": [
+              "A. the others",
+              "B. others",
+              "C. the other",
+              "D. other"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "最後一杯是已知三杯中剩下的唯一一杯，因此用 the other。"
+          },
+          {
+            "id": "h2-1-u3-q014",
+            "question": "Three clubs will gather here. One club starts at nine, ________ club starts at ten, and the other club starts at eleven.",
+            "options": [
+              "A. another",
+              "B. others",
+              "C. the others",
+              "D. an other"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "another + 單數 club 表示三個社團中的另一個，且 another 是一個字。"
+          },
+          {
+            "id": "h2-1-u3-q015",
+            "question": "I bought three gifts. One is for Mom, another is for Dad, and ________ is for my sister.",
+            "options": [
+              "A. others",
+              "B. other",
+              "C. the others",
+              "D. the other"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "已指定三份禮物中的兩份，最後一份用 the other。"
+          },
+          {
+            "id": "h2-1-u3-q016",
+            "question": "We saw three films. One film was about failure, ________ film was about hope, and the other film was about love.",
+            "options": [
+              "A. another",
+              "B. an other",
+              "C. others",
+              "D. the others"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "第二部電影用 another film，another 後接單數名詞。"
+          },
+          {
+            "id": "h2-1-u3-q017",
+            "question": "Three teams have different goals. One wants to run, another wants to swim, and ________ wants to dance.",
+            "options": [
+              "A. the others",
+              "B. the other",
+              "C. others",
+              "D. other"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "此處指三隊中剩下的一隊，the other 是單數，與 wants 一致。"
+          },
+          {
+            "id": "h2-1-u3-q018",
+            "question": "The museum has three floors. One floor displays cars, another floor displays bikes, and ________ floor displays boats.",
+            "options": [
+              "A. the others",
+              "B. the other",
+              "C. others",
+              "D. an other"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "限定三層樓的最後一層用 the other floor，other 不加 s。"
+          },
+          {
+            "id": "h2-1-u3-q019",
+            "question": "There are three activities. One is a game, ________ is a walk, and the other is a boat ride.",
+            "options": [
+              "A. others",
+              "B. other",
+              "C. an another",
+              "D. another"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "三個活動的第二個用 another，前面不另外加冠詞。"
+          },
+          {
+            "id": "h2-1-u3-q020",
+            "question": "Three people are willing to help. ________ is my brother, another is my cousin, and the other is my teacher.",
+            "options": [
+              "A. Ones",
+              "B. Others",
+              "C. One",
+              "D. The others"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "介紹三個人中的第一個，用單數代名詞 One，後接 is。"
+          },
+          {
+            "id": "h2-1-u3-q021",
+            "question": "I have three ideas. One is old, another is new, and ________ is a mix of both.",
+            "options": [
+              "A. the other",
+              "B. other",
+              "C. the others",
+              "D. others"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "三個點子已提到兩個，剩下的一個用 the other。"
+          },
+          {
+            "id": "h2-1-u3-q022",
+            "question": "Three groups came up with plans. One group chose a game, ________ group chose a trip, and the other group chose a party.",
+            "options": [
+              "A. others",
+              "B. an other",
+              "C. the others",
+              "D. another"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "another group 是單數，指三組中的另一組；another 不能分開寫。"
+          },
+          {
+            "id": "h2-1-u3-q023",
+            "question": "We saw three signs. One sign represents peace, another sign represents love, and ________ sign represents hope.",
+            "options": [
+              "A. the others",
+              "B. the other",
+              "C. others",
+              "D. an other"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "最後一個標誌用 the other + 單數名詞 sign。"
+          },
+          {
+            "id": "h2-1-u3-q024",
+            "question": "Three children chose a path. One went left, ________ went right, and the other went straight.",
+            "options": [
+              "A. other",
+              "B. an other",
+              "C. the others",
+              "D. another"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "三個孩子中第二個用 another，這裡直接當主詞，不需加名詞。"
+          },
+          {
+            "id": "h2-1-u3-q025",
+            "question": "We planned three trips. One was short, another was long, and ________ was particularly enjoyable.",
+            "options": [
+              "A. the other",
+              "B. the others",
+              "C. other",
+              "D. others"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "第三趟是限定三趟中最後剩下的一趟，使用 the other。"
+          },
+          {
+            "id": "h2-1-u3-q026",
+            "question": "Do you know where ________?",
+            "options": [
+              "A. is the museum",
+              "B. does the museum be",
+              "C. the museum is",
+              "D. the museum be"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "where 引導間接問句，後面使用主詞 the museum + 動詞 is，不倒裝。"
+          },
+          {
+            "id": "h2-1-u3-q027",
+            "question": "Please tell me what ________.",
+            "options": [
+              "A. is her goal",
+              "B. does her goal be",
+              "C. her goal is",
+              "D. her goal be"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "what 後面使用直述句語序 her goal is；不可保留直接問句的 is her goal。"
+          },
+          {
+            "id": "h2-1-u3-q028",
+            "question": "I wonder why ________ so amusing.",
+            "options": [
+              "A. is the story",
+              "B. does the story be",
+              "C. the story be",
+              "D. the story is"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "間接問句用主詞 the story 在前、be 動詞 is 在後的語序。"
+          },
+          {
+            "id": "h2-1-u3-q029",
+            "question": "Can you tell me when ________ gather?",
+            "options": [
+              "A. we should",
+              "B. should we",
+              "C. do we should",
+              "D. we should to"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "間接問句保留情態助動詞 should，但順序為主詞 we + should + 原形動詞。"
+          },
+          {
+            "id": "h2-1-u3-q030",
+            "question": "I know what ________.",
+            "options": [
+              "A. do these colors represent",
+              "B. represent these colors",
+              "C. these colors do represents",
+              "D. these colors represent"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "一般現在式間接問句不保留問句助動詞 do；用主詞 these colors + 動詞 represent。"
+          },
+          {
+            "id": "h2-1-u3-q031",
+            "question": "Please tell me where ________ these pictures.",
+            "options": [
+              "A. can we display",
+              "B. do we can display",
+              "C. we can display",
+              "D. we can to display"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "where 後面依序為主詞 we、助動詞 can、原形動詞 display，不倒裝也不加 to。"
+          },
+          {
+            "id": "h2-1-u3-q032",
+            "question": "Do you know why ________ out of business last year?",
+            "options": [
+              "A. the shop went",
+              "B. did the shop go",
+              "C. the shop did went",
+              "D. went the shop"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "間接問句移除疑問句的 did，go 改為過去式 went，主詞放在動詞前。"
+          },
+          {
+            "id": "h2-1-u3-q033",
+            "question": "I wonder how ________ with that idea yesterday.",
+            "options": [
+              "A. did she come up",
+              "B. she did came up",
+              "C. came she up",
+              "D. she came up"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "間接問句使用 she came up；移除問句的 did 後，動詞用過去式 came。"
+          },
+          {
+            "id": "h2-1-u3-q034",
+            "question": "Can you tell me which flavor ________ best?",
+            "options": [
+              "A. do you like",
+              "B. like you",
+              "C. you like",
+              "D. you does like"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "which flavor 後接主詞 you + 動詞 like，不使用直接問句語序 do you like。"
+          },
+          {
+            "id": "h2-1-u3-q035",
+            "question": "I know why ________ tired of this game.",
+            "options": [
+              "A. he is",
+              "B. is he",
+              "C. does he be",
+              "D. he be"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "why 引導的間接問句用 he is，不能將 be 動詞移到主詞前面。"
+          },
+          {
+            "id": "h2-1-u3-q036",
+            "question": "Please tell me where ________ yesterday.",
+            "options": [
+              "A. did they gather",
+              "B. they did gathered",
+              "C. gathered they",
+              "D. they gathered"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "yesterday 表過去；間接問句不保留 did，使用主詞 they + 過去式 gathered。"
+          },
+          {
+            "id": "h2-1-u3-q037",
+            "question": "Do you know what ________ in common?",
+            "options": [
+              "A. do these games have",
+              "B. these games have",
+              "C. have these games",
+              "D. these games has"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "間接問句使用 these games have，主詞為複數，且不保留疑問句的 do。"
+          },
+          {
+            "id": "h2-1-u3-q038",
+            "question": "I wonder why ________ canceled due to rain.",
+            "options": [
+              "A. was the trip",
+              "B. did the trip be",
+              "C. the trip were",
+              "D. the trip was"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "間接問句用 the trip was；主詞 trip 是單數，不用 were。"
+          },
+          {
+            "id": "h2-1-u3-q039",
+            "question": "Can you explain how ________ from failure?",
+            "options": [
+              "A. can we learn",
+              "B. do we can learn",
+              "C. we can to learn",
+              "D. we can learn"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "how 後依序接主詞 we + 情態助動詞 can + 原形 learn。"
+          },
+          {
+            "id": "h2-1-u3-q040",
+            "question": "Please tell me what time ________ every day.",
+            "options": [
+              "A. does the museum open",
+              "B. the museum open",
+              "C. the museum opens",
+              "D. opens the museum"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "間接問句不保留 does；單數主詞 museum 的一般現在式動詞用 opens。"
+          },
+          {
+            "id": "h2-1-u3-q041",
+            "question": "I know where ________ the frozen fish yesterday.",
+            "options": [
+              "A. did Mom put",
+              "B. put Mom",
+              "C. Mom put",
+              "D. Mom puts"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "間接問句主詞 Mom 在前；yesterday 要用過去式 put，不使用 did Mom put 的問句語序。"
+          },
+          {
+            "id": "h2-1-u3-q042",
+            "question": "Do you know why ________ willing to help?",
+            "options": [
+              "A. is Amy",
+              "B. Amy is",
+              "C. does Amy be",
+              "D. Amy be"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "why 後使用主詞 Amy + be 動詞 is 的直述句語序。"
+          },
+          {
+            "id": "h2-1-u3-q043",
+            "question": "I wonder what ________ during that period.",
+            "options": [
+              "A. did he learn",
+              "B. he did learned",
+              "C. learned he",
+              "D. he learned"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "間接問句用 he learned；不能倒裝，也不能把 did 和過去式 learned 並用。"
+          },
+          {
+            "id": "h2-1-u3-q044",
+            "question": "Please tell me where ________.",
+            "options": [
+              "A. does this path go",
+              "B. this path goes",
+              "C. this path go",
+              "D. goes this path"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "間接問句移除 does，單數主詞 this path 後面的動詞改為 goes。"
+          },
+          {
+            "id": "h2-1-u3-q045",
+            "question": "Can you tell me how ________ this drink?",
+            "options": [
+              "A. do they make",
+              "B. they make",
+              "C. make they",
+              "D. they makes"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "間接問句用 they make，主詞 they 是複數，不加 s，也不倒裝。"
+          },
+          {
+            "id": "h2-1-u3-q046",
+            "question": "I know why ________ behind the times.",
+            "options": [
+              "A. is that phone",
+              "B. does that phone be",
+              "C. that phone is",
+              "D. that phone be"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "why 子句使用主詞 that phone + 動詞 is，與直接問句的語序不同。"
+          },
+          {
+            "id": "h2-1-u3-q047",
+            "question": "Please explain why ________ on leaving early yesterday.",
+            "options": [
+              "A. did he insist",
+              "B. he insisted",
+              "C. he did insisted",
+              "D. insisted he"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "間接問句不用 did he insist；依過去時間改為 he insisted。"
+          },
+          {
+            "id": "h2-1-u3-q048",
+            "question": "Do you know when ________ its research last month?",
+            "options": [
+              "A. did the organization finish",
+              "B. the organization finished",
+              "C. the organization did finished",
+              "D. finished the organization"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "when 後用主詞 the organization + 過去式 finished；不保留疑問句的 did。"
+          },
+          {
+            "id": "h2-1-u3-q049",
+            "question": "I wonder how ________ new ideas.",
+            "options": [
+              "A. we should embrace",
+              "B. should we embrace",
+              "C. do we should embrace",
+              "D. we should to embrace"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "間接問句用 we should embrace；should 放在主詞後，接原形動詞，不加 to。"
+          },
+          {
+            "id": "h2-1-u3-q050",
+            "question": "Can you tell me why ________ so enjoyable?",
+            "options": [
+              "A. the show was",
+              "B. was the show",
+              "C. did the show be",
+              "D. the show were"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "why 引導的間接問句用直述句語序 the show was；單數 show 不搭配 were。"
+          }
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          {
+            "id": "h2-1-u3-sv001",
+            "vocab_id": "h2-1-u3-v001",
+            "sentence": "We can learn from failure.",
+            "sentence_chinese": "我們可以從失敗中學習。"
+          },
+          {
+            "id": "h2-1-u3-sv002",
+            "vocab_id": "h2-1-u3-v002",
+            "sentence": "Do you know why this story is amusing?",
+            "sentence_chinese": "你知道這個故事為什麼有趣嗎？"
+          },
+          {
+            "id": "h2-1-u3-sv003",
+            "vocab_id": "h2-1-u3-v003",
+            "sentence": "Please tell me where we should gather.",
+            "sentence_chinese": "請告訴我我們應該在哪裡集合。"
+          },
+          {
+            "id": "h2-1-u3-sv004",
+            "vocab_id": "h2-1-u3-v004",
+            "sentence": "I know what this organization does.",
+            "sentence_chinese": "我知道這個組織做些什麼。"
+          },
+          {
+            "id": "h2-1-u3-sv005",
+            "vocab_id": "h2-1-u3-v005",
+            "sentence": "Their research takes a lot of time.",
+            "sentence_chinese": "他們的研究需要很多時間。"
+          },
+          {
+            "id": "h2-1-u3-sv006",
+            "vocab_id": "h2-1-u3-v006",
+            "sentence": "Please tell me where we can display these pictures.",
+            "sentence_chinese": "請告訴我我們可以在哪裡展示這些圖片。"
+          },
+          {
+            "id": "h2-1-u3-sv007",
+            "vocab_id": "h2-1-u3-v007",
+            "sentence": "I insist on doing the work myself.",
+            "sentence_chinese": "我堅持自己做這份工作。"
+          },
+          {
+            "id": "h2-1-u3-sv008",
+            "vocab_id": "h2-1-u3-v008",
+            "sentence": "Do you know what her goal is?",
+            "sentence_chinese": "你知道她的目標是什麼嗎？"
+          },
+          {
+            "id": "h2-1-u3-sv009",
+            "vocab_id": "h2-1-u3-v009",
+            "sentence": "I particularly like the blue bag.",
+            "sentence_chinese": "我特別喜歡那個藍色的包包。"
+          },
+          {
+            "id": "h2-1-u3-sv010",
+            "vocab_id": "h2-1-u3-v010",
+            "sentence": "I wonder where Mom put the frozen fish.",
+            "sentence_chinese": "我想知道媽媽把冷凍魚放在哪裡。"
+          },
+          {
+            "id": "h2-1-u3-sv011",
+            "vocab_id": "h2-1-u3-v011",
+            "sentence": "This drink is a mix of milk and tea.",
+            "sentence_chinese": "這杯飲料是牛奶和茶的混合物。"
+          },
+          {
+            "id": "h2-1-u3-sv012",
+            "vocab_id": "h2-1-u3-v012",
+            "sentence": "Please tell me which flavor you like.",
+            "sentence_chinese": "請告訴我你喜歡哪一種口味。"
+          },
+          {
+            "id": "h2-1-u3-sv013",
+            "vocab_id": "h2-1-u3-v013",
+            "sentence": "She stayed home for a short period.",
+            "sentence_chinese": "她在家待了一小段時間。"
+          },
+          {
+            "id": "h2-1-u3-sv014",
+            "vocab_id": "h2-1-u3-v014",
+            "sentence": "Do you know what these colors represent?",
+            "sentence_chinese": "你知道這些顏色代表什麼嗎？"
+          },
+          {
+            "id": "h2-1-u3-sv015",
+            "vocab_id": "h2-1-u3-v015",
+            "sentence": "Please tell me why the trip was enjoyable.",
+            "sentence_chinese": "請告訴我這趟旅行為什麼令人愉快。"
+          },
+          {
+            "id": "h2-1-u3-sv016",
+            "vocab_id": "h2-1-u3-v016",
+            "sentence": "She is willing to help us clean the room.",
+            "sentence_chinese": "她願意幫我們打掃房間。"
+          },
+          {
+            "id": "h2-1-u3-sv017",
+            "vocab_id": "h2-1-u3-v017",
+            "sentence": "We should learn to embrace new ideas.",
+            "sentence_chinese": "我們應該學習欣然接受新想法。"
+          },
+          {
+            "id": "h2-1-u3-sv018",
+            "vocab_id": "h2-1-u3-v018",
+            "sentence": "Do you know where this path goes?",
+            "sentence_chinese": "你知道這條小徑通往哪裡嗎？"
+          }
+        ],
+        "phrases": [
+          {
+            "id": "h2-1-u3-sp001",
+            "phrase_id": "h2-1-u3-p001",
+            "sentence": "I know what these games have in common.",
+            "sentence_chinese": "我知道這些遊戲有什麼共同之處。"
+          },
+          {
+            "id": "h2-1-u3-sp002",
+            "phrase_id": "h2-1-u3-p002",
+            "sentence": "I wonder how she came up with this idea.",
+            "sentence_chinese": "我想知道她是怎麼想出這個點子的。"
+          },
+          {
+            "id": "h2-1-u3-sp003",
+            "phrase_id": "h2-1-u3-p003",
+            "sentence": "I am tired of eating the same food.",
+            "sentence_chinese": "我厭倦了吃同樣的食物。"
+          },
+          {
+            "id": "h2-1-u3-sp004",
+            "phrase_id": "h2-1-u3-p004",
+            "sentence": "The game was canceled due to heavy rain.",
+            "sentence_chinese": "比賽因為大雨而取消了。"
+          },
+          {
+            "id": "h2-1-u3-sp005",
+            "phrase_id": "h2-1-u3-p005",
+            "sentence": "He thinks this phone is behind the times.",
+            "sentence_chinese": "他認為這支手機過時了。"
+          },
+          {
+            "id": "h2-1-u3-sp006",
+            "phrase_id": "h2-1-u3-p006",
+            "sentence": "Do you know why that shop went out of business?",
+            "sentence_chinese": "你知道那家店為什麼倒閉了嗎？"
+          }
+        ],
+        "grammar": [
+          {
+            "id": "h2-1-u3-sg001",
+            "sentence": "One is red, another is blue, and the other is green.",
+            "sentence_chinese": "一個是紅色，另一個是藍色，剩下的一個是綠色。"
+          },
+          {
+            "id": "h2-1-u3-sg002",
+            "sentence": "Do you know where we should gather?",
+            "sentence_chinese": "你知道我們應該在哪裡集合嗎？"
+          },
+          {
+            "id": "h2-1-u3-sg003",
+            "sentence": "Please tell me what your goal is.",
+            "sentence_chinese": "請告訴我你的目標是什麼。"
+          },
+          {
+            "id": "h2-1-u3-sg004",
+            "sentence": "One sings, another dances, and the other draws.",
+            "sentence_chinese": "一個人唱歌，另一個人跳舞，剩下的一個人畫畫。"
+          },
+          {
+            "id": "h2-1-u3-sg005",
+            "sentence": "I wonder why this story is amusing.",
+            "sentence_chinese": "我想知道這個故事為什麼有趣。"
+          },
+          {
+            "id": "h2-1-u3-sg006",
+            "sentence": "Can you tell me which flavor you like?",
+            "sentence_chinese": "你能告訴我你喜歡哪一種口味嗎？"
+          },
+          {
+            "id": "h2-1-u3-sg007",
+            "sentence": "One is cheap, another is useful, and the other is beautiful.",
+            "sentence_chinese": "一個很便宜，另一個很實用，剩下的一個很漂亮。"
+          },
+          {
+            "id": "h2-1-u3-sg008",
+            "sentence": "I know what these colors represent now.",
+            "sentence_chinese": "我現在知道這些顏色代表什麼了。"
+          },
+          {
+            "id": "h2-1-u3-sg009",
+            "sentence": "Please explain why the shop went out of business.",
+            "sentence_chinese": "請解釋那家店為什麼倒閉了。"
+          },
+          {
+            "id": "h2-1-u3-sg010",
+            "sentence": "One runs, another swims, and the other jumps.",
+            "sentence_chinese": "一個人跑步，另一個人游泳，剩下的一個人跳躍。"
+          },
+          {
+            "id": "h2-1-u3-sg011",
+            "sentence": "Do you know where this path goes?",
+            "sentence_chinese": "你知道這條小徑通往哪裡嗎？"
+          },
+          {
+            "id": "h2-1-u3-sg012",
+            "sentence": "I wonder how she came up with that idea.",
+            "sentence_chinese": "我想知道她是怎麼想出那個點子的。"
+          },
+          {
+            "id": "h2-1-u3-sg013",
+            "sentence": "One is sweet, another is sour, and the other is salty.",
+            "sentence_chinese": "一個是甜的，另一個是酸的，剩下的一個是鹹的。"
+          },
+          {
+            "id": "h2-1-u3-sg014",
+            "sentence": "Please tell me where we can display these pictures.",
+            "sentence_chinese": "請告訴我我們可以在哪裡展示這些圖片。"
+          },
+          {
+            "id": "h2-1-u3-sg015",
+            "sentence": "Can you explain why he is tired of this game?",
+            "sentence_chinese": "你能解釋他為什麼厭倦這個遊戲嗎？"
+          },
+          {
+            "id": "h2-1-u3-sg016",
+            "sentence": "One reads, another writes, and the other listens.",
+            "sentence_chinese": "一個人閱讀，另一個人寫字，剩下的一個人聆聽。"
+          },
+          {
+            "id": "h2-1-u3-sg017",
+            "sentence": "I know what these games have in common.",
+            "sentence_chinese": "我知道這些遊戲有什麼共同之處。"
+          },
+          {
+            "id": "h2-1-u3-sg018",
+            "sentence": "Do you know why Amy is willing to help?",
+            "sentence_chinese": "你知道艾咪為什麼願意幫忙嗎？"
+          },
+          {
+            "id": "h2-1-u3-sg019",
+            "sentence": "One was short, another was long, and the other was enjoyable.",
+            "sentence_chinese": "一個很短，另一個很長，剩下的一個令人愉快。"
+          },
+          {
+            "id": "h2-1-u3-sg020",
+            "sentence": "Please tell me when the museum opens.",
+            "sentence_chinese": "請告訴我博物館什麼時候開門。"
+          },
+          {
+            "id": "h2-1-u3-sg021",
+            "sentence": "I wonder where Mom put the frozen fish.",
+            "sentence_chinese": "我想知道媽媽把冷凍魚放在哪裡。"
+          },
+          {
+            "id": "h2-1-u3-sg022",
+            "sentence": "One is large, another is small, and the other is empty.",
+            "sentence_chinese": "一個很大，另一個很小，剩下的一個是空的。"
+          },
+          {
+            "id": "h2-1-u3-sg023",
+            "sentence": "Can you tell me how they make this drink?",
+            "sentence_chinese": "你能告訴我他們怎麼製作這杯飲料嗎？"
+          },
+          {
+            "id": "h2-1-u3-sg024",
+            "sentence": "I know why that phone is behind the times.",
+            "sentence_chinese": "我知道那支手機為什麼過時了。"
+          },
+          {
+            "id": "h2-1-u3-sg025",
+            "sentence": "One failed, another stopped, and the other succeeded.",
+            "sentence_chinese": "一個失敗了，另一個停下了，剩下的一個成功了。"
+          },
+          {
+            "id": "h2-1-u3-sg026",
+            "sentence": "Please explain why he insisted on leaving early.",
+            "sentence_chinese": "請解釋他為什麼堅持提早離開。"
+          },
+          {
+            "id": "h2-1-u3-sg027",
+            "sentence": "Do you know when the organization finished its research?",
+            "sentence_chinese": "你知道這個組織什麼時候完成研究的嗎？"
+          },
+          {
+            "id": "h2-1-u3-sg028",
+            "sentence": "One waits, another helps, and the other watches.",
+            "sentence_chinese": "一個人等待，另一個人幫忙，剩下的一個人觀看。"
+          },
+          {
+            "id": "h2-1-u3-sg029",
+            "sentence": "I wonder how we can learn from failure.",
+            "sentence_chinese": "我想知道我們可以怎麼從失敗中學習。"
+          },
+          {
+            "id": "h2-1-u3-sg030",
+            "sentence": "Please tell me why the trip was canceled.",
+            "sentence_chinese": "請告訴我旅行為什麼取消了。"
+          }
+        ]
+      }
+    }
+  }
+}
