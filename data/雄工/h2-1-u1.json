@@ -1,0 +1,1166 @@
+{
+  "units": {
+    "h2-1-u1": {
+      "title": "U1",
+      "vocab": [
+        {
+          "word": "expression",
+          "part_of_speech": "名",
+          "chinese": "表達；用語",
+          "sentence": "“Thank you” is a polite expression.",
+          "sentence_chinese": "「謝謝」是禮貌用語。",
+          "id": "h2-1-u1-v001"
+        },
+        {
+          "word": "apologize",
+          "part_of_speech": "動",
+          "chinese": "道歉",
+          "sentence": "It was nice of him to apologize.",
+          "sentence_chinese": "他願意道歉，真是很好。",
+          "id": "h2-1-u1-v002"
+        },
+        {
+          "word": "apparently",
+          "part_of_speech": "副",
+          "chinese": "看來；顯然",
+          "sentence": "Apparently, he forgot my name.",
+          "sentence_chinese": "看來他忘了我的名字。",
+          "id": "h2-1-u1-v003"
+        },
+        {
+          "word": "plenty",
+          "part_of_speech": "代",
+          "chinese": "大量；充足",
+          "sentence": "We have plenty to eat.",
+          "sentence_chinese": "我們有充足的食物可吃。",
+          "id": "h2-1-u1-v004"
+        },
+        {
+          "word": "avoid",
+          "part_of_speech": "動",
+          "chinese": "避免",
+          "sentence": "This is the road where we avoid driving at night.",
+          "sentence_chinese": "這是我們避免夜間開車行經的道路。",
+          "id": "h2-1-u1-v005"
+        },
+        {
+          "word": "expert",
+          "part_of_speech": "名",
+          "chinese": "專家",
+          "sentence": "This is the school where the expert teaches.",
+          "sentence_chinese": "這是那位專家任教的學校。",
+          "id": "h2-1-u1-v006"
+        },
+        {
+          "word": "ancient",
+          "part_of_speech": "形",
+          "chinese": "古代的",
+          "sentence": "This is an ancient town where people grow tea.",
+          "sentence_chinese": "這是一座居民種茶的古鎮。",
+          "id": "h2-1-u1-v007"
+        },
+        {
+          "word": "peacefully",
+          "part_of_speech": "副",
+          "chinese": "平靜地；安詳地",
+          "sentence": "This is the room where the baby sleeps peacefully.",
+          "sentence_chinese": "這是寶寶安穩睡覺的房間。",
+          "id": "h2-1-u1-v008"
+        },
+        {
+          "word": "influence",
+          "part_of_speech": "動",
+          "chinese": "影響",
+          "sentence": "Friends can influence the way we think.",
+          "sentence_chinese": "朋友可能影響我們的思考方式。",
+          "id": "h2-1-u1-v009"
+        },
+        {
+          "word": "formal",
+          "part_of_speech": "形",
+          "chinese": "正式的",
+          "sentence": "You need a formal shirt for the dinner.",
+          "sentence_chinese": "你需要一件正式襯衫來參加晚宴。",
+          "id": "h2-1-u1-v010"
+        },
+        {
+          "word": "significant",
+          "part_of_speech": "形",
+          "chinese": "重要的；顯著的",
+          "sentence": "This is a significant change for our school.",
+          "sentence_chinese": "這對我們學校是一項重要改變。",
+          "id": "h2-1-u1-v011"
+        },
+        {
+          "word": "resident",
+          "part_of_speech": "名",
+          "chinese": "居民",
+          "sentence": "It was kind of the resident to help us.",
+          "sentence_chinese": "那位居民幫助我們，真是好心。",
+          "id": "h2-1-u1-v012"
+        },
+        {
+          "word": "usage",
+          "part_of_speech": "名",
+          "chinese": "用法；使用",
+          "sentence": "It was nice of her to explain the usage.",
+          "sentence_chinese": "她願意解釋用法，真是很好。",
+          "id": "h2-1-u1-v013"
+        },
+        {
+          "word": "deny",
+          "part_of_speech": "動",
+          "chinese": "否認",
+          "sentence": "That is the reason why he denied the story.",
+          "sentence_chinese": "那就是他否認這件事的原因。",
+          "id": "h2-1-u1-v014"
+        },
+        {
+          "word": "society",
+          "part_of_speech": "名",
+          "chinese": "社會",
+          "sentence": "We all want to live in a peaceful society.",
+          "sentence_chinese": "我們都想住在和平的社會裡。",
+          "id": "h2-1-u1-v015"
+        }
+      ],
+      "phrases": [
+        {
+          "phrase": "bump into",
+          "chinese": "撞到；偶然遇見",
+          "sentence": "This is the shop where I bumped into Amy.",
+          "sentence_chinese": "這是我巧遇 Amy 的商店。",
+          "id": "h2-1-u1-p001"
+        },
+        {
+          "phrase": "in a hurry",
+          "chinese": "匆忙地",
+          "sentence": "That is the reason why she left in a hurry.",
+          "sentence_chinese": "那就是她匆忙離開的原因。",
+          "id": "h2-1-u1-p002"
+        },
+        {
+          "phrase": "point out",
+          "chinese": "指出",
+          "sentence": "It was kind of you to point out my mistake.",
+          "sentence_chinese": "你指出我的錯誤，真是好心。",
+          "id": "h2-1-u1-p003"
+        },
+        {
+          "phrase": "more or less",
+          "chinese": "或多或少；大致上",
+          "sentence": "Our answers are more or less the same.",
+          "sentence_chinese": "我們的答案大致相同。",
+          "id": "h2-1-u1-p004"
+        },
+        {
+          "phrase": "build up",
+          "chinese": "建立；逐漸累積",
+          "sentence": "We can build up trust by being honest.",
+          "sentence_chinese": "我們可以藉由誠實建立信任。",
+          "id": "h2-1-u1-p005"
+        },
+        {
+          "phrase": "refer to ... as sth",
+          "chinese": "將……稱為……",
+          "sentence": "We refer to him as our best friend.",
+          "sentence_chinese": "我們稱他為最好的朋友。",
+          "id": "h2-1-u1-p006"
+        }
+      ],
+      "grammar": {
+        "tips": [
+          {
+            "label": "關係副詞",
+            "text": "原因用 why、時間用 when、地點用 where；後面接主詞與動詞。"
+          },
+          {
+            "label": "評論人的行為",
+            "text": "It + be + 形容詞 + of + 人 + to + 原形動詞。of 後的代名詞用受格。"
+          }
+        ],
+        "notes": [
+          {
+            "title": "關係副詞 why：原因",
+            "rule": "the reason + why + S + V",
+            "description": "why 引導關係子句，修飾表示原因的 reason，說明「……的原因」。",
+            "examples": [
+              "That is the reason why he left in a hurry.（那就是他匆忙離開的原因。）"
+            ]
+          },
+          {
+            "title": "關係副詞 when：時間",
+            "rule": "時間名詞 + when + S + V",
+            "description": "when 修飾 day、year、time、season 等時間名詞，在子句中表示時間。",
+            "examples": [
+              "I remember the day when we met.（我記得我們見面的那一天。）"
+            ]
+          },
+          {
+            "title": "關係副詞 where：地點",
+            "rule": "地點名詞 + where + S + V",
+            "description": "where 修飾 place、school、town 等地點名詞，在子句中表示地點。不能只看到時間或地點名詞就選 when 或 where，還要看子句缺什麼：若缺主詞或受詞，應考慮關係代名詞 that 或 which。",
+            "examples": [
+              "This is the town where the expert lives.（這是那位專家居住的城鎮。）",
+              "This is the town that we visited.（這是我們參觀過的城鎮；visited 缺受詞，因此用 that。）"
+            ]
+          },
+          {
+            "title": "It ... of 人 to V：評論人的行為",
+            "rule": "It + be + Adj + of + 人 + to V",
+            "description": "It 是虛主詞，to V 說明被評論的行為。常見形容詞有 kind、nice、polite、rude、honest、careless、foolish、smart。of 後用受格 me、him、her、us、them；to 後用原形動詞。be 依情境可用 is 或 was。",
+            "examples": [
+              "It was polite of Ryan to open the door for me.（Ryan 幫我開門，真有禮貌。）",
+              "It was kind of the resident to help us.（那位居民幫助我們，真是好心。）"
+            ]
+          },
+          {
+            "title": "分清 of 和 for",
+            "rule": "評論人的行為用 of；描述事情的難易等性質常用 for",
+            "description": "本課重點是 of 人。kind、polite、rude 等用來評論人的行為；easy、difficult、important 等若描述事情對某人而言的性質，通常用 for 人。",
+            "examples": [
+              "It was kind of him to help me.（他幫我，真是好心。）",
+              "It is easy for him to read this book.（讀這本書對他來說很容易。）"
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "id": "h2-1-u1-q001",
+            "question": "This is the reason ___ he apologized to me.",
+            "options": [
+              "A. when",
+              "B. why",
+              "C. where",
+              "D. who"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "reason 表示原因，後面用 why 引導原因的說明。"
+          },
+          {
+            "id": "h2-1-u1-q002",
+            "question": "I remember the day ___ I bumped into our teacher.",
+            "options": [
+              "A. why",
+              "B. where",
+              "C. who",
+              "D. when"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "day 表示時間，子句已有主詞 I 和動詞 bumped，用 when。"
+          },
+          {
+            "id": "h2-1-u1-q003",
+            "question": "This is the ancient town ___ my grandmother lives.",
+            "options": [
+              "A. where",
+              "B. why",
+              "C. when",
+              "D. who"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "town 是地點，lives 後缺地點資訊，用 where。"
+          },
+          {
+            "id": "h2-1-u1-q004",
+            "question": "Do you know the reason ___ Amy left in a hurry?",
+            "options": [
+              "A. where",
+              "B. when",
+              "C. why",
+              "D. who"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "先行詞 reason 表示原因，因此用 why。"
+          },
+          {
+            "id": "h2-1-u1-q005",
+            "question": "Sunday is the day ___ we visit that resident.",
+            "options": [
+              "A. where",
+              "B. why",
+              "C. when",
+              "D. who"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "the day 表示時間，visit 已有受詞 that resident，用 when。"
+          },
+          {
+            "id": "h2-1-u1-q006",
+            "question": "This is the room ___ the baby sleeps peacefully.",
+            "options": [
+              "A. where",
+              "B. when",
+              "C. why",
+              "D. who"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "room 表示地點，子句說明寶寶在哪裡睡覺，用 where。"
+          },
+          {
+            "id": "h2-1-u1-q007",
+            "question": "Tell me the reason ___ you avoid that road.",
+            "options": [
+              "A. why",
+              "B. when",
+              "C. where",
+              "D. who"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "reason 後用 why 表示「為什麼避開那條路」。"
+          },
+          {
+            "id": "h2-1-u1-q008",
+            "question": "I still remember the evening ___ the expert called me.",
+            "options": [
+              "A. where",
+              "B. when",
+              "C. why",
+              "D. who"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "evening 是時間，called 已有受詞 me，用 when。"
+          },
+          {
+            "id": "h2-1-u1-q009",
+            "question": "That is the school ___ we learned this expression.",
+            "options": [
+              "A. why",
+              "B. where",
+              "C. when",
+              "D. who"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "school 表示地點，learned 已有受詞 this expression，用 where。"
+          },
+          {
+            "id": "h2-1-u1-q010",
+            "question": "Nobody knows the reason ___ he denied the story.",
+            "options": [
+              "A. who",
+              "B. where",
+              "C. why",
+              "D. when"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "reason 是原因，後接 why 引導子句。"
+          },
+          {
+            "id": "h2-1-u1-q011",
+            "question": "Summer is the season ___ we have plenty of free time.",
+            "options": [
+              "A. why",
+              "B. where",
+              "C. who",
+              "D. when"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "season 表示時間，子句完整，用 when 連接。"
+          },
+          {
+            "id": "h2-1-u1-q012",
+            "question": "This is the park ___ I exercise to build up my strength.",
+            "options": [
+              "A. where",
+              "B. when",
+              "C. why",
+              "D. who"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "park 是運動的地點，用 where。"
+          },
+          {
+            "id": "h2-1-u1-q013",
+            "question": "That is the reason ___ she wore a formal dress.",
+            "options": [
+              "A. where",
+              "B. when",
+              "C. why",
+              "D. who"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "reason 表示原因，用 why 說明穿正式洋裝的原因。"
+          },
+          {
+            "id": "h2-1-u1-q014",
+            "question": "Do you remember the year ___ you moved here?",
+            "options": [
+              "A. who",
+              "B. why",
+              "C. where",
+              "D. when"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "year 表示時間，moved here 已有地點，用 when。"
+          },
+          {
+            "id": "h2-1-u1-q015",
+            "question": "This is the classroom ___ our teacher explained the usage.",
+            "options": [
+              "A. why",
+              "B. who",
+              "C. where",
+              "D. when"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "classroom 是解釋用法的地點，用 where。"
+          },
+          {
+            "id": "h2-1-u1-q016",
+            "question": "Can you explain the reason ___ this change is significant?",
+            "options": [
+              "A. why",
+              "B. when",
+              "C. who",
+              "D. where"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "reason 後用 why，引出這個改變重要的原因。"
+          },
+          {
+            "id": "h2-1-u1-q017",
+            "question": "Night is the time ___ our town becomes quiet.",
+            "options": [
+              "A. where",
+              "B. who",
+              "C. why",
+              "D. when"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "time 表示時間，後面用 when。"
+          },
+          {
+            "id": "h2-1-u1-q018",
+            "question": "This is the house ___ the friendly resident lives.",
+            "options": [
+              "A. where",
+              "B. who",
+              "C. when",
+              "D. why"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "house 是居住的地點，lives 在此不直接接受詞，用 where。"
+          },
+          {
+            "id": "h2-1-u1-q019",
+            "question": "I understand the reason ___ friends influence your choices.",
+            "options": [
+              "A. who",
+              "B. when",
+              "C. why",
+              "D. where"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "reason 表示原因，用 why 引出朋友影響選擇的原因。"
+          },
+          {
+            "id": "h2-1-u1-q020",
+            "question": "Monday was the day ___ he pointed out my mistake.",
+            "options": [
+              "A. when",
+              "B. why",
+              "C. where",
+              "D. who"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "day 是時間，pointed out 已有受詞 my mistake，用 when。"
+          },
+          {
+            "id": "h2-1-u1-q021",
+            "question": "That is the library ___ we read about ancient society.",
+            "options": [
+              "A. when",
+              "B. where",
+              "C. who",
+              "D. why"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "library 是閱讀的地點，用 where。"
+          },
+          {
+            "id": "h2-1-u1-q022",
+            "question": "She told me the reason ___ the two answers were more or less the same.",
+            "options": [
+              "A. why",
+              "B. where",
+              "C. who",
+              "D. when"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "reason 表示原因，後用 why。"
+          },
+          {
+            "id": "h2-1-u1-q023",
+            "question": "I remember the morning ___ we first met the expert.",
+            "options": [
+              "A. where",
+              "B. when",
+              "C. why",
+              "D. who"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "morning 是時間，met 已有受詞 the expert，用 when。"
+          },
+          {
+            "id": "h2-1-u1-q024",
+            "question": "This is the restaurant ___ we had a formal dinner.",
+            "options": [
+              "A. who",
+              "B. why",
+              "C. where",
+              "D. when"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "restaurant 是用餐地點，had 已有受詞 a formal dinner，用 where。"
+          },
+          {
+            "id": "h2-1-u1-q025",
+            "question": "That is the reason ___ people refer to him as an expert.",
+            "options": [
+              "A. when",
+              "B. where",
+              "C. why",
+              "D. who"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "reason 後用 why，引出人們稱他為專家的原因。"
+          },
+          {
+            "id": "h2-1-u1-q026",
+            "question": "It was kind ___ the resident to show us the way.",
+            "options": [
+              "A. for",
+              "B. of",
+              "C. to",
+              "D. with"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "kind 評論居民幫忙的行為，使用 It was kind of 人 to V。"
+          },
+          {
+            "id": "h2-1-u1-q027",
+            "question": "It was polite of Jack ___ after he bumped into me.",
+            "options": [
+              "A. to apologize",
+              "B. apologize",
+              "C. apologizing",
+              "D. apologized"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "It was polite of 人 後接 to 加原形動詞。"
+          },
+          {
+            "id": "h2-1-u1-q028",
+            "question": "It was careless of ___ to leave the door open.",
+            "options": [
+              "A. he",
+              "B. his",
+              "C. himself",
+              "D. him"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "of 是介系詞，這裡的人稱代名詞用受格 him。"
+          },
+          {
+            "id": "h2-1-u1-q029",
+            "question": "___ was nice of you to point out the mistake.",
+            "options": [
+              "A. That",
+              "B. It",
+              "C. There",
+              "D. What"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "固定句型以虛主詞 It 開頭，真正評論的行為放在 to V。"
+          },
+          {
+            "id": "h2-1-u1-q030",
+            "question": "It was rude ___ him to shout at the resident.",
+            "options": [
+              "A. for",
+              "B. with",
+              "C. to",
+              "D. of"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "rude 評論人的行為，用 of 人。"
+          },
+          {
+            "id": "h2-1-u1-q031",
+            "question": "It was honest of Mary to ___ the truth.",
+            "options": [
+              "A. tells",
+              "B. told",
+              "C. telling",
+              "D. tell"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "不定詞 to 後接原形動詞 tell。"
+          },
+          {
+            "id": "h2-1-u1-q032",
+            "question": "It was kind of ___ to share their food with us.",
+            "options": [
+              "A. them",
+              "B. they",
+              "C. their",
+              "D. theirs"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "of 後用受格 them，表示分享食物的那些人。"
+          },
+          {
+            "id": "h2-1-u1-q033",
+            "question": "It was polite of the expert ___ to our questions.",
+            "options": [
+              "A. listen",
+              "B. to listen",
+              "C. listened",
+              "D. listening"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "It was polite of 人 後接 to V，用 to listen。"
+          },
+          {
+            "id": "h2-1-u1-q034",
+            "question": "It was nice ___ you to explain this expression.",
+            "options": [
+              "A. of",
+              "B. for",
+              "C. at",
+              "D. with"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "nice 評論你解釋用語的行為，搭配 of you。"
+          },
+          {
+            "id": "h2-1-u1-q035",
+            "question": "It was foolish of Ben to ___ the same mistake again.",
+            "options": [
+              "A. made",
+              "B. making",
+              "C. make",
+              "D. makes"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "to 後接原形動詞 make，不能用過去式或動名詞。"
+          },
+          {
+            "id": "h2-1-u1-q036",
+            "question": "It was kind of ___ to help the ancient town's residents.",
+            "options": [
+              "A. she",
+              "B. hers",
+              "C. her",
+              "D. herself"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "介系詞 of 後表示行為者，用受格 her。"
+          },
+          {
+            "id": "h2-1-u1-q037",
+            "question": "___ was rude of him to deny everything without listening.",
+            "options": [
+              "A. It",
+              "B. There",
+              "C. What",
+              "D. These"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "It 作虛主詞，後面的 to deny everything 才是被評論的行為。"
+          },
+          {
+            "id": "h2-1-u1-q038",
+            "question": "It was smart ___ you to avoid that busy road.",
+            "options": [
+              "A. for",
+              "B. with",
+              "C. of",
+              "D. at"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "smart 用來評論你避開繁忙道路的決定，用 of you。"
+          },
+          {
+            "id": "h2-1-u1-q039",
+            "question": "It was nice of the teacher to ___ the usage again.",
+            "options": [
+              "A. explained",
+              "B. explaining",
+              "C. explains",
+              "D. explain"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "不定詞 to 後接原形動詞 explain。"
+          },
+          {
+            "id": "h2-1-u1-q040",
+            "question": "It was careless of ___ to lose our tickets.",
+            "options": [
+              "A. we",
+              "B. us",
+              "C. our",
+              "D. ours"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "of 後接受格 us，不能用主格 we 或所有格 our。"
+          },
+          {
+            "id": "h2-1-u1-q041",
+            "question": "It was kind of the expert ___ us build up our skills.",
+            "options": [
+              "A. helping",
+              "B. helped",
+              "C. help",
+              "D. to help"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "of 人 後接 to 加原形動詞，選 to help。"
+          },
+          {
+            "id": "h2-1-u1-q042",
+            "question": "It was polite ___ Amy to thank everyone at the formal dinner.",
+            "options": [
+              "A. for",
+              "B. on",
+              "C. with",
+              "D. of"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "polite 評論 Amy 道謝的行為，用 of Amy。"
+          },
+          {
+            "id": "h2-1-u1-q043",
+            "question": "It was rude of him to ___ while I was speaking.",
+            "options": [
+              "A. laughed",
+              "B. laughing",
+              "C. laugh",
+              "D. laughs"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "to 後使用原形動詞 laugh。"
+          },
+          {
+            "id": "h2-1-u1-q044",
+            "question": "It was honest of ___ to admit that I was in a hurry.",
+            "options": [
+              "A. I",
+              "B. my",
+              "C. mine",
+              "D. me"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "of 後的人稱代名詞須用受格 me。"
+          },
+          {
+            "id": "h2-1-u1-q045",
+            "question": "___ was kind of the residents to give us plenty of water.",
+            "options": [
+              "A. They",
+              "B. It",
+              "C. There",
+              "D. Those"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "固定句型為 It was kind of 人 to V，用 It 作虛主詞。"
+          },
+          {
+            "id": "h2-1-u1-q046",
+            "question": "It was foolish ___ him to ignore such a significant change.",
+            "options": [
+              "A. of",
+              "B. for",
+              "C. to",
+              "D. by"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "foolish 評論人的行為，搭配 of him。"
+          },
+          {
+            "id": "h2-1-u1-q047",
+            "question": "It was nice of you to ___ the baby sleep peacefully.",
+            "options": [
+              "A. lets",
+              "B. let",
+              "C. letting",
+              "D. letted"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "to 後接原形動詞 let；整體使用 It was nice of you to V。"
+          },
+          {
+            "id": "h2-1-u1-q048",
+            "question": "It was polite of ___ to use that expression.",
+            "options": [
+              "A. he",
+              "B. his",
+              "C. himself",
+              "D. him"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "of 後指出行為者，使用受格 him。"
+          },
+          {
+            "id": "h2-1-u1-q049",
+            "question": "It was kind of Lisa ___ me when I was lost.",
+            "options": [
+              "A. called",
+              "B. to call",
+              "C. calling",
+              "D. call"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "It was kind of Lisa 後須接 to V，選 to call。"
+          },
+          {
+            "id": "h2-1-u1-q050",
+            "question": "It was careless ___ me to write the wrong name.",
+            "options": [
+              "A. for",
+              "B. with",
+              "C. of",
+              "D. to"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "careless 評論我寫錯名字的行為，句型使用 of me。"
+          }
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          {
+            "id": "h2-1-u1-sv001",
+            "vocab_id": "h2-1-u1-v001",
+            "sentence": "“Thank you” is a polite expression.",
+            "sentence_chinese": "「謝謝」是禮貌用語。"
+          },
+          {
+            "id": "h2-1-u1-sv002",
+            "vocab_id": "h2-1-u1-v002",
+            "sentence": "It was nice of him to apologize.",
+            "sentence_chinese": "他願意道歉，真是很好。"
+          },
+          {
+            "id": "h2-1-u1-sv003",
+            "vocab_id": "h2-1-u1-v003",
+            "sentence": "Apparently, he forgot my name.",
+            "sentence_chinese": "看來他忘了我的名字。"
+          },
+          {
+            "id": "h2-1-u1-sv004",
+            "vocab_id": "h2-1-u1-v004",
+            "sentence": "We have plenty to eat.",
+            "sentence_chinese": "我們有充足的食物可吃。"
+          },
+          {
+            "id": "h2-1-u1-sv005",
+            "vocab_id": "h2-1-u1-v005",
+            "sentence": "This is the road where we avoid driving at night.",
+            "sentence_chinese": "這是我們避免夜間開車行經的道路。"
+          },
+          {
+            "id": "h2-1-u1-sv006",
+            "vocab_id": "h2-1-u1-v006",
+            "sentence": "This is the school where the expert teaches.",
+            "sentence_chinese": "這是那位專家任教的學校。"
+          },
+          {
+            "id": "h2-1-u1-sv007",
+            "vocab_id": "h2-1-u1-v007",
+            "sentence": "This is an ancient town where people grow tea.",
+            "sentence_chinese": "這是一座居民種茶的古鎮。"
+          },
+          {
+            "id": "h2-1-u1-sv008",
+            "vocab_id": "h2-1-u1-v008",
+            "sentence": "This is the room where the baby sleeps peacefully.",
+            "sentence_chinese": "這是寶寶安穩睡覺的房間。"
+          },
+          {
+            "id": "h2-1-u1-sv009",
+            "vocab_id": "h2-1-u1-v009",
+            "sentence": "Friends can influence the way we think.",
+            "sentence_chinese": "朋友可能影響我們的思考方式。"
+          },
+          {
+            "id": "h2-1-u1-sv010",
+            "vocab_id": "h2-1-u1-v010",
+            "sentence": "You need a formal shirt for the dinner.",
+            "sentence_chinese": "你需要一件正式襯衫來參加晚宴。"
+          },
+          {
+            "id": "h2-1-u1-sv011",
+            "vocab_id": "h2-1-u1-v011",
+            "sentence": "This is a significant change for our school.",
+            "sentence_chinese": "這對我們學校是一項重要改變。"
+          },
+          {
+            "id": "h2-1-u1-sv012",
+            "vocab_id": "h2-1-u1-v012",
+            "sentence": "It was kind of the resident to help us.",
+            "sentence_chinese": "那位居民幫助我們，真是好心。"
+          },
+          {
+            "id": "h2-1-u1-sv013",
+            "vocab_id": "h2-1-u1-v013",
+            "sentence": "It was nice of her to explain the usage.",
+            "sentence_chinese": "她願意解釋用法，真是很好。"
+          },
+          {
+            "id": "h2-1-u1-sv014",
+            "vocab_id": "h2-1-u1-v014",
+            "sentence": "That is the reason why he denied the story.",
+            "sentence_chinese": "那就是他否認這件事的原因。"
+          },
+          {
+            "id": "h2-1-u1-sv015",
+            "vocab_id": "h2-1-u1-v015",
+            "sentence": "We all want to live in a peaceful society.",
+            "sentence_chinese": "我們都想住在和平的社會裡。"
+          }
+        ],
+        "phrases": [
+          {
+            "id": "h2-1-u1-sp001",
+            "phrase_id": "h2-1-u1-p001",
+            "sentence": "This is the shop where I bumped into Amy.",
+            "sentence_chinese": "這是我巧遇 Amy 的商店。"
+          },
+          {
+            "id": "h2-1-u1-sp002",
+            "phrase_id": "h2-1-u1-p002",
+            "sentence": "That is the reason why she left in a hurry.",
+            "sentence_chinese": "那就是她匆忙離開的原因。"
+          },
+          {
+            "id": "h2-1-u1-sp003",
+            "phrase_id": "h2-1-u1-p003",
+            "sentence": "It was kind of you to point out my mistake.",
+            "sentence_chinese": "你指出我的錯誤，真是好心。"
+          },
+          {
+            "id": "h2-1-u1-sp004",
+            "phrase_id": "h2-1-u1-p004",
+            "sentence": "Our answers are more or less the same.",
+            "sentence_chinese": "我們的答案大致相同。"
+          },
+          {
+            "id": "h2-1-u1-sp005",
+            "phrase_id": "h2-1-u1-p005",
+            "sentence": "We can build up trust by being honest.",
+            "sentence_chinese": "我們可以藉由誠實建立信任。"
+          },
+          {
+            "id": "h2-1-u1-sp006",
+            "phrase_id": "h2-1-u1-p006",
+            "sentence": "We refer to him as our best friend.",
+            "sentence_chinese": "我們稱他為最好的朋友。"
+          }
+        ],
+        "grammar": [
+          {
+            "id": "h2-1-u1-sg001",
+            "sentence": "This is the reason why I apologized.",
+            "sentence_chinese": "這就是我道歉的原因。"
+          },
+          {
+            "id": "h2-1-u1-sg002",
+            "sentence": "It was kind of him to help us.",
+            "sentence_chinese": "他幫助我們，真是好心。"
+          },
+          {
+            "id": "h2-1-u1-sg003",
+            "sentence": "I remember the day when we met.",
+            "sentence_chinese": "我記得我們見面的那一天。"
+          },
+          {
+            "id": "h2-1-u1-sg004",
+            "sentence": "It was polite of her to say thanks.",
+            "sentence_chinese": "她說謝謝，真有禮貌。"
+          },
+          {
+            "id": "h2-1-u1-sg005",
+            "sentence": "This is the town where the expert lives.",
+            "sentence_chinese": "這是那位專家居住的城鎮。"
+          },
+          {
+            "id": "h2-1-u1-sg006",
+            "sentence": "It was nice of you to explain the usage.",
+            "sentence_chinese": "你解釋用法，真是很好。"
+          },
+          {
+            "id": "h2-1-u1-sg007",
+            "sentence": "Tell me the reason why you left.",
+            "sentence_chinese": "告訴我你離開的原因。"
+          },
+          {
+            "id": "h2-1-u1-sg008",
+            "sentence": "It was rude of him to shout.",
+            "sentence_chinese": "他大吼大叫，真沒禮貌。"
+          },
+          {
+            "id": "h2-1-u1-sg009",
+            "sentence": "Summer is the season when we visit Grandma.",
+            "sentence_chinese": "夏天是我們探望奶奶的季節。"
+          },
+          {
+            "id": "h2-1-u1-sg010",
+            "sentence": "It was honest of her to tell us.",
+            "sentence_chinese": "她願意告訴我們，真是誠實。"
+          },
+          {
+            "id": "h2-1-u1-sg011",
+            "sentence": "This is the room where she sleeps peacefully.",
+            "sentence_chinese": "這是她安穩睡覺的房間。"
+          },
+          {
+            "id": "h2-1-u1-sg012",
+            "sentence": "It was smart of you to avoid trouble.",
+            "sentence_chinese": "你避開麻煩，真是聰明。"
+          },
+          {
+            "id": "h2-1-u1-sg013",
+            "sentence": "That is the reason why he denied it.",
+            "sentence_chinese": "那就是他否認這件事的原因。"
+          },
+          {
+            "id": "h2-1-u1-sg014",
+            "sentence": "It was careless of me to lose it.",
+            "sentence_chinese": "我弄丟了它，真是粗心。"
+          },
+          {
+            "id": "h2-1-u1-sg015",
+            "sentence": "Sunday is the day when we play together.",
+            "sentence_chinese": "星期日是我們一起玩的日子。"
+          },
+          {
+            "id": "h2-1-u1-sg016",
+            "sentence": "It was kind of them to share their food.",
+            "sentence_chinese": "他們分享食物，真是好心。"
+          },
+          {
+            "id": "h2-1-u1-sg017",
+            "sentence": "This is the shop where I bumped into Amy.",
+            "sentence_chinese": "這是我巧遇 Amy 的商店。"
+          },
+          {
+            "id": "h2-1-u1-sg018",
+            "sentence": "It was nice of her to point out mistakes.",
+            "sentence_chinese": "她指出錯誤，真是很好。"
+          },
+          {
+            "id": "h2-1-u1-sg019",
+            "sentence": "I know the reason why he left early.",
+            "sentence_chinese": "我知道他提早離開的原因。"
+          },
+          {
+            "id": "h2-1-u1-sg020",
+            "sentence": "It was foolish of him to deny the truth.",
+            "sentence_chinese": "他否認事實，真是愚蠢。"
+          },
+          {
+            "id": "h2-1-u1-sg021",
+            "sentence": "I remember the evening when the resident called.",
+            "sentence_chinese": "我記得那位居民打電話來的晚上。"
+          },
+          {
+            "id": "h2-1-u1-sg022",
+            "sentence": "It was polite of you to apologize first.",
+            "sentence_chinese": "你先道歉，真有禮貌。"
+          },
+          {
+            "id": "h2-1-u1-sg023",
+            "sentence": "This is the school where we build up our skills.",
+            "sentence_chinese": "這是我們培養技能的學校。"
+          },
+          {
+            "id": "h2-1-u1-sg024",
+            "sentence": "It was rude of him to laugh at us.",
+            "sentence_chinese": "他嘲笑我們，真沒禮貌。"
+          },
+          {
+            "id": "h2-1-u1-sg025",
+            "sentence": "That is the reason why this change is significant.",
+            "sentence_chinese": "那就是這項改變重要的原因。"
+          },
+          {
+            "id": "h2-1-u1-sg026",
+            "sentence": "It was nice of you to use polite expressions.",
+            "sentence_chinese": "你使用禮貌用語，真是很好。"
+          },
+          {
+            "id": "h2-1-u1-sg027",
+            "sentence": "Night is the time when our town becomes quiet.",
+            "sentence_chinese": "夜晚是我們城鎮變得安靜的時候。"
+          },
+          {
+            "id": "h2-1-u1-sg028",
+            "sentence": "It was careless of her to forget my name.",
+            "sentence_chinese": "她忘了我的名字，真是粗心。"
+          },
+          {
+            "id": "h2-1-u1-sg029",
+            "sentence": "This is the place where we read about ancient society.",
+            "sentence_chinese": "這是我們閱讀古代社會相關資料的地方。"
+          },
+          {
+            "id": "h2-1-u1-sg030",
+            "sentence": "It was kind of the resident to guide us.",
+            "sentence_chinese": "那位居民為我們帶路，真是好心。"
+          }
+        ]
+      }
+    }
+  }
+}
