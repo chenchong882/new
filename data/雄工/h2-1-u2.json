@@ -1,0 +1,1227 @@
+{
+  "units": {
+    "h2-1-u2": {
+      "title": "U2",
+      "vocab": [
+        {
+          "word": "grocery",
+          "part_of_speech": "名",
+          "chinese": "食品雜貨",
+          "sentence": "We bought groceries because the fridge was empty.",
+          "sentence_chinese": "我們買了食品雜貨，因為冰箱空了。",
+          "id": "h2-1-u2-v001"
+        },
+        {
+          "word": "weird",
+          "part_of_speech": "形",
+          "chinese": "奇怪的",
+          "sentence": "The carrot looks weird because it has two legs.",
+          "sentence_chinese": "這根胡蘿蔔看起來很奇怪，因為它有兩條腿。",
+          "id": "h2-1-u2-v002"
+        },
+        {
+          "word": "tough",
+          "part_of_speech": "形",
+          "chinese": "困難的；艱難的",
+          "sentence": "Life was tough because Dad had no job.",
+          "sentence_chinese": "生活很艱難，因為爸爸沒有工作。",
+          "id": "h2-1-u2-v003"
+        },
+        {
+          "word": "advice",
+          "part_of_speech": "名",
+          "chinese": "建議",
+          "sentence": "I need your advice because I feel lost.",
+          "sentence_chinese": "我需要你的建議，因為我感到迷惘。",
+          "id": "h2-1-u2-v004"
+        },
+        {
+          "word": "issue",
+          "part_of_speech": "名",
+          "chinese": "議題；問題",
+          "sentence": "Food waste is an issue which we should discuss.",
+          "sentence_chinese": "食物浪費是我們應該討論的議題。",
+          "id": "h2-1-u2-v005"
+        },
+        {
+          "word": "distribute",
+          "part_of_speech": "動",
+          "chinese": "分發；分配",
+          "sentence": "We stayed late because we had to distribute food.",
+          "sentence_chinese": "我們待到很晚，因為必須分發食物。",
+          "id": "h2-1-u2-v006"
+        },
+        {
+          "word": "solution",
+          "part_of_speech": "名",
+          "chinese": "解決方法",
+          "sentence": "Amy, who found a solution, helped us a lot.",
+          "sentence_chinese": "艾咪找到了解決方法，幫了我們很大的忙。",
+          "id": "h2-1-u2-v007"
+        },
+        {
+          "word": "celebrity",
+          "part_of_speech": "名",
+          "chinese": "名人",
+          "sentence": "The celebrity, who loves cooking, opened a restaurant.",
+          "sentence_chinese": "那位名人喜歡烹飪，開了一間餐廳。",
+          "id": "h2-1-u2-v008"
+        },
+        {
+          "word": "support",
+          "part_of_speech": "動",
+          "chinese": "支持",
+          "sentence": "I support this plan because it helps people.",
+          "sentence_chinese": "我支持這項計畫，因為它能幫助人們。",
+          "id": "h2-1-u2-v009"
+        },
+        {
+          "word": "activity",
+          "part_of_speech": "名",
+          "chinese": "活動",
+          "sentence": "We canceled the activity because of the rain.",
+          "sentence_chinese": "我們因為下雨取消了活動。",
+          "id": "h2-1-u2-v010"
+        },
+        {
+          "word": "prevent",
+          "part_of_speech": "動",
+          "chinese": "防止；預防",
+          "sentence": "We wear hats because they help prevent sunburn.",
+          "sentence_chinese": "我們戴帽子，因為帽子有助於防止曬傷。",
+          "id": "h2-1-u2-v011"
+        },
+        {
+          "word": "odd",
+          "part_of_speech": "形",
+          "chinese": "奇怪的",
+          "sentence": "This potato looks odd because of its shape.",
+          "sentence_chinese": "這顆馬鈴薯因為形狀而看起來很奇怪。",
+          "id": "h2-1-u2-v012"
+        },
+        {
+          "word": "educate",
+          "part_of_speech": "動",
+          "chinese": "教育",
+          "sentence": "We educate children because knowledge can change their lives.",
+          "sentence_chinese": "我們教育孩子，因為知識能改變他們的生活。",
+          "id": "h2-1-u2-v013"
+        },
+        {
+          "word": "invest",
+          "part_of_speech": "動",
+          "chinese": "投資；投入",
+          "sentence": "They invest in farms because people need food.",
+          "sentence_chinese": "他們投資農場，因為人們需要食物。",
+          "id": "h2-1-u2-v014"
+        },
+        {
+          "word": "eventually",
+          "part_of_speech": "副",
+          "chinese": "最後；終於",
+          "sentence": "We eventually got home because a driver helped us.",
+          "sentence_chinese": "我們終於回到家，因為一位司機幫助了我們。",
+          "id": "h2-1-u2-v015"
+        },
+        {
+          "word": "assist",
+          "part_of_speech": "動",
+          "chinese": "協助",
+          "sentence": "Ben, who works here, can assist you.",
+          "sentence_chinese": "班在這裡工作，他可以協助你。",
+          "id": "h2-1-u2-v016"
+        },
+        {
+          "word": "treasure",
+          "part_of_speech": "動",
+          "chinese": "珍惜；珍視",
+          "sentence": "I treasure this photo because it shows my family.",
+          "sentence_chinese": "我珍惜這張照片，因為照片裡有我的家人。",
+          "id": "h2-1-u2-v017"
+        }
+      ],
+      "phrases": [
+        {
+          "phrase": "not...at all",
+          "chinese": "一點也不",
+          "sentence": "I am not hungry at all because I just ate.",
+          "sentence_chinese": "我一點也不餓，因為我剛吃過東西。",
+          "id": "h2-1-u2-p001"
+        },
+        {
+          "phrase": "throw away",
+          "chinese": "丟掉",
+          "sentence": "Don't throw away this apple because it is still fresh.",
+          "sentence_chinese": "不要丟掉這顆蘋果，因為它還很新鮮。",
+          "id": "h2-1-u2-p002"
+        },
+        {
+          "phrase": "turn on",
+          "chinese": "打開（電器等）",
+          "sentence": "Please turn on the light because it is dark.",
+          "sentence_chinese": "請開燈，因為天色暗了。",
+          "id": "h2-1-u2-p003"
+        },
+        {
+          "phrase": "believe in",
+          "chinese": "信任；相信",
+          "sentence": "I believe in you because you never give up.",
+          "sentence_chinese": "我相信你，因為你從不放棄。",
+          "id": "h2-1-u2-p004"
+        },
+        {
+          "phrase": "make use of",
+          "chinese": "利用",
+          "sentence": "We make use of old boxes because they are useful.",
+          "sentence_chinese": "我們利用舊箱子，因為它們很有用。",
+          "id": "h2-1-u2-p005"
+        },
+        {
+          "phrase": "in need",
+          "chinese": "有需要的；陷入困境的",
+          "sentence": "We share food because we want to help people in need.",
+          "sentence_chinese": "我們分享食物，因為我們想幫助有需要的人。",
+          "id": "h2-1-u2-p006"
+        },
+        {
+          "phrase": "after all",
+          "chinese": "畢竟",
+          "sentence": "Be kind to Tom. After all, he is only five.",
+          "sentence_chinese": "對湯姆友善一點，畢竟他才 5 歲。",
+          "id": "h2-1-u2-p007"
+        }
+      ],
+      "grammar": {
+        "tips": [
+          {
+            "label": "because＋子句",
+            "text": "because 後接主詞＋動詞，說明原因。"
+          },
+          {
+            "label": "because of＋名詞",
+            "text": "because of 後接名詞或名詞片語，不能直接接完整子句。"
+          },
+          {
+            "label": "逗號補充說明",
+            "text": "非限定關係子句補充已明確的人或事物；用逗號隔開，不能用 that，也不能省略關係代名詞。"
+          },
+          {
+            "label": "選關係代名詞",
+            "text": "人作主詞用 who；人作受詞正式用 whom；物或動物用 which。"
+          }
+        ],
+        "notes": [
+          {
+            "title": "because 與 because of",
+            "rule": "because + S + V；because of + N",
+            "description": "兩者都表示「因為」。判斷空格後是否有主詞與動詞：完整子句用 because，名詞片語用 because of。because of 也可接名詞性 V-ing 片語，但本課練習以名詞片語為主。",
+            "examples": [
+              "We stayed home because it rained.（我們因為下雨待在家。）",
+              "We stayed home because of the rain.（我們因為下雨待在家。）"
+            ]
+          },
+          {
+            "title": "原因放在句首或句尾",
+            "rule": "Because + S + V, S + V.；Because of + N, S + V.",
+            "description": "原因放在句首時，通常用逗號與主要子句隔開；放在句尾時通常不加逗號。標準英語中，不要把 because 和 so 同時用來連接同一組原因與結果。",
+            "examples": [
+              "Because it rained, we canceled the activity.（因為下雨，我們取消了活動。）",
+              "Because of the rain, we canceled the activity.（因為下雨，我們取消了活動。）"
+            ]
+          },
+          {
+            "title": "非限定關係子句",
+            "rule": "N, who/whom/which ... (, ...).",
+            "description": "用來補充說明已經明確的先行詞。插在句中時前後用逗號隔開，放在句尾時前面加逗號。刪去補充子句後，主要句子仍然完整。關係代名詞不能省略，也不能換成 that。",
+            "examples": [
+              "Amy, who is my friend, helps people in need.（艾咪是我的朋友，她會幫助有需要的人。）",
+              "I bought this carrot, which looks odd.（我買了這根胡蘿蔔，它的外觀很奇怪。）"
+            ]
+          },
+          {
+            "title": "人用 who 或 whom",
+            "rule": "人＋who（主格）；人＋whom（受格）；介系詞＋whom",
+            "description": "看關係代名詞在子句裡的角色：執行動作用 who；接受動作，正式用法用 whom。受格在一般英語也常用 who，因此題目不將受格 who 和 whom 同時列為競爭答案。介系詞放在關係代名詞前時，正式用法採 whom。",
+            "examples": [
+              "Ben, who helps us, works here.（班會幫助我們，他在這裡工作。）",
+              "Mr. Lin, whom we met yesterday, is a teacher.（林先生是老師，我們昨天見過他。）",
+              "Anna, to whom I spoke, was kind.（安娜是我交談的對象，她很親切。）"
+            ]
+          },
+          {
+            "title": "物或動物用 which",
+            "rule": "物／動物＋which（主格或受格）",
+            "description": "which 可以在關係子句中作主詞或受詞。非限定用法即使作受詞也不能省略。不要重複加上代替先行詞的 it 或 they。",
+            "examples": [
+              "This apple, which looks odd, is sweet.（這顆蘋果外觀奇怪，但很甜。）",
+              "This photo, which I treasure, is old.（這張我珍惜的照片很舊了。）"
+            ]
+          },
+          {
+            "title": "限定與非限定的差別",
+            "rule": "N + who/which ...；N, who/which ...",
+            "description": "限定用法沒有逗號，用來指出是哪一個人或事物；非限定用法有逗號，只補充已明確的對象。單字 issue 的例句使用限定關係子句，其餘文法題以本課非限定用法為主。單字與片語例句為 AI 補寫，中譯亦為補寫；grocery 在「食品雜貨」的用法常用複數 groceries。",
+            "examples": [
+              "The woman who is listening to music is an actress.（正在聽音樂的那位女子是女演員。）",
+              "The woman, who is listening to music, is an actress.（那位女子是女演員，她正在聽音樂。）"
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "id": "h2-1-u2-q001",
+            "question": "We bought groceries ___ the fridge was empty.",
+            "options": [
+              "A. because",
+              "B. because of",
+              "C. due to",
+              "D. owing to"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "the fridge was empty 有主詞與動詞，是完整子句，前面用 because。"
+          },
+          {
+            "id": "h2-1-u2-q002",
+            "question": "The activity was canceled ___ the heavy rain.",
+            "options": [
+              "A. because",
+              "B. because of",
+              "C. now that",
+              "D. given that"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "the heavy rain 是名詞片語，前面用 because of。"
+          },
+          {
+            "id": "h2-1-u2-q003",
+            "question": "I treasure this bag ___ my mom made it.",
+            "options": [
+              "A. because of",
+              "B. due to",
+              "C. because",
+              "D. owing to"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "my mom made it 是完整子句，要用 because 連接原因。"
+          },
+          {
+            "id": "h2-1-u2-q004",
+            "question": "The potato looks odd ___ its shape.",
+            "options": [
+              "A. because",
+              "B. now that",
+              "C. because of",
+              "D. given that"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "its shape 是名詞片語，不是完整子句，因此用 because of。"
+          },
+          {
+            "id": "h2-1-u2-q005",
+            "question": "___ Ben was busy, he could not assist us.",
+            "options": [
+              "A. Because of",
+              "B. Because",
+              "C. Due to",
+              "D. Owing to"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "Ben was busy 含主詞與動詞，句首用 Because，原因子句後以逗號隔開。"
+          },
+          {
+            "id": "h2-1-u2-q006",
+            "question": "The farmers lost money ___ the bad weather.",
+            "options": [
+              "A. because",
+              "B. now that",
+              "C. because of",
+              "D. given that"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "the bad weather 是名詞片語，表示原因時用 because of。"
+          },
+          {
+            "id": "h2-1-u2-q007",
+            "question": "We support Amy ___ she helps people in need.",
+            "options": [
+              "A. because of",
+              "B. due to",
+              "C. owing to",
+              "D. because"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "she helps people in need 是完整子句，前面要用 because。"
+          },
+          {
+            "id": "h2-1-u2-q008",
+            "question": "We eventually found a solution ___ your advice.",
+            "options": [
+              "A. because",
+              "B. now that",
+              "C. given that",
+              "D. because of"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "your advice 是名詞片語，前面用 because of；advice 不可數。"
+          },
+          {
+            "id": "h2-1-u2-q009",
+            "question": "Please turn on the fan ___ the room is hot.",
+            "options": [
+              "A. because",
+              "B. because of",
+              "C. due to",
+              "D. owing to"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "the room is hot 是完整子句，表示原因時用 because。"
+          },
+          {
+            "id": "h2-1-u2-q010",
+            "question": "Life became tough ___ the lack of food.",
+            "options": [
+              "A. because",
+              "B. because of",
+              "C. now that",
+              "D. given that"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "the lack of food 是名詞片語，需接在 because of 後面。"
+          },
+          {
+            "id": "h2-1-u2-q011",
+            "question": "They invest in this farm ___ it grows good food.",
+            "options": [
+              "A. because",
+              "B. because of",
+              "C. due to",
+              "D. owing to"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "it grows good food 有主詞 it 與動詞 grows，需用 because。"
+          },
+          {
+            "id": "h2-1-u2-q012",
+            "question": "The celebrity could not come ___ a high fever.",
+            "options": [
+              "A. because",
+              "B. now that",
+              "C. given that",
+              "D. because of"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "a high fever 是名詞片語，前面用 because of。"
+          },
+          {
+            "id": "h2-1-u2-q013",
+            "question": "We did not throw away the bread ___ it was fresh.",
+            "options": [
+              "A. because of",
+              "B. because",
+              "C. due to",
+              "D. owing to"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "it was fresh 是完整子句，不能直接接在 because of 後面。"
+          },
+          {
+            "id": "h2-1-u2-q014",
+            "question": "___ the strong wind, we stayed inside.",
+            "options": [
+              "A. Because of",
+              "B. Because",
+              "C. Now that",
+              "D. Given that"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "the strong wind 是名詞片語，句首應用 Because of。"
+          },
+          {
+            "id": "h2-1-u2-q015",
+            "question": "I believe in May ___ she always tells the truth.",
+            "options": [
+              "A. because of",
+              "B. because",
+              "C. due to",
+              "D. owing to"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "she always tells the truth 有主詞與動詞，表示原因要用 because。"
+          },
+          {
+            "id": "h2-1-u2-q016",
+            "question": "We could distribute more food ___ their support.",
+            "options": [
+              "A. because",
+              "B. now that",
+              "C. given that",
+              "D. because of"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "their support 是名詞片語，原因介系詞片語用 because of。"
+          },
+          {
+            "id": "h2-1-u2-q017",
+            "question": "The soup tastes weird ___ I added too much salt.",
+            "options": [
+              "A. because",
+              "B. because of",
+              "C. due to",
+              "D. owing to"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "I added too much salt 是完整子句，用 because 引出原因。"
+          },
+          {
+            "id": "h2-1-u2-q018",
+            "question": "The children smiled ___ the good news.",
+            "options": [
+              "A. because",
+              "B. now that",
+              "C. because of",
+              "D. given that"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "the good news 是名詞片語，因此應用 because of。"
+          },
+          {
+            "id": "h2-1-u2-q019",
+            "question": "We educate children about food waste ___ it is an important issue.",
+            "options": [
+              "A. because of",
+              "B. due to",
+              "C. owing to",
+              "D. because"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "it is an important issue 是完整子句，需用 because。"
+          },
+          {
+            "id": "h2-1-u2-q020",
+            "question": "The food stayed fresh ___ the low temperature.",
+            "options": [
+              "A. because",
+              "B. now that",
+              "C. because of",
+              "D. given that"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "the low temperature 是名詞片語，前面需用 because of。"
+          },
+          {
+            "id": "h2-1-u2-q021",
+            "question": "We make use of these boxes because ___.",
+            "options": [
+              "A. their strength",
+              "B. of they are strong",
+              "C. they are strong",
+              "D. strong boxes"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "because 後需接完整子句，只有 they are strong 具有完整的主詞與動詞結構。"
+          },
+          {
+            "id": "h2-1-u2-q022",
+            "question": "The activity ended early because of ___.",
+            "options": [
+              "A. it rained",
+              "B. the rain was heavy",
+              "C. the rain",
+              "D. it was raining"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "because of 後接名詞片語；the rain 符合，其他選項都是完整子句。"
+          },
+          {
+            "id": "h2-1-u2-q023",
+            "question": "Tom is not worried at all because ___.",
+            "options": [
+              "A. his helpful friends",
+              "B. of his friends help",
+              "C. his friends' help",
+              "D. his friends can assist him"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "because 後面要有完整子句，his friends can assist him 有主詞與動詞。"
+          },
+          {
+            "id": "h2-1-u2-q024",
+            "question": "We eventually reached the farm because of ___.",
+            "options": [
+              "A. the driver's help",
+              "B. the driver helped us",
+              "C. he drove us there",
+              "D. the driver was kind"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "because of 後接名詞片語，the driver's help 表示司機的幫助。"
+          },
+          {
+            "id": "h2-1-u2-q025",
+            "question": "Amy, ___ found a solution, is in my class.",
+            "options": [
+              "A. who",
+              "B. whom",
+              "C. which",
+              "D. that"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "先行詞 Amy 是人，空格作 found 的主詞，用 who；非限定子句不能用 that。"
+          },
+          {
+            "id": "h2-1-u2-q026",
+            "question": "This carrot, ___ looks weird, is still fresh.",
+            "options": [
+              "A. who",
+              "B. whom",
+              "C. which",
+              "D. that"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "先行詞是物 carrot，用 which；逗號隔開的非限定子句不能用 that。"
+          },
+          {
+            "id": "h2-1-u2-q027",
+            "question": "Mr. Lin, to ___ we turned for advice, was very kind.",
+            "options": [
+              "A. whom",
+              "B. which",
+              "C. that",
+              "D. whose"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "介系詞 to 後面指人的受格關係代名詞用 whom；whose 表所有格，不適用。"
+          },
+          {
+            "id": "h2-1-u2-q028",
+            "question": "Ben, ___ will assist us, works at the store.",
+            "options": [
+              "A. whom",
+              "B. which",
+              "C. that",
+              "D. who"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "Ben 是人，空格是 will assist 的主詞，需用 who。"
+          },
+          {
+            "id": "h2-1-u2-q029",
+            "question": "The rain, ___ stopped our activity, finally ended.",
+            "options": [
+              "A. who",
+              "B. whom",
+              "C. that",
+              "D. which"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "rain 是事物，非限定子句以 which 作主詞；不能用 that。"
+          },
+          {
+            "id": "h2-1-u2-q030",
+            "question": "Ms. Wang, with ___ we discussed the issue, teaches English.",
+            "options": [
+              "A. which",
+              "B. that",
+              "C. whose",
+              "D. whom"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "with 後面需要指人的受格關係代名詞 whom，表示我們和王老師討論議題。"
+          },
+          {
+            "id": "h2-1-u2-q031",
+            "question": "My sister, ___ supports the plan, will join us.",
+            "options": [
+              "A. who",
+              "B. whom",
+              "C. which",
+              "D. that"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "my sister 指人，空格作 supports 的主詞，用 who；whom 是受格。"
+          },
+          {
+            "id": "h2-1-u2-q032",
+            "question": "This photo, ___ I treasure, is ten years old.",
+            "options": [
+              "A. who",
+              "B. whom",
+              "C. which",
+              "D. that"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "photo 是物，空格作 treasure 的受詞；非限定用法須保留 which，不能用 that。"
+          },
+          {
+            "id": "h2-1-u2-q033",
+            "question": "Jack, for ___ we saved some food, arrived late.",
+            "options": [
+              "A. which",
+              "B. that",
+              "C. whose",
+              "D. whom"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "for 後指人的受格關係代名詞用 whom，表示我們替 Jack 留了食物。"
+          },
+          {
+            "id": "h2-1-u2-q034",
+            "question": "The celebrity, ___ lives nearby, came to our activity.",
+            "options": [
+              "A. whom",
+              "B. which",
+              "C. who",
+              "D. that"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "celebrity 是人，關係代名詞作 lives 的主詞，所以用 who。"
+          },
+          {
+            "id": "h2-1-u2-q035",
+            "question": "Our fridge, ___ prevents food from going bad, is new.",
+            "options": [
+              "A. which",
+              "B. who",
+              "C. whom",
+              "D. that"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "fridge 是物，空格作 prevents 的主詞，非限定用法選 which。"
+          },
+          {
+            "id": "h2-1-u2-q036",
+            "question": "Peter, from ___ I learned this lesson, hates food waste.",
+            "options": [
+              "A. which",
+              "B. whom",
+              "C. that",
+              "D. whose"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "from 後指人 Peter，要用受格 whom；from whom 表示從他那裡。"
+          },
+          {
+            "id": "h2-1-u2-q037",
+            "question": "My dad, ___ invests in farms, loves fresh food.",
+            "options": [
+              "A. whom",
+              "B. which",
+              "C. who",
+              "D. that"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "my dad 是人，空格作 invests 的主詞，要用 who。"
+          },
+          {
+            "id": "h2-1-u2-q038",
+            "question": "These boxes, ___ we make use of, are very strong.",
+            "options": [
+              "A. who",
+              "B. whom",
+              "C. which",
+              "D. that"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "boxes 是物，空格是 make use of 的受詞；逗號後用 which，不能用 that。"
+          },
+          {
+            "id": "h2-1-u2-q039",
+            "question": "Anna, ___ we met at the activity, is a nurse.",
+            "options": [
+              "A. which",
+              "B. that",
+              "C. whom",
+              "D. whose"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "Anna 是人，空格作 met 的受詞，這些選項中用 whom；日常英語也可用 who，但非限定用法不能用 that。"
+          },
+          {
+            "id": "h2-1-u2-q040",
+            "question": "Our teacher, ___ educates us about food waste, is kind.",
+            "options": [
+              "A. whom",
+              "B. who",
+              "C. which",
+              "D. that"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "teacher 是人，關係代名詞作 educates 的主詞，用 who。"
+          },
+          {
+            "id": "h2-1-u2-q041",
+            "question": "The bus, ___ eventually arrived, was full.",
+            "options": [
+              "A. who",
+              "B. which",
+              "C. whom",
+              "D. that"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "bus 是物，空格作 arrived 的主詞，要用 which，非限定用法不能用 that。"
+          },
+          {
+            "id": "h2-1-u2-q042",
+            "question": "David, about ___ we talked yesterday, needs support.",
+            "options": [
+              "A. whom",
+              "B. which",
+              "C. that",
+              "D. whose"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "about 後面指人的受格關係代名詞用 whom，表示昨天談到的人是 David。"
+          },
+          {
+            "id": "h2-1-u2-q043",
+            "question": "My grandma, ___ never throws away fresh food, is wise.",
+            "options": [
+              "A. whom",
+              "B. who",
+              "C. which",
+              "D. that"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "grandma 是人，空格作 throws 的主詞，須用 who。"
+          },
+          {
+            "id": "h2-1-u2-q044",
+            "question": "This farm, ___ grows odd carrots, is near our school.",
+            "options": [
+              "A. which",
+              "B. who",
+              "C. whom",
+              "D. that"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "farm 是物，空格作 grows 的主詞，用 which；此處不是表地點的副詞。"
+          },
+          {
+            "id": "h2-1-u2-q045",
+            "question": "Lisa, ___ the students thanked, helped distribute food.",
+            "options": [
+              "A. which",
+              "B. that",
+              "C. whose",
+              "D. whom"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "Lisa 是人，空格作 thanked 的受詞，這些選項中用 whom；非限定關係代名詞不能省略。"
+          },
+          {
+            "id": "h2-1-u2-q046",
+            "question": "Kevin, ___ believes in me, is my best friend.",
+            "options": [
+              "A. whom",
+              "B. which",
+              "C. that",
+              "D. who"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "Kevin 是人，空格作 believes 的主詞，用主格 who。"
+          },
+          {
+            "id": "h2-1-u2-q047",
+            "question": "The soup, ___ tastes a little odd, is still warm.",
+            "options": [
+              "A. who",
+              "B. which",
+              "C. whom",
+              "D. that"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "soup 是物，空格作 tastes 的主詞，非限定子句用 which。"
+          },
+          {
+            "id": "h2-1-u2-q048",
+            "question": "Mr. Chen, to ___ I gave the groceries, thanked me.",
+            "options": [
+              "A. whom",
+              "B. which",
+              "C. that",
+              "D. whose"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "介系詞 to 後指人要用 whom，表示我把食品雜貨交給陳先生。"
+          },
+          {
+            "id": "h2-1-u2-q049",
+            "question": "My brother, ___ is not hungry at all, skipped lunch.",
+            "options": [
+              "A. whom",
+              "B. who",
+              "C. which",
+              "D. that"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "my brother 指人，空格作 is 的主詞，用 who，不能用受格 whom。"
+          },
+          {
+            "id": "h2-1-u2-q050",
+            "question": "The plan, ___ helps people in need, has our support.",
+            "options": [
+              "A. who",
+              "B. which",
+              "C. whom",
+              "D. that"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "plan 是事物，空格作 helps 的主詞，用 which；逗號隔開的非限定子句不能用 that。"
+          }
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          {
+            "id": "h2-1-u2-sv001",
+            "vocab_id": "h2-1-u2-v001",
+            "sentence": "We bought groceries because the fridge was empty.",
+            "sentence_chinese": "我們買了食品雜貨，因為冰箱空了。"
+          },
+          {
+            "id": "h2-1-u2-sv002",
+            "vocab_id": "h2-1-u2-v002",
+            "sentence": "The carrot looks weird because it has two legs.",
+            "sentence_chinese": "這根胡蘿蔔看起來很奇怪，因為它有兩條腿。"
+          },
+          {
+            "id": "h2-1-u2-sv003",
+            "vocab_id": "h2-1-u2-v003",
+            "sentence": "Life was tough because Dad had no job.",
+            "sentence_chinese": "生活很艱難，因為爸爸沒有工作。"
+          },
+          {
+            "id": "h2-1-u2-sv004",
+            "vocab_id": "h2-1-u2-v004",
+            "sentence": "I need your advice because I feel lost.",
+            "sentence_chinese": "我需要你的建議，因為我感到迷惘。"
+          },
+          {
+            "id": "h2-1-u2-sv005",
+            "vocab_id": "h2-1-u2-v005",
+            "sentence": "Food waste is an issue which we should discuss.",
+            "sentence_chinese": "食物浪費是我們應該討論的議題。"
+          },
+          {
+            "id": "h2-1-u2-sv006",
+            "vocab_id": "h2-1-u2-v006",
+            "sentence": "We stayed late because we had to distribute food.",
+            "sentence_chinese": "我們待到很晚，因為必須分發食物。"
+          },
+          {
+            "id": "h2-1-u2-sv007",
+            "vocab_id": "h2-1-u2-v007",
+            "sentence": "Amy, who found a solution, helped us a lot.",
+            "sentence_chinese": "艾咪找到了解決方法，幫了我們很大的忙。"
+          },
+          {
+            "id": "h2-1-u2-sv008",
+            "vocab_id": "h2-1-u2-v008",
+            "sentence": "The celebrity, who loves cooking, opened a restaurant.",
+            "sentence_chinese": "那位名人喜歡烹飪，開了一間餐廳。"
+          },
+          {
+            "id": "h2-1-u2-sv009",
+            "vocab_id": "h2-1-u2-v009",
+            "sentence": "I support this plan because it helps people.",
+            "sentence_chinese": "我支持這項計畫，因為它能幫助人們。"
+          },
+          {
+            "id": "h2-1-u2-sv010",
+            "vocab_id": "h2-1-u2-v010",
+            "sentence": "We canceled the activity because of the rain.",
+            "sentence_chinese": "我們因為下雨取消了活動。"
+          },
+          {
+            "id": "h2-1-u2-sv011",
+            "vocab_id": "h2-1-u2-v011",
+            "sentence": "We wear hats because they help prevent sunburn.",
+            "sentence_chinese": "我們戴帽子，因為帽子有助於防止曬傷。"
+          },
+          {
+            "id": "h2-1-u2-sv012",
+            "vocab_id": "h2-1-u2-v012",
+            "sentence": "This potato looks odd because of its shape.",
+            "sentence_chinese": "這顆馬鈴薯因為形狀而看起來很奇怪。"
+          },
+          {
+            "id": "h2-1-u2-sv013",
+            "vocab_id": "h2-1-u2-v013",
+            "sentence": "We educate children because knowledge can change their lives.",
+            "sentence_chinese": "我們教育孩子，因為知識能改變他們的生活。"
+          },
+          {
+            "id": "h2-1-u2-sv014",
+            "vocab_id": "h2-1-u2-v014",
+            "sentence": "They invest in farms because people need food.",
+            "sentence_chinese": "他們投資農場，因為人們需要食物。"
+          },
+          {
+            "id": "h2-1-u2-sv015",
+            "vocab_id": "h2-1-u2-v015",
+            "sentence": "We eventually got home because a driver helped us.",
+            "sentence_chinese": "我們終於回到家，因為一位司機幫助了我們。"
+          },
+          {
+            "id": "h2-1-u2-sv016",
+            "vocab_id": "h2-1-u2-v016",
+            "sentence": "Ben, who works here, can assist you.",
+            "sentence_chinese": "班在這裡工作，他可以協助你。"
+          },
+          {
+            "id": "h2-1-u2-sv017",
+            "vocab_id": "h2-1-u2-v017",
+            "sentence": "I treasure this photo because it shows my family.",
+            "sentence_chinese": "我珍惜這張照片，因為照片裡有我的家人。"
+          }
+        ],
+        "phrases": [
+          {
+            "id": "h2-1-u2-sp001",
+            "phrase_id": "h2-1-u2-p001",
+            "sentence": "I am not hungry at all because I just ate.",
+            "sentence_chinese": "我一點也不餓，因為我剛吃過東西。"
+          },
+          {
+            "id": "h2-1-u2-sp002",
+            "phrase_id": "h2-1-u2-p002",
+            "sentence": "Don't throw away this apple because it is still fresh.",
+            "sentence_chinese": "不要丟掉這顆蘋果，因為它還很新鮮。"
+          },
+          {
+            "id": "h2-1-u2-sp003",
+            "phrase_id": "h2-1-u2-p003",
+            "sentence": "Please turn on the light because it is dark.",
+            "sentence_chinese": "請開燈，因為天色暗了。"
+          },
+          {
+            "id": "h2-1-u2-sp004",
+            "phrase_id": "h2-1-u2-p004",
+            "sentence": "I believe in you because you never give up.",
+            "sentence_chinese": "我相信你，因為你從不放棄。"
+          },
+          {
+            "id": "h2-1-u2-sp005",
+            "phrase_id": "h2-1-u2-p005",
+            "sentence": "We make use of old boxes because they are useful.",
+            "sentence_chinese": "我們利用舊箱子，因為它們很有用。"
+          },
+          {
+            "id": "h2-1-u2-sp006",
+            "phrase_id": "h2-1-u2-p006",
+            "sentence": "We share food because we want to help people in need.",
+            "sentence_chinese": "我們分享食物，因為我們想幫助有需要的人。"
+          },
+          {
+            "id": "h2-1-u2-sp007",
+            "phrase_id": "h2-1-u2-p007",
+            "sentence": "Be kind to Tom. After all, he is only five.",
+            "sentence_chinese": "對湯姆友善一點，畢竟他才 5 歲。"
+          }
+        ],
+        "grammar": [
+          {
+            "id": "h2-1-u2-sg001",
+            "sentence": "We stayed home because the weather was bad.",
+            "sentence_chinese": "我們待在家，因為天氣不好。"
+          },
+          {
+            "id": "h2-1-u2-sg002",
+            "sentence": "Amy, who loves cooking, made some soup.",
+            "sentence_chinese": "艾咪喜歡烹飪，她煮了一些湯。"
+          },
+          {
+            "id": "h2-1-u2-sg003",
+            "sentence": "The activity ended early because of the rain.",
+            "sentence_chinese": "這項活動因為下雨而提早結束。"
+          },
+          {
+            "id": "h2-1-u2-sg004",
+            "sentence": "This carrot, which looks weird, tastes good.",
+            "sentence_chinese": "這根胡蘿蔔看起來很奇怪，但很好吃。"
+          },
+          {
+            "id": "h2-1-u2-sg005",
+            "sentence": "I treasure this watch because Dad gave it to me.",
+            "sentence_chinese": "我珍惜這支手錶，因為它是爸爸送我的。"
+          },
+          {
+            "id": "h2-1-u2-sg006",
+            "sentence": "Mr. Lin, whom we met yesterday, offered some advice.",
+            "sentence_chinese": "林先生是我們昨天見過的人，他提供了一些建議。"
+          },
+          {
+            "id": "h2-1-u2-sg007",
+            "sentence": "We bought groceries because the fridge was empty.",
+            "sentence_chinese": "我們買了食品雜貨，因為冰箱空了。"
+          },
+          {
+            "id": "h2-1-u2-sg008",
+            "sentence": "Ben, who works here, can assist you.",
+            "sentence_chinese": "班在這裡工作，他可以協助你。"
+          },
+          {
+            "id": "h2-1-u2-sg009",
+            "sentence": "Life was tough because of the food shortage.",
+            "sentence_chinese": "生活因為食物短缺而很艱難。"
+          },
+          {
+            "id": "h2-1-u2-sg010",
+            "sentence": "This photo, which I treasure, shows my family.",
+            "sentence_chinese": "這張我珍惜的照片裡有我的家人。"
+          },
+          {
+            "id": "h2-1-u2-sg011",
+            "sentence": "They support the plan because it helps children.",
+            "sentence_chinese": "他們支持這項計畫，因為它能幫助孩子。"
+          },
+          {
+            "id": "h2-1-u2-sg012",
+            "sentence": "Anna, to whom I spoke, found a solution.",
+            "sentence_chinese": "安娜是我交談的對象，她找到了解決方法。"
+          },
+          {
+            "id": "h2-1-u2-sg013",
+            "sentence": "We eventually won because of your support.",
+            "sentence_chinese": "我們因為你的支持而終於獲勝。"
+          },
+          {
+            "id": "h2-1-u2-sg014",
+            "sentence": "My sister, who loves animals, wants a dog.",
+            "sentence_chinese": "我的姊姊喜歡動物，她想養一隻狗。"
+          },
+          {
+            "id": "h2-1-u2-sg015",
+            "sentence": "Please turn on the light because it is dark.",
+            "sentence_chinese": "請開燈，因為天色暗了。"
+          },
+          {
+            "id": "h2-1-u2-sg016",
+            "sentence": "These boxes, which we saved, are useful.",
+            "sentence_chinese": "這些我們留下的箱子很有用。"
+          },
+          {
+            "id": "h2-1-u2-sg017",
+            "sentence": "The celebrity stayed home because of a fever.",
+            "sentence_chinese": "那位名人因為發燒而待在家。"
+          },
+          {
+            "id": "h2-1-u2-sg018",
+            "sentence": "Tom, with whom we shared lunch, thanked us.",
+            "sentence_chinese": "湯姆是我們分享午餐的對象，他向我們道謝。"
+          },
+          {
+            "id": "h2-1-u2-sg019",
+            "sentence": "I believe in you because you work hard.",
+            "sentence_chinese": "我相信你，因為你很努力。"
+          },
+          {
+            "id": "h2-1-u2-sg020",
+            "sentence": "Our teacher, who educates us, cares about food waste.",
+            "sentence_chinese": "我們的老師教導我們，也關心食物浪費。"
+          },
+          {
+            "id": "h2-1-u2-sg021",
+            "sentence": "The potato looks odd because of its shape.",
+            "sentence_chinese": "這顆馬鈴薯因為形狀而看起來很奇怪。"
+          },
+          {
+            "id": "h2-1-u2-sg022",
+            "sentence": "The bus, which arrived late, was full.",
+            "sentence_chinese": "那班公車晚到了，而且坐滿了人。"
+          },
+          {
+            "id": "h2-1-u2-sg023",
+            "sentence": "We stayed late because we had to distribute food.",
+            "sentence_chinese": "我們待到很晚，因為必須分發食物。"
+          },
+          {
+            "id": "h2-1-u2-sg024",
+            "sentence": "Lisa, for whom we saved food, arrived late.",
+            "sentence_chinese": "麗莎是我們留了食物要給的人，她很晚才到。"
+          },
+          {
+            "id": "h2-1-u2-sg025",
+            "sentence": "The farm closed because of the heavy rain.",
+            "sentence_chinese": "農場因為大雨而關閉。"
+          },
+          {
+            "id": "h2-1-u2-sg026",
+            "sentence": "My dad, who invests in farms, loves fresh vegetables.",
+            "sentence_chinese": "我的爸爸投資農場，他喜歡新鮮蔬菜。"
+          },
+          {
+            "id": "h2-1-u2-sg027",
+            "sentence": "We wear hats because they help prevent sunburn.",
+            "sentence_chinese": "我們戴帽子，因為帽子有助於防止曬傷。"
+          },
+          {
+            "id": "h2-1-u2-sg028",
+            "sentence": "This plan, which helps people in need, is great.",
+            "sentence_chinese": "這項計畫幫助有需要的人，很棒。"
+          },
+          {
+            "id": "h2-1-u2-sg029",
+            "sentence": "She smiled because of the good news.",
+            "sentence_chinese": "她因為這個好消息而微笑。"
+          },
+          {
+            "id": "h2-1-u2-sg030",
+            "sentence": "Jack, whom we helped yesterday, sent us a card.",
+            "sentence_chinese": "傑克是我們昨天幫助的人，他寄了一張卡片給我們。"
+          }
+        ]
+      }
+    }
+  }
+}
