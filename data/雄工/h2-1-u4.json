@@ -1,0 +1,881 @@
+{
+  "units": {
+    "h2-1-u4": {
+      "title": "U4",
+      "vocab": [],
+      "phrases": [],
+      "grammar": {
+        "tips": [
+          {
+            "label": "疑問詞 + 不定詞",
+            "text": "用 wh- + to + 原形動詞表示該做什麼、該去哪裡或如何做：what to do、where to go、how to get there。"
+          },
+          {
+            "label": "有些與其他一些",
+            "text": "Some ... Others ... Still others ...；後面要接複數名詞時，改用 some、other、still other。"
+          },
+          {
+            "label": "三個中的最後一個",
+            "text": "明確只有三個時：One ... Another ... The other ...。"
+          }
+        ],
+        "notes": [
+          {
+            "title": "名詞子句簡化為名詞片語",
+            "rule": "wh- + S + can / could / should + V → wh- + to V",
+            "description": "當子句表示該做什麼或如何做，且省略的動作者可由主要子句的主詞或受詞清楚判斷時，常可改為疑問詞 + 不定詞。不能把所有 wh- 子句一律簡化。例如 I know where he lives. 陳述他住在哪裡，不能直接改成 I know where to live.。本課以 what、where、when、who、which、how 為主，不套用 why to V。",
+            "examples": [
+              "Tom is thinking about where he should go on the weekend. → Tom is thinking about where to go on the weekend.（Tom 在想週末該去哪裡。）",
+              "Jeff will tell you what you can do when you are ready. → Jeff will tell you what to do when you are ready.（Jeff 會告訴你準備好時該做什麼；做事的人是 you。）",
+              "The tourist was wondering how she could get to the zoo. → The tourist was wondering how to get to the zoo.（那位遊客想知道如何到動物園。）"
+            ]
+          },
+          {
+            "title": "to 後用原形動詞",
+            "rule": "疑問詞（+ 名詞）+ to + 原形動詞",
+            "description": "不定詞的 to 後面用原形動詞，不加 -s、-ed 或 -ing。which book、what time 等疑問詞與名詞可一起放在 to 前。who to ask 中 who 是 ask 的受詞。這類名詞片語可當主詞或受詞。",
+            "examples": [
+              "Fiona has no idea who to ask for help.（Fiona 不知道該向誰求助。）",
+              "I cannot decide which book to buy.（我無法決定該買哪本書。）",
+              "What to do next is the question.（接下來該做什麼就是問題所在。）"
+            ]
+          },
+          {
+            "title": "多組中的兩組或三組",
+            "rule": "Some ... Others ... (Still others ...)",
+            "description": "表示有些、其他一些、還有一些。others 是複數代名詞，後面不再加名詞，作主詞時搭配複數動詞。這個句型不必涵蓋全部；the others 才表示已知群體中剩下的全部。",
+            "examples": [
+              "Some like basketball. Others like soccer. Still others like table tennis.（有些人喜歡籃球，其他一些人喜歡足球，還有一些人喜歡桌球。）"
+            ]
+          },
+          {
+            "title": "後接名詞的改寫",
+            "rule": "Some + 複數名詞 ... Other + 複數名詞 ... Still other + 複數名詞 ...",
+            "description": "others 若改成 other + 複數名詞，other 不加 s。可全用名詞形式，也可依語境混用代名詞形式。",
+            "examples": [
+              "Some students like basketball. Other students like soccer. Still other students like table tennis.（有些學生喜歡籃球，其他一些學生喜歡足球，還有一些學生喜歡桌球。）",
+              "Some students like basketball. Others like soccer. Still others like table tennis.（意思相同，後兩組省略 students。）"
+            ]
+          },
+          {
+            "title": "限定三個的表達",
+            "rule": "One ... Another ... The other ...",
+            "description": "只有三個對象時，先說一個，再說另一個，最後剩下的唯一一個用 the other。後面若接名詞，要用單數名詞；單独作主詞也視為單數。",
+            "examples": [
+              "I have three pens. One is black, another is red, and the other is blue.（我有三支筆，一支黑色、一支紅色，最後一支藍色。）",
+              "One pen is black. Another pen is red. The other pen is blue.（用單數名詞 pen 說明三支筆。）"
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "id": "h2-1-u4-q001",
+            "question": "Tom is thinking about where ___ on the weekend.",
+            "options": [
+              "A. going",
+              "B. goes",
+              "C. to going",
+              "D. to go"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "where 後接 to + 原形動詞，表示該去哪裡。"
+          },
+          {
+            "id": "h2-1-u4-q002",
+            "question": "Jeff will tell you what ___ when you are ready.",
+            "options": [
+              "A. does",
+              "B. to do",
+              "C. to doing",
+              "D. doing"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "what to do 表示該做什麼，to 後用原形 do。"
+          },
+          {
+            "id": "h2-1-u4-q003",
+            "question": "The tourist is wondering how ___ to the zoo.",
+            "options": [
+              "A. getting",
+              "B. to getting",
+              "C. gets",
+              "D. to get"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "how to get 表示如何到達，使用疑問詞 + to + 原形動詞。"
+          },
+          {
+            "id": "h2-1-u4-q004",
+            "question": "Fiona has no idea who ___ for help.",
+            "options": [
+              "A. to ask",
+              "B. asks",
+              "C. asking",
+              "D. to asking"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "who to ask 表示該向誰詢問；who 是 ask 的受詞。"
+          },
+          {
+            "id": "h2-1-u4-q005",
+            "question": "The host knows what ___ to make us laugh.",
+            "options": [
+              "A. to saying",
+              "B. saying",
+              "C. to say",
+              "D. says"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "what to say 表示該說什麼；to 後接原形 say。"
+          },
+          {
+            "id": "h2-1-u4-q006",
+            "question": "I cannot decide which book ___ for my sister.",
+            "options": [
+              "A. to buy",
+              "B. buys",
+              "C. buying",
+              "D. to buying"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "which book 可整組放在不定詞前，which book to buy 表示該買哪本書。"
+          },
+          {
+            "id": "h2-1-u4-q007",
+            "question": "Please show me how ___ this game.",
+            "options": [
+              "A. plays",
+              "B. playing",
+              "C. to playing",
+              "D. to play"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "show me how to play 表示教我如何玩，to 後用原形。"
+          },
+          {
+            "id": "h2-1-u4-q008",
+            "question": "We need to decide when ___ for school.",
+            "options": [
+              "A. leaving",
+              "B. leaves",
+              "C. to leave",
+              "D. to leaving"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "when to leave 表示何時該出發，是疑問詞 + 不定詞。"
+          },
+          {
+            "id": "h2-1-u4-q009",
+            "question": "Amy does not know where ___ her bike.",
+            "options": [
+              "A. parking",
+              "B. parks",
+              "C. to park",
+              "D. to parking"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "where to park 表示該停在哪裡，park 用原形。"
+          },
+          {
+            "id": "h2-1-u4-q010",
+            "question": "Can you tell me how ___ this box?",
+            "options": [
+              "A. opens",
+              "B. to opening",
+              "C. to open",
+              "D. opening"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "how to open 是如何打開；不能在 to 後接 opening。"
+          },
+          {
+            "id": "h2-1-u4-q011",
+            "question": "I am not sure what ___ to the party.",
+            "options": [
+              "A. to wear",
+              "B. wears",
+              "C. to wearing",
+              "D. wearing"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "what to wear 表示該穿什麼，wear 用原形。"
+          },
+          {
+            "id": "h2-1-u4-q012",
+            "question": "Dad taught me how ___ an egg.",
+            "options": [
+              "A. cooking",
+              "B. cooks",
+              "C. to cooking",
+              "D. to cook"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "how to cook 作 taught 的受詞內容，表示如何煮。"
+          },
+          {
+            "id": "h2-1-u4-q013",
+            "question": "Ben is thinking about who ___ to dinner.",
+            "options": [
+              "A. inviting",
+              "B. invites",
+              "C. to inviting",
+              "D. to invite"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "who to invite 表示該邀請誰，who 是 invite 的受詞。"
+          },
+          {
+            "id": "h2-1-u4-q014",
+            "question": "We have not decided where ___ tonight.",
+            "options": [
+              "A. to eat",
+              "B. eating",
+              "C. eats",
+              "D. to eating"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "where to eat 表示該在哪裡吃飯，不定詞用 to eat。"
+          },
+          {
+            "id": "h2-1-u4-q015",
+            "question": "The teacher explained how ___ the new word.",
+            "options": [
+              "A. to spell",
+              "B. spelling",
+              "C. to spelling",
+              "D. spells"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "how to spell 表示如何拼字，to 後接原形動詞。"
+          },
+          {
+            "id": "h2-1-u4-q016",
+            "question": "I know what to ___ when my friend feels sad.",
+            "options": [
+              "A. saying",
+              "B. said",
+              "C. say",
+              "D. says"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "what to 後的動詞須用原形，因此選 say。"
+          },
+          {
+            "id": "h2-1-u4-q017",
+            "question": "Please tell us where to ___ for the bus.",
+            "options": [
+              "A. waited",
+              "B. waits",
+              "C. wait",
+              "D. waiting"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "where to 後接原形 wait，表示該在哪裡等。"
+          },
+          {
+            "id": "h2-1-u4-q018",
+            "question": "Lisa cannot decide which dress to ___.",
+            "options": [
+              "A. chooses",
+              "B. chose",
+              "C. choose",
+              "D. choosing"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "which dress to 後用原形 choose，表示該選哪件洋裝。"
+          },
+          {
+            "id": "h2-1-u4-q019",
+            "question": "My brother showed me how to ___ a kite.",
+            "options": [
+              "A. make",
+              "B. makes",
+              "C. made",
+              "D. making"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "how to 後接原形 make，表示如何製作。"
+          },
+          {
+            "id": "h2-1-u4-q020",
+            "question": "We need to know when to ___ the meeting.",
+            "options": [
+              "A. start",
+              "B. starts",
+              "C. started",
+              "D. starting"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "when to 後接原形 start，表示何時該開始。"
+          },
+          {
+            "id": "h2-1-u4-q021",
+            "question": "I wonder who to ___ about this problem.",
+            "options": [
+              "A. asking",
+              "B. ask",
+              "C. asks",
+              "D. asked"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "who to 後接原形 ask，表示該問誰。"
+          },
+          {
+            "id": "h2-1-u4-q022",
+            "question": "Tell me what to ___ on this card.",
+            "options": [
+              "A. writing",
+              "B. writes",
+              "C. wrote",
+              "D. write"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "what to 後接原形 write，表示該寫什麼。"
+          },
+          {
+            "id": "h2-1-u4-q023",
+            "question": "Do you know how to ___ to the station?",
+            "options": [
+              "A. getting",
+              "B. get",
+              "C. got",
+              "D. gets"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "how to 後接原形 get，表示如何到車站。"
+          },
+          {
+            "id": "h2-1-u4-q024",
+            "question": "The children are learning how to ___ safely.",
+            "options": [
+              "A. swim",
+              "B. swimming",
+              "C. swims",
+              "D. swam"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "how to 後接原形 swim，表示如何游泳。"
+          },
+          {
+            "id": "h2-1-u4-q025",
+            "question": "I have no idea where to ___ my bag.",
+            "options": [
+              "A. putting",
+              "B. put",
+              "C. to put",
+              "D. puts"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "where to 後直接用原形 put，不再加另一個 to。"
+          },
+          {
+            "id": "h2-1-u4-q026",
+            "question": "Some students like basketball. ___ like soccer.",
+            "options": [
+              "A. Others",
+              "B. The other",
+              "C. Other",
+              "D. Another"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "後面沒有名詞，而且 like 為複數動詞；Others 代替其他一些學生。"
+          },
+          {
+            "id": "h2-1-u4-q027",
+            "question": "Some people walk to school. ___ people take the bus.",
+            "options": [
+              "A. The others",
+              "B. Another",
+              "C. Others",
+              "D. Other"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "空格後有複數名詞 people，須用 Other 修飾。"
+          },
+          {
+            "id": "h2-1-u4-q028",
+            "question": "Some children draw. Others sing. Still ___ dance.",
+            "options": [
+              "A. other",
+              "B. others",
+              "C. another",
+              "D. the other"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "Still others 後直接接動詞，表示還有一些人。"
+          },
+          {
+            "id": "h2-1-u4-q029",
+            "question": "Some books are new. ___ books are old.",
+            "options": [
+              "A. The others",
+              "B. Another",
+              "C. Others",
+              "D. Other"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "books 是複數名詞，其前用 Other，不能用代名詞 Others。"
+          },
+          {
+            "id": "h2-1-u4-q030",
+            "question": "Some of my friends play tennis. ___ play baseball.",
+            "options": [
+              "A. Other",
+              "B. The other",
+              "C. Others",
+              "D. Another"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "空格後直接接複數動詞 play，用 Others 代替其他一些朋友。"
+          },
+          {
+            "id": "h2-1-u4-q031",
+            "question": "Some students read. Other students write. Still ___ students talk.",
+            "options": [
+              "A. others",
+              "B. other",
+              "C. the others",
+              "D. another"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "Still other + 複數名詞表示還有一些；students 前用 other。"
+          },
+          {
+            "id": "h2-1-u4-q032",
+            "question": "There are exactly three cups. One is red, another is blue, and ___ is white.",
+            "options": [
+              "A. others",
+              "B. other",
+              "C. another",
+              "D. the other"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "已明確限定三個，提過兩個後最後一個用 the other。"
+          },
+          {
+            "id": "h2-1-u4-q033",
+            "question": "Some birds eat seeds. ___ eat fish.",
+            "options": [
+              "A. Others",
+              "B. The other",
+              "C. Other",
+              "D. Another"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "eat 是複數動詞，且空格後無名詞，使用 Others。"
+          },
+          {
+            "id": "h2-1-u4-q034",
+            "question": "Some girls like music. ___ girls like sports.",
+            "options": [
+              "A. Others",
+              "B. Other",
+              "C. Another",
+              "D. The others"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "girls 前用形容詞性質的 Other，組成 Other girls。"
+          },
+          {
+            "id": "h2-1-u4-q035",
+            "question": "Some visitors take pictures. Others buy gifts. Still ___ rest.",
+            "options": [
+              "A. others",
+              "B. another",
+              "C. the other",
+              "D. other"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "Still others 可單獨代替還有一些遊客，後接複數動詞 rest。"
+          },
+          {
+            "id": "h2-1-u4-q036",
+            "question": "I have exactly three pens. One is black, another is red, and ___ is blue.",
+            "options": [
+              "A. the other",
+              "B. another",
+              "C. other",
+              "D. others"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "三支筆已提到兩支，剩下唯一一支用 the other。"
+          },
+          {
+            "id": "h2-1-u4-q037",
+            "question": "Some shops sell food. ___ shops sell clothes.",
+            "options": [
+              "A. Others",
+              "B. Other",
+              "C. Another",
+              "D. The others"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "空格修飾複數名詞 shops，應用 Other。"
+          },
+          {
+            "id": "h2-1-u4-q038",
+            "question": "Some dogs run fast. ___ run slowly.",
+            "options": [
+              "A. Another",
+              "B. Others",
+              "C. The other",
+              "D. Other"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "Others 代替其他一些狗，後面直接接複數動詞 run。"
+          },
+          {
+            "id": "h2-1-u4-q039",
+            "question": "Some students bring rice. Others bring bread. Still ___ students bring fruit.",
+            "options": [
+              "A. others",
+              "B. other",
+              "C. another",
+              "D. the others"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "students 前須用 other；Still other students 表示還有一些學生。"
+          },
+          {
+            "id": "h2-1-u4-q040",
+            "question": "There are exactly three rooms. One is small, another is large, and ___ is empty.",
+            "options": [
+              "A. the other",
+              "B. other",
+              "C. another",
+              "D. others"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "三間房中的最後一間已是特定對象，使用 the other。"
+          },
+          {
+            "id": "h2-1-u4-q041",
+            "question": "Some teachers drive to work. ___ take the train.",
+            "options": [
+              "A. Other",
+              "B. Another",
+              "C. The other",
+              "D. Others"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "take 是複數動詞，空格後沒有名詞，使用 Others。"
+          },
+          {
+            "id": "h2-1-u4-q042",
+            "question": "Some students sit near the door. ___ students sit near the window.",
+            "options": [
+              "A. The others",
+              "B. Other",
+              "C. Others",
+              "D. Another"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "Other 後可以接複數名詞 students；Others 不再接名詞。"
+          },
+          {
+            "id": "h2-1-u4-q043",
+            "question": "Some people drink tea. Others drink milk. Still ___ drink water.",
+            "options": [
+              "A. other",
+              "B. another",
+              "C. others",
+              "D. the other"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "Still others 單獨代表還有一些人，接複數動詞 drink。"
+          },
+          {
+            "id": "h2-1-u4-q044",
+            "question": "I bought exactly three hats. One is for Mom, another is for Dad, and ___ is for me.",
+            "options": [
+              "A. other",
+              "B. others",
+              "C. the other",
+              "D. another"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "三頂帽子中的前兩頂已分配，最後一頂用 the other。"
+          },
+          {
+            "id": "h2-1-u4-q045",
+            "question": "Some families keep dogs. ___ families keep cats.",
+            "options": [
+              "A. Another",
+              "B. The others",
+              "C. Others",
+              "D. Other"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "複數名詞 families 前用 Other 修飾，表示其他一些家庭。"
+          },
+          {
+            "id": "h2-1-u4-q046",
+            "question": "Some students enjoy singing. ___ enjoy dancing.",
+            "options": [
+              "A. Other",
+              "B. Others",
+              "C. Another",
+              "D. The other"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "Others 可代替其他一些學生，且與複數動詞 enjoy 搭配。"
+          },
+          {
+            "id": "h2-1-u4-q047",
+            "question": "Some children ride bikes. Others play ball. Still ___ children fly kites.",
+            "options": [
+              "A. others",
+              "B. the others",
+              "C. other",
+              "D. another"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "空格後有複數名詞 children，因此使用 Still other children。"
+          },
+          {
+            "id": "h2-1-u4-q048",
+            "question": "There are exactly three chairs. One is broken, another is wet, and ___ is clean.",
+            "options": [
+              "A. other",
+              "B. the other",
+              "C. another",
+              "D. others"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "限定三張椅子，已描述兩張，最後一張用 the other。"
+          },
+          {
+            "id": "h2-1-u4-q049",
+            "question": "Some students study at home. ___ study at the library.",
+            "options": [
+              "A. Another",
+              "B. Other",
+              "C. The other",
+              "D. Others"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "Others 代替其他一些學生，後接複數動詞 study。"
+          },
+          {
+            "id": "h2-1-u4-q050",
+            "question": "Some people like summer. ___ people like winter.",
+            "options": [
+              "A. The others",
+              "B. Another",
+              "C. Other",
+              "D. Others"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "people 是複數名詞，前面用 Other，形成 Other people。"
+          }
+        ]
+      },
+      "scrambles": {
+        "vocab": [],
+        "phrases": [],
+        "grammar": [
+          {
+            "id": "h2-1-u4-sg001",
+            "sentence": "Tom is thinking about where to go.",
+            "sentence_chinese": "Tom 正在想該去哪裡。"
+          },
+          {
+            "id": "h2-1-u4-sg002",
+            "sentence": "Some students read books, and others draw pictures.",
+            "sentence_chinese": "有些學生讀書，其他一些學生畫圖。"
+          },
+          {
+            "id": "h2-1-u4-sg003",
+            "sentence": "Please tell me what to do next.",
+            "sentence_chinese": "請告訴我接下來該做什麼。"
+          },
+          {
+            "id": "h2-1-u4-sg004",
+            "sentence": "Other students like to play soccer after school.",
+            "sentence_chinese": "其他一些學生喜歡放學後踢足球。"
+          },
+          {
+            "id": "h2-1-u4-sg005",
+            "sentence": "Fiona has no idea who to ask for help.",
+            "sentence_chinese": "Fiona 不知道該向誰求助。"
+          },
+          {
+            "id": "h2-1-u4-sg006",
+            "sentence": "One is red, another is blue, and the other is white.",
+            "sentence_chinese": "一個是紅色，另一個是藍色，最後一個是白色。"
+          },
+          {
+            "id": "h2-1-u4-sg007",
+            "sentence": "Can you show me how to use this phone?",
+            "sentence_chinese": "你可以教我如何使用這支手機嗎？"
+          },
+          {
+            "id": "h2-1-u4-sg008",
+            "sentence": "Some people walk, and others take the bus.",
+            "sentence_chinese": "有些人走路，其他一些人搭公車。"
+          },
+          {
+            "id": "h2-1-u4-sg009",
+            "sentence": "We need to decide when to leave.",
+            "sentence_chinese": "我們需要決定何時出發。"
+          },
+          {
+            "id": "h2-1-u4-sg010",
+            "sentence": "Some sing, others dance, and still others draw.",
+            "sentence_chinese": "有些人唱歌，其他一些人跳舞，還有一些人畫圖。"
+          },
+          {
+            "id": "h2-1-u4-sg011",
+            "sentence": "Amy does not know where to park her bike.",
+            "sentence_chinese": "Amy 不知道該把腳踏車停在哪裡。"
+          },
+          {
+            "id": "h2-1-u4-sg012",
+            "sentence": "Other children play with their dogs in the park.",
+            "sentence_chinese": "其他一些孩子在公園裡和自己的狗玩。"
+          },
+          {
+            "id": "h2-1-u4-sg013",
+            "sentence": "The host knows what to say to make us laugh.",
+            "sentence_chinese": "主持人知道該說什麼讓我們發笑。"
+          },
+          {
+            "id": "h2-1-u4-sg014",
+            "sentence": "Some birds eat seeds, and others eat fish.",
+            "sentence_chinese": "有些鳥吃種子，其他一些鳥吃魚。"
+          },
+          {
+            "id": "h2-1-u4-sg015",
+            "sentence": "I cannot decide which book to buy.",
+            "sentence_chinese": "我無法決定該買哪本書。"
+          },
+          {
+            "id": "h2-1-u4-sg016",
+            "sentence": "One is small, another is large, and the other is empty.",
+            "sentence_chinese": "一個很小，另一個很大，最後一個是空的。"
+          },
+          {
+            "id": "h2-1-u4-sg017",
+            "sentence": "Dad taught me how to cook an egg.",
+            "sentence_chinese": "爸爸教我如何煮蛋。"
+          },
+          {
+            "id": "h2-1-u4-sg018",
+            "sentence": "Some students bring rice, and other students bring bread.",
+            "sentence_chinese": "有些學生帶飯，其他一些學生帶麵包。"
+          },
+          {
+            "id": "h2-1-u4-sg019",
+            "sentence": "Ben is thinking about who to invite.",
+            "sentence_chinese": "Ben 正在想該邀請誰。"
+          },
+          {
+            "id": "h2-1-u4-sg020",
+            "sentence": "Still others like to play table tennis.",
+            "sentence_chinese": "還有一些人喜歡打桌球。"
+          },
+          {
+            "id": "h2-1-u4-sg021",
+            "sentence": "We have not decided where to eat tonight.",
+            "sentence_chinese": "我們還沒決定今晚要在哪裡吃飯。"
+          },
+          {
+            "id": "h2-1-u4-sg022",
+            "sentence": "Some teachers drive, and others take the train.",
+            "sentence_chinese": "有些老師開車，其他一些老師搭火車。"
+          },
+          {
+            "id": "h2-1-u4-sg023",
+            "sentence": "Lisa is not sure what to wear.",
+            "sentence_chinese": "Lisa 不確定該穿什麼。"
+          },
+          {
+            "id": "h2-1-u4-sg024",
+            "sentence": "One is black, another is red, and the other is blue.",
+            "sentence_chinese": "一個是黑色，另一個是紅色，最後一個是藍色。"
+          },
+          {
+            "id": "h2-1-u4-sg025",
+            "sentence": "Please explain how to open this box.",
+            "sentence_chinese": "請解釋如何打開這個盒子。"
+          },
+          {
+            "id": "h2-1-u4-sg026",
+            "sentence": "Other families keep cats in their homes.",
+            "sentence_chinese": "其他一些家庭在家裡養貓。"
+          },
+          {
+            "id": "h2-1-u4-sg027",
+            "sentence": "I wonder who to ask about this problem.",
+            "sentence_chinese": "我想知道這個問題該問誰。"
+          },
+          {
+            "id": "h2-1-u4-sg028",
+            "sentence": "Some like summer, and others like winter.",
+            "sentence_chinese": "有些人喜歡夏天，其他一些人喜歡冬天。"
+          },
+          {
+            "id": "h2-1-u4-sg029",
+            "sentence": "Tell me what to write on this card.",
+            "sentence_chinese": "告訴我該在這張卡片上寫什麼。"
+          },
+          {
+            "id": "h2-1-u4-sg030",
+            "sentence": "Still other students study at the library.",
+            "sentence_chinese": "還有一些學生在圖書館讀書。"
+          }
+        ]
+      }
+    }
+  }
+}
