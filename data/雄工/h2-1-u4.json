@@ -2,8 +2,190 @@
   "units": {
     "h2-1-u4": {
       "title": "U4",
-      "vocab": [],
-      "phrases": [],
+      "vocab": [
+        {
+          "id": "h2-1-u4-v001",
+          "word": "breathe",
+          "part_of_speech": "動",
+          "chinese": "呼吸",
+          "sentence": "The teacher showed us how to breathe slowly.",
+          "sentence_chinese": "老師教我們如何慢慢呼吸。"
+        },
+        {
+          "id": "h2-1-u4-v002",
+          "word": "swallow",
+          "part_of_speech": "動",
+          "chinese": "吞下；吞嚥",
+          "sentence": "The little boy does not know how to swallow pills.",
+          "sentence_chinese": "那個小男孩不知道如何吞藥丸。"
+        },
+        {
+          "id": "h2-1-u4-v003",
+          "word": "painful",
+          "part_of_speech": "形",
+          "chinese": "疼痛的；令人痛苦的",
+          "sentence": "My foot is painful, so I cannot walk far.",
+          "sentence_chinese": "我的腳很痛，所以我無法走遠。"
+        },
+        {
+          "id": "h2-1-u4-v004",
+          "word": "annoying",
+          "part_of_speech": "形",
+          "chinese": "令人惱怒的；煩人的",
+          "sentence": "That annoying sound keeps me awake at night.",
+          "sentence_chinese": "那個煩人的聲音讓我晚上睡不著。"
+        },
+        {
+          "id": "h2-1-u4-v005",
+          "word": "disaster",
+          "part_of_speech": "名",
+          "chinese": "災難",
+          "sentence": "We learned what to do during a disaster.",
+          "sentence_chinese": "我們學了災難發生時該做什麼。"
+        },
+        {
+          "id": "h2-1-u4-v006",
+          "word": "survive",
+          "part_of_speech": "動",
+          "chinese": "存活；倖存",
+          "sentence": "Some plants survive the winter, but others die.",
+          "sentence_chinese": "有些植物能度過冬天，其他一些則會死去。"
+        },
+        {
+          "id": "h2-1-u4-v007",
+          "word": "creature",
+          "part_of_speech": "名",
+          "chinese": "生物；動物",
+          "sentence": "Some sea creatures are small, and others are large.",
+          "sentence_chinese": "有些海洋生物很小，其他一些則很大。"
+        },
+        {
+          "id": "h2-1-u4-v008",
+          "word": "environment",
+          "part_of_speech": "名",
+          "chinese": "環境",
+          "sentence": "Our teacher showed us how to protect the environment.",
+          "sentence_chinese": "老師教我們如何保護環境。"
+        },
+        {
+          "id": "h2-1-u4-v009",
+          "word": "pollute",
+          "part_of_speech": "動",
+          "chinese": "汙染",
+          "sentence": "Some factories pollute the air near our homes.",
+          "sentence_chinese": "有些工廠汙染我們住家附近的空氣。"
+        },
+        {
+          "id": "h2-1-u4-v010",
+          "word": "float",
+          "part_of_speech": "動",
+          "chinese": "漂浮；使浮起",
+          "sentence": "Dad taught me how to float in the water.",
+          "sentence_chinese": "爸爸教我如何在水中漂浮。"
+        },
+        {
+          "id": "h2-1-u4-v011",
+          "word": "incident",
+          "part_of_speech": "名",
+          "chinese": "事件",
+          "sentence": "We do not know who to ask about the incident.",
+          "sentence_chinese": "我們不知道該向誰詢問那起事件。"
+        },
+        {
+          "id": "h2-1-u4-v012",
+          "word": "urgent",
+          "part_of_speech": "形",
+          "chinese": "緊急的；急迫的",
+          "sentence": "This is urgent, so we must act now.",
+          "sentence_chinese": "這件事很緊急，所以我們必須立刻行動。"
+        },
+        {
+          "id": "h2-1-u4-v013",
+          "word": "reduce",
+          "part_of_speech": "動",
+          "chinese": "減少；降低",
+          "sentence": "We are learning how to reduce food waste.",
+          "sentence_chinese": "我們正在學習如何減少食物浪費。"
+        },
+        {
+          "id": "h2-1-u4-v014",
+          "word": "effort",
+          "part_of_speech": "名",
+          "chinese": "努力",
+          "sentence": "It takes a lot of effort to learn English well.",
+          "sentence_chinese": "要把英文學好需要付出很多努力。"
+        },
+        {
+          "id": "h2-1-u4-v015",
+          "word": "crisis",
+          "part_of_speech": "名",
+          "chinese": "危機",
+          "sentence": "Our teacher knows what to do in a crisis.",
+          "sentence_chinese": "我們的老師知道發生危機時該做什麼。"
+        },
+        {
+          "id": "h2-1-u4-v016",
+          "word": "meanwhile",
+          "part_of_speech": "副",
+          "chinese": "同時；在此期間",
+          "sentence": "Mom cooked dinner. Meanwhile, Dad washed the fruit.",
+          "sentence_chinese": "媽媽煮晚餐。在此期間，爸爸洗水果。"
+        },
+        {
+          "id": "h2-1-u4-v017",
+          "word": "ban",
+          "part_of_speech": "動",
+          "chinese": "禁止",
+          "sentence": "Our school plans to ban phones during tests.",
+          "sentence_chinese": "我們學校計畫禁止在考試期間使用手機。"
+        },
+        {
+          "id": "h2-1-u4-v018",
+          "word": "currently",
+          "part_of_speech": "副",
+          "chinese": "目前；現在",
+          "sentence": "We are currently learning how to make bread.",
+          "sentence_chinese": "我們目前正在學習如何做麵包。"
+        },
+        {
+          "id": "h2-1-u4-v019",
+          "word": "wonder",
+          "part_of_speech": "動",
+          "chinese": "想知道；納悶",
+          "sentence": "I wonder what to buy for my mother.",
+          "sentence_chinese": "我想知道該買什麼送給媽媽。"
+        }
+      ],
+      "phrases": [
+        {
+          "id": "h2-1-u4-p001",
+          "phrase": "by accident",
+          "chinese": "意外地；偶然地",
+          "sentence": "I broke the cup by accident this morning.",
+          "sentence_chinese": "今天早上我不小心打破了杯子。"
+        },
+        {
+          "id": "h2-1-u4-p002",
+          "phrase": "throw up",
+          "chinese": "嘔吐",
+          "sentence": "I feel sick and think I might throw up.",
+          "sentence_chinese": "我覺得不舒服，覺得自己可能會吐。"
+        },
+        {
+          "id": "h2-1-u4-p003",
+          "phrase": "break down",
+          "chinese": "分解；故障",
+          "sentence": "Some kinds of plastic take many years to break down.",
+          "sentence_chinese": "有些種類的塑膠需要很多年才能分解。"
+        },
+        {
+          "id": "h2-1-u4-p004",
+          "phrase": "cut down on",
+          "chinese": "減少；削減",
+          "sentence": "Dad is learning how to cut down on sugar.",
+          "sentence_chinese": "爸爸正在學習如何減少糖分攝取。"
+        }
+      ],
       "grammar": {
         "tips": [
           {
@@ -721,8 +903,148 @@
         ]
       },
       "scrambles": {
-        "vocab": [],
-        "phrases": [],
+        "vocab": [
+          {
+            "id": "h2-1-u4-sv001",
+            "vocab_id": "h2-1-u4-v001",
+            "sentence": "The teacher showed us how to breathe slowly.",
+            "sentence_chinese": "老師教我們如何慢慢呼吸。"
+          },
+          {
+            "id": "h2-1-u4-sv002",
+            "vocab_id": "h2-1-u4-v002",
+            "sentence": "The little boy does not know how to swallow pills.",
+            "sentence_chinese": "那個小男孩不知道如何吞藥丸。"
+          },
+          {
+            "id": "h2-1-u4-sv003",
+            "vocab_id": "h2-1-u4-v003",
+            "sentence": "My foot is painful, so I cannot walk far.",
+            "sentence_chinese": "我的腳很痛，所以我無法走遠。"
+          },
+          {
+            "id": "h2-1-u4-sv004",
+            "vocab_id": "h2-1-u4-v004",
+            "sentence": "That annoying sound keeps me awake at night.",
+            "sentence_chinese": "那個煩人的聲音讓我晚上睡不著。"
+          },
+          {
+            "id": "h2-1-u4-sv005",
+            "vocab_id": "h2-1-u4-v005",
+            "sentence": "We learned what to do during a disaster.",
+            "sentence_chinese": "我們學了災難發生時該做什麼。"
+          },
+          {
+            "id": "h2-1-u4-sv006",
+            "vocab_id": "h2-1-u4-v006",
+            "sentence": "Some plants survive the winter, but others die.",
+            "sentence_chinese": "有些植物能度過冬天，其他一些則會死去。"
+          },
+          {
+            "id": "h2-1-u4-sv007",
+            "vocab_id": "h2-1-u4-v007",
+            "sentence": "Some sea creatures are small, and others are large.",
+            "sentence_chinese": "有些海洋生物很小，其他一些則很大。"
+          },
+          {
+            "id": "h2-1-u4-sv008",
+            "vocab_id": "h2-1-u4-v008",
+            "sentence": "Our teacher showed us how to protect the environment.",
+            "sentence_chinese": "老師教我們如何保護環境。"
+          },
+          {
+            "id": "h2-1-u4-sv009",
+            "vocab_id": "h2-1-u4-v009",
+            "sentence": "Some factories pollute the air near our homes.",
+            "sentence_chinese": "有些工廠汙染我們住家附近的空氣。"
+          },
+          {
+            "id": "h2-1-u4-sv010",
+            "vocab_id": "h2-1-u4-v010",
+            "sentence": "Dad taught me how to float in the water.",
+            "sentence_chinese": "爸爸教我如何在水中漂浮。"
+          },
+          {
+            "id": "h2-1-u4-sv011",
+            "vocab_id": "h2-1-u4-v011",
+            "sentence": "We do not know who to ask about the incident.",
+            "sentence_chinese": "我們不知道該向誰詢問那起事件。"
+          },
+          {
+            "id": "h2-1-u4-sv012",
+            "vocab_id": "h2-1-u4-v012",
+            "sentence": "This is urgent, so we must act now.",
+            "sentence_chinese": "這件事很緊急，所以我們必須立刻行動。"
+          },
+          {
+            "id": "h2-1-u4-sv013",
+            "vocab_id": "h2-1-u4-v013",
+            "sentence": "We are learning how to reduce food waste.",
+            "sentence_chinese": "我們正在學習如何減少食物浪費。"
+          },
+          {
+            "id": "h2-1-u4-sv014",
+            "vocab_id": "h2-1-u4-v014",
+            "sentence": "It takes a lot of effort to learn English well.",
+            "sentence_chinese": "要把英文學好需要付出很多努力。"
+          },
+          {
+            "id": "h2-1-u4-sv015",
+            "vocab_id": "h2-1-u4-v015",
+            "sentence": "Our teacher knows what to do in a crisis.",
+            "sentence_chinese": "我們的老師知道發生危機時該做什麼。"
+          },
+          {
+            "id": "h2-1-u4-sv016",
+            "vocab_id": "h2-1-u4-v016",
+            "sentence": "Mom cooked dinner. Meanwhile, Dad washed the fruit.",
+            "sentence_chinese": "媽媽煮晚餐。在此期間，爸爸洗水果。"
+          },
+          {
+            "id": "h2-1-u4-sv017",
+            "vocab_id": "h2-1-u4-v017",
+            "sentence": "Our school plans to ban phones during tests.",
+            "sentence_chinese": "我們學校計畫禁止在考試期間使用手機。"
+          },
+          {
+            "id": "h2-1-u4-sv018",
+            "vocab_id": "h2-1-u4-v018",
+            "sentence": "We are currently learning how to make bread.",
+            "sentence_chinese": "我們目前正在學習如何做麵包。"
+          },
+          {
+            "id": "h2-1-u4-sv019",
+            "vocab_id": "h2-1-u4-v019",
+            "sentence": "I wonder what to buy for my mother.",
+            "sentence_chinese": "我想知道該買什麼送給媽媽。"
+          }
+        ],
+        "phrases": [
+          {
+            "id": "h2-1-u4-sp001",
+            "phrase_id": "h2-1-u4-p001",
+            "sentence": "I broke the cup by accident this morning.",
+            "sentence_chinese": "今天早上我不小心打破了杯子。"
+          },
+          {
+            "id": "h2-1-u4-sp002",
+            "phrase_id": "h2-1-u4-p002",
+            "sentence": "I feel sick and think I might throw up.",
+            "sentence_chinese": "我覺得不舒服，覺得自己可能會吐。"
+          },
+          {
+            "id": "h2-1-u4-sp003",
+            "phrase_id": "h2-1-u4-p003",
+            "sentence": "Some kinds of plastic take many years to break down.",
+            "sentence_chinese": "有些種類的塑膠需要很多年才能分解。"
+          },
+          {
+            "id": "h2-1-u4-sp004",
+            "phrase_id": "h2-1-u4-p004",
+            "sentence": "Dad is learning how to cut down on sugar.",
+            "sentence_chinese": "爸爸正在學習如何減少糖分攝取。"
+          }
+        ],
         "grammar": [
           {
             "id": "h2-1-u4-sg001",
