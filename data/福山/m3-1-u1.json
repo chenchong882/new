@@ -1,0 +1,1568 @@
+{
+  "units": {
+    "m3-1-u1": {
+      "title": "U1",
+      "vocab": [
+        {
+          "id": "m3-1-u1-v001",
+          "word": "yet",
+          "part_of_speech": "副",
+          "chinese": "還（沒）",
+          "sentence": "I haven't had breakfast yet.",
+          "sentence_chinese": "我還沒吃早餐。"
+        },
+        {
+          "id": "m3-1-u1-v002",
+          "word": "already",
+          "part_of_speech": "副",
+          "chinese": "已經",
+          "sentence": "She has already finished her homework.",
+          "sentence_chinese": "她已經寫完功課了。"
+        },
+        {
+          "id": "m3-1-u1-v003",
+          "word": "diet",
+          "part_of_speech": "名",
+          "chinese": "節食；飲食",
+          "sentence": "He has been on a diet for a month.",
+          "sentence_chinese": "他已經節食一個月了。"
+        },
+        {
+          "id": "m3-1-u1-v004",
+          "word": "raise",
+          "part_of_speech": "動",
+          "chinese": "提高；舉起",
+          "sentence": "The teacher has raised her hand.",
+          "sentence_chinese": "老師已經舉起手了。"
+        },
+        {
+          "id": "m3-1-u1-v005",
+          "word": "since",
+          "part_of_speech": "連／介",
+          "chinese": "自從",
+          "sentence": "We have lived here since we were ten.",
+          "sentence_chinese": "我們從十歲起就住在這裡。"
+        },
+        {
+          "id": "m3-1-u1-v006",
+          "word": "photo",
+          "part_of_speech": "名",
+          "chinese": "照片",
+          "sentence": "I have taken three photos of the dog.",
+          "sentence_chinese": "我已經拍了三張那隻狗的照片。"
+        },
+        {
+          "id": "m3-1-u1-v007",
+          "word": "crazy",
+          "part_of_speech": "形",
+          "chinese": "荒唐的；瘋狂的",
+          "sentence": "That crazy idea has worried my parents.",
+          "sentence_chinese": "那個瘋狂的想法讓我父母很擔心。"
+        },
+        {
+          "id": "m3-1-u1-v008",
+          "word": "slim",
+          "part_of_speech": "形",
+          "chinese": "苗條的；微小的",
+          "sentence": "My sister has always been slim.",
+          "sentence_chinese": "我姊姊一直都很苗條。"
+        },
+        {
+          "id": "m3-1-u1-v009",
+          "word": "type",
+          "part_of_speech": "名",
+          "chinese": "類型",
+          "sentence": "Have you ever tried this type of food?",
+          "sentence_chinese": "你曾經吃過這種類型的食物嗎？"
+        },
+        {
+          "id": "m3-1-u1-v010",
+          "word": "ever",
+          "part_of_speech": "副",
+          "chinese": "曾經",
+          "sentence": "Have you ever played the drums?",
+          "sentence_chinese": "你曾經打過鼓嗎？"
+        },
+        {
+          "id": "m3-1-u1-v011",
+          "word": "habit",
+          "part_of_speech": "名",
+          "chinese": "習慣",
+          "sentence": "I have had this habit for years.",
+          "sentence_chinese": "我有這個習慣很多年了。"
+        },
+        {
+          "id": "m3-1-u1-v012",
+          "word": "gym",
+          "part_of_speech": "名",
+          "chinese": "健身房；體育館",
+          "sentence": "She has just gone to the gym.",
+          "sentence_chinese": "她剛剛去健身房了。"
+        },
+        {
+          "id": "m3-1-u1-v013",
+          "word": "abroad",
+          "part_of_speech": "副",
+          "chinese": "到國外",
+          "sentence": "My parents have never been abroad.",
+          "sentence_chinese": "我父母從未出過國。"
+        },
+        {
+          "id": "m3-1-u1-v014",
+          "word": "cheat",
+          "part_of_speech": "動",
+          "chinese": "作弊；欺騙",
+          "sentence": "He has never cheated on a test.",
+          "sentence_chinese": "他從未在考試中作弊。"
+        },
+        {
+          "id": "m3-1-u1-v015",
+          "word": "copy",
+          "part_of_speech": "動",
+          "chinese": "抄襲；複製",
+          "sentence": "I have already copied these words.",
+          "sentence_chinese": "我已經抄好這些字了。"
+        },
+        {
+          "id": "m3-1-u1-v016",
+          "word": "race",
+          "part_of_speech": "名",
+          "chinese": "速度競賽",
+          "sentence": "She has won the race twice.",
+          "sentence_chinese": "她已經贏過這項競賽兩次。"
+        },
+        {
+          "id": "m3-1-u1-v017",
+          "word": "kind",
+          "part_of_speech": "名",
+          "chinese": "種類",
+          "sentence": "I have tried three kinds of tea.",
+          "sentence_chinese": "我已經喝過三種茶。"
+        },
+        {
+          "id": "m3-1-u1-v018",
+          "word": "letter",
+          "part_of_speech": "名",
+          "chinese": "信",
+          "sentence": "Have you read his letter yet?",
+          "sentence_chinese": "你已經讀過他的信了嗎？"
+        },
+        {
+          "id": "m3-1-u1-v019",
+          "word": "teenager",
+          "part_of_speech": "名",
+          "chinese": "青少年",
+          "sentence": "These teenagers have cleaned the park.",
+          "sentence_chinese": "這些青少年已經清理好公園了。"
+        },
+        {
+          "id": "m3-1-u1-v020",
+          "word": "senior high school",
+          "part_of_speech": "名",
+          "chinese": "高中",
+          "sentence": "She has taught at this senior high school for years.",
+          "sentence_chinese": "她已經在這所高中教書多年了。"
+        },
+        {
+          "id": "m3-1-u1-v021",
+          "word": "understand",
+          "part_of_speech": "動",
+          "chinese": "瞭解",
+          "sentence": "I have never understood his ideas.",
+          "sentence_chinese": "我一直無法理解他的想法。"
+        },
+        {
+          "id": "m3-1-u1-v022",
+          "word": "drum",
+          "part_of_speech": "名",
+          "chinese": "鼓",
+          "sentence": "He has played the drums since he was eight.",
+          "sentence_chinese": "他從八歲起就開始打鼓。"
+        },
+        {
+          "id": "m3-1-u1-v023",
+          "word": "joy",
+          "part_of_speech": "名",
+          "chinese": "樂趣；喜悅",
+          "sentence": "This dog has brought us great joy.",
+          "sentence_chinese": "這隻狗帶給我們很大的喜悅。"
+        },
+        {
+          "id": "m3-1-u1-v024",
+          "word": "pop",
+          "part_of_speech": "名",
+          "chinese": "流行音樂",
+          "sentence": "I have always loved pop music.",
+          "sentence_chinese": "我一直都很喜歡流行音樂。"
+        },
+        {
+          "id": "m3-1-u1-v025",
+          "word": "lately",
+          "part_of_speech": "副",
+          "chinese": "最近",
+          "sentence": "Have you seen your cousins lately?",
+          "sentence_chinese": "你最近有見到你的表兄弟姊妹嗎？"
+        },
+        {
+          "id": "m3-1-u1-v026",
+          "word": "angry",
+          "part_of_speech": "形",
+          "chinese": "生氣的",
+          "sentence": "He has been angry since this morning.",
+          "sentence_chinese": "他從今天早上就一直很生氣。"
+        },
+        {
+          "id": "m3-1-u1-v027",
+          "word": "serious",
+          "part_of_speech": "形",
+          "chinese": "嚴重的",
+          "sentence": "This has been a serious problem for years.",
+          "sentence_chinese": "這多年來一直是個嚴重的問題。"
+        },
+        {
+          "id": "m3-1-u1-v028",
+          "word": "interest",
+          "part_of_speech": "名／動",
+          "chinese": "興趣；使感興趣",
+          "sentence": "She has shown an interest in music.",
+          "sentence_chinese": "她已經表現出對音樂的興趣。"
+        },
+        {
+          "id": "m3-1-u1-v029",
+          "word": "garbage",
+          "part_of_speech": "名",
+          "chinese": "垃圾",
+          "sentence": "We haven't taken out the garbage yet.",
+          "sentence_chinese": "我們還沒把垃圾拿出去。"
+        },
+        {
+          "id": "m3-1-u1-v030",
+          "word": "unhappy",
+          "part_of_speech": "形",
+          "chinese": "不快樂的",
+          "sentence": "She has been unhappy since her dog died.",
+          "sentence_chinese": "自從她的狗死後，她一直不快樂。"
+        },
+        {
+          "id": "m3-1-u1-v031",
+          "word": "worried",
+          "part_of_speech": "形",
+          "chinese": "擔心的",
+          "sentence": "I have been worried about him all day.",
+          "sentence_chinese": "我一整天都在擔心他。"
+        },
+        {
+          "id": "m3-1-u1-v032",
+          "word": "wish",
+          "part_of_speech": "名／動",
+          "chinese": "祝福；願望",
+          "sentence": "I have sent my best wishes to her.",
+          "sentence_chinese": "我已經向她送上最誠摯的祝福。"
+        },
+        {
+          "id": "m3-1-u1-v033",
+          "word": "envelope",
+          "part_of_speech": "名",
+          "chinese": "信封",
+          "sentence": "I have put the letter in an envelope.",
+          "sentence_chinese": "我已經把信放進信封了。"
+        },
+        {
+          "id": "m3-1-u1-v034",
+          "word": "stamp",
+          "part_of_speech": "名",
+          "chinese": "郵票",
+          "sentence": "He has collected stamps for three years.",
+          "sentence_chinese": "他已經集郵三年了。"
+        },
+        {
+          "id": "m3-1-u1-v035",
+          "word": "star",
+          "part_of_speech": "名",
+          "chinese": "明星",
+          "sentence": "Have you ever met a movie star?",
+          "sentence_chinese": "你曾經見過電影明星嗎？"
+        },
+        {
+          "id": "m3-1-u1-v036",
+          "word": "call",
+          "part_of_speech": "動",
+          "chinese": "稱呼",
+          "sentence": "We have always called him Grandpa Lee.",
+          "sentence_chinese": "我們一直都叫他李爺爺。"
+        }
+      ],
+      "phrases": [
+        {
+          "id": "m3-1-u1-p001",
+          "phrase": "as... as possible",
+          "chinese": "盡可能地……",
+          "sentence": "I have tried to walk as much as possible.",
+          "sentence_chinese": "我已經盡量多走路了。"
+        },
+        {
+          "id": "m3-1-u1-p002",
+          "phrase": "take action",
+          "chinese": "採取行動",
+          "sentence": "We have already taken action to help them.",
+          "sentence_chinese": "我們已經採取行動幫助他們了。"
+        },
+        {
+          "id": "m3-1-u1-p003",
+          "phrase": "be all ears",
+          "chinese": "洗耳恭聽",
+          "sentence": "Tell me your story. I'm all ears.",
+          "sentence_chinese": "告訴我你的故事，我洗耳恭聽。"
+        },
+        {
+          "id": "m3-1-u1-p004",
+          "phrase": "at least",
+          "chinese": "至少",
+          "sentence": "I have read this book at least twice.",
+          "sentence_chinese": "這本書我至少讀過兩次。"
+        },
+        {
+          "id": "m3-1-u1-p005",
+          "phrase": "You got it.",
+          "chinese": "沒錯。",
+          "sentence": "\"You mean we should leave now?\" \"You got it.\"",
+          "sentence_chinese": "「你的意思是我們現在應該離開嗎？」「沒錯。」"
+        },
+        {
+          "id": "m3-1-u1-p006",
+          "phrase": "stay in shape",
+          "chinese": "保持健康",
+          "sentence": "She has exercised every day to stay in shape.",
+          "sentence_chinese": "她每天都運動來保持健康。"
+        },
+        {
+          "id": "m3-1-u1-p007",
+          "phrase": "talk... into",
+          "chinese": "說服（某人）做……",
+          "sentence": "He has talked me into joining the race.",
+          "sentence_chinese": "他已經說服我參加比賽了。"
+        }
+      ],
+      "grammar": {
+        "tips": [
+          {
+            "label": "基本句型",
+            "text": "主詞＋have／has＋過去分詞。I、you、we、they 用 have；第三人稱單數用 has。"
+          },
+          {
+            "label": "經驗",
+            "text": "ever 問「曾經」，never 表示「從未」；before、once、twice 可描述經驗。"
+          },
+          {
+            "label": "持續至今",
+            "text": "for＋一段時間；since＋過去時間點或過去式子句。問持續多久用 How long。"
+          },
+          {
+            "label": "完成與未完成",
+            "text": "already 表示已經，just 表示剛剛；否定句與問句常在句尾加 yet。"
+          },
+          {
+            "label": "問答",
+            "text": "Have／Has＋主詞＋過去分詞？回答 Yes, 主詞＋have／has. 或 No, 主詞＋haven't／hasn't."
+          },
+          {
+            "label": "經驗與去向",
+            "text": "have been to 表示曾去過；have gone to 表示已前往、尚未回來。"
+          },
+          {
+            "label": "時態判斷",
+            "text": "yesterday 等明確過去時間通常用過去式；從過去持續到現在或累積到現在的經驗用現在完成式。"
+          }
+        ],
+        "notes": [
+          {
+            "title": "現在完成式的結構與過去分詞",
+            "rule": "主詞＋have／has＋過去分詞（p.p.）",
+            "description": "表達截至目前的經驗、從過去持續到現在的狀態，以及與現在有關的已完成動作。規則動詞常加 -ed；copy → copied、try → tried；常用不規則變化有 be → been、go → gone、do → done、take → taken、see → seen、write → written、understand → understood、bring → brought、put → put。不可把過去式 went、did 當成過去分詞。",
+            "examples": [
+              "I have taken three photos.（我已經拍了三張照片。）",
+              "She has done the dishes.（她已經洗完碗了。）"
+            ]
+          },
+          {
+            "title": "否定句與縮寫",
+            "rule": "主詞＋have／has＋not＋過去分詞",
+            "description": "have not＝haven't；has not＝hasn't。I have＝I've、you have＝you've、we have＝we've、they have＝they've；he has＝he's、she has＝she's、it has＝it's。's 也可能是 is，須看後面的句型與語意。never 本身帶否定意思，不再加 not。",
+            "examples": [
+              "He's woken up.＝He has woken up.（他已經醒來了。）",
+              "He's dancing.＝He is dancing.（他正在跳舞。）",
+              "We haven't read the letter yet.（我們還沒讀那封信。）"
+            ]
+          },
+          {
+            "title": "表達經驗：ever、never、before 與次數",
+            "rule": "主詞＋have／has＋（never）＋過去分詞；Have／Has＋主詞＋ever＋過去分詞？",
+            "description": "ever 常用在問句詢問曾經的經驗；never 表示到目前為止從未做過。before 常放句尾。once、twice、three times 表示經驗次數，前面不加 for 或 since。",
+            "examples": [
+              "Have you ever been abroad?（你曾經出過國嗎？）",
+              "I have never cheated on a test.（我從未在考試中作弊。）",
+              "She has won the race twice.（她已經贏過這項競賽兩次。）"
+            ]
+          },
+          {
+            "title": "現在完成式問答與次數問句",
+            "rule": "Have／Has＋主詞＋過去分詞？；How many times＋have／has＋主詞＋過去分詞？",
+            "description": "一般問句把 have／has 移到主詞前。簡答必須呼應完成式助動詞，不可改用 do／does／did。How many times 問「到目前為止幾次」，回答次數。",
+            "examples": [
+              "Has Amy read the letter? Yes, she has.（艾咪讀過信了嗎？是，她讀過了。）",
+              "Have they cleaned the gym? No, they haven't.（他們清理好體育館了嗎？不，還沒有。）",
+              "How many times have you read this book? Three times.（這本書你讀過幾次？三次。）"
+            ]
+          },
+          {
+            "title": "持續至今：for 與 since",
+            "rule": "主詞＋have／has＋過去分詞＋for＋一段時間／since＋過去起點",
+            "description": "for 後接 three days、two years 等時間長度；since 後接 2020、this morning 等起點，也可接一般過去式子句。主句用現在完成式，表示動作或狀態持續至今。",
+            "examples": [
+              "I have known Amanda for two years.（我已經認識亞曼達兩年了。）",
+              "We have lived here since 2020.（我們從 2020 年就住在這裡。）",
+              "Mary has played the piano since she was eight.（瑪莉從八歲起就開始彈鋼琴。）"
+            ]
+          },
+          {
+            "title": "How long 詢問持續多久",
+            "rule": "How long＋have／has＋主詞＋過去分詞？",
+            "description": "How long 問持續時間，可用 for＋一段時間或 since＋起點作答；和詢問次數的 How many times 不同。",
+            "examples": [
+              "How long has Mark been on a diet? For a month.（馬克節食多久了？一個月了。）",
+              "How long have you lived here? Since 2020.（你在這裡住多久了？從 2020 年開始。）"
+            ]
+          },
+          {
+            "title": "持續狀態的補充句型",
+            "rule": "have／has＋always＋過去分詞；It has been＋一段時間＋since＋過去式子句",
+            "description": "always 可表達從過去到現在一直如此。It has been... since... 表示某事件發生至今多久。How have you been lately? 用來詢問熟人最近過得如何。",
+            "examples": [
+              "I've always wanted to visit Japan.（我一直想去日本。）",
+              "It has been five years since Kyle moved here.（凱爾搬來這裡已經五年了。）",
+              "How have you been lately? Great!（你最近過得如何？很好！）"
+            ]
+          },
+          {
+            "title": "已經、剛剛與尚未完成",
+            "rule": "have／has＋already／just＋過去分詞；haven't／hasn't＋過去分詞＋yet",
+            "description": "already 表示「已經」，可在過去分詞前或句尾；just 表示「剛剛」，常在過去分詞前。yet 表示「還（沒）／已經……了嗎」，常在否定句或問句句尾。already 與 just 都能用於肯定句，須依語境判斷意思。",
+            "examples": [
+              "I have already had lunch.＝I have had lunch already.（我已經吃過午餐了。）",
+              "Karen has just done the dishes.（凱倫剛剛洗完碗。）",
+              "Paul hasn't finished his homework yet.（保羅還沒寫完功課。）",
+              "Have you walked the dog yet?（你已經遛過狗了嗎？）"
+            ]
+          },
+          {
+            "title": "現在完成式與過去式",
+            "rule": "現在完成式連結過去與現在；一般過去式描述過去特定時間",
+            "description": "yesterday、last night 或交代過去事件的 when 子句，通常搭配一般過去式。若說從過去起點持續到現在，使用現在完成式；不要把有明確已結束過去時間的句子直接套入現在完成式。",
+            "examples": [
+              "Leo took a photo yesterday.（里歐昨天拍了一張照片。）",
+              "Leo has taken three photos so far.（里歐到目前為止已拍了三張照片。）",
+              "My aunt has lived in Taipei since she got married.（我阿姨從結婚起就一直住在臺北。）"
+            ]
+          },
+          {
+            "title": "been to 與 gone to",
+            "rule": "have／has been to＋地點；have／has gone to＋地點",
+            "description": "been to 表示曾經到過某處，常搭配經驗次數；gone to 表示已前往某處，通常尚未回來。副詞 abroad、there、here 前不加 to。",
+            "examples": [
+              "I have been to Japan twice.（我曾去過日本兩次。）",
+              "Dan has gone to the airport. He is still there.（丹去機場了，他還在那裡。）",
+              "She has never been abroad.（她從未出過國。）"
+            ]
+          },
+          {
+            "title": "現在完成式的附加問句",
+            "rule": "肯定句＋haven't／hasn't＋代名詞？；否定句＋have／has＋代名詞？",
+            "description": "附加問句使用 have／has，並依主詞選擇相同的助動詞。前肯定後否定，前否定後肯定；never 具有否定意思，因此後面用肯定附加問句。",
+            "examples": [
+              "You have heard the news, haven't you?（你已經聽說那則消息了，不是嗎？）",
+              "Manson has never been to a concert, has he?（曼森從未去過演唱會，對吧？）",
+              "They haven't finished yet, have they?（他們還沒完成，對吧？）"
+            ]
+          },
+          {
+            "title": "課本補充：推測過去發生的事情",
+            "rule": "must／may／might／could＋have＋過去分詞",
+            "description": "must have＋過去分詞表示對過去的強烈推測「一定已經……」；may／might／could have＋過去分詞可表示「可能曾經……」。情態助動詞後用原形 have，即使主詞是 he／she，也不能改成 has。此處聚焦課本的推測用法；could have 在其他語境也有不同意思。",
+            "examples": [
+              "Bella is crying. She must have heard the bad news.（貝拉在哭，她一定已經聽說那個壞消息了。）",
+              "Ken may have forgotten to close the windows.（肯可能忘了關窗戶。）"
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "id": "m3-1-u1-q001",
+            "question": "My sister ___ already taken three photos of the race.",
+            "options": [
+              "A. does",
+              "B. is",
+              "C. has",
+              "D. have"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "主詞 My sister 是第三人稱單數，現在完成式用 has＋過去分詞 taken。"
+          },
+          {
+            "id": "m3-1-u1-q002",
+            "question": "The teenagers ___ just cleaned the gym.",
+            "options": [
+              "A. has",
+              "B. do",
+              "C. are",
+              "D. have"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "The teenagers 是複數，現在完成式用 have＋過去分詞 cleaned。"
+          },
+          {
+            "id": "m3-1-u1-q003",
+            "question": "I have never ___ on a test.",
+            "options": [
+              "A. cheated",
+              "B. cheats",
+              "C. cheat",
+              "D. cheating"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "have never 後面接過去分詞；cheat 的過去分詞是 cheated。"
+          },
+          {
+            "id": "m3-1-u1-q004",
+            "question": "She has already ___ these words into her notebook.",
+            "options": [
+              "A. copied",
+              "B. copy",
+              "C. copies",
+              "D. copying"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "has already 後接過去分詞；copy 要把 y 改成 i，再加 ed，成為 copied。"
+          },
+          {
+            "id": "m3-1-u1-q005",
+            "question": "We have ___ this kind of tea before.",
+            "options": [
+              "A. trying",
+              "B. try",
+              "C. tries",
+              "D. tried"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "have＋過去分詞表示曾有的經驗；try 的過去分詞是 tried。"
+          },
+          {
+            "id": "m3-1-u1-q006",
+            "question": "My parents have never ___ abroad.",
+            "options": [
+              "A. be",
+              "B. being",
+              "C. been",
+              "D. was"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "have never 後面需要過去分詞；be 的過去分詞是 been。"
+          },
+          {
+            "id": "m3-1-u1-q007",
+            "question": "___ you ever met a pop star?",
+            "options": [
+              "A. Have",
+              "B. Are",
+              "C. Has",
+              "D. Did"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "現在完成式問句把 Have 放在主詞 you 前，後面接過去分詞 met。"
+          },
+          {
+            "id": "m3-1-u1-q008",
+            "question": "___ your brother ever won a race?",
+            "options": [
+              "A. Did",
+              "B. Has",
+              "C. Have",
+              "D. Is"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "主詞 your brother 是第三人稱單數，現在完成式問句用 Has＋主詞＋過去分詞。"
+          },
+          {
+            "id": "m3-1-u1-q009",
+            "question": "A: Has Amy read the letter yet? B: Yes, she ___.",
+            "options": [
+              "A. does",
+              "B. did",
+              "C. has",
+              "D. have"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "問句用 Has Amy...，肯定簡答要呼應助動詞：Yes, she has."
+          },
+          {
+            "id": "m3-1-u1-q010",
+            "question": "A: Have the boys taken out the garbage yet? B: No, they ___.",
+            "options": [
+              "A. don't",
+              "B. haven't",
+              "C. hasn't",
+              "D. didn't"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "問句用 Have the boys...，否定簡答為 No, they haven't."
+          },
+          {
+            "id": "m3-1-u1-q011",
+            "question": "___ have you visited this gym? — Three times.",
+            "options": [
+              "A. How much",
+              "B. How long",
+              "C. How old",
+              "D. How many times"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "回答 Three times 表示次數，因此用 How many times 詢問到目前為止的經驗次數。"
+          },
+          {
+            "id": "m3-1-u1-q012",
+            "question": "I have read this letter ___ so far.",
+            "options": [
+              "A. since twice",
+              "B. for twice",
+              "C. twice",
+              "D. two time"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "twice 可直接表示兩次，不加 for 或 since；two time 應為 two times。"
+          },
+          {
+            "id": "m3-1-u1-q013",
+            "question": "My brother has played the drums ___ three years.",
+            "options": [
+              "A. for",
+              "B. since",
+              "C. from",
+              "D. during"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "three years 是一段持續時間，現在完成式用 for＋一段時間。"
+          },
+          {
+            "id": "m3-1-u1-q014",
+            "question": "We have known this teenager ___ 2020.",
+            "options": [
+              "A. from",
+              "B. since",
+              "C. for",
+              "D. during"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "2020 是過去的時間點，用 since 表示自該年持續至今。"
+          },
+          {
+            "id": "m3-1-u1-q015",
+            "question": "She has loved pop music since she ___ ten.",
+            "options": [
+              "A. is",
+              "B. was",
+              "C. will be",
+              "D. has been"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "since 後面的子句交代過去的起點，這裡要用過去式 was。"
+          },
+          {
+            "id": "m3-1-u1-q016",
+            "question": "___ has your dad been on a diet? — For a month.",
+            "options": [
+              "A. How long",
+              "B. How old",
+              "C. How many times",
+              "D. How often"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "For a month 是持續時間，用 How long 詢問已持續多久。"
+          },
+          {
+            "id": "m3-1-u1-q017",
+            "question": "My sister ___ at this senior high school since 2022 and still teaches there.",
+            "options": [
+              "A. teaches",
+              "B. is teaching",
+              "C. has taught",
+              "D. will teach"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "since 2022 和 still teaches there 表示從過去持續至今，使用現在完成式 has taught。"
+          },
+          {
+            "id": "m3-1-u1-q018",
+            "question": "I ___ this habit when I was a child, but I don't have it now.",
+            "options": [
+              "A. have had",
+              "B. have",
+              "C. had",
+              "D. will have"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "when I was a child 指過去時間，且現在已沒有此習慣，用過去式 had。"
+          },
+          {
+            "id": "m3-1-u1-q019",
+            "question": "A: Where is Jack? B: He has ___ to the gym. He is still there.",
+            "options": [
+              "A. went",
+              "B. going",
+              "C. been",
+              "D. gone"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "He is still there 表示尚未回來，使用 has gone to；been to 表示曾去過的經驗。"
+          },
+          {
+            "id": "m3-1-u1-q020",
+            "question": "Amy has ___ to Japan three times, and she is at home now.",
+            "options": [
+              "A. gone",
+              "B. went",
+              "C. been",
+              "D. being"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "three times 表示經驗次數，且現在已回家，使用 has been to。"
+          },
+          {
+            "id": "m3-1-u1-q021",
+            "question": "She ___ finished her letter yet.",
+            "options": [
+              "A. doesn't",
+              "B. isn't",
+              "C. hasn't",
+              "D. haven't"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "yet 搭配現在完成式否定句；主詞 She 用 hasn't＋過去分詞 finished。"
+          },
+          {
+            "id": "m3-1-u1-q022",
+            "question": "Have you put the stamp on the envelope ___?",
+            "options": [
+              "A. for",
+              "B. never",
+              "C. yet",
+              "D. since"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "現在完成式問句句尾可用 yet，詢問動作是否已完成；since、for 後須有時間內容。"
+          },
+          {
+            "id": "m3-1-u1-q023",
+            "question": "We ___ already taken action to help the unhappy child.",
+            "options": [
+              "A. have",
+              "B. has",
+              "C. are",
+              "D. do"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "主詞 We 用 have，構成 have already＋過去分詞 taken。"
+          },
+          {
+            "id": "m3-1-u1-q024",
+            "question": "Karen has just ___ the dishes.",
+            "options": [
+              "A. did",
+              "B. done",
+              "C. do",
+              "D. doing"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "has just 後接過去分詞；do 的過去分詞是 done，did 是過去式。"
+          },
+          {
+            "id": "m3-1-u1-q025",
+            "question": "He has ___ met that star, so this will be their first meeting.",
+            "options": [
+              "A. yet",
+              "B. never",
+              "C. since",
+              "D. for"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "後句說將是第一次見面，表示至今從未見過；never 放在 has 與過去分詞 met 之間。"
+          },
+          {
+            "id": "m3-1-u1-q026",
+            "question": "You have heard about the race, ___ you?",
+            "options": [
+              "A. didn't",
+              "B. don't",
+              "C. hasn't",
+              "D. haven't"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "主要子句是肯定的現在完成式，附加問句用否定的 haven't you。"
+          },
+          {
+            "id": "m3-1-u1-q027",
+            "question": "Mia has never cheated on a test, ___ she?",
+            "options": [
+              "A. did",
+              "B. does",
+              "C. hasn't",
+              "D. has"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "never 使主要子句具有否定意思，附加問句用肯定的 has she。"
+          },
+          {
+            "id": "m3-1-u1-q028",
+            "question": "Your parents haven't read the letter, ___ they?",
+            "options": [
+              "A. have",
+              "B. do",
+              "C. haven't",
+              "D. did"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "主要子句是現在完成式否定句，附加問句要用肯定的 have they。"
+          },
+          {
+            "id": "m3-1-u1-q029",
+            "question": "He's already ___ the drum into the gym.",
+            "options": [
+              "A. carry",
+              "B. carrying",
+              "C. carried",
+              "D. carries"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "這裡 He's 是 He has 的縮寫，後面接過去分詞 carried。"
+          },
+          {
+            "id": "m3-1-u1-q030",
+            "question": "I ___ collected stamps since I was nine.",
+            "options": [
+              "A. do",
+              "B. has",
+              "C. have",
+              "D. am"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "主詞 I 搭配 have；since I was nine 表示從九歲持續至今。"
+          },
+          {
+            "id": "m3-1-u1-q031",
+            "question": "It has been two years since we ___ to this city.",
+            "options": [
+              "A. have moved",
+              "B. move",
+              "C. will move",
+              "D. moved"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "It has been＋一段時間＋since 子句，since 後用過去式 moved 表示搬家的起點。"
+          },
+          {
+            "id": "m3-1-u1-q032",
+            "question": "I haven't seen you for months. How ___ you been lately?",
+            "options": [
+              "A. have",
+              "B. has",
+              "C. are",
+              "D. did"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "詢問近況使用 How have you been lately?，you 搭配 have。"
+          },
+          {
+            "id": "m3-1-u1-q033",
+            "question": "She has always ___ to stay in shape.",
+            "options": [
+              "A. wanted",
+              "B. wants",
+              "C. wanting",
+              "D. want"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "has always 後接過去分詞；want 的過去分詞是 wanted。"
+          },
+          {
+            "id": "m3-1-u1-q034",
+            "question": "We haven't talked to him ___ this morning.",
+            "options": [
+              "A. for",
+              "B. since",
+              "C. from",
+              "D. during"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "this morning 是開始的時間點，用 since 表示從今天早上到現在。"
+          },
+          {
+            "id": "m3-1-u1-q035",
+            "question": "The children have been worried about their dog ___ two days.",
+            "options": [
+              "A. during",
+              "B. since",
+              "C. from",
+              "D. for"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "two days 是持續的時間長度，因此使用 for。"
+          },
+          {
+            "id": "m3-1-u1-q036",
+            "question": "How long ___ your brother had this drum?",
+            "options": [
+              "A. have",
+              "B. is",
+              "C. has",
+              "D. does"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "主詞 your brother 是第三人稱單數，完成式問句用 has；had 是 have 的過去分詞。"
+          },
+          {
+            "id": "m3-1-u1-q037",
+            "question": "He has ___ me into joining the race.",
+            "options": [
+              "A. talked",
+              "B. talks",
+              "C. talk",
+              "D. talking"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "has 後接過去分詞 talked；本題考現在完成式的動詞形式。"
+          },
+          {
+            "id": "m3-1-u1-q038",
+            "question": "My family has ___ this dog Lucky since it was little.",
+            "options": [
+              "A. called",
+              "B. calling",
+              "C. calls",
+              "D. call"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "has 後接過去分詞 called，表示從過去到現在都這樣稱呼牠。"
+          },
+          {
+            "id": "m3-1-u1-q039",
+            "question": "I have already ___ the letter in an envelope.",
+            "options": [
+              "A. put",
+              "B. putting",
+              "C. puts",
+              "D. putted"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "put 的原形、過去式和過去分詞同形；have already 後仍使用過去分詞 put。"
+          },
+          {
+            "id": "m3-1-u1-q040",
+            "question": "She has never ___ why he is so angry.",
+            "options": [
+              "A. understands",
+              "B. understood",
+              "C. understanding",
+              "D. understand"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "understand 的過去分詞是不規則變化 understood；has never 後接過去分詞。"
+          },
+          {
+            "id": "m3-1-u1-q041",
+            "question": "This game has ___ us a lot of joy.",
+            "options": [
+              "A. bringing",
+              "B. bring",
+              "C. brought",
+              "D. brings"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "has 後需要過去分詞；bring 的過去分詞是 brought。"
+          },
+          {
+            "id": "m3-1-u1-q042",
+            "question": "___ the teacher raised her hand yet?",
+            "options": [
+              "A. Have",
+              "B. Is",
+              "C. Did",
+              "D. Has"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "主詞 the teacher 是第三人稱單數，現在完成式問句用 Has＋主詞＋過去分詞 raised。"
+          },
+          {
+            "id": "m3-1-u1-q043",
+            "question": "My sister ___ slim since she was a teenager.",
+            "options": [
+              "A. is",
+              "B. has been",
+              "C. was",
+              "D. will be"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "since she was a teenager 表示從青少年時期持續至今，狀態用 has been＋形容詞。"
+          },
+          {
+            "id": "m3-1-u1-q044",
+            "question": "They have already ___ as much garbage as possible.",
+            "options": [
+              "A. collecting",
+              "B. collects",
+              "C. collect",
+              "D. collected"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "have already 後接過去分詞 collected；as much garbage as possible 是句子素材。"
+          },
+          {
+            "id": "m3-1-u1-q045",
+            "question": "A: Have you ever tried this type of exercise? B: Yes, I ___.",
+            "options": [
+              "A. have",
+              "B. has",
+              "C. did",
+              "D. do"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "Have you ever... 的肯定簡答是 Yes, I have.，沿用完成式助動詞。"
+          },
+          {
+            "id": "m3-1-u1-q046",
+            "question": "The students have ___ an interest in pop music.",
+            "options": [
+              "A. show",
+              "B. showing",
+              "C. shows",
+              "D. shown"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "have 後接過去分詞；show 的過去分詞可用 shown。"
+          },
+          {
+            "id": "m3-1-u1-q047",
+            "question": "Leo ___ a photo of the star yesterday.",
+            "options": [
+              "A. takes",
+              "B. will take",
+              "C. has taken",
+              "D. took"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "yesterday 是明確的過去時間，應用過去式 took，不能用現在完成式。"
+          },
+          {
+            "id": "m3-1-u1-q048",
+            "question": "A: Why is Bella crying? B: She must ___ the bad news already.",
+            "options": [
+              "A. had heard",
+              "B. have heard",
+              "C. having heard",
+              "D. has heard"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "推測過去發生的事情用 must＋have＋過去分詞；情態助動詞後的 have 保持原形。"
+          },
+          {
+            "id": "m3-1-u1-q049",
+            "question": "Ken may ___ to close the windows before he left.",
+            "options": [
+              "A. had forgotten",
+              "B. have forgotten",
+              "C. has forgotten",
+              "D. having forgotten"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "may＋have＋過去分詞表示可能曾經發生的事；forget 的過去分詞是 forgotten。"
+          },
+          {
+            "id": "m3-1-u1-q050",
+            "question": "The boys ___ taken out the garbage yet, so the bags are still in the kitchen.",
+            "options": [
+              "A. don't",
+              "B. haven't",
+              "C. hasn't",
+              "D. aren't"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "垃圾仍在廚房表示尚未完成；複數主詞 The boys 用 haven't＋過去分詞 taken。"
+          }
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          {
+            "id": "m3-1-u1-sv001",
+            "vocab_id": "m3-1-u1-v001",
+            "sentence": "I haven't had breakfast yet.",
+            "sentence_chinese": "我還沒吃早餐。"
+          },
+          {
+            "id": "m3-1-u1-sv002",
+            "vocab_id": "m3-1-u1-v002",
+            "sentence": "She has already finished her homework.",
+            "sentence_chinese": "她已經寫完功課了。"
+          },
+          {
+            "id": "m3-1-u1-sv003",
+            "vocab_id": "m3-1-u1-v003",
+            "sentence": "He has been on a diet for a month.",
+            "sentence_chinese": "他已經節食一個月了。"
+          },
+          {
+            "id": "m3-1-u1-sv004",
+            "vocab_id": "m3-1-u1-v004",
+            "sentence": "The teacher has raised her hand.",
+            "sentence_chinese": "老師已經舉起手了。"
+          },
+          {
+            "id": "m3-1-u1-sv005",
+            "vocab_id": "m3-1-u1-v005",
+            "sentence": "We have lived here since we were ten.",
+            "sentence_chinese": "我們從十歲起就住在這裡。"
+          },
+          {
+            "id": "m3-1-u1-sv006",
+            "vocab_id": "m3-1-u1-v006",
+            "sentence": "I have taken three photos of the dog.",
+            "sentence_chinese": "我已經拍了三張那隻狗的照片。"
+          },
+          {
+            "id": "m3-1-u1-sv007",
+            "vocab_id": "m3-1-u1-v007",
+            "sentence": "That crazy idea has worried my parents.",
+            "sentence_chinese": "那個瘋狂的想法讓我父母很擔心。"
+          },
+          {
+            "id": "m3-1-u1-sv008",
+            "vocab_id": "m3-1-u1-v008",
+            "sentence": "My sister has always been slim.",
+            "sentence_chinese": "我姊姊一直都很苗條。"
+          },
+          {
+            "id": "m3-1-u1-sv009",
+            "vocab_id": "m3-1-u1-v009",
+            "sentence": "Have you ever tried this type of food?",
+            "sentence_chinese": "你曾經吃過這種類型的食物嗎？"
+          },
+          {
+            "id": "m3-1-u1-sv010",
+            "vocab_id": "m3-1-u1-v010",
+            "sentence": "Have you ever played the drums?",
+            "sentence_chinese": "你曾經打過鼓嗎？"
+          },
+          {
+            "id": "m3-1-u1-sv011",
+            "vocab_id": "m3-1-u1-v011",
+            "sentence": "I have had this habit for years.",
+            "sentence_chinese": "我有這個習慣很多年了。"
+          },
+          {
+            "id": "m3-1-u1-sv012",
+            "vocab_id": "m3-1-u1-v012",
+            "sentence": "She has just gone to the gym.",
+            "sentence_chinese": "她剛剛去健身房了。"
+          },
+          {
+            "id": "m3-1-u1-sv013",
+            "vocab_id": "m3-1-u1-v013",
+            "sentence": "My parents have never been abroad.",
+            "sentence_chinese": "我父母從未出過國。"
+          },
+          {
+            "id": "m3-1-u1-sv014",
+            "vocab_id": "m3-1-u1-v014",
+            "sentence": "He has never cheated on a test.",
+            "sentence_chinese": "他從未在考試中作弊。"
+          },
+          {
+            "id": "m3-1-u1-sv015",
+            "vocab_id": "m3-1-u1-v015",
+            "sentence": "I have already copied these words.",
+            "sentence_chinese": "我已經抄好這些字了。"
+          },
+          {
+            "id": "m3-1-u1-sv016",
+            "vocab_id": "m3-1-u1-v016",
+            "sentence": "She has won the race twice.",
+            "sentence_chinese": "她已經贏過這項競賽兩次。"
+          },
+          {
+            "id": "m3-1-u1-sv017",
+            "vocab_id": "m3-1-u1-v017",
+            "sentence": "I have tried three kinds of tea.",
+            "sentence_chinese": "我已經喝過三種茶。"
+          },
+          {
+            "id": "m3-1-u1-sv018",
+            "vocab_id": "m3-1-u1-v018",
+            "sentence": "Have you read his letter yet?",
+            "sentence_chinese": "你已經讀過他的信了嗎？"
+          },
+          {
+            "id": "m3-1-u1-sv019",
+            "vocab_id": "m3-1-u1-v019",
+            "sentence": "These teenagers have cleaned the park.",
+            "sentence_chinese": "這些青少年已經清理好公園了。"
+          },
+          {
+            "id": "m3-1-u1-sv020",
+            "vocab_id": "m3-1-u1-v020",
+            "sentence": "She has taught at this senior high school for years.",
+            "sentence_chinese": "她已經在這所高中教書多年了。"
+          },
+          {
+            "id": "m3-1-u1-sv021",
+            "vocab_id": "m3-1-u1-v021",
+            "sentence": "I have never understood his ideas.",
+            "sentence_chinese": "我一直無法理解他的想法。"
+          },
+          {
+            "id": "m3-1-u1-sv022",
+            "vocab_id": "m3-1-u1-v022",
+            "sentence": "He has played the drums since he was eight.",
+            "sentence_chinese": "他從八歲起就開始打鼓。"
+          },
+          {
+            "id": "m3-1-u1-sv023",
+            "vocab_id": "m3-1-u1-v023",
+            "sentence": "This dog has brought us great joy.",
+            "sentence_chinese": "這隻狗帶給我們很大的喜悅。"
+          },
+          {
+            "id": "m3-1-u1-sv024",
+            "vocab_id": "m3-1-u1-v024",
+            "sentence": "I have always loved pop music.",
+            "sentence_chinese": "我一直都很喜歡流行音樂。"
+          },
+          {
+            "id": "m3-1-u1-sv025",
+            "vocab_id": "m3-1-u1-v025",
+            "sentence": "Have you seen your cousins lately?",
+            "sentence_chinese": "你最近有見到你的表兄弟姊妹嗎？"
+          },
+          {
+            "id": "m3-1-u1-sv026",
+            "vocab_id": "m3-1-u1-v026",
+            "sentence": "He has been angry since this morning.",
+            "sentence_chinese": "他從今天早上就一直很生氣。"
+          },
+          {
+            "id": "m3-1-u1-sv027",
+            "vocab_id": "m3-1-u1-v027",
+            "sentence": "This has been a serious problem for years.",
+            "sentence_chinese": "這多年來一直是個嚴重的問題。"
+          },
+          {
+            "id": "m3-1-u1-sv028",
+            "vocab_id": "m3-1-u1-v028",
+            "sentence": "She has shown an interest in music.",
+            "sentence_chinese": "她已經表現出對音樂的興趣。"
+          },
+          {
+            "id": "m3-1-u1-sv029",
+            "vocab_id": "m3-1-u1-v029",
+            "sentence": "We haven't taken out the garbage yet.",
+            "sentence_chinese": "我們還沒把垃圾拿出去。"
+          },
+          {
+            "id": "m3-1-u1-sv030",
+            "vocab_id": "m3-1-u1-v030",
+            "sentence": "She has been unhappy since her dog died.",
+            "sentence_chinese": "自從她的狗死後，她一直不快樂。"
+          },
+          {
+            "id": "m3-1-u1-sv031",
+            "vocab_id": "m3-1-u1-v031",
+            "sentence": "I have been worried about him all day.",
+            "sentence_chinese": "我一整天都在擔心他。"
+          },
+          {
+            "id": "m3-1-u1-sv032",
+            "vocab_id": "m3-1-u1-v032",
+            "sentence": "I have sent my best wishes to her.",
+            "sentence_chinese": "我已經向她送上最誠摯的祝福。"
+          },
+          {
+            "id": "m3-1-u1-sv033",
+            "vocab_id": "m3-1-u1-v033",
+            "sentence": "I have put the letter in an envelope.",
+            "sentence_chinese": "我已經把信放進信封了。"
+          },
+          {
+            "id": "m3-1-u1-sv034",
+            "vocab_id": "m3-1-u1-v034",
+            "sentence": "He has collected stamps for three years.",
+            "sentence_chinese": "他已經集郵三年了。"
+          },
+          {
+            "id": "m3-1-u1-sv035",
+            "vocab_id": "m3-1-u1-v035",
+            "sentence": "Have you ever met a movie star?",
+            "sentence_chinese": "你曾經見過電影明星嗎？"
+          },
+          {
+            "id": "m3-1-u1-sv036",
+            "vocab_id": "m3-1-u1-v036",
+            "sentence": "We have always called him Grandpa Lee.",
+            "sentence_chinese": "我們一直都叫他李爺爺。"
+          }
+        ],
+        "phrases": [
+          {
+            "id": "m3-1-u1-sp001",
+            "phrase_id": "m3-1-u1-p001",
+            "sentence": "I have tried to walk as much as possible.",
+            "sentence_chinese": "我已經盡量多走路了。"
+          },
+          {
+            "id": "m3-1-u1-sp002",
+            "phrase_id": "m3-1-u1-p002",
+            "sentence": "We have already taken action to help them.",
+            "sentence_chinese": "我們已經採取行動幫助他們了。"
+          },
+          {
+            "id": "m3-1-u1-sp003",
+            "phrase_id": "m3-1-u1-p003",
+            "sentence": "Tell me your story. I'm all ears.",
+            "sentence_chinese": "告訴我你的故事，我洗耳恭聽。"
+          },
+          {
+            "id": "m3-1-u1-sp004",
+            "phrase_id": "m3-1-u1-p004",
+            "sentence": "I have read this book at least twice.",
+            "sentence_chinese": "這本書我至少讀過兩次。"
+          },
+          {
+            "id": "m3-1-u1-sp005",
+            "phrase_id": "m3-1-u1-p005",
+            "sentence": "\"You mean we should leave now?\" \"You got it.\"",
+            "sentence_chinese": "「你的意思是我們現在應該離開嗎？」「沒錯。」"
+          },
+          {
+            "id": "m3-1-u1-sp006",
+            "phrase_id": "m3-1-u1-p006",
+            "sentence": "She has exercised every day to stay in shape.",
+            "sentence_chinese": "她每天都運動來保持健康。"
+          },
+          {
+            "id": "m3-1-u1-sp007",
+            "phrase_id": "m3-1-u1-p007",
+            "sentence": "He has talked me into joining the race.",
+            "sentence_chinese": "他已經說服我參加比賽了。"
+          }
+        ],
+        "grammar": [
+          {
+            "id": "m3-1-u1-sg001",
+            "sentence": "I have already put the letter in an envelope.",
+            "sentence_chinese": "我已經把信放進信封了。"
+          },
+          {
+            "id": "m3-1-u1-sg002",
+            "sentence": "Has your sister ever played the drums?",
+            "sentence_chinese": "你姊姊曾經打過鼓嗎？"
+          },
+          {
+            "id": "m3-1-u1-sg003",
+            "sentence": "We have lived here for three years.",
+            "sentence_chinese": "我們已經在這裡住三年了。"
+          },
+          {
+            "id": "m3-1-u1-sg004",
+            "sentence": "She has never cheated on a test.",
+            "sentence_chinese": "她從未在考試中作弊。"
+          },
+          {
+            "id": "m3-1-u1-sg005",
+            "sentence": "How long have you collected these stamps?",
+            "sentence_chinese": "你收集這些郵票多久了？"
+          },
+          {
+            "id": "m3-1-u1-sg006",
+            "sentence": "My father has just gone to the gym.",
+            "sentence_chinese": "我爸爸剛剛去健身房了。"
+          },
+          {
+            "id": "m3-1-u1-sg007",
+            "sentence": "The teenagers have not cleaned the park yet.",
+            "sentence_chinese": "這些青少年還沒清理公園。"
+          },
+          {
+            "id": "m3-1-u1-sg008",
+            "sentence": "Have you ever met a famous pop star?",
+            "sentence_chinese": "你曾經見過著名的流行音樂明星嗎？"
+          },
+          {
+            "id": "m3-1-u1-sg009",
+            "sentence": "It has been years since we met.",
+            "sentence_chinese": "我們認識至今已經好幾年了。"
+          },
+          {
+            "id": "m3-1-u1-sg010",
+            "sentence": "You have already read my letter, haven't you?",
+            "sentence_chinese": "你已經讀過我的信了，不是嗎？"
+          },
+          {
+            "id": "m3-1-u1-sg011",
+            "sentence": "I have known her since we were children.",
+            "sentence_chinese": "我們從小就認識了。"
+          },
+          {
+            "id": "m3-1-u1-sg012",
+            "sentence": "She has brought great joy to our family.",
+            "sentence_chinese": "她帶給我們家很大的喜悅。"
+          },
+          {
+            "id": "m3-1-u1-sg013",
+            "sentence": "Have they taken action to help the children?",
+            "sentence_chinese": "他們已經採取行動幫助孩子們了嗎？"
+          },
+          {
+            "id": "m3-1-u1-sg014",
+            "sentence": "He has never been abroad, has he?",
+            "sentence_chinese": "他從未出過國，對吧？"
+          },
+          {
+            "id": "m3-1-u1-sg015",
+            "sentence": "My sister has been on a diet for weeks.",
+            "sentence_chinese": "我姊姊已經節食好幾週了。"
+          },
+          {
+            "id": "m3-1-u1-sg016",
+            "sentence": "We have not seen that type of bird before.",
+            "sentence_chinese": "我們以前沒看過那種類型的鳥。"
+          },
+          {
+            "id": "m3-1-u1-sg017",
+            "sentence": "How many times have you won this race?",
+            "sentence_chinese": "這項競賽你已經贏過幾次了？"
+          },
+          {
+            "id": "m3-1-u1-sg018",
+            "sentence": "She has already copied the words into her notebook.",
+            "sentence_chinese": "她已經把那些字抄進筆記本了。"
+          },
+          {
+            "id": "m3-1-u1-sg019",
+            "sentence": "He has talked me into joining the team.",
+            "sentence_chinese": "他已經說服我加入隊伍了。"
+          },
+          {
+            "id": "m3-1-u1-sg020",
+            "sentence": "The children have been worried since this morning.",
+            "sentence_chinese": "孩子們從今天早上起就一直很擔心。"
+          },
+          {
+            "id": "m3-1-u1-sg021",
+            "sentence": "Has your mother taken out the garbage yet?",
+            "sentence_chinese": "你媽媽已經把垃圾拿出去了嗎？"
+          },
+          {
+            "id": "m3-1-u1-sg022",
+            "sentence": "I have tried this tea at least twice.",
+            "sentence_chinese": "我至少已經喝過這種茶兩次了。"
+          },
+          {
+            "id": "m3-1-u1-sg023",
+            "sentence": "They have always called their little dog Lucky.",
+            "sentence_chinese": "他們一直都叫他們的小狗 Lucky。"
+          },
+          {
+            "id": "m3-1-u1-sg024",
+            "sentence": "You haven't finished your homework yet, have you?",
+            "sentence_chinese": "你還沒寫完功課，對吧？"
+          },
+          {
+            "id": "m3-1-u1-sg025",
+            "sentence": "We have been to that gym many times.",
+            "sentence_chinese": "我們曾去過那間健身房很多次。"
+          },
+          {
+            "id": "m3-1-u1-sg026",
+            "sentence": "She must have heard the bad news already.",
+            "sentence_chinese": "她一定已經聽說那個壞消息了。"
+          },
+          {
+            "id": "m3-1-u1-sg027",
+            "sentence": "How have you been since you moved here?",
+            "sentence_chinese": "你搬來這裡後過得如何？"
+          },
+          {
+            "id": "m3-1-u1-sg028",
+            "sentence": "My brother has exercised every day to stay in shape.",
+            "sentence_chinese": "我哥哥每天都運動來保持健康。"
+          },
+          {
+            "id": "m3-1-u1-sg029",
+            "sentence": "He may have forgotten to close the windows.",
+            "sentence_chinese": "他可能忘了關窗戶。"
+          },
+          {
+            "id": "m3-1-u1-sg030",
+            "sentence": "I have never understood his crazy ideas.",
+            "sentence_chinese": "我一直無法理解他那些瘋狂的想法。"
+          }
+        ]
+      }
+    }
+  }
+}
