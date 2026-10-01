@@ -369,124 +369,215 @@
         "quiz": [
           {
             "id": "m2-1-u1-q001",
-            "question": "___ was the weather like when you visited the island?",
+            "question": "___ is the weather in the mountains today?",
             "options": [
-              "A. Where",
-              "B. Who",
-              "C. How",
-              "D. What"
+              "A. What",
+              "B. How",
+              "C. Which",
+              "D. Who"
             ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "問句有 like，詢問天氣要用 What was the weather like。"
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "詢問天氣時，How is the weather 不加 like；若用 What，後面必須有 like。"
           },
           {
             "id": "m2-1-u1-q002",
-            "question": "How ___ the weather outside at this moment?",
+            "question": "___ was the weather like at the harbor yesterday?",
             "options": [
-              "A. are",
-              "B. is",
-              "C. were",
-              "D. was"
+              "A. What",
+              "B. Who",
+              "C. How",
+              "D. Which"
             ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "at this moment 表示現在，weather 搭配單數 is。"
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "句中有 like，要用 What was the weather like；How 的天氣問句不加 like。"
           },
           {
             "id": "m2-1-u1-q003",
-            "question": "What was the weather ___ during the school festival?",
+            "question": "___ was the weather during your winter vacation?",
             "options": [
-              "A. like",
-              "B. likes",
-              "C. liking",
-              "D. liked"
+              "A. What",
+              "B. Who",
+              "C. How",
+              "D. Which"
             ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "What was the weather like 是詢問天氣的句型，like 不作動詞變化。"
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "這個天氣問句沒有 like，所以用 How was the weather。"
           },
           {
             "id": "m2-1-u1-q004",
-            "question": "___ is the weather near the river today?",
+            "question": "___ is the weather like on the island now?",
             "options": [
-              "A. Who",
-              "B. Which",
-              "C. What",
+              "A. What",
+              "B. Who",
+              "C. Which",
               "D. How"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "沒有 like 的天氣問句用 How is the weather。"
-          },
-          {
-            "id": "m2-1-u1-q005",
-            "question": "How ___ the weather on your birthday last year?",
-            "options": [
-              "A. was",
-              "B. were",
-              "C. is",
-              "D. are"
             ],
             "answer": "A",
             "answer_index": 0,
-            "hint": "last year 表示過去，weather 搭配單數 was。"
+            "hint": "句中有 like，應用 What is the weather like，不能用 How。"
           },
           {
-            "id": "m2-1-u1-q006",
-            "question": "A: How is the weather on the island? B: ___ is warm and sunny.",
+            "id": "m2-1-u1-q005",
+            "question": "What is the weather ___ near the lake today?",
             "options": [
-              "A. These",
-              "B. It",
-              "C. There",
-              "D. They"
+              "A. liked",
+              "B. like",
+              "C. liking",
+              "D. likes"
             ],
             "answer": "B",
             "answer_index": 1,
-            "hint": "描述天氣用 It 作主詞，再接 is 與天氣形容詞。"
+            "hint": "What 詢問天氣需搭配 like；這裡的 like 不作動詞變化。"
+          },
+          {
+            "id": "m2-1-u1-q006",
+            "question": "What was the weather ___ during the boat trip?",
+            "options": [
+              "A. liked",
+              "B. liking",
+              "C. like",
+              "D. likes"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "What was the weather like 用來問過去的天氣，like 不會跟著變成 liked。"
           },
           {
             "id": "m2-1-u1-q007",
-            "question": "The fishermen stayed home yesterday because it ___ stormy.",
+            "question": "___ the weather at the campsite now? It is sunny.",
             "options": [
-              "A. were",
-              "B. are",
-              "C. is",
-              "D. was"
+              "A. What does",
+              "B. What is",
+              "C. How is",
+              "D. How does"
             ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "yesterday 表示過去，天氣主詞 it 搭配 was。"
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "現在的天氣問句用 How is the weather；What is 的句型還需要 like。"
           },
           {
             "id": "m2-1-u1-q008",
-            "question": "Look outside! It ___ very cloudy right now.",
+            "question": "___ the weather like during the storm last night?",
             "options": [
-              "A. was",
-              "B. are",
-              "C. is",
-              "D. were"
+              "A. How was",
+              "B. How did",
+              "C. What did",
+              "D. What was"
             ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "right now 指現在；it 是單數，搭配 is。"
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "last night 用 was；有 like 的天氣問句用 What was the weather like。"
           },
           {
             "id": "m2-1-u1-q009",
-            "question": "It is usually ___ on the coast in autumn.",
+            "question": "It ___ rainy in the village right now.",
             "options": [
-              "A. wind",
-              "B. windily",
-              "C. windy",
-              "D. winds"
+              "A. has",
+              "B. is",
+              "C. have",
+              "D. was"
             ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "be 動詞 is 後用天氣形容詞 windy 描述天氣。"
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "right now 表示現在；rainy 是形容詞，描述天氣用 It is rainy，不用 have 或 has。"
           },
           {
             "id": "m2-1-u1-q010",
-            "question": "It was ___ when the fisherman left the harbor.",
+            "question": "It ___ snowy at the campsite yesterday.",
+            "options": [
+              "A. was",
+              "B. is",
+              "C. had",
+              "D. have"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "yesterday 表示過去；snowy 是形容詞，需用 It was snowy，不用 had。"
+          },
+          {
+            "id": "m2-1-u1-q011",
+            "question": "It ___ windy near the sea at the moment.",
+            "options": [
+              "A. have",
+              "B. was",
+              "C. has",
+              "D. is"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "at the moment 指現在；windy 是形容詞，要用 is 連接。"
+          },
+          {
+            "id": "m2-1-u1-q012",
+            "question": "It ___ cloudy during our picnic last Sunday.",
+            "options": [
+              "A. had",
+              "B. has",
+              "C. was",
+              "D. is"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "last Sunday 指過去；cloudy 是形容詞，前面用 was，不用 had 或 has。"
+          },
+          {
+            "id": "m2-1-u1-q013",
+            "question": "Look outside! It ___ sunny now.",
+            "options": [
+              "A. have",
+              "B. is",
+              "C. has",
+              "D. was"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "now 表示現在；sunny 是形容詞，天氣主詞 It 後用 is。"
+          },
+          {
+            "id": "m2-1-u1-q014",
+            "question": "It ___ cold on the island last night.",
+            "options": [
+              "A. was",
+              "B. have",
+              "C. had",
+              "D. is"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "last night 表示過去；cold 是形容詞，It 後用 was，不能用 had。"
+          },
+          {
+            "id": "m2-1-u1-q015",
+            "question": "It is ___ near the harbor today.",
+            "options": [
+              "A. rainy",
+              "B. rains",
+              "C. rain",
+              "D. rained"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "這裡用 It is + 天氣形容詞，因此選 rainy；rain 是名詞或動詞，rains、rained 是動詞變化。"
+          },
+          {
+            "id": "m2-1-u1-q016",
+            "question": "It was ___ in the mountains last weekend.",
+            "options": [
+              "A. snows",
+              "B. snowy",
+              "C. snow",
+              "D. snowed"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "was 後要接描述天氣的形容詞 snowy，不能直接接 snow、snows 或 snowed。"
+          },
+          {
+            "id": "m2-1-u1-q017",
+            "question": "It is often ___ on this island in spring.",
             "options": [
               "A. rainy",
               "B. rained",
@@ -495,154 +586,375 @@
             ],
             "answer": "A",
             "answer_index": 0,
-            "hint": "was 後用天氣形容詞 rainy，不能直接接 rain 的動詞變化。"
-          },
-          {
-            "id": "m2-1-u1-q011",
-            "question": "It ___ almost every afternoon here in summer.",
-            "options": [
-              "A. to rain",
-              "B. rains",
-              "C. rain",
-              "D. raining"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "every afternoon 表示習慣，主詞 it 的現在簡單式用 rains。"
-          },
-          {
-            "id": "m2-1-u1-q012",
-            "question": "It ___ for three hours here yesterday morning.",
-            "options": [
-              "A. rained",
-              "B. rains",
-              "C. rain",
-              "D. raining"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "yesterday morning 表示過去，rain 用過去式 rained。"
-          },
-          {
-            "id": "m2-1-u1-q013",
-            "question": "It often ___ in the village during the cold season.",
-            "options": [
-              "A. snowing",
-              "B. to snow",
-              "C. snow",
-              "D. snows"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "often 表示習慣，主詞 it 搭配現在簡單式 snows。"
-          },
-          {
-            "id": "m2-1-u1-q014",
-            "question": "It ___ all night in the mountains last Saturday.",
-            "options": [
-              "A. snowed",
-              "B. snow",
-              "C. snows",
-              "D. snowing"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "last Saturday 表示過去，snow 用過去式 snowed。"
-          },
-          {
-            "id": "m2-1-u1-q015",
-            "question": "Does it ___ a lot around the lake in June?",
-            "options": [
-              "A. rains",
-              "B. rained",
-              "C. raining",
-              "D. rain"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "助動詞 does 後的主要動詞用原形 rain。"
-          },
-          {
-            "id": "m2-1-u1-q016",
-            "question": "Did it ___ during your stay in Canada?",
-            "options": [
-              "A. snows",
-              "B. snow",
-              "C. snowing",
-              "D. snowed"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "助動詞 did 已表示過去，後面用原形 snow。"
-          },
-          {
-            "id": "m2-1-u1-q017",
-            "question": "It does not ___ very often in this dry area.",
-            "options": [
-              "A. raining",
-              "B. rain",
-              "C. rains",
-              "D. rained"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "does not 後接原形動詞 rain。"
+            "hint": "is 後面要接天氣形容詞 rainy；often 不會改變這個句型。"
           },
           {
             "id": "m2-1-u1-q018",
-            "question": "It did not ___ at all during our winter holiday.",
+            "question": "It was ___ outside our cabin yesterday morning.",
             "options": [
-              "A. snowed",
-              "B. snowing",
+              "A. snowy",
+              "B. snowed",
               "C. snow",
+              "D. snows"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "It was 後用形容詞 snowy；若把 snow 當過去式動詞，應說 It snowed，不加 was。"
+          },
+          {
+            "id": "m2-1-u1-q019",
+            "question": "It was ___ at the farm before the storm.",
+            "options": [
+              "A. rain",
+              "B. rains",
+              "C. rained",
+              "D. rainy"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "這裡已有 was，要接形容詞 rainy；It rained 是另一種句型，不可寫成 It was rained。"
+          },
+          {
+            "id": "m2-1-u1-q020",
+            "question": "It is usually ___ in this village in January.",
+            "options": [
+              "A. snow",
+              "B. snowed",
+              "C. snowy",
               "D. snows"
             ],
             "answer": "C",
             "answer_index": 2,
-            "hint": "did not 後接原形 snow，不能再用過去式。"
-          },
-          {
-            "id": "m2-1-u1-q019",
-            "question": "___ it rain near the harbor every spring?",
-            "options": [
-              "A. Does",
-              "B. Do",
-              "C. Is",
-              "D. Are"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "一般動詞 rain 的現在式問句，主詞 it 搭配 Does。"
-          },
-          {
-            "id": "m2-1-u1-q020",
-            "question": "___ it snow during the storm last night?",
-            "options": [
-              "A. Did",
-              "B. Was",
-              "C. Do",
-              "D. Does"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "last night 表示過去，一般動詞 snow 的問句用 Did。"
+            "hint": "已有 is，因此用形容詞 snowy；若用動詞句型，應說 It usually snows。"
           },
           {
             "id": "m2-1-u1-q021",
-            "question": "There ___ a lot of rain on this island every September.",
+            "question": "It ___ a lot here every spring. The roads are often wet.",
             "options": [
-              "A. is",
-              "B. have",
-              "C. are",
-              "D. has"
+              "A. rain",
+              "B. rains",
+              "C. has",
+              "D. is"
             ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "There 開頭描述雨量用 be 動詞，rain 是不可數名詞，搭配 is。"
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "every spring 表示習慣；It 後直接用第三人稱單數動詞 rains。a lot 修飾下雨的量，這裡不能填 has 或 is。"
           },
           {
             "id": "m2-1-u1-q022",
-            "question": "There ___ a little snow outside our cabin last night.",
+            "question": "It ___ a little in the mountains every winter. The ground turns white.",
+            "options": [
+              "A. snows",
+              "B. is",
+              "C. snow",
+              "D. have"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "every winter 表示習慣，主詞 It 搭配 snows；a little 修飾下雪的量，不能用 have 或 is。"
+          },
+          {
+            "id": "m2-1-u1-q023",
+            "question": "It ___ a lot during the storm yesterday. We needed umbrellas.",
+            "options": [
+              "A. rains",
+              "B. rained",
+              "C. had",
+              "D. was"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "yesterday 指過去，應用動詞 rained；It had 或 It was 後面只接 a lot 不能表達下雨。"
+          },
+          {
+            "id": "m2-1-u1-q024",
+            "question": "It ___ a little at the ski resort last night. The roofs turned white.",
+            "options": [
+              "A. snows",
+              "B. had",
+              "C. snowed",
+              "D. was"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "last night 指過去，要用 snowed；a little 修飾下雪的量，不用 had 或 was。"
+          },
+          {
+            "id": "m2-1-u1-q025",
+            "question": "It usually ___ a lot in this area in June. Bring an umbrella.",
+            "options": [
+              "A. rained",
+              "B. is",
+              "C. have",
+              "D. rains"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "usually 表示習慣，It 搭配 rains；這是動詞句型，不用 have 或 is。"
+          },
+          {
+            "id": "m2-1-u1-q026",
+            "question": "It often ___ a little here in January. We sometimes make small snowmen.",
+            "options": [
+              "A. has",
+              "B. is",
+              "C. snows",
+              "D. snowed"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "often 表示習慣，It 搭配現在式 snows；不能把描述雨雪的 have 或 be 句型混進來。"
+          },
+          {
+            "id": "m2-1-u1-q027",
+            "question": "It ___ a little during our walk yesterday. We opened our umbrellas.",
+            "options": [
+              "A. was",
+              "B. rain",
+              "C. have",
+              "D. rained"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "yesterday 表示過去，用 rained；a little 前需要描述下雨的動詞，不是 have 或 was。"
+          },
+          {
+            "id": "m2-1-u1-q028",
+            "question": "It ___ a lot in the village last December. We made snowmen.",
+            "options": [
+              "A. has",
+              "B. was",
+              "C. snowed",
+              "D. snow"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "last December 表示過去，堆雪人的語境指出是下雪，要用 snowed，不用 has 或 was。"
+          },
+          {
+            "id": "m2-1-u1-q029",
+            "question": "It ___ a lot near the lake every summer. We often carry umbrellas.",
+            "options": [
+              "A. was",
+              "B. has",
+              "C. rains",
+              "D. rain"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "every summer 表示習慣；It 後的現在式 rain 要加 s。has、was 都不能在此句表達下雨。"
+          },
+          {
+            "id": "m2-1-u1-q030",
+            "question": "It ___ a little on this mountain every February. There is snow on the path.",
+            "options": [
+              "A. have",
+              "B. snow",
+              "C. was",
+              "D. snows"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "every February 表示習慣；主詞 It 搭配 snows，不用 have、was 或原形 snow。"
+          },
+          {
+            "id": "m2-1-u1-q031",
+            "question": "It ___ a lot here last Friday. The rain kept us indoors.",
+            "options": [
+              "A. had",
+              "B. rains",
+              "C. rained",
+              "D. is"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "last Friday 是過去時間，用 rained；had、is 不能放入這個 It + 天氣動詞的句型。"
+          },
+          {
+            "id": "m2-1-u1-q032",
+            "question": "It ___ a little at the farm yesterday. Snow covered part of the roof.",
+            "options": [
+              "A. have",
+              "B. is",
+              "C. snows",
+              "D. snowed"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "yesterday 表示過去，snow 作動詞要用 snowed；have 或 is 不能直接搭配 a little 來表示下雪。"
+          },
+          {
+            "id": "m2-1-u1-q033",
+            "question": "Does it ___ a lot here in May? Should I bring an umbrella?",
+            "options": [
+              "A. rains",
+              "B. rain",
+              "C. has",
+              "D. is"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "Does 後用原形 rain；這裡是下雨的動詞句型，不用 has 或 is，也不再加 s。"
+          },
+          {
+            "id": "m2-1-u1-q034",
+            "question": "Did it ___ a little at the mountain hotel last night? Was the roof white?",
+            "options": [
+              "A. was",
+              "B. snow",
+              "C. had",
+              "D. snowed"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "Did 已表示過去，後面用原形 snow，不能再用 snowed，也不能混用 had 或 was。"
+          },
+          {
+            "id": "m2-1-u1-q035",
+            "question": "We ___ a lot of rain here every summer.",
+            "options": [
+              "A. have",
+              "B. has",
+              "C. are",
+              "D. is"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "主詞 We 用 have + 雨雪名詞；rain 在 a lot of 後是名詞，不能把 We 當作 There 而接 is 或 are。"
+          },
+          {
+            "id": "m2-1-u1-q036",
+            "question": "They ___ a little snow in their village every winter.",
+            "options": [
+              "A. is",
+              "B. has",
+              "C. are",
+              "D. have"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "主詞 They 的現在式用 have，後面接名詞 snow；不能用 has、is 或 are。"
+          },
+          {
+            "id": "m2-1-u1-q037",
+            "question": "We ___ a lot of rain during our trip last week.",
+            "options": [
+              "A. had",
+              "B. were",
+              "C. have",
+              "D. was"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "last week 表示過去，We 用 had + 名詞 rain；不能用 was 或 were 代替 had。"
+          },
+          {
+            "id": "m2-1-u1-q038",
+            "question": "They ___ heavy snow in their town last January.",
+            "options": [
+              "A. were",
+              "B. was",
+              "C. have",
+              "D. had"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "last January 表示過去，They 用 had 描述當地雪量，不用 was 或 were。"
+          },
+          {
+            "id": "m2-1-u1-q039",
+            "question": "We usually ___ very little rain in November.",
+            "options": [
+              "A. is",
+              "B. has",
+              "C. have",
+              "D. are"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "usually 表示習慣，主詞 We 搭配 have，後面是名詞 rain，不能用 be 動詞。"
+          },
+          {
+            "id": "m2-1-u1-q040",
+            "question": "They ___ no rain during their holiday last month.",
+            "options": [
+              "A. had",
+              "B. has",
+              "C. was",
+              "D. were"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "last month 表示過去；They had no rain 表示當地沒下雨，不能用 was 或 were。"
+          },
+          {
+            "id": "m2-1-u1-q041",
+            "question": "We have a lot of ___ in our town every spring.",
+            "options": [
+              "A. rainy",
+              "B. rains",
+              "C. rained",
+              "D. rain"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "have a lot of 後需接名詞 rain；rainy 是形容詞，rains、rained 是動詞變化。"
+          },
+          {
+            "id": "m2-1-u1-q042",
+            "question": "They had a little ___ during their winter vacation.",
+            "options": [
+              "A. snows",
+              "B. snowy",
+              "C. snow",
+              "D. snowed"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "had a little 後接不可數名詞 snow；不能用形容詞 snowy 或動詞 snows、snowed。"
+          },
+          {
+            "id": "m2-1-u1-q043",
+            "question": "There ___ a lot of rain here every April.",
+            "options": [
+              "A. has",
+              "B. have",
+              "C. is",
+              "D. are"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "There 描述雨量用 is，不用 have 或 has；rain 是不可數名詞，即使有 a lot of 也不能用 are。"
+          },
+          {
+            "id": "m2-1-u1-q044",
+            "question": "There ___ a little snow on this mountain every winter.",
+            "options": [
+              "A. has",
+              "B. is",
+              "C. have",
+              "D. are"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "There 後搭配 be 動詞；snow 是不可數名詞，現在的句型用 is，不用 are、have 或 has。"
+          },
+          {
+            "id": "m2-1-u1-q045",
+            "question": "There ___ heavy rain in the village last night.",
+            "options": [
+              "A. have",
+              "B. were",
+              "C. had",
+              "D. was"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "last night 指過去，rain 是不可數名詞，要用 There was，不用 were 或 had。"
+          },
+          {
+            "id": "m2-1-u1-q046",
+            "question": "There ___ a lot of snow near the lake last December.",
             "options": [
               "A. had",
               "B. were",
@@ -651,371 +963,59 @@
             ],
             "answer": "D",
             "answer_index": 3,
-            "hint": "last night 表示過去，snow 是不可數名詞，There 後用 was。"
-          },
-          {
-            "id": "m2-1-u1-q023",
-            "question": "We usually ___ a lot of rain during this season.",
-            "options": [
-              "A. are",
-              "B. has",
-              "C. have",
-              "D. is"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "主詞 We 用 have 描述當地雨量，不能套用 There is 的句型。"
-          },
-          {
-            "id": "m2-1-u1-q024",
-            "question": "The island ___ very little rain last April.",
-            "options": [
-              "A. having",
-              "B. has",
-              "C. have",
-              "D. had"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "last April 表示過去，have 用過去式 had。"
-          },
-          {
-            "id": "m2-1-u1-q025",
-            "question": "___ there any snow near your hotel last week?",
-            "options": [
-              "A. Had",
-              "B. Did",
-              "C. Were",
-              "D. Was"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "There was 的疑問句把 Was 放句首，snow 是不可數名詞。"
-          },
-          {
-            "id": "m2-1-u1-q026",
-            "question": "___ there much rain in this area every autumn?",
-            "options": [
-              "A. Are",
-              "B. Is",
-              "C. Do",
-              "D. Does"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "There is 的疑問句把 Is 放句首，rain 是不可數名詞。"
-          },
-          {
-            "id": "m2-1-u1-q027",
-            "question": "Did the island ___ much rain last winter?",
-            "options": [
-              "A. have",
-              "B. had",
-              "C. having",
-              "D. has"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "Did 後用原形 have，即使主詞 the island 是單數也不加 s。"
-          },
-          {
-            "id": "m2-1-u1-q028",
-            "question": "Does your village ___ snow every winter?",
-            "options": [
-              "A. has",
-              "B. had",
-              "C. have",
-              "D. having"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "Does 後用原形 have，不能再用 has。"
-          },
-          {
-            "id": "m2-1-u1-q029",
-            "question": "There was not ___ snow on the hill yesterday.",
-            "options": [
-              "A. many",
-              "B. several",
-              "C. much",
-              "D. a few"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "snow 是不可數名詞，表示量多用 much，其他選項修飾可數名詞。"
-          },
-          {
-            "id": "m2-1-u1-q030",
-            "question": "We had very ___ rain during our holiday.",
-            "options": [
-              "A. many",
-              "B. little",
-              "C. few",
-              "D. a few"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "rain 是不可數名詞，very little 表示雨量很少。"
-          },
-          {
-            "id": "m2-1-u1-q031",
-            "question": "There was a lot of ___ in the garden after the storm.",
-            "options": [
-              "A. snowed",
-              "B. snowing",
-              "C. snowy",
-              "D. snow"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "a lot of 後接名詞；snow 在此是不可數名詞。"
-          },
-          {
-            "id": "m2-1-u1-q032",
-            "question": "Our town has very little ___ in the dry season.",
-            "options": [
-              "A. raining",
-              "B. rained",
-              "C. rain",
-              "D. rainy"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "little 後接不可數名詞 rain，不能接形容詞或動詞變化。"
-          },
-          {
-            "id": "m2-1-u1-q033",
-            "question": "It ___ sunny at the farm yesterday, so we played outside.",
-            "options": [
-              "A. are",
-              "B. was",
-              "C. were",
-              "D. is"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "yesterday 表示過去，it 後接 was，再接形容詞 sunny。"
-          },
-          {
-            "id": "m2-1-u1-q034",
-            "question": "It ___ heavily during our boat trip yesterday.",
-            "options": [
-              "A. rained",
-              "B. rainy",
-              "C. rains",
-              "D. rain"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "yesterday 表示過去，此處需要動詞過去式 rained。"
-          },
-          {
-            "id": "m2-1-u1-q035",
-            "question": "Our village usually ___ heavy snow in February.",
-            "options": [
-              "A. is",
-              "B. have",
-              "C. are",
-              "D. has"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "our village 是單數主詞，現在簡單式的 have 要改成 has。"
-          },
-          {
-            "id": "m2-1-u1-q036",
-            "question": "The fishermen's town ___ no rain last month.",
-            "options": [
-              "A. had",
-              "B. have",
-              "C. has",
-              "D. having"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "last month 表示過去，描述當地雨量用 had。"
-          },
-          {
-            "id": "m2-1-u1-q037",
-            "question": "We do not ___ much rain here in November.",
-            "options": [
-              "A. have",
-              "B. had",
-              "C. having",
-              "D. has"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "do not 後面用原形 have。"
-          },
-          {
-            "id": "m2-1-u1-q038",
-            "question": "The island did not ___ any snow last year.",
-            "options": [
-              "A. had",
-              "B. has",
-              "C. having",
-              "D. have"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "did not 後面用原形 have。"
-          },
-          {
-            "id": "m2-1-u1-q039",
-            "question": "A: Was it windy during the boat trip? B: Yes, it ___.",
-            "options": [
-              "A. were",
-              "B. did",
-              "C. was",
-              "D. does"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "問句用 Was it，肯定簡答用 Yes, it was。"
-          },
-          {
-            "id": "m2-1-u1-q040",
-            "question": "A: Is it rainy outside now? B: No, it ___.",
-            "options": [
-              "A. didn't",
-              "B. aren't",
-              "C. isn't",
-              "D. doesn't"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "問句用 Is it，否定簡答用 No, it isn't。"
-          },
-          {
-            "id": "m2-1-u1-q041",
-            "question": "A: Did it snow at the farm yesterday? B: No, it ___.",
-            "options": [
-              "A. didn't",
-              "B. wasn't",
-              "C. isn't",
-              "D. doesn't"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "問句用 Did，否定簡答也用 didn't。"
-          },
-          {
-            "id": "m2-1-u1-q042",
-            "question": "A: Does it rain a lot in April? B: Yes, it ___.",
-            "options": [
-              "A. is",
-              "B. does",
-              "C. was",
-              "D. do"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "問句用 Does，主詞 it 的肯定簡答用 does。"
-          },
-          {
-            "id": "m2-1-u1-q043",
-            "question": "A: Was there any snow by the lake? B: No, there ___.",
-            "options": [
-              "A. didn't",
-              "B. doesn't",
-              "C. wasn't",
-              "D. weren't"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "問句用 Was there，否定簡答用 there wasn't。"
-          },
-          {
-            "id": "m2-1-u1-q044",
-            "question": "A: Did you have much rain on your trip? B: Yes, we ___.",
-            "options": [
-              "A. had",
-              "B. did",
-              "C. do",
-              "D. were"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "以 Did 開頭的問句用助動詞 did 作肯定簡答。"
-          },
-          {
-            "id": "m2-1-u1-q045",
-            "question": "A: Is there much rain here in May? B: Yes, there ___.",
-            "options": [
-              "A. has",
-              "B. does",
-              "C. is",
-              "D. are"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "問句用 Is there，簡答用 there is。"
-          },
-          {
-            "id": "m2-1-u1-q046",
-            "question": "A: Does this town have snow in winter? B: No, it ___.",
-            "options": [
-              "A. isn't",
-              "B. don't",
-              "C. doesn't",
-              "D. hasn't"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "問句用 Does，否定簡答用 doesn't，而不是 hasn't。"
+            "hint": "last December 指過去，snow 是不可數名詞，搭配 was；There 句型不能改用 had。"
           },
           {
             "id": "m2-1-u1-q047",
-            "question": "What ___ the weather like during the storm yesterday?",
+            "question": "There ___ very little rain on this island every autumn.",
             "options": [
-              "A. were",
-              "B. was",
+              "A. is",
+              "B. have",
               "C. are",
-              "D. is"
+              "D. has"
             ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "yesterday 表示過去，weather 搭配單數 was。"
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "描述固定季節的雨量用 There is；rain 不可數，不能用 are，也不能混用 have 或 has。"
           },
           {
             "id": "m2-1-u1-q048",
-            "question": "How ___ the weather in your village these days?",
+            "question": "There ___ no snow at the campsite last weekend.",
             "options": [
-              "A. does",
-              "B. are",
-              "C. were",
-              "D. is"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "these days 表示這陣子，weather 是不可數名詞，搭配 is。"
-          },
-          {
-            "id": "m2-1-u1-q049",
-            "question": "There ___ no rain here last weekend.",
-            "options": [
-              "A. have",
+              "A. had",
               "B. was",
-              "C. had",
+              "C. has",
               "D. were"
             ],
             "answer": "B",
             "answer_index": 1,
-            "hint": "There 開頭不能搭配 had；過去的不可數名詞 rain 搭配 was。"
+            "hint": "last weekend 指過去，snow 不可數，There 後用 was，不用 were、has 或 had。"
+          },
+          {
+            "id": "m2-1-u1-q049",
+            "question": "There is a lot of ___ in this area in summer.",
+            "options": [
+              "A. rain",
+              "B. rained",
+              "C. rains",
+              "D. rainy"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "There is a lot of 後接名詞 rain；rainy 是形容詞，rains、rained 是動詞變化。"
           },
           {
             "id": "m2-1-u1-q050",
-            "question": "It is ___ in the mountains today, so wear a warm coat.",
+            "question": "There was a little ___ on the hill yesterday.",
             "options": [
-              "A. snow",
-              "B. snows",
+              "A. snowed",
+              "B. snow",
               "C. snowy",
-              "D. snowed"
+              "D. snows"
             ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "is 後用形容詞 snowy 描述下雪的天氣。"
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "There was a little 後接不可數名詞 snow；不能用 snowy、snows 或 snowed。"
           }
         ]
       },
