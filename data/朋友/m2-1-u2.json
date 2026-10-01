@@ -405,59 +405,59 @@
         "quiz": [
           {
             "id": "m2-1-u2-q001",
-            "question": "The nurse gave a clean towel ___ the boy.",
+            "question": "The doctor sent the test results ___ my mother.",
             "options": [
-              "A. to",
-              "B. for",
-              "C. with",
-              "D. of"
+              "A. for",
+              "B. to",
+              "C. of",
+              "D. with"
             ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "give 的物在前、人在後時，用 give + 物 + to + 人。"
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "send + 物 + to + 人，表示把物品或資訊傳送給某人。"
           },
           {
             "id": "m2-1-u2-q002",
-            "question": "My brother bought some oranges ___ our grandma.",
+            "question": "My cousin bought a soft pillow ___ Grandpa.",
             "options": [
               "A. of",
+              "B. to",
+              "C. for",
+              "D. with"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "buy + 物 + for + 人，表示為某人購買物品。"
+          },
+          {
+            "id": "m2-1-u2-q003",
+            "question": "Please show your health report ___ the school nurse.",
+            "options": [
+              "A. of",
+              "B. with",
+              "C. for",
+              "D. to"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "show + 物 + to + 人，表示把某物給某人看。"
+          },
+          {
+            "id": "m2-1-u2-q004",
+            "question": "Dad made a bowl of soup ___ our sick neighbor.",
+            "options": [
+              "A. with",
               "B. for",
-              "C. with",
+              "C. of",
               "D. to"
             ],
             "answer": "B",
             "answer_index": 1,
-            "hint": "buy 表示替人買東西，用 buy + 物 + for + 人。"
-          },
-          {
-            "id": "m2-1-u2-q003",
-            "question": "Ella sent a photo ___ her cousin.",
-            "options": [
-              "A. with",
-              "B. for",
-              "C. of",
-              "D. to"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "send 的收件人放在物品後面時，以 to 連接。"
-          },
-          {
-            "id": "m2-1-u2-q004",
-            "question": "Dad cooked vegetable soup ___ my sick sister.",
-            "options": [
-              "A. with",
-              "B. of",
-              "C. for",
-              "D. to"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "cook 表示替人準備食物，用 cook + 物 + for + 人。"
+            "hint": "make + 物 + for + 人，表示為某人製作某物。"
           },
           {
             "id": "m2-1-u2-q005",
-            "question": "The student showed his sore hand ___ the nurse.",
+            "question": "Please pass the clean mask ___ the patient.",
             "options": [
               "A. for",
               "B. with",
@@ -466,323 +466,375 @@
             ],
             "answer": "C",
             "answer_index": 2,
-            "hint": "show 的物在前時，用 to 帶出看東西的人。"
+            "hint": "pass + 物 + to + 人，表示把物品遞給某人。"
           },
           {
             "id": "m2-1-u2-q006",
-            "question": "My sister made a birthday card ___ me.",
+            "question": "My sister cooked some rice ___ our grandmother.",
             "options": [
-              "A. for",
-              "B. with",
-              "C. to",
-              "D. of"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "make 表示替人製作東西，用 make + 物 + for + 人。"
-          },
-          {
-            "id": "m2-1-u2-q007",
-            "question": "Please pass that bottle of water ___ your uncle.",
-            "options": [
-              "A. of",
-              "B. with",
-              "C. to",
+              "A. to",
+              "B. of",
+              "C. with",
               "D. for"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "pass + 物 + to + 人表示把物品遞給某人。"
-          },
-          {
-            "id": "m2-1-u2-q008",
-            "question": "Leo wrote a short letter ___ his sick friend.",
-            "options": [
-              "A. for",
-              "B. with",
-              "C. of",
-              "D. to"
             ],
             "answer": "D",
             "answer_index": 3,
-            "hint": "write + 信件 + to + 人表示寫信給收件人。"
+            "hint": "cook + 物 + for + 人，表示為某人煮食物。"
+          },
+          {
+            "id": "m2-1-u2-q007",
+            "question": "The little girl wrote a thank-you note ___ her doctor.",
+            "options": [
+              "A. to",
+              "B. of",
+              "C. with",
+              "D. for"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "write + 信件或便條 + to + 人，表示寫給某人。"
+          },
+          {
+            "id": "m2-1-u2-q008",
+            "question": "The nurse gave a glass of water ___ the thirsty boy.",
+            "options": [
+              "A. for",
+              "B. of",
+              "C. to",
+              "D. with"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "give + 物 + to + 人，表示把物品給某人。"
           },
           {
             "id": "m2-1-u2-q009",
-            "question": "The doctor gave ___ some advice about sleep.",
+            "question": "My parents bought ___ a new pair of shoes.",
             "options": [
-              "A. hers",
-              "B. she",
-              "C. her",
+              "A. my",
+              "B. I",
+              "C. me",
+              "D. mine"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "buy + 人 + 物中的人是受詞，要用受格 me。"
+          },
+          {
+            "id": "m2-1-u2-q010",
+            "question": "The doctor gave ___ some tips about exercise.",
+            "options": [
+              "A. ours",
+              "B. we",
+              "C. us",
+              "D. our"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "give 後的人是受詞，要用受格 us。"
+          },
+          {
+            "id": "m2-1-u2-q011",
+            "question": "Our teacher sent ___ a message about the sick student.",
+            "options": [
+              "A. they",
+              "B. theirs",
+              "C. their",
+              "D. them"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "send + 人 + 物中的人用受格 them。"
+          },
+          {
+            "id": "m2-1-u2-q012",
+            "question": "This medicine is for Dad. Please give it to ___.",
+            "options": [
+              "A. himself",
+              "B. his",
+              "C. he",
+              "D. him"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "to 後接受格 him，指前句的 Dad；此處不是反身用法。"
+          },
+          {
+            "id": "m2-1-u2-q013",
+            "question": "Those towels are for the children. Please pass ___ to them.",
+            "options": [
+              "A. theirs",
+              "B. their",
+              "C. them",
               "D. they"
             ],
             "answer": "C",
             "answer_index": 2,
-            "hint": "give + 人 + 物中，人是受詞，she 要改為受格 her。"
-          },
-          {
-            "id": "m2-1-u2-q010",
-            "question": "Grandpa bought ___ a warm scarf yesterday.",
-            "options": [
-              "A. mine",
-              "B. my",
-              "C. I",
-              "D. me"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "buy + 人 + 物中，人是受詞，第一人稱用 me。"
-          },
-          {
-            "id": "m2-1-u2-q011",
-            "question": "These are Ben's gloves. Please give ___ to him.",
-            "options": [
-              "A. they",
-              "B. them",
-              "C. their",
-              "D. theirs"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "gloves 是複數物品；give 後用受格 them 代替。"
-          },
-          {
-            "id": "m2-1-u2-q012",
-            "question": "The soup is ready. Please bring it to ___.",
-            "options": [
-              "A. him",
-              "B. they",
-              "C. his",
-              "D. he"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "介系詞 to 後要接受格；he 的受格是 him。"
-          },
-          {
-            "id": "m2-1-u2-q013",
-            "question": "Mom made ___ a sandwich before school.",
-            "options": [
-              "A. his",
-              "B. him",
-              "C. he's",
-              "D. he"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "make + 人 + 物中，人須用受格 him。"
+            "hint": "pass 後需要受詞，代替複數 towels 用 them。"
           },
           {
             "id": "m2-1-u2-q014",
-            "question": "I sent the message to ___ this morning.",
+            "question": "Mom made ___ a warm drink for her sore throat.",
             "options": [
-              "A. theirs",
-              "B. they",
-              "C. them",
-              "D. their"
+              "A. her",
+              "B. hers",
+              "C. she",
+              "D. they"
             ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "to 後接人稱代名詞的受格 them。"
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "make + 人 + 物中的人用受格 her，表示媽媽為她做飲料。"
           },
           {
             "id": "m2-1-u2-q015",
-            "question": "___ did Eric leave the party? Because he felt sick.",
+            "question": "___ did the boy miss the race? Because his knee hurt.",
             "options": [
-              "A. What",
-              "B. Who",
-              "C. Why",
-              "D. Which"
+              "A. Who",
+              "B. Where",
+              "C. When",
+              "D. Why"
             ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "Because 帶出離開的原因，問原因用 Why。"
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "回答提供膝蓋痛這個原因，因此用 Why 問原因。"
           },
           {
             "id": "m2-1-u2-q016",
-            "question": "Why ___ your sister so quiet today?",
+            "question": "Why ___ your face red right now?",
             "options": [
-              "A. is",
-              "B. did",
+              "A. are",
+              "B. does",
+              "C. is",
+              "D. do"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "face 是單數名詞，red 描述狀態，現在的問句用 is。"
+          },
+          {
+            "id": "m2-1-u2-q017",
+            "question": "Why ___ the nurses so busy yesterday afternoon?",
+            "options": [
+              "A. were",
+              "B. was",
               "C. does",
               "D. do"
             ],
             "answer": "A",
             "answer_index": 0,
-            "hint": "quiet 是形容詞，問狀態用 be 動詞；your sister 搭配 is。"
-          },
-          {
-            "id": "m2-1-u2-q017",
-            "question": "Why ___ the players tired after yesterday's game?",
-            "options": [
-              "A. are",
-              "B. were",
-              "C. did",
-              "D. was"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "yesterday 指過去，複數主詞 the players 的 be 動詞用 were。"
+            "hint": "yesterday afternoon 表示過去，複數主詞 nurses 搭配 were。"
           },
           {
             "id": "m2-1-u2-q018",
-            "question": "Why ___ your dad wear a mask on the bus every day?",
+            "question": "Why ___ your mother check your temperature every morning?",
             "options": [
-              "A. was",
-              "B. do",
-              "C. does",
-              "D. is"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "一般動詞 wear 的習慣性動作問句，單數主詞 your dad 用 does。"
-          },
-          {
-            "id": "m2-1-u2-q019",
-            "question": "Why ___ you call the nurse last night?",
-            "options": [
-              "A. did",
-              "B. were",
-              "C. do",
+              "A. do",
+              "B. is",
+              "C. are",
               "D. does"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "last night 指過去，動作 call 的問句用 did。"
-          },
-          {
-            "id": "m2-1-u2-q020",
-            "question": "Why did Nina ___ her neck during class?",
-            "options": [
-              "A. touches",
-              "B. touch",
-              "C. touched",
-              "D. touching"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "did 後面的主要動詞用原形 touch。"
-          },
-          {
-            "id": "m2-1-u2-q021",
-            "question": "Why didn't your brother ___ his coat to school?",
-            "options": [
-              "A. wearing",
-              "B. wore",
-              "C. wears",
-              "D. wear"
             ],
             "answer": "D",
             "answer_index": 3,
-            "hint": "didn't 後面仍用原形動詞 wear。"
+            "hint": "every morning 表示習慣，單數主詞 your mother 的一般動詞問句用 does。"
+          },
+          {
+            "id": "m2-1-u2-q019",
+            "question": "Why ___ you visit the hospital last Friday?",
+            "options": [
+              "A. do",
+              "B. were",
+              "C. does",
+              "D. did"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "last Friday 表示過去，visit 是一般動詞，問句用 did。"
+          },
+          {
+            "id": "m2-1-u2-q020",
+            "question": "Why did the doctor ___ your eyes with a light?",
+            "options": [
+              "A. check",
+              "B. checked",
+              "C. checking",
+              "D. checks"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "助動詞 did 後用原形 check。"
+          },
+          {
+            "id": "m2-1-u2-q021",
+            "question": "Why didn't your cousin ___ the nurse about his headache?",
+            "options": [
+              "A. told",
+              "B. tells",
+              "C. telling",
+              "D. tell"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "didn't 後用原形 tell，不再使用過去式 told。"
           },
           {
             "id": "m2-1-u2-q022",
-            "question": "Why does the baby ___ so much at night?",
+            "question": "Why does the baby ___ her ears at night?",
             "options": [
-              "A. cry",
-              "B. cried",
-              "C. crying",
-              "D. cries"
+              "A. touch",
+              "B. touching",
+              "C. touched",
+              "D. touches"
             ],
             "answer": "A",
             "answer_index": 0,
-            "hint": "does 後的主要動詞用原形 cry。"
+            "hint": "does 後用原形 touch，不能再加 es。"
           },
           {
             "id": "m2-1-u2-q023",
-            "question": "Why ___ you and your sister at the hospital yesterday?",
+            "question": "Why ___ your feet so cold now?",
             "options": [
-              "A. did",
-              "B. were",
-              "C. do",
-              "D. was"
+              "A. does",
+              "B. are",
+              "C. is",
+              "D. do"
             ],
             "answer": "B",
             "answer_index": 1,
-            "hint": "at the hospital 是狀態；過去時間、複數主詞用 were。"
+            "hint": "feet 是複數，cold 描述狀態，現在的問句用 are。"
           },
           {
             "id": "m2-1-u2-q024",
-            "question": "Why ___ your hands wet now?",
+            "question": "Why ___ your uncle absent from work yesterday?",
             "options": [
-              "A. are",
-              "B. do",
-              "C. did",
-              "D. is"
+              "A. were",
+              "B. did",
+              "C. was",
+              "D. does"
             ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "wet 是形容詞，現在狀態用 be 動詞；複數 hands 用 are。"
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "yesterday 表示過去，單數主詞 your uncle 搭配 was。"
           },
           {
             "id": "m2-1-u2-q025",
-            "question": "Why did the teacher ___ your parents?",
+            "question": "Why do the students ___ their hands before lunch?",
             "options": [
-              "A. called",
-              "B. call",
-              "C. calls",
-              "D. calling"
+              "A. wash",
+              "B. washing",
+              "C. washed",
+              "D. washes"
             ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "Did 已表示過去，主要動詞 call 保持原形。"
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "do 後的主要動詞用原形 wash。"
           },
           {
             "id": "m2-1-u2-q026",
-            "question": "Why ___ Mia at home last Monday?",
+            "question": "Why didn't Amy ___ her medicine after breakfast?",
             "options": [
-              "A. did",
-              "B. was",
-              "C. does",
-              "D. is"
+              "A. take",
+              "B. taking",
+              "C. takes",
+              "D. took"
             ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "at home 描述狀態；last Monday 指過去，Mia 搭配 was。"
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "didn't 後用原形 take，不用過去式 took。"
           },
           {
             "id": "m2-1-u2-q027",
-            "question": "Lily drank warm water ___ her throat hurt.（選出表示原因的連接詞。）",
+            "question": "The girl wore a mask ___ she had a cough.（選出引出原因子句的連接詞。）",
             "options": [
-              "A. because of",
-              "B. so that",
+              "A. because",
+              "B. so",
+              "C. therefore",
+              "D. because of"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "she had a cough 是完整原因子句，前面用 because。"
+          },
+          {
+            "id": "m2-1-u2-q028",
+            "question": "The floor was wet, ___ the nurse walked carefully.（選出引出結果的連接詞。）",
+            "options": [
+              "A. although",
+              "B. because of",
               "C. so",
+              "D. because"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "地板濕是原因，小心走路是結果，因此用 so。"
+          },
+          {
+            "id": "m2-1-u2-q029",
+            "question": "___ his arm hurt, Jack could not carry the box.（選出引出原因子句的連接詞。）",
+            "options": [
+              "A. Because of",
+              "B. Because",
+              "C. Therefore",
+              "D. So"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "his arm hurt 有主詞與動詞，是原因子句，用 Because。"
+          },
+          {
+            "id": "m2-1-u2-q030",
+            "question": "The child had a high fever, ___ his mother called a doctor.（選出引出結果的連接詞。）",
+            "options": [
+              "A. because",
+              "B. so",
+              "C. although",
+              "D. because of"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "發燒是原因，媽媽找醫生是結果，所以用 so。"
+          },
+          {
+            "id": "m2-1-u2-q031",
+            "question": "We opened the window ___ the room was too hot.（選出引出原因子句的連接詞。）",
+            "options": [
+              "A. so",
+              "B. therefore",
+              "C. because of",
               "D. because"
             ],
             "answer": "D",
             "answer_index": 3,
-            "hint": "her throat hurt 是完整的原因子句，用 because 引導。"
+            "hint": "the room was too hot 是說明原因的完整子句，用 because。"
           },
           {
-            "id": "m2-1-u2-q028",
-            "question": "My arm hurt, ___ I stopped playing tennis.（選出表示結果的連接詞。）",
+            "id": "m2-1-u2-q032",
+            "question": "My sister's neck hurt, ___ she stopped looking at her phone.（選出引出結果的連接詞。）",
             "options": [
-              "A. because of",
-              "B. because",
+              "A. because",
+              "B. because of",
               "C. although",
               "D. so"
             ],
             "answer": "D",
             "answer_index": 3,
-            "hint": "手臂痛是原因，停止打球是結果，用 so 連接結果。"
+            "hint": "脖子痛是原因，停止看手機是結果，用 so 連接。"
           },
           {
-            "id": "m2-1-u2-q029",
-            "question": "___ the child had a fever, his dad took him home.",
+            "id": "m2-1-u2-q033",
+            "question": "___ the soup was too hot, I waited before eating it.（選出引出原因子句的連接詞。）",
             "options": [
-              "A. So that",
-              "B. Because of",
-              "C. So",
-              "D. Because"
+              "A. So",
+              "B. Because",
+              "C. Because of",
+              "D. Therefore"
             ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "the child had a fever 是完整原因子句，句首用 Because。"
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "the soup was too hot 是完整原因子句，前面用 Because。"
           },
           {
-            "id": "m2-1-u2-q030",
-            "question": "The nurse was busy, ___ we waited outside.（選出表示結果的連接詞。）",
+            "id": "m2-1-u2-q034",
+            "question": "The doctor was late, ___ we read books in the waiting room.（選出引出結果的連接詞。）",
             "options": [
               "A. so",
               "B. because of",
@@ -791,267 +843,215 @@
             ],
             "answer": "A",
             "answer_index": 0,
-            "hint": "護士忙是原因，在外等候是結果，結果前用 so。"
-          },
-          {
-            "id": "m2-1-u2-q031",
-            "question": "Because my toe hurt, ___ could not run fast.",
-            "options": [
-              "A. because I",
-              "B. so I",
-              "C. because of I",
-              "D. I"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "句首已有 Because 引導原因，主要子句直接用 I，不再加 so。"
-          },
-          {
-            "id": "m2-1-u2-q032",
-            "question": "The girl was hungry, so ___ ate some bread.",
-            "options": [
-              "A. so she",
-              "B. she",
-              "C. because of she",
-              "D. because she"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "so 已連接結果子句，後面直接接主詞 she。"
-          },
-          {
-            "id": "m2-1-u2-q033",
-            "question": "We went home early ___ our baby was tired.（選出表示原因的連接詞。）",
-            "options": [
-              "A. because",
-              "B. because of",
-              "C. so",
-              "D. so that"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "our baby was tired 是原因子句，用 because。"
-          },
-          {
-            "id": "m2-1-u2-q034",
-            "question": "___ my stomach hurt, I did not finish lunch.",
-            "options": [
-              "A. Because",
-              "B. So",
-              "C. So that",
-              "D. Because of"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "my stomach hurt 有主詞及動詞，要用 Because 引導原因。"
+            "hint": "醫生遲到是原因，在候診室看書是結果，用 so。"
           },
           {
             "id": "m2-1-u2-q035",
-            "question": "The doctor was away, ___ Dad called another hospital.（選出表示結果的連接詞。）",
+            "question": "I used my left hand ___ my right shoulder hurt.（選出引出原因子句的連接詞。）",
             "options": [
-              "A. so",
-              "B. because of",
-              "C. although",
-              "D. because"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "醫生不在導致爸爸打去別家醫院，結果子句用 so。"
-          },
-          {
-            "id": "m2-1-u2-q036",
-            "question": "Because the room was cold, ___ closed the window.",
-            "options": [
-              "A. so we",
-              "B. because we",
-              "C. because of we",
-              "D. we"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "Because 已表示因果關係，主要子句直接以 we 開頭。"
-          },
-          {
-            "id": "m2-1-u2-q037",
-            "question": "Nina could not join the game ___ her sore shoulder.",
-            "options": [
-              "A. because",
-              "B. so",
-              "C. because of",
-              "D. so that"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "her sore shoulder 是名詞片語，表示原因用 because of。"
-          },
-          {
-            "id": "m2-1-u2-q038",
-            "question": "Oscar stayed in bed ___ he felt weak.",
-            "options": [
-              "A. so",
-              "B. because of",
-              "C. so that",
-              "D. because"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "he felt weak 是完整原因子句，用 because。"
-          },
-          {
-            "id": "m2-1-u2-q039",
-            "question": "The class ended early ___ the teacher's illness.",
-            "options": [
-              "A. so that",
-              "B. because of",
-              "C. because",
-              "D. so"
+              "A. therefore",
+              "B. because",
+              "C. so",
+              "D. because of"
             ],
             "answer": "B",
             "answer_index": 1,
-            "hint": "the teacher's illness 是名詞片語，前面用 because of。"
+            "hint": "my right shoulder hurt 是完整原因子句，用 because。"
           },
           {
-            "id": "m2-1-u2-q040",
-            "question": "___ his bad cough, the singer could not sing.",
-            "options": [
-              "A. Because of",
-              "B. So",
-              "C. So that",
-              "D. Because"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "his bad cough 是名詞片語，用 Because of 引導原因。"
-          },
-          {
-            "id": "m2-1-u2-q041",
-            "question": "The boy cried ___ his ear hurt.",
-            "options": [
-              "A. so that",
-              "B. so",
-              "C. because of",
-              "D. because"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "his ear hurt 是完整子句，因此前面用 because。"
-          },
-          {
-            "id": "m2-1-u2-q042",
-            "question": "We changed our plans ___ the storm.",
+            "id": "m2-1-u2-q036",
+            "question": "Grandpa could not hear me, ___ I spoke louder.（選出引出結果的連接詞。）",
             "options": [
               "A. because",
               "B. because of",
               "C. so",
-              "D. so that"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "the storm 是名詞，表示原因要用 because of。"
-          },
-          {
-            "id": "m2-1-u2-q043",
-            "question": "My sister could not talk much because ___.",
-            "options": [
-              "A. her throat was sore",
-              "B. the pain",
-              "C. her illness",
-              "D. her sore throat"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "because 後需要完整子句，her throat was sore 有主詞和動詞。"
-          },
-          {
-            "id": "m2-1-u2-q044",
-            "question": "Dad drove me to school because of ___.",
-            "options": [
-              "A. my leg hurt",
-              "B. I was tired",
-              "C. my sore leg",
-              "D. I felt sick"
+              "D. although"
             ],
             "answer": "C",
             "answer_index": 2,
-            "hint": "because of 後接名詞片語 my sore leg，不能直接接完整子句。"
+            "hint": "聽不見是原因，說得更大聲是結果，用 so。"
           },
           {
-            "id": "m2-1-u2-q045",
-            "question": "The nurse sat down because ___.",
+            "id": "m2-1-u2-q037",
+            "question": "The player missed practice ___ his sore ankle.（選出表示原因的片語。）",
             "options": [
-              "A. her busy day",
-              "B. her sore feet",
-              "C. she felt tired",
-              "D. her headache"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "because 後接完整子句 she felt tired，其餘選項都是名詞片語。"
-          },
-          {
-            "id": "m2-1-u2-q046",
-            "question": "The trip was canceled because of ___.",
-            "options": [
-              "A. the roads were wet",
-              "B. the heavy snow",
-              "C. it snowed",
-              "D. it was cold"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "because of 後接名詞片語 the heavy snow。"
-          },
-          {
-            "id": "m2-1-u2-q047",
-            "question": "___ did your grandma go to bed early? Because she had a headache.",
-            "options": [
-              "A. What",
-              "B. Which",
-              "C. Why",
-              "D. Who"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "回答說明提早睡覺的原因，所以用 Why 問原因。"
-          },
-          {
-            "id": "m2-1-u2-q048",
-            "question": "Why didn't Leo ___ the doctor's message?",
-            "options": [
-              "A. reading",
-              "B. to read",
-              "C. reads",
-              "D. read"
+              "A. although",
+              "B. so",
+              "C. because",
+              "D. because of"
             ],
             "answer": "D",
             "answer_index": 3,
-            "hint": "didn't 後接原形 read，不加 to 或其他詞尾。"
+            "hint": "his sore ankle 是名詞片語，表示原因要用 because of。"
           },
           {
-            "id": "m2-1-u2-q049",
-            "question": "These masks are for the children. Please pass them ___ the children.",
+            "id": "m2-1-u2-q038",
+            "question": "The boy could not sleep ___ his tooth hurt.（選出表示原因的連接詞。）",
             "options": [
-              "A. of",
-              "B. for",
-              "C. to",
-              "D. with"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "pass + 物 + to + 人表示把物品遞給某人。"
-          },
-          {
-            "id": "m2-1-u2-q050",
-            "question": "That scarf is for Amy. I made it ___ her.",
-            "options": [
-              "A. to",
-              "B. for",
-              "C. of",
-              "D. with"
+              "A. so",
+              "B. because",
+              "C. therefore",
+              "D. because of"
             ],
             "answer": "B",
             "answer_index": 1,
-            "hint": "make + 物 + for + 人表示為某人製作物品。"
+            "hint": "his tooth hurt 有主詞與動詞，用 because 引出原因子句。"
+          },
+          {
+            "id": "m2-1-u2-q039",
+            "question": "We took a taxi ___ Grandma's knee pain.（選出表示原因的片語。）",
+            "options": [
+              "A. because",
+              "B. because of",
+              "C. so",
+              "D. although"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "Grandma's knee pain 是名詞片語，前面用 because of。"
+          },
+          {
+            "id": "m2-1-u2-q040",
+            "question": "___ the heavy rain, the doctor arrived late.（選出表示原因的片語。）",
+            "options": [
+              "A. Because",
+              "B. Because of",
+              "C. So",
+              "D. Although"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "the heavy rain 是名詞片語，前面用 Because of。"
+          },
+          {
+            "id": "m2-1-u2-q041",
+            "question": "Sue drank more water ___ she had a fever.（選出表示原因的連接詞。）",
+            "options": [
+              "A. so",
+              "B. because of",
+              "C. because",
+              "D. therefore"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "she had a fever 是完整子句，用 because。"
+          },
+          {
+            "id": "m2-1-u2-q042",
+            "question": "The game ended early ___ a player's illness.（選出表示原因的片語。）",
+            "options": [
+              "A. because of",
+              "B. although",
+              "C. so",
+              "D. because"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "a player's illness 是名詞片語，前面用 because of。"
+          },
+          {
+            "id": "m2-1-u2-q043",
+            "question": "The singer canceled the show because ___.",
+            "options": [
+              "A. a sore throat",
+              "B. of her throat hurt",
+              "C. her throat hurt",
+              "D. her sore throat"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "because 後接主詞加動詞；her throat hurt 是完整子句。"
+          },
+          {
+            "id": "m2-1-u2-q044",
+            "question": "The nurse went home early because of ___.",
+            "options": [
+              "A. her headache",
+              "B. her head hurt",
+              "C. she felt sick",
+              "D. she was tired"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "because of 後接名詞片語 her headache，不能直接接完整子句。"
+          },
+          {
+            "id": "m2-1-u2-q045",
+            "question": "Ben stayed away from the pool because ___.",
+            "options": [
+              "A. his cold",
+              "B. he had a cold",
+              "C. his illness",
+              "D. of he was sick"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "because 後要接完整子句，he had a cold 有主詞和動詞。"
+          },
+          {
+            "id": "m2-1-u2-q046",
+            "question": "The school closed for a day because of ___.",
+            "options": [
+              "A. the strong wind",
+              "B. it rained heavily",
+              "C. it was windy",
+              "D. the wind was strong"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "because of 後接名詞片語 the strong wind。"
+          },
+          {
+            "id": "m2-1-u2-q047",
+            "question": "___ does the nurse wear gloves? Because she needs to protect her hands.",
+            "options": [
+              "A. Who",
+              "B. When",
+              "C. Where",
+              "D. Why"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "回答說明戴手套的原因，問句用 Why。"
+          },
+          {
+            "id": "m2-1-u2-q048",
+            "question": "Why did the teacher ___ the sick child's parents?",
+            "options": [
+              "A. called",
+              "B. calls",
+              "C. call",
+              "D. calling"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "did 後用原形 call，不能再用過去式 called。"
+          },
+          {
+            "id": "m2-1-u2-q049",
+            "question": "This is your aunt's letter. Please send it ___ her.",
+            "options": [
+              "A. of",
+              "B. to",
+              "C. with",
+              "D. for"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "send + 物 + to + 人，it 是寄送的物品。"
+          },
+          {
+            "id": "m2-1-u2-q050",
+            "question": "These sandwiches are for the nurses. Dad made them ___ the nurses.",
+            "options": [
+              "A. for",
+              "B. of",
+              "C. to",
+              "D. with"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "make + 物 + for + 人，them 指三明治。"
           }
         ]
       },
@@ -1315,153 +1315,153 @@
         "grammar": [
           {
             "id": "m2-1-u2-sg001",
-            "sentence": "The nurse gave my brother a towel.",
-            "sentence_chinese": "護士給我弟弟一條毛巾。"
+            "sentence": "The nurse sent my father the health report.",
+            "sentence_chinese": "護士把健康報告傳給我爸爸。"
           },
           {
             "id": "m2-1-u2-sg002",
-            "sentence": "Why did the little girl start crying?",
-            "sentence_chinese": "那個小女孩為什麼開始哭？"
+            "sentence": "Why did the child touch his ears?",
+            "sentence_chinese": "那個孩子為什麼摸他的耳朵？"
           },
           {
             "id": "m2-1-u2-sg003",
-            "sentence": "Dad bought some apples for our neighbor.",
-            "sentence_chinese": "爸爸買了一些蘋果給我們的鄰居。"
+            "sentence": "We stayed upstairs because of the wet floor.",
+            "sentence_chinese": "我們因為地板濕而待在樓上。"
           },
           {
             "id": "m2-1-u2-sg004",
-            "sentence": "My ear hurt, so I called Mom.",
-            "sentence_chinese": "我的耳朵痛，所以我打電話給媽媽。"
+            "sentence": "My cousin made some sandwiches for the nurses.",
+            "sentence_chinese": "我表親為護士們做了一些三明治。"
           },
           {
             "id": "m2-1-u2-sg005",
-            "sentence": "Ella sent her teacher a short message.",
-            "sentence_chinese": "Ella 傳了一則簡短訊息給她的老師。"
+            "sentence": "Her tooth hurt, so she called the dentist.",
+            "sentence_chinese": "她牙齒痛，所以她打電話給牙醫。"
           },
           {
             "id": "m2-1-u2-sg006",
-            "sentence": "We walked slowly because of Grandpa's sore knee.",
-            "sentence_chinese": "我們因為爺爺的膝蓋痠痛而慢慢走。"
+            "sentence": "Please show your health report to the doctor.",
+            "sentence_chinese": "請把你的健康報告給醫生看。"
           },
           {
             "id": "m2-1-u2-sg007",
-            "sentence": "Why was your cousin at the hospital?",
-            "sentence_chinese": "你的表親為什麼在醫院？"
+            "sentence": "Why were the children at the clinic yesterday?",
+            "sentence_chinese": "孩子們昨天為什麼在診所？"
           },
           {
             "id": "m2-1-u2-sg008",
-            "sentence": "My uncle cooked some noodles for us.",
-            "sentence_chinese": "我叔叔為我們煮了一些麵。"
+            "sentence": "Because the baby was asleep, we spoke quietly.",
+            "sentence_chinese": "因為寶寶睡著了，我們輕聲說話。"
           },
           {
             "id": "m2-1-u2-sg009",
-            "sentence": "Because the baby was sick, we stayed inside.",
-            "sentence_chinese": "因為寶寶生病了，我們待在室內。"
+            "sentence": "Our teacher bought the sick student some flowers.",
+            "sentence_chinese": "我們的老師買了一些花給那位生病的學生。"
           },
           {
             "id": "m2-1-u2-sg010",
-            "sentence": "Please show the red spots to the doctor.",
-            "sentence_chinese": "請把那些紅點指給醫生看。"
+            "sentence": "Why does your father wear gloves at work?",
+            "sentence_chinese": "你爸爸為什麼上班時戴手套？"
           },
           {
             "id": "m2-1-u2-sg011",
-            "sentence": "Why does your grandma take this medicine?",
-            "sentence_chinese": "你奶奶為什麼吃這個藥？"
+            "sentence": "The player rested because of his sore ankle.",
+            "sentence_chinese": "那名球員因為腳踝痠痛而休息。"
           },
           {
             "id": "m2-1-u2-sg012",
-            "sentence": "I missed the picnic because of my illness.",
-            "sentence_chinese": "我因為生病而錯過野餐。"
+            "sentence": "My grandmother cooked some vegetable soup for me.",
+            "sentence_chinese": "我奶奶為我煮了一些蔬菜湯。"
           },
           {
             "id": "m2-1-u2-sg013",
-            "sentence": "My sister made our mother a scarf.",
-            "sentence_chinese": "我姊姊為媽媽做了一條圍巾。"
+            "sentence": "The room was hot, so we opened the door.",
+            "sentence_chinese": "房間很熱，所以我們打開門。"
           },
           {
             "id": "m2-1-u2-sg014",
-            "sentence": "His back hurt, so he stopped working.",
-            "sentence_chinese": "他的背痛，所以他停止工作。"
+            "sentence": "Why didn't the patient finish his breakfast?",
+            "sentence_chinese": "那位病人為什麼沒有吃完早餐？"
           },
           {
             "id": "m2-1-u2-sg015",
-            "sentence": "Why didn't the boy finish his lunch?",
-            "sentence_chinese": "那個男孩為什麼沒有吃完午餐？"
+            "sentence": "Please pass the bottle to the thirsty player.",
+            "sentence_chinese": "請把那個瓶子遞給那位口渴的球員。"
           },
           {
             "id": "m2-1-u2-sg016",
-            "sentence": "Please pass that clean towel to her.",
-            "sentence_chinese": "請把那條乾淨的毛巾遞給她。"
+            "sentence": "I stayed awake because my stomach hurt.",
+            "sentence_chinese": "我因為肚子痛而一直醒著。"
           },
           {
             "id": "m2-1-u2-sg017",
-            "sentence": "The singer rested because her throat hurt.",
-            "sentence_chinese": "那位歌手因為喉嚨痛而休息。"
+            "sentence": "My brother wrote a note to our nurse.",
+            "sentence_chinese": "我哥哥寫了一張便條給我們的護士。"
           },
           {
             "id": "m2-1-u2-sg018",
-            "sentence": "I wrote a letter to my grandma.",
-            "sentence_chinese": "我寫了一封信給奶奶。"
+            "sentence": "Why is your face so red right now?",
+            "sentence_chinese": "你的臉現在為什麼這麼紅？"
           },
           {
             "id": "m2-1-u2-sg019",
-            "sentence": "Why were your shoes wet this morning?",
-            "sentence_chinese": "你的鞋子今天早上為什麼是濕的？"
+            "sentence": "The school closed because of the heavy snow.",
+            "sentence_chinese": "學校因為大雪而停課。"
           },
           {
             "id": "m2-1-u2-sg020",
-            "sentence": "The children stayed inside because of the storm.",
-            "sentence_chinese": "孩子們因為暴風雨而待在室內。"
+            "sentence": "The doctor gave the child a small toy.",
+            "sentence_chinese": "醫生給那個孩子一個小玩具。"
           },
           {
             "id": "m2-1-u2-sg021",
-            "sentence": "My aunt gave us some fresh fruit.",
-            "sentence_chinese": "我阿姨給我們一些新鮮水果。"
+            "sentence": "Because his shoulder hurt, he stopped swimming.",
+            "sentence_chinese": "因為他的肩膀痛，他停止游泳。"
           },
           {
             "id": "m2-1-u2-sg022",
-            "sentence": "Why did your father call the school?",
-            "sentence_chinese": "你爸爸為什麼打電話到學校？"
+            "sentence": "Why do you wash your hands before meals?",
+            "sentence_chinese": "你為什麼在吃飯前洗手？"
           },
           {
             "id": "m2-1-u2-sg023",
-            "sentence": "Because my neck hurt, I took a break.",
-            "sentence_chinese": "因為我的脖子痛，所以我休息了一下。"
+            "sentence": "My aunt bought a soft pillow for Grandpa.",
+            "sentence_chinese": "我阿姨買了一個柔軟的枕頭給爺爺。"
           },
           {
             "id": "m2-1-u2-sg024",
-            "sentence": "The soup is ready, so please sit down.",
-            "sentence_chinese": "湯準備好了，所以請坐下。"
+            "sentence": "The floor was wet, so I walked slowly.",
+            "sentence_chinese": "地板濕了，所以我慢慢走。"
           },
           {
             "id": "m2-1-u2-sg025",
-            "sentence": "We bought a warm coat for Grandpa.",
-            "sentence_chinese": "我們買了一件暖和的大衣給爺爺。"
+            "sentence": "Please send the good news to your parents.",
+            "sentence_chinese": "請把這個好消息傳給你的父母。"
           },
           {
             "id": "m2-1-u2-sg026",
-            "sentence": "Why does your shoulder hurt every morning?",
-            "sentence_chinese": "你的肩膀為什麼每天早上都會痛？"
+            "sentence": "Why was the doctor late for work today?",
+            "sentence_chinese": "那位醫生今天為什麼上班遲到？"
           },
           {
             "id": "m2-1-u2-sg027",
-            "sentence": "She missed the concert because of her fever.",
-            "sentence_chinese": "她因為發燒而錯過演唱會。"
+            "sentence": "She missed the race because of her cold.",
+            "sentence_chinese": "她因為感冒而錯過比賽。"
           },
           {
             "id": "m2-1-u2-sg028",
-            "sentence": "Please send the class photo to him.",
-            "sentence_chinese": "請把班級照片傳給他。"
+            "sentence": "Dad made the hungry children some hot noodles.",
+            "sentence_chinese": "爸爸為飢餓的孩子們煮了一些熱麵。"
           },
           {
             "id": "m2-1-u2-sg029",
-            "sentence": "I wore gloves because my hands were cold.",
-            "sentence_chinese": "因為我的手很冷，所以我戴上手套。"
+            "sentence": "I drank warm water because my throat hurt.",
+            "sentence_chinese": "我因為喉嚨痛而喝溫水。"
           },
           {
             "id": "m2-1-u2-sg030",
-            "sentence": "Why didn't your sister answer my message?",
-            "sentence_chinese": "你姊姊為什麼沒有回覆我的訊息？"
+            "sentence": "Why didn't your brother bring his clean mask?",
+            "sentence_chinese": "你弟弟為什麼沒有帶他的乾淨口罩？"
           }
         ]
       }
