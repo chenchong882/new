@@ -1,0 +1,1514 @@
+{
+  "units": {
+    "m2-1-u1": {
+      "title": "U1",
+      "vocab": [
+        {
+          "id": "m2-1-u1-v001",
+          "word": "summer vacation",
+          "part_of_speech": "名",
+          "chinese": "暑假",
+          "sentence": "How was your summer vacation?",
+          "sentence_chinese": "你的暑假過得如何？"
+        },
+        {
+          "id": "m2-1-u1-v002",
+          "word": "weather",
+          "part_of_speech": "名",
+          "chinese": "天氣",
+          "sentence": "How was the weather yesterday?",
+          "sentence_chinese": "昨天天氣如何？"
+        },
+        {
+          "id": "m2-1-u1-v003",
+          "word": "Taiwan",
+          "part_of_speech": "名",
+          "chinese": "臺灣",
+          "sentence": "It rains a lot in Taiwan.",
+          "sentence_chinese": "臺灣經常下雨。"
+        },
+        {
+          "id": "m2-1-u1-v004",
+          "word": "fun",
+          "part_of_speech": "名；形",
+          "chinese": "樂趣；有趣的",
+          "sentence": "We had fun in the snow.",
+          "sentence_chinese": "我們在雪中玩得很開心。"
+        },
+        {
+          "id": "m2-1-u1-v005",
+          "word": "snow",
+          "part_of_speech": "動；名",
+          "chinese": "下雪；雪",
+          "sentence": "It snowed here last night.",
+          "sentence_chinese": "這裡昨晚下雪了。"
+        },
+        {
+          "id": "m2-1-u1-v006",
+          "word": "send",
+          "part_of_speech": "動",
+          "chinese": "寄；送",
+          "sentence": "I sent her a postcard.",
+          "sentence_chinese": "我寄了一張明信片給她。"
+        },
+        {
+          "id": "m2-1-u1-v007",
+          "word": "postcard",
+          "part_of_speech": "名",
+          "chinese": "明信片",
+          "sentence": "He gave me a postcard.",
+          "sentence_chinese": "他給了我一張明信片。"
+        },
+        {
+          "id": "m2-1-u1-v008",
+          "word": "borrow",
+          "part_of_speech": "動",
+          "chinese": "借入",
+          "sentence": "Can I borrow your jacket?",
+          "sentence_chinese": "我可以借你的夾克嗎？"
+        },
+        {
+          "id": "m2-1-u1-v009",
+          "word": "lend",
+          "part_of_speech": "動",
+          "chinese": "借出",
+          "sentence": "Please lend me your pen.",
+          "sentence_chinese": "請把你的筆借給我。"
+        },
+        {
+          "id": "m2-1-u1-v010",
+          "word": "glove",
+          "part_of_speech": "名",
+          "chinese": "手套",
+          "sentence": "She gave me a pair of gloves.",
+          "sentence_chinese": "她給了我一雙手套。"
+        },
+        {
+          "id": "m2-1-u1-v011",
+          "word": "kind",
+          "part_of_speech": "形",
+          "chinese": "親切的；好心的",
+          "sentence": "The kind man lent me an umbrella.",
+          "sentence_chinese": "那位好心的男子借給我一把雨傘。"
+        },
+        {
+          "id": "m2-1-u1-v012",
+          "word": "lovely",
+          "part_of_speech": "形",
+          "chinese": "可愛的；美好的",
+          "sentence": "It was a lovely spring day.",
+          "sentence_chinese": "那是個美好的春日。"
+        },
+        {
+          "id": "m2-1-u1-v013",
+          "word": "jacket",
+          "part_of_speech": "名",
+          "chinese": "夾克",
+          "sentence": "Mom bought me a jacket.",
+          "sentence_chinese": "媽媽買了一件夾克給我。"
+        },
+        {
+          "id": "m2-1-u1-v014",
+          "word": "give",
+          "part_of_speech": "動",
+          "chinese": "給予",
+          "sentence": "Please give the book to me.",
+          "sentence_chinese": "請把那本書給我。"
+        },
+        {
+          "id": "m2-1-u1-v015",
+          "word": "hate",
+          "part_of_speech": "動",
+          "chinese": "討厭",
+          "sentence": "I hate cold weather.",
+          "sentence_chinese": "我討厭寒冷的天氣。"
+        },
+        {
+          "id": "m2-1-u1-v016",
+          "word": "heavy",
+          "part_of_speech": "形",
+          "chinese": "厚重的；大量的",
+          "sentence": "There was heavy rain last night.",
+          "sentence_chinese": "昨晚下了大雨。"
+        },
+        {
+          "id": "m2-1-u1-v017",
+          "word": "season",
+          "part_of_speech": "名",
+          "chinese": "季節",
+          "sentence": "Spring is my favorite season.",
+          "sentence_chinese": "春天是我最喜歡的季節。"
+        },
+        {
+          "id": "m2-1-u1-v018",
+          "word": "spring",
+          "part_of_speech": "名",
+          "chinese": "春天",
+          "sentence": "We have a lot of rain in spring.",
+          "sentence_chinese": "我們這裡春天雨量很多。"
+        },
+        {
+          "id": "m2-1-u1-v019",
+          "word": "cloud",
+          "part_of_speech": "名",
+          "chinese": "雲",
+          "sentence": "There were many clouds in the sky.",
+          "sentence_chinese": "天空中有很多雲。"
+        },
+        {
+          "id": "m2-1-u1-v020",
+          "word": "sun",
+          "part_of_speech": "名",
+          "chinese": "太陽",
+          "sentence": "The sun was bright this morning.",
+          "sentence_chinese": "今天早上的陽光很明亮。"
+        },
+        {
+          "id": "m2-1-u1-v021",
+          "word": "autumn",
+          "part_of_speech": "名",
+          "chinese": "秋天",
+          "sentence": "It is cool here in autumn.",
+          "sentence_chinese": "這裡秋天天氣涼爽。"
+        },
+        {
+          "id": "m2-1-u1-v022",
+          "word": "wind",
+          "part_of_speech": "名",
+          "chinese": "風",
+          "sentence": "The wind was strong last night.",
+          "sentence_chinese": "昨晚的風很強。"
+        },
+        {
+          "id": "m2-1-u1-v023",
+          "word": "winter",
+          "part_of_speech": "名",
+          "chinese": "冬天",
+          "sentence": "Does it snow here in winter?",
+          "sentence_chinese": "這裡冬天會下雪嗎？"
+        },
+        {
+          "id": "m2-1-u1-v024",
+          "word": "sunny",
+          "part_of_speech": "形",
+          "chinese": "陽光普照的",
+          "sentence": "It was sunny yesterday.",
+          "sentence_chinese": "昨天天氣晴朗。"
+        },
+        {
+          "id": "m2-1-u1-v025",
+          "word": "snowy",
+          "part_of_speech": "形",
+          "chinese": "有雪的；下雪的",
+          "sentence": "It was snowy in the mountains.",
+          "sentence_chinese": "山區當時下著雪。"
+        },
+        {
+          "id": "m2-1-u1-v026",
+          "word": "rainy",
+          "part_of_speech": "形",
+          "chinese": "有雨的；下雨的",
+          "sentence": "It is often rainy in spring.",
+          "sentence_chinese": "春天常常下雨。"
+        },
+        {
+          "id": "m2-1-u1-v027",
+          "word": "cloudy",
+          "part_of_speech": "形",
+          "chinese": "多雲的",
+          "sentence": "It was cloudy this morning.",
+          "sentence_chinese": "今天早上多雲。"
+        },
+        {
+          "id": "m2-1-u1-v028",
+          "word": "windy",
+          "part_of_speech": "形",
+          "chinese": "風大的",
+          "sentence": "Is it windy outside?",
+          "sentence_chinese": "外面風大嗎？"
+        },
+        {
+          "id": "m2-1-u1-v029",
+          "word": "snack",
+          "part_of_speech": "名",
+          "chinese": "點心",
+          "sentence": "Dad bought us some snacks.",
+          "sentence_chinese": "爸爸買了一些點心給我們。"
+        },
+        {
+          "id": "m2-1-u1-v030",
+          "word": "mail",
+          "part_of_speech": "動",
+          "chinese": "郵寄",
+          "sentence": "I mailed a card to Grandma.",
+          "sentence_chinese": "我寄了一張卡片給奶奶。"
+        },
+        {
+          "id": "m2-1-u1-v031",
+          "word": "in fact",
+          "part_of_speech": "片",
+          "chinese": "事實上",
+          "sentence": "In fact, it seldom snows here.",
+          "sentence_chinese": "事實上，這裡很少下雪。"
+        },
+        {
+          "id": "m2-1-u1-v032",
+          "word": "mean",
+          "part_of_speech": "動",
+          "chinese": "意指",
+          "sentence": "What does this word mean?",
+          "sentence_chinese": "這個字是什麼意思？"
+        },
+        {
+          "id": "m2-1-u1-v033",
+          "word": "another",
+          "part_of_speech": "形；代",
+          "chinese": "另一個",
+          "sentence": "Please show me another postcard.",
+          "sentence_chinese": "請再給我看另一張明信片。"
+        },
+        {
+          "id": "m2-1-u1-v034",
+          "word": "order",
+          "part_of_speech": "動；名",
+          "chinese": "點餐；訂購",
+          "sentence": "She ordered a sandwich for me.",
+          "sentence_chinese": "她幫我點了一份三明治。"
+        },
+        {
+          "id": "m2-1-u1-v035",
+          "word": "strange",
+          "part_of_speech": "形",
+          "chinese": "奇怪的；陌生的",
+          "sentence": "The weather was strange yesterday.",
+          "sentence_chinese": "昨天的天氣很奇怪。"
+        },
+        {
+          "id": "m2-1-u1-v036",
+          "word": "soon",
+          "part_of_speech": "副",
+          "chinese": "很快地",
+          "sentence": "I will send you the photos soon.",
+          "sentence_chinese": "我很快就會把照片傳給你。"
+        },
+        {
+          "id": "m2-1-u1-v037",
+          "word": "Rd.",
+          "part_of_speech": "名",
+          "chinese": "路，Road 的縮寫",
+          "sentence": "Our school is on Park Rd.",
+          "sentence_chinese": "我們學校在公園路上。"
+        },
+        {
+          "id": "m2-1-u1-v038",
+          "word": "ROC",
+          "part_of_speech": "名",
+          "chinese": "中華民國",
+          "sentence": "ROC stands for Republic of China.",
+          "sentence_chinese": "ROC 代表中華民國。"
+        },
+        {
+          "id": "m2-1-u1-v039",
+          "word": "cool",
+          "part_of_speech": "形",
+          "chinese": "涼爽的",
+          "sentence": "It is cool here in autumn.",
+          "sentence_chinese": "這裡秋天天氣涼爽。"
+        },
+        {
+          "id": "m2-1-u1-v040",
+          "word": "snowboard",
+          "part_of_speech": "名",
+          "chinese": "滑雪板",
+          "sentence": "Dad bought a snowboard for me.",
+          "sentence_chinese": "爸爸買了一塊滑雪板給我。"
+        },
+        {
+          "id": "m2-1-u1-v041",
+          "word": "anyway",
+          "part_of_speech": "副",
+          "chinese": "無論如何",
+          "sentence": "It was rainy, but we went out anyway.",
+          "sentence_chinese": "當時下著雨，但我們還是出門了。"
+        }
+      ],
+      "phrases": [],
+      "grammar": {
+        "tips": [
+          {
+            "label": "問天氣",
+            "text": "How is/was the weather? = What is/was the weather like?"
+          },
+          {
+            "label": "答天氣",
+            "text": "It is/was + 天氣形容詞，例如 sunny、rainy、windy。"
+          },
+          {
+            "label": "雨雪三句型",
+            "text": "There is a lot of rain. / We have a lot of rain. / It rains a lot."
+          },
+          {
+            "label": "單數與過去",
+            "text": "rain、snow 當名詞不可數；當動詞時，現在用 rains/snows，過去用 rained/snowed。"
+          },
+          {
+            "label": "授與動詞",
+            "text": "give 人 物 = give 物 to 人；buy 人 物 = buy 物 for 人。"
+          },
+          {
+            "label": "受格與原形",
+            "text": "人當受詞用 me/him/her/us/them；did、can、will 後面接原形動詞。"
+          }
+        ],
+        "notes": [
+          {
+            "title": "詢問與回答天氣",
+            "rule": "How + be + the weather ...? / What + be + the weather + like ...?",
+            "description": "兩種問法意思相同。How 問法不加 like；What 問法要加 like。現在用 is，過去用 was，因為 weather 是不可數名詞。回答可用 It 或 The weather 加 be 動詞與天氣形容詞。It 在此是表示天氣的虛主詞。",
+            "examples": [
+              "How was the weather yesterday? 昨天天氣如何？",
+              "What is the weather like in spring? 春天天氣如何？",
+              "It was cold and rainy. 當時寒冷又下雨。"
+            ]
+          },
+          {
+            "title": "天氣形容詞",
+            "rule": "It / The weather + be + sunny / rainy / snowy / cloudy / windy / cool ...",
+            "description": "be 動詞後可用形容詞描述天氣。rain、snow、cloud、wind 等名詞不可直接當成這個句型中的形容詞。形容詞不會隨主詞或時態改變；時態由 be 動詞表示。",
+            "examples": [
+              "It is sunny today. 今天天氣晴朗。",
+              "It was windy last night. 昨晚風很大。",
+              "The weather is cool in autumn. 秋天天氣涼爽。"
+            ]
+          },
+          {
+            "title": "雨雪句型一：There be",
+            "rule": "There + is / was + rain / snow + 地點或時間.",
+            "description": "rain 和 snow 在此是不可數名詞，不加複數 s，也不加 a/an。現在用 is，過去用 was。可用 heavy 或 a lot of、lots of 修飾雨雪的量。否定將 not 放在 be 後；問句把 be 移到 there 前。",
+            "examples": [
+              "There is a lot of rain in Taipei in spring. 臺北春天雨量很多。",
+              "There was heavy snow last night. 昨晚下了大雪。",
+              "Was there much rain yesterday? 昨天下了很多雨嗎？"
+            ]
+          },
+          {
+            "title": "雨雪句型二：We / They have",
+            "rule": "We / They + have / had + rain / snow + 地點或時間.",
+            "description": "以當地居民 We、They 等作主詞，have 表示當地有某種天氣。rain、snow 仍是不可數名詞。過去用 had；否定和問句使用 do/does/did，再接原形 have。",
+            "examples": [
+              "We have a lot of rain in Taipei in spring. 我們在臺北春天雨量很多。",
+              "They had heavy snow last winter. 他們那裡去年冬天下了大雪。",
+              "We don't have much snow here. 我們這裡雪量不多。"
+            ]
+          },
+          {
+            "title": "雨雪句型三：It rains / snows",
+            "rule": "It + rains / snows ... / It + rained / snowed ...",
+            "description": "rain、snow 在此是動詞，天氣主詞用 It。一般現在式表達習慣時，第三人稱單數動詞加 s；過去式加 ed。否定和問句用 does/did 後，動詞改回原形。a lot 修飾動詞時不加 of；名詞前才用 a lot of。",
+            "examples": [
+              "It rains a lot in Taipei in spring. 臺北春天常下很多雨。",
+              "It snowed here yesterday. 這裡昨天下雪了。",
+              "It doesn't rain much here. 這裡不常下很多雨。",
+              "Did it snow last night? 昨晚下雪了嗎？"
+            ]
+          },
+          {
+            "title": "授與動詞與兩個受詞",
+            "rule": "主詞 + 授與動詞 + 間接受詞（人）+ 直接受詞（物）.",
+            "description": "give、send、show、lend、tell、buy、make 等動詞可接受人和物兩個受詞。人是間接受詞，物是直接受詞。代名詞位於受詞位置時用 me、you、him、her、it、us、them，不能用 I、he、she、we、they。",
+            "examples": [
+              "He gave Tom a notebook. 他給了 Tom 一本筆記本。",
+              "I sent her a postcard. 我寄了一張明信片給她。",
+              "Mom bought us some snacks. 媽媽買了一些點心給我們。"
+            ]
+          },
+          {
+            "title": "授與動詞的 to / for 改寫",
+            "rule": "主詞 + 動詞 + 物 + to / for + 人.",
+            "description": "把物放在人之前時，以介系詞連接人。give、send、show、write、tell、read、teach、lend 常用 to；buy、make、cook、get 常用 for。這裡是授與句型的說明，不另外出單純背誦介系詞搭配的選擇題。",
+            "examples": [
+              "I sent her a card. = I sent a card to her. 我寄了一張卡片給她。",
+              "He bought me a cake. = He bought a cake for me. 他買了一個蛋糕給我。",
+              "She showed her pictures to me. 她把她的照片給我看。"
+            ]
+          },
+          {
+            "title": "物品代名詞與較長的人物受詞",
+            "rule": "give / send ... + it / them + to + 人；buy / make ... + it / them + for + 人",
+            "description": "物品以 it 或 them 代替時，本課採用「物 + to/for + 人」的順序，例如 Give it to me。人的受詞很長時，也宜放到 to/for 後，讓句子更清楚。介系詞後的代名詞仍要用受格。",
+            "examples": [
+              "Please give it to me. 請把它給我。",
+              "Her aunt bought them for her. 她阿姨買了那些東西給她。",
+              "I sent these books to the five-year-old girl. 我把這些書寄給了那位五歲的女孩。"
+            ]
+          },
+          {
+            "title": "授與動詞的時態與原形",
+            "rule": "過去時間用過去式；does / did / can / will 後接原形動詞。",
+            "description": "本課例句常用過去式：give → gave、send → sent、lend → lent、buy → bought、make → made、tell → told。一般現在式第三人稱單數加 s。問句、否定句若已使用 does 或 did，主要動詞改回原形；can、will 後也用原形。",
+            "examples": [
+              "Dad lent me his jacket yesterday. 爸爸昨天把他的夾克借給我。",
+              "Did he send you a postcard? 他有寄明信片給你嗎？",
+              "She can make us a cake. 她可以做蛋糕給我們。"
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "id": "m2-1-u1-q001",
+            "question": "A: ___ is the weather in Taiwan today? B: It's sunny.",
+            "options": [
+              "A. What",
+              "B. Who",
+              "C. How",
+              "D. Which"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "詢問天氣用 How is the weather?；What 問法則須加 like。"
+          },
+          {
+            "id": "m2-1-u1-q002",
+            "question": "A: ___ was the weather like yesterday? B: It was windy.",
+            "options": [
+              "A. What",
+              "B. Who",
+              "C. How",
+              "D. Where"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "題尾已有 like，應使用 What was the weather like?。"
+          },
+          {
+            "id": "m2-1-u1-q003",
+            "question": "How ___ the weather during your trip last winter?",
+            "options": [
+              "A. was",
+              "B. is",
+              "C. are",
+              "D. were"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "last winter 表示過去，weather 是不可數名詞，be 動詞用 was。"
+          },
+          {
+            "id": "m2-1-u1-q004",
+            "question": "What ___ the weather like in your town right now?",
+            "options": [
+              "A. is",
+              "B. were",
+              "C. are",
+              "D. does"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "right now 詢問目前狀況；weather 視為單數，使用 is。"
+          },
+          {
+            "id": "m2-1-u1-q005",
+            "question": "A: How was the weather yesterday? B: ___ was cloudy.",
+            "options": [
+              "A. There",
+              "B. It",
+              "C. These",
+              "D. They"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "描述天氣用虛主詞 It，搭配 was cloudy。"
+          },
+          {
+            "id": "m2-1-u1-q006",
+            "question": "Look at all those clouds! It is ___ today.",
+            "options": [
+              "A. cloud",
+              "B. cloudy",
+              "C. clouds",
+              "D. cloudily"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "be 動詞 is 後面用天氣形容詞 cloudy，不能放名詞 cloud。"
+          },
+          {
+            "id": "m2-1-u1-q007",
+            "question": "The wind is very strong. It is ___ outside.",
+            "options": [
+              "A. winds",
+              "B. wind",
+              "C. windy",
+              "D. windily"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "描述天氣的 be 動詞後用形容詞 windy；wind 是名詞。"
+          },
+          {
+            "id": "m2-1-u1-q008",
+            "question": "A: How was the weather last Sunday? B: It ___ sunny.",
+            "options": [
+              "A. is",
+              "B. does",
+              "C. were",
+              "D. was"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "last Sunday 是過去時間，It 是單數，回答用 was。"
+          },
+          {
+            "id": "m2-1-u1-q009",
+            "question": "What's the weather ___ in autumn here?",
+            "options": [
+              "A. liked",
+              "B. like",
+              "C. likes",
+              "D. liking"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "What is the weather like? 中的 like 是介系詞，不能變成 likes、liked 或 liking。"
+          },
+          {
+            "id": "m2-1-u1-q010",
+            "question": "A: How is the weather today? B: ___ rainy.",
+            "options": [
+              "A. Is",
+              "B. It's",
+              "C. Its",
+              "D. It"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "完整回答是 It is rainy，It is 可縮寫成 It's；Its 表示「它的」。"
+          },
+          {
+            "id": "m2-1-u1-q011",
+            "question": "There ___ heavy snow on the mountain last night.",
+            "options": [
+              "A. was",
+              "B. were",
+              "C. have",
+              "D. are"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "last night 表示過去；snow 為不可數名詞，因此用 There was。"
+          },
+          {
+            "id": "m2-1-u1-q012",
+            "question": "There is a lot of ___ here in spring.",
+            "options": [
+              "A. raining",
+              "B. rainy",
+              "C. rain",
+              "D. rains"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "a lot of 後接名詞；rain 當雨水解釋時不可數，不加 s。"
+          },
+          {
+            "id": "m2-1-u1-q013",
+            "question": "We ___ a lot of rain here every summer.",
+            "options": [
+              "A. has",
+              "B. having",
+              "C. are",
+              "D. have"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "every summer 表示習慣；主詞 We 搭配原形動詞 have。"
+          },
+          {
+            "id": "m2-1-u1-q014",
+            "question": "It often ___ in this town in winter.",
+            "options": [
+              "A. snowy",
+              "B. snow",
+              "C. snowing",
+              "D. snows"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "often 表示習慣；主詞 It 為第三人稱單數，動詞 snow 加 s。"
+          },
+          {
+            "id": "m2-1-u1-q015",
+            "question": "It ___ a lot here yesterday.",
+            "options": [
+              "A. rained",
+              "B. rains",
+              "C. raining",
+              "D. rain"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "yesterday 表示過去，rain 應改成過去式 rained。"
+          },
+          {
+            "id": "m2-1-u1-q016",
+            "question": "We don't ___ much snow here in winter.",
+            "options": [
+              "A. has",
+              "B. have",
+              "C. had",
+              "D. having"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "否定句 don't 後接原形動詞 have。"
+          },
+          {
+            "id": "m2-1-u1-q017",
+            "question": "It doesn't ___ here in summer.",
+            "options": [
+              "A. snow",
+              "B. snowing",
+              "C. snows",
+              "D. snowed"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "doesn't 後接原形動詞 snow，第三人稱單數的變化已由 does 表示。"
+          },
+          {
+            "id": "m2-1-u1-q018",
+            "question": "___ there heavy rain here last night?",
+            "options": [
+              "A. Was",
+              "B. Were",
+              "C. Did",
+              "D. Does"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "此處 rain 是不可數名詞；last night 表示過去，There was 的問句以 Was 開頭。"
+          },
+          {
+            "id": "m2-1-u1-q019",
+            "question": "Did it ___ during your summer vacation?",
+            "options": [
+              "A. rained",
+              "B. rain",
+              "C. rains",
+              "D. raining"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "過去式問句已有 Did，後面的動詞必須用原形 rain。"
+          },
+          {
+            "id": "m2-1-u1-q020",
+            "question": "They ___ lots of snow in their town last winter.",
+            "options": [
+              "A. has",
+              "B. have",
+              "C. having",
+              "D. had"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "last winter 表示過去，have 的過去式是 had。"
+          },
+          {
+            "id": "m2-1-u1-q021",
+            "question": "There ___ much rain here today; the ground is dry.",
+            "options": [
+              "A. don't",
+              "B. aren't",
+              "C. isn't",
+              "D. doesn't"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "這是 There be 句型，rain 不可數，現在式否定用 isn't。"
+          },
+          {
+            "id": "m2-1-u1-q022",
+            "question": "Does it ___ a lot in Taiwan in spring?",
+            "options": [
+              "A. rains",
+              "B. rain",
+              "C. rainy",
+              "D. rained"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "問句使用 Does 後，主要動詞要用原形 rain。"
+          },
+          {
+            "id": "m2-1-u1-q023",
+            "question": "It ___ snow here last night, so the streets stayed clear.",
+            "options": [
+              "A. doesn't",
+              "B. didn't",
+              "C. wasn't",
+              "D. isn't"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "last night 表示過去；snow 在此為動詞，否定要用 didn't 加原形動詞。"
+          },
+          {
+            "id": "m2-1-u1-q024",
+            "question": "There was heavy ___ outside, so we stayed home.",
+            "options": [
+              "A. rains",
+              "B. rainy",
+              "C. raining",
+              "D. rain"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "heavy 是形容詞，後面接不可數名詞 rain；rainy 是形容詞，不能當此處的中心名詞。"
+          },
+          {
+            "id": "m2-1-u1-q025",
+            "question": "We ___ any rain here yesterday.",
+            "options": [
+              "A. didn't have",
+              "B. doesn't have",
+              "C. weren't have",
+              "D. don't have"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "yesterday 表示過去，have 的過去否定句用 didn't have。"
+          },
+          {
+            "id": "m2-1-u1-q026",
+            "question": "A: Is there much snow on the mountain now? B: Yes, there ___.",
+            "options": [
+              "A. is",
+              "B. are",
+              "C. does",
+              "D. has"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "回答 Is there...? 要保留 there be 結構，snow 不可數，因此回答 there is。"
+          },
+          {
+            "id": "m2-1-u1-q027",
+            "question": "It ___ a lot in that town every winter.",
+            "options": [
+              "A. rain",
+              "B. raining",
+              "C. rained",
+              "D. rains"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "every winter 表示習慣，主詞 It 為第三人稱單數，因此使用 rains。"
+          },
+          {
+            "id": "m2-1-u1-q028",
+            "question": "There ___ a lot of rain here every spring.",
+            "options": [
+              "A. have",
+              "B. are",
+              "C. is",
+              "D. has"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "There be 句型中，a lot of rain 的中心名詞 rain 不可數，現在式用 is。"
+          },
+          {
+            "id": "m2-1-u1-q029",
+            "question": "I gave ___ a postcard yesterday.",
+            "options": [
+              "A. she",
+              "B. her",
+              "C. herself",
+              "D. hers"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "授與動詞 give 後的人是受詞，she 要用受格 her；hers 是所有代名詞，herself 是反身代名詞。"
+          },
+          {
+            "id": "m2-1-u1-q030",
+            "question": "Mom bought ___ a new jacket last week.",
+            "options": [
+              "A. my",
+              "B. I",
+              "C. me",
+              "D. mine"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "buy 加人加物時，人是間接受詞，所以用 I 的受格 me。"
+          },
+          {
+            "id": "m2-1-u1-q031",
+            "question": "The teacher showed ___ a lovely picture.",
+            "options": [
+              "A. our",
+              "B. ours",
+              "C. we",
+              "D. us"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "show 後接受詞，we 要改成受格 us；our 和 ours 表示所有關係。"
+          },
+          {
+            "id": "m2-1-u1-q032",
+            "question": "Dad lent ___ his snowboard yesterday.",
+            "options": [
+              "A. he's",
+              "B. his",
+              "C. him",
+              "D. he"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "lend 後接受格 him，表示爸爸把滑雪板借給他；he 是主格，his 表示所有，he's 是 he is 的縮寫。"
+          },
+          {
+            "id": "m2-1-u1-q033",
+            "question": "Please give ___ to me; I need my jacket.",
+            "options": [
+              "A. it",
+              "B. it's",
+              "C. its",
+              "D. itself"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "此處用受格代名詞 it 代替 my jacket，句型是 give it to me；its 表示所有，it's 是 it is。"
+          },
+          {
+            "id": "m2-1-u1-q034",
+            "question": "I bought some snacks for ___ after school.",
+            "options": [
+              "A. their",
+              "B. theirs",
+              "C. they",
+              "D. them"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "介系詞 for 後面用受格代名詞 them。"
+          },
+          {
+            "id": "m2-1-u1-q035",
+            "question": "She sent a postcard to ___ last week.",
+            "options": [
+              "A. he's",
+              "B. him",
+              "C. his",
+              "D. he"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "介系詞 to 後用受格 him，表示寄給他；he 是主格，his 表示所有，he's 是 he is 的縮寫。"
+          },
+          {
+            "id": "m2-1-u1-q036",
+            "question": "Please show ___ your new gloves.",
+            "options": [
+              "A. mine",
+              "B. I",
+              "C. me",
+              "D. my"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "show 加人加物，人的位置需用受格 me。"
+          },
+          {
+            "id": "m2-1-u1-q037",
+            "question": "Dad ___ me a jacket yesterday.",
+            "options": [
+              "A. gives",
+              "B. giving",
+              "C. gave",
+              "D. give"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "yesterday 表示過去，授與動詞 give 的過去式是 gave。"
+          },
+          {
+            "id": "m2-1-u1-q038",
+            "question": "My aunt ___ me a postcard last summer.",
+            "options": [
+              "A. sending",
+              "B. sent",
+              "C. send",
+              "D. sends"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "last summer 表示過去，send 的過去式是 sent。"
+          },
+          {
+            "id": "m2-1-u1-q039",
+            "question": "Mom ___ us some snacks every Friday.",
+            "options": [
+              "A. buy",
+              "B. bought",
+              "C. buys",
+              "D. buying"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "every Friday 表示習慣；Mom 是第三人稱單數，buy 要加 s。"
+          },
+          {
+            "id": "m2-1-u1-q040",
+            "question": "Did your brother ___ you his snowboard yesterday?",
+            "options": [
+              "A. lends",
+              "B. lent",
+              "C. lending",
+              "D. lend"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "過去式問句已有 Did，授與動詞用原形 lend。"
+          },
+          {
+            "id": "m2-1-u1-q041",
+            "question": "Please ___ me another picture of Taiwan.",
+            "options": [
+              "A. shows",
+              "B. showed",
+              "C. show",
+              "D. showing"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "Please 引導的祈使句使用原形動詞 show。"
+          },
+          {
+            "id": "m2-1-u1-q042",
+            "question": "Grandpa ___ me a story last night.",
+            "options": [
+              "A. telling",
+              "B. tells",
+              "C. tell",
+              "D. told"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "last night 表示過去，tell 的過去式是 told。"
+          },
+          {
+            "id": "m2-1-u1-q043",
+            "question": "My sister can ___ us a cake.",
+            "options": [
+              "A. makes",
+              "B. making",
+              "C. make",
+              "D. made"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "助動詞 can 後接原形動詞 make，後面接人 us 和物 a cake。"
+          },
+          {
+            "id": "m2-1-u1-q044",
+            "question": "Please send ___ to her; these are her postcards.",
+            "options": [
+              "A. their",
+              "B. them",
+              "C. they",
+              "D. theirs"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "these postcards 是複數，send 後用受格 them 代替；採 send them to her 句型。"
+          },
+          {
+            "id": "m2-1-u1-q045",
+            "question": "I didn't ___ him my gloves yesterday.",
+            "options": [
+              "A. lend",
+              "B. lends",
+              "C. lending",
+              "D. lent"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "過去否定句使用 didn't 後，lend 要維持原形。"
+          },
+          {
+            "id": "m2-1-u1-q046",
+            "question": "Our teacher ___ us an English story every Monday.",
+            "options": [
+              "A. reads",
+              "B. read",
+              "C. is read",
+              "D. reading"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "every Monday 表示習慣；Our teacher 是第三人稱單數，動詞用 reads。"
+          },
+          {
+            "id": "m2-1-u1-q047",
+            "question": "My uncle will ___ me a new snowboard soon.",
+            "options": [
+              "A. buys",
+              "B. buying",
+              "C. buy",
+              "D. bought"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "will 後接原形動詞 buy；soon 表示不久後。"
+          },
+          {
+            "id": "m2-1-u1-q048",
+            "question": "Did Mom ___ a cake for you yesterday?",
+            "options": [
+              "A. makes",
+              "B. made",
+              "C. making",
+              "D. make"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "過去問句已使用 Did，make 要維持原形。"
+          },
+          {
+            "id": "m2-1-u1-q049",
+            "question": "Please give the gloves to ___; my hands are cold.",
+            "options": [
+              "A. me",
+              "B. my",
+              "C. mine",
+              "D. I"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "介系詞 to 後需用受格 me；my 需接名詞，mine 表示「我的東西」。"
+          },
+          {
+            "id": "m2-1-u1-q050",
+            "question": "My brother ___ me his jacket last night.",
+            "options": [
+              "A. lending",
+              "B. lend",
+              "C. lends",
+              "D. lent"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "last night 表示過去，lend 的過去式是 lent。"
+          }
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          {
+            "id": "m2-1-u1-sv001",
+            "vocab_id": "m2-1-u1-v001",
+            "sentence": "How was your summer vacation?",
+            "sentence_chinese": "你的暑假過得如何？"
+          },
+          {
+            "id": "m2-1-u1-sv002",
+            "vocab_id": "m2-1-u1-v002",
+            "sentence": "How was the weather yesterday?",
+            "sentence_chinese": "昨天天氣如何？"
+          },
+          {
+            "id": "m2-1-u1-sv003",
+            "vocab_id": "m2-1-u1-v003",
+            "sentence": "It rains a lot in Taiwan.",
+            "sentence_chinese": "臺灣經常下雨。"
+          },
+          {
+            "id": "m2-1-u1-sv004",
+            "vocab_id": "m2-1-u1-v004",
+            "sentence": "We had fun in the snow.",
+            "sentence_chinese": "我們在雪中玩得很開心。"
+          },
+          {
+            "id": "m2-1-u1-sv005",
+            "vocab_id": "m2-1-u1-v005",
+            "sentence": "It snowed here last night.",
+            "sentence_chinese": "這裡昨晚下雪了。"
+          },
+          {
+            "id": "m2-1-u1-sv006",
+            "vocab_id": "m2-1-u1-v006",
+            "sentence": "I sent her a postcard.",
+            "sentence_chinese": "我寄了一張明信片給她。"
+          },
+          {
+            "id": "m2-1-u1-sv007",
+            "vocab_id": "m2-1-u1-v007",
+            "sentence": "He gave me a postcard.",
+            "sentence_chinese": "他給了我一張明信片。"
+          },
+          {
+            "id": "m2-1-u1-sv008",
+            "vocab_id": "m2-1-u1-v008",
+            "sentence": "Can I borrow your jacket?",
+            "sentence_chinese": "我可以借你的夾克嗎？"
+          },
+          {
+            "id": "m2-1-u1-sv009",
+            "vocab_id": "m2-1-u1-v009",
+            "sentence": "Please lend me your pen.",
+            "sentence_chinese": "請把你的筆借給我。"
+          },
+          {
+            "id": "m2-1-u1-sv010",
+            "vocab_id": "m2-1-u1-v010",
+            "sentence": "She gave me a pair of gloves.",
+            "sentence_chinese": "她給了我一雙手套。"
+          },
+          {
+            "id": "m2-1-u1-sv011",
+            "vocab_id": "m2-1-u1-v011",
+            "sentence": "The kind man lent me an umbrella.",
+            "sentence_chinese": "那位好心的男子借給我一把雨傘。"
+          },
+          {
+            "id": "m2-1-u1-sv012",
+            "vocab_id": "m2-1-u1-v012",
+            "sentence": "It was a lovely spring day.",
+            "sentence_chinese": "那是個美好的春日。"
+          },
+          {
+            "id": "m2-1-u1-sv013",
+            "vocab_id": "m2-1-u1-v013",
+            "sentence": "Mom bought me a jacket.",
+            "sentence_chinese": "媽媽買了一件夾克給我。"
+          },
+          {
+            "id": "m2-1-u1-sv014",
+            "vocab_id": "m2-1-u1-v014",
+            "sentence": "Please give the book to me.",
+            "sentence_chinese": "請把那本書給我。"
+          },
+          {
+            "id": "m2-1-u1-sv015",
+            "vocab_id": "m2-1-u1-v015",
+            "sentence": "I hate cold weather.",
+            "sentence_chinese": "我討厭寒冷的天氣。"
+          },
+          {
+            "id": "m2-1-u1-sv016",
+            "vocab_id": "m2-1-u1-v016",
+            "sentence": "There was heavy rain last night.",
+            "sentence_chinese": "昨晚下了大雨。"
+          },
+          {
+            "id": "m2-1-u1-sv017",
+            "vocab_id": "m2-1-u1-v017",
+            "sentence": "Spring is my favorite season.",
+            "sentence_chinese": "春天是我最喜歡的季節。"
+          },
+          {
+            "id": "m2-1-u1-sv018",
+            "vocab_id": "m2-1-u1-v018",
+            "sentence": "We have a lot of rain in spring.",
+            "sentence_chinese": "我們這裡春天雨量很多。"
+          },
+          {
+            "id": "m2-1-u1-sv019",
+            "vocab_id": "m2-1-u1-v019",
+            "sentence": "There were many clouds in the sky.",
+            "sentence_chinese": "天空中有很多雲。"
+          },
+          {
+            "id": "m2-1-u1-sv020",
+            "vocab_id": "m2-1-u1-v020",
+            "sentence": "The sun was bright this morning.",
+            "sentence_chinese": "今天早上的陽光很明亮。"
+          },
+          {
+            "id": "m2-1-u1-sv021",
+            "vocab_id": "m2-1-u1-v021",
+            "sentence": "It is cool here in autumn.",
+            "sentence_chinese": "這裡秋天天氣涼爽。"
+          },
+          {
+            "id": "m2-1-u1-sv022",
+            "vocab_id": "m2-1-u1-v022",
+            "sentence": "The wind was strong last night.",
+            "sentence_chinese": "昨晚的風很強。"
+          },
+          {
+            "id": "m2-1-u1-sv023",
+            "vocab_id": "m2-1-u1-v023",
+            "sentence": "Does it snow here in winter?",
+            "sentence_chinese": "這裡冬天會下雪嗎？"
+          },
+          {
+            "id": "m2-1-u1-sv024",
+            "vocab_id": "m2-1-u1-v024",
+            "sentence": "It was sunny yesterday.",
+            "sentence_chinese": "昨天天氣晴朗。"
+          },
+          {
+            "id": "m2-1-u1-sv025",
+            "vocab_id": "m2-1-u1-v025",
+            "sentence": "It was snowy in the mountains.",
+            "sentence_chinese": "山區當時下著雪。"
+          },
+          {
+            "id": "m2-1-u1-sv026",
+            "vocab_id": "m2-1-u1-v026",
+            "sentence": "It is often rainy in spring.",
+            "sentence_chinese": "春天常常下雨。"
+          },
+          {
+            "id": "m2-1-u1-sv027",
+            "vocab_id": "m2-1-u1-v027",
+            "sentence": "It was cloudy this morning.",
+            "sentence_chinese": "今天早上多雲。"
+          },
+          {
+            "id": "m2-1-u1-sv028",
+            "vocab_id": "m2-1-u1-v028",
+            "sentence": "Is it windy outside?",
+            "sentence_chinese": "外面風大嗎？"
+          },
+          {
+            "id": "m2-1-u1-sv029",
+            "vocab_id": "m2-1-u1-v029",
+            "sentence": "Dad bought us some snacks.",
+            "sentence_chinese": "爸爸買了一些點心給我們。"
+          },
+          {
+            "id": "m2-1-u1-sv030",
+            "vocab_id": "m2-1-u1-v030",
+            "sentence": "I mailed a card to Grandma.",
+            "sentence_chinese": "我寄了一張卡片給奶奶。"
+          },
+          {
+            "id": "m2-1-u1-sv031",
+            "vocab_id": "m2-1-u1-v031",
+            "sentence": "In fact, it seldom snows here.",
+            "sentence_chinese": "事實上，這裡很少下雪。"
+          },
+          {
+            "id": "m2-1-u1-sv032",
+            "vocab_id": "m2-1-u1-v032",
+            "sentence": "What does this word mean?",
+            "sentence_chinese": "這個字是什麼意思？"
+          },
+          {
+            "id": "m2-1-u1-sv033",
+            "vocab_id": "m2-1-u1-v033",
+            "sentence": "Please show me another postcard.",
+            "sentence_chinese": "請再給我看另一張明信片。"
+          },
+          {
+            "id": "m2-1-u1-sv034",
+            "vocab_id": "m2-1-u1-v034",
+            "sentence": "She ordered a sandwich for me.",
+            "sentence_chinese": "她幫我點了一份三明治。"
+          },
+          {
+            "id": "m2-1-u1-sv035",
+            "vocab_id": "m2-1-u1-v035",
+            "sentence": "The weather was strange yesterday.",
+            "sentence_chinese": "昨天的天氣很奇怪。"
+          },
+          {
+            "id": "m2-1-u1-sv036",
+            "vocab_id": "m2-1-u1-v036",
+            "sentence": "I will send you the photos soon.",
+            "sentence_chinese": "我很快就會把照片傳給你。"
+          },
+          {
+            "id": "m2-1-u1-sv037",
+            "vocab_id": "m2-1-u1-v037",
+            "sentence": "Our school is on Park Rd.",
+            "sentence_chinese": "我們學校在公園路上。"
+          },
+          {
+            "id": "m2-1-u1-sv038",
+            "vocab_id": "m2-1-u1-v038",
+            "sentence": "ROC stands for Republic of China.",
+            "sentence_chinese": "ROC 代表中華民國。"
+          },
+          {
+            "id": "m2-1-u1-sv039",
+            "vocab_id": "m2-1-u1-v039",
+            "sentence": "It is cool here in autumn.",
+            "sentence_chinese": "這裡秋天天氣涼爽。"
+          },
+          {
+            "id": "m2-1-u1-sv040",
+            "vocab_id": "m2-1-u1-v040",
+            "sentence": "Dad bought a snowboard for me.",
+            "sentence_chinese": "爸爸買了一塊滑雪板給我。"
+          },
+          {
+            "id": "m2-1-u1-sv041",
+            "vocab_id": "m2-1-u1-v041",
+            "sentence": "It was rainy, but we went out anyway.",
+            "sentence_chinese": "當時下著雨，但我們還是出門了。"
+          }
+        ],
+        "phrases": [],
+        "grammar": [
+          {
+            "id": "m2-1-u1-sg001",
+            "sentence": "How was the weather in Taiwan yesterday?",
+            "sentence_chinese": "昨天臺灣的天氣如何？"
+          },
+          {
+            "id": "m2-1-u1-sg002",
+            "sentence": "There was heavy rain here last night.",
+            "sentence_chinese": "這裡昨晚下了大雨。"
+          },
+          {
+            "id": "m2-1-u1-sg003",
+            "sentence": "My mother bought me a warm jacket.",
+            "sentence_chinese": "媽媽買了一件暖和的夾克給我。"
+          },
+          {
+            "id": "m2-1-u1-sg004",
+            "sentence": "What is the weather like in spring?",
+            "sentence_chinese": "春天的天氣如何？"
+          },
+          {
+            "id": "m2-1-u1-sg005",
+            "sentence": "It often snows here during the winter.",
+            "sentence_chinese": "這裡冬天常常下雪。"
+          },
+          {
+            "id": "m2-1-u1-sg006",
+            "sentence": "Please send these postcards to my sister.",
+            "sentence_chinese": "請把這些明信片寄給我姊姊。"
+          },
+          {
+            "id": "m2-1-u1-sg007",
+            "sentence": "The weather was sunny and warm yesterday.",
+            "sentence_chinese": "昨天的天氣晴朗又暖和。"
+          },
+          {
+            "id": "m2-1-u1-sg008",
+            "sentence": "We have lots of rain every summer.",
+            "sentence_chinese": "我們這裡每年夏天雨量很多。"
+          },
+          {
+            "id": "m2-1-u1-sg009",
+            "sentence": "Dad lent his snowboard to my brother.",
+            "sentence_chinese": "爸爸把他的滑雪板借給我哥哥。"
+          },
+          {
+            "id": "m2-1-u1-sg010",
+            "sentence": "Is it usually windy here in autumn?",
+            "sentence_chinese": "這裡秋天通常風大嗎？"
+          },
+          {
+            "id": "m2-1-u1-sg011",
+            "sentence": "It did not rain here last night.",
+            "sentence_chinese": "這裡昨晚沒有下雨。"
+          },
+          {
+            "id": "m2-1-u1-sg012",
+            "sentence": "My aunt gave me some lovely gloves.",
+            "sentence_chinese": "阿姨給了我一些可愛的手套。"
+          },
+          {
+            "id": "m2-1-u1-sg013",
+            "sentence": "How is the weather in your town?",
+            "sentence_chinese": "你住的城鎮天氣如何？"
+          },
+          {
+            "id": "m2-1-u1-sg014",
+            "sentence": "There is heavy snow on the mountain.",
+            "sentence_chinese": "山上正下著大雪。"
+          },
+          {
+            "id": "m2-1-u1-sg015",
+            "sentence": "Please show your new jacket to me.",
+            "sentence_chinese": "請把你的新夾克給我看。"
+          },
+          {
+            "id": "m2-1-u1-sg016",
+            "sentence": "It was cool and cloudy this morning.",
+            "sentence_chinese": "今天早上天氣涼爽而且多雲。"
+          },
+          {
+            "id": "m2-1-u1-sg017",
+            "sentence": "Does it rain a lot in spring?",
+            "sentence_chinese": "春天常常下雨嗎？"
+          },
+          {
+            "id": "m2-1-u1-sg018",
+            "sentence": "Grandma made a delicious cake for us.",
+            "sentence_chinese": "奶奶做了一個美味的蛋糕給我們。"
+          },
+          {
+            "id": "m2-1-u1-sg019",
+            "sentence": "What was the weather like last winter?",
+            "sentence_chinese": "去年冬天的天氣如何？"
+          },
+          {
+            "id": "m2-1-u1-sg020",
+            "sentence": "They had heavy snow there last week.",
+            "sentence_chinese": "他們那裡上週下了大雪。"
+          },
+          {
+            "id": "m2-1-u1-sg021",
+            "sentence": "I will send you another postcard soon.",
+            "sentence_chinese": "我很快會再寄一張明信片給你。"
+          },
+          {
+            "id": "m2-1-u1-sg022",
+            "sentence": "It is often hot and sunny here.",
+            "sentence_chinese": "這裡經常炎熱而且晴朗。"
+          },
+          {
+            "id": "m2-1-u1-sg023",
+            "sentence": "Was there much rain in Taiwan yesterday?",
+            "sentence_chinese": "昨天臺灣下了很多雨嗎？"
+          },
+          {
+            "id": "m2-1-u1-sg024",
+            "sentence": "My father bought some snacks for me.",
+            "sentence_chinese": "爸爸買了一些點心給我。"
+          },
+          {
+            "id": "m2-1-u1-sg025",
+            "sentence": "How was the weather during your vacation?",
+            "sentence_chinese": "你放假期間的天氣如何？"
+          },
+          {
+            "id": "m2-1-u1-sg026",
+            "sentence": "It does not snow here in summer.",
+            "sentence_chinese": "這裡夏天不下雪。"
+          },
+          {
+            "id": "m2-1-u1-sg027",
+            "sentence": "Please give them to your little brother.",
+            "sentence_chinese": "請把它們給你弟弟。"
+          },
+          {
+            "id": "m2-1-u1-sg028",
+            "sentence": "We did not have any rain yesterday.",
+            "sentence_chinese": "我們這裡昨天完全沒下雨。"
+          },
+          {
+            "id": "m2-1-u1-sg029",
+            "sentence": "The kind teacher told us a story.",
+            "sentence_chinese": "那位親切的老師講了一個故事給我們聽。"
+          },
+          {
+            "id": "m2-1-u1-sg030",
+            "sentence": "Did it snow in your town yesterday?",
+            "sentence_chinese": "你住的城鎮昨天下雪了嗎？"
+          }
+        ]
+      }
+    }
+  }
+}
