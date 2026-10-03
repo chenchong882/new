@@ -489,267 +489,241 @@
         "quiz": [
           {
             "id": "m3-1-u2-q001",
-            "question": "The movie looks ___. I can't wait to watch it!",
+            "question": "A: Why did you stop watching? B: The story was ___ to me. Nothing happened for an hour.",
             "options": [
-              "A. excites",
-              "B. excite",
-              "C. excited",
-              "D. exciting"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "電影是引起興奮的來源；looks 後接形容詞 exciting。"
-          },
-          {
-            "id": "m3-1-u2-q002",
-            "question": "Judy is ___ in making online videos.",
-            "options": [
-              "A. interested",
-              "B. interesting",
-              "C. interests",
-              "D. interest"
+              "A. boring",
+              "B. bores",
+              "C. bore",
+              "D. bored"
             ],
             "answer": "A",
             "answer_index": 0,
-            "hint": "Judy 是感興趣的人，is 後用 interested。"
+            "hint": "故事是造成無聊感的來源，用 boring；to me 指對我而言。"
           },
           {
-            "id": "m3-1-u2-q003",
-            "question": "The actor's long speech made us sleepy. It was ___.",
+            "id": "m3-1-u2-q002",
+            "question": "A: How did the children feel during the long show? B: They were ___ with it.",
             "options": [
               "A. bores",
-              "B. bored",
-              "C. bore",
-              "D. boring"
+              "B. bore",
+              "C. boring",
+              "D. bored"
             ],
             "answer": "D",
             "answer_index": 3,
-            "hint": "演講令人無聊，用 boring 描述造成感受的來源。"
+            "hint": "問題問孩子的感受，be bored with 表示對某事感到無聊。"
+          },
+          {
+            "id": "m3-1-u2-q003",
+            "question": "The news that our class won first prize was ___ to everyone.",
+            "options": [
+              "A. excited",
+              "B. excites",
+              "C. exciting",
+              "D. excite"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "消息讓大家興奮，應用 exciting 描述消息帶來的感受。"
           },
           {
             "id": "m3-1-u2-q004",
-            "question": "I felt ___ with the online game, so I stopped playing.",
+            "question": "A: Why is Tina smiling? B: She is ___ about getting the last ticket.",
             "options": [
-              "A. bores",
-              "B. bored",
-              "C. bore",
-              "D. boring"
+              "A. excited",
+              "B. excites",
+              "C. exciting",
+              "D. excite"
             ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "I 是感到無聊的人；felt 後接 bored。"
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "Tina 是感到興奮的人，is 後用 excited。"
           },
           {
             "id": "m3-1-u2-q005",
-            "question": "The actress was ___ by the lovely card.",
+            "question": "A: Did the actress like our card? B: Yes. She was deeply ___ by our kind words.",
+            "options": [
+              "A. touches",
+              "B. touched",
+              "C. touch",
+              "D. touching"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "女演員受到話語感動，用過去分詞形容詞 touched。"
+          },
+          {
+            "id": "m3-1-u2-q006",
+            "question": "The ending of the movie was so ___ that many people cried.",
             "options": [
               "A. touching",
               "B. touches",
               "C. touched",
               "D. touch"
             ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "女演員受到卡片感動，用過去分詞形容詞 touched。"
-          },
-          {
-            "id": "m3-1-u2-q006",
-            "question": "What a ___ story! It touched my heart.",
-            "options": [
-              "A. touching",
-              "B. touch",
-              "C. touched",
-              "D. touches"
-            ],
             "answer": "A",
             "answer_index": 0,
-            "hint": "story 是令人感動的來源，名詞前用 touching。"
+            "hint": "電影結局令人感動，作為感受來源用 touching。"
           },
           {
             "id": "m3-1-u2-q007",
-            "question": "The fans were ___ about meeting the actor.",
+            "question": "A: Is Ken ___ in acting? B: Yes. He wants to become an actor.",
             "options": [
-              "A. excites",
-              "B. excite",
-              "C. excited",
-              "D. exciting"
+              "A. interested",
+              "B. interest",
+              "C. interests",
+              "D. interesting"
             ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "fans 是感到興奮的人，用 excited。"
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "Ken 對表演感興趣，用 interested in；interesting 表示令人感興趣。"
           },
           {
             "id": "m3-1-u2-q008",
-            "question": "The news about the castle was ___ to us.",
+            "question": "We learned a lot from the newspaper. Its science stories are ___ to us.",
             "options": [
-              "A. surprises",
-              "B. surprise",
-              "C. surprising",
-              "D. surprised"
+              "A. interesting",
+              "B. interests",
+              "C. interested",
+              "D. interest"
             ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "消息使我們驚訝，用 surprising 描述 news。"
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "科學報導讓我們感到有趣，應用 interesting to 人。"
           },
           {
             "id": "m3-1-u2-q009",
-            "question": "I was ___ to learn that the newspaper story was fake.",
+            "question": "A: Did you expect to see a bat? B: No. I was ___ to find one in the room.",
+            "options": [
+              "A. surprises",
+              "B. surprised",
+              "C. surprising",
+              "D. surprise"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "回答者沒有預期看見蝙蝠，因此感到驚訝，用 surprised。"
+          },
+          {
+            "id": "m3-1-u2-q010",
+            "question": "The result was ___ to the fans because their best player lost.",
             "options": [
               "A. surprise",
               "B. surprised",
               "C. surprises",
               "D. surprising"
             ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "I 是得知消息後感到驚訝的人，用 surprised。"
-          },
-          {
-            "id": "m3-1-u2-q010",
-            "question": "Digging this big hole is ___. Let's take a rest.",
-            "options": [
-              "A. tiring",
-              "B. tired",
-              "C. tires",
-              "D. tire"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "挖洞這件事令人疲累，用 tiring。"
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "比賽結果讓球迷驚訝，用 surprising 描述感受來源。"
           },
           {
             "id": "m3-1-u2-q011",
-            "question": "After digging for two hours, Ben felt ___.",
+            "question": "A: Why does Leo need a rest? B: He is ___ from digging all morning.",
             "options": [
-              "A. tires",
-              "B. tiring",
-              "C. tire",
-              "D. tired"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "Ben 是感到疲累的人，felt 後接 tired。"
-          },
-          {
-            "id": "m3-1-u2-q012",
-            "question": "My sister is ___ of bats and ghosts.",
-            "options": [
-              "A. scares",
-              "B. scared",
-              "C. scare",
-              "D. scary"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "妹妹感到害怕，用 scared；scary 表示令人害怕。"
-          },
-          {
-            "id": "m3-1-u2-q013",
-            "question": "The ghost is ___ to my little brother. He won't go near it.",
-            "options": [
-              "A. scare",
-              "B. scared",
-              "C. scary",
-              "D. scares"
+              "A. tire",
+              "B. tires",
+              "C. tired",
+              "D. tiring"
             ],
             "answer": "C",
             "answer_index": 2,
-            "hint": "鬼對弟弟而言令人害怕，用 scary to 人；scared 表示感到害怕，不能搭配此處的 to 人。"
+            "hint": "Leo 因挖掘而感到疲累，用 tired；tiring 描述令人疲累的事。"
+          },
+          {
+            "id": "m3-1-u2-q012",
+            "question": "Carrying all these newspapers upstairs is ___. I need a break.",
+            "options": [
+              "A. tired",
+              "B. tiring",
+              "C. tire",
+              "D. tires"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "搬報紙這件事令人疲累，用 tiring 描述活動。"
+          },
+          {
+            "id": "m3-1-u2-q013",
+            "question": "A: Will Amy enter the dark castle? B: No. She is ___ of ghosts.",
+            "options": [
+              "A. scary",
+              "B. scared",
+              "C. scares",
+              "D. scare"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "Amy 感到害怕，應用 scared of；scary 表示令人害怕。"
           },
           {
             "id": "m3-1-u2-q014",
-            "question": "Mom is ___ about my little brother because he is sick.",
+            "question": "The dark hallway is ___ to the children, so they hold hands.",
             "options": [
-              "A. worry",
-              "B. worryingly",
-              "C. worries",
-              "D. worried"
+              "A. scared",
+              "B. scares",
+              "C. scary",
+              "D. scare"
             ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "媽媽是感到擔心的人，用 worried。"
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "走廊讓孩子害怕，用 scary to 人描述令人害怕的來源。"
           },
           {
             "id": "m3-1-u2-q015",
-            "question": "Fred's funny stories are ___ to everyone in our class.",
+            "question": "A: Does your brother enjoy music? B: Yes. He is interested in ___ songs from the Internet.",
             "options": [
-              "A. interest",
-              "B. interesting",
-              "C. interested",
-              "D. interests"
+              "A. downloading",
+              "B. downloads",
+              "C. downloaded",
+              "D. download"
             ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "故事使大家覺得有趣，用 interesting to 人；interested 描述感興趣的人。"
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "in 是介系詞，後面接動名詞 downloading，不能接原形或過去式。"
           },
           {
             "id": "m3-1-u2-q016",
-            "question": "The video ___ me every time I watch it.",
+            "question": "The fans were excited about ___ the actress their new video.",
             "options": [
-              "A. excites",
-              "B. is excited",
-              "C. exciting",
-              "D. excited"
+              "A. showing",
+              "B. shows",
+              "C. show",
+              "D. showed"
             ],
             "answer": "A",
             "answer_index": 0,
-            "hint": "空格後有受詞 me，需用情緒動詞；every time 表習慣，單數主詞用 excites。"
+            "hint": "about 後面的動作需用 V-ing，因此用 showing。"
           },
           {
             "id": "m3-1-u2-q017",
-            "question": "The fake post ___ everyone yesterday.",
+            "question": "A: What did you think of the post? B: I was surprised ___ that the story was fake.",
             "options": [
-              "A. surprising",
-              "B. surprised",
-              "C. was surprised",
-              "D. surprise"
+              "A. to learning",
+              "B. to learn",
+              "C. learned",
+              "D. learn"
             ],
             "answer": "B",
             "answer_index": 1,
-            "hint": "空格後直接接 everyone，需用情緒動詞；yesterday 提示過去式 surprised。"
+            "hint": "surprised 後可直接接 to + 原形動詞，表示因得知消息而驚訝。"
           },
           {
             "id": "m3-1-u2-q018",
-            "question": "My brother is interested in ___ sentences in English.",
+            "question": "The actor was excited ___ his first movie on the big screen.",
             "options": [
-              "A. write",
-              "B. writing",
-              "C. writes",
-              "D. wrote"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "in 是介系詞，後面的動作須用 V-ing：writing。"
-          },
-          {
-            "id": "m3-1-u2-q019",
-            "question": "We are excited about ___ tickets online.",
-            "options": [
-              "A. books",
-              "B. booked",
-              "C. book",
-              "D. booking"
+              "A. to watching",
+              "B. watched",
+              "C. watch",
+              "D. to watch"
             ],
             "answer": "D",
             "answer_index": 3,
-            "hint": "介系詞 about 後面用動名詞 booking。"
+            "hint": "excited 後用不定詞 to watch，to 後接原形動詞。"
           },
           {
-            "id": "m3-1-u2-q020",
-            "question": "I was surprised ___ the actress at the castle.",
-            "options": [
-              "A. to see",
-              "B. see",
-              "C. to seeing",
-              "D. saw"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "surprised 可接 to + 原形動詞，表示因看到某人而驚訝。"
-          },
-          {
-            "id": "m3-1-u2-q021",
-            "question": "The movie was ___ funny that everyone laughed.",
+            "id": "m3-1-u2-q019",
+            "question": "A: Why didn't you finish the movie? B: It was ___ long that I fell asleep.",
             "options": [
               "A. so",
               "B. enough",
@@ -758,384 +732,410 @@
             ],
             "answer": "A",
             "answer_index": 0,
-            "hint": "後面接 that 完整子句，形容詞 funny 前用 so。"
+            "hint": "long 後接 that 結果子句，形容詞前用 so 組成 so…that…。"
+          },
+          {
+            "id": "m3-1-u2-q020",
+            "question": "The actress spoke so softly ___ the people in the back couldn't hear her.",
+            "options": [
+              "A. to",
+              "B. for",
+              "C. than",
+              "D. that"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "後面有主詞 the people 和動詞 couldn't hear，須用 that 引出結果子句。"
+          },
+          {
+            "id": "m3-1-u2-q021",
+            "question": "The boy explained the online game so ___ that even Grandma understood it.",
+            "options": [
+              "A. clearness",
+              "B. clear",
+              "C. clearer",
+              "D. clearly"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "空格修飾 explained 的方式，用副詞 clearly；so 後不用比較級。"
           },
           {
             "id": "m3-1-u2-q022",
-            "question": "The actor spoke so quickly ___ I couldn't understand him.",
+            "question": "A: Why did you eat another piece? B: The cake tasted so ___ that I wanted more.",
             "options": [
-              "A. for",
-              "B. than",
-              "C. that",
-              "D. to"
+              "A. best",
+              "B. good",
+              "C. better",
+              "D. well"
             ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "so + 副詞後用 that 引出結果子句。"
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "tasted 是連綴動詞，描述蛋糕味道用形容詞原級 good。"
           },
           {
             "id": "m3-1-u2-q023",
-            "question": "The girl sang so ___ that everyone stopped to listen.",
+            "question": "The room was ___ quiet that we could hear the clock.",
             "options": [
-              "A. beautiful",
-              "B. beautifully",
-              "C. beauty",
-              "D. more beautiful"
+              "A. too",
+              "B. so",
+              "C. such",
+              "D. enough"
             ],
             "answer": "B",
             "answer_index": 1,
-            "hint": "空格修飾一般動詞 sang，須用副詞 beautifully。"
+            "hint": "quiet 是形容詞，與後面的 that 子句搭配形成 so quiet that。"
           },
           {
             "id": "m3-1-u2-q024",
-            "question": "The pie smells so ___ that I want a piece.",
+            "question": "The towel was so wet ___ water fell onto the floor.",
             "options": [
-              "A. better",
-              "B. best",
-              "C. good",
-              "D. well"
+              "A. for",
+              "B. to",
+              "C. that",
+              "D. than"
             ],
             "answer": "C",
             "answer_index": 2,
-            "hint": "smells 是連綴動詞，描述派的氣味用形容詞原級 good；so 後不用比較級或最高級。"
+            "hint": "water fell 是完整句子，so wet 後用 that 引出結果。"
           },
           {
             "id": "m3-1-u2-q025",
-            "question": "The online post was so touching that it ___ me cry.",
-            "options": [
-              "A. make",
-              "B. made",
-              "C. to make",
-              "D. making"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "that 後是完整子句；it 後需有動詞，依 was 用過去式 made。"
-          },
-          {
-            "id": "m3-1-u2-q026",
-            "question": "The box was so heavy that I ___ lift it. I had to ask Dad for help.",
+            "question": "A: Did the noise wake you? B: Yes. It was so loud that I ___ sleep.",
             "options": [
               "A. can",
-              "B. will",
-              "C. could",
+              "B. could",
+              "C. will",
               "D. couldn't"
             ],
             "answer": "D",
             "answer_index": 3,
-            "hint": "箱子太重而需要爸爸幫忙，結果是過去無法搬動，用 couldn't。"
+            "hint": "噪音把人吵醒，表示當時無法睡覺，用 couldn't。"
+          },
+          {
+            "id": "m3-1-u2-q026",
+            "question": "The sentence was so simple that even my little sister ___ understand it.",
+            "options": [
+              "A. didn't",
+              "B. could",
+              "C. was",
+              "D. couldn't"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "so simple 和 even 表示簡單到連妹妹也能理解，過去能力用 could。"
           },
           {
             "id": "m3-1-u2-q027",
-            "question": "The ghost was so scary that ___ ran away.",
+            "question": "The post was so surprising that ___ read it twice.",
             "options": [
-              "A. ours",
-              "B. our",
-              "C. we",
-              "D. us"
+              "A. I",
+              "B. mine",
+              "C. me",
+              "D. my"
             ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "that 後需完整子句，ran 前的主詞用主格 we。"
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "that 後需完整子句，read 前的主詞用主格 I。"
           },
           {
             "id": "m3-1-u2-q028",
-            "question": "This sentence is so difficult that I can't understand ___.",
+            "question": "The sentences are too hard for me to understand. They are so hard that I cannot understand ___.",
             "options": [
-              "A. its",
-              "B. it's",
-              "C. it",
-              "D. itself"
+              "A. theirs",
+              "B. they",
+              "C. them",
+              "D. their"
             ],
             "answer": "C",
             "answer_index": 2,
-            "hint": "understand 需要受詞，指回 this sentence 用受格 it。"
+            "hint": "改成 so…that… 後，結果子句的 understand 須補回受詞；指複數 sentences 用 them。"
           },
           {
             "id": "m3-1-u2-q029",
-            "question": "The towel is ___ for me to use now. It is no longer wet.",
+            "question": "A: Can we all sit here? B: Yes. This room is ___ for our class to use.",
             "options": [
-              "A. dry so",
-              "B. dry too",
-              "C. dry enough",
-              "D. enough dry"
+              "A. large too",
+              "B. large so",
+              "C. enough large",
+              "D. large enough"
             ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "enough 修飾形容詞時放在後面：dry enough。"
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "enough 修飾形容詞時放在後面，large enough 表示夠大。"
           },
           {
             "id": "m3-1-u2-q030",
-            "question": "My sister is old enough ___ her own hair.",
+            "question": "The actress spoke ___ for the children in the back to hear every word.",
             "options": [
-              "A. to comb",
-              "B. to combing",
-              "C. comb",
-              "D. combing"
+              "A. enough loudly",
+              "B. loudly enough that",
+              "C. loudly enough",
+              "D. enough loud"
             ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "enough 後接 to + 原形動詞，表示程度足夠可以做某事。"
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "修飾 spoke 的副詞 loudly 後放 enough，再接 for 人 to V。"
           },
           {
             "id": "m3-1-u2-q031",
-            "question": "The actor spoke ___ for everyone to hear him clearly.",
+            "question": "A: Can your sister write her name? B: Yes. She is old enough ___ it by herself.",
             "options": [
-              "A. enough loudly",
-              "B. enough loud",
-              "C. loudly enough",
-              "D. loudly too"
+              "A. spelling",
+              "B. spell",
+              "C. to spell",
+              "D. to spelling"
             ],
             "answer": "C",
             "answer_index": 2,
-            "hint": "修飾 spoke 用副詞 loudly；enough 放在副詞後。"
+            "hint": "old enough 後接 to + 原形動詞 spell，表示能力已足夠。"
           },
           {
             "id": "m3-1-u2-q032",
-            "question": "The sentence is easy enough for ___ to understand.",
+            "question": "The online instructions are clear enough for ___ to follow.",
             "options": [
-              "A. my",
-              "B. mine",
-              "C. me",
-              "D. I"
+              "A. we",
+              "B. ours",
+              "C. us",
+              "D. our"
             ],
             "answer": "C",
             "answer_index": 2,
-            "hint": "for 是介系詞，指定動作執行者時後接受格 me。"
+            "hint": "for 指定不定詞動作的執行者，後面用受格 us。"
           },
           {
             "id": "m3-1-u2-q033",
-            "question": "The girl is strong enough to ___ this heavy box.",
+            "question": "A: Can Billy see this movie? B: No. He is twelve, so he is ___; viewers must be sixteen.",
             "options": [
-              "A. carry",
-              "B. carrying",
-              "C. carried",
-              "D. carries"
+              "A. enough old",
+              "B. old enough",
+              "C. not enough old",
+              "D. not old enough"
             ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "to 不定詞後接原形動詞 carry。"
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "十二歲未達十六歲門檻，用 not old enough；enough 放形容詞後。"
           },
           {
             "id": "m3-1-u2-q034",
-            "question": "The boy is only five. He is ___ to see this movie; viewers must be eighteen.",
+            "question": "The runner missed the bus because he didn't run ___.",
             "options": [
-              "A. not old enough",
-              "B. enough old",
-              "C. old enough",
-              "D. not enough old"
+              "A. fast so",
+              "B. enough fast",
+              "C. fast too",
+              "D. fast enough"
             ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "五歲未達十八歲門檻，須用 not old enough 表示年齡不足。"
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "錯過公車表示跑得不夠快；副詞 fast 後放 enough。"
           },
           {
             "id": "m3-1-u2-q035",
-            "question": "Sam didn't run ___ to catch the bus.",
+            "question": "We have checked the chair. It is strong enough for Dad ___ on.",
             "options": [
-              "A. enough fast",
-              "B. fast enough",
-              "C. so fast that",
-              "D. fast too"
+              "A. sitting",
+              "B. to sitting",
+              "C. sat",
+              "D. to sit"
             ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "didn't run fast enough to 表示跑得不夠快，未能趕上公車。"
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "strong enough for 人後接 to + 原形動詞，sit on 的 on 已在句尾。"
           },
           {
             "id": "m3-1-u2-q036",
-            "question": "The tickets are cheap enough for us ___ two.",
+            "question": "A: Can the children understand this story? B: Yes. It is easy enough for them to ___.",
             "options": [
-              "A. to buying",
-              "B. to buy",
-              "C. buying",
-              "D. bought"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "for us 指執行者，後面接 to + 原形動詞 buy。"
-          },
-          {
-            "id": "m3-1-u2-q037",
-            "question": "The book is simple enough for my sister to ___ by herself.",
-            "options": [
-              "A. reading",
-              "B. reads it",
-              "C. read it",
-              "D. read"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "read 的受詞與主詞 The book 相同，不重複加 it；to 後用原形。"
-          },
-          {
-            "id": "m3-1-u2-q038",
-            "question": "The toy is safe enough to play ___.",
-            "options": [
-              "A. with it",
-              "B. it",
-              "C. with them",
-              "D. with"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "play with 的 with 要保留；受詞就是主詞 The toy，因此不加 it。"
-          },
-          {
-            "id": "m3-1-u2-q039",
-            "question": "The tea is ___ hot to drink. Please wait a minute.",
-            "options": [
-              "A. such",
-              "B. so",
-              "C. enough",
-              "D. too"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "需等待降溫表示太燙而不能喝，用 too…to…。"
-          },
-          {
-            "id": "m3-1-u2-q040",
-            "question": "We arrived ___ late to book a room. All the rooms were full.",
-            "options": [
-              "A. so",
-              "B. too",
-              "C. enough",
-              "D. such"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "沒有房間可訂表示到得太晚，用 too late to…。"
-          },
-          {
-            "id": "m3-1-u2-q041",
-            "question": "The ghost is too scary for Lisa ___ at.",
-            "options": [
-              "A. looks",
-              "B. looking",
-              "C. to looking",
-              "D. to look"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "too…for 人…後接 to + 原形動詞；look at 的 at 已在句尾。"
-          },
-          {
-            "id": "m3-1-u2-q042",
-            "question": "The ticket is too expensive for ___ to buy.",
-            "options": [
-              "A. he",
-              "B. his",
-              "C. himself",
-              "D. him"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "for 後接受格 him；這裡沒有與主詞同指的反身關係。"
-          },
-          {
-            "id": "m3-1-u2-q043",
-            "question": "I am too tired ___ the answer right now.",
-            "options": [
-              "A. to guess",
-              "B. guessing",
-              "C. to guessing",
-              "D. guessed"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "too tired 後接 to + 原形動詞 guess。"
-          },
-          {
-            "id": "m3-1-u2-q044",
-            "question": "This piece of cake is too big for me to ___.",
-            "options": [
-              "A. finished",
-              "B. finishing",
-              "C. finish it",
-              "D. finish"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "finish 的受詞就是主詞 This piece of cake，不再加 it。"
-          },
-          {
-            "id": "m3-1-u2-q045",
-            "question": "The castle is too far away for us to ___ today.",
-            "options": [
-              "A. visit",
-              "B. visited",
-              "C. visiting",
-              "D. visits"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "too…to… 的 to 後用原形動詞 visit。"
-          },
-          {
-            "id": "m3-1-u2-q046",
-            "question": "Nobody could lift the box because it was ___ to move.",
-            "options": [
-              "A. enough heavy",
-              "B. so heavy that",
-              "C. too heavy",
-              "D. heavy enough"
+              "A. read it",
+              "B. reading",
+              "C. read",
+              "D. reads"
             ],
             "answer": "C",
             "answer_index": 2,
-            "hint": "Nobody could lift 提示無法搬動；too heavy to move 表示太重而搬不動。"
+            "hint": "read 的受詞與主詞 It 指同一個故事，不重複加 it；to 後用原形。"
           },
           {
-            "id": "m3-1-u2-q047",
-            "question": "Kelly is too short to reach the shelf. She is not ___ to reach it.",
+            "id": "m3-1-u2-q037",
+            "question": "The spoon has cooled down. It is now safe enough to eat ___.",
+            "options": [
+              "A. it",
+              "B. with",
+              "C. with them",
+              "D. with it"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "eat with 表示用某物進食；主詞已是 spoon，省略重複受詞但保留 with。"
+          },
+          {
+            "id": "m3-1-u2-q038",
+            "question": "A: Can you help me move the desk? B: Yes. I am strong enough to ___ it.",
+            "options": [
+              "A. lifts",
+              "B. lifted",
+              "C. lift",
+              "D. lifting"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "enough to 後接原形 lift；主詞 I 與受詞 desk 不同，所以 it 要保留。"
+          },
+          {
+            "id": "m3-1-u2-q039",
+            "question": "A: Why are you waiting? B: The soup is ___ hot to eat right now.",
+            "options": [
+              "A. such",
+              "B. too",
+              "C. enough",
+              "D. so"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "等待表示目前太燙而不能吃，用 too hot to eat。"
+          },
+          {
+            "id": "m3-1-u2-q040",
+            "question": "We got to the theater ___ late to buy tickets. The show had already started.",
+            "options": [
+              "A. enough",
+              "B. such",
+              "C. too",
+              "D. so"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "到得太晚而買不到票，用 too late to buy。"
+          },
+          {
+            "id": "m3-1-u2-q041",
+            "question": "The newspaper print is too small for Grandma ___ without her glasses.",
+            "options": [
+              "A. reading",
+              "B. to reading",
+              "C. to read",
+              "D. reads"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "too…for 人後用 to + 原形動詞；to read 表示閱讀。"
+          },
+          {
+            "id": "m3-1-u2-q042",
+            "question": "A: Why didn't you buy that coat? B: It was too expensive for ___ to buy.",
+            "options": [
+              "A. me",
+              "B. I",
+              "C. mine",
+              "D. my"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "for 後面用受格 me，指出無法買外套的人。"
+          },
+          {
+            "id": "m3-1-u2-q043",
+            "question": "The boys were too tired ___ another hole after lunch.",
+            "options": [
+              "A. to dig",
+              "B. dug",
+              "C. digging",
+              "D. to digging"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "too tired 後接 to + 原形動詞 dig，表示太累而無法再挖。"
+          },
+          {
+            "id": "m3-1-u2-q044",
+            "question": "A: Did you finish your sandwich? B: No. It was too big for me to ___.",
+            "options": [
+              "A. finishing",
+              "B. finish",
+              "C. finish it",
+              "D. finished"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "finish 的受詞就是主詞 It 指的 sandwich，不再加 it。"
+          },
+          {
+            "id": "m3-1-u2-q045",
+            "question": "The suitcase is too heavy to carry, so it is not ___ to carry.",
+            "options": [
+              "A. heavy enough",
+              "B. enough light",
+              "C. too light",
+              "D. light enough"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "too heavy 的同義改寫為 not light enough，須換反義詞 light。"
+          },
+          {
+            "id": "m3-1-u2-q046",
+            "question": "A: Why can't Mia reach the ticket window? B: She is too short. She isn't ___ to reach it.",
             "options": [
               "A. tall enough",
-              "B. enough tall",
-              "C. too tall",
+              "B. too tall",
+              "C. enough tall",
               "D. short enough"
             ],
             "answer": "A",
             "answer_index": 0,
-            "hint": "too short 改成 not…enough 時用反義詞 tall，enough 放在 tall 後。"
+            "hint": "too short 與 not tall enough 同義；用 tall 並把 enough 放在後面。"
+          },
+          {
+            "id": "m3-1-u2-q047",
+            "question": "The music is too soft for me to hear. It is so soft that I ___ hear it.",
+            "options": [
+              "A. am",
+              "B. can't",
+              "C. can",
+              "D. not"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "too…to… 表示無法，轉為 so…that… 時用 can't 保留原意。"
           },
           {
             "id": "m3-1-u2-q048",
-            "question": "The sentence is too hard for me to understand. It is so hard that I ___ understand it.",
+            "question": "The question was so hard that nobody could answer it. It was ___ to answer.",
             "options": [
-              "A. can't",
-              "B. can",
-              "C. am",
-              "D. not"
+              "A. so hard that",
+              "B. hard enough",
+              "C. too hard",
+              "D. enough hard"
             ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "too…to… 含不能之意，轉成 so…that… 時需用 can't 表結果。"
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "無人能回答表示題目太難，用 too hard to answer。"
           },
           {
             "id": "m3-1-u2-q049",
-            "question": "Mary was so tired that she couldn't walk farther. She was ___ to walk farther.",
+            "question": "The map is clear enough for us to read. It is so clear that we ___ read it.",
             "options": [
-              "A. enough tired",
-              "B. too tired",
-              "C. tired enough",
-              "D. so tired that"
+              "A. can't",
+              "B. don't",
+              "C. are",
+              "D. can"
             ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "so tired that…couldn't 可改為 too tired to，保留無法繼續走的原意。"
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "clear enough to read 表示清楚到可以閱讀，結果子句用 can。"
           },
           {
             "id": "m3-1-u2-q050",
-            "question": "The box is light enough for Ben to carry. It is so light that Ben ___ carry it.",
+            "question": "The movie was so scary that Tim couldn't finish it. It was ___ for Tim to finish.",
             "options": [
-              "A. is",
-              "B. can",
-              "C. can't",
-              "D. doesn't"
+              "A. too scary",
+              "B. enough scary",
+              "C. scary enough",
+              "D. so scary that"
             ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "light enough to carry 表示輕到可以搬，改成結果子句用 can。"
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "so scary that…couldn't 改成 too scary for 人 to V，保留不能看完的意思。"
           }
         ]
       },
@@ -1411,153 +1411,153 @@
         "grammar": [
           {
             "id": "m3-1-u2-sg001",
-            "sentence": "The actor is interested in making movies.",
-            "sentence_chinese": "這位演員對拍電影感興趣。"
+            "sentence": "The children were bored with the long show.",
+            "sentence_chinese": "孩子們對這場漫長的表演感到無聊。"
           },
           {
             "id": "m3-1-u2-sg002",
-            "sentence": "The post was so touching that I cried.",
-            "sentence_chinese": "這則貼文很感人，讓我哭了。"
+            "sentence": "The actor spoke so softly that nobody heard him.",
+            "sentence_chinese": "這位演員說話太小聲了，沒有人聽見他。"
           },
           {
             "id": "m3-1-u2-sg003",
-            "sentence": "This towel is dry enough to use.",
-            "sentence_chinese": "這條毛巾夠乾了，可以使用。"
+            "sentence": "This chair is strong enough for Dad to use.",
+            "sentence_chinese": "這張椅子夠堅固，爸爸可以使用。"
           },
           {
             "id": "m3-1-u2-sg004",
-            "sentence": "The castle is too far away to visit today.",
-            "sentence_chinese": "城堡太遠了，今天沒辦法去參觀。"
+            "sentence": "The soup is too hot for Grandma to eat.",
+            "sentence_chinese": "湯太燙了，奶奶沒辦法喝。"
           },
           {
             "id": "m3-1-u2-sg005",
-            "sentence": "The exciting movie made my heart beat fast.",
-            "sentence_chinese": "這部刺激的電影讓我的心跳得很快。"
+            "sentence": "We were touched by the actress's kind words.",
+            "sentence_chinese": "我們被這位女演員親切的話語感動了。"
           },
           {
             "id": "m3-1-u2-sg006",
-            "sentence": "She spoke so clearly that everyone understood her.",
-            "sentence_chinese": "她說得很清楚，大家都聽懂了。"
+            "sentence": "The video was so funny that Tina watched it twice.",
+            "sentence_chinese": "影片很有趣，蒂娜看了兩次。"
           },
           {
             "id": "m3-1-u2-sg007",
-            "sentence": "My sister is old enough to spell her name.",
-            "sentence_chinese": "我妹妹年紀夠大了，能拼出自己的名字。"
+            "sentence": "The instructions are clear enough for us to follow.",
+            "sentence_chinese": "這些說明夠清楚，我們可以照著做。"
           },
           {
             "id": "m3-1-u2-sg008",
-            "sentence": "The tea is too hot for me to drink.",
-            "sentence_chinese": "茶太燙了，我沒辦法喝。"
+            "sentence": "The suitcase is too heavy for the boy to lift.",
+            "sentence_chinese": "這只行李箱太重了，男孩提不動。"
           },
           {
             "id": "m3-1-u2-sg009",
-            "sentence": "We were surprised by the actor's funny trick.",
-            "sentence_chinese": "我們對這位演員有趣的詭計感到驚訝。"
+            "sentence": "My cousin is interested in downloading online games.",
+            "sentence_chinese": "我表弟對下載線上遊戲感興趣。"
           },
           {
             "id": "m3-1-u2-sg010",
-            "sentence": "The ticket was so expensive that nobody bought it.",
-            "sentence_chinese": "這張票太貴了，沒有人買。"
+            "sentence": "The hallway was so dark that we needed a light.",
+            "sentence_chinese": "走廊太暗了，我們需要一盞燈。"
           },
           {
             "id": "m3-1-u2-sg011",
-            "sentence": "Ben ran fast enough to catch the bus.",
-            "sentence_chinese": "班跑得夠快，趕上了公車。"
+            "sentence": "The girl spoke loudly enough for everyone to hear.",
+            "sentence_chinese": "女孩說話夠大聲，每個人都聽得到。"
           },
           {
             "id": "m3-1-u2-sg012",
-            "sentence": "I was too tired to comb my hair.",
-            "sentence_chinese": "我太累了，沒力氣梳頭髮。"
+            "sentence": "The print is too small for me to read.",
+            "sentence_chinese": "字體太小了，我看不清楚。"
           },
           {
             "id": "m3-1-u2-sg013",
-            "sentence": "The hard-working actress felt tired after the show.",
-            "sentence_chinese": "這位勤奮的女演員在表演後感到疲累。"
+            "sentence": "The fans were excited about visiting the old castle.",
+            "sentence_chinese": "粉絲們對要參觀這座古堡感到興奮。"
           },
           {
             "id": "m3-1-u2-sg014",
-            "sentence": "The boy cried so loudly that Mom woke up.",
-            "sentence_chinese": "男孩哭得很大聲，把媽媽吵醒了。"
+            "sentence": "The cake tasted so good that we wanted more.",
+            "sentence_chinese": "蛋糕很好吃，我們還想再吃。"
           },
           {
             "id": "m3-1-u2-sg015",
-            "sentence": "The sentence is easy enough for us to understand.",
-            "sentence_chinese": "這個句子夠簡單，我們看得懂。"
+            "sentence": "The spoon is safe enough to eat with.",
+            "sentence_chinese": "這支湯匙夠安全，可以用來吃東西。"
           },
           {
             "id": "m3-1-u2-sg016",
-            "sentence": "The box is too heavy for him to carry.",
-            "sentence_chinese": "這個箱子太重了，他搬不動。"
+            "sentence": "The boys were too tired to dig another hole.",
+            "sentence_chinese": "男孩們太累了，沒辦法再挖一個洞。"
           },
           {
             "id": "m3-1-u2-sg017",
-            "sentence": "The girl is excited about booking tickets online.",
-            "sentence_chinese": "女孩對在線上訂票感到興奮。"
+            "sentence": "I was surprised to see my picture online.",
+            "sentence_chinese": "在網路上看到自己的照片讓我很驚訝。"
           },
           {
             "id": "m3-1-u2-sg018",
-            "sentence": "The ghost was so scary that we ran away.",
-            "sentence_chinese": "鬼很可怕，嚇得我們逃走了。"
+            "sentence": "The news was so surprising that Dad called us.",
+            "sentence_chinese": "消息很驚人，爸爸因此打電話給我們。"
           },
           {
             "id": "m3-1-u2-sg019",
-            "sentence": "This toy is safe enough to play with.",
-            "sentence_chinese": "這個玩具夠安全，可以玩。"
+            "sentence": "This story is simple enough for children to read.",
+            "sentence_chinese": "這個故事夠簡單，孩子們可以閱讀。"
           },
           {
             "id": "m3-1-u2-sg020",
-            "sentence": "The file is too large to download now.",
-            "sentence_chinese": "檔案太大了，現在沒辦法下載。"
+            "sentence": "The music is too soft for us to hear.",
+            "sentence_chinese": "音樂太小聲了，我們聽不到。"
           },
           {
             "id": "m3-1-u2-sg021",
-            "sentence": "I was surprised to hear about the fake story.",
-            "sentence_chinese": "聽到這則假故事讓我很驚訝。"
+            "sentence": "Reading these boring posts makes my brother sleepy.",
+            "sentence_chinese": "閱讀這些無聊的貼文讓我哥哥想睡覺。"
           },
           {
             "id": "m3-1-u2-sg022",
-            "sentence": "She was so worried that she called right away.",
-            "sentence_chinese": "她很擔心，所以立刻打了電話。"
+            "sentence": "The room was so quiet that I heard the clock.",
+            "sentence_chinese": "房間很安靜，我聽得到時鐘的聲音。"
           },
           {
             "id": "m3-1-u2-sg023",
-            "sentence": "He is not tall enough to reach the shelf.",
-            "sentence_chinese": "他不夠高，摸不到架子。"
+            "sentence": "The young boy is not old enough to work.",
+            "sentence_chinese": "這個小男孩年紀還不夠大，不能工作。"
           },
           {
             "id": "m3-1-u2-sg024",
-            "sentence": "We came too late to book a room.",
-            "sentence_chinese": "我們來得太晚，沒辦法訂房。"
+            "sentence": "The ending was too scary for Tim to watch.",
+            "sentence_chinese": "結局太可怕了，提姆不敢看。"
           },
           {
             "id": "m3-1-u2-sg025",
-            "sentence": "The boring game made several students feel sleepy.",
-            "sentence_chinese": "這個無聊的遊戲讓幾位學生想睡覺。"
+            "sentence": "The hard-working actor felt tired from practicing all day.",
+            "sentence_chinese": "這位勤奮的演員因練習了一整天而感到疲累。"
           },
           {
             "id": "m3-1-u2-sg026",
-            "sentence": "The joke was so funny that everybody laughed.",
-            "sentence_chinese": "這個笑話很有趣，讓每個人都笑了。"
+            "sentence": "The towel was so wet that water covered the floor.",
+            "sentence_chinese": "毛巾濕透了，滴下的水弄得地板到處都是水。"
           },
           {
             "id": "m3-1-u2-sg027",
-            "sentence": "The room is big enough for three people to share.",
-            "sentence_chinese": "這個房間夠大，可以讓三個人一起住。"
+            "sentence": "The ticket is cheap enough for me to buy.",
+            "sentence_chinese": "這張票夠便宜，我買得起。"
           },
           {
             "id": "m3-1-u2-sg028",
-            "sentence": "The piece of cake is too big to finish.",
-            "sentence_chinese": "這塊蛋糕太大了，吃不完。"
+            "sentence": "The table is too wide to fit through the door.",
+            "sentence_chinese": "桌子太寬了，無法通過門口。"
           },
           {
             "id": "m3-1-u2-sg029",
-            "sentence": "The exciting news surprised everybody in our class.",
-            "sentence_chinese": "這個令人興奮的消息讓我們班每個人都很驚訝。"
+            "sentence": "The little girl is scared of the big bat.",
+            "sentence_chinese": "這個小女孩害怕那隻大蝙蝠。"
           },
           {
             "id": "m3-1-u2-sg030",
-            "sentence": "I am interested in reading the newspaper online.",
-            "sentence_chinese": "我對在線上看報紙感興趣。"
+            "sentence": "The touching story made several students cry quietly.",
+            "sentence_chinese": "這個感人的故事讓幾位學生默默流淚。"
           }
         ]
       }
