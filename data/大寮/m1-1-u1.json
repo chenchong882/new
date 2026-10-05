@@ -105,7 +105,7 @@
           {"id": "m1-1-u1-q037", "question": "That is ___ old classroom.", "options": ["A. 不填", "B. two", "C. an", "D. a"], "answer": "C", "answer_index": 2, "hint": "old 的第一個音是母音，用 an old classroom。"},
           {"id": "m1-1-u1-q038", "question": "My brother is ___ office worker.", "options": ["A. two", "B. an", "C. 不填", "D. a"], "answer": "B", "answer_index": 1, "hint": "office 的第一個音是母音，用 an。"},
           {"id": "m1-1-u1-q039", "question": "This is ___ school.", "options": ["A. 不填", "B. two", "C. a", "D. an"], "answer": "C", "answer_index": 2, "hint": "school 是單數可數名詞，第一個音是子音 /s/，用 a。"},
-          {"id": "m1-1-u1-q040", "question": "Mr. Lee is ___ honest doctor.", "options": ["A. two", "B. a", "C. 不填", "D. an"], "answer": "D", "answer_index": 3, "hint": "honest 的 h 不發音，第一個音是母音，用 an。"},
+          {"id": "m1-1-u1-q040", "question": "Mr. Lee is ___ old doctor.", "options": ["A. two", "B. a", "C. 不填", "D. an"], "answer": "D", "answer_index": 3, "hint": "old 的第一個音是母音，單數名詞片語 old doctor 前用 an。"},
           {"id": "m1-1-u1-q041", "question": "Our classroom is ___.", "options": ["A. a nice", "B. an nice", "C. nice a", "D. nice"], "answer": "D", "answer_index": 3, "hint": "形容詞 nice 可直接放在 is 後，不加冠詞。"},
           {"id": "m1-1-u1-q042", "question": "My cousin is a ___ boy.", "options": ["A. tall", "B. tall is", "C. a tall", "D. tall a"], "answer": "A", "answer_index": 0, "hint": "a 後面已預留形容詞位置，填 tall 修飾 boy。"},
           {"id": "m1-1-u1-q043", "question": "Her daughter is ___.", "options": ["A. girl a cute", "B. cute a girl", "C. a cute girl", "D. a girl cute"], "answer": "C", "answer_index": 2, "hint": "修飾單數名詞的順序是 a + 形容詞 + 名詞。"},
