@@ -58,7 +58,7 @@
           { "label": "Who 問句", "text": "用 Who + be 動詞 + 主詞? 詢問名字、身分或關係，例如 Who is that man? He's my uncle.。" }
         ],
         "notes": [
-          { "title": "不定冠詞 a 與 an", "rule": "a + 子音音素；an + 母音音素", "description": "單數可數名詞前通常要加 a 或 an。判斷時要聽下一個字的第一個發音：a teacher、a university、an eraser、an MRT station。", "examples": ["He is a teacher.", "This is a university.", "It is an eraser.", "That is an MRT station."] },
+          { "title": "不定冠詞 a 與 an", "rule": "a + 子音音素；an + 母音音素", "description": "單數可數名詞前通常要加 a 或 an。判斷時要聽下一個字的第一個發音：a teacher、a school、an eraser、an MRT station。", "examples": ["He is a teacher.", "This is a school.", "It is an eraser.", "That is an MRT station."] },
           { "title": "人稱代名詞與 be 動詞", "rule": "I am；you/we/they are；he/she/it is", "description": "be 動詞要隨主詞改變。肯定縮寫有 I'm、you're、he's、she's、it's、we're、they're；否定可用 isn't 或 aren't，但 am not 不可再縮寫。", "examples": ["I'm a student.", "She's my aunt.", "We're in the same class.", "They aren't doctors."] },
           { "title": "be 動詞直述句", "rule": "主詞 + be + 名詞／形容詞；否定時在 be 後加 not", "description": "名詞補語若是單數可數名詞，前面要有 a、an、the、指示詞或所有格；專有名詞前通常不加冠詞。形容詞可直接放在 be 動詞後。", "examples": ["She is a nurse.", "He is not a farmer.", "Tony is handsome.", "This is Miss Yang."] },
           { "title": "be 動詞的 Yes／No 問答句", "rule": "Be + 主詞 + 補語? Yes, 代名詞 + be. / No, 代名詞 + be + not.", "description": "把直述句的 be 動詞移到句首就能形成問句。簡答中的人名或名詞要改成代名詞；肯定簡答的主詞和 be 動詞不可縮寫。", "examples": ["Is Gary a student? Yes, he is.", "Is Amy a doctor? No, she isn't.", "Are you a teacher? Yes, I am.", "Is it your pet? No, it isn't."] },
@@ -104,7 +104,7 @@
           {"id": "m1-1-u1-q036", "question": "My sister is ___ young nurse.", "options": ["A. 不填", "B. an", "C. a", "D. two"], "answer": "C", "answer_index": 2, "hint": "young 的第一個音是子音，用 a young nurse。"},
           {"id": "m1-1-u1-q037", "question": "That is ___ old classroom.", "options": ["A. 不填", "B. two", "C. an", "D. a"], "answer": "C", "answer_index": 2, "hint": "old 的第一個音是母音，用 an old classroom。"},
           {"id": "m1-1-u1-q038", "question": "My brother is ___ office worker.", "options": ["A. two", "B. an", "C. 不填", "D. a"], "answer": "B", "answer_index": 1, "hint": "office 的第一個音是母音，用 an。"},
-          {"id": "m1-1-u1-q039", "question": "This is ___ university.", "options": ["A. 不填", "B. two", "C. a", "D. an"], "answer": "C", "answer_index": 2, "hint": "university 雖以母音字母開頭，第一個音卻是子音 /j/，用 a。"},
+          {"id": "m1-1-u1-q039", "question": "This is ___ school.", "options": ["A. 不填", "B. two", "C. a", "D. an"], "answer": "C", "answer_index": 2, "hint": "school 是單數可數名詞，第一個音是子音 /s/，用 a。"},
           {"id": "m1-1-u1-q040", "question": "Mr. Lee is ___ honest doctor.", "options": ["A. two", "B. a", "C. 不填", "D. an"], "answer": "D", "answer_index": 3, "hint": "honest 的 h 不發音，第一個音是母音，用 an。"},
           {"id": "m1-1-u1-q041", "question": "Our classroom is ___.", "options": ["A. a nice", "B. an nice", "C. nice a", "D. nice"], "answer": "D", "answer_index": 3, "hint": "形容詞 nice 可直接放在 is 後，不加冠詞。"},
           {"id": "m1-1-u1-q042", "question": "My cousin is a ___ boy.", "options": ["A. tall", "B. tall is", "C. a tall", "D. tall a"], "answer": "A", "answer_index": 0, "hint": "a 後面已預留形容詞位置，填 tall 修飾 boy。"},
