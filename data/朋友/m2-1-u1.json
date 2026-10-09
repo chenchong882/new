@@ -996,13 +996,13 @@
             "question": "Did we ___ much rain here last October?",
             "options": [
               "A. have",
-              "B. has",
-              "C. had",
-              "D. having"
+              "B. had",
+              "C. is",
+              "D. was"
             ],
             "answer": "A",
             "answer_index": 0,
-            "hint": "Did 後的動詞須用原形 have。"
+            "hint": "主詞是 we，描述雨量用 have，不用 is／was；問句已有 Did，後面的 have 用原形，不能用 had。"
           },
           {
             "id": "m2-1-u1-q050",
