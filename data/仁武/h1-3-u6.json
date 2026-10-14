@@ -33,7 +33,289 @@
           {"id":"h1-3-u6-sp004","phrase_id":"h1-3-u6-p004","sentence":"Tina exercises every day to keep in shape.","sentence_chinese":"Tina 每天運動以保持身材。"}
         ],
         "grammar": []
-      }
+      },
+      "cloze_quiz": [
+        {
+          "id": "h1-3-u6-cq001",
+          "vocab_id": "h1-3-u6-v001",
+          "question": "The ___ took photos of every famous place in the city.",
+          "options": [
+            "doctor",
+            "tourist",
+            "teacher",
+            "farmer"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "tourist 指到外地遊覽的旅客。"
+        },
+        {
+          "id": "h1-3-u6-cq002",
+          "vocab_id": "h1-3-u6-v001",
+          "question": "As a ___, I visited museums and bought gifts for my family.",
+          "options": [
+            "doctor",
+            "teacher",
+            "tourist",
+            "farmer"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "tourist 指到外地遊覽的旅客。"
+        },
+        {
+          "id": "h1-3-u6-cq003",
+          "vocab_id": "h1-3-u6-v001",
+          "question": "The ___ asked where to buy a ticket for the city tour.",
+          "options": [
+            "teacher",
+            "tourist",
+            "farmer",
+            "doctor"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "tourist 指到外地遊覽的旅客。"
+        },
+        {
+          "id": "h1-3-u6-cq004",
+          "vocab_id": "h1-3-u6-v001",
+          "question": "The hotel gives each ___ a map of popular sights.",
+          "options": [
+            "doctor",
+            "farmer",
+            "tourist",
+            "teacher"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "tourist 指到外地遊覽的旅客。"
+        },
+        {
+          "id": "h1-3-u6-cq005",
+          "vocab_id": "h1-3-u6-v002",
+          "question": "You must ___ for the race before you can join it.",
+          "options": [
+            "hide",
+            "forget",
+            "cancel",
+            "register"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "register 指登記或報名；先留下姓名資料是線索。"
+        },
+        {
+          "id": "h1-3-u6-cq006",
+          "vocab_id": "h1-3-u6-v002",
+          "question": "Please ___ your name at the desk when you arrive.",
+          "options": [
+            "register",
+            "hide",
+            "forget",
+            "cancel"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "register 指登記或報名；先留下姓名資料是線索。"
+        },
+        {
+          "id": "h1-3-u6-cq007",
+          "vocab_id": "h1-3-u6-v002",
+          "question": "Students can ___ online to join the summer class.",
+          "options": [
+            "cancel",
+            "forget",
+            "register",
+            "hide"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "register 指登記或報名；先留下姓名資料是線索。"
+        },
+        {
+          "id": "h1-3-u6-cq008",
+          "vocab_id": "h1-3-u6-v002",
+          "question": "There are only ten places, so ___ for the course today.",
+          "options": [
+            "forget",
+            "hide",
+            "cancel",
+            "register"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "register 指登記或報名；先留下姓名資料是線索。"
+        },
+        {
+          "id": "h1-3-u6-cq009",
+          "vocab_id": "h1-3-u6-v003",
+          "question": "This ___ in the north gets a lot of snow.",
+          "options": [
+            "machine",
+            "holiday",
+            "region",
+            "person"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "region 指地區，是一片地理範圍。"
+        },
+        {
+          "id": "h1-3-u6-cq010",
+          "vocab_id": "h1-3-u6-v003",
+          "question": "Farmers in this dry ___ need more rain.",
+          "options": [
+            "holiday",
+            "region",
+            "machine",
+            "person"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "region 指地區，是一片地理範圍。"
+        },
+        {
+          "id": "h1-3-u6-cq011",
+          "vocab_id": "h1-3-u6-v003",
+          "question": "The mountain ___ is cooler than the coast.",
+          "options": [
+            "region",
+            "holiday",
+            "person",
+            "machine"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "region 指地區，是一片地理範圍。"
+        },
+        {
+          "id": "h1-3-u6-cq012",
+          "vocab_id": "h1-3-u6-v004",
+          "question": "I have lived here for twenty years. I am a local ___.",
+          "options": [
+            "resident",
+            "visitor",
+            "guest",
+            "tourist"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "resident 是居民，長期住在某地的人。"
+        },
+        {
+          "id": "h1-3-u6-cq013",
+          "vocab_id": "h1-3-u6-v004",
+          "question": "Each ___ of this building has a key to the main door.",
+          "options": [
+            "guest",
+            "resident",
+            "tourist",
+            "visitor"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "resident 是居民，長期住在某地的人。"
+        },
+        {
+          "id": "h1-3-u6-cq014",
+          "vocab_id": "h1-3-u6-v004",
+          "question": "She moved into this town and became a ___ last year.",
+          "options": [
+            "resident",
+            "visitor",
+            "tourist",
+            "guest"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "resident 是居民，長期住在某地的人。"
+        },
+        {
+          "id": "h1-3-u6-cq015",
+          "vocab_id": "h1-3-u6-v005",
+          "question": "Only hospital ___ may enter the staff room.",
+          "options": [
+            "weather",
+            "traffic",
+            "furniture",
+            "personnel"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "personnel 指機構中的工作人員。"
+        },
+        {
+          "id": "h1-3-u6-cq016",
+          "vocab_id": "h1-3-u6-v005",
+          "question": "The company needs more ___ to work in its new office.",
+          "options": [
+            "personnel",
+            "traffic",
+            "furniture",
+            "weather"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "personnel 指機構中的工作人員。"
+        },
+        {
+          "id": "h1-3-u6-cq017",
+          "vocab_id": "h1-3-u6-v005",
+          "question": "All school ___, including teachers and office workers, attended the meeting.",
+          "options": [
+            "furniture",
+            "personnel",
+            "weather",
+            "traffic"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "personnel 指機構中的工作人員。"
+        },
+        {
+          "id": "h1-3-u6-cq018",
+          "vocab_id": "h1-3-u6-v006",
+          "question": "With beautiful beaches and clear water, the island felt like ___.",
+          "options": [
+            "desert",
+            "prison",
+            "factory",
+            "paradise"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "paradise 指天堂般美好的地方。"
+        },
+        {
+          "id": "h1-3-u6-cq019",
+          "vocab_id": "h1-3-u6-v006",
+          "question": "This huge bookstore is a ___ for people who love books.",
+          "options": [
+            "prison",
+            "desert",
+            "factory",
+            "paradise"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "paradise 指天堂般美好的地方。"
+        },
+        {
+          "id": "h1-3-u6-cq020",
+          "vocab_id": "h1-3-u6-v006",
+          "question": "The garden is a bird's ___, with plenty of food and safe trees.",
+          "options": [
+            "factory",
+            "prison",
+            "paradise",
+            "desert"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "paradise 指天堂般美好的地方。"
+        }
+      ]
     }
   }
 }

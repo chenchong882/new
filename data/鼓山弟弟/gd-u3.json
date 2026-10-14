@@ -131,7 +131,289 @@
           { "id": "gd-u3-sg029", "sentence": "Do you like bananas? Yes, I do.", "sentence_chinese": "你喜歡香蕉嗎？是的，我喜歡。" },
           { "id": "gd-u3-sg030", "sentence": "Do you like watermelons? No, I don't.", "sentence_chinese": "你喜歡西瓜嗎？不，我不喜歡。" }
         ]
-      }
+      },
+      "cloze_quiz": [
+        {
+          "id": "gd-u3-cq001",
+          "vocab_id": "gd-u3-v001",
+          "question": "Mom needs some ___ to make an apple pie.",
+          "options": [
+            "apples",
+            "bananas",
+            "grapes",
+            "watermelons"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "apples 是蘋果；蘋果派或紅色圓形果實的線索。"
+        },
+        {
+          "id": "gd-u3-cq002",
+          "vocab_id": "gd-u3-v001",
+          "question": "These red fruits are ___, and we can make apple juice from them.",
+          "options": [
+            "grapes",
+            "bananas",
+            "apples",
+            "watermelons"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "apples 是蘋果；蘋果派或紅色圓形果實的線索。"
+        },
+        {
+          "id": "gd-u3-cq003",
+          "vocab_id": "gd-u3-v001",
+          "question": "I like apple pie, so I bought ___ for Mom.",
+          "options": [
+            "grapes",
+            "watermelons",
+            "apples",
+            "bananas"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "apples 是蘋果；蘋果派或紅色圓形果實的線索。"
+        },
+        {
+          "id": "gd-u3-cq004",
+          "vocab_id": "gd-u3-v001",
+          "question": "Apple juice is made from ___.",
+          "options": [
+            "watermelons",
+            "grapes",
+            "apples",
+            "bananas"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "apples 是蘋果；蘋果派或紅色圓形果實的線索。"
+        },
+        {
+          "id": "gd-u3-cq005",
+          "vocab_id": "gd-u3-v002",
+          "question": "These long yellow fruits are ___.",
+          "options": [
+            "apples",
+            "bananas",
+            "oranges",
+            "grapes"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "bananas 是香蕉；長形黃色、剝皮後食用是線索。"
+        },
+        {
+          "id": "gd-u3-cq006",
+          "vocab_id": "gd-u3-v002",
+          "question": "Monkeys like these yellow fruits. They are ___.",
+          "options": [
+            "bananas",
+            "oranges",
+            "apples",
+            "grapes"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "bananas 是香蕉；長形黃色、剝皮後食用是線索。"
+        },
+        {
+          "id": "gd-u3-cq007",
+          "vocab_id": "gd-u3-v002",
+          "question": "Peel these long yellow ___ before eating them.",
+          "options": [
+            "grapes",
+            "bananas",
+            "apples",
+            "oranges"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "bananas 是香蕉；長形黃色、剝皮後食用是線索。"
+        },
+        {
+          "id": "gd-u3-cq008",
+          "vocab_id": "gd-u3-v002",
+          "question": "These ___ are long and curved, with yellow skins.",
+          "options": [
+            "oranges",
+            "bananas",
+            "apples",
+            "grapes"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "bananas 是香蕉；長形黃色、剝皮後食用是線索。"
+        },
+        {
+          "id": "gd-u3-cq009",
+          "vocab_id": "gd-u3-v003",
+          "question": "These small purple fruits grow in bunches. They are ___.",
+          "options": [
+            "grapes",
+            "papayas",
+            "watermelons",
+            "bananas"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "grapes 是葡萄；一串的小果實是線索。"
+        },
+        {
+          "id": "gd-u3-cq010",
+          "vocab_id": "gd-u3-v003",
+          "question": "Mom bought a bunch of purple ___.",
+          "options": [
+            "grapes",
+            "watermelons",
+            "bananas",
+            "papayas"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "grapes 是葡萄；一串的小果實是線索。"
+        },
+        {
+          "id": "gd-u3-cq011",
+          "vocab_id": "gd-u3-v003",
+          "question": "These ___ are small enough to eat one at a time.",
+          "options": [
+            "bananas",
+            "papayas",
+            "grapes",
+            "watermelons"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "grapes 是葡萄；一串的小果實是線索。"
+        },
+        {
+          "id": "gd-u3-cq012",
+          "vocab_id": "gd-u3-v004",
+          "question": "These round fruits have orange skins. They are ___.",
+          "options": [
+            "bananas",
+            "grapes",
+            "watermelons",
+            "oranges"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "oranges 是柳橙；橙色果皮或柳橙汁是線索。"
+        },
+        {
+          "id": "gd-u3-cq013",
+          "vocab_id": "gd-u3-v004",
+          "question": "We squeeze ___ to make orange juice.",
+          "options": [
+            "oranges",
+            "bananas",
+            "watermelons",
+            "grapes"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "oranges 是柳橙；橙色果皮或柳橙汁是線索。"
+        },
+        {
+          "id": "gd-u3-cq014",
+          "vocab_id": "gd-u3-v004",
+          "question": "Orange juice comes from ___.",
+          "options": [
+            "grapes",
+            "bananas",
+            "watermelons",
+            "oranges"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "oranges 是柳橙；橙色果皮或柳橙汁是線索。"
+        },
+        {
+          "id": "gd-u3-cq015",
+          "vocab_id": "gd-u3-v006",
+          "question": "These big green fruits have red flesh. They are ___.",
+          "options": [
+            "grapes",
+            "bananas",
+            "oranges",
+            "watermelons"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "watermelons 是西瓜；綠色外皮、紅色果肉是線索。"
+        },
+        {
+          "id": "gd-u3-cq016",
+          "vocab_id": "gd-u3-v006",
+          "question": "We cut the large ___ and see red flesh and black seeds.",
+          "options": [
+            "oranges",
+            "watermelons",
+            "bananas",
+            "grapes"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "watermelons 是西瓜；綠色外皮、紅色果肉是線索。"
+        },
+        {
+          "id": "gd-u3-cq017",
+          "vocab_id": "gd-u3-v006",
+          "question": "These ___ are green outside and red inside.",
+          "options": [
+            "bananas",
+            "grapes",
+            "watermelons",
+            "oranges"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "watermelons 是西瓜；綠色外皮、紅色果肉是線索。"
+        },
+        {
+          "id": "gd-u3-cq018",
+          "vocab_id": "gd-u3-v005",
+          "question": "These ___ have orange flesh and many small black seeds in the middle.",
+          "options": [
+            "grapes",
+            "papayas",
+            "bananas",
+            "watermelons"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "papayas 是木瓜；橙色果肉與中央許多小黑籽是線索。"
+        },
+        {
+          "id": "gd-u3-cq019",
+          "vocab_id": "gd-u3-v005",
+          "question": "We remove the small black seeds from these orange-fleshed ___.",
+          "options": [
+            "watermelons",
+            "bananas",
+            "grapes",
+            "papayas"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "papayas 是木瓜；橙色果肉與中央許多小黑籽是線索。"
+        },
+        {
+          "id": "gd-u3-cq020",
+          "vocab_id": "gd-u3-v005",
+          "question": "Cut the ___ open to see their orange flesh and central black seeds.",
+          "options": [
+            "watermelons",
+            "grapes",
+            "bananas",
+            "papayas"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "papayas 是木瓜；橙色果肉與中央許多小黑籽是線索。"
+        }
+      ]
     }
   }
 }

@@ -33,7 +33,289 @@
           {"id":"h1-3-u4-sp001","phrase_id":"h1-3-u4-p001","sentence":"For your information, all our products come with a one-year warranty.","sentence_chinese":"告訴你，我們所有產品都附有一年保固。"}
         ],
         "grammar": []
-      }
+      },
+      "cloze_quiz": [
+        {
+          "id": "h1-3-u4-cq001",
+          "vocab_id": "h1-3-u4-v001",
+          "question": "Taking off shoes before entering a home is a ___ in some places.",
+          "options": [
+            "accident",
+            "illness",
+            "mistake",
+            "custom"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "custom 指一群人長久以來的習俗。"
+        },
+        {
+          "id": "h1-3-u4-cq002",
+          "vocab_id": "h1-3-u4-v001",
+          "question": "Eating special food at a festival is a local ___.",
+          "options": [
+            "custom",
+            "illness",
+            "accident",
+            "mistake"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "custom 指一群人長久以來的習俗。"
+        },
+        {
+          "id": "h1-3-u4-cq003",
+          "vocab_id": "h1-3-u4-v001",
+          "question": "This old ___ has been passed down in the family for years.",
+          "options": [
+            "illness",
+            "mistake",
+            "accident",
+            "custom"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "custom 指一群人長久以來的習俗。"
+        },
+        {
+          "id": "h1-3-u4-cq004",
+          "vocab_id": "h1-3-u4-v002",
+          "question": "Let us ___ phone numbers so we can stay in touch.",
+          "options": [
+            "drop",
+            "hide",
+            "exchange",
+            "destroy"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "exchange 指交換；雙方互相給予東西是線索。"
+        },
+        {
+          "id": "h1-3-u4-cq005",
+          "vocab_id": "h1-3-u4-v002",
+          "question": "At the party, we will ___ gifts with each other.",
+          "options": [
+            "exchange",
+            "drop",
+            "hide",
+            "destroy"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "exchange 指交換；雙方互相給予東西是線索。"
+        },
+        {
+          "id": "h1-3-u4-cq006",
+          "vocab_id": "h1-3-u4-v002",
+          "question": "Can we ___ seats? You can take mine, and I will take yours.",
+          "options": [
+            "destroy",
+            "exchange",
+            "drop",
+            "hide"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "exchange 指交換；雙方互相給予東西是線索。"
+        },
+        {
+          "id": "h1-3-u4-cq007",
+          "vocab_id": "h1-3-u4-v003",
+          "question": "\"Good morning\" is a common ___.",
+          "options": [
+            "price",
+            "warning",
+            "greeting",
+            "mistake"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "greeting 指問候語或打招呼的動作。"
+        },
+        {
+          "id": "h1-3-u4-cq008",
+          "vocab_id": "h1-3-u4-v003",
+          "question": "She gave us a warm ___ when we arrived.",
+          "options": [
+            "mistake",
+            "price",
+            "warning",
+            "greeting"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "greeting 指問候語或打招呼的動作。"
+        },
+        {
+          "id": "h1-3-u4-cq009",
+          "vocab_id": "h1-3-u4-v003",
+          "question": "He smiled and waved as a friendly ___.",
+          "options": [
+            "greeting",
+            "warning",
+            "price",
+            "mistake"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "greeting 指問候語或打招呼的動作。"
+        },
+        {
+          "id": "h1-3-u4-cq010",
+          "vocab_id": "h1-3-u4-v004",
+          "question": "Will you ___ the meeting or stay at home?",
+          "options": [
+            "miss",
+            "forget",
+            "cancel",
+            "attend"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "attend 指出席、參加活動。"
+        },
+        {
+          "id": "h1-3-u4-cq011",
+          "vocab_id": "h1-3-u4-v004",
+          "question": "All students must ___ the school ceremony.",
+          "options": [
+            "attend",
+            "miss",
+            "cancel",
+            "forget"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "attend 指出席、參加活動。"
+        },
+        {
+          "id": "h1-3-u4-cq012",
+          "vocab_id": "h1-3-u4-v004",
+          "question": "I am free tonight, so I can ___ your party.",
+          "options": [
+            "attend",
+            "forget",
+            "cancel",
+            "miss"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "attend 指出席、參加活動。"
+        },
+        {
+          "id": "h1-3-u4-cq013",
+          "vocab_id": "h1-3-u4-v005",
+          "question": "The students received their prizes at the ___.",
+          "options": [
+            "machine",
+            "ceremony",
+            "notebook",
+            "factory"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "ceremony 指典禮或儀式。"
+        },
+        {
+          "id": "h1-3-u4-cq014",
+          "vocab_id": "h1-3-u4-v005",
+          "question": "The school held a ___ to welcome the new students.",
+          "options": [
+            "factory",
+            "machine",
+            "ceremony",
+            "notebook"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "ceremony 指典禮或儀式。"
+        },
+        {
+          "id": "h1-3-u4-cq015",
+          "vocab_id": "h1-3-u4-v005",
+          "question": "Everyone stood quietly during the flag-raising ___.",
+          "options": [
+            "factory",
+            "notebook",
+            "ceremony",
+            "machine"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "ceremony 指典禮或儀式。"
+        },
+        {
+          "id": "h1-3-u4-cq016",
+          "vocab_id": "h1-3-u4-v006",
+          "question": "There is an ___ in your answer. Please check it again.",
+          "options": [
+            "answer",
+            "gift",
+            "lesson",
+            "error"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "error 指錯誤；需要更正的地方是線索。"
+        },
+        {
+          "id": "h1-3-u4-cq017",
+          "vocab_id": "h1-3-u4-v006",
+          "question": "I made an ___ when I typed your name.",
+          "options": [
+            "answer",
+            "lesson",
+            "error",
+            "gift"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "error 指錯誤；需要更正的地方是線索。"
+        },
+        {
+          "id": "h1-3-u4-cq018",
+          "vocab_id": "h1-3-u4-v006",
+          "question": "The program stopped because of a computer ___.",
+          "options": [
+            "lesson",
+            "error",
+            "gift",
+            "answer"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "error 指錯誤；需要更正的地方是線索。"
+        },
+        {
+          "id": "h1-3-u4-cq019",
+          "vocab_id": "h1-3-u4-v007",
+          "question": "The driver will ___ the package to your house.",
+          "options": [
+            "hide",
+            "deliver",
+            "break",
+            "borrow"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "deliver 指遞送，將信件或物品送到收件處。"
+        },
+        {
+          "id": "h1-3-u4-cq020",
+          "vocab_id": "h1-3-u4-v007",
+          "question": "Can this shop ___ our food before noon?",
+          "options": [
+            "hide",
+            "deliver",
+            "break",
+            "borrow"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "deliver 指遞送，將信件或物品送到收件處。"
+        }
+      ]
     }
   }
 }

@@ -135,7 +135,289 @@
           { "id": "gg-u1-sg029", "sentence": "He is from Australia.", "sentence_chinese": "他來自澳洲。" },
           { "id": "gg-u1-sg030", "sentence": "She's from Singapore.", "sentence_chinese": "她來自新加坡。" }
         ]
-      }
+      },
+      "cloze_quiz": [
+        {
+          "id": "gg-u1-cq001",
+          "vocab_id": "gg-u1-v003",
+          "question": "Tokyo is a city in ___.",
+          "options": [
+            "Japan",
+            "Spain",
+            "India",
+            "Australia"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "Japan 是日本；Tokyo（東京）是線索。"
+        },
+        {
+          "id": "gg-u1-cq002",
+          "vocab_id": "gg-u1-v003",
+          "question": "My friend lives in Tokyo, ___.",
+          "options": [
+            "Australia",
+            "Spain",
+            "Japan",
+            "India"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "Japan 是日本；Tokyo（東京）是線索。"
+        },
+        {
+          "id": "gg-u1-cq003",
+          "vocab_id": "gg-u1-v003",
+          "question": "We are going to Tokyo in ___ this summer.",
+          "options": [
+            "Japan",
+            "India",
+            "Spain",
+            "Australia"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "Japan 是日本；Tokyo（東京）是線索。"
+        },
+        {
+          "id": "gg-u1-cq004",
+          "vocab_id": "gg-u1-v001",
+          "question": "Sydney is a city in ___.",
+          "options": [
+            "Japan",
+            "Australia",
+            "India",
+            "Spain"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "Australia 是澳洲；Sydney（雪梨）是線索。"
+        },
+        {
+          "id": "gg-u1-cq005",
+          "vocab_id": "gg-u1-v001",
+          "question": "My uncle lives in Sydney, ___.",
+          "options": [
+            "Spain",
+            "Australia",
+            "Japan",
+            "India"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "Australia 是澳洲；Sydney（雪梨）是線索。"
+        },
+        {
+          "id": "gg-u1-cq006",
+          "vocab_id": "gg-u1-v001",
+          "question": "We want to visit Sydney in ___.",
+          "options": [
+            "Spain",
+            "India",
+            "Japan",
+            "Australia"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "Australia 是澳洲；Sydney（雪梨）是線索。"
+        },
+        {
+          "id": "gg-u1-cq007",
+          "vocab_id": "gg-u1-v006",
+          "question": "Taipei is in ___.",
+          "options": [
+            "India",
+            "Japan",
+            "Spain",
+            "Taiwan"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "Taiwan 是臺灣；Taipei（臺北）是線索。"
+        },
+        {
+          "id": "gg-u1-cq008",
+          "vocab_id": "gg-u1-v006",
+          "question": "We live in Taipei, ___.",
+          "options": [
+            "Japan",
+            "India",
+            "Taiwan",
+            "Spain"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "Taiwan 是臺灣；Taipei（臺北）是線索。"
+        },
+        {
+          "id": "gg-u1-cq009",
+          "vocab_id": "gg-u1-v006",
+          "question": "My friend wants to visit Taipei in ___.",
+          "options": [
+            "India",
+            "Taiwan",
+            "Japan",
+            "Spain"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "Taiwan 是臺灣；Taipei（臺北）是線索。"
+        },
+        {
+          "id": "gg-u1-cq010",
+          "vocab_id": "gg-u1-v007",
+          "question": "London is in ___.",
+          "options": [
+            "Japan",
+            "the UK",
+            "India",
+            "the USA"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "the UK 指英國；London（倫敦）是線索。"
+        },
+        {
+          "id": "gg-u1-cq011",
+          "vocab_id": "gg-u1-v007",
+          "question": "My aunt lives in London, ___.",
+          "options": [
+            "the UK",
+            "India",
+            "the USA",
+            "Japan"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "the UK 指英國；London（倫敦）是線索。"
+        },
+        {
+          "id": "gg-u1-cq012",
+          "vocab_id": "gg-u1-v007",
+          "question": "We are visiting London in ___ this year.",
+          "options": [
+            "the UK",
+            "the USA",
+            "India",
+            "Japan"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "the UK 指英國；London（倫敦）是線索。"
+        },
+        {
+          "id": "gg-u1-cq013",
+          "vocab_id": "gg-u1-v008",
+          "question": "New York is in ___.",
+          "options": [
+            "Japan",
+            "Spain",
+            "the USA",
+            "the UK"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "the USA 指美國；New York（紐約）是線索。"
+        },
+        {
+          "id": "gg-u1-cq014",
+          "vocab_id": "gg-u1-v008",
+          "question": "My cousin lives in New York, ___.",
+          "options": [
+            "Japan",
+            "the UK",
+            "Spain",
+            "the USA"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "the USA 指美國；New York（紐約）是線索。"
+        },
+        {
+          "id": "gg-u1-cq015",
+          "vocab_id": "gg-u1-v008",
+          "question": "We want to see New York in ___.",
+          "options": [
+            "Spain",
+            "Japan",
+            "the USA",
+            "the UK"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "the USA 指美國；New York（紐約）是線索。"
+        },
+        {
+          "id": "gg-u1-cq016",
+          "vocab_id": "gg-u1-v002",
+          "question": "New Delhi is in ___.",
+          "options": [
+            "Australia",
+            "Japan",
+            "Spain",
+            "India"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "India 是印度；New Delhi（新德里）是線索。"
+        },
+        {
+          "id": "gg-u1-cq017",
+          "vocab_id": "gg-u1-v002",
+          "question": "Our friend lives in New Delhi, ___.",
+          "options": [
+            "Japan",
+            "India",
+            "Australia",
+            "Spain"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "India 是印度；New Delhi（新德里）是線索。"
+        },
+        {
+          "id": "gg-u1-cq018",
+          "vocab_id": "gg-u1-v002",
+          "question": "We will visit New Delhi in ___.",
+          "options": [
+            "Japan",
+            "Australia",
+            "India",
+            "Spain"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "India 是印度；New Delhi（新德里）是線索。"
+        },
+        {
+          "id": "gg-u1-cq019",
+          "vocab_id": "gg-u1-v005",
+          "question": "Madrid is in ___.",
+          "options": [
+            "Spain",
+            "Japan",
+            "India",
+            "Australia"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "Spain 是西班牙；Madrid（馬德里）是線索。"
+        },
+        {
+          "id": "gg-u1-cq020",
+          "vocab_id": "gg-u1-v005",
+          "question": "My teacher comes from Madrid, ___.",
+          "options": [
+            "Australia",
+            "Japan",
+            "India",
+            "Spain"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "Spain 是西班牙；Madrid（馬德里）是線索。"
+        }
+      ]
     }
   }
 }

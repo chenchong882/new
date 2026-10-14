@@ -133,7 +133,289 @@
           { "id": "gd-u2-sg029", "sentence": "Yes, she can.", "sentence_chinese": "是的，她能。" },
           { "id": "gd-u2-sg030", "sentence": "Can he read?", "sentence_chinese": "他能閱讀嗎？" }
         ]
-      }
+      },
+      "cloze_quiz": [
+        {
+          "id": "gd-u2-cq001",
+          "vocab_id": "gd-u2-v001",
+          "question": "I move my body to music. I can ___.",
+          "options": [
+            "read",
+            "swim",
+            "dance",
+            "draw"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "dance 是跳舞，身體隨著音樂移動。"
+        },
+        {
+          "id": "gd-u2-cq002",
+          "vocab_id": "gd-u2-v001",
+          "question": "The music is playing. Let us ___.",
+          "options": [
+            "draw",
+            "swim",
+            "dance",
+            "read"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "dance 是跳舞，身體隨著音樂移動。"
+        },
+        {
+          "id": "gd-u2-cq003",
+          "vocab_id": "gd-u2-v001",
+          "question": "She moves her feet to the song. She likes to ___.",
+          "options": [
+            "dance",
+            "read",
+            "swim",
+            "draw"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "dance 是跳舞，身體隨著音樂移動。"
+        },
+        {
+          "id": "gd-u2-cq004",
+          "vocab_id": "gd-u2-v002",
+          "question": "I use a pencil to ___ a cat.",
+          "options": [
+            "read",
+            "swim",
+            "sing",
+            "draw"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "draw 是畫畫；用鉛筆畫出圖片是線索。"
+        },
+        {
+          "id": "gd-u2-cq005",
+          "vocab_id": "gd-u2-v002",
+          "question": "Please ___ a picture of your family.",
+          "options": [
+            "read",
+            "swim",
+            "draw",
+            "sing"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "draw 是畫畫；用鉛筆畫出圖片是線索。"
+        },
+        {
+          "id": "gd-u2-cq006",
+          "vocab_id": "gd-u2-v002",
+          "question": "Can you ___ a flower on this paper?",
+          "options": [
+            "draw",
+            "sing",
+            "swim",
+            "read"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "draw 是畫畫；用鉛筆畫出圖片是線索。"
+        },
+        {
+          "id": "gd-u2-cq007",
+          "vocab_id": "gd-u2-v003",
+          "question": "A bird spreads its wings to ___ above the trees.",
+          "options": [
+            "draw",
+            "fly",
+            "sing",
+            "read"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "fly 是飛；在空中移動是線索。"
+        },
+        {
+          "id": "gd-u2-cq008",
+          "vocab_id": "gd-u2-v003",
+          "question": "A plane can ___ above the clouds.",
+          "options": [
+            "draw",
+            "fly",
+            "read",
+            "sing"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "fly 是飛；在空中移動是線索。"
+        },
+        {
+          "id": "gd-u2-cq009",
+          "vocab_id": "gd-u2-v003",
+          "question": "Butterflies ___ from flower to flower.",
+          "options": [
+            "sing",
+            "draw",
+            "fly",
+            "read"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "fly 是飛；在空中移動是線索。"
+        },
+        {
+          "id": "gd-u2-cq010",
+          "vocab_id": "gd-u2-v004",
+          "question": "Can you ___ over this small box?",
+          "options": [
+            "draw",
+            "jump",
+            "read",
+            "sing"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "jump 是跳躍；雙腳離地或越過障礙是線索。"
+        },
+        {
+          "id": "gd-u2-cq011",
+          "vocab_id": "gd-u2-v004",
+          "question": "Frogs can ___ with their strong back legs.",
+          "options": [
+            "read",
+            "draw",
+            "sing",
+            "jump"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "jump 是跳躍；雙腳離地或越過障礙是線索。"
+        },
+        {
+          "id": "gd-u2-cq012",
+          "vocab_id": "gd-u2-v004",
+          "question": "Bend your knees and ___ up high!",
+          "options": [
+            "jump",
+            "read",
+            "draw",
+            "sing"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "jump 是跳躍；雙腳離地或越過障礙是線索。"
+        },
+        {
+          "id": "gd-u2-cq013",
+          "vocab_id": "gd-u2-v005",
+          "question": "I open a book and ___ the story.",
+          "options": [
+            "dance",
+            "draw",
+            "read",
+            "swim"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "read 是閱讀；書本的文字是線索。"
+        },
+        {
+          "id": "gd-u2-cq014",
+          "vocab_id": "gd-u2-v005",
+          "question": "Please ___ these words out loud.",
+          "options": [
+            "read",
+            "draw",
+            "dance",
+            "swim"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "read 是閱讀；書本的文字是線索。"
+        },
+        {
+          "id": "gd-u2-cq015",
+          "vocab_id": "gd-u2-v005",
+          "question": "Can you ___ the words on this page?",
+          "options": [
+            "dance",
+            "read",
+            "swim",
+            "draw"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "read 是閱讀；書本的文字是線索。"
+        },
+        {
+          "id": "gd-u2-cq016",
+          "vocab_id": "gd-u2-v006",
+          "question": "We ___ a song on her birthday.",
+          "options": [
+            "sing",
+            "read",
+            "draw",
+            "swim"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "sing 是唱歌；用聲音唱歌曲是線索。"
+        },
+        {
+          "id": "gd-u2-cq017",
+          "vocab_id": "gd-u2-v006",
+          "question": "She has a lovely voice and can ___ well.",
+          "options": [
+            "swim",
+            "read",
+            "draw",
+            "sing"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "sing 是唱歌；用聲音唱歌曲是線索。"
+        },
+        {
+          "id": "gd-u2-cq018",
+          "vocab_id": "gd-u2-v006",
+          "question": "Let us ___ this English song together.",
+          "options": [
+            "draw",
+            "read",
+            "swim",
+            "sing"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "sing 是唱歌；用聲音唱歌曲是線索。"
+        },
+        {
+          "id": "gd-u2-cq019",
+          "vocab_id": "gd-u2-v007",
+          "question": "Fish can ___ in the water.",
+          "options": [
+            "draw",
+            "read",
+            "fly",
+            "swim"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "swim 是游泳；在泳池的水中移動是線索。"
+        },
+        {
+          "id": "gd-u2-cq020",
+          "vocab_id": "gd-u2-v007",
+          "question": "We ___ in the pool on hot days.",
+          "options": [
+            "draw",
+            "swim",
+            "fly",
+            "read"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "swim 是游泳；在泳池的水中移動是線索。"
+        }
+      ]
     }
   }
 }

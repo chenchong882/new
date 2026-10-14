@@ -187,7 +187,289 @@
           {"id":"m1-1-u2-sg029","sentence":"This bear's lifespan is about thirty years.","sentence_chinese":"這隻熊的壽命大約是三十年。"},
           {"id":"m1-1-u2-sg030","sentence":"These animals' sizes are very different.","sentence_chinese":"這些動物的體型非常不同。"}
         ]
-      }
+      },
+      "cloze_quiz": [
+        {
+          "id": "m1-1-u2-cq001",
+          "vocab_id": "m1-1-u2-v001",
+          "question": "The ___ uses its hands to swing from branch to branch.",
+          "options": [
+            "sheep",
+            "horse",
+            "monkey",
+            "snake"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "monkey 是猴子；用手攀爬樹枝是線索。"
+        },
+        {
+          "id": "m1-1-u2-cq002",
+          "vocab_id": "m1-1-u2-v003",
+          "question": "The farmer cuts wool from the ___.",
+          "options": [
+            "lion",
+            "tiger",
+            "fox",
+            "sheep"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "sheep 是綿羊；身上的羊毛是線索。"
+        },
+        {
+          "id": "m1-1-u2-cq003",
+          "vocab_id": "m1-1-u2-v004",
+          "question": "The ___ has orange fur and black stripes.",
+          "options": [
+            "bear",
+            "tiger",
+            "zebra",
+            "lion"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "tiger 是老虎；橘色毛皮和黑色條紋是線索。"
+        },
+        {
+          "id": "m1-1-u2-cq004",
+          "vocab_id": "m1-1-u2-v005",
+          "question": "The ___ looks like a horse with black and white stripes.",
+          "options": [
+            "lion",
+            "bear",
+            "tiger",
+            "zebra"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "zebra 是斑馬；像馬、黑白條紋是線索。"
+        },
+        {
+          "id": "m1-1-u2-cq005",
+          "vocab_id": "m1-1-u2-v006",
+          "question": "The male ___ has a thick mane around its head.",
+          "options": [
+            "snake",
+            "lion",
+            "mouse",
+            "zebra"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "lion 是獅子；雄獅頸部有鬃毛是線索。"
+        },
+        {
+          "id": "m1-1-u2-cq006",
+          "vocab_id": "m1-1-u2-v007",
+          "question": "A tiny ___ with a long thin tail ran behind the cupboard.",
+          "options": [
+            "mouse",
+            "elephant",
+            "horse",
+            "goat"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "mouse 是老鼠；體型很小、長尾巴是線索。"
+        },
+        {
+          "id": "m1-1-u2-cq007",
+          "vocab_id": "m1-1-u2-v008",
+          "question": "A large brown ___ with thick fur walked out of the forest.",
+          "options": [
+            "snake",
+            "zebra",
+            "rooster",
+            "bear"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "bear 是熊；大身軀、厚毛和強壯爪子是線索。"
+        },
+        {
+          "id": "m1-1-u2-cq008",
+          "vocab_id": "m1-1-u2-v009",
+          "question": "We bought tickets and watched a film at the ___.",
+          "options": [
+            "market",
+            "school",
+            "movie theater",
+            "hospital"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "movie theater 是電影院；大銀幕看電影是線索。"
+        },
+        {
+          "id": "m1-1-u2-cq009",
+          "vocab_id": "m1-1-u2-v011",
+          "question": "A cat is an ___, not a plant.",
+          "options": [
+            "machine",
+            "building",
+            "animal",
+            "plant"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "animal 是動物；貓和狗都是動物。"
+        },
+        {
+          "id": "m1-1-u2-cq010",
+          "vocab_id": "m1-1-u2-v012",
+          "question": "The ___ on the wall says \"No Smoking.\"",
+          "options": [
+            "sign",
+            "cloud",
+            "meal",
+            "river"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "sign 是標誌或告示牌；上面的文字提醒人們。"
+        },
+        {
+          "id": "m1-1-u2-cq011",
+          "vocab_id": "m1-1-u2-v015",
+          "question": "The ___ has long ears and a short fluffy tail.",
+          "options": [
+            "snake",
+            "fish",
+            "rooster",
+            "rabbit"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "rabbit 是兔子；長耳朵、短尾巴是線索。"
+        },
+        {
+          "id": "m1-1-u2-cq012",
+          "vocab_id": "m1-1-u2-v017",
+          "question": "The ___ moves along the ground without any legs.",
+          "options": [
+            "horse",
+            "snake",
+            "goat",
+            "rabbit"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "snake 是蛇；長身體、沒有腿是線索。"
+        },
+        {
+          "id": "m1-1-u2-cq013",
+          "vocab_id": "m1-1-u2-v018",
+          "question": "She put a saddle on the ___ and rode it.",
+          "options": [
+            "rooster",
+            "mouse",
+            "horse",
+            "fox"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "horse 是馬；馬鞍和騎乘是線索。"
+        },
+        {
+          "id": "m1-1-u2-cq014",
+          "vocab_id": "m1-1-u2-v020",
+          "question": "The ___ woke us up with its loud crowing.",
+          "options": [
+            "rooster",
+            "snake",
+            "elephant",
+            "fox"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "rooster 是公雞；早晨啼叫是線索。"
+        },
+        {
+          "id": "m1-1-u2-cq015",
+          "vocab_id": "m1-1-u2-v021",
+          "question": "The ___ child solved the difficult puzzle quickly.",
+          "options": [
+            "smart",
+            "careless",
+            "lazy",
+            "sleepy"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "smart 是聰明的；很快解決難題是線索。"
+        },
+        {
+          "id": "m1-1-u2-cq016",
+          "vocab_id": "m1-1-u2-v022",
+          "question": "The ___ puppy keeps running and playing all day.",
+          "options": [
+            "tired",
+            "sleepy",
+            "energetic",
+            "weak"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "energetic 是精力充沛的；跑跳很久不累。"
+        },
+        {
+          "id": "m1-1-u2-cq017",
+          "vocab_id": "m1-1-u2-v026",
+          "question": "She hung a ___ of her family on the wall.",
+          "options": [
+            "sound",
+            "picture",
+            "taste",
+            "smell"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "picture 是圖片；可以掛在牆上觀看。"
+        },
+        {
+          "id": "m1-1-u2-cq018",
+          "vocab_id": "m1-1-u2-v027",
+          "question": "The ___ uses its long trunk to pick up food.",
+          "options": [
+            "horse",
+            "elephant",
+            "tiger",
+            "lion"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "elephant 是大象；長鼻子和大耳朵是線索。"
+        },
+        {
+          "id": "m1-1-u2-cq019",
+          "vocab_id": "m1-1-u2-v029",
+          "question": "This shirt is too small. Do you have a larger ___?",
+          "options": [
+            "size",
+            "age",
+            "color",
+            "name"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "size 是尺寸；衣服穿起來太小是線索。"
+        },
+        {
+          "id": "m1-1-u2-cq020",
+          "vocab_id": "m1-1-u2-v036",
+          "question": "The ___ of this animal is about ten years.",
+          "options": [
+            "color",
+            "address",
+            "weight",
+            "lifespan"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "lifespan 是壽命；能活多久是線索。"
+        }
+      ]
     }
   }
 }

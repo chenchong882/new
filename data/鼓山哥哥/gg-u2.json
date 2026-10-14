@@ -135,7 +135,289 @@
           { "id": "gg-u2-sg029", "sentence": "She goes to school on foot.", "sentence_chinese": "她走路上學。" },
           { "id": "gg-u2-sg030", "sentence": "He goes to school by MRT.", "sentence_chinese": "他搭捷運上學。" }
         ]
-      }
+      },
+      "cloze_quiz": [
+        {
+          "id": "gg-u2-cq001",
+          "vocab_id": "gg-u2-v001",
+          "question": "I pedal to school. I go to school ___.",
+          "options": [
+            "by bike",
+            "on foot",
+            "by bus",
+            "by car"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "by bike 指騎腳踏車；踩踏板是線索。"
+        },
+        {
+          "id": "gg-u2-cq002",
+          "vocab_id": "gg-u2-v001",
+          "question": "She rides her bicycle to the park. She goes there ___.",
+          "options": [
+            "by bus",
+            "on foot",
+            "by car",
+            "by bike"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "by bike 指騎腳踏車；踩踏板是線索。"
+        },
+        {
+          "id": "gg-u2-cq003",
+          "vocab_id": "gg-u2-v001",
+          "question": "My bike is ready. Today I will travel ___.",
+          "options": [
+            "by bus",
+            "on foot",
+            "by bike",
+            "by car"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "by bike 指騎腳踏車；踩踏板是線索。"
+        },
+        {
+          "id": "gg-u2-cq004",
+          "vocab_id": "gg-u2-v002",
+          "question": "We wait at the bus stop because we go to school ___.",
+          "options": [
+            "on foot",
+            "by bus",
+            "by bike",
+            "by car"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "by bus 指搭公車；公車站和公車司機是線索。"
+        },
+        {
+          "id": "gg-u2-cq005",
+          "vocab_id": "gg-u2-v002",
+          "question": "Many students ride the same bus. They travel ___.",
+          "options": [
+            "by bike",
+            "by car",
+            "on foot",
+            "by bus"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "by bus 指搭公車；公車站和公車司機是線索。"
+        },
+        {
+          "id": "gg-u2-cq006",
+          "vocab_id": "gg-u2-v002",
+          "question": "The bus driver takes us to school. We go ___.",
+          "options": [
+            "by bike",
+            "by car",
+            "on foot",
+            "by bus"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "by bus 指搭公車；公車站和公車司機是線索。"
+        },
+        {
+          "id": "gg-u2-cq007",
+          "vocab_id": "gg-u2-v003",
+          "question": "Dad drives me to school. I go ___.",
+          "options": [
+            "by car",
+            "by bike",
+            "on foot",
+            "by train"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "by car 指搭汽車；爸爸開車載我是線索。"
+        },
+        {
+          "id": "gg-u2-cq008",
+          "vocab_id": "gg-u2-v003",
+          "question": "We sit in Mom's car and travel ___.",
+          "options": [
+            "by car",
+            "on foot",
+            "by train",
+            "by bike"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "by car 指搭汽車；爸爸開車載我是線索。"
+        },
+        {
+          "id": "gg-u2-cq009",
+          "vocab_id": "gg-u2-v003",
+          "question": "Dad puts our bags in his car. We will go ___.",
+          "options": [
+            "on foot",
+            "by bike",
+            "by car",
+            "by train"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "by car 指搭汽車；爸爸開車載我是線索。"
+        },
+        {
+          "id": "gg-u2-cq010",
+          "vocab_id": "gg-u2-v008",
+          "question": "I walk to school. I go ___.",
+          "options": [
+            "by taxi",
+            "on foot",
+            "by train",
+            "by bus"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "on foot 指步行，不搭乘交通工具。"
+        },
+        {
+          "id": "gg-u2-cq011",
+          "vocab_id": "gg-u2-v008",
+          "question": "The shop is close, so I walk there ___.",
+          "options": [
+            "by train",
+            "on foot",
+            "by bus",
+            "by taxi"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "on foot 指步行，不搭乘交通工具。"
+        },
+        {
+          "id": "gg-u2-cq012",
+          "vocab_id": "gg-u2-v008",
+          "question": "We use no bike or car. We go to the park ___.",
+          "options": [
+            "by taxi",
+            "by train",
+            "on foot",
+            "by bus"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "on foot 指步行，不搭乘交通工具。"
+        },
+        {
+          "id": "gg-u2-cq013",
+          "vocab_id": "gg-u2-v007",
+          "question": "I bought a train ticket. I will travel ___.",
+          "options": [
+            "by train",
+            "on foot",
+            "by scooter",
+            "by bike"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "by train 指搭火車；鐵軌或火車票是線索。"
+        },
+        {
+          "id": "gg-u2-cq014",
+          "vocab_id": "gg-u2-v007",
+          "question": "Our train is leaving the station. We are going ___.",
+          "options": [
+            "by scooter",
+            "on foot",
+            "by train",
+            "by bike"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "by train 指搭火車；鐵軌或火車票是線索。"
+        },
+        {
+          "id": "gg-u2-cq015",
+          "vocab_id": "gg-u2-v007",
+          "question": "We ride on the railway to another city. We travel ___.",
+          "options": [
+            "by bike",
+            "by train",
+            "on foot",
+            "by scooter"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "by train 指搭火車；鐵軌或火車票是線索。"
+        },
+        {
+          "id": "gg-u2-cq016",
+          "vocab_id": "gg-u2-v006",
+          "question": "We paid the taxi driver after going home ___.",
+          "options": [
+            "by bike",
+            "by scooter",
+            "on foot",
+            "by taxi"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "by taxi 指搭計程車；付車資給計程車司機是線索。"
+        },
+        {
+          "id": "gg-u2-cq017",
+          "vocab_id": "gg-u2-v006",
+          "question": "Dad called a taxi. We will go to the hotel ___.",
+          "options": [
+            "by scooter",
+            "by taxi",
+            "by bike",
+            "on foot"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "by taxi 指搭計程車；付車資給計程車司機是線索。"
+        },
+        {
+          "id": "gg-u2-cq018",
+          "vocab_id": "gg-u2-v006",
+          "question": "The taxi stopped for us. We went to the station ___.",
+          "options": [
+            "by bike",
+            "by scooter",
+            "on foot",
+            "by taxi"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "by taxi 指搭計程車；付車資給計程車司機是線索。"
+        },
+        {
+          "id": "gg-u2-cq019",
+          "vocab_id": "gg-u2-v004",
+          "question": "I meet Mom at the MRT station. We go home ___.",
+          "options": [
+            "by scooter",
+            "on foot",
+            "by MRT",
+            "by bike"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "by MRT 指搭捷運；捷運站是線索。"
+        },
+        {
+          "id": "gg-u2-cq020",
+          "vocab_id": "gg-u2-v004",
+          "question": "The MRT is fast. Let us go to the museum ___.",
+          "options": [
+            "by MRT",
+            "on foot",
+            "by scooter",
+            "by bike"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "by MRT 指搭捷運；捷運站是線索。"
+        }
+      ]
     }
   }
 }

@@ -1293,7 +1293,289 @@
             "sentence_chinese": "不，他們不是知名的歌手或作家。"
           }
         ]
-      }
+      },
+      "cloze_quiz": [
+        {
+          "id": "m1-1-u1-cq001",
+          "vocab_id": "m1-1-u1-v001",
+          "question": "That ___ man looks like a movie star.",
+          "options": [
+            "angry",
+            "sick",
+            "ugly",
+            "handsome"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "handsome 是英俊的；稱讚男性外表好看。"
+        },
+        {
+          "id": "m1-1-u1-cq002",
+          "vocab_id": "m1-1-u1-v002",
+          "question": "This bag is ___. I bought it today and have not used it.",
+          "options": [
+            "new",
+            "dirty",
+            "old",
+            "broken"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "new 是新的；剛買、沒有用過是線索。"
+        },
+        {
+          "id": "m1-1-u1-cq003",
+          "vocab_id": "m1-1-u1-v003",
+          "question": "Ben and I are in Class 101. He is my ___.",
+          "options": [
+            "classmate",
+            "parent",
+            "uncle",
+            "aunt"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "classmate 是同班同學；一起在同一班上課。"
+        },
+        {
+          "id": "m1-1-u1-cq004",
+          "vocab_id": "m1-1-u1-v004",
+          "question": "My sister is still very ___. She is only two.",
+          "options": [
+            "heavy",
+            "young",
+            "old",
+            "tall"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "young 是年輕的；年紀小是線索。"
+        },
+        {
+          "id": "m1-1-u1-cq005",
+          "vocab_id": "m1-1-u1-v005",
+          "question": "That ___ is my mother.",
+          "options": [
+            "boy",
+            "woman",
+            "man",
+            "son"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "woman 是成年女性；mother 是女性。"
+        },
+        {
+          "id": "m1-1-u1-cq006",
+          "vocab_id": "m1-1-u1-v007",
+          "question": "What ___ flowers! Their colors are lovely.",
+          "options": [
+            "dirty",
+            "broken",
+            "beautiful",
+            "ugly"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "beautiful 是美麗的；稱讚外觀是線索。"
+        },
+        {
+          "id": "m1-1-u1-cq007",
+          "vocab_id": "m1-1-u1-v010",
+          "question": "My aunt has a daughter. She is my ___.",
+          "options": [
+            "father",
+            "son",
+            "cousin",
+            "brother"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "cousin 是堂表兄弟姊妹；阿姨的孩子。"
+        },
+        {
+          "id": "m1-1-u1-cq008",
+          "vocab_id": "m1-1-u1-v014",
+          "question": "The ___ sings our favorite song on stage.",
+          "options": [
+            "singer",
+            "farmer",
+            "driver",
+            "doctor"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "singer 是歌手；在舞臺上唱歌是線索。"
+        },
+        {
+          "id": "m1-1-u1-cq009",
+          "vocab_id": "m1-1-u1-v015",
+          "question": "He works at a desk in an office. He is an ___.",
+          "options": [
+            "farmer",
+            "police officer",
+            "office worker",
+            "singer"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "office worker 是辦公室職員；在辦公室工作是線索。"
+        },
+        {
+          "id": "m1-1-u1-cq010",
+          "vocab_id": "m1-1-u1-v017",
+          "question": "The ___ caught the thief.",
+          "options": [
+            "writer",
+            "police officer",
+            "singer",
+            "farmer"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "police officer 是警察；追捕小偷、維護安全。"
+        },
+        {
+          "id": "m1-1-u1-cq011",
+          "vocab_id": "m1-1-u1-v018",
+          "question": "This ___ writes stories for children.",
+          "options": [
+            "driver",
+            "farmer",
+            "writer",
+            "nurse"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "writer 是作家；寫故事或書籍是線索。"
+        },
+        {
+          "id": "m1-1-u1-cq012",
+          "vocab_id": "m1-1-u1-v019",
+          "question": "My dad's brother is my ___.",
+          "options": [
+            "uncle",
+            "brother",
+            "father",
+            "son"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "uncle 是叔叔或舅舅；爸爸的兄弟。"
+        },
+        {
+          "id": "m1-1-u1-cq013",
+          "vocab_id": "m1-1-u1-v020",
+          "question": "My mom's sister is my ___.",
+          "options": [
+            "mother",
+            "daughter",
+            "sister",
+            "aunt"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "aunt 是姑姑或阿姨；媽媽的姊妹。"
+        },
+        {
+          "id": "m1-1-u1-cq014",
+          "vocab_id": "m1-1-u1-v021",
+          "question": "Anna is married to Jack. She is his ___.",
+          "options": [
+            "sister",
+            "aunt",
+            "wife",
+            "daughter"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "wife 是妻子；已婚男性的配偶。"
+        },
+        {
+          "id": "m1-1-u1-cq015",
+          "vocab_id": "m1-1-u1-v022",
+          "question": "Their little girl is their ___.",
+          "options": [
+            "husband",
+            "uncle",
+            "son",
+            "daughter"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "daughter 是女兒；父母的女性孩子。"
+        },
+        {
+          "id": "m1-1-u1-cq016",
+          "vocab_id": "m1-1-u1-v023",
+          "question": "Jack is married to Anna. He is her ___.",
+          "options": [
+            "son",
+            "husband",
+            "uncle",
+            "brother"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "husband 是丈夫；已婚女性的配偶。"
+        },
+        {
+          "id": "m1-1-u1-cq017",
+          "vocab_id": "m1-1-u1-v024",
+          "question": "Their little boy is their ___.",
+          "options": [
+            "son",
+            "mother",
+            "daughter",
+            "wife"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "son 是兒子；父母的男性孩子。"
+        },
+        {
+          "id": "m1-1-u1-cq018",
+          "vocab_id": "m1-1-u1-v026",
+          "question": "Mom, Dad, my sister, and I are a ___.",
+          "options": [
+            "class",
+            "team",
+            "club",
+            "family"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "family 是家人或家庭；父母和孩子是一家人。"
+        },
+        {
+          "id": "m1-1-u1-cq019",
+          "vocab_id": "m1-1-u1-v029",
+          "question": "The ___ was born this morning.",
+          "options": [
+            "driver",
+            "teacher",
+            "farmer",
+            "baby"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "baby 是嬰兒；剛出生是線索。"
+        },
+        {
+          "id": "m1-1-u1-cq020",
+          "vocab_id": "m1-1-u1-v028",
+          "question": "After elementary school, students in Taiwan go to ___.",
+          "options": [
+            "kindergarten",
+            "junior high school",
+            "elementary school",
+            "university"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "junior high school 是國中；完成小學後就讀。"
+        }
+      ]
     }
   }
 }

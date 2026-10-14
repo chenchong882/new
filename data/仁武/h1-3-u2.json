@@ -168,7 +168,289 @@
           }
         ],
         "grammar": []
-      }
+      },
+      "cloze_quiz": [
+        {
+          "id": "h1-3-u2-cq001",
+          "vocab_id": "h1-3-u2-v001",
+          "question": "Turn off unused lights to ___ wasted electricity.",
+          "options": [
+            "count",
+            "increase",
+            "minimize",
+            "describe"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "minimize 指盡量減少；讓傷害或浪費降到最低是線索。"
+        },
+        {
+          "id": "h1-3-u2-cq002",
+          "vocab_id": "h1-3-u2-v001",
+          "question": "Wear a helmet to ___ the risk of a head injury.",
+          "options": [
+            "increase",
+            "count",
+            "minimize",
+            "describe"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "minimize 指盡量減少；讓傷害或浪費降到最低是線索。"
+        },
+        {
+          "id": "h1-3-u2-cq003",
+          "vocab_id": "h1-3-u2-v001",
+          "question": "We should ___ food waste by buying only what we need.",
+          "options": [
+            "increase",
+            "minimize",
+            "count",
+            "describe"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "minimize 指盡量減少；讓傷害或浪費降到最低是線索。"
+        },
+        {
+          "id": "h1-3-u2-cq004",
+          "vocab_id": "h1-3-u2-v002",
+          "question": "Please follow each step of the safety ___.",
+          "options": [
+            "holiday",
+            "weather",
+            "address",
+            "procedure"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "procedure 指一套步驟或程序。"
+        },
+        {
+          "id": "h1-3-u2-cq005",
+          "vocab_id": "h1-3-u2-v002",
+          "question": "The nurse explained the ___ before the test.",
+          "options": [
+            "procedure",
+            "weather",
+            "holiday",
+            "address"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "procedure 指一套步驟或程序。"
+        },
+        {
+          "id": "h1-3-u2-cq006",
+          "vocab_id": "h1-3-u2-v002",
+          "question": "There is a special ___ for reporting a fire at school.",
+          "options": [
+            "weather",
+            "holiday",
+            "address",
+            "procedure"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "procedure 指一套步驟或程序。"
+        },
+        {
+          "id": "h1-3-u2-cq007",
+          "vocab_id": "h1-3-u2-v003",
+          "question": "Wear ___ glasses to keep dust out of your eyes.",
+          "options": [
+            "wooden",
+            "ordinary",
+            "protective",
+            "careless"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "protective 指有保護作用的；避免受傷是線索。"
+        },
+        {
+          "id": "h1-3-u2-cq008",
+          "vocab_id": "h1-3-u2-v003",
+          "question": "Workers wear ___ clothing to avoid getting hurt.",
+          "options": [
+            "protective",
+            "ordinary",
+            "wooden",
+            "careless"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "protective 指有保護作用的；避免受傷是線索。"
+        },
+        {
+          "id": "h1-3-u2-cq009",
+          "vocab_id": "h1-3-u2-v003",
+          "question": "This ___ cover keeps my phone safe when it falls.",
+          "options": [
+            "careless",
+            "wooden",
+            "protective",
+            "ordinary"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "protective 指有保護作用的；避免受傷是線索。"
+        },
+        {
+          "id": "h1-3-u2-cq010",
+          "vocab_id": "h1-3-u2-v004",
+          "question": "A metal ___ stops cars from entering the park.",
+          "options": [
+            "ticket",
+            "barrier",
+            "message",
+            "recipe"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "barrier 指屏障或障礙物，能阻止人或物通過。"
+        },
+        {
+          "id": "h1-3-u2-cq011",
+          "vocab_id": "h1-3-u2-v004",
+          "question": "The workers put up a ___ to keep people away from the hole.",
+          "options": [
+            "barrier",
+            "ticket",
+            "recipe",
+            "message"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "barrier 指屏障或障礙物，能阻止人或物通過。"
+        },
+        {
+          "id": "h1-3-u2-cq012",
+          "vocab_id": "h1-3-u2-v004",
+          "question": "We could not cross the road because a ___ blocked it.",
+          "options": [
+            "recipe",
+            "barrier",
+            "message",
+            "ticket"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "barrier 指屏障或障礙物，能阻止人或物通過。"
+        },
+        {
+          "id": "h1-3-u2-cq013",
+          "vocab_id": "h1-3-u2-v005",
+          "question": "The firefighters checked their ___ before leaving the station.",
+          "options": [
+            "equipment",
+            "homework",
+            "furniture",
+            "advice"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "equipment 是執行工作或活動所需的設備器材。"
+        },
+        {
+          "id": "h1-3-u2-cq014",
+          "vocab_id": "h1-3-u2-v005",
+          "question": "We need safety ___, including helmets, for the climbing trip.",
+          "options": [
+            "advice",
+            "homework",
+            "furniture",
+            "equipment"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "equipment 是執行工作或活動所需的設備器材。"
+        },
+        {
+          "id": "h1-3-u2-cq015",
+          "vocab_id": "h1-3-u2-v005",
+          "question": "Turn off the lab ___ after the science experiment.",
+          "options": [
+            "advice",
+            "equipment",
+            "homework",
+            "furniture"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "equipment 是執行工作或活動所需的設備器材。"
+        },
+        {
+          "id": "h1-3-u2-cq016",
+          "vocab_id": "h1-3-u2-v006",
+          "question": "New workers receive safety ___ before using the machines.",
+          "options": [
+            "painting",
+            "reading",
+            "shopping",
+            "training"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "training 指為了學會技能而接受的訓練。"
+        },
+        {
+          "id": "h1-3-u2-cq017",
+          "vocab_id": "h1-3-u2-v006",
+          "question": "The runner does hard ___ to prepare for the race.",
+          "options": [
+            "training",
+            "reading",
+            "painting",
+            "shopping"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "training 指為了學會技能而接受的訓練。"
+        },
+        {
+          "id": "h1-3-u2-cq018",
+          "vocab_id": "h1-3-u2-v006",
+          "question": "Without proper ___, you should not use this machine.",
+          "options": [
+            "reading",
+            "shopping",
+            "training",
+            "painting"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "training 指為了學會技能而接受的訓練。"
+        },
+        {
+          "id": "h1-3-u2-cq019",
+          "vocab_id": "h1-3-u2-v008",
+          "question": "The ___ alarm did not ring during the fire.",
+          "options": [
+            "expensive",
+            "faulty",
+            "new",
+            "perfect"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "faulty 指有故障或缺陷；不能正常運作是線索。"
+        },
+        {
+          "id": "h1-3-u2-cq020",
+          "vocab_id": "h1-3-u2-v008",
+          "question": "This light is ___; it goes off every few seconds.",
+          "options": [
+            "expensive",
+            "perfect",
+            "new",
+            "faulty"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "faulty 指有故障或缺陷；不能正常運作是線索。"
+        }
+      ]
     }
   }
 }

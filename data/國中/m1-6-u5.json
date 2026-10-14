@@ -1225,7 +1225,289 @@
             "sentence_chinese": "我們找到了一個幫助海洋的更好方式。"
           }
         ]
-      }
+      },
+      "cloze_quiz": [
+        {
+          "id": "m1-6-u5-cq001",
+          "vocab_id": "m1-6-u5-v001",
+          "question": "Today is Friday, so Thursday was ___.",
+          "options": [
+            "later",
+            "tomorrow",
+            "soon",
+            "yesterday"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "yesterday 是昨天，即今天的前一天。"
+        },
+        {
+          "id": "m1-6-u5-cq002",
+          "vocab_id": "m1-6-u5-v002",
+          "question": "The children built sandcastles on the ___ by the sea.",
+          "options": [
+            "beach",
+            "forest",
+            "farm",
+            "mountain"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "beach 是海灘；海邊的沙地是線索。"
+        },
+        {
+          "id": "m1-6-u5-cq003",
+          "vocab_id": "m1-6-u5-v003",
+          "question": "Put the ___ in the bin, not on the ground.",
+          "options": [
+            "trash",
+            "money",
+            "water",
+            "food"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "trash 是垃圾；丟進垃圾桶是線索。"
+        },
+        {
+          "id": "m1-6-u5-cq004",
+          "vocab_id": "m1-6-u5-v004",
+          "question": "This photo was taken ten years ___.",
+          "options": [
+            "soon",
+            "ago",
+            "later",
+            "tomorrow"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "ago 表示以前，接在一段時間後。"
+        },
+        {
+          "id": "m1-6-u5-cq005",
+          "vocab_id": "m1-6-u5-v005",
+          "question": "We will ___ Grandma at her home this weekend.",
+          "options": [
+            "sell",
+            "break",
+            "visit",
+            "wash"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "visit 是拜訪、參觀；去看住在外地的家人。"
+        },
+        {
+          "id": "m1-6-u5-cq006",
+          "vocab_id": "m1-6-u5-v006",
+          "question": "The small ___ has water on every side.",
+          "options": [
+            "island",
+            "hill",
+            "road",
+            "river"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "island 是島嶼；四面環水的陸地是線索。"
+        },
+        {
+          "id": "m1-6-u5-cq007",
+          "vocab_id": "m1-6-u5-v007",
+          "question": "We sailed across the salty ___ to another island.",
+          "options": [
+            "pool",
+            "river",
+            "sea",
+            "lake"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "sea 是海；海水含鹽、連著海洋是線索。"
+        },
+        {
+          "id": "m1-6-u5-cq008",
+          "vocab_id": "m1-6-u5-v008",
+          "question": "The traffic light is red. We must ___.",
+          "options": [
+            "start",
+            "continue",
+            "run",
+            "stop"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "stop 是停止；紅燈時停止前進。"
+        },
+        {
+          "id": "m1-6-u5-cq009",
+          "vocab_id": "m1-6-u5-v011",
+          "question": "The water is ___, not too hot or too cold.",
+          "options": [
+            "freezing",
+            "snowy",
+            "icy",
+            "warm"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "warm 是溫暖的；不冷也不太熱是線索。"
+        },
+        {
+          "id": "m1-6-u5-cq010",
+          "vocab_id": "m1-6-u5-v012",
+          "question": "A ___ has many trees and gets a lot of rain.",
+          "options": [
+            "desert",
+            "beach",
+            "rainforest",
+            "city"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "rainforest 是雨林；雨量多、有茂密樹木是線索。"
+        },
+        {
+          "id": "m1-6-u5-cq011",
+          "vocab_id": "m1-6-u5-v016",
+          "question": "I cannot talk now. I am ___ with my homework.",
+          "options": [
+            "empty",
+            "busy",
+            "lazy",
+            "free"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "busy 是忙碌的；很多工作、沒有空是線索。"
+        },
+        {
+          "id": "m1-6-u5-cq012",
+          "vocab_id": "m1-6-u5-v017",
+          "question": "The ___ flows through our town toward the sea.",
+          "options": [
+            "pond",
+            "lake",
+            "pool",
+            "river"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "river 是河流；水沿著河道流向海洋。"
+        },
+        {
+          "id": "m1-6-u5-cq013",
+          "vocab_id": "m1-6-u5-v018",
+          "question": "We rowed a boat on the ___ surrounded by mountains.",
+          "options": [
+            "forest",
+            "hill",
+            "lake",
+            "road"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "lake 是湖；陸地圍住的大面積水域。"
+        },
+        {
+          "id": "m1-6-u5-cq014",
+          "vocab_id": "m1-6-u5-v020",
+          "question": "We climbed to the top of the high ___.",
+          "options": [
+            "lake",
+            "beach",
+            "river",
+            "mountain"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "mountain 是山；高聳的地形頂部可積雪。"
+        },
+        {
+          "id": "m1-6-u5-cq015",
+          "vocab_id": "m1-6-u5-v021",
+          "question": "Let us ___ in tents by the lake tonight.",
+          "options": [
+            "swim",
+            "camp",
+            "shop",
+            "fly"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "camp 是露營；住在帳篷中過夜是線索。"
+        },
+        {
+          "id": "m1-6-u5-cq016",
+          "vocab_id": "m1-6-u5-v022",
+          "question": "The boy can ___ the tree using his hands and feet.",
+          "options": [
+            "fly",
+            "climb",
+            "swim",
+            "drive"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "climb 是攀爬；手腳一起向上爬是線索。"
+        },
+        {
+          "id": "m1-6-u5-cq017",
+          "vocab_id": "m1-6-u5-v023",
+          "question": "We will ___ seeds in the garden this afternoon.",
+          "options": [
+            "burn",
+            "plant",
+            "sell",
+            "cut"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "plant 在此是種植；把種子放進土裡讓它生長。"
+        },
+        {
+          "id": "m1-6-u5-cq018",
+          "vocab_id": "m1-6-u5-v025",
+          "question": "We spread a blanket on the grass for our ___.",
+          "options": [
+            "picnic",
+            "meeting",
+            "test",
+            "class"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "picnic 是野餐；在戶外鋪毯子吃食物。"
+        },
+        {
+          "id": "m1-6-u5-cq019",
+          "vocab_id": "m1-6-u5-v028",
+          "question": "Children play on the slides at the ___.",
+          "options": [
+            "kitchen",
+            "office",
+            "playground",
+            "library"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "playground 是遊樂場；溜滑梯和鞦韆是線索。"
+        },
+        {
+          "id": "m1-6-u5-cq020",
+          "vocab_id": "m1-6-u5-v034",
+          "question": "I ___ my brother and wish he would come home soon.",
+          "options": [
+            "miss",
+            "visit",
+            "meet",
+            "help"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "miss 是想念；希望不在身邊的人回來。"
+        }
+      ]
     }
   }
 }

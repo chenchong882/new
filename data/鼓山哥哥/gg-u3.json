@@ -135,7 +135,289 @@
           { "id": "gg-u3-sg029", "sentence": "She plays football after school.", "sentence_chinese": "她放學後踢足球。" },
           { "id": "gg-u3-sg030", "sentence": "I go jogging every morning.", "sentence_chinese": "我每天早上去慢跑。" }
         ]
-      }
+      },
+      "cloze_quiz": [
+        {
+          "id": "gg-u3-cq001",
+          "vocab_id": "gg-u3-v001",
+          "question": "I put on my headphones to ___.",
+          "options": [
+            "play baseball",
+            "listen to music",
+            "go jogging",
+            "ride a bike"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "listen to music 是聽音樂；耳機或歌曲是線索。"
+        },
+        {
+          "id": "gg-u3-cq002",
+          "vocab_id": "gg-u3-v001",
+          "question": "I like this song. Let us ___.",
+          "options": [
+            "play baseball",
+            "listen to music",
+            "ride a bike",
+            "go jogging"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "listen to music 是聽音樂；耳機或歌曲是線索。"
+        },
+        {
+          "id": "gg-u3-cq003",
+          "vocab_id": "gg-u3-v001",
+          "question": "Turn on the radio so we can ___.",
+          "options": [
+            "ride a bike",
+            "go jogging",
+            "play baseball",
+            "listen to music"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "listen to music 是聽音樂；耳機或歌曲是線索。"
+        },
+        {
+          "id": "gg-u3-cq004",
+          "vocab_id": "gg-u3-v002",
+          "question": "We need a bat and a ball to ___.",
+          "options": [
+            "play basketball",
+            "play football",
+            "go jogging",
+            "play baseball"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "play baseball 是打棒球；球棒是線索。"
+        },
+        {
+          "id": "gg-u3-cq005",
+          "vocab_id": "gg-u3-v002",
+          "question": "Take your baseball glove. Let us ___.",
+          "options": [
+            "play football",
+            "play baseball",
+            "go jogging",
+            "play basketball"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "play baseball 是打棒球；球棒是線索。"
+        },
+        {
+          "id": "gg-u3-cq006",
+          "vocab_id": "gg-u3-v002",
+          "question": "The baseball field is free. We can ___ there.",
+          "options": [
+            "play baseball",
+            "play football",
+            "play basketball",
+            "go jogging"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "play baseball 是打棒球；球棒是線索。"
+        },
+        {
+          "id": "gg-u3-cq007",
+          "vocab_id": "gg-u3-v003",
+          "question": "We throw a ball into a basket when we ___.",
+          "options": [
+            "ride a bike",
+            "play baseball",
+            "go jogging",
+            "play basketball"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "play basketball 是打籃球；投進籃框是線索。"
+        },
+        {
+          "id": "gg-u3-cq008",
+          "vocab_id": "gg-u3-v003",
+          "question": "Bring your basketball. We will ___ after school.",
+          "options": [
+            "play baseball",
+            "play basketball",
+            "ride a bike",
+            "go jogging"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "play basketball 是打籃球；投進籃框是線索。"
+        },
+        {
+          "id": "gg-u3-cq009",
+          "vocab_id": "gg-u3-v003",
+          "question": "The basketball court is open. Let us ___.",
+          "options": [
+            "play basketball",
+            "go jogging",
+            "play baseball",
+            "ride a bike"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "play basketball 是打籃球；投進籃框是線索。"
+        },
+        {
+          "id": "gg-u3-cq010",
+          "vocab_id": "gg-u3-v005",
+          "question": "Put on your helmet before you ___.",
+          "options": [
+            "listen to music",
+            "ride a bike",
+            "watch TV",
+            "play football"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "ride a bike 是騎腳踏車；安全帽與腳踏車是線索。"
+        },
+        {
+          "id": "gg-u3-cq011",
+          "vocab_id": "gg-u3-v005",
+          "question": "My bicycle is new. I want to ___.",
+          "options": [
+            "listen to music",
+            "watch TV",
+            "play football",
+            "ride a bike"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "ride a bike 是騎腳踏車；安全帽與腳踏車是線索。"
+        },
+        {
+          "id": "gg-u3-cq012",
+          "vocab_id": "gg-u3-v005",
+          "question": "You need to pedal when you ___.",
+          "options": [
+            "play football",
+            "watch TV",
+            "ride a bike",
+            "listen to music"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "ride a bike 是騎腳踏車；安全帽與腳踏車是線索。"
+        },
+        {
+          "id": "gg-u3-cq013",
+          "vocab_id": "gg-u3-v006",
+          "question": "I use my computer to ___ and visit websites.",
+          "options": [
+            "play baseball",
+            "take a bath",
+            "surf the Internet",
+            "go jogging"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "surf the Internet 是上網瀏覽；線上網站是線索。"
+        },
+        {
+          "id": "gg-u3-cq014",
+          "vocab_id": "gg-u3-v006",
+          "question": "We can ___ to find information on websites.",
+          "options": [
+            "take a bath",
+            "play baseball",
+            "surf the Internet",
+            "go jogging"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "surf the Internet 是上網瀏覽；線上網站是線索。"
+        },
+        {
+          "id": "gg-u3-cq015",
+          "vocab_id": "gg-u3-v006",
+          "question": "The Wi-Fi is working, so I can ___ now.",
+          "options": [
+            "surf the Internet",
+            "play baseball",
+            "go jogging",
+            "take a bath"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "surf the Internet 是上網瀏覽；線上網站是線索。"
+        },
+        {
+          "id": "gg-u3-cq016",
+          "vocab_id": "gg-u3-v007",
+          "question": "I run slowly in the park. I ___ every morning.",
+          "options": [
+            "watch TV",
+            "play baseball",
+            "go jogging",
+            "listen to music"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "go jogging 是慢跑；以不快的速度跑步是線索。"
+        },
+        {
+          "id": "gg-u3-cq017",
+          "vocab_id": "gg-u3-v007",
+          "question": "Put on running shoes and ___ with me.",
+          "options": [
+            "listen to music",
+            "watch TV",
+            "go jogging",
+            "play baseball"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "go jogging 是慢跑；以不快的速度跑步是線索。"
+        },
+        {
+          "id": "gg-u3-cq018",
+          "vocab_id": "gg-u3-v007",
+          "question": "We do not run fast when we ___.",
+          "options": [
+            "go jogging",
+            "play baseball",
+            "listen to music",
+            "watch TV"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "go jogging 是慢跑；以不快的速度跑步是線索。"
+        },
+        {
+          "id": "gg-u3-cq019",
+          "vocab_id": "gg-u3-v008",
+          "question": "My favorite show is on. I want to ___.",
+          "options": [
+            "ride a bike",
+            "go jogging",
+            "play football",
+            "watch TV"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "watch TV 是看電視；電視節目是線索。"
+        },
+        {
+          "id": "gg-u3-cq020",
+          "vocab_id": "gg-u3-v008",
+          "question": "Turn on the television. Let us ___.",
+          "options": [
+            "watch TV",
+            "play football",
+            "ride a bike",
+            "go jogging"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "watch TV 是看電視；電視節目是線索。"
+        }
+      ]
     }
   }
 }

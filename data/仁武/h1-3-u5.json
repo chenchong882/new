@@ -121,7 +121,289 @@
           {"id":"h1-3-u5-sg029","sentence":"The following is a message from the manager.","sentence_chinese":"以下是經理傳來的一則訊息。"},
           {"id":"h1-3-u5-sg030","sentence":"The following are the qualities we need in workers.","sentence_chinese":"以下是我們需要員工具備的特質。"}
         ]
-      }
+      },
+      "cloze_quiz": [
+        {
+          "id": "h1-3-u5-cq001",
+          "vocab_id": "h1-3-u5-v001",
+          "question": "This bus has a ___ of forty people.",
+          "options": [
+            "color",
+            "price",
+            "capacity",
+            "history"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "capacity 指最大容納量或容量。"
+        },
+        {
+          "id": "h1-3-u5-cq002",
+          "vocab_id": "h1-3-u5-v001",
+          "question": "The bottle has a ___ of one liter.",
+          "options": [
+            "price",
+            "history",
+            "capacity",
+            "color"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "capacity 指最大容納量或容量。"
+        },
+        {
+          "id": "h1-3-u5-cq003",
+          "vocab_id": "h1-3-u5-v001",
+          "question": "The hall is full because we have reached its maximum ___.",
+          "options": [
+            "price",
+            "history",
+            "capacity",
+            "color"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "capacity 指最大容納量或容量。"
+        },
+        {
+          "id": "h1-3-u5-cq004",
+          "vocab_id": "h1-3-u5-v002",
+          "question": "She finished the project ___, without any help.",
+          "options": [
+            "suddenly",
+            "carelessly",
+            "quietly",
+            "independently"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "independently 指獨立地、不靠別人幫忙。"
+        },
+        {
+          "id": "h1-3-u5-cq005",
+          "vocab_id": "h1-3-u5-v002",
+          "question": "Children should learn to think ___ instead of copying others.",
+          "options": [
+            "quietly",
+            "independently",
+            "suddenly",
+            "carelessly"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "independently 指獨立地、不靠別人幫忙。"
+        },
+        {
+          "id": "h1-3-u5-cq006",
+          "vocab_id": "h1-3-u5-v002",
+          "question": "He now lives ___ and pays all his own bills.",
+          "options": [
+            "quietly",
+            "independently",
+            "carelessly",
+            "suddenly"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "independently 指獨立地、不靠別人幫忙。"
+        },
+        {
+          "id": "h1-3-u5-cq007",
+          "vocab_id": "h1-3-u5-v003",
+          "question": "Her ___ to learn made her ask many questions.",
+          "options": [
+            "sadness",
+            "fear",
+            "eagerness",
+            "anger"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "eagerness 指熱切、渴望；迫不及待的態度是線索。"
+        },
+        {
+          "id": "h1-3-u5-cq008",
+          "vocab_id": "h1-3-u5-v003",
+          "question": "The children showed great ___ to open their gifts.",
+          "options": [
+            "eagerness",
+            "fear",
+            "sadness",
+            "anger"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "eagerness 指熱切、渴望；迫不及待的態度是線索。"
+        },
+        {
+          "id": "h1-3-u5-cq009",
+          "vocab_id": "h1-3-u5-v003",
+          "question": "He raised his hand quickly, showing his ___ to answer.",
+          "options": [
+            "anger",
+            "fear",
+            "sadness",
+            "eagerness"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "eagerness 指熱切、渴望；迫不及待的態度是線索。"
+        },
+        {
+          "id": "h1-3-u5-cq010",
+          "vocab_id": "h1-3-u5-v004",
+          "question": "Her ___ with the town helped us find the station easily.",
+          "options": [
+            "disagreement",
+            "familiarity",
+            "illness",
+            "distance"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "familiarity 指熟悉程度；曾經接觸或使用是線索。"
+        },
+        {
+          "id": "h1-3-u5-cq011",
+          "vocab_id": "h1-3-u5-v004",
+          "question": "Your ___ with this computer program will help you at work.",
+          "options": [
+            "illness",
+            "disagreement",
+            "distance",
+            "familiarity"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "familiarity 指熟悉程度；曾經接觸或使用是線索。"
+        },
+        {
+          "id": "h1-3-u5-cq012",
+          "vocab_id": "h1-3-u5-v004",
+          "question": "Years of reading gave him ___ with the writer's style.",
+          "options": [
+            "familiarity",
+            "distance",
+            "illness",
+            "disagreement"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "familiarity 指熟悉程度；曾經接觸或使用是線索。"
+        },
+        {
+          "id": "h1-3-u5-cq013",
+          "vocab_id": "h1-3-u5-v005",
+          "question": "Please send your ___ when you apply for the job.",
+          "options": [
+            "menu",
+            "ticket",
+            "recipe",
+            "resume"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "resume 在此指履歷，列出教育與工作經驗。"
+        },
+        {
+          "id": "h1-3-u5-cq014",
+          "vocab_id": "h1-3-u5-v005",
+          "question": "I added my latest work experience to my ___.",
+          "options": [
+            "ticket",
+            "resume",
+            "recipe",
+            "menu"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "resume 在此指履歷，列出教育與工作經驗。"
+        },
+        {
+          "id": "h1-3-u5-cq015",
+          "vocab_id": "h1-3-u5-v005",
+          "question": "Her ___ lists the schools she attended and her past jobs.",
+          "options": [
+            "menu",
+            "recipe",
+            "ticket",
+            "resume"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "resume 在此指履歷，列出教育與工作經驗。"
+        },
+        {
+          "id": "h1-3-u5-cq016",
+          "vocab_id": "h1-3-u5-v006",
+          "question": "He is looking for ___ because he needs a job.",
+          "options": [
+            "weather",
+            "employment",
+            "vacation",
+            "exercise"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "employment 指就業或受僱工作的狀態。"
+        },
+        {
+          "id": "h1-3-u5-cq017",
+          "vocab_id": "h1-3-u5-v006",
+          "question": "The new factory will provide ___ for local people.",
+          "options": [
+            "employment",
+            "vacation",
+            "exercise",
+            "weather"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "employment 指就業或受僱工作的狀態。"
+        },
+        {
+          "id": "h1-3-u5-cq018",
+          "vocab_id": "h1-3-u5-v006",
+          "question": "She finally found ___ after months of job hunting.",
+          "options": [
+            "employment",
+            "vacation",
+            "weather",
+            "exercise"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "employment 指就業或受僱工作的狀態。"
+        },
+        {
+          "id": "h1-3-u5-cq019",
+          "vocab_id": "h1-3-u5-v007",
+          "question": "The ___ for this report is Friday at noon.",
+          "options": [
+            "sunrise",
+            "birthday",
+            "deadline",
+            "weekend"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "deadline 指最後期限，逾時便不能交件。"
+        },
+        {
+          "id": "h1-3-u5-cq020",
+          "vocab_id": "h1-3-u5-v007",
+          "question": "We must finish before the ___, or our work will be late.",
+          "options": [
+            "deadline",
+            "sunrise",
+            "weekend",
+            "birthday"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "deadline 指最後期限，逾時便不能交件。"
+        }
+      ]
     }
   }
 }

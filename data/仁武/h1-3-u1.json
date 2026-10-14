@@ -122,7 +122,289 @@
           {"id":"h1-3-u1-sg029","sentence":"You can't help but appreciate this act of mercy.","sentence_chinese":"你忍不住感激這項慈悲之舉。"},
           {"id":"h1-3-u1-sg030","sentence":"Mia couldn't help but smile throughout the endless trip.","sentence_chinese":"Mia 在漫長的旅途中忍不住一直微笑。"}
         ]
-      }
+      },
+      "cloze_quiz": [
+        {
+          "id": "h1-3-u1-cq001",
+          "vocab_id": "h1-3-u1-v001",
+          "question": "The children asked question after question. Their questions seemed ___.",
+          "options": [
+            "cheap",
+            "quiet",
+            "empty",
+            "endless"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "endless 表示無止盡的；一再出現或看不到盡頭是線索。"
+        },
+        {
+          "id": "h1-3-u1-cq002",
+          "vocab_id": "h1-3-u1-v001",
+          "question": "The road went on for miles with no end in sight. It seemed ___.",
+          "options": [
+            "endless",
+            "quiet",
+            "cheap",
+            "empty"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "endless 表示無止盡的；一再出現或看不到盡頭是線索。"
+        },
+        {
+          "id": "h1-3-u1-cq003",
+          "vocab_id": "h1-3-u1-v001",
+          "question": "I waited for hours, and the wait felt ___.",
+          "options": [
+            "quiet",
+            "empty",
+            "cheap",
+            "endless"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "endless 表示無止盡的；一再出現或看不到盡頭是線索。"
+        },
+        {
+          "id": "h1-3-u1-cq004",
+          "vocab_id": "h1-3-u1-v002",
+          "question": "The movie was so ___ that I fell asleep.",
+          "options": [
+            "dull",
+            "bright",
+            "deep",
+            "fresh"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "dull 指無聊、乏味；不感興趣或想睡是線索。"
+        },
+        {
+          "id": "h1-3-u1-cq005",
+          "vocab_id": "h1-3-u1-v002",
+          "question": "Nothing interesting happened in the story. It was ___.",
+          "options": [
+            "deep",
+            "dull",
+            "fresh",
+            "bright"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "dull 指無聊、乏味；不感興趣或想睡是線索。"
+        },
+        {
+          "id": "h1-3-u1-cq006",
+          "vocab_id": "h1-3-u1-v002",
+          "question": "We stopped playing the ___ game because nobody enjoyed it.",
+          "options": [
+            "dull",
+            "bright",
+            "deep",
+            "fresh"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "dull 指無聊、乏味；不感興趣或想睡是線索。"
+        },
+        {
+          "id": "h1-3-u1-cq007",
+          "vocab_id": "h1-3-u1-v003",
+          "question": "Dad gives me a weekly ___ to buy small things.",
+          "options": [
+            "traffic",
+            "weather",
+            "allowance",
+            "medicine"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "allowance 是零用錢，通常由家長定期給孩子。"
+        },
+        {
+          "id": "h1-3-u1-cq008",
+          "vocab_id": "h1-3-u1-v003",
+          "question": "I saved part of my ___ instead of spending it all.",
+          "options": [
+            "traffic",
+            "allowance",
+            "weather",
+            "medicine"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "allowance 是零用錢，通常由家長定期給孩子。"
+        },
+        {
+          "id": "h1-3-u1-cq009",
+          "vocab_id": "h1-3-u1-v003",
+          "question": "My parents give me a larger ___ now that I am older.",
+          "options": [
+            "traffic",
+            "weather",
+            "medicine",
+            "allowance"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "allowance 是零用錢，通常由家長定期給孩子。"
+        },
+        {
+          "id": "h1-3-u1-cq010",
+          "vocab_id": "h1-3-u1-v004",
+          "question": "I saved enough money to ___ a new bicycle.",
+          "options": [
+            "purchase",
+            "repair",
+            "lose",
+            "borrow"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "purchase 指購買，付錢取得物品，不是借用或修理。"
+        },
+        {
+          "id": "h1-3-u1-cq011",
+          "vocab_id": "h1-3-u1-v004",
+          "question": "You must pay first if you want to ___ this ticket.",
+          "options": [
+            "repair",
+            "purchase",
+            "borrow",
+            "lose"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "purchase 指購買，付錢取得物品，不是借用或修理。"
+        },
+        {
+          "id": "h1-3-u1-cq012",
+          "vocab_id": "h1-3-u1-v004",
+          "question": "We plan to ___ the book, so we can keep it forever.",
+          "options": [
+            "lose",
+            "borrow",
+            "purchase",
+            "repair"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "purchase 指購買，付錢取得物品，不是借用或修理。"
+        },
+        {
+          "id": "h1-3-u1-cq013",
+          "vocab_id": "h1-3-u1-v005",
+          "question": "The flowers look ___! Their colors are beautiful.",
+          "options": [
+            "empty",
+            "noisy",
+            "gorgeous",
+            "broken"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "gorgeous 指非常漂亮；讚嘆外觀是線索。"
+        },
+        {
+          "id": "h1-3-u1-cq014",
+          "vocab_id": "h1-3-u1-v005",
+          "question": "What a ___ dress! You look wonderful in it.",
+          "options": [
+            "empty",
+            "noisy",
+            "broken",
+            "gorgeous"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "gorgeous 指非常漂亮；讚嘆外觀是線索。"
+        },
+        {
+          "id": "h1-3-u1-cq015",
+          "vocab_id": "h1-3-u1-v005",
+          "question": "The sunset was ___, with pink and orange clouds.",
+          "options": [
+            "broken",
+            "noisy",
+            "empty",
+            "gorgeous"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "gorgeous 指非常漂亮；讚嘆外觀是線索。"
+        },
+        {
+          "id": "h1-3-u1-cq016",
+          "vocab_id": "h1-3-u1-v006",
+          "question": "You can ___ the offer if you do not want the job.",
+          "options": [
+            "prepare",
+            "refuse",
+            "accept",
+            "collect"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "refuse 是拒絕；說不、不願答應是線索。"
+        },
+        {
+          "id": "h1-3-u1-cq017",
+          "vocab_id": "h1-3-u1-v006",
+          "question": "I always ___ a ride from a stranger.",
+          "options": [
+            "refuse",
+            "accept",
+            "prepare",
+            "collect"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "refuse 是拒絕；說不、不願答應是線索。"
+        },
+        {
+          "id": "h1-3-u1-cq018",
+          "vocab_id": "h1-3-u1-v006",
+          "question": "Please do not ___ my help. I really want to help you.",
+          "options": [
+            "accept",
+            "collect",
+            "refuse",
+            "prepare"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "refuse 是拒絕；說不、不願答應是線索。"
+        },
+        {
+          "id": "h1-3-u1-cq019",
+          "vocab_id": "h1-3-u1-v007",
+          "question": "Thank you for helping me. I really ___ it.",
+          "options": [
+            "damage",
+            "appreciate",
+            "hide",
+            "forget"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "appreciate 指感謝、感激；此處是在表達對幫助的謝意。"
+        },
+        {
+          "id": "h1-3-u1-cq020",
+          "vocab_id": "h1-3-u1-v007",
+          "question": "We ___ your time and help with our project.",
+          "options": [
+            "damage",
+            "forget",
+            "appreciate",
+            "hide"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "appreciate 指感謝、感激；此處是在表達對幫助的謝意。"
+        }
+      ]
     }
   }
 }

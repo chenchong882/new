@@ -1160,7 +1160,289 @@
             "sentence_chinese": "六月是我妹妹出生的月份。"
           }
         ]
-      }
+      },
+      "cloze_quiz": [
+        {
+          "id": "h2-1-u1-cq001",
+          "vocab_id": "h2-1-u1-v001",
+          "question": "\"Thank you\" is an ___ we use to show thanks.",
+          "options": [
+            "expression",
+            "animal",
+            "building",
+            "machine"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "expression 在此指用語；說話時常用的一組字。"
+        },
+        {
+          "id": "h2-1-u1-cq002",
+          "vocab_id": "h2-1-u1-v001",
+          "question": "What does this English ___ mean in this sentence?",
+          "options": [
+            "animal",
+            "building",
+            "expression",
+            "machine"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "expression 在此指用語；說話時常用的一組字。"
+        },
+        {
+          "id": "h2-1-u1-cq003",
+          "vocab_id": "h2-1-u1-v002",
+          "question": "You broke her cup. You should ___ to her.",
+          "options": [
+            "apologize",
+            "hide",
+            "complain",
+            "celebrate"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "apologize 是道歉；做錯事後說對不起。"
+        },
+        {
+          "id": "h2-1-u1-cq004",
+          "vocab_id": "h2-1-u1-v002",
+          "question": "I want to ___ for being late. I am sorry.",
+          "options": [
+            "celebrate",
+            "complain",
+            "hide",
+            "apologize"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "apologize 是道歉；做錯事後說對不起。"
+        },
+        {
+          "id": "h2-1-u1-cq005",
+          "vocab_id": "h2-1-u1-v003",
+          "question": "The lights are off and nobody answers. ___, no one is home.",
+          "options": [
+            "apparently",
+            "secretly",
+            "slowly",
+            "carelessly"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "apparently 是看來、顯然；根據看到或聽到的資訊推測。"
+        },
+        {
+          "id": "h2-1-u1-cq006",
+          "vocab_id": "h2-1-u1-v005",
+          "question": "The road is dangerous. Try to ___ it.",
+          "options": [
+            "enjoy",
+            "avoid",
+            "choose",
+            "cause"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "avoid 是避免；不接近可能有危險的地方。"
+        },
+        {
+          "id": "h2-1-u1-cq007",
+          "vocab_id": "h2-1-u1-v005",
+          "question": "Leave early to ___ getting stuck in traffic.",
+          "options": [
+            "enjoy",
+            "choose",
+            "avoid",
+            "cause"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "avoid 是避免；不接近可能有危險的地方。"
+        },
+        {
+          "id": "h2-1-u1-cq008",
+          "vocab_id": "h2-1-u1-v006",
+          "question": "Ask a computer ___. She knows how to fix this problem.",
+          "options": [
+            "stranger",
+            "expert",
+            "child",
+            "beginner"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "expert 是專家；對某領域十分了解。"
+        },
+        {
+          "id": "h2-1-u1-cq009",
+          "vocab_id": "h2-1-u1-v006",
+          "question": "He has studied birds for thirty years and is an ___ on them.",
+          "options": [
+            "expert",
+            "beginner",
+            "stranger",
+            "child"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "expert 是專家；對某領域十分了解。"
+        },
+        {
+          "id": "h2-1-u1-cq010",
+          "vocab_id": "h2-1-u1-v007",
+          "question": "These ___ walls were built thousands of years ago.",
+          "options": [
+            "new",
+            "ancient",
+            "modern",
+            "recent"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "ancient 是古代的；數千年前是線索。"
+        },
+        {
+          "id": "h2-1-u1-cq011",
+          "vocab_id": "h2-1-u1-v007",
+          "question": "We saw tools used by people in ___ times.",
+          "options": [
+            "recent",
+            "modern",
+            "ancient",
+            "new"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "ancient 是古代的；數千年前是線索。"
+        },
+        {
+          "id": "h2-1-u1-cq012",
+          "vocab_id": "h2-1-u1-v008",
+          "question": "The baby slept ___ without crying.",
+          "options": [
+            "angrily",
+            "peacefully",
+            "carelessly",
+            "noisily"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "peacefully 是平靜地；安穩睡眠、沒有打擾是線索。"
+        },
+        {
+          "id": "h2-1-u1-cq013",
+          "vocab_id": "h2-1-u1-v009",
+          "question": "The books you read can ___ the way you think.",
+          "options": [
+            "wash",
+            "damage",
+            "influence",
+            "hide"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "influence 是影響；改變想法或選擇。"
+        },
+        {
+          "id": "h2-1-u1-cq014",
+          "vocab_id": "h2-1-u1-v010",
+          "question": "Please wear ___ clothes, such as a suit, to the ceremony.",
+          "options": [
+            "dirty",
+            "casual",
+            "broken",
+            "formal"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "formal 是正式的；正式場合的穿著是線索。"
+        },
+        {
+          "id": "h2-1-u1-cq015",
+          "vocab_id": "h2-1-u1-v011",
+          "question": "This discovery was ___ because it changed the lives of millions.",
+          "options": [
+            "tiny",
+            "useless",
+            "ordinary",
+            "significant"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "significant 是重大的、有重要影響的。"
+        },
+        {
+          "id": "h2-1-u1-cq016",
+          "vocab_id": "h2-1-u1-v012",
+          "question": "She has lived here for years and is a local ___.",
+          "options": [
+            "visitor",
+            "tourist",
+            "guest",
+            "resident"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "resident 是居民；長期居住於某地。"
+        },
+        {
+          "id": "h2-1-u1-cq017",
+          "vocab_id": "h2-1-u1-v013",
+          "question": "This dictionary explains the ___ of each word.",
+          "options": [
+            "price",
+            "weight",
+            "usage",
+            "color"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "usage 是用法；字詞在句中的使用方式。"
+        },
+        {
+          "id": "h2-1-u1-cq018",
+          "vocab_id": "h2-1-u1-v014",
+          "question": "He continues to ___ breaking the window, saying he did not do it.",
+          "options": [
+            "accept",
+            "deny",
+            "admit",
+            "agree"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "deny 是否認；表示某事不是自己做的。"
+        },
+        {
+          "id": "h2-1-u1-cq019",
+          "vocab_id": "h2-1-u1-v015",
+          "question": "Everyone should help make our ___ a better place to live.",
+          "options": [
+            "weather",
+            "furniture",
+            "equipment",
+            "society"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "society 是社會；人們共同生活的群體。"
+        },
+        {
+          "id": "h2-1-u1-cq020",
+          "vocab_id": "h2-1-u1-v004",
+          "question": "We have ___ of food, so everyone can have more.",
+          "options": [
+            "plenty",
+            "each",
+            "both",
+            "none"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "plenty of 表示很多、充足；足夠給所有人是線索。"
+        }
+      ]
     }
   }
 }

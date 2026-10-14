@@ -1562,7 +1562,289 @@
             "sentence_chinese": "我一直無法理解他那些瘋狂的想法。"
           }
         ]
-      }
+      },
+      "cloze_quiz": [
+        {
+          "id": "m3-1-u1-cq001",
+          "vocab_id": "m3-1-u1-v001",
+          "question": "I have not finished my lunch ___.",
+          "options": [
+            "already",
+            "ever",
+            "yet",
+            "always"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "yet 常用在否定句末，表示尚未。"
+        },
+        {
+          "id": "m3-1-u1-cq002",
+          "vocab_id": "m3-1-u1-v002",
+          "question": "It is only seven, but she has ___ finished all her homework.",
+          "options": [
+            "already",
+            "tomorrow",
+            "yet",
+            "never"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "already 是已經；表示比預期更早完成。"
+        },
+        {
+          "id": "m3-1-u1-cq003",
+          "vocab_id": "m3-1-u1-v003",
+          "question": "A healthy ___ includes fruit and vegetables.",
+          "options": [
+            "uniform",
+            "ticket",
+            "address",
+            "diet"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "diet 是飲食；指平常吃的食物。"
+        },
+        {
+          "id": "m3-1-u1-cq004",
+          "vocab_id": "m3-1-u1-v004",
+          "question": "Please ___ your hand if you know the answer.",
+          "options": [
+            "raise",
+            "hide",
+            "lower",
+            "drop"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "raise 是抬高；把手舉起來。"
+        },
+        {
+          "id": "m3-1-u1-cq005",
+          "vocab_id": "m3-1-u1-v006",
+          "question": "We took a ___ of our family with a camera.",
+          "options": [
+            "smell",
+            "photo",
+            "taste",
+            "sound"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "photo 是照片；相機拍下的影像。"
+        },
+        {
+          "id": "m3-1-u1-cq006",
+          "vocab_id": "m3-1-u1-v008",
+          "question": "She is ___, with a thin waist.",
+          "options": [
+            "short",
+            "heavy",
+            "slim",
+            "tall"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "slim 是苗條的；身材纖瘦是線索。"
+        },
+        {
+          "id": "m3-1-u1-cq007",
+          "vocab_id": "m3-1-u1-v009",
+          "question": "What ___ of music do you like, pop or rock?",
+          "options": [
+            "price",
+            "age",
+            "type",
+            "weight"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "type 是種類；詢問喜歡哪一種音樂。"
+        },
+        {
+          "id": "m3-1-u1-cq008",
+          "vocab_id": "m3-1-u1-v011",
+          "question": "Brushing my teeth before bed is a daily ___.",
+          "options": [
+            "surprise",
+            "accident",
+            "mistake",
+            "habit"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "habit 是習慣；經常重複做的事。"
+        },
+        {
+          "id": "m3-1-u1-cq009",
+          "vocab_id": "m3-1-u1-v012",
+          "question": "He exercises on the machines at the ___.",
+          "options": [
+            "museum",
+            "gym",
+            "library",
+            "kitchen"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "gym 是健身房；使用運動器材鍛鍊。"
+        },
+        {
+          "id": "m3-1-u1-cq010",
+          "vocab_id": "m3-1-u1-v013",
+          "question": "She left Taiwan to study ___ in Canada.",
+          "options": [
+            "abroad",
+            "inside",
+            "nearby",
+            "upstairs"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "abroad 是在國外或到國外；到另一個國家是線索。"
+        },
+        {
+          "id": "m3-1-u1-cq011",
+          "vocab_id": "m3-1-u1-v014",
+          "question": "Do not ___ by looking at another student's answers.",
+          "options": [
+            "learn",
+            "cheat",
+            "practice",
+            "study"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "cheat 是作弊；考試偷看別人的答案。"
+        },
+        {
+          "id": "m3-1-u1-cq012",
+          "vocab_id": "m3-1-u1-v015",
+          "question": "Please ___ the sentence from the board into your notebook.",
+          "options": [
+            "copy",
+            "lose",
+            "hide",
+            "erase"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "copy 是抄寫或複製；寫下完全相同的文字。"
+        },
+        {
+          "id": "m3-1-u1-cq013",
+          "vocab_id": "m3-1-u1-v016",
+          "question": "The runners waited at the starting line for the ___.",
+          "options": [
+            "lesson",
+            "race",
+            "meal",
+            "song"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "race 是競賽；比誰跑得最快。"
+        },
+        {
+          "id": "m3-1-u1-cq014",
+          "vocab_id": "m3-1-u1-v018",
+          "question": "I wrote Grandma a ___ and put it in an envelope.",
+          "options": [
+            "menu",
+            "letter",
+            "map",
+            "ticket"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "letter 是信件；寫給親友、放入信封寄送。"
+        },
+        {
+          "id": "m3-1-u1-cq015",
+          "vocab_id": "m3-1-u1-v019",
+          "question": "A sixteen-year-old is a ___.",
+          "options": [
+            "teenager",
+            "grandparent",
+            "adult",
+            "baby"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "teenager 是青少年，指十三到十九歲的人。"
+        },
+        {
+          "id": "m3-1-u1-cq016",
+          "vocab_id": "m3-1-u1-v021",
+          "question": "Can you explain it again? I do not ___ what you mean.",
+          "options": [
+            "forget",
+            "break",
+            "understand",
+            "hide"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "understand 是理解；明白意思是線索。"
+        },
+        {
+          "id": "m3-1-u1-cq017",
+          "vocab_id": "m3-1-u1-v022",
+          "question": "He hit the ___ with two sticks.",
+          "options": [
+            "violin",
+            "piano",
+            "drum",
+            "flute"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "drum 是鼓；用鼓棒敲打發聲。"
+        },
+        {
+          "id": "m3-1-u1-cq018",
+          "vocab_id": "m3-1-u1-v023",
+          "question": "Her face was full of ___ when she saw her baby smile.",
+          "options": [
+            "anger",
+            "sadness",
+            "fear",
+            "joy"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "joy 是喜悅；看到親友時很高興。"
+        },
+        {
+          "id": "m3-1-u1-cq019",
+          "vocab_id": "m3-1-u1-v029",
+          "question": "Put this ___ in the trash can.",
+          "options": [
+            "food",
+            "water",
+            "money",
+            "garbage"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "garbage 是垃圾；丟棄的廢物。"
+        },
+        {
+          "id": "m3-1-u1-cq020",
+          "vocab_id": "m3-1-u1-v034",
+          "question": "Put a ___ on the envelope before mailing the letter.",
+          "options": [
+            "coin",
+            "key",
+            "button",
+            "stamp"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "stamp 是郵票；貼在信封上支付郵資。"
+        }
+      ]
     }
   }
 }

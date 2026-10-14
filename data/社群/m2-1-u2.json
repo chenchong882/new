@@ -1646,7 +1646,289 @@
             "sentence_chinese": "老師桌下的足球是誰的？"
           }
         ]
-      }
+      },
+      "cloze_quiz": [
+        {
+          "id": "m2-1-u2-cq001",
+          "vocab_id": "m2-1-u2-v001",
+          "question": "I joined the school music ___ to play songs with others.",
+          "options": [
+            "hospital",
+            "market",
+            "club",
+            "airport"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "club 是社團；固定一起從事同樣興趣活動是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq002",
+          "vocab_id": "m2-1-u2-v002",
+          "question": "This book is so ___ that I cannot stop reading it.",
+          "options": [
+            "boring",
+            "empty",
+            "silent",
+            "interesting"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "interesting 是有趣的；吸引注意、想繼續讀是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq003",
+          "vocab_id": "m2-1-u2-v003",
+          "question": "We do experiments in ___ class.",
+          "options": [
+            "science",
+            "art",
+            "history",
+            "music"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "science 是自然科學；實驗與研究自然現象是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq004",
+          "vocab_id": "m2-1-u2-v004",
+          "question": "English is my favorite school ___.",
+          "options": [
+            "job",
+            "subject",
+            "color",
+            "season"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "subject 是學科；英文與數學都是學科。"
+        },
+        {
+          "id": "m2-1-u2-cq005",
+          "vocab_id": "m2-1-u2-v005",
+          "question": "Be quiet. I want to ___ what the teacher says.",
+          "options": [
+            "smell",
+            "see",
+            "hear",
+            "taste"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "hear 是聽見；耳朵聽到聲音是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq006",
+          "vocab_id": "m2-1-u2-v006",
+          "question": "Our bags are exactly the ___ color and size.",
+          "options": [
+            "different",
+            "new",
+            "wrong",
+            "same"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "same 指相同；顏色、大小完全一樣是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq007",
+          "vocab_id": "m2-1-u2-v007",
+          "question": "Please ___ this phone number if you need help.",
+          "options": [
+            "wash",
+            "carry",
+            "paint",
+            "call"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "call 是打電話；電話號碼是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq008",
+          "vocab_id": "m2-1-u2-v008",
+          "question": "Please ___ me the answer. I do not know it.",
+          "options": [
+            "tell",
+            "draw",
+            "buy",
+            "wash"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "tell 是告訴；把答案或消息告知別人。"
+        },
+        {
+          "id": "m2-1-u2-cq009",
+          "vocab_id": "m2-1-u2-v012",
+          "question": "I used my ___ to take a photo of the dog.",
+          "options": [
+            "violin",
+            "clock",
+            "robot",
+            "camera"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "camera 是相機；拍照是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq010",
+          "vocab_id": "m2-1-u2-v014",
+          "question": "Two plus two is not five. Your answer is ___.",
+          "options": [
+            "perfect",
+            "right",
+            "wrong",
+            "correct"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "wrong 是錯的；與正確答案不符是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq011",
+          "vocab_id": "m2-1-u2-v015",
+          "question": "We work with numbers in ___ class.",
+          "options": [
+            "math",
+            "PE",
+            "music",
+            "art"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "math 是數學；計算與數字是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq012",
+          "vocab_id": "m2-1-u2-v016",
+          "question": "In ___, players kick the ball into a goal.",
+          "options": [
+            "soccer",
+            "tennis",
+            "baseball",
+            "basketball"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "soccer 是足球；用腳踢球入球門是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq013",
+          "vocab_id": "m2-1-u2-v018",
+          "question": "We learn about events from long ago in ___ class.",
+          "options": [
+            "music",
+            "history",
+            "science",
+            "math"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "history 是歷史；研究過去的事件是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq014",
+          "vocab_id": "m2-1-u2-v019",
+          "question": "She held the ___ under her chin and played it with a bow.",
+          "options": [
+            "guitar",
+            "violin",
+            "drum",
+            "piano"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "violin 是小提琴；放在下巴與肩膀間、用弓拉奏。"
+        },
+        {
+          "id": "m2-1-u2-cq015",
+          "vocab_id": "m2-1-u2-v020",
+          "question": "This ___ is a machine that can move and follow instructions.",
+          "options": [
+            "doctor",
+            "farmer",
+            "teacher",
+            "robot"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "robot 是機器人；可依程式做動作的機器。"
+        },
+        {
+          "id": "m2-1-u2-cq016",
+          "vocab_id": "m2-1-u2-v021",
+          "question": "Enough sleep is good for your ___.",
+          "options": [
+            "age",
+            "color",
+            "health",
+            "price"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "health 是健康；睡眠與運動有益健康。"
+        },
+        {
+          "id": "m2-1-u2-cq017",
+          "vocab_id": "m2-1-u2-v024",
+          "question": "The ___ designed a new bridge for the town.",
+          "options": [
+            "nurse",
+            "singer",
+            "engineer",
+            "farmer"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "engineer 是工程師；設計橋樑與機器是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq018",
+          "vocab_id": "m2-1-u2-v026",
+          "question": "This question is very ___. Nobody can solve it.",
+          "options": [
+            "difficult",
+            "simple",
+            "easy",
+            "clear"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "difficult 是困難的；花很多時間仍不會是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq019",
+          "vocab_id": "m2-1-u2-v029",
+          "question": "I will ___ my homework after answering the last question.",
+          "options": [
+            "start",
+            "finish",
+            "forget",
+            "break"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "finish 是完成；做完最後一部分是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq020",
+          "vocab_id": "m2-1-u2-v040",
+          "question": "The ___ of the race received a gold medal.",
+          "options": [
+            "guest",
+            "winner",
+            "driver",
+            "teacher"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "winner 是贏家；在比賽中得第一名。"
+        }
+      ]
     }
   }
 }

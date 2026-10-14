@@ -1282,7 +1282,289 @@
             "sentence_chinese": "這種食物在年輕人中很受歡迎。"
           }
         ]
-      }
+      },
+      "cloze_quiz": [
+        {
+          "id": "m3-1-u2-cq001",
+          "vocab_id": "m3-1-u2-v001",
+          "question": "This store offers free ___ of your order to your home.",
+          "options": [
+            "lesson",
+            "delivery",
+            "holiday",
+            "meeting"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "delivery 是配送；把商品送到買家家裡。"
+        },
+        {
+          "id": "m3-1-u2-cq002",
+          "vocab_id": "m3-1-u2-v002",
+          "question": "She was the tallest ___ the ten students in the group.",
+          "options": [
+            "above",
+            "behind",
+            "under",
+            "among"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "among 指在一群人或物之中。"
+        },
+        {
+          "id": "m3-1-u2-cq003",
+          "vocab_id": "m3-1-u2-v003",
+          "question": "Children under the ___ of six can enter for free.",
+          "options": [
+            "name",
+            "height",
+            "age",
+            "weight"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "age 是年齡；歲數是線索。"
+        },
+        {
+          "id": "m3-1-u2-cq004",
+          "vocab_id": "m3-1-u2-v004",
+          "question": "This ___ uses bars to show how many books each class read.",
+          "options": [
+            "key",
+            "envelope",
+            "ticket",
+            "chart"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "chart 是圖表；以線條或長條顯示資料。"
+        },
+        {
+          "id": "m3-1-u2-cq005",
+          "vocab_id": "m3-1-u2-v005",
+          "question": "Open your book to ___ twenty.",
+          "options": [
+            "spine",
+            "title",
+            "page",
+            "cover"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "page 是書頁；翻到指定頁碼是線索。"
+        },
+        {
+          "id": "m3-1-u2-cq006",
+          "vocab_id": "m3-1-u2-v006",
+          "question": "She is ___ in space and wants to learn about planets.",
+          "options": [
+            "angry",
+            "interested",
+            "tired",
+            "bored"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "interested 是感興趣的；想深入了解是線索。"
+        },
+        {
+          "id": "m3-1-u2-cq007",
+          "vocab_id": "m3-1-u2-v007",
+          "question": "What is the ___ you were late? Did you miss the bus?",
+          "options": [
+            "price",
+            "color",
+            "size",
+            "reason"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "reason 是原因；用來回答為什麼。"
+        },
+        {
+          "id": "m3-1-u2-cq008",
+          "vocab_id": "m3-1-u2-v008",
+          "question": "The map was very ___ when we got lost.",
+          "options": [
+            "broken",
+            "helpful",
+            "empty",
+            "useless"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "helpful 是有幫助的；地圖能幫忙找到路。"
+        },
+        {
+          "id": "m3-1-u2-cq009",
+          "vocab_id": "m3-1-u2-v009",
+          "question": "After working all night, I felt ___ and needed sleep.",
+          "options": [
+            "tired",
+            "excited",
+            "angry",
+            "hungry"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "tired 是疲倦的；需要睡覺是線索。"
+        },
+        {
+          "id": "m3-1-u2-cq010",
+          "vocab_id": "m3-1-u2-v010",
+          "question": "It is kind of you to ___ help without being asked.",
+          "options": [
+            "offer",
+            "hide",
+            "lose",
+            "refuse"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "offer 是主動提供；主動幫助別人。"
+        },
+        {
+          "id": "m3-1-u2-cq011",
+          "vocab_id": "m3-1-u2-v011",
+          "question": "There is a twenty-percent ___, so the shoes cost less today.",
+          "options": [
+            "discount",
+            "mistake",
+            "warning",
+            "problem"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "discount 是折扣；售價降低是線索。"
+        },
+        {
+          "id": "m3-1-u2-cq012",
+          "vocab_id": "m3-1-u2-v012",
+          "question": "The bus ___ stopped to let us get on.",
+          "options": [
+            "writer",
+            "singer",
+            "driver",
+            "nurse"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "driver 是駕駛；開車的人。"
+        },
+        {
+          "id": "m3-1-u2-cq013",
+          "vocab_id": "m3-1-u2-v013",
+          "question": "All students at this school wear the same ___.",
+          "options": [
+            "towel",
+            "blanket",
+            "uniform",
+            "scarf"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "uniform 是制服；同校或同職業穿相同款式。"
+        },
+        {
+          "id": "m3-1-u2-cq014",
+          "vocab_id": "m3-1-u2-v014",
+          "question": "The children were ___ about their first trip to the zoo.",
+          "options": [
+            "excited",
+            "angry",
+            "sleepy",
+            "bored"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "excited 是興奮的；很期待好事發生。"
+        },
+        {
+          "id": "m3-1-u2-cq015",
+          "vocab_id": "m3-1-u2-v015",
+          "question": "The movie was so ___ that everyone fell asleep.",
+          "options": [
+            "interesting",
+            "surprising",
+            "exciting",
+            "boring"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "boring 是無聊的；沒人感興趣、想睡是線索。"
+        },
+        {
+          "id": "m3-1-u2-cq016",
+          "vocab_id": "m3-1-u2-v017",
+          "question": "Carrying those heavy boxes all day was ___.",
+          "options": [
+            "relaxing",
+            "short",
+            "tiring",
+            "easy"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "tiring 是令人疲累的；活動使人筋疲力盡。"
+        },
+        {
+          "id": "m3-1-u2-cq017",
+          "vocab_id": "m3-1-u2-v019",
+          "question": "I was ___ to see my friend here. I thought she was abroad.",
+          "options": [
+            "sleepy",
+            "hungry",
+            "bored",
+            "surprised"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "surprised 是感到驚訝的；沒預料到是線索。"
+        },
+        {
+          "id": "m3-1-u2-cq018",
+          "vocab_id": "m3-1-u2-v021",
+          "question": "We sat on the soft ___ in the living room.",
+          "options": [
+            "couch",
+            "sink",
+            "fridge",
+            "stove"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "couch 是沙發；客廳裡柔軟的座椅。"
+        },
+        {
+          "id": "m3-1-u2-cq019",
+          "vocab_id": "m3-1-u2-v025",
+          "question": "Write a shopping ___ so you do not forget anything.",
+          "options": [
+            "song",
+            "list",
+            "story",
+            "letter"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "list 是清單；逐項列出要買的東西。"
+        },
+        {
+          "id": "m3-1-u2-cq020",
+          "vocab_id": "m3-1-u2-v029",
+          "question": "Press the green ___ to start the machine.",
+          "options": [
+            "case",
+            "button",
+            "cable",
+            "screen"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "button 是按鈕；按下後啟動機器。"
+        }
+      ]
     }
   }
 }

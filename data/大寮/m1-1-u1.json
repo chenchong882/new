@@ -197,7 +197,289 @@
           { "id": "m1-1-u1-sg029", "sentence": "We are not from the same school.", "sentence_chinese": "我們不是來自同一所學校。" },
           { "id": "m1-1-u1-sg030", "sentence": "Her husband is a strict but nice cook.", "sentence_chinese": "她的丈夫是一位嚴格但親切的廚師。" }
         ]
-      }
+      },
+      "cloze_quiz": [
+        {
+          "id": "m1-1-u1-cq001",
+          "vocab_id": "m1-1-u1-v001",
+          "question": "My parents, my sister, and I are a ___.",
+          "options": [
+            "team",
+            "club",
+            "family",
+            "class"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "family 是家庭；父母和孩子是家人。"
+        },
+        {
+          "id": "m1-1-u1-cq002",
+          "vocab_id": "m1-1-u1-v002",
+          "question": "Tom is married to Mary. He is her ___.",
+          "options": [
+            "son",
+            "brother",
+            "uncle",
+            "husband"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "husband 是丈夫；與這位女人結婚的男人。"
+        },
+        {
+          "id": "m1-1-u1-cq003",
+          "vocab_id": "m1-1-u1-v003",
+          "question": "Mary is married to Tom. She is his ___.",
+          "options": [
+            "sister",
+            "daughter",
+            "aunt",
+            "wife"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "wife 是妻子；與這位男人結婚的女人。"
+        },
+        {
+          "id": "m1-1-u1-cq004",
+          "vocab_id": "m1-1-u1-v004",
+          "question": "My father's brother is my ___.",
+          "options": [
+            "uncle",
+            "son",
+            "father",
+            "brother"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "uncle 是叔叔、伯伯或舅舅；父母的兄弟。"
+        },
+        {
+          "id": "m1-1-u1-cq005",
+          "vocab_id": "m1-1-u1-v005",
+          "question": "My mother's sister is my ___.",
+          "options": [
+            "aunt",
+            "sister",
+            "mother",
+            "daughter"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "aunt 是阿姨或姑姑；父母的姊妹。"
+        },
+        {
+          "id": "m1-1-u1-cq006",
+          "vocab_id": "m1-1-u1-v006",
+          "question": "My aunt's son is my ___.",
+          "options": [
+            "cousin",
+            "father",
+            "brother",
+            "uncle"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "cousin 是堂表兄弟姊妹；叔叔或阿姨的孩子。"
+        },
+        {
+          "id": "m1-1-u1-cq007",
+          "vocab_id": "m1-1-u1-v007",
+          "question": "Mr. Lin has one boy. The boy is his ___.",
+          "options": [
+            "wife",
+            "son",
+            "mother",
+            "daughter"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "son 是兒子；父母的男性孩子。"
+        },
+        {
+          "id": "m1-1-u1-cq008",
+          "vocab_id": "m1-1-u1-v008",
+          "question": "Mr. Lin has one girl. The girl is his ___.",
+          "options": [
+            "son",
+            "daughter",
+            "uncle",
+            "husband"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "daughter 是女兒；父母的女性孩子。"
+        },
+        {
+          "id": "m1-1-u1-cq009",
+          "vocab_id": "m1-1-u1-v009",
+          "question": "A mother is a ___, and so is a father.",
+          "options": [
+            "cousin",
+            "uncle",
+            "child",
+            "parent"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "parent 是父親或母親其中一位。"
+        },
+        {
+          "id": "m1-1-u1-cq010",
+          "vocab_id": "m1-1-u1-v011",
+          "question": "The boy is only three. He is very ___.",
+          "options": [
+            "young",
+            "tall",
+            "old",
+            "heavy"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "young 是年輕的；年紀小是線索。"
+        },
+        {
+          "id": "m1-1-u1-cq011",
+          "vocab_id": "m1-1-u1-v013",
+          "question": "That actor is ___; everyone says he looks good.",
+          "options": [
+            "ugly",
+            "sick",
+            "handsome",
+            "angry"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "handsome 是英俊的，常形容男性外表好看。"
+        },
+        {
+          "id": "m1-1-u1-cq012",
+          "vocab_id": "m1-1-u1-v017",
+          "question": "The students are having a lesson in the ___.",
+          "options": [
+            "bathroom",
+            "kitchen",
+            "bedroom",
+            "classroom"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "classroom 是教室；老師帶學生上課的地方。"
+        },
+        {
+          "id": "m1-1-u1-cq013",
+          "vocab_id": "m1-1-u1-v018",
+          "question": "Amy and I are in the ___ class. Our teacher is Ms. Lee.",
+          "options": [
+            "different",
+            "same",
+            "new",
+            "wrong"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "same 是相同的；同一班級是線索。"
+        },
+        {
+          "id": "m1-1-u1-cq014",
+          "vocab_id": "m1-1-u1-v023",
+          "question": "I have good ___: our team won!",
+          "options": [
+            "music",
+            "water",
+            "news",
+            "rice"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "news 是新聞或消息；剛得知的資訊。"
+        },
+        {
+          "id": "m1-1-u1-cq015",
+          "vocab_id": "m1-1-u1-v025",
+          "question": "Our teacher is ___. We must follow every rule.",
+          "options": [
+            "noisy",
+            "strict",
+            "lazy",
+            "careless"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "strict 是嚴格的；要求遵守所有規則是線索。"
+        },
+        {
+          "id": "m1-1-u1-cq016",
+          "vocab_id": "m1-1-u1-v028",
+          "question": "The ___ grows vegetables on his farm.",
+          "options": [
+            "driver",
+            "nurse",
+            "farmer",
+            "singer"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "farmer 是農夫；在農場種菜。"
+        },
+        {
+          "id": "m1-1-u1-cq017",
+          "vocab_id": "m1-1-u1-v029",
+          "question": "The ___ makes meals in a restaurant kitchen.",
+          "options": [
+            "teacher",
+            "doctor",
+            "cook",
+            "writer"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "cook 是廚師；在餐廳煮食物。"
+        },
+        {
+          "id": "m1-1-u1-cq018",
+          "vocab_id": "m1-1-u1-v030",
+          "question": "The ___ helps the doctor care for patients.",
+          "options": [
+            "farmer",
+            "driver",
+            "singer",
+            "nurse"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "nurse 是護理師；在醫院協助照顧病人。"
+        },
+        {
+          "id": "m1-1-u1-cq019",
+          "vocab_id": "m1-1-u1-v033",
+          "question": "The ___ examined my throat and gave me medicine.",
+          "options": [
+            "doctor",
+            "driver",
+            "farmer",
+            "writer"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "doctor 是醫生；看診和治療病人。"
+        },
+        {
+          "id": "m1-1-u1-cq020",
+          "vocab_id": "m1-1-u1-v035",
+          "question": "Our dog is a member of the family and our favorite ___.",
+          "options": [
+            "friend",
+            "pet",
+            "teacher",
+            "parent"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "pet 是寵物；家裡養的動物是線索。"
+        }
+      ]
     }
   }
 }

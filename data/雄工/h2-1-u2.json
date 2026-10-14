@@ -1221,7 +1221,289 @@
             "sentence_chinese": "David 教我烹飪，他擁有一家咖啡館。"
           }
         ]
-      }
+      },
+      "cloze_quiz": [
+        {
+          "id": "h2-1-u2-cq001",
+          "vocab_id": "h2-1-u2-v001",
+          "question": "The ___ store sells milk, eggs, and vegetables.",
+          "options": [
+            "grocery",
+            "furniture",
+            "shoe",
+            "jewelry"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "grocery 指食品雜貨；賣牛奶、雞蛋和蔬菜的商店。"
+        },
+        {
+          "id": "h2-1-u2-cq002",
+          "vocab_id": "h2-1-u2-v001",
+          "question": "Mom buys food at the ___ store near our house.",
+          "options": [
+            "shoe",
+            "grocery",
+            "furniture",
+            "jewelry"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "grocery 指食品雜貨；賣牛奶、雞蛋和蔬菜的商店。"
+        },
+        {
+          "id": "h2-1-u2-cq003",
+          "vocab_id": "h2-1-u2-v002",
+          "question": "It is ___ to see someone wearing a winter coat on a hot day.",
+          "options": [
+            "weird",
+            "usual",
+            "normal",
+            "ordinary"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "weird 是奇怪的；不尋常、難以理解是線索。"
+        },
+        {
+          "id": "h2-1-u2-cq004",
+          "vocab_id": "h2-1-u2-v003",
+          "question": "The exam was ___, and very few students passed.",
+          "options": [
+            "simple",
+            "soft",
+            "tough",
+            "easy"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "tough 是困難的、艱辛的；需要很大努力。"
+        },
+        {
+          "id": "h2-1-u2-cq005",
+          "vocab_id": "h2-1-u2-v003",
+          "question": "Finishing all this work in one hour will be ___.",
+          "options": [
+            "tough",
+            "easy",
+            "soft",
+            "simple"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "tough 是困難的、艱辛的；需要很大努力。"
+        },
+        {
+          "id": "h2-1-u2-cq006",
+          "vocab_id": "h2-1-u2-v004",
+          "question": "My teacher gave me useful ___ on how to study.",
+          "options": [
+            "advice",
+            "luggage",
+            "furniture",
+            "equipment"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "advice 是建議；協助別人決定怎麼做。"
+        },
+        {
+          "id": "h2-1-u2-cq007",
+          "vocab_id": "h2-1-u2-v004",
+          "question": "I need your ___ before I decide what to do.",
+          "options": [
+            "furniture",
+            "luggage",
+            "advice",
+            "equipment"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "advice 是建議；協助別人決定怎麼做。"
+        },
+        {
+          "id": "h2-1-u2-cq008",
+          "vocab_id": "h2-1-u2-v005",
+          "question": "Water pollution is an important ___ we need to discuss.",
+          "options": [
+            "gift",
+            "issue",
+            "meal",
+            "answer"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "issue 是議題或問題；大家需要討論解決。"
+        },
+        {
+          "id": "h2-1-u2-cq009",
+          "vocab_id": "h2-1-u2-v006",
+          "question": "Please ___ these books, one to each student.",
+          "options": [
+            "collect",
+            "distribute",
+            "hide",
+            "destroy"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "distribute 是分發；一人一份發出去。"
+        },
+        {
+          "id": "h2-1-u2-cq010",
+          "vocab_id": "h2-1-u2-v007",
+          "question": "We finally found a ___ to the problem.",
+          "options": [
+            "question",
+            "mistake",
+            "problem",
+            "solution"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "solution 是解決方法；找到處理問題的方式。"
+        },
+        {
+          "id": "h2-1-u2-cq011",
+          "vocab_id": "h2-1-u2-v008",
+          "question": "The famous singer is a ___ with millions of fans.",
+          "options": [
+            "tourist",
+            "beginner",
+            "celebrity",
+            "stranger"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "celebrity 是名人；廣為人知、受到關注的人。"
+        },
+        {
+          "id": "h2-1-u2-cq012",
+          "vocab_id": "h2-1-u2-v009",
+          "question": "My parents ___ my dream and encourage me to follow it.",
+          "options": [
+            "blame",
+            "ignore",
+            "oppose",
+            "support"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "support 是支持；鼓勵對方的計畫。"
+        },
+        {
+          "id": "h2-1-u2-cq013",
+          "vocab_id": "h2-1-u2-v010",
+          "question": "A picnic is a fun outdoor ___.",
+          "options": [
+            "weather",
+            "activity",
+            "furniture",
+            "traffic"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "activity 是活動；野餐是一種戶外活動。"
+        },
+        {
+          "id": "h2-1-u2-cq014",
+          "vocab_id": "h2-1-u2-v011",
+          "question": "Washing your hands helps ___ the spread of germs.",
+          "options": [
+            "prevent",
+            "cause",
+            "welcome",
+            "allow"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "prevent 是預防、阻止；不讓事情發生。"
+        },
+        {
+          "id": "h2-1-u2-cq015",
+          "vocab_id": "h2-1-u2-v012",
+          "question": "The milk smells ___. Do not drink it.",
+          "options": [
+            "normal",
+            "usual",
+            "ordinary",
+            "odd"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "odd 是奇怪的、異常的；和以往不同是線索。"
+        },
+        {
+          "id": "h2-1-u2-cq016",
+          "vocab_id": "h2-1-u2-v013",
+          "question": "Schools ___ children and help them learn.",
+          "options": [
+            "hide",
+            "frighten",
+            "educate",
+            "punish"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "educate 是教育；讓孩子學習知識。"
+        },
+        {
+          "id": "h2-1-u2-cq017",
+          "vocab_id": "h2-1-u2-v014",
+          "question": "She plans to ___ money in a new business.",
+          "options": [
+            "lose",
+            "waste",
+            "invest",
+            "borrow"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "invest 是投資；投入金錢期待將來獲利。"
+        },
+        {
+          "id": "h2-1-u2-cq018",
+          "vocab_id": "h2-1-u2-v015",
+          "question": "After many tries, he ___ learned to ride a bike.",
+          "options": [
+            "never",
+            "always",
+            "immediately",
+            "eventually"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "eventually 是最後、終於；經過等待或努力後的結果。"
+        },
+        {
+          "id": "h2-1-u2-cq019",
+          "vocab_id": "h2-1-u2-v016",
+          "question": "Can you ___ me in carrying these heavy boxes?",
+          "options": [
+            "leave",
+            "ignore",
+            "blame",
+            "assist"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "assist 是協助；幫忙搬東西是線索。"
+        },
+        {
+          "id": "h2-1-u2-cq020",
+          "vocab_id": "h2-1-u2-v017",
+          "question": "The pirates hid their ___ of gold and jewels.",
+          "options": [
+            "equipment",
+            "treasure",
+            "garbage",
+            "homework"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "treasure 是寶藏；金幣、珠寶是線索。"
+        }
+      ]
     }
   }
 }

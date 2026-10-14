@@ -1464,7 +1464,289 @@
             "sentence_chinese": "那個女孩因為天氣寒冷而待在室內。"
           }
         ]
-      }
+      },
+      "cloze_quiz": [
+        {
+          "id": "m2-1-u2-cq001",
+          "vocab_id": "m2-1-u2-v001",
+          "question": "Put this hat on your ___.",
+          "options": [
+            "toe",
+            "head",
+            "hand",
+            "knee"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "head 是頭；帽子戴在頭上。"
+        },
+        {
+          "id": "m2-1-u2-cq002",
+          "vocab_id": "m2-1-u2-v002",
+          "question": "I use a comb to keep my ___ tidy.",
+          "options": [
+            "teeth",
+            "hands",
+            "feet",
+            "hair"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "hair 是頭髮；梳子和理髮是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq003",
+          "vocab_id": "m2-1-u2-v003",
+          "question": "The strap of my bag rests on my ___.",
+          "options": [
+            "knee",
+            "toe",
+            "shoulder",
+            "stomach"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "shoulder 是肩膀；背帶掛在肩上。"
+        },
+        {
+          "id": "m2-1-u2-cq004",
+          "vocab_id": "m2-1-u2-v004",
+          "question": "I ate too much, and now my ___ hurts.",
+          "options": [
+            "eye",
+            "finger",
+            "stomach",
+            "ear"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "stomach 是胃；吃太多後肚子痛是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq005",
+          "vocab_id": "m2-1-u2-v005",
+          "question": "Your hand is at the end of your ___.",
+          "options": [
+            "neck",
+            "toe",
+            "arm",
+            "head"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "arm 是手臂；從肩膀連到手的身體部位。"
+        },
+        {
+          "id": "m2-1-u2-cq006",
+          "vocab_id": "m2-1-u2-v006",
+          "question": "Hold the pencil in your ___.",
+          "options": [
+            "foot",
+            "hand",
+            "head",
+            "neck"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "hand 是手；寫字時用手拿筆。"
+        },
+        {
+          "id": "m2-1-u2-cq007",
+          "vocab_id": "m2-1-u2-v007",
+          "question": "I hurt my ___, the joint in the middle of my leg.",
+          "options": [
+            "knee",
+            "neck",
+            "finger",
+            "shoulder"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "knee 是膝蓋；大腿與小腿之間可彎曲的關節。"
+        },
+        {
+          "id": "m2-1-u2-cq008",
+          "vocab_id": "m2-1-u2-v008",
+          "question": "He broke his ___ and cannot walk.",
+          "options": [
+            "hand",
+            "head",
+            "shoulder",
+            "leg"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "leg 是腿；從髖部連到腳、用來走路。"
+        },
+        {
+          "id": "m2-1-u2-cq009",
+          "vocab_id": "m2-1-u2-v009",
+          "question": "There is a hole in my sock, and one ___ sticks out.",
+          "options": [
+            "ear",
+            "finger",
+            "arm",
+            "toe"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "toe 是腳趾；位於腳的末端。"
+        },
+        {
+          "id": "m2-1-u2-cq010",
+          "vocab_id": "m2-1-u2-v010",
+          "question": "Wrap this scarf around your ___.",
+          "options": [
+            "hand",
+            "stomach",
+            "neck",
+            "knee"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "neck 是脖子；圍巾圍在脖子上。"
+        },
+        {
+          "id": "m2-1-u2-cq011",
+          "vocab_id": "m2-1-u2-v011",
+          "question": "Her temperature is 39 degrees. She has a ___.",
+          "options": [
+            "message",
+            "fever",
+            "gift",
+            "meal"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "fever 是發燒；體溫比正常高是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq012",
+          "vocab_id": "m2-1-u2-v012",
+          "question": "My head hurts badly. I have a ___.",
+          "options": [
+            "mask",
+            "coat",
+            "message",
+            "headache"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "headache 是頭痛；頭部疼痛是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq013",
+          "vocab_id": "m2-1-u2-v013",
+          "question": "You are sick. Please ___ home and rest.",
+          "options": [
+            "stay",
+            "run",
+            "leave",
+            "arrive"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "stay 是留在某處；生病時留在家休息。"
+        },
+        {
+          "id": "m2-1-u2-cq014",
+          "vocab_id": "m2-1-u2-v014",
+          "question": "Wear a ___ over your nose and mouth.",
+          "options": [
+            "glove",
+            "mask",
+            "hat",
+            "coat"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "mask 是口罩；遮住口鼻是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq015",
+          "vocab_id": "m2-1-u2-v015",
+          "question": "Here is my phone number. Please ___ me tonight.",
+          "options": [
+            "call",
+            "push",
+            "paint",
+            "wash"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "call 是打電話；電話號碼是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq016",
+          "vocab_id": "m2-1-u2-v018",
+          "question": "I received a text ___ from my friend.",
+          "options": [
+            "mountain",
+            "meal",
+            "ticket",
+            "message"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "message 是訊息；手機收到文字是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq017",
+          "vocab_id": "m2-1-u2-v023",
+          "question": "Good sleep and exercise are important for your ___.",
+          "options": [
+            "price",
+            "weather",
+            "health",
+            "age"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "health 是健康；運動、睡眠和飲食都會影響健康。"
+        },
+        {
+          "id": "m2-1-u2-cq018",
+          "vocab_id": "m2-1-u2-v029",
+          "question": "Take the ___ that your doctor gave you.",
+          "options": [
+            "juice",
+            "medicine",
+            "candy",
+            "bread"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "medicine 是藥；醫生開藥治病是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq019",
+          "vocab_id": "m2-1-u2-v030",
+          "question": "Put on a warm ___ before going out in the cold.",
+          "options": [
+            "coat",
+            "mask",
+            "shoe",
+            "cap"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "coat 是外套；寒冷時穿在衣服外面保暖。"
+        },
+        {
+          "id": "m2-1-u2-cq020",
+          "vocab_id": "m2-1-u2-v034",
+          "question": "He is very ___ and can lift this heavy box.",
+          "options": [
+            "strong",
+            "weak",
+            "soft",
+            "empty"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "strong 是強壯的；能舉起重物是線索。"
+        }
+      ]
     }
   }
 }

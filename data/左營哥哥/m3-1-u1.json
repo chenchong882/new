@@ -108,7 +108,289 @@
         "grammar": [
           {"id":"m3-1-u1-sg001","sentence":"I have finished my history homework.","sentence_chinese":"我已經完成歷史作業。"},{"id":"m3-1-u1-sg002","sentence":"She has never tried dark chocolate.","sentence_chinese":"她從沒吃過黑巧克力。"},{"id":"m3-1-u1-sg003","sentence":"Have you ever baked cookies before?","sentence_chinese":"你以前烤過餅乾嗎？"},{"id":"m3-1-u1-sg004","sentence":"We have studied English for three years.","sentence_chinese":"我們已經讀英文三年了。"},{"id":"m3-1-u1-sg005","sentence":"My brother has lived here since 2020.","sentence_chinese":"我哥哥從 2020 年起住在這裡。"},{"id":"m3-1-u1-sg006","sentence":"They have been friends since elementary school.","sentence_chinese":"他們從國小起就是朋友。"},{"id":"m3-1-u1-sg007","sentence":"Has Amy been to Japan before?","sentence_chinese":"Amy 以前去過日本嗎？"},{"id":"m3-1-u1-sg008","sentence":"Amy has gone to Japan for vacation.","sentence_chinese":"Amy 已經去日本度假了。"},{"id":"m3-1-u1-sg009","sentence":"I have not eaten any candy yet.","sentence_chinese":"我還沒吃任何糖果。"},{"id":"m3-1-u1-sg010","sentence":"How long have you known your teacher?","sentence_chinese":"你認識你的老師多久了？"},{"id":"m3-1-u1-sg011","sentence":"We have waited here for twenty minutes.","sentence_chinese":"我們已經在這裡等二十分鐘了。"},{"id":"m3-1-u1-sg012","sentence":"He has played basketball since he was ten.","sentence_chinese":"他從十歲起就打籃球。"},{"id":"m3-1-u1-sg013","sentence":"My parents have visited Taipei many times.","sentence_chinese":"我父母已經去過台北很多次。"},{"id":"m3-1-u1-sg014","sentence":"The lake has frozen because of the cold.","sentence_chinese":"這座湖因為寒冷而結冰了。"},{"id":"m3-1-u1-sg015","sentence":"Have they finished the main project yet?","sentence_chinese":"他們已完成主要的專題了嗎？"},{"id":"m3-1-u1-sg016","sentence":"Nobody has answered the question yet.","sentence_chinese":"還沒有人回答這個問題。"},{"id":"m3-1-u1-sg017","sentence":"She has used this hairdryer for years.","sentence_chinese":"她已經使用這台吹風機多年了。"},{"id":"m3-1-u1-sg018","sentence":"I have learned this language since last year.","sentence_chinese":"我從去年起學這個語言。"},{"id":"m3-1-u1-sg019","sentence":"Has your father fried the potatoes yet?","sentence_chinese":"你爸爸已經炸馬鈴薯了嗎？"},{"id":"m3-1-u1-sg020","sentence":"The soldier has served the country for years.","sentence_chinese":"這位軍人已經為國家服務多年。"},{"id":"m3-1-u1-sg021","sentence":"We have celebrated Christmas Eve together before.","sentence_chinese":"我們以前一起慶祝過平安夜。"},{"id":"m3-1-u1-sg022","sentence":"My bunny has hidden under the table.","sentence_chinese":"我的小兔子已經躲到桌子底下。"},{"id":"m3-1-u1-sg023","sentence":"Have you ever seen a king in person?","sentence_chinese":"你曾親眼見過國王嗎？"},{"id":"m3-1-u1-sg024","sentence":"This book has had a thick cover.","sentence_chinese":"這本書一直有一個厚封面。"},{"id":"m3-1-u1-sg025","sentence":"They have visited the national museum twice.","sentence_chinese":"他們已經參觀過國立博物館兩次。"},{"id":"m3-1-u1-sg026","sentence":"I have had this ruler since Monday.","sentence_chinese":"我從星期一就有這把尺了。"},{"id":"m3-1-u1-sg027","sentence":"She has waved at me from afar.","sentence_chinese":"她已經從遠處向我揮手。"},{"id":"m3-1-u1-sg028","sentence":"We have baked a pumpkin pie today.","sentence_chinese":"我們今天已經烤了一個南瓜派。"},{"id":"m3-1-u1-sg029","sentence":"How long has Wendy been a singer?","sentence_chinese":"Wendy 當歌手多久了？"},{"id":"m3-1-u1-sg030","sentence":"The old castle has stood there for centuries.","sentence_chinese":"這座老城堡已經在那裡矗立好幾世紀了。"}
         ]
-      }
+      },
+      "cloze_quiz": [
+        {
+          "id": "m3-1-u1-cq001",
+          "vocab_id": "m3-1-u1-v001",
+          "question": "Which school ___ do you like best, English or math?",
+          "options": [
+            "season",
+            "color",
+            "job",
+            "subject"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "subject 是學科；英文、數學都是學校科目。"
+        },
+        {
+          "id": "m3-1-u1-cq002",
+          "vocab_id": "m3-1-u1-v002",
+          "question": "In ___ class, we learn about events from long ago.",
+          "options": [
+            "PE",
+            "history",
+            "music",
+            "science"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "history 是歷史；研究過去的事件是線索。"
+        },
+        {
+          "id": "m3-1-u1-cq003",
+          "vocab_id": "m3-1-u1-v003",
+          "question": "The ___ of our talk today is how to save water.",
+          "options": [
+            "address",
+            "number",
+            "topic",
+            "price"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "topic 是主題；一段談話或文章討論的內容。"
+        },
+        {
+          "id": "m3-1-u1-cq004",
+          "vocab_id": "m3-1-u1-v004",
+          "question": "My hair is wet. Please pass me the ___.",
+          "options": [
+            "camera",
+            "fridge",
+            "clock",
+            "hairdryer"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "hairdryer 是吹風機；用熱風吹乾頭髮。"
+        },
+        {
+          "id": "m3-1-u1-cq005",
+          "vocab_id": "m3-1-u1-v006",
+          "question": "A ___ is a period of one hundred years.",
+          "options": [
+            "week",
+            "year",
+            "month",
+            "century"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "century 是世紀，長度為一百年。"
+        },
+        {
+          "id": "m3-1-u1-cq006",
+          "vocab_id": "m3-1-u1-v008",
+          "question": "You can cut a ___ into strips to make French fries.",
+          "options": [
+            "potato",
+            "onion",
+            "tomato",
+            "carrot"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "potato 是馬鈴薯；薯條的主要材料。"
+        },
+        {
+          "id": "m3-1-u1-cq007",
+          "vocab_id": "m3-1-u1-v009",
+          "question": "The dog carried a wooden ___ in its mouth.",
+          "options": [
+            "stick",
+            "cloud",
+            "river",
+            "mountain"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "stick 是棍子或枝條；細長的木條是線索。"
+        },
+        {
+          "id": "m3-1-u1-cq008",
+          "vocab_id": "m3-1-u1-v011",
+          "question": "The ___ serves in the army.",
+          "options": [
+            "farmer",
+            "singer",
+            "soldier",
+            "nurse"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "soldier 是軍人；在軍隊服役是線索。"
+        },
+        {
+          "id": "m3-1-u1-cq009",
+          "vocab_id": "m3-1-u1-v012",
+          "question": "What is the ___ idea of the story? Tell me its most important point.",
+          "options": [
+            "main",
+            "hidden",
+            "last",
+            "small"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "main 是主要的；重點或最重要的部分。"
+        },
+        {
+          "id": "m3-1-u1-cq010",
+          "vocab_id": "m3-1-u1-v013",
+          "question": "English is a ___ spoken in many countries.",
+          "options": [
+            "season",
+            "language",
+            "animal",
+            "country"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "language 是語言；英文和中文都是語言。"
+        },
+        {
+          "id": "m3-1-u1-cq011",
+          "vocab_id": "m3-1-u1-v015",
+          "question": "We will ___ your birthday with a party.",
+          "options": [
+            "cancel",
+            "celebrate",
+            "miss",
+            "forget"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "celebrate 是慶祝；開派對慶祝生日。"
+        },
+        {
+          "id": "m3-1-u1-cq012",
+          "vocab_id": "m3-1-u1-v017",
+          "question": "This book has over a thousand pages. It is very ___.",
+          "options": [
+            "light",
+            "short",
+            "thin",
+            "thick"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "thick 是厚的；很多頁的大書是線索。"
+        },
+        {
+          "id": "m3-1-u1-cq013",
+          "vocab_id": "m3-1-u1-v018",
+          "question": "Heat some oil in the pan to ___ the fish.",
+          "options": [
+            "wash",
+            "freeze",
+            "fry",
+            "cut"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "fry 是油煎或油炸；在熱油中煮食物。"
+        },
+        {
+          "id": "m3-1-u1-cq014",
+          "vocab_id": "m3-1-u1-v019",
+          "question": "This sweet ___ bar is made from cocoa.",
+          "options": [
+            "rice",
+            "pepper",
+            "salt",
+            "chocolate"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "chocolate 是巧克力；可可製成的甜食。"
+        },
+        {
+          "id": "m3-1-u1-cq015",
+          "vocab_id": "m3-1-u1-v020",
+          "question": "The little ___ has long ears and hops on the grass.",
+          "options": [
+            "bunny",
+            "chick",
+            "kitten",
+            "puppy"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "bunny 是兔子的可愛稱呼；長耳朵、跳躍是線索。"
+        },
+        {
+          "id": "m3-1-u1-cq016",
+          "vocab_id": "m3-1-u1-v021",
+          "question": "The children each got a piece of sweet ___.",
+          "options": [
+            "candy",
+            "rice",
+            "salt",
+            "bread"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "candy 是糖果；小顆的甜食。"
+        },
+        {
+          "id": "m3-1-u1-cq017",
+          "vocab_id": "m3-1-u1-v022",
+          "question": "We carved a face into a big orange ___ for Halloween.",
+          "options": [
+            "cucumber",
+            "pumpkin",
+            "carrot",
+            "onion"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "pumpkin 是南瓜；大而圓、常見橙色外皮。"
+        },
+        {
+          "id": "m3-1-u1-cq018",
+          "vocab_id": "m3-1-u1-v023",
+          "question": "Put the cake in the oven and ___ it for thirty minutes.",
+          "options": [
+            "boil",
+            "wash",
+            "bake",
+            "freeze"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "bake 是烘烤；用烤箱製作蛋糕。"
+        },
+        {
+          "id": "m3-1-u1-cq019",
+          "vocab_id": "m3-1-u1-v024",
+          "question": "December 24 is ___.",
+          "options": [
+            "Mother's Day",
+            "Christmas Eve",
+            "April Fools' Day",
+            "New Year's Day"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "Christmas Eve 是耶誕夜，即十二月二十四日。"
+        },
+        {
+          "id": "m3-1-u1-cq020",
+          "vocab_id": "m3-1-u1-v028",
+          "question": "The ___ wore a crown and ruled the kingdom.",
+          "options": [
+            "driver",
+            "farmer",
+            "king",
+            "student"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "king 是國王；統治王國的男性君主。"
+        }
+      ]
     }
   }
 }

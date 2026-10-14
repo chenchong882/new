@@ -232,7 +232,289 @@
           {"id": "m2-1-u2-sg029", "sentence": "Nobody knew the answer last night.", "sentence_chinese": "昨晚沒有人知道答案。"},
           {"id": "m2-1-u2-sg030", "sentence": "The marriage was important in her life.", "sentence_chinese": "這段婚姻在她的人生中很重要。"}
         ]
-      }
+      },
+      "cloze_quiz": [
+        {
+          "id": "m2-1-u2-cq001",
+          "vocab_id": "m2-1-u2-v001",
+          "question": "We learn to add and subtract numbers in ___ class.",
+          "options": [
+            "music",
+            "art",
+            "math",
+            "history"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "math 是數學；數字和加減法是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq002",
+          "vocab_id": "m2-1-u2-v002",
+          "question": "Study tonight. We have an English ___ tomorrow.",
+          "options": [
+            "test",
+            "party",
+            "picnic",
+            "trip"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "test 是考試；老師檢查學習成果是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq003",
+          "vocab_id": "m2-1-u2-v003",
+          "question": "I do not know the answer, but I can ___.",
+          "options": [
+            "remember",
+            "explain",
+            "know",
+            "guess"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "guess 是猜測；不知道答案時先猜是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq004",
+          "vocab_id": "m2-1-u2-v007",
+          "question": "This shop will ___ you a pen for ten dollars.",
+          "options": [
+            "keep",
+            "buy",
+            "borrow",
+            "sell"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "sell 是賣；收取金錢、把物品給買家。"
+        },
+        {
+          "id": "m2-1-u2-cq005",
+          "vocab_id": "m2-1-u2-v009",
+          "question": "The family is ___ and cannot afford enough food.",
+          "options": [
+            "busy",
+            "rich",
+            "famous",
+            "poor"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "poor 是貧窮的；沒有足夠的錢是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq006",
+          "vocab_id": "m2-1-u2-v013",
+          "question": "Please ___ up when the teacher enters.",
+          "options": [
+            "sit",
+            "stand",
+            "lie",
+            "sleep"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "stand 是站立；站起來迎接老師是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq007",
+          "vocab_id": "m2-1-u2-v014",
+          "question": "The hotel was ___: the room was dirty and the food was bad.",
+          "options": [
+            "great",
+            "excellent",
+            "terrible",
+            "wonderful"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "terrible 是糟糕的；食物壞掉、房間髒亂是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq008",
+          "vocab_id": "m2-1-u2-v016",
+          "question": "The boy is ___ and always asks how things work.",
+          "options": [
+            "tired",
+            "curious",
+            "angry",
+            "full"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "curious 是好奇的；想知道事情原因是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq009",
+          "vocab_id": "m2-1-u2-v017",
+          "question": "At the ___ of the story, everyone lived happily.",
+          "options": [
+            "cover",
+            "beginning",
+            "ending",
+            "title"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "ending 是結局；故事最後發生的事是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq010",
+          "vocab_id": "m2-1-u2-v018",
+          "question": "I have one page left. I will ___ the book tonight.",
+          "options": [
+            "finish",
+            "forget",
+            "start",
+            "break"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "finish 是完成；把剩下的工作做完。"
+        },
+        {
+          "id": "m2-1-u2-cq011",
+          "vocab_id": "m2-1-u2-v020",
+          "question": "I saved enough money to ___ a new pair of shoes.",
+          "options": [
+            "lend",
+            "buy",
+            "sell",
+            "borrow"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "buy 是購買；付錢取得物品。"
+        },
+        {
+          "id": "m2-1-u2-cq012",
+          "vocab_id": "m2-1-u2-v021",
+          "question": "I need a new ___ of shoes.",
+          "options": [
+            "pair",
+            "bottle",
+            "piece",
+            "cup"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "pair 指一雙或一對；鞋子左右各一隻是一雙。"
+        },
+        {
+          "id": "m2-1-u2-cq013",
+          "vocab_id": "m2-1-u2-v023",
+          "question": "This brown ___ bar is made from cocoa.",
+          "options": [
+            "pepper",
+            "chocolate",
+            "salt",
+            "rice"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "chocolate 是巧克力；可可製成的甜食是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq014",
+          "vocab_id": "m2-1-u2-v025",
+          "question": "Bend your ___ at the elbow.",
+          "options": [
+            "arm",
+            "foot",
+            "leg",
+            "head"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "arm 是手臂；手臂連接肩膀和手。"
+        },
+        {
+          "id": "m2-1-u2-cq015",
+          "vocab_id": "m2-1-u2-v026",
+          "question": "I type on the keyboard of my ___.",
+          "options": [
+            "computer",
+            "stove",
+            "mirror",
+            "basket"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "computer 是電腦；鍵盤、螢幕與程式是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq016",
+          "vocab_id": "m2-1-u2-v028",
+          "question": "You can ___ either the blue bag or the red one.",
+          "options": [
+            "forget",
+            "hide",
+            "choose",
+            "break"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "choose 是選擇；從幾個選項中挑一個。"
+        },
+        {
+          "id": "m2-1-u2-cq017",
+          "vocab_id": "m2-1-u2-v029",
+          "question": "The ___ are only five years old.",
+          "options": [
+            "teachers",
+            "parents",
+            "adults",
+            "children"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "children 是小孩；年紀小、玩遊戲是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq018",
+          "vocab_id": "m2-1-u2-v030",
+          "question": "What is your ___? I am twelve years old.",
+          "options": [
+            "height",
+            "name",
+            "weight",
+            "age"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "age 是年齡；幾歲是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq019",
+          "vocab_id": "m2-1-u2-v032",
+          "question": "The ___ was born just two days ago.",
+          "options": [
+            "farmer",
+            "teacher",
+            "baby",
+            "driver"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "baby 是嬰兒；剛出生是線索。"
+        },
+        {
+          "id": "m2-1-u2-cq020",
+          "vocab_id": "m2-1-u2-v034",
+          "question": "Do not ___. Let me wipe away your tears.",
+          "options": [
+            "laugh",
+            "cry",
+            "dance",
+            "sing"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "cry 是哭；眼淚流下來是線索。"
+        }
+      ]
     }
   }
 }

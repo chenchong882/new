@@ -266,11 +266,110 @@
         const shuffleArray = (array) => { if (!array) return []; const newArray = [...array]; for (let i = newArray.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1));[newArray[i], newArray[j]] = [newArray[j], newArray[i]]; } return newArray; };
 
         // --- GameButton Component ---
-        const GameButton = ({ children, onClick, color = "blue", className = "", disabled = false, active = false, autoFocus = false }) => {
+        const GameButton = ({ children, onClick, color = "blue", className = "", disabled = false, active = false, autoFocus = false, ...buttonProps }) => {
             const colorStyles = { blue: "bg-sky-400 border-sky-600 text-white hover:bg-sky-300", green: "bg-emerald-400 border-emerald-600 text-white hover:bg-emerald-300", yellow: "bg-yellow-400 border-yellow-600 text-yellow-900 hover:bg-yellow-300", red: "bg-rose-400 border-rose-600 text-white hover:bg-rose-300", purple: "bg-violet-400 border-violet-600 text-white hover:bg-violet-300", orange: "bg-orange-400 border-orange-600 text-white hover:bg-orange-300", white: "bg-white border-slate-200 text-slate-700 hover:bg-slate-50", gray: "bg-slate-200 border-slate-400 text-slate-600 hover:bg-slate-300", active: "bg-yellow-400 border-yellow-600 text-yellow-900 ring-2 ring-yellow-200 ring-offset-2" };
             const finalColor = active ? colorStyles.active : (colorStyles[color] || colorStyles.blue);
-            return (<button onClick={onClick} disabled={disabled} autoFocus={autoFocus} className={`${finalColor} border-b-4 active:border-b-0 active:translate-y-1 rounded-2xl px-4 py-2 font-black tracking-wide transition-all duration-100 shadow-md flex items-center justify-center gap-2 disabled:opacity-50 disabled:cursor-not-allowed disabled:active:border-b-4 disabled:active:translate-y-0 ${className}`}>{children}</button>);
+            return (<button type="button" {...buttonProps} onClick={onClick} disabled={disabled} autoFocus={autoFocus} className={`${finalColor} border-b-4 active:border-b-0 active:translate-y-1 rounded-2xl px-4 py-2 font-black tracking-wide transition-all duration-100 shadow-md flex items-center justify-center gap-2 disabled:opacity-50 disabled:cursor-not-allowed disabled:active:border-b-4 disabled:active:translate-y-0 ${className}`}>{children}</button>);
         };
+
+        const ADMIN_PASSWORD = '1999';
+        const EMPTY_CLOZE_QUIZ = [];
+
+        const StudyDialog = ({ open, onClose, title, children }) => {
+            const dialogRef = useRef(null);
+            const closeRef = useRef(onClose);
+            closeRef.current = onClose;
+            useEffect(() => {
+                if (!open) return;
+                const previousFocus = document.activeElement;
+                const previousOverflow = document.body.style.overflow;
+                document.body.style.overflow = 'hidden';
+                const dialog = dialogRef.current;
+                const focusable = () => Array.from(dialog.querySelectorAll('button:not([disabled]), input:not([disabled]), [tabindex="0"]'));
+                (dialog.querySelector('[data-initial-focus]') || focusable()[0] || dialog).focus();
+                const onKeyDown = (event) => {
+                    if (event.key === 'Escape') { event.preventDefault(); closeRef.current(); }
+                    if (event.key !== 'Tab') return;
+                    const items = focusable();
+                    const first = items[0], last = items[items.length - 1];
+                    if (!first) { event.preventDefault(); dialog.focus(); return; }
+                    if (event.shiftKey && (document.activeElement === first || !dialog.contains(document.activeElement))) { event.preventDefault(); last.focus(); }
+                    else if (!event.shiftKey && (document.activeElement === last || !dialog.contains(document.activeElement))) { event.preventDefault(); first.focus(); }
+                };
+                document.addEventListener('keydown', onKeyDown);
+                return () => {
+                    document.body.style.overflow = previousOverflow;
+                    document.removeEventListener('keydown', onKeyDown);
+                    if (previousFocus?.isConnected) previousFocus.focus();
+                };
+            }, [open]);
+            if (!open) return null;
+            return (
+                <div className="fixed inset-0 z-[100] bg-slate-900/60 backdrop-blur-sm flex items-center justify-center p-3 sm:p-5" onClick={onClose}>
+                    <section ref={dialogRef} role="dialog" aria-modal="true" aria-label={title} tabIndex={-1} className="bg-white rounded-3xl w-full max-w-lg max-h-[85vh] flex flex-col shadow-2xl border-4 border-slate-200 overflow-hidden" onClick={event => event.stopPropagation()}>
+                        <div className="flex items-center justify-between gap-3 p-4 border-b-2 border-slate-100 shrink-0">
+                            <h3 className="text-xl font-black text-slate-800">{title}</h3>
+                            <button onClick={onClose} aria-label="關閉視窗" className="min-w-[44px] min-h-[44px] flex items-center justify-center rounded-xl text-slate-600 hover:bg-slate-100 focus-visible:ring-4 focus-visible:ring-sky-400"><X /></button>
+                        </div>
+                        <div className="p-4 overflow-y-auto overscroll-contain">{children}</div>
+                    </section>
+                </div>
+            );
+        };
+
+        const ClozeQuestionBank = ({ questions }) => {
+            const [open, setOpen] = useState(false);
+            const [unlocked, setUnlocked] = useState(false);
+            const [password, setPassword] = useState('');
+            const [error, setError] = useState('');
+            const bankContentRef = useRef(null);
+            useEffect(() => { if (unlocked) bankContentRef.current?.focus(); }, [unlocked]);
+            const close = () => { setOpen(false); setUnlocked(false); setPassword(''); setError(''); };
+            const unlock = (event) => {
+                event.preventDefault();
+                if (password === ADMIN_PASSWORD) { setUnlocked(true); setPassword(''); setError(''); }
+                else setError('密碼不正確，請重新輸入。');
+            };
+            return (<>
+                <button onClick={() => setOpen(true)} className="w-full max-w-xs min-h-[44px] flex items-center justify-center gap-2 rounded-2xl border-2 border-indigo-200 bg-indigo-50 px-4 py-3 font-bold text-indigo-700 hover:bg-indigo-100 focus-visible:ring-4 focus-visible:ring-indigo-300"><Library className="w-5 h-5" /> 單字填空題庫總覽（{questions.length} 題）</button>
+                <StudyDialog open={open} onClose={close} title={unlocked ? `單字填空題庫・共 ${questions.length} 題` : '老師題庫・輸入密碼'}>
+                    {!unlocked ? (
+                        <form onSubmit={unlock} className="space-y-4">
+                            <p className="text-sm text-slate-600">輸入管理員密碼後，可查看本課全部填空題、答案與解析。</p>
+                            <label htmlFor="cloze-bank-password" className="block font-bold text-slate-700">管理員密碼</label>
+                            <input id="cloze-bank-password" data-initial-focus type="password" inputMode="numeric" autoComplete="off" value={password} onChange={event => { setPassword(event.target.value); setError(''); }} aria-invalid={!!error} aria-describedby={error ? 'cloze-bank-error' : undefined} className="w-full min-h-[48px] border-2 border-slate-300 rounded-xl px-3 text-base focus:border-indigo-500 focus:outline-none focus:ring-2 focus:ring-indigo-200" />
+                            {error && <p id="cloze-bank-error" role="alert" className="text-rose-700 font-bold text-sm">{error}</p>}
+                            <button type="submit" className="w-full min-h-[48px] bg-indigo-600 hover:bg-indigo-700 text-white font-black rounded-xl focus-visible:ring-4 focus-visible:ring-indigo-300">開啟題庫</button>
+                        </form>
+                    ) : (<div ref={bankContentRef} tabIndex={-1} className="space-y-4" aria-label="全部單字填空題">
+                        {questions.length === 0 && <p className="text-slate-600">這一課的填空題庫尚未建立。</p>}
+                        {questions.map((item, index) => (<article key={item.id} className="border-2 border-slate-200 rounded-2xl p-4 bg-slate-50">
+                            <p className="text-xs font-bold text-slate-500 mb-2">第 {index + 1} 題</p>
+                            <h4 className="text-lg font-bold text-slate-800 leading-relaxed break-words">{item.question}</h4>
+                            <ol className="mt-3 space-y-2">{item.options.map((option, optionIndex) => (<li key={optionIndex} className={`rounded-lg px-3 py-2 text-sm ${optionIndex === item.answer_index ? 'bg-emerald-100 text-emerald-800 font-bold' : 'bg-white text-slate-700'}`}>{String.fromCharCode(65 + optionIndex)}. {option}{optionIndex === item.answer_index && ' ✓ 正解'}</li>))}</ol>
+                            <p className="mt-3 rounded-xl bg-indigo-50 border border-indigo-200 p-3 text-indigo-800 text-sm leading-relaxed">{item.hint}</p>
+                        </article>))}
+                    </div>)}
+                </StudyDialog>
+            </>);
+        };
+
+        const ClozeResultCard = ({ record, index }) => (
+            <article className={`bg-white border-l-8 rounded-2xl p-4 sm:p-5 shadow-sm ${record.isCorrect ? 'border-emerald-400' : 'border-rose-400'}`}>
+                <div className="flex items-start gap-3">
+                    <div className={`w-10 h-10 rounded-full flex items-center justify-center text-white shrink-0 ${record.isCorrect ? 'bg-emerald-500' : 'bg-rose-500'}`} aria-label={record.isCorrect ? '答對' : '答錯'}>{record.isCorrect ? <CheckCircle /> : <XCircle />}</div>
+                    <div className="flex-1 min-w-0">
+                        <p className="text-xs font-bold text-slate-500 mb-1">第 {index + 1} 題・{record.points} 分</p>
+                        <h3 className="text-xl font-black text-slate-800 leading-relaxed break-words">{record.q}</h3>
+                        <div className="flex flex-wrap gap-2 mt-3 text-sm font-bold">
+                            <span className={`px-3 py-2 rounded-lg ${record.isCorrect ? 'bg-emerald-100 text-emerald-800' : 'bg-rose-100 text-rose-800'}`}>你的答案：{record.user}</span>
+                            <span className="px-3 py-2 rounded-lg bg-emerald-100 text-emerald-800">正解：{record.correct}</span>
+                        </div>
+                    </div>
+                </div>
+                <div className="mt-4 flex items-start gap-2 bg-indigo-50 border-2 border-indigo-100 rounded-xl p-3"><Info className="w-5 h-5 text-indigo-600 shrink-0 mt-0.5" /><p className="text-indigo-800 text-sm font-bold leading-relaxed">{record.hint}</p></div>
+            </article>
+        );
 
         // --- 元件 1: 單字學習模式 ---
         const StudyMode = ({ data }) => {
@@ -349,6 +448,10 @@
             const [scoreHistory, setScoreHistory] = useState([]); // 每題得分紀錄 {word, scored, reason}
             const scoreHistoryRef = useRef([]);  // 同步 ref 避免 setTimeout closure 問題
             const scoreRef = useRef(0);
+            const advanceTimerRef = useRef(null);
+            const feedbackTimerRef = useRef(null);
+            const completedRef = useRef(false);
+            useEffect(() => () => { clearTimeout(advanceTimerRef.current); clearTimeout(feedbackTimerRef.current); }, []);
 
             useEffect(() => {
                 if (!data || data.length === 0) return;
@@ -364,6 +467,9 @@
 
             const loadQuestion = (item) => {
                 if (!item) return;
+                clearTimeout(advanceTimerRef.current);
+                clearTimeout(feedbackTimerRef.current);
+                completedRef.current = false;
                 const rawWord = item.word.toLowerCase();
                 setTargetPattern(rawWord.split(''));
                 const cleanChars = rawWord.replace(/[^a-z]/g, '').split('');
@@ -424,7 +530,9 @@
             const confirmSolve = () => {
                 const currentItem = quizItems[currentQIndex];
                 setShowSolveConfirm(false);
-                if (!currentItem) return;
+                if (!currentItem || completedRef.current) return;
+                completedRef.current = true;
+                clearTimeout(feedbackTimerRef.current);
                 let tempPool = [...poolLetters, ...currentLetters];
                 const solution = [];
                 const remainingPool = [...tempPool];
@@ -435,74 +543,46 @@
                 setCurrentLetters(solution);
                 setPoolLetters(remainingPool);
                 setSolvedByCheat(true);
-                const newHist = [...scoreHistoryRef.current, { word: currentItem.word, scored: false, reason: 'solved' }];
+                const newHist = [...scoreHistoryRef.current, { word: currentItem.word, scored: false, reason: 'solved', hintCount, errorCount, viewedAnswer: true }];
                 scoreHistoryRef.current = newHist;
                 setScoreHistory(newHist);
                 setFeedback('no_score_solved');
             };
 
-            useEffect(() => {
-                if (!showSolveConfirm) return;
-                const closeOnEscape = (event) => { if (event.key === 'Escape') setShowSolveConfirm(false); };
-                window.addEventListener('keydown', closeOnEscape);
-                return () => window.removeEventListener('keydown', closeOnEscape);
-            }, [showSolveConfirm]);
-
             const isFrozen = (fb) => ['correct', 'no_score_hints', 'no_score_solved', 'no_score_errors'].includes(fb);
 
             const checkAnswer = () => {
-                if (isFrozen(feedback)) return;
+                if (isFrozen(feedback) || feedback === 'wrong' || completedRef.current) return;
                 const currentItem = quizItems[currentQIndex];
                 if (!currentItem) return;
                 const targetWord = currentItem.word.toLowerCase().replace(/[^a-z]/g, '');
                 const userWord = currentLetters.map(l => l.char).join('');
                 if (userWord === targetWord) {
+                    completedRef.current = true;
+                    clearTimeout(feedbackTimerRef.current);
+                    const reason = solvedByCheat ? 'solved' : hintCount >= 2 ? 'hints' : errorCount >= 2 ? 'errors' : 'ok';
+                    const scored = reason === 'ok';
+                    const newHist = [...scoreHistoryRef.current, { word: currentItem.word, scored, reason, hintCount, errorCount, viewedAnswer: solvedByCheat }];
+                    scoreHistoryRef.current = newHist;
+                    scoreRef.current = Math.round(newHist.filter(record => record.scored).length / quizItems.length * 100);
+                    setScore(scoreRef.current);
+                    setScoreHistory(newHist);
+                    setFeedback(scored ? 'correct' : `no_score_${reason}`);
                     playAnswerFeedback('correct', currentItem.word);
-                    // 判斷能否得分
-                    if (solvedByCheat) {
-                        const newHist = [...scoreHistoryRef.current, { word: currentItem.word, scored: false, reason: 'solved' }];
-                        scoreHistoryRef.current = newHist;
-                        setScoreHistory(newHist);
-                        setFeedback('no_score_solved');
-                        setTimeout(handleNext, 2000);
-                    } else if (hintCount > 2) {
-                        const newHist = [...scoreHistoryRef.current, { word: currentItem.word, scored: false, reason: 'hints' }];
-                        scoreHistoryRef.current = newHist;
-                        setScoreHistory(newHist);
-                        setFeedback('no_score_hints');
-                        setTimeout(handleNext, 2000);
-                    } else if (errorCount >= 3) {
-                        const newHist = [...scoreHistoryRef.current, { word: currentItem.word, scored: false, reason: 'errors' }];
-                        scoreHistoryRef.current = newHist;
-                        setScoreHistory(newHist);
-                        setFeedback('no_score_errors');
-                        setTimeout(handleNext, 2000);
-                    } else {
-                        const newHist = [...scoreHistoryRef.current, { word: currentItem.word, scored: true, reason: 'ok' }];
-                        scoreHistoryRef.current = newHist;
-                        const currentCorrect = newHist.filter(h => h.scored).length;
-                        scoreRef.current = Math.round((currentCorrect / quizItems.length) * 100);
-                        setScore(scoreRef.current);
-                        setScoreHistory(newHist);
-                        setFeedback('correct');
-                        setTimeout(handleNext, 1500);
-                    }
+                    advanceTimerRef.current = setTimeout(handleNext, scored ? 1500 : 2000);
                 } else {
-                    const newErrorCount = errorCount + 1;
-                    setErrorCount(newErrorCount);
-                    if (newErrorCount >= 3) {
-                        setFeedback('wrong');
-                        playAnswerFeedback('wrong', currentItem.word);
-                        setTimeout(() => setFeedback(null), 1000);
-                    } else {
-                        setFeedback('wrong');
-                        playAnswerFeedback('wrong', currentItem.word);
-                        setTimeout(() => setFeedback(null), 1000);
-                    }
+                    setErrorCount(prev => prev + 1);
+                    setFeedback('wrong');
+                    playAnswerFeedback('wrong', currentItem.word);
+                    clearTimeout(feedbackTimerRef.current);
+                    feedbackTimerRef.current = setTimeout(() => setFeedback(null), 1000);
                 }
             };
 
             const handleNext = () => {
+                if (!completedRef.current) return;
+                clearTimeout(advanceTimerRef.current);
+                clearTimeout(feedbackTimerRef.current);
                 cancelAnswerFeedback();
                 if (currentQIndex < quizItems.length - 1) {
                     const nextIndex = currentQIndex + 1;
@@ -523,10 +603,6 @@
             else if (feedback === 'wrong') checkBtnColor = 'red';
             else if (feedback === 'no_score_hints' || feedback === 'no_score_solved' || feedback === 'no_score_errors') checkBtnColor = 'gray';
 
-            // 提示警示狀態
-            const hintWarning = hintCount === 2; // 已用2次，下一次會失分
-            const errorWarning = errorCount === 2; // 已錯2次，下一次會失分
-
             return (
                 <div className="flex flex-col items-center">
                     <div className="w-full flex justify-between items-center mb-4 px-2">
@@ -536,15 +612,15 @@
 
                     {/* 提示/錯誤次數警示條 */}
                     <div className="w-full flex gap-2 mb-3">
-                        <div className={`flex-1 flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-black border-2 transition-all ${hintCount === 0 ? 'bg-slate-50 border-slate-200 text-slate-400' : hintCount === 1 ? 'bg-yellow-50 border-yellow-300 text-yellow-700' : hintCount === 2 ? 'bg-orange-100 border-orange-400 text-orange-700' : 'bg-red-100 border-red-400 text-red-700'}`}>
+                        <div className={`flex-1 min-w-0 flex flex-wrap items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-black border-2 transition-all ${hintCount === 0 ? 'bg-slate-50 border-slate-200 text-slate-400' : hintCount === 1 ? 'bg-yellow-50 border-yellow-300 text-yellow-700' : hintCount === 2 ? 'bg-orange-100 border-orange-400 text-orange-700' : 'bg-red-100 border-red-400 text-red-700'}`}>
                             <Lightbulb className="w-3.5 h-3.5" />
                             提示：{hintCount}/2
                             {hintCount >= 2 && <span className="ml-1 text-red-600">⚠ 不計分！</span>}
                         </div>
-                        <div className={`flex-1 flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-black border-2 transition-all ${errorCount === 0 ? 'bg-slate-50 border-slate-200 text-slate-400' : errorCount === 1 ? 'bg-yellow-50 border-yellow-300 text-yellow-700' : errorCount === 2 ? 'bg-orange-100 border-orange-400 text-orange-700' : 'bg-red-100 border-red-400 text-red-700'}`}>
+                        <div className={`flex-1 min-w-0 flex flex-wrap items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-black border-2 transition-all ${errorCount === 0 ? 'bg-slate-50 border-slate-200 text-slate-400' : errorCount === 1 ? 'bg-yellow-50 border-yellow-300 text-yellow-700' : errorCount === 2 ? 'bg-orange-100 border-orange-400 text-orange-700' : 'bg-red-100 border-red-400 text-red-700'}`}>
                             <XCircle className="w-3.5 h-3.5" />
-                            錯誤：{errorCount}/3
-                            {errorCount >= 3 && <span className="ml-1 text-red-600">⚠ 不計分！</span>}
+                            錯誤：{errorCount}/2
+                            {errorCount >= 2 && <span className="ml-1 text-red-600">⚠ 不計分！</span>}
                         </div>
                     </div>
 
@@ -584,7 +660,7 @@
                             <AlertCircle className="w-8 h-8 text-orange-500 shrink-0 mt-0.5" />
                             <div>
                                 <p className="font-black text-orange-700 text-base">提示用超囉！🙈</p>
-                                <p className="text-orange-600 text-sm font-bold mt-0.5">你這題使用了超過 2 個提示，所以不算得分喔。下次試著靠自己拼拼看！</p>
+                                <p className="text-orange-600 text-sm font-bold mt-0.5">你這題已提示 2 個字以上，所以不算得分喔。下次試著靠自己拼拼看！</p>
                             </div>
                         </div>
                     )}
@@ -602,7 +678,7 @@
                             <XCircle className="w-8 h-8 text-rose-500 shrink-0 mt-0.5" />
                             <div>
                                 <p className="font-black text-rose-700 text-base">錯太多次了！😓</p>
-                                <p className="text-rose-600 text-sm font-bold mt-0.5">這題答錯了 3 次以上，所以就算現在拼對了也不算得分。繼續加油！</p>
+                                <p className="text-rose-600 text-sm font-bold mt-0.5">這題已答錯 2 次以上，所以就算現在拼對了也不算得分。繼續加油！</p>
                             </div>
                         </div>
                     )}
@@ -619,8 +695,8 @@
                         <div className="w-full mb-3 bg-red-100 border-4 border-red-300 rounded-2xl p-4 animate-in shake flex items-center gap-3">
                             <XCircle className="w-8 h-8 text-red-500 shrink-0" />
                             <div>
-                                <p className="font-black text-red-700 text-base">拼錯了！再試試看 {errorCount >= 2 ? '⚠️ 再錯一次就不計分！' : ''}</p>
-                                <p className="text-red-500 text-xs font-bold mt-0.5">目前錯誤次數：{errorCount} / 3</p>
+                                <p className="font-black text-red-700 text-base">拼錯了！再試試看 {errorCount >= 2 ? '這題已不計分，可以繼續練習。' : '再錯一次就不計分。'}</p>
+                                <p className="text-red-500 text-xs font-bold mt-0.5">目前錯誤次數：{errorCount} / 2</p>
                             </div>
                         </div>
                     )}
@@ -646,19 +722,13 @@
                                         "Check Answer"}
                         </GameButton>
                     </div>
-                    {showSolveConfirm && (
-                        <div className="fixed inset-0 z-[100] flex items-center justify-center bg-slate-900/50 backdrop-blur-sm p-4 animate-in fade-in" role="dialog" aria-modal="true" aria-labelledby="solve-confirm-title" onClick={() => setShowSolveConfirm(false)}>
-                            <div className="w-full max-w-sm bg-white border-4 border-violet-200 rounded-3xl p-6 text-center shadow-2xl animate-in zoom-in" onClick={(event) => event.stopPropagation()}>
-                                <div className="w-16 h-16 mx-auto mb-4 rounded-full bg-violet-100 flex items-center justify-center"><Eye className="w-9 h-9 text-violet-500" /></div>
-                                <h3 id="solve-confirm-title" className="text-2xl font-black text-slate-800 mb-2">確定要查看答案嗎？</h3>
-                                <p className="text-slate-500 font-bold mb-6">查看後會直接填入正確拼字，這一題將不計分。</p>
-                                <div className="flex gap-3">
-                                    <GameButton onClick={() => setShowSolveConfirm(false)} color="white" className="flex-1 text-sm" autoFocus>繼續作答</GameButton>
-                                    <GameButton onClick={confirmSolve} color="red" className="flex-1 text-sm">仍要查看答案</GameButton>
-                                </div>
-                            </div>
+                    <StudyDialog open={showSolveConfirm} onClose={() => setShowSolveConfirm(false)} title="確定要查看答案嗎？">
+                        <p className="text-slate-600 font-bold mb-6">查看後會填入正確拼字，這一題將不計分。</p>
+                        <div className="flex gap-3">
+                            <GameButton onClick={() => setShowSolveConfirm(false)} color="white" className="flex-1 min-h-[44px] text-sm">繼續作答</GameButton>
+                            <GameButton onClick={confirmSolve} color="red" className="flex-1 min-h-[44px] text-sm">仍要查看答案</GameButton>
                         </div>
-                    )}
+                    </StudyDialog>
                 </div>
             );
         };
@@ -727,39 +797,77 @@
             const [showHelperHint, setShowHelperHint] = useState(false);
             const [magicCount, setMagicCount] = useState(0);
             const [gaveUp, setGaveUp] = useState(false);
-            useEffect(() => { resetGame(); }, [data]);
-            const resetGame = () => { if (!data || data.length === 0) return; const count = 5; const shuffledQuestions = shuffleArray([...data]).slice(0, count); setQuestions(shuffledQuestions); setCurrentIndex(0); setScore(0); setShowResult(false); if (shuffledQuestions.length > 0) loadQuestion(shuffledQuestions[0]); };
-            const loadQuestion = (question) => { if (!question) return; const rawSentence = question.sentence; const spacedSentence = rawSentence.replace(/([.!?])$/, ' $1'); const words = spacedSentence.split(' '); const wordsWithIds = words.map((word, index) => ({ id: `${index}-${word}`, text: word })); setAvailableWords(shuffleArray(wordsWithIds)); setUserSentence([]); setFeedback(null); setShowGiveUpConfirm(false); setShowHelperHint(false); setMagicCount(0); setGaveUp(false); };
+            const [history, setHistory] = useState([]);
+            const [errorCount, setErrorCount] = useState(0);
+            const historyRef = useRef([]);
+            const completedRef = useRef(false);
+            const helperTimerRef = useRef(null);
+            useEffect(() => { resetGame(); return () => clearTimeout(helperTimerRef.current); }, [data]);
+            const recordQuestion = (viewedAnswer) => {
+                if (completedRef.current) return;
+                completedRef.current = true;
+                const question = questions[currentIndex];
+                const scored = !viewedAnswer && magicCount <= 2;
+                const record = { id: question.id, sentence: question.sentence, translation: question.sentence_chinese, hintCount: magicCount, errorCount, viewedAnswer, scored };
+                historyRef.current = [...historyRef.current, record];
+                setHistory(historyRef.current);
+                setScore(Math.round(historyRef.current.filter(item => item.scored).length / questions.length * 100));
+            };
+            const resetGame = () => { if (!data || data.length === 0) return; const count = 5; const shuffledQuestions = shuffleArray([...data]).slice(0, count); setQuestions(shuffledQuestions); setCurrentIndex(0); setScore(0); setShowResult(false); setHistory([]); historyRef.current = []; if (shuffledQuestions.length > 0) loadQuestion(shuffledQuestions[0]); };
+            const loadQuestion = (question) => { if (!question) return; clearTimeout(helperTimerRef.current); completedRef.current = false; setErrorCount(0); const rawSentence = question.sentence; const spacedSentence = rawSentence.replace(/([.!?])$/, ' $1'); const words = spacedSentence.split(' '); const wordsWithIds = words.map((word, index) => ({ id: `${index}-${word}`, text: word })); setAvailableWords(shuffleArray(wordsWithIds)); setUserSentence([]); setFeedback(null); setShowGiveUpConfirm(false); setShowHelperHint(false); setMagicCount(0); setGaveUp(false); };
             const handleSkipQuestion = () => { if (questions.length <= 1) return; const currentQuestionIds = questions.map(q => q.id); const candidates = data.filter(item => !currentQuestionIds.includes(item.id)); let newQuestion; if (candidates.length > 0) { newQuestion = candidates[Math.floor(Math.random() * candidates.length)]; } else { const otherQuestions = data.filter(item => item.id !== questions[currentIndex].id); newQuestion = otherQuestions[Math.floor(Math.random() * otherQuestions.length)]; } const newQuestions = [...questions]; newQuestions[currentIndex] = newQuestion; setQuestions(newQuestions); loadQuestion(newQuestion); };
             const handleWordClick = (wordObj) => { if (feedback === 'correct') return; if (feedback === 'wrong') setFeedback(null); setAvailableWords(prev => prev.filter(w => w.id !== wordObj.id)); setUserSentence(prev => [...prev, wordObj]); };
             const handleAnswerClick = (wordObj) => { if (feedback === 'correct') return; if (feedback === 'wrong') setFeedback(null); setUserSentence(prev => prev.filter(w => w.id !== wordObj.id)); setAvailableWords(prev => [...prev, wordObj]); };
-            const handleTryAgain = () => { setFeedback(null); setShowHelperHint(true); setTimeout(() => setShowHelperHint(false), 5000); };
+            const handleTryAgain = () => { setFeedback(null); setShowHelperHint(true); clearTimeout(helperTimerRef.current); helperTimerRef.current = setTimeout(() => setShowHelperHint(false), 5000); };
             const handleMagicHint = () => {
-                if (feedback === 'correct') return; setFeedback(null); setMagicCount(prev => prev + 1);
+                if (feedback === 'correct') return; setFeedback(null);
                 let firstWrongIndex = -1; for (let i = 0; i < userSentence.length; i++) { if (userSentence[i].id.split('-')[0] !== String(i)) { firstWrongIndex = i; break; } }
                 if (firstWrongIndex === -1) firstWrongIndex = userSentence.length;
                 const totalWords = userSentence.length + availableWords.length; if (firstWrongIndex >= totalWords) return;
                 const allWords = [...userSentence, ...availableWords]; const nextWordObj = allWords.find(w => w.id.split('-')[0] === String(firstWrongIndex));
-                if (nextWordObj) { const newCorrectUserSentence = [...userSentence.slice(0, firstWrongIndex), nextWordObj]; const newAvailableWords = allWords.filter(w => !newCorrectUserSentence.some(cw => cw.id === w.id)); setUserSentence(newCorrectUserSentence); setAvailableWords(newAvailableWords); speakText(nextWordObj.text); }
+                if (nextWordObj) { setMagicCount(prev => prev + 1); const newCorrectUserSentence = [...userSentence.slice(0, firstWrongIndex), nextWordObj]; const newAvailableWords = allWords.filter(w => !newCorrectUserSentence.some(cw => cw.id === w.id)); setUserSentence(newCorrectUserSentence); setAvailableWords(newAvailableWords); speakText(nextWordObj.text); }
             };
             const handleGiveUpClick = () => { setFeedback(null); setShowGiveUpConfirm(true); };
-            const confirmGiveUp = () => { const allWords = [...userSentence, ...availableWords]; allWords.sort((a, b) => { const indexA = parseInt(a.id.split('-')[0]); const indexB = parseInt(b.id.split('-')[0]); return indexA - indexB; }); setUserSentence(allWords); setAvailableWords([]); setGaveUp(true); setFeedback('correct'); setShowGiveUpConfirm(false); };
-            const checkAnswer = () => { const currentQuestion = questions[currentIndex]; const targetSentence = currentQuestion.sentence.replace(/\s+([.!?])/g, '$1'); const userRawString = userSentence.map(w => w.text).join(' '); const userCleanString = userRawString.replace(/\s+([.!?])/g, '$1'); if (userCleanString === targetSentence) { if (feedback === 'correct') return; setFeedback('correct'); if (magicCount <= 2) { setScore(prev => { const currentTotal = questions.length; const ptsPerQ = 100 / currentTotal; const prevCorrect = Math.round(prev / ptsPerQ); return Math.round(((prevCorrect + 1) / currentTotal) * 100); }); } speakText(currentQuestion.sentence); } else { setFeedback('wrong'); speakText("Oops"); } };
-            const nextQuestion = () => { if (currentIndex < questions.length - 1) { setCurrentIndex(prev => prev + 1); loadQuestion(questions[currentIndex + 1]); } else { setShowResult(true); } };
+            const confirmGiveUp = () => { recordQuestion(true); const allWords = [...userSentence, ...availableWords]; allWords.sort((a, b) => { const indexA = parseInt(a.id.split('-')[0]); const indexB = parseInt(b.id.split('-')[0]); return indexA - indexB; }); setUserSentence(allWords); setAvailableWords([]); setGaveUp(true); setFeedback('correct'); setShowGiveUpConfirm(false); };
+            const checkAnswer = () => {
+                if (completedRef.current) return;
+                const currentQuestion = questions[currentIndex];
+                const targetSentence = currentQuestion.sentence.replace(/\s+([.!?])/g, '$1');
+                const userCleanString = userSentence.map(word => word.text).join(' ').replace(/\s+([.!?])/g, '$1');
+                if (userCleanString === targetSentence) {
+                    recordQuestion(false);
+                    setFeedback('correct');
+                    speakText(currentQuestion.sentence);
+                } else { setErrorCount(prev => prev + 1); setFeedback('wrong'); speakText('Oops'); }
+            };
+            const nextQuestion = () => { if (!completedRef.current) return; if (currentIndex < questions.length - 1) { setCurrentIndex(prev => prev + 1); loadQuestion(questions[currentIndex + 1]); } else { setShowResult(true); } };
             if (!questions || questions.length === 0) return <div className="p-10 text-center font-bold text-slate-400">Loading or No Data...</div>;
-            if (showResult) return (<div className="flex flex-col items-center justify-center h-full animate-in zoom-in py-10 relative overflow-hidden"><Star className="w-32 h-32 text-yellow-400 mb-6 fill-yellow-400 drop-shadow-[0_4px_0_rgba(234,179,8,1)] animate-bounce" /><h2 className="text-4xl font-black text-slate-800 mb-2 tracking-tight">挑戰成功！</h2><div className="text-7xl font-black text-indigo-600 mb-8 drop-shadow-sm">{score} <span className="text-3xl text-slate-400">/ 100 分</span></div><GameButton onClick={resetGame} color="purple" className="w-64 py-4 text-xl"><RefreshCw className="w-6 h-6" /> 再玩一次</GameButton></div>);
+            if (showResult) return (
+                <div className="w-full pb-16 space-y-5">
+                    <div className="text-center py-6"><Star className="w-20 h-20 mx-auto text-yellow-400 fill-yellow-400 mb-3" /><h2 className="text-3xl font-black text-slate-800">練習完成！</h2><p className="text-5xl font-black text-indigo-600 mt-3">{score} <span className="text-xl text-slate-500">/ 100 分</span></p><p className="mt-3 text-sm font-bold text-slate-600">共 {history.length} 題・{history.filter(item => item.scored).length} 題得分</p></div>
+                    <h3 className="text-lg font-black text-slate-700">逐題作答明細</h3>
+                    {history.map((record, index) => (<article key={`${record.id}-${index}`} className={`bg-white rounded-2xl border-l-8 p-4 shadow-sm ${record.scored ? 'border-emerald-400' : 'border-rose-400'}`}>
+                        <div className="flex items-center justify-between gap-2 mb-2"><span className="text-sm font-bold text-slate-500">第 {index + 1} 題</span><span className={`text-sm font-black ${record.scored ? 'text-emerald-700' : 'text-rose-700'}`}>{record.scored ? '✓ 得分' : '不計分'}</span></div>
+                        <p className="text-lg font-bold text-slate-800 break-words leading-relaxed">{record.sentence}</p>
+                        <p className="text-sm text-slate-600 mt-1">{record.translation}</p>
+                        <div className="flex flex-wrap gap-2 mt-3 text-sm font-bold"><span className="bg-amber-50 text-amber-800 rounded-lg px-2 py-1">提示 {record.hintCount} 次</span><span className="bg-slate-100 text-slate-700 rounded-lg px-2 py-1">答錯 {record.errorCount} 次</span><span className={`rounded-lg px-2 py-1 ${record.viewedAnswer ? 'bg-purple-100 text-purple-800' : 'bg-slate-100 text-slate-700'}`}>{record.viewedAnswer ? '已查看答案' : '未查看答案'}</span></div>
+                        {!record.scored && <p className="mt-3 text-sm font-bold text-rose-700">不計分原因：{[record.viewedAnswer && '查看答案', record.hintCount > 2 && '提示超過 2 次'].filter(Boolean).join('、')}</p>}
+                    </article>))}
+                    <GameButton onClick={resetGame} color="purple" className="w-full py-4 text-lg"><RefreshCw className="w-5 h-5" /> 再玩一次</GameButton>
+                </div>
+            );
             const currentQ = questions[currentIndex];
             return (
                 <div className="flex flex-col h-full max-w-2xl mx-auto pb-24 relative">
                     <div className="absolute top-0 left-0 w-full h-full overflow-hidden pointer-events-none z-0 opacity-30"><div className="absolute top-10 left-10 text-yellow-300"><Star size={40} /></div><div className="absolute top-40 right-10 text-rose-300"><Puzzle size={50} /></div><div className="absolute bottom-20 left-20 text-sky-300"><Gamepad2 size={60} /></div></div>
                     {/* 魔法提示/查看答案警示條 */}
                     <div className="w-full flex gap-2 mb-4 z-10 relative">
-                        <div className={`flex-1 flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-black border-2 transition-all ${magicCount === 0 ? 'bg-slate-50 border-slate-200 text-slate-400' : magicCount === 1 ? 'bg-yellow-50 border-yellow-300 text-yellow-700' : magicCount === 2 ? 'bg-orange-100 border-orange-400 text-orange-700' : 'bg-red-100 border-red-400 text-red-700'}`}>
+                        <div className={`flex-1 min-w-0 flex flex-wrap items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-black border-2 transition-all ${magicCount === 0 ? 'bg-slate-50 border-slate-200 text-slate-400' : magicCount === 1 ? 'bg-yellow-50 border-yellow-300 text-yellow-700' : magicCount === 2 ? 'bg-orange-100 border-orange-400 text-orange-700' : 'bg-red-100 border-red-400 text-red-700'}`}>
                             <Wand2 className="w-3.5 h-3.5" />
                             魔法提示：{magicCount}/2
                             {magicCount > 2 && <span className="ml-1 text-red-600">⚠ 不計分！</span>}
                         </div>
-                        <div className={`flex-1 flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-black border-2 transition-all ${gaveUp ? 'bg-red-100 border-red-400 text-red-700' : 'bg-slate-50 border-slate-200 text-slate-400'}`}>
+                        <div className={`flex-1 min-w-0 flex flex-wrap items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-black border-2 transition-all ${gaveUp ? 'bg-red-100 border-red-400 text-red-700' : 'bg-slate-50 border-slate-200 text-slate-400'}`}>
                             <Flag className="w-3.5 h-3.5" />
                             查看答案
                             {gaveUp && <span className="ml-1 text-red-600">⚠ 不計分！</span>}
@@ -776,17 +884,20 @@
                         {userSentence.map((wordObj) => (<button key={wordObj.id} onClick={() => handleAnswerClick(wordObj)} className="bg-indigo-500 text-white px-4 py-3 rounded-xl font-bold shadow-[0_4px_0_rgb(55,48,163)] active:shadow-none active:translate-y-1 transition-all border-2 border-indigo-400 text-lg animate-in zoom-in">{wordObj.text}</button>))}
                     </div>
                     <div className="h-20 mb-4 flex items-center justify-center gap-3 z-10 relative">
-                        {feedback === 'correct' ? (<div className="w-full bg-emerald-100 border-4 border-emerald-300 text-emerald-700 px-6 py-4 rounded-3xl flex items-center justify-between shadow-lg animate-in slide-in-from-bottom-2"><div className="flex items-center gap-2 font-black text-xl"><CheckCircle className="w-8 h-8 text-emerald-500" /> CORRECT!</div><GameButton onClick={nextQuestion} color="green" className="text-sm">NEXT <ChevronRight className="w-4 h-4" /></GameButton></div>
+                        {feedback === 'correct' ? (<div className="w-full bg-emerald-100 border-4 border-emerald-300 text-emerald-700 px-6 py-4 rounded-3xl flex items-center justify-between shadow-lg animate-in slide-in-from-bottom-2"><div className="flex items-center gap-2 font-black text-xl"><CheckCircle className="w-8 h-8 text-emerald-500" /> {gaveUp ? '已看答案' : magicCount > 2 ? '完成・不計分' : 'CORRECT!'}</div><GameButton onClick={nextQuestion} color="green" className="text-sm">NEXT <ChevronRight className="w-4 h-4" /></GameButton></div>
                         ) : feedback === 'wrong' ? (<div className="w-full flex justify-center animate-in shake"><button onClick={handleTryAgain} className="bg-rose-500 text-white border-b-4 border-rose-700 active:border-b-0 active:translate-y-1 px-8 py-3 rounded-2xl font-black text-xl shadow-xl flex items-center gap-2 hover:bg-rose-600 transition-all w-full justify-center"><XCircle className="w-8 h-8" /> TRY AGAIN! (點擊重試)</button></div>
                         ) : (<><div className="flex gap-2 relative">{showHelperHint && <div className="absolute -top-20 left-0 bg-white border-4 border-sky-400 p-3 rounded-2xl w-48 shadow-xl z-50 animate-in fade-in slide-in-from-bottom-2"><p className="text-sky-600 text-xs font-black mb-1">💡 卡關了嗎？</p><p className="text-slate-600 text-xs font-bold">試試左邊的魔法棒或投降旗幟喔！</p><div className="absolute -bottom-3 left-6 w-4 h-4 bg-white border-b-4 border-r-4 border-sky-400 transform rotate-45"></div></div>}<GameButton onClick={handleSkipQuestion} color="purple" className="py-4" title="換一題"><Shuffle className="w-6 h-6" /></GameButton><GameButton onClick={handleMagicHint} color="yellow" className="py-4" title="提示下一個字"><Wand2 className="w-6 h-6" /></GameButton><GameButton onClick={handleGiveUpClick} color="red" className="py-4" title="查看答案"><Flag className="w-6 h-6" /></GameButton></div><GameButton onClick={checkAnswer} disabled={userSentence.length === 0} color="blue" className="flex-1 py-4 text-xl shadow-lg"><CheckCircle className="w-6 h-6" /> 檢查</GameButton></>)}
                     </div>
                     <div className="flex flex-wrap gap-2 justify-center z-10 relative pb-4">{availableWords.map((wordObj) => (<button key={wordObj.id} onClick={() => handleWordClick(wordObj)} className="bg-white text-slate-700 px-5 py-3 rounded-xl font-bold shadow-[0_4px_0_rgb(203,213,225)] active:shadow-none active:translate-y-1 transition-all border-2 border-slate-200 text-lg hover:border-indigo-300 hover:text-indigo-600">{wordObj.text}</button>))}</div>
-                    {showGiveUpConfirm && (<div className="absolute inset-0 z-50 flex items-center justify-center bg-black/40 backdrop-blur-sm rounded-3xl animate-in fade-in"><div className="bg-white p-6 rounded-3xl border-4 border-slate-200 shadow-2xl max-w-xs text-center transform scale-100 animate-in zoom-in"><div className="flex justify-center mb-4"><AlertCircle className="w-16 h-16 text-yellow-400" /></div><h3 className="text-2xl font-black text-slate-800 mb-2">Wait!</h3><p className="text-slate-500 font-bold mb-6">真的不自己再試試看嗎？<br />自己拼出來會很有成就感喔！</p><div className="flex gap-3 justify-center"><GameButton onClick={() => setShowGiveUpConfirm(false)} color="blue" className="text-sm">再試一次</GameButton><GameButton onClick={confirmGiveUp} color="gray" className="text-sm">我看答案</GameButton></div></div></div>)}
+                    <StudyDialog open={showGiveUpConfirm} onClose={() => setShowGiveUpConfirm(false)} title="確定要查看答案嗎？">
+                        <p className="text-slate-600 font-bold mb-6">查看後會排好完整句子，這一題將不計分。</p>
+                        <div className="flex gap-3"><GameButton onClick={() => setShowGiveUpConfirm(false)} color="white" className="flex-1 min-h-[44px] text-sm">繼續作答</GameButton><GameButton onClick={confirmGiveUp} color="red" className="flex-1 min-h-[44px] text-sm">仍要查看答案</GameButton></div>
+                    </StudyDialog>
                 </div>);
         };
 
         // --- 元件 2: 測驗模式 ---
-        const QuizMode = ({ data, grammarData }) => {
+        const QuizMode = ({ data, clozeData = EMPTY_CLOZE_QUIZ }) => {
             useEffect(() => () => cancelAnswerFeedback(), []);
             const [quizType, setQuizType] = useState('choice');
             const [status, setStatus] = useState('menu');
@@ -814,46 +925,23 @@
                 const selectedQuestions = shuffleArray(allVocabQuestions).slice(0, 10);
                 setQuizData(selectedQuestions); setCurrentQIndex(0); setScore(0); setHistory([]); setSelectedOption(null); setQuizType('choice'); setStatus('playing'); setTimeLimit(7); setTimeLeft(7); questionStartRef.current = Date.now();
             };
-            const CLOZE_IRREGULAR = { be: ['is', 'am', 'are', 'was', 'were', 'been'], go: ['went', 'gone'], take: ['took', 'taken'], buy: ['bought'], sell: ['sold'], build: ['built'], make: ['made'], have: ['has', 'had'], do: ['did', 'done', 'does'], eat: ['ate', 'eaten'], see: ['saw', 'seen'], come: ['came'], get: ['got', 'gotten'], give: ['gave', 'given'], find: ['found'], think: ['thought'], teach: ['taught'], catch: ['caught'], bring: ['brought'], fight: ['fought'], run: ['ran'], swim: ['swam', 'swum'], sing: ['sang', 'sung'], drink: ['drank', 'drunk'], ride: ['rode', 'ridden'], write: ['wrote', 'written'], drive: ['drove', 'driven'], speak: ['spoke', 'spoken'], break: ['broke', 'broken'], choose: ['chose', 'chosen'], fall: ['fell', 'fallen'], feel: ['felt'], keep: ['kept'], leave: ['left'], meet: ['met'], sleep: ['slept'], spend: ['spent'], send: ['sent'], lose: ['lost'], win: ['won'], wear: ['wore', 'worn'], fly: ['flew', 'flown'], grow: ['grew', 'grown'], know: ['knew', 'known'], draw: ['drew', 'drawn'], throw: ['threw', 'thrown'], say: ['said'], pay: ['paid'], hear: ['heard'], sit: ['sat'], stand: ['stood'], understand: ['understood'], tell: ['told'], hold: ['held'], forget: ['forgot', 'forgotten'] };
-            const CLOZE_POSS = ['my', 'your', 'his', 'her', 'its', 'our', 'their'];
-            const makeClozeBlank = (sentence, word) => {
-                const esc = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-                // loose 模式放寬字尾變化（considering、paintings、studied）、不規則動詞（took、bought）、片語內所有格（do my/his homework）
-                const tokenPat = (w, loose) => {
-                    const lw = w.toLowerCase();
-                    const alts = [esc(w) + (loose ? '[a-z]*' : '')];
-                    if (loose) {
-                        if (w.length > 2 && lw.endsWith('e')) alts.push(esc(w.slice(0, -1)) + '[a-z]*');
-                        if (w.length > 2 && lw.endsWith('y')) alts.push(esc(w.slice(0, -1)) + 'i[a-z]*');
-                        if (CLOZE_IRREGULAR[lw]) alts.push(...CLOZE_IRREGULAR[lw].map(esc));
-                        if (CLOZE_POSS.includes(lw)) alts.push(...CLOZE_POSS);
-                    }
-                    return '(?:' + alts.join('|') + ')';
-                };
-                for (const loose of [false, true]) {
-                    const p = word.trim().split(/\s+/).map(w => tokenPat(w, loose)).join('\\s+');
-                    const re = new RegExp('\\b(' + p + ')\\b', 'i');
-                    if (re.test(sentence)) return sentence.replace(re, '＿＿＿＿');
-                }
-                return null;
-            };
             const startClozeQuiz = () => {
-                if (!data || data.length < 4) { alert("這個範圍的單字不夠出填空題喔！"); return; }
-                const questions = [];
-                data.forEach(target => {
-                    if (!target.sentence) return;
-                    const blanked = makeClozeBlank(target.sentence, target.word);
-                    if (!blanked) return;
-                    const others = shuffleArray(data.filter(w => w.id !== target.id));
-                    const samePos = others.filter(o => o.part_of_speech === target.part_of_speech);
-                    const distractors = [...samePos, ...others.filter(o => o.part_of_speech !== target.part_of_speech)].slice(0, 3);
-                    questions.push({ isCloze: true, questionText: blanked, sentenceChinese: target.sentence_chinese, correctId: target.id, correctAnswer: target.word, options: shuffleArray([target, ...distractors]).map(o => ({ id: o.id, text: o.word, isCorrect: o.id === target.id })), hint: "選出正確的單字填入空格", audio: target.sentence });
-                });
-                if (questions.length === 0) { alert("這個範圍沒有可出的填空題喔！"); return; }
-                setQuizData(shuffleArray(questions).slice(0, 10)); setCurrentQIndex(0); setScore(0); setHistory([]); setSelectedOption(null); setQuizType('cloze'); setStatus('playing');
+                if (clozeData.length === 0) return;
+                unlockAnswerAudio();
+                const questions = shuffleArray(clozeData).slice(0, 10).map(item => ({
+                    id: item.id,
+                    isCloze: true,
+                    questionText: item.question,
+                    sentenceChinese: item.sentence_chinese,
+                    correctAnswer: item.options[item.answer_index],
+                    options: shuffleArray(item.options.map((text, index) => ({ id: `${item.id}-${index}`, text, isCorrect: index === item.answer_index }))),
+                    hint: item.hint,
+                    audio: item.question.replace(/_{3,}|＿{2,}/g, () => item.options[item.answer_index])
+                }));
+                setQuizData(questions); setCurrentQIndex(0); setScore(0); setHistory([]); setSelectedOption(null); setQuizType('cloze'); setStatus('playing');
             };
             const startSpellingQuiz = (type) => { let filteredData = []; if (!data) return; if (type === 'words') { filteredData = data.filter(item => item.part_of_speech !== 'phr.'); } else if (type === 'phrases') { filteredData = data.filter(item => item.part_of_speech === 'phr.'); } if (filteredData.length === 0) { alert("這個單元沒有這類型的題目喔！"); return; } setSpellingData(filteredData); setQuizType('spelling'); setStatus('playing'); };
-            const handleOptionClick = (option) => { if (selectedOption) return; let points = 0; if (option.isCorrect) { if (quizType === 'cloze') { points = 100; } else { const totalMs = timeLimit * 1000; const remainMs = Math.max(0, totalMs - (Date.now() - questionStartRef.current)); points = Math.ceil((remainMs / totalMs) * 100); if (points <= 0) points = 10; } } const currentQ = quizData[currentQIndex]; setHistory(prev => [...prev, { q: currentQ.questionText, correct: currentQ.correctAnswer, user: option.text, isCorrect: option.isCorrect, points: points }]); setSelectedOption(option); playAnswerFeedback(option.isCorrect ? 'correct' : 'wrong', currentQ.isCloze ? currentQ.correctAnswer : currentQ.audio); if (option.isCorrect) { setScore(prev => prev + points); } };
+            const handleOptionClick = (option) => { if (selectedOption) return; let points = 0; if (option.isCorrect) { if (quizType === 'cloze') { points = 100; } else { const totalMs = timeLimit * 1000; const remainMs = Math.max(0, totalMs - (Date.now() - questionStartRef.current)); points = Math.ceil((remainMs / totalMs) * 100); if (points <= 0) points = 10; } } const currentQ = quizData[currentQIndex]; setHistory(prev => [...prev, { q: currentQ.questionText, correct: currentQ.correctAnswer, user: option.text, isCorrect: option.isCorrect, points: points, hint: currentQ.hint }]); setSelectedOption(option); playAnswerFeedback(option.isCorrect ? 'correct' : 'wrong', currentQ.isCloze ? currentQ.correctAnswer : currentQ.audio); if (option.isCorrect) { setScore(prev => prev + points); } };
             const nextQuestion = () => { cancelAnswerFeedback(); if (currentQIndex < quizData.length - 1) { setCurrentQIndex(prev => prev + 1); setSelectedOption(null); setTimeLeft(timeLimit); questionStartRef.current = Date.now(); } else { setStatus('result'); } };
 
             useEffect(() => {
@@ -871,7 +959,8 @@
                     <div className="flex flex-col items-center justify-center h-full animate-in fade-in space-y-4 pt-4 overflow-y-auto">
                         <div className="text-center mb-2"><Gamepad2 className="w-16 h-16 mx-auto text-sky-400 mb-2" /><h2 className="text-2xl font-black text-slate-700">選擇測驗模式</h2></div>
                         <button onClick={startChoiceQuiz} className="w-full max-w-xs bg-white border-4 border-slate-200 p-5 rounded-3xl hover:border-sky-400 group transition-all shadow-sm hover:shadow-md text-left relative overflow-hidden"><div className="absolute right-[-20px] top-[-20px] bg-sky-100 w-24 h-24 rounded-full group-hover:scale-150 transition-transform duration-500"></div><div className="relative z-10 flex items-center gap-4"><div className="bg-sky-500 text-white p-3 rounded-2xl"><MousePointerClick className="w-6 h-6" /></div><div><h3 className="text-lg font-black text-slate-800">選擇題大挑戰</h3><p className="text-xs text-slate-500 font-bold">10題 限時搶答 (每題7秒)</p></div></div></button>
-                        <button onClick={startClozeQuiz} className="w-full max-w-xs bg-white border-4 border-slate-200 p-5 rounded-3xl hover:border-emerald-400 group transition-all shadow-sm hover:shadow-md text-left relative overflow-hidden"><div className="absolute right-[-20px] top-[-20px] bg-emerald-100 w-24 h-24 rounded-full group-hover:scale-150 transition-transform duration-500"></div><div className="relative z-10 flex items-center gap-4"><div className="bg-emerald-500 text-white p-3 rounded-2xl"><PenTool className="w-6 h-6" /></div><div><h3 className="text-lg font-black text-slate-800">單字填空</h3><p className="text-xs text-slate-500 font-bold">不限時間・每題答對 100 分</p></div></div></button>
+                        <button onClick={startClozeQuiz} disabled={clozeData.length === 0} className="disabled:opacity-60 disabled:cursor-not-allowed w-full max-w-xs bg-white border-4 border-slate-200 p-5 rounded-3xl hover:border-emerald-400 group transition-all shadow-sm hover:shadow-md text-left relative overflow-hidden"><div className="absolute right-[-20px] top-[-20px] bg-emerald-100 w-24 h-24 rounded-full group-hover:scale-150 transition-transform duration-500"></div><div className="relative z-10 flex items-center gap-4"><div className="bg-emerald-500 text-white p-3 rounded-2xl"><PenTool className="w-6 h-6" /></div><div><h3 className="text-lg font-black text-slate-800">單字填空</h3><p className="text-xs text-slate-600 font-bold">{clozeData.length ? `題庫 ${clozeData.length} 題・每次抽 ${Math.min(10, clozeData.length)} 題` : '本課題庫尚未建立'}</p></div></div></button>
+                        <ClozeQuestionBank questions={clozeData} />
                         <div className="w-full max-w-xs space-y-3">
                             <div className="text-slate-400 text-xs font-black uppercase tracking-wider pl-2">Spelling Mode</div>
                             {hasWords && (<button onClick={() => startSpellingQuiz('words')} className="w-full bg-white border-4 border-slate-200 p-4 rounded-3xl hover:border-violet-400 group transition-all shadow-sm hover:shadow-md text-left relative overflow-hidden"><div className="absolute right-[-20px] top-[-20px] bg-violet-100 w-20 h-20 rounded-full group-hover:scale-150 transition-transform duration-500"></div><div className="relative z-10 flex items-center gap-3"><div className="bg-violet-500 text-white p-2.5 rounded-2xl"><Keyboard className="w-5 h-5" /></div><div><h3 className="text-lg font-black text-slate-800">拼字：單字篇</h3><p className="text-xs text-slate-500 font-bold">Vocabulary Only</p></div></div></button>)}
@@ -890,9 +979,9 @@
                 else { feedbackTitle = "加油加油！再試一次！"; feedbackColor = "text-slate-500"; }
 
                 const reasonLabel = (reason) => {
-                    if (reason === 'hints') return { text: '提示超過2次', color: 'bg-orange-100 text-orange-700 border-orange-300' };
+                    if (reason === 'hints') return { text: '提示達 2 個字', color: 'bg-orange-100 text-orange-700 border-orange-300' };
                     if (reason === 'solved') return { text: '直接看解答', color: 'bg-purple-100 text-purple-700 border-purple-300' };
-                    if (reason === 'errors') return { text: '錯誤超過3次', color: 'bg-red-100 text-red-700 border-red-300' };
+                    if (reason === 'errors') return { text: '答錯達 2 次', color: 'bg-red-100 text-red-700 border-red-300' };
                     return null;
                 };
 
@@ -905,7 +994,8 @@
                         </div>
 
                         {/* 選擇題／填空題結果 */}
-                        {(quizType === 'choice' || quizType === 'cloze') && history.length > 0 && (
+                        {quizType === 'cloze' && <div className="space-y-4 mb-6">{history.map((record, index) => <ClozeResultCard key={index} record={record} index={index} />)}</div>}
+                        {quizType === 'choice' && history.length > 0 && (
                             <div className="bg-white rounded-2xl shadow-sm border-2 border-slate-200 overflow-hidden mx-1 mb-6">
                                 <table className="w-full text-sm text-left">
                                     <thead className="text-xs text-slate-500 uppercase bg-slate-100 border-b border-slate-200">
@@ -918,17 +1008,10 @@
                                                 <td className="px-3 py-3">
                                                     <div className="font-bold text-slate-700">{record.q}</div>
                                                     <div className="flex flex-col text-xs mt-1 gap-0.5">
-                                                        {quizType === 'cloze' ? (<>
-                                                            <div className="text-slate-700 font-bold">正確答案：{record.correct}</div>
-                                                            <div className={`font-bold ${record.isCorrect ? 'text-emerald-700' : 'text-red-700'}`}>
-                                                                {record.isCorrect ? '✓ 正確' : '✗ 錯誤'}・你的答案：{record.user}
-                                                            </div>
-                                                        </>) : (<>
-                                                            <div className={record.isCorrect ? "text-emerald-600 font-bold" : "text-rose-500 font-bold"}>
-                                                                {record.isCorrect ? "✅ 你答對了" : `❌ 您選: ${record.user}`}
-                                                            </div>
-                                                            {!record.isCorrect && (<div className="text-emerald-600 font-bold">✅ 正解: {record.correct}</div>)}
-                                                        </>)}
+                                                        <div className={record.isCorrect ? "text-emerald-600 font-bold" : "text-rose-500 font-bold"}>
+                                                            {record.isCorrect ? "✅ 你答對了" : `❌ 您選: ${record.user}`}
+                                                        </div>
+                                                        {!record.isCorrect && <div className="text-emerald-600 font-bold">✅ 正解: {record.correct}</div>}
                                                     </div>
                                                 </td>
                                                 <td className="px-3 py-3 text-center font-black">{record.points > 0 ? <span className="text-emerald-500">+{record.points}</span> : <span className="text-slate-300">0</span>}</td>
@@ -946,18 +1029,19 @@
                                     const noScore = !record.scored;
                                     const tag = noScore ? reasonLabel(record.reason) : null;
                                     return (
-                                        <div key={idx} className={`bg-white rounded-2xl border-l-8 px-4 py-3 shadow-sm flex items-center justify-between ${record.scored ? 'border-emerald-400' : 'border-rose-400'}`}>
+                                        <div key={idx} className={`bg-white rounded-2xl border-l-8 px-4 py-3 shadow-sm flex flex-wrap items-start justify-between gap-3 ${record.scored ? 'border-emerald-400' : 'border-rose-400'}`}>
                                             <div className="flex items-center gap-3">
                                                 <span className="font-black text-slate-300 text-sm w-5">{idx + 1}</span>
                                                 <div>
-                                                    <div className="font-black text-lg text-slate-700">{record.word}</div>
+                                                    <div className="font-black text-lg text-slate-700 break-words">{record.word}</div>
+                                                    <p className="text-xs font-bold text-slate-600 mt-1">提示 {record.hintCount} 個字・答錯 {record.errorCount} 次・{record.viewedAnswer ? '已查看答案' : '未查看答案'}</p>
                                                     {tag && <span className={`text-xs font-bold px-2 py-0.5 rounded-full border ${tag.color}`}>{tag.text}</span>}
                                                 </div>
                                             </div>
                                             <div className="font-black text-lg">
                                                 {record.scored
                                                     ? <span className="text-emerald-500 flex items-center gap-1"><CheckCircle className="w-5 h-5" /> 正確</span>
-                                                    : <span className="text-rose-400 flex items-center gap-1"><XCircle className="w-5 h-5" /> 錯誤</span>
+                                                    : <span className="text-rose-700 flex items-center gap-1 whitespace-nowrap"><XCircle className="w-5 h-5" /> 不計分</span>
                                                 }
                                             </div>
                                         </div>
@@ -975,9 +1059,10 @@
             return (
                 <div className="flex flex-col h-full max-w-md mx-auto">
                     <div className="mb-4 px-1 flex items-center justify-between"><div className="bg-white border-2 border-slate-200 px-3 py-1 rounded-full font-black text-slate-400 text-xs shadow-sm">STAGE {currentQIndex + 1} / {quizData.length}</div><div className="bg-yellow-100 border-2 border-yellow-300 px-3 py-1 rounded-full font-black text-yellow-700 text-xs shadow-sm">SCORE: {score}</div></div>
-                    <div className="bg-white border-4 border-b-8 border-violet-200 rounded-3xl shrink-0 p-5 sm:p-8 mb-3 text-center relative overflow-hidden shadow-sm group"><div className="absolute top-3 left-1/2 -translate-x-1/2 bg-violet-100 text-violet-600 px-3 py-1 rounded-lg text-xs font-black uppercase tracking-wider">Question</div><h2 className={`font-black ${currentQ.isCloze ? 'text-xl' : 'text-3xl'} text-slate-800 mt-6 leading-relaxed`}>{currentQ.isCloze && selectedOption ? currentQ.questionText.split(/＿{4,}|_{4,}/).map((part, i, arr) => (<React.Fragment key={i}>{part}{i < arr.length - 1 && (<span className="inline-block min-w-[60px] border-b-4 mx-1 px-1 font-black text-emerald-700 border-emerald-400">{currentQ.correctAnswer}</span>)}</React.Fragment>)) : currentQ.questionText}</h2>{currentQ.isCloze && <p className="mt-2 text-xs font-bold text-violet-400">💡 選項都是單字原形，選出符合句意的字就好，不用管時態</p>}{currentQ.isCloze && selectedOption && <p className="mt-3 text-sm font-bold text-slate-400 animate-in fade-in">{currentQ.sentenceChinese}</p>}{currentQ.audio && (!currentQ.isCloze || selectedOption) && <button onClick={() => speakText(currentQ.audio)} className="mt-4 p-2 bg-slate-100 rounded-full text-slate-400 hover:text-violet-500 hover:bg-violet-50 border-2 border-slate-200 hover:border-violet-200 transition-colors"><Volume2 className="w-6 h-6 mx-auto" /></button>}</div>
+                    <div className="bg-white border-4 border-b-8 border-violet-200 rounded-3xl shrink-0 p-5 sm:p-8 mb-3 text-center relative overflow-hidden shadow-sm group"><div className="absolute top-3 left-1/2 -translate-x-1/2 bg-violet-100 text-violet-600 px-3 py-1 rounded-lg text-xs font-black uppercase tracking-wider">Question</div><h2 className={`font-black ${currentQ.isCloze ? 'text-xl' : 'text-3xl'} text-slate-800 mt-6 leading-relaxed`}>{currentQ.isCloze && selectedOption ? currentQ.questionText.split(/＿{2,}|_{3,}/).map((part, i, arr) => (<React.Fragment key={i}>{part}{i < arr.length - 1 && (<span className="inline-block min-w-[60px] border-b-4 mx-1 px-1 font-black text-emerald-700 border-emerald-400">{currentQ.correctAnswer}</span>)}</React.Fragment>)) : currentQ.questionText}</h2>{currentQ.isCloze && <p className="mt-2 text-sm font-bold text-violet-700">請根據句意，選出最適合的單字或片語。</p>}{currentQ.isCloze && selectedOption && currentQ.sentenceChinese && <p className="mt-3 text-sm font-bold text-slate-400 animate-in fade-in">{currentQ.sentenceChinese}</p>}{currentQ.audio && (!currentQ.isCloze || selectedOption) && <button onClick={() => speakText(currentQ.audio)} className="mt-4 p-2 bg-slate-100 rounded-full text-slate-400 hover:text-violet-500 hover:bg-violet-50 border-2 border-slate-200 hover:border-violet-200 transition-colors"><Volume2 className="w-6 h-6 mx-auto" /></button>}</div>
                     {quizType === 'cloze' ? (<div className="mb-4 text-center text-sm font-bold text-emerald-700">不限時間・每題答對 100 分</div>) : (<div role="progressbar" aria-label="本題剩餘秒數" aria-valuemin={0} aria-valuemax={timeLimit} aria-valuenow={timeLeft} className="relative shrink-0 h-6 bg-slate-100 rounded-full overflow-hidden border-2 border-slate-300 mb-4 mx-1"><div className={`h-full transition-all duration-1000 ease-linear ${timeLeft <= 3 ? 'bg-rose-500' : 'bg-sky-400'}`} style={{ width: `${(timeLeft / timeLimit) * 100}%` }}></div><div className="absolute inset-0 flex items-center justify-center text-xs font-black text-slate-600 drop-shadow-sm"><Timer className="w-3 h-3 mr-1" /> {timeLeft}s (滿分遞減)</div></div>)}
                     <div className="grid grid-cols-1 gap-3 pb-8">{currentQ.options.map((option, idx) => { let color = "white"; if (selectedOption) { if (option.isCorrect) color = "green"; else if (selectedOption.id === option.id && !option.isCorrect) color = "red"; else if (selectedOption.id === 'timeout' && !option.isCorrect) color = "white"; } return (<GameButton key={idx} disabled={!!selectedOption} onClick={() => handleOptionClick(option)} color={color} className={`justify-between py-4 text-left ${!selectedOption && "hover:bg-slate-50"}`}><span className="flex items-center gap-3 text-left"><span className="w-8 h-8 rounded-lg bg-slate-100 text-slate-500 border-2 border-slate-200 flex items-center justify-center font-black shrink-0">{String.fromCharCode(65 + idx)}</span><span className="text-lg">{option.text}</span></span>{selectedOption && option.isCorrect && <CheckCircle className="w-6 h-6 animate-bounce" />}{selectedOption && selectedOption.id === option.id && !option.isCorrect && <XCircle className="w-6 h-6 animate-pulse" />}</GameButton>); })}</div>
+                    {currentQ.isCloze && selectedOption && <div className="mb-28 bg-indigo-50 border-2 border-indigo-100 rounded-xl p-4 flex items-start gap-2"><Info className="w-5 h-5 shrink-0 text-indigo-600" /><p className="text-indigo-800 text-sm font-bold leading-relaxed">{currentQ.hint}</p></div>}
                     {selectedOption && <div className="fixed bottom-6 left-0 right-0 p-4 bg-transparent pointer-events-none flex justify-center z-20"><button onClick={nextQuestion} className="pointer-events-auto bg-slate-800 text-white px-8 py-4 rounded-2xl font-black text-xl shadow-2xl hover:bg-slate-900 hover:scale-105 transition-all flex items-center gap-2 animate-in slide-in-from-bottom-4 border-b-8 border-black">{currentQIndex < quizData.length - 1 ? "NEXT STAGE" : "FINISH"} <ChevronRight className="w-6 h-6" /></button></div>}
                 </div>
             );
@@ -1007,7 +1092,7 @@
                 return { ...item, options, answer, answer_index: answer_index >= 0 ? answer_index : item.answer_index };
             };
             const prepareQuizData = (rawList) => { if (!rawList) return []; const selected = shuffleArray(rawList.map(normalizeGrammarItem)).slice(0, 10); return selected.map(item => ({ ...item, options: shuffleArray([...item.options]) })); };
-            const handleShowMasterList = () => { const pwd = prompt("請輸入管理員密碼："); if (pwd === "1999") { setShowAllQuestions(true); } else if (pwd !== null) { alert("密碼錯誤！"); } };
+            const handleShowMasterList = () => { const pwd = prompt("請輸入管理員密碼："); if (pwd === ADMIN_PASSWORD) { setShowAllQuestions(true); } else if (pwd !== null) { alert("密碼錯誤！"); } };
             useEffect(() => { setMode('notes'); setStatus('menu'); }, [grammarData]);
             const startQuiz = () => { if (grammarData?.quiz) { setQuizList(prepareQuizData(grammarData.quiz)); setCurrentQuizIndex(0); setScore(0); setHistory([]); setSelectedOption(null); setStatus('playing'); } };
             const handleOptionClick = (option, correctAns, qItem) => { if (selectedOption) return; setSelectedOption(option); const isCorrect = option === correctAns; if (isCorrect) { setScore(prev => { const currentCorrect = history.filter(h => h.isCorrect).length + 1; return Math.round((currentCorrect / quizList.length) * 100); }); playSound('correct'); } else { playSound('wrong'); } setHistory(prev => [...prev, { question: qItem.question, userAns: option, correctAns: correctAns, isCorrect: isCorrect, hint: qItem.hint }]); };
@@ -1932,7 +2017,7 @@
                     <div key={currentUnit} className={`flex-1 ${activeTab === 'game' ? 'max-w-5xl' : 'max-w-md'} mx-auto w-full p-4 pt-6`}>
                         <div className="mb-6 text-center"><span className="inline-flex items-center gap-2 bg-slate-800 text-white text-xs font-black px-4 py-1.5 rounded-full border-2 border-slate-600 shadow-md"><Map className="w-3 h-3 text-yellow-400" />目前關卡：{unitLabel}</span></div>
                         {activeTab === 'study' && <StudyMode data={allStudyData} />}
-                        {activeTab === 'quiz' && <QuizMode data={allStudyData} grammarData={unitGrammar} />}
+                        {activeTab === 'quiz' && <QuizMode data={allStudyData} clozeData={unitsData[currentUnit].cloze_quiz || EMPTY_CLOZE_QUIZ} />}
                         {activeTab === 'sentences' && <ScrambleContainer scrambles={unitScrambles} fullUnitData={unitsData[currentUnit]} />}
                         {activeTab === 'grammar' && <GrammarMode grammarData={unitGrammar} />}
                         {activeTab === 'game' && (

@@ -133,7 +133,289 @@
           { "id": "gd-u4-sg029", "sentence": "Yes, please!", "sentence_chinese": "好的，謝謝！" },
           { "id": "gd-u4-sg030", "sentence": "I want some juice and a hot dog.", "sentence_chinese": "我想要一些果汁和一個熱狗。" }
         ]
-      }
+      },
+      "cloze_quiz": [
+        {
+          "id": "gd-u4-cq001",
+          "vocab_id": "gd-u4-v001",
+          "question": "I want a ___ with a sausage inside the bread.",
+          "options": [
+            "egg",
+            "tea",
+            "hot dog",
+            "cupcake"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "hot dog 是熱狗麵包；麵包中夾香腸是線索。"
+        },
+        {
+          "id": "gd-u4-cq002",
+          "vocab_id": "gd-u4-v001",
+          "question": "Put a sausage in a long bun to make a ___.",
+          "options": [
+            "egg",
+            "cupcake",
+            "tea",
+            "hot dog"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "hot dog 是熱狗麵包；麵包中夾香腸是線索。"
+        },
+        {
+          "id": "gd-u4-cq003",
+          "vocab_id": "gd-u4-v001",
+          "question": "This ___ has a sausage, bread, and ketchup.",
+          "options": [
+            "egg",
+            "cupcake",
+            "hot dog",
+            "tea"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "hot dog 是熱狗麵包；麵包中夾香腸是線索。"
+        },
+        {
+          "id": "gd-u4-cq004",
+          "vocab_id": "gd-u4-v002",
+          "question": "Crack an ___ into the bowl.",
+          "options": [
+            "egg",
+            "juice",
+            "bread",
+            "tea"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "egg 是蛋；蛋殼和蛋黃是線索。"
+        },
+        {
+          "id": "gd-u4-cq005",
+          "vocab_id": "gd-u4-v002",
+          "question": "This ___ has a white shell and a yellow yolk.",
+          "options": [
+            "tea",
+            "juice",
+            "bread",
+            "egg"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "egg 是蛋；蛋殼和蛋黃是線索。"
+        },
+        {
+          "id": "gd-u4-cq006",
+          "vocab_id": "gd-u4-v002",
+          "question": "A chicken laid an ___ this morning.",
+          "options": [
+            "juice",
+            "tea",
+            "egg",
+            "bread"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "egg 是蛋；蛋殼和蛋黃是線索。"
+        },
+        {
+          "id": "gd-u4-cq007",
+          "vocab_id": "gd-u4-v003",
+          "question": "I need two slices of ___ for my sandwich.",
+          "options": [
+            "bread",
+            "tea",
+            "juice",
+            "milk"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "bread 是麵包；吐司或三明治材料是線索。"
+        },
+        {
+          "id": "gd-u4-cq008",
+          "vocab_id": "gd-u4-v003",
+          "question": "Put the ___ in the toaster.",
+          "options": [
+            "bread",
+            "milk",
+            "tea",
+            "juice"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "bread 是麵包；吐司或三明治材料是線索。"
+        },
+        {
+          "id": "gd-u4-cq009",
+          "vocab_id": "gd-u4-v003",
+          "question": "We spread butter on a slice of ___.",
+          "options": [
+            "juice",
+            "tea",
+            "milk",
+            "bread"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "bread 是麵包；吐司或三明治材料是線索。"
+        },
+        {
+          "id": "gd-u4-cq010",
+          "vocab_id": "gd-u4-v004",
+          "question": "We squeeze oranges to make ___.",
+          "options": [
+            "milk",
+            "bread",
+            "juice",
+            "tea"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "juice 是果汁；將水果榨汁是線索。"
+        },
+        {
+          "id": "gd-u4-cq011",
+          "vocab_id": "gd-u4-v004",
+          "question": "Would you like a glass of apple ___?",
+          "options": [
+            "tea",
+            "juice",
+            "milk",
+            "bread"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "juice 是果汁；將水果榨汁是線索。"
+        },
+        {
+          "id": "gd-u4-cq012",
+          "vocab_id": "gd-u4-v004",
+          "question": "This grape ___ is made from fresh fruit.",
+          "options": [
+            "tea",
+            "bread",
+            "milk",
+            "juice"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "juice 是果汁；將水果榨汁是線索。"
+        },
+        {
+          "id": "gd-u4-cq013",
+          "vocab_id": "gd-u4-v005",
+          "question": "Cows give us ___ to drink.",
+          "options": [
+            "bread",
+            "milk",
+            "juice",
+            "tea"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "milk 是牛奶；乳牛提供的白色飲品是線索。"
+        },
+        {
+          "id": "gd-u4-cq014",
+          "vocab_id": "gd-u4-v005",
+          "question": "I pour some ___ from the milk carton into my cereal.",
+          "options": [
+            "tea",
+            "milk",
+            "bread",
+            "juice"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "milk 是牛奶；乳牛提供的白色飲品是線索。"
+        },
+        {
+          "id": "gd-u4-cq015",
+          "vocab_id": "gd-u4-v005",
+          "question": "This white drink comes from cows. It is ___.",
+          "options": [
+            "milk",
+            "juice",
+            "tea",
+            "bread"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "milk 是牛奶；乳牛提供的白色飲品是線索。"
+        },
+        {
+          "id": "gd-u4-cq016",
+          "vocab_id": "gd-u4-v006",
+          "question": "This small ___ has pink icing on top.",
+          "options": [
+            "egg",
+            "milk",
+            "tea",
+            "cupcake"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "cupcake 是杯子蛋糕；小蛋糕上有糖霜是線索。"
+        },
+        {
+          "id": "gd-u4-cq017",
+          "vocab_id": "gd-u4-v006",
+          "question": "Mom put a candle on my little ___.",
+          "options": [
+            "egg",
+            "milk",
+            "cupcake",
+            "tea"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "cupcake 是杯子蛋糕；小蛋糕上有糖霜是線索。"
+        },
+        {
+          "id": "gd-u4-cq018",
+          "vocab_id": "gd-u4-v006",
+          "question": "I ate a chocolate ___ baked in a small paper cup.",
+          "options": [
+            "cupcake",
+            "tea",
+            "egg",
+            "milk"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "cupcake 是杯子蛋糕；小蛋糕上有糖霜是線索。"
+        },
+        {
+          "id": "gd-u4-cq019",
+          "vocab_id": "gd-u4-v007",
+          "question": "Put the ___ leaves into hot water.",
+          "options": [
+            "bread",
+            "tea",
+            "egg",
+            "milk"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "tea 是茶；茶葉泡熱水是線索。"
+        },
+        {
+          "id": "gd-u4-cq020",
+          "vocab_id": "gd-u4-v007",
+          "question": "Grandpa makes ___ with a tea bag.",
+          "options": [
+            "milk",
+            "tea",
+            "bread",
+            "egg"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "tea 是茶；茶葉泡熱水是線索。"
+        }
+      ]
     }
   }
 }

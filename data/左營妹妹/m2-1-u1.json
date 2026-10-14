@@ -303,7 +303,289 @@
           {"id": "m2-1-u1-sg029", "sentence": "Harry was scared of ghosts many years ago.", "sentence_chinese": "Harry 很多年前很怕鬼。"},
           {"id": "m2-1-u1-sg030", "sentence": "They celebrated Christmas in the restaurant last Saturday.", "sentence_chinese": "他們上星期六在餐廳慶祝聖誕節。"}
         ]
-      }
+      },
+      "cloze_quiz": [
+        {
+          "id": "m2-1-u1-cq001",
+          "vocab_id": "m2-1-u1-v001",
+          "question": "Today is Tuesday. Monday was ___.",
+          "options": [
+            "soon",
+            "tomorrow",
+            "yesterday",
+            "later"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "yesterday 是昨天，即今天的前一天。"
+        },
+        {
+          "id": "m2-1-u1-cq002",
+          "vocab_id": "m2-1-u1-v002",
+          "question": "I need to ___ English before tomorrow's test.",
+          "options": [
+            "sleep",
+            "swim",
+            "study",
+            "dance"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "study 是讀書、研讀；準備考試是線索。"
+        },
+        {
+          "id": "m2-1-u1-cq003",
+          "vocab_id": "m2-1-u1-v003",
+          "question": "We ___ slowly around the park every morning.",
+          "options": [
+            "read",
+            "swim",
+            "jog",
+            "fly"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "jog 是慢跑；慢慢地跑步是線索。"
+        },
+        {
+          "id": "m2-1-u1-cq004",
+          "vocab_id": "m2-1-u1-v004",
+          "question": "Let us ___ this TV show together.",
+          "options": [
+            "watch",
+            "close",
+            "borrow",
+            "carry"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "watch 是觀看；觀看電視節目是線索。"
+        },
+        {
+          "id": "m2-1-u1-cq005",
+          "vocab_id": "m2-1-u1-v009",
+          "question": "I moved here two years ___.",
+          "options": [
+            "soon",
+            "later",
+            "tomorrow",
+            "ago"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "ago 指以前，放在一段時間後表示距今多久。"
+        },
+        {
+          "id": "m2-1-u1-cq006",
+          "vocab_id": "m2-1-u1-v010",
+          "question": "My mother and father are my ___.",
+          "options": [
+            "cousins",
+            "friends",
+            "parents",
+            "children"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "parents 是父母，指爸爸和媽媽。"
+        },
+        {
+          "id": "m2-1-u1-cq007",
+          "vocab_id": "m2-1-u1-v012",
+          "question": "I will ___ my sick sister while Mom is away.",
+          "options": [
+            "look after",
+            "look up",
+            "look at",
+            "look for"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "look after 是照顧；照顧生病的家人是線索。"
+        },
+        {
+          "id": "m2-1-u1-cq008",
+          "vocab_id": "m2-1-u1-v017",
+          "question": "My first day at school is a happy ___ for me.",
+          "options": [
+            "circle",
+            "flower",
+            "meal",
+            "memory"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "memory 是回憶；記得過去發生的事是線索。"
+        },
+        {
+          "id": "m2-1-u1-cq009",
+          "vocab_id": "m2-1-u1-v018",
+          "question": "Nobody ate alone. We had dinner ___.",
+          "options": [
+            "alone",
+            "outside",
+            "away",
+            "together"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "together 是一起；大家共同活動是線索。"
+        },
+        {
+          "id": "m2-1-u1-cq010",
+          "vocab_id": "m2-1-u1-v019",
+          "question": "This tea has a lot of sugar. It is too ___.",
+          "options": [
+            "bitter",
+            "salty",
+            "sour",
+            "sweet"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "sweet 是甜的；糖的味道是線索。"
+        },
+        {
+          "id": "m2-1-u1-cq011",
+          "vocab_id": "m2-1-u1-v021",
+          "question": "I enjoy listening to ___ while I relax.",
+          "options": [
+            "news",
+            "music",
+            "homework",
+            "weather"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "music 是音樂；歌曲與旋律是線索。"
+        },
+        {
+          "id": "m2-1-u1-cq012",
+          "vocab_id": "m2-1-u1-v022",
+          "question": "Draw a ___ that is round and has no corners.",
+          "options": [
+            "circle",
+            "triangle",
+            "square",
+            "line"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "circle 是圓形；圓、沒有角是線索。"
+        },
+        {
+          "id": "m2-1-u1-cq013",
+          "vocab_id": "m2-1-u1-v024",
+          "question": "This ___ has yellow petals and smells nice.",
+          "options": [
+            "flower",
+            "stone",
+            "cloud",
+            "chair"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "flower 是花；花瓣和花香是線索。"
+        },
+        {
+          "id": "m2-1-u1-cq014",
+          "vocab_id": "m2-1-u1-v026",
+          "question": "Light a ___ when the power goes out.",
+          "options": [
+            "plate",
+            "book",
+            "candle",
+            "cup"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "candle 是蠟燭；點燃後有小火焰是線索。"
+        },
+        {
+          "id": "m2-1-u1-cq015",
+          "vocab_id": "m2-1-u1-v028",
+          "question": "Use a broom to ___ the floor.",
+          "options": [
+            "open",
+            "sweep",
+            "build",
+            "paint"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "sweep 是掃地；用掃把去除地板上的灰塵。"
+        },
+        {
+          "id": "m2-1-u1-cq016",
+          "vocab_id": "m2-1-u1-v029",
+          "question": "I know your face, but I cannot ___ your name.",
+          "options": [
+            "remember",
+            "lose",
+            "forget",
+            "hide"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "remember 是記得；想起名字是線索。"
+        },
+        {
+          "id": "m2-1-u1-cq017",
+          "vocab_id": "m2-1-u1-v031",
+          "question": "My uncle is a ___ of mine.",
+          "options": [
+            "teacher",
+            "neighbor",
+            "stranger",
+            "relative"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "relative 是親戚；叔叔是家族成員。"
+        },
+        {
+          "id": "m2-1-u1-cq018",
+          "vocab_id": "m2-1-u1-v035",
+          "question": "The children each got a piece of sweet ___.",
+          "options": [
+            "rice",
+            "candy",
+            "soup",
+            "salt"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "candy 是糖果；甜的小零食是線索。"
+        },
+        {
+          "id": "m2-1-u1-cq019",
+          "vocab_id": "m2-1-u1-v037",
+          "question": "I have a big cake. Let me ___ it with you.",
+          "options": [
+            "keep",
+            "share",
+            "throw",
+            "hide"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "share 是分享；把一部分給別人是線索。"
+        },
+        {
+          "id": "m2-1-u1-cq020",
+          "vocab_id": "m2-1-u1-v039",
+          "question": "Grandpa told us a ___ about a brave girl.",
+          "options": [
+            "price",
+            "story",
+            "color",
+            "season"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "story 是故事；人物與事件組成的敘述是線索。"
+        }
+      ]
     }
   }
 }

@@ -1389,7 +1389,289 @@
             "sentence_chinese": "你在旅途中弄丟相機了嗎？"
           }
         ]
-      }
+      },
+      "cloze_quiz": [
+        {
+          "id": "m1-6-u6-cq001",
+          "vocab_id": "m1-6-u6-v001",
+          "question": "We went to the ___ to catch our flight.",
+          "options": [
+            "station",
+            "temple",
+            "market",
+            "airport"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "airport 是機場；搭飛機與登機是線索。"
+        },
+        {
+          "id": "m1-6-u6-cq002",
+          "vocab_id": "m1-6-u6-v002",
+          "question": "I want to ___ around the world and see different countries.",
+          "options": [
+            "study",
+            "travel",
+            "cook",
+            "sleep"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "travel 是旅行；到不同國家遊覽是線索。"
+        },
+        {
+          "id": "m1-6-u6-cq003",
+          "vocab_id": "m1-6-u6-v003",
+          "question": "You look tired. Sit down and ___ for a while.",
+          "options": [
+            "dance",
+            "rest",
+            "work",
+            "run"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "rest 是休息；累了先休息一下。"
+        },
+        {
+          "id": "m1-6-u6-cq004",
+          "vocab_id": "m1-6-u6-v005",
+          "question": "We booked a room at a ___ for our trip.",
+          "options": [
+            "market",
+            "school",
+            "hotel",
+            "temple"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "hotel 是旅館；旅行時付費住宿的地方。"
+        },
+        {
+          "id": "m1-6-u6-cq005",
+          "vocab_id": "m1-6-u6-v006",
+          "question": "The ___ carried us high above the clouds.",
+          "options": [
+            "boat",
+            "bus",
+            "plane",
+            "train"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "plane 是飛機；在空中載客。"
+        },
+        {
+          "id": "m1-6-u6-cq006",
+          "vocab_id": "m1-6-u6-v008",
+          "question": "I bought a dictionary at the ___.",
+          "options": [
+            "bookstore",
+            "station",
+            "bakery",
+            "hospital"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "bookstore 是書店；買書的地方。"
+        },
+        {
+          "id": "m1-6-u6-cq007",
+          "vocab_id": "m1-6-u6-v009",
+          "question": "I will pay fifty dollars to ___ this book.",
+          "options": [
+            "sell",
+            "buy",
+            "lend",
+            "borrow"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "buy 是購買；付錢取得物品。"
+        },
+        {
+          "id": "m1-6-u6-cq008",
+          "vocab_id": "m1-6-u6-v011",
+          "question": "She wants to ___ how to play the piano.",
+          "options": [
+            "learn",
+            "lose",
+            "forget",
+            "break"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "learn 是學習；學會新事物是線索。"
+        },
+        {
+          "id": "m1-6-u6-cq009",
+          "vocab_id": "m1-6-u6-v012",
+          "question": "Grandma told a ___ about a clever fox.",
+          "options": [
+            "price",
+            "story",
+            "number",
+            "address"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "story 是故事；有人物和事件是線索。"
+        },
+        {
+          "id": "m1-6-u6-cq010",
+          "vocab_id": "m1-6-u6-v014",
+          "question": "The ___ runs on tracks between the two cities.",
+          "options": [
+            "train",
+            "bike",
+            "boat",
+            "plane"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "train 是火車；在鐵軌上行駛是線索。"
+        },
+        {
+          "id": "m1-6-u6-cq011",
+          "vocab_id": "m1-6-u6-v015",
+          "question": "It is very ___ outside. Wear your thickest coat.",
+          "options": [
+            "warm",
+            "hot",
+            "cool",
+            "cold"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "cold 是寒冷的；需要厚外套是線索。"
+        },
+        {
+          "id": "m1-6-u6-cq012",
+          "vocab_id": "m1-6-u6-v018",
+          "question": "Let us wait for the next train at the ___.",
+          "options": [
+            "station",
+            "bedroom",
+            "kitchen",
+            "classroom"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "station 是車站；等火車或搭車的地方。"
+        },
+        {
+          "id": "m1-6-u6-cq013",
+          "vocab_id": "m1-6-u6-v020",
+          "question": "The waiter brought our dinner at the ___.",
+          "options": [
+            "museum",
+            "library",
+            "bank",
+            "restaurant"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "restaurant 是餐廳；點餐和服務生是線索。"
+        },
+        {
+          "id": "m1-6-u6-cq014",
+          "vocab_id": "m1-6-u6-v021",
+          "question": "We watched a movie at the ___.",
+          "options": [
+            "school",
+            "hospital",
+            "theater",
+            "bank"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "theater 是劇院或戲院；看電影或表演的地方。"
+        },
+        {
+          "id": "m1-6-u6-cq015",
+          "vocab_id": "m1-6-u6-v022",
+          "question": "Mom bought vegetables from a stall at the ___.",
+          "options": [
+            "classroom",
+            "bathroom",
+            "market",
+            "bedroom"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "market 是市場；攤販賣蔬菜和水果。"
+        },
+        {
+          "id": "m1-6-u6-cq016",
+          "vocab_id": "m1-6-u6-v024",
+          "question": "This singer is ___; people around the world know her.",
+          "options": [
+            "unknown",
+            "quiet",
+            "empty",
+            "famous"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "famous 是有名的；很多人認識是線索。"
+        },
+        {
+          "id": "m1-6-u6-cq017",
+          "vocab_id": "m1-6-u6-v028",
+          "question": "Keep your ticket safe. Do not ___ it.",
+          "options": [
+            "lose",
+            "keep",
+            "carry",
+            "find"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "lose 是遺失；找不到物品是線索。"
+        },
+        {
+          "id": "m1-6-u6-cq018",
+          "vocab_id": "m1-6-u6-v030",
+          "question": "Let us ___ the gift so Dad cannot see it yet.",
+          "options": [
+            "carry",
+            "show",
+            "find",
+            "hide"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "hide 是藏起來；不讓其他人看到。"
+        },
+        {
+          "id": "m1-6-u6-cq019",
+          "vocab_id": "m1-6-u6-v031",
+          "question": "The workers will ___ a new house on this land.",
+          "options": [
+            "paint",
+            "wash",
+            "build",
+            "break"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "build 是建造；用材料蓋出新的房子。"
+        },
+        {
+          "id": "m1-6-u6-cq020",
+          "vocab_id": "m1-6-u6-v032",
+          "question": "Our three-day ___ to the mountains was wonderful.",
+          "options": [
+            "meal",
+            "trip",
+            "test",
+            "lesson"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "trip 是旅行；到外地遊玩的一段行程。"
+        }
+      ]
     }
   }
 }

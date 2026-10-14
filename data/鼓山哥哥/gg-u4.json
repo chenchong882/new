@@ -133,7 +133,289 @@
           { "id": "gg-u4-sg029", "sentence": "He goes to school at seven.", "sentence_chinese": "他七點去上學。" },
           { "id": "gg-u4-sg030", "sentence": "She goes to bed at ten.", "sentence_chinese": "她十點睡覺。" }
         ]
-      }
+      },
+      "cloze_quiz": [
+        {
+          "id": "gg-u4-cq001",
+          "vocab_id": "gg-u4-v001",
+          "question": "My alarm rings at seven, and I ___.",
+          "options": [
+            "go to bed",
+            "go home",
+            "have lunch",
+            "get up"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "get up 指起床；早上鬧鐘響是線索。"
+        },
+        {
+          "id": "gg-u4-cq002",
+          "vocab_id": "gg-u4-v001",
+          "question": "I ___ early every morning.",
+          "options": [
+            "get up",
+            "go to bed",
+            "go home",
+            "have lunch"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "get up 指起床；早上鬧鐘響是線索。"
+        },
+        {
+          "id": "gg-u4-cq003",
+          "vocab_id": "gg-u4-v001",
+          "question": "It is time to leave my bed and ___.",
+          "options": [
+            "go home",
+            "get up",
+            "go to bed",
+            "have lunch"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "get up 指起床；早上鬧鐘響是線索。"
+        },
+        {
+          "id": "gg-u4-cq004",
+          "vocab_id": "gg-u4-v002",
+          "question": "I carry my schoolbag and ___ in the morning.",
+          "options": [
+            "go to bed",
+            "take a bath",
+            "go to school",
+            "have lunch"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "go to school 是去上學；開始上課是線索。"
+        },
+        {
+          "id": "gg-u4-cq005",
+          "vocab_id": "gg-u4-v002",
+          "question": "Classes start at eight, so I must ___ now.",
+          "options": [
+            "go to school",
+            "go to bed",
+            "take a bath",
+            "have lunch"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "go to school 是去上學；開始上課是線索。"
+        },
+        {
+          "id": "gg-u4-cq006",
+          "vocab_id": "gg-u4-v002",
+          "question": "On school days, I ___ after breakfast.",
+          "options": [
+            "take a bath",
+            "go to school",
+            "go to bed",
+            "have lunch"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "go to school 是去上學；開始上課是線索。"
+        },
+        {
+          "id": "gg-u4-cq007",
+          "vocab_id": "gg-u4-v003",
+          "question": "It is noon. Let us ___.",
+          "options": [
+            "take a bath",
+            "get up",
+            "go to bed",
+            "have lunch"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "have lunch 是吃午餐；中午和午餐盒是線索。"
+        },
+        {
+          "id": "gg-u4-cq008",
+          "vocab_id": "gg-u4-v003",
+          "question": "I open my lunch box and ___.",
+          "options": [
+            "take a bath",
+            "go to bed",
+            "have lunch",
+            "get up"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "have lunch 是吃午餐；中午和午餐盒是線索。"
+        },
+        {
+          "id": "gg-u4-cq009",
+          "vocab_id": "gg-u4-v003",
+          "question": "We ___ in the school dining room at twelve.",
+          "options": [
+            "have lunch",
+            "go to bed",
+            "take a bath",
+            "get up"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "have lunch 是吃午餐；中午和午餐盒是線索。"
+        },
+        {
+          "id": "gg-u4-cq010",
+          "vocab_id": "gg-u4-v004",
+          "question": "School is over. It is time to ___.",
+          "options": [
+            "get up",
+            "take a bath",
+            "go home",
+            "go to school"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "go home 是回家；離開學校回到家是線索。"
+        },
+        {
+          "id": "gg-u4-cq011",
+          "vocab_id": "gg-u4-v004",
+          "question": "I leave school and ___ to see my family.",
+          "options": [
+            "take a bath",
+            "go home",
+            "go to school",
+            "get up"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "go home 是回家；離開學校回到家是線索。"
+        },
+        {
+          "id": "gg-u4-cq012",
+          "vocab_id": "gg-u4-v004",
+          "question": "After the party, I ___ with my parents.",
+          "options": [
+            "get up",
+            "go home",
+            "go to school",
+            "take a bath"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "go home 是回家；離開學校回到家是線索。"
+        },
+        {
+          "id": "gg-u4-cq013",
+          "vocab_id": "gg-u4-v005",
+          "question": "My teacher gave me math exercises. I must ___.",
+          "options": [
+            "have lunch",
+            "take a bath",
+            "do my homework",
+            "go to bed"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "do my homework 是做功課；老師交代的作業是線索。"
+        },
+        {
+          "id": "gg-u4-cq014",
+          "vocab_id": "gg-u4-v005",
+          "question": "I sit at my desk to ___ before playing.",
+          "options": [
+            "go to bed",
+            "take a bath",
+            "have lunch",
+            "do my homework"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "do my homework 是做功課；老師交代的作業是線索。"
+        },
+        {
+          "id": "gg-u4-cq015",
+          "vocab_id": "gg-u4-v005",
+          "question": "I need to ___ and hand it in tomorrow.",
+          "options": [
+            "do my homework",
+            "go to bed",
+            "have lunch",
+            "take a bath"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "do my homework 是做功課；老師交代的作業是線索。"
+        },
+        {
+          "id": "gg-u4-cq016",
+          "vocab_id": "gg-u4-v006",
+          "question": "I use warm water and soap to ___.",
+          "options": [
+            "take a bath",
+            "have lunch",
+            "get up",
+            "go to school"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "take a bath 是洗澡；浴缸、水與肥皂是線索。"
+        },
+        {
+          "id": "gg-u4-cq017",
+          "vocab_id": "gg-u4-v006",
+          "question": "The bathtub is ready. I will ___.",
+          "options": [
+            "get up",
+            "take a bath",
+            "go to school",
+            "have lunch"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "take a bath 是洗澡；浴缸、水與肥皂是線索。"
+        },
+        {
+          "id": "gg-u4-cq018",
+          "vocab_id": "gg-u4-v006",
+          "question": "I am dirty after playing. I need to ___.",
+          "options": [
+            "go to school",
+            "get up",
+            "take a bath",
+            "have lunch"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "take a bath 是洗澡；浴缸、水與肥皂是線索。"
+        },
+        {
+          "id": "gg-u4-cq019",
+          "vocab_id": "gg-u4-v007",
+          "question": "It is ten at night. I need to ___.",
+          "options": [
+            "get up",
+            "have lunch",
+            "go to school",
+            "go to bed"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "go to bed 是上床睡覺；晚上準備睡眠是線索。"
+        },
+        {
+          "id": "gg-u4-cq020",
+          "vocab_id": "gg-u4-v007",
+          "question": "I put on my pajamas and ___ to sleep.",
+          "options": [
+            "go to school",
+            "have lunch",
+            "get up",
+            "go to bed"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "go to bed 是上床睡覺；晚上準備睡眠是線索。"
+        }
+      ]
     }
   }
 }

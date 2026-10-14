@@ -133,7 +133,289 @@
           { "id": "gd-u1-sg029", "sentence": "Yes, she is.", "sentence_chinese": "是的，她是。" },
           { "id": "gd-u1-sg030", "sentence": "Is he thirsty?", "sentence_chinese": "他口渴嗎？" }
         ]
-      }
+      },
+      "cloze_quiz": [
+        {
+          "id": "gd-u1-cq001",
+          "vocab_id": "gd-u1-v001",
+          "question": "Someone broke my toy. I am ___.",
+          "options": [
+            "happy",
+            "thirsty",
+            "angry",
+            "hungry"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "angry 是生氣的；東西被弄壞或被騙是線索。"
+        },
+        {
+          "id": "gd-u1-cq002",
+          "vocab_id": "gd-u1-v001",
+          "question": "He told me a lie. I felt ___.",
+          "options": [
+            "happy",
+            "thirsty",
+            "hungry",
+            "angry"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "angry 是生氣的；東西被弄壞或被騙是線索。"
+        },
+        {
+          "id": "gd-u1-cq003",
+          "vocab_id": "gd-u1-v001",
+          "question": "Stop laughing at me! I am ___ now.",
+          "options": [
+            "happy",
+            "angry",
+            "thirsty",
+            "hungry"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "angry 是生氣的；東西被弄壞或被騙是線索。"
+        },
+        {
+          "id": "gd-u1-cq004",
+          "vocab_id": "gd-u1-v002",
+          "question": "I want some water. I am ___.",
+          "options": [
+            "hungry",
+            "angry",
+            "thirsty",
+            "sad"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "thirsty 是口渴的；想喝水是線索。"
+        },
+        {
+          "id": "gd-u1-cq005",
+          "vocab_id": "gd-u1-v002",
+          "question": "I am ___. May I have a drink?",
+          "options": [
+            "sad",
+            "angry",
+            "hungry",
+            "thirsty"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "thirsty 是口渴的；想喝水是線索。"
+        },
+        {
+          "id": "gd-u1-cq006",
+          "vocab_id": "gd-u1-v002",
+          "question": "After running, I felt ___ and drank water.",
+          "options": [
+            "hungry",
+            "angry",
+            "sad",
+            "thirsty"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "thirsty 是口渴的；想喝水是線索。"
+        },
+        {
+          "id": "gd-u1-cq007",
+          "vocab_id": "gd-u1-v004",
+          "question": "I want a sandwich. I am ___.",
+          "options": [
+            "hungry",
+            "happy",
+            "angry",
+            "thirsty"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "hungry 是肚子餓的；想吃東西是線索。"
+        },
+        {
+          "id": "gd-u1-cq008",
+          "vocab_id": "gd-u1-v004",
+          "question": "I did not eat breakfast. I feel ___.",
+          "options": [
+            "hungry",
+            "happy",
+            "angry",
+            "thirsty"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "hungry 是肚子餓的；想吃東西是線索。"
+        },
+        {
+          "id": "gd-u1-cq009",
+          "vocab_id": "gd-u1-v004",
+          "question": "I am ___. Can I have some food?",
+          "options": [
+            "angry",
+            "thirsty",
+            "happy",
+            "hungry"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "hungry 是肚子餓的；想吃東西是線索。"
+        },
+        {
+          "id": "gd-u1-cq010",
+          "vocab_id": "gd-u1-v003",
+          "question": "I got my favorite toy! I am ___.",
+          "options": [
+            "happy",
+            "sad",
+            "sick",
+            "angry"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "happy 是開心的；好消息或收到喜歡的禮物是線索。"
+        },
+        {
+          "id": "gd-u1-cq011",
+          "vocab_id": "gd-u1-v003",
+          "question": "We won the game. We feel ___.",
+          "options": [
+            "angry",
+            "happy",
+            "sad",
+            "sick"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "happy 是開心的；好消息或收到喜歡的禮物是線索。"
+        },
+        {
+          "id": "gd-u1-cq012",
+          "vocab_id": "gd-u1-v003",
+          "question": "Mom smiled because she was ___ to see me.",
+          "options": [
+            "happy",
+            "sick",
+            "angry",
+            "sad"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "happy 是開心的；好消息或收到喜歡的禮物是線索。"
+        },
+        {
+          "id": "gd-u1-cq013",
+          "vocab_id": "gd-u1-v005",
+          "question": "My pet died, and I felt very ___.",
+          "options": [
+            "happy",
+            "thirsty",
+            "sad",
+            "hungry"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "sad 是難過的；失去喜愛的東西是線索。"
+        },
+        {
+          "id": "gd-u1-cq014",
+          "vocab_id": "gd-u1-v005",
+          "question": "I lost my favorite toy. I am ___.",
+          "options": [
+            "happy",
+            "sad",
+            "hungry",
+            "thirsty"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "sad 是難過的；失去喜愛的東西是線索。"
+        },
+        {
+          "id": "gd-u1-cq015",
+          "vocab_id": "gd-u1-v005",
+          "question": "She cried because her best friend moved away. She felt ___.",
+          "options": [
+            "hungry",
+            "sad",
+            "happy",
+            "thirsty"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "sad 是難過的；失去喜愛的東西是線索。"
+        },
+        {
+          "id": "gd-u1-cq016",
+          "vocab_id": "gd-u1-v006",
+          "question": "I have a fever. I am ___.",
+          "options": [
+            "happy",
+            "sick",
+            "hungry",
+            "angry"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "sick 是生病的；發燒或需要看醫生是線索。"
+        },
+        {
+          "id": "gd-u1-cq017",
+          "vocab_id": "gd-u1-v006",
+          "question": "He is ___, so he needs to see a doctor.",
+          "options": [
+            "happy",
+            "angry",
+            "hungry",
+            "sick"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "sick 是生病的；發燒或需要看醫生是線索。"
+        },
+        {
+          "id": "gd-u1-cq018",
+          "vocab_id": "gd-u1-v006",
+          "question": "She stayed home because she was ___ with a cold.",
+          "options": [
+            "angry",
+            "hungry",
+            "sick",
+            "happy"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "sick 是生病的；發燒或需要看醫生是線索。"
+        },
+        {
+          "id": "gd-u1-cq019",
+          "vocab_id": "gd-u1-v007",
+          "question": "I worked all day. I feel ___ and need a rest.",
+          "options": [
+            "tired",
+            "hungry",
+            "happy",
+            "angry"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "tired 是疲倦的；想休息或睡覺是線索。"
+        },
+        {
+          "id": "gd-u1-cq020",
+          "vocab_id": "gd-u1-v007",
+          "question": "I am ___. I want to sleep.",
+          "options": [
+            "angry",
+            "happy",
+            "tired",
+            "hungry"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "tired 是疲倦的；想休息或睡覺是線索。"
+        }
+      ]
     }
   }
 }

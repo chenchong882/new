@@ -1403,7 +1403,289 @@
             "sentence_chinese": "我們去日本期間沒有下很多雨。"
           }
         ]
-      }
+      },
+      "cloze_quiz": [
+        {
+          "id": "m2-1-u1-cq001",
+          "vocab_id": "m2-1-u1-v001",
+          "question": "Spring is my favorite ___ of the year.",
+          "options": [
+            "minute",
+            "season",
+            "week",
+            "hour"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "season 是季節；春夏秋冬是四個季節。"
+        },
+        {
+          "id": "m2-1-u1-cq002",
+          "vocab_id": "m2-1-u1-v002",
+          "question": "Check the ___ before our trip. It may rain.",
+          "options": [
+            "weather",
+            "homework",
+            "price",
+            "music"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "weather 是天氣；晴雨、冷熱都是天氣狀況。"
+        },
+        {
+          "id": "m2-1-u1-cq003",
+          "vocab_id": "m2-1-u1-v003",
+          "question": "It is ___ today, so take an umbrella.",
+          "options": [
+            "clear",
+            "rainy",
+            "sunny",
+            "dry"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "rainy 指下雨的；需要雨傘是線索。"
+        },
+        {
+          "id": "m2-1-u1-cq004",
+          "vocab_id": "m2-1-u1-v004",
+          "question": "My shoes are ___ because I stepped in water.",
+          "options": [
+            "clean",
+            "dry",
+            "warm",
+            "wet"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "wet 是濕的；被水淋到是線索。"
+        },
+        {
+          "id": "m2-1-u1-cq005",
+          "vocab_id": "m2-1-u1-v005",
+          "question": "The sky is clear and the sun is bright. It is ___.",
+          "options": [
+            "snowy",
+            "rainy",
+            "sunny",
+            "cloudy"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "sunny 是晴朗的；陽光明亮且沒有雲是線索。"
+        },
+        {
+          "id": "m2-1-u1-cq006",
+          "vocab_id": "m2-1-u1-v006",
+          "question": "Clouds cover the sun, but there is no rain. It is ___.",
+          "options": [
+            "snowy",
+            "rainy",
+            "sunny",
+            "cloudy"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "cloudy 指多雲的；雲遮住太陽，但沒有下雨是線索。"
+        },
+        {
+          "id": "m2-1-u1-cq007",
+          "vocab_id": "m2-1-u1-v007",
+          "question": "Hold your hat! It is very ___ outside.",
+          "options": [
+            "warm",
+            "dry",
+            "windy",
+            "quiet"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "windy 是風大的；強風吹動樹木是線索。"
+        },
+        {
+          "id": "m2-1-u1-cq008",
+          "vocab_id": "m2-1-u1-v008",
+          "question": "Snow is falling. It is a ___ day.",
+          "options": [
+            "cloudy",
+            "snowy",
+            "rainy",
+            "sunny"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "snowy 是下雪的；白色雪花是線索。"
+        },
+        {
+          "id": "m2-1-u1-cq009",
+          "vocab_id": "m2-1-u1-v009",
+          "question": "The season after winter is ___.",
+          "options": [
+            "spring",
+            "summer",
+            "winter",
+            "autumn"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "spring 是春天，在冬天之後、夏天之前。"
+        },
+        {
+          "id": "m2-1-u1-cq010",
+          "vocab_id": "m2-1-u1-v010",
+          "question": "In Taiwan, ___ is usually the hottest season.",
+          "options": [
+            "summer",
+            "autumn",
+            "spring",
+            "winter"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "summer 是夏天；一年中最熱的季節是線索。"
+        },
+        {
+          "id": "m2-1-u1-cq011",
+          "vocab_id": "m2-1-u1-v011",
+          "question": "The season between summer and winter is ___.",
+          "options": [
+            "winter",
+            "summer",
+            "spring",
+            "autumn"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "autumn 是秋天，在夏天之後、冬天之前。"
+        },
+        {
+          "id": "m2-1-u1-cq012",
+          "vocab_id": "m2-1-u1-v012",
+          "question": "We wear thick coats in ___, the coldest season.",
+          "options": [
+            "autumn",
+            "spring",
+            "winter",
+            "summer"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "winter 是冬天；一年中最冷的季節是線索。"
+        },
+        {
+          "id": "m2-1-u1-cq013",
+          "vocab_id": "m2-1-u1-v013",
+          "question": "Look up! A plane is flying across the ___.",
+          "options": [
+            "floor",
+            "road",
+            "sky",
+            "river"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "sky 是天空；向上看、雲和飛機是線索。"
+        },
+        {
+          "id": "m2-1-u1-cq014",
+          "vocab_id": "m2-1-u1-v015",
+          "question": "Open the window to let fresh ___ into the room.",
+          "options": [
+            "water",
+            "sand",
+            "oil",
+            "air"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "air 是空氣；呼吸時需要空氣。"
+        },
+        {
+          "id": "m2-1-u1-cq015",
+          "vocab_id": "m2-1-u1-v017",
+          "question": "Turn on the light. It is too ___ to read.",
+          "options": [
+            "wet",
+            "warm",
+            "bright",
+            "dark"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "dark 是黑暗的；看不到東西是線索。"
+        },
+        {
+          "id": "m2-1-u1-cq016",
+          "vocab_id": "m2-1-u1-v018",
+          "question": "Do not ___ your umbrella. It will rain later.",
+          "options": [
+            "carry",
+            "forget",
+            "remember",
+            "open"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "forget 是忘記；需要提醒以免漏帶東西。"
+        },
+        {
+          "id": "m2-1-u1-cq017",
+          "vocab_id": "m2-1-u1-v019",
+          "question": "Open your ___ to keep the rain off your head.",
+          "options": [
+            "umbrella",
+            "camera",
+            "ticket",
+            "basket"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "umbrella 是雨傘，用來擋雨。"
+        },
+        {
+          "id": "m2-1-u1-cq018",
+          "vocab_id": "m2-1-u1-v021",
+          "question": "This box is too ___ for me to lift alone.",
+          "options": [
+            "light",
+            "heavy",
+            "empty",
+            "soft"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "heavy 是重的；搬不動是線索。"
+        },
+        {
+          "id": "m2-1-u1-cq019",
+          "vocab_id": "m2-1-u1-v034",
+          "question": "The broken bridge is not ___. Do not cross it.",
+          "options": [
+            "dirty",
+            "broken",
+            "safe",
+            "dangerous"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "safe 是安全的；沒有危險是線索。"
+        },
+        {
+          "id": "m2-1-u1-cq020",
+          "vocab_id": "m2-1-u1-v035",
+          "question": "We should ___ nature by keeping rivers clean.",
+          "options": [
+            "protect",
+            "damage",
+            "pollute",
+            "forget"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "protect 是保護；使自然環境免受傷害。"
+        }
+      ]
     }
   }
 }

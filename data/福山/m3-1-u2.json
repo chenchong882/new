@@ -1560,7 +1560,289 @@
             "sentence_chinese": "這個感人的故事讓幾位學生默默流淚。"
           }
         ]
-      }
+      },
+      "cloze_quiz": [
+        {
+          "id": "m3-1-u2-cq001",
+          "vocab_id": "m3-1-u2-v001",
+          "question": "The ___ played a king in the movie.",
+          "options": [
+            "actor",
+            "nurse",
+            "farmer",
+            "driver"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "actor 是演員，通常指男性；在電影中扮演角色。"
+        },
+        {
+          "id": "m3-1-u2-cq002",
+          "vocab_id": "m3-1-u2-v003",
+          "question": "Your ___ beats to send blood around your body.",
+          "options": [
+            "knee",
+            "heart",
+            "shoulder",
+            "stomach"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "heart 是心臟；把血液送到全身。"
+        },
+        {
+          "id": "m3-1-u2-cq003",
+          "vocab_id": "m3-1-u2-v005",
+          "question": "I have nothing to do and feel ___.",
+          "options": [
+            "interested",
+            "bored",
+            "excited",
+            "surprised"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "bored 是覺得無聊；沒事做、失去興趣。"
+        },
+        {
+          "id": "m3-1-u2-cq004",
+          "vocab_id": "m3-1-u2-v006",
+          "question": "She is ___ and always does her best on every task.",
+          "options": [
+            "sleepy",
+            "careless",
+            "lazy",
+            "hard-working"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "hard-working 是勤奮的；認真努力完成工作。"
+        },
+        {
+          "id": "m3-1-u2-cq005",
+          "vocab_id": "m3-1-u2-v007",
+          "question": "If you do not know the answer, try to ___.",
+          "options": [
+            "remember",
+            "guess",
+            "explain",
+            "know"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "guess 是猜；沒有把握時試著答。"
+        },
+        {
+          "id": "m3-1-u2-cq006",
+          "vocab_id": "m3-1-u2-v009",
+          "question": "I was ___ when my friends suddenly gave me a party.",
+          "options": [
+            "hungry",
+            "sleepy",
+            "bored",
+            "surprised"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "surprised 是驚訝的；事先沒預期到。"
+        },
+        {
+          "id": "m3-1-u2-cq007",
+          "vocab_id": "m3-1-u2-v010",
+          "question": "The game was so ___ that we cheered until the end.",
+          "options": [
+            "exciting",
+            "dull",
+            "boring",
+            "ordinary"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "exciting 是令人興奮的；比賽緊張精彩。"
+        },
+        {
+          "id": "m3-1-u2-cq008",
+          "vocab_id": "m3-1-u2-v011",
+          "question": "In the scary story, a ___ appeared in the empty house.",
+          "options": [
+            "ghost",
+            "doctor",
+            "driver",
+            "farmer"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "ghost 是鬼；恐怖故事中出現的亡魂。"
+        },
+        {
+          "id": "m3-1-u2-cq009",
+          "vocab_id": "m3-1-u2-v012",
+          "question": "The king lived in a ___ with high stone walls and towers.",
+          "options": [
+            "tent",
+            "hut",
+            "castle",
+            "apartment"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "castle 是城堡；有高塔、石牆、國王住的建築。"
+        },
+        {
+          "id": "m3-1-u2-cq010",
+          "vocab_id": "m3-1-u2-v014",
+          "question": "She is ___ in animals and reads books about them every day.",
+          "options": [
+            "bored",
+            "tired",
+            "angry",
+            "interested"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "interested 是感興趣的；想了解更多。"
+        },
+        {
+          "id": "m3-1-u2-cq011",
+          "vocab_id": "m3-1-u2-v015",
+          "question": "The story was so ___ that I stopped reading it.",
+          "options": [
+            "exciting",
+            "funny",
+            "boring",
+            "interesting"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "boring 是無聊的；看不下去、想睡是線索。"
+        },
+        {
+          "id": "m3-1-u2-cq012",
+          "vocab_id": "m3-1-u2-v016",
+          "question": "I will ___ the file from the website to my computer.",
+          "options": [
+            "erase",
+            "paint",
+            "wash",
+            "download"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "download 是下載；從網路取得檔案存到裝置。"
+        },
+        {
+          "id": "m3-1-u2-cq013",
+          "vocab_id": "m3-1-u2-v017",
+          "question": "My computer cannot connect to the ___, so websites will not open.",
+          "options": [
+            "Internet",
+            "radio",
+            "library",
+            "newspaper"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "Internet 是網際網路；網站連線是線索。"
+        },
+        {
+          "id": "m3-1-u2-cq014",
+          "vocab_id": "m3-1-u2-v020",
+          "question": "Show your ___ before entering the movie theater.",
+          "options": [
+            "menu",
+            "receipt",
+            "ticket",
+            "letter"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "ticket 是票券；進場前要出示。"
+        },
+        {
+          "id": "m3-1-u2-cq015",
+          "vocab_id": "m3-1-u2-v022",
+          "question": "Her parents were ___ of her when she won the prize.",
+          "options": [
+            "afraid",
+            "bored",
+            "proud",
+            "ashamed"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "proud 是驕傲、自豪的；對成就感到光榮。"
+        },
+        {
+          "id": "m3-1-u2-cq016",
+          "vocab_id": "m3-1-u2-v025",
+          "question": "The ___ played the queen in the film.",
+          "options": [
+            "farmer",
+            "actress",
+            "doctor",
+            "driver"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "actress 是女演員；在電影中飾演女性角色。"
+        },
+        {
+          "id": "m3-1-u2-cq017",
+          "vocab_id": "m3-1-u2-v026",
+          "question": "Dry your hands with this ___.",
+          "options": [
+            "fork",
+            "plate",
+            "comb",
+            "towel"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "towel 是毛巾；用來擦乾身體。"
+        },
+        {
+          "id": "m3-1-u2-cq018",
+          "vocab_id": "m3-1-u2-v027",
+          "question": "Use a ___ to make your messy hair neat.",
+          "options": [
+            "key",
+            "comb",
+            "coin",
+            "spoon"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "comb 是梳子；整理頭髮的工具。"
+        },
+        {
+          "id": "m3-1-u2-cq019",
+          "vocab_id": "m3-1-u2-v030",
+          "question": "This diamond is ___. It is only a piece of glass.",
+          "options": [
+            "natural",
+            "real",
+            "fake",
+            "true"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "fake 是假的；並非真正的鑽石。"
+        },
+        {
+          "id": "m3-1-u2-cq020",
+          "vocab_id": "m3-1-u2-v031",
+          "question": "Grandpa reads the daily ___ to learn the latest news.",
+          "options": [
+            "newspaper",
+            "notebook",
+            "menu",
+            "dictionary"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "newspaper 是報紙；每天刊登新聞。"
+        }
+      ]
     }
   }
 }

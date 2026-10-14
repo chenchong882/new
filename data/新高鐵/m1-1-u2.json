@@ -1391,7 +1391,289 @@
             "sentence_chinese": "這家人在客廳裡。"
           }
         ]
-      }
+      },
+      "cloze_quiz": [
+        {
+          "id": "m1-1-u2-cq001",
+          "vocab_id": "m1-1-u2-v001",
+          "question": "My family lives in a two-story ___ with three bedrooms.",
+          "options": [
+            "boat",
+            "car",
+            "house",
+            "tent"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "house 是房屋；家人居住的建築物。"
+        },
+        {
+          "id": "m1-1-u2-cq002",
+          "vocab_id": "m1-1-u2-v002",
+          "question": "My dad and mom are my ___.",
+          "options": [
+            "cousins",
+            "children",
+            "friends",
+            "parents"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "parents 是父母，指爸爸和媽媽。"
+        },
+        {
+          "id": "m1-1-u2-cq003",
+          "vocab_id": "m1-1-u2-v003",
+          "question": "We sit on the sofa and welcome guests in the ___.",
+          "options": [
+            "bedroom",
+            "kitchen",
+            "living room",
+            "bathroom"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "living room 是客廳；沙發、接待客人是線索。"
+        },
+        {
+          "id": "m1-1-u2-cq004",
+          "vocab_id": "m1-1-u2-v004",
+          "question": "Hang the clock on the ___ beside the door.",
+          "options": [
+            "window",
+            "ceiling",
+            "floor",
+            "wall"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "wall 是牆壁；掛時鐘的直立表面。"
+        },
+        {
+          "id": "m1-1-u2-cq005",
+          "vocab_id": "m1-1-u2-v005",
+          "question": "Mix red paint and blue paint to make ___.",
+          "options": [
+            "yellow",
+            "orange",
+            "green",
+            "purple"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "purple 是紫色；紅色和藍色顏料混合。"
+        },
+        {
+          "id": "m1-1-u2-cq006",
+          "vocab_id": "m1-1-u2-v006",
+          "question": "Of all the colors, I like blue best. It is my ___ color.",
+          "options": [
+            "favorite",
+            "empty",
+            "broken",
+            "wrong"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "favorite 是最喜歡的；比其他更喜愛。"
+        },
+        {
+          "id": "m1-1-u2-cq007",
+          "vocab_id": "m1-1-u2-v008",
+          "question": "Dad is cooking dinner in the ___.",
+          "options": [
+            "kitchen",
+            "bedroom",
+            "bathroom",
+            "garage"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "kitchen 是廚房；煮食物的地方。"
+        },
+        {
+          "id": "m1-1-u2-cq008",
+          "vocab_id": "m1-1-u2-v009",
+          "question": "Our family eats dinner at the table in the ___.",
+          "options": [
+            "garage",
+            "bedroom",
+            "bathroom",
+            "dining room"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "dining room 是餐廳；家人坐在餐桌吃飯的房間。"
+        },
+        {
+          "id": "m1-1-u2-cq009",
+          "vocab_id": "m1-1-u2-v011",
+          "question": "Mix black paint and white paint to make ___.",
+          "options": [
+            "orange",
+            "gray",
+            "purple",
+            "green"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "gray 是灰色；黑白顏料混合。"
+        },
+        {
+          "id": "m1-1-u2-cq010",
+          "vocab_id": "m1-1-u2-v013",
+          "question": "Would you like a chocolate ___ with your milk?",
+          "options": [
+            "notebook",
+            "marker",
+            "cookie",
+            "brush"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "cookie 是餅乾；可以吃的小甜點。"
+        },
+        {
+          "id": "m1-1-u2-cq011",
+          "vocab_id": "m1-1-u2-v016",
+          "question": "Three people can sit comfortably on this ___ in the living room.",
+          "options": [
+            "stove",
+            "sofa",
+            "fridge",
+            "sink"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "sofa 是沙發；客廳裡可坐好幾人的軟座椅。"
+        },
+        {
+          "id": "m1-1-u2-cq012",
+          "vocab_id": "m1-1-u2-v017",
+          "question": "I am ___. May I have something to eat?",
+          "options": [
+            "tired",
+            "hungry",
+            "angry",
+            "thirsty"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "hungry 是肚子餓；想吃食物。"
+        },
+        {
+          "id": "m1-1-u2-cq013",
+          "vocab_id": "m1-1-u2-v018",
+          "question": "Write your class notes in this ___.",
+          "options": [
+            "notebook",
+            "ruler",
+            "marker",
+            "brush"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "notebook 是筆記本；有空白頁可以寫字。"
+        },
+        {
+          "id": "m1-1-u2-cq014",
+          "vocab_id": "m1-1-u2-v019",
+          "question": "Use a thick ___ to write a big label on the box.",
+          "options": [
+            "eraser",
+            "marker",
+            "ruler",
+            "scissors"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "marker 是麥克筆；寫粗線條、標記用的筆。"
+        },
+        {
+          "id": "m1-1-u2-cq015",
+          "vocab_id": "m1-1-u2-v020",
+          "question": "Dip the paint ___ into the blue paint.",
+          "options": [
+            "fork",
+            "spoon",
+            "brush",
+            "plate"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "brush 是刷子；刷毛沾顏料繪畫。"
+        },
+        {
+          "id": "m1-1-u2-cq016",
+          "vocab_id": "m1-1-u2-v021",
+          "question": "This ___ is for your birthday. Please open it!",
+          "options": [
+            "test",
+            "rule",
+            "gift",
+            "problem"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "gift 是禮物；生日送人的物品。"
+        },
+        {
+          "id": "m1-1-u2-cq017",
+          "vocab_id": "m1-1-u2-v022",
+          "question": "Put your pencils and eraser in your ___.",
+          "options": [
+            "pencil case",
+            "school bus",
+            "water bottle",
+            "lunch box"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "pencil case 是鉛筆盒；放鉛筆和橡皮擦。"
+        },
+        {
+          "id": "m1-1-u2-cq018",
+          "vocab_id": "m1-1-u2-v023",
+          "question": "I take a shower in the ___.",
+          "options": [
+            "bathroom",
+            "bedroom",
+            "garage",
+            "kitchen"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "bathroom 是浴室；淋浴和洗手台是線索。"
+        },
+        {
+          "id": "m1-1-u2-cq019",
+          "vocab_id": "m1-1-u2-v025",
+          "question": "My bed is in my ___.",
+          "options": [
+            "garage",
+            "bedroom",
+            "kitchen",
+            "bathroom"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "bedroom 是臥室；床和睡覺是線索。"
+        },
+        {
+          "id": "m1-1-u2-cq020",
+          "vocab_id": "m1-1-u2-v027",
+          "question": "Amy sits ___ Ben and Tom, with one boy on each side.",
+          "options": [
+            "behind",
+            "above",
+            "inside",
+            "between"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "between 是在兩者之間；左右各有一人是線索。"
+        }
+      ]
     }
   }
 }
