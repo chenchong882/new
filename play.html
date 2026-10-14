@@ -1136,7 +1136,21 @@
                                 <div className="p-4 border-b-2 border-slate-100 flex justify-between items-center bg-slate-50 rounded-t-3xl"><h3 className="text-xl font-black text-slate-700 flex items-center gap-2"><Library className="w-6 h-6 text-indigo-500" /> 題庫總覽</h3><button onClick={() => setShowAllQuestions(false)} className="p-2 hover:bg-slate-200 rounded-full transition-colors"><X className="w-6 h-6 text-slate-500" /></button></div>
                                 <div className="flex p-2 gap-2 bg-slate-50 border-b border-slate-200"><button onClick={() => setPreviewTab('quiz')} className={`flex-1 py-2 rounded-xl font-bold text-sm transition-all ${previewTab === 'quiz' ? 'bg-white shadow text-indigo-600 border border-slate-200' : 'text-slate-400 hover:text-slate-600'}`}>文法選擇題 ({grammarData.quiz.length})</button></div>
                                 <div className="flex-1 overflow-y-auto p-4 bg-slate-50/50">
-                                    <div className="space-y-3">{grammarData.quiz.map((item, idx) => (<div key={idx} className="bg-white p-4 rounded-xl border-2 border-slate-100 shadow-sm"><div className="flex gap-3"><div className="font-black text-slate-300 text-sm pt-1">{String(idx + 1).padStart(2, '0')}</div><div className="flex-1"><div className="font-bold text-slate-700 text-base mb-2">{item.question.replace(/_{6,}/, `(${item.answer})`)}</div><div className="flex flex-wrap gap-2 mb-2">{item.options.map((opt, optIdx) => (<span key={optIdx} className={`text-xs px-2 py-1 rounded border-2 ${opt === item.answer ? 'bg-emerald-100 border-emerald-200 text-emerald-700 font-bold' : 'bg-white border-slate-200 text-slate-500'}`}>{opt}</span>))}</div><div className="text-xs font-medium text-slate-400 bg-slate-100 px-2 py-1 rounded inline-block">💡 {item.hint}</div></div></div></div>))}</div>
+                                    <div className="space-y-3">{grammarData.quiz.map(normalizeGrammarItem).map((item, idx) => (
+                                        <div key={item.id || idx} className="bg-white p-4 rounded-xl border-2 border-slate-100 shadow-sm">
+                                            <div className="flex gap-3">
+                                                <div className="font-black text-slate-300 text-sm pt-1">{String(idx + 1).padStart(2, '0')}</div>
+                                                <div className="flex-1 min-w-0">
+                                                    <div className="font-bold text-slate-700 text-base mb-2">{renderBr(item.question)}</div>
+                                                    <div className="flex flex-wrap gap-2 mb-2">{item.options.map((opt, optIdx) => {
+                                                        const isCorrect = optIdx === item.answer_index;
+                                                        return <span key={optIdx} className={`text-sm px-2 py-1 rounded border-2 ${isCorrect ? 'bg-emerald-100 border-emerald-300 text-emerald-800 font-bold' : 'bg-white border-slate-200 text-slate-600'}`}>{optionLetter(optIdx)}. {opt}{isCorrect && ' ✓ 正解'}</span>;
+                                                    })}</div>
+                                                    <div className="text-xs font-medium text-slate-600 bg-slate-100 px-2 py-1 rounded inline-block">💡 {item.hint}</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    ))}</div>
                                 </div>
                             </div>
                         </div>
