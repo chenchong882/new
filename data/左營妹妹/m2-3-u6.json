@@ -1,0 +1,2655 @@
+{
+  "units": {
+    "m2-3-u6": {
+      "title": "U6",
+      "vocab": [
+        {
+          "word": "simple",
+          "part_of_speech": "形",
+          "chinese": "簡單的",
+          "sentence": "The game will be simple.",
+          "sentence_chinese": "這個遊戲會很簡單。",
+          "id": "m2-3-u6-v001"
+        },
+        {
+          "word": "create",
+          "part_of_speech": "動",
+          "chinese": "創作；創造",
+          "sentence": "We will create a new song.",
+          "sentence_chinese": "我們將創作一首新歌。",
+          "id": "m2-3-u6-v002"
+        },
+        {
+          "word": "lyrics",
+          "part_of_speech": "名",
+          "chinese": "歌詞",
+          "sentence": "I will write the lyrics myself.",
+          "sentence_chinese": "我會自己寫歌詞。",
+          "id": "m2-3-u6-v003"
+        },
+        {
+          "word": "melody",
+          "part_of_speech": "名",
+          "chinese": "旋律",
+          "sentence": "She will create a beautiful melody.",
+          "sentence_chinese": "她將創作一段優美的旋律。",
+          "id": "m2-3-u6-v004"
+        },
+        {
+          "word": "Internet",
+          "part_of_speech": "名",
+          "chinese": "網路",
+          "sentence": "We will find the answer on the Internet.",
+          "sentence_chinese": "我們會在網路上找到答案。",
+          "id": "m2-3-u6-v005"
+        },
+        {
+          "word": "itself",
+          "part_of_speech": "代",
+          "chinese": "它自己",
+          "sentence": "The door closed by itself.",
+          "sentence_chinese": "門自己關上了。",
+          "id": "m2-3-u6-v006"
+        },
+        {
+          "word": "actually",
+          "part_of_speech": "副",
+          "chinese": "實際上；事實上",
+          "sentence": "Actually, I will stay home tonight.",
+          "sentence_chinese": "其實，我今晚會待在家。",
+          "id": "m2-3-u6-v007"
+        },
+        {
+          "word": "dream",
+          "part_of_speech": "名；動",
+          "chinese": "夢；夢想；做夢",
+          "sentence": "Her dream will come true one day.",
+          "sentence_chinese": "她的夢想有一天會實現。",
+          "id": "m2-3-u6-v008"
+        },
+        {
+          "word": "own",
+          "part_of_speech": "形",
+          "chinese": "自己的",
+          "sentence": "I will have my own room.",
+          "sentence_chinese": "我將有自己的房間。",
+          "id": "m2-3-u6-v009"
+        },
+        {
+          "word": "virtual",
+          "part_of_speech": "形",
+          "chinese": "虛擬的",
+          "sentence": "We will visit a virtual museum.",
+          "sentence_chinese": "我們將參觀一座虛擬博物館。",
+          "id": "m2-3-u6-v010"
+        },
+        {
+          "word": "singer",
+          "part_of_speech": "名",
+          "chinese": "歌手",
+          "sentence": "She is going to become a singer.",
+          "sentence_chinese": "她打算成為一名歌手。",
+          "id": "m2-3-u6-v011"
+        },
+        {
+          "word": "future",
+          "part_of_speech": "名",
+          "chinese": "未來",
+          "sentence": "We will use more technology in the future.",
+          "sentence_chinese": "我們未來會使用更多科技。",
+          "id": "m2-3-u6-v012"
+        },
+        {
+          "word": "digital",
+          "part_of_speech": "形",
+          "chinese": "數位的",
+          "sentence": "He will buy a digital camera.",
+          "sentence_chinese": "他將買一台數位相機。",
+          "id": "m2-3-u6-v013"
+        },
+        {
+          "word": "interesting",
+          "part_of_speech": "形",
+          "chinese": "有趣的",
+          "sentence": "The music lesson will be interesting.",
+          "sentence_chinese": "這堂音樂課會很有趣。",
+          "id": "m2-3-u6-v014"
+        },
+        {
+          "word": "will",
+          "part_of_speech": "助",
+          "chinese": "將；將要",
+          "sentence": "I will help you after dinner.",
+          "sentence_chinese": "我晚餐後會幫你。",
+          "id": "m2-3-u6-v015"
+        },
+        {
+          "word": "come true",
+          "part_of_speech": "片",
+          "chinese": "成真",
+          "sentence": "Your dream will come true one day.",
+          "sentence_chinese": "你的夢想有一天會實現。",
+          "id": "m2-3-u6-v016"
+        },
+        {
+          "word": "tonight",
+          "part_of_speech": "副；名",
+          "chinese": "今晚",
+          "sentence": "We are going to watch a movie tonight.",
+          "sentence_chinese": "我們今晚打算看電影。",
+          "id": "m2-3-u6-v017"
+        },
+        {
+          "word": "uncle",
+          "part_of_speech": "名",
+          "chinese": "伯父；叔父；舅舅；姑丈；姨丈",
+          "sentence": "My uncle will visit us tomorrow.",
+          "sentence_chinese": "我叔叔明天會來看我們。",
+          "id": "m2-3-u6-v018"
+        },
+        {
+          "word": "pizza",
+          "part_of_speech": "名",
+          "chinese": "披薩",
+          "sentence": "They will make a pizza themselves.",
+          "sentence_chinese": "他們將自己做一個披薩。",
+          "id": "m2-3-u6-v019"
+        },
+        {
+          "word": "hamburger",
+          "part_of_speech": "名",
+          "chinese": "漢堡",
+          "sentence": "He is going to eat a hamburger.",
+          "sentence_chinese": "他打算吃一個漢堡。",
+          "id": "m2-3-u6-v020"
+        },
+        {
+          "word": "dinner",
+          "part_of_speech": "名",
+          "chinese": "晚餐",
+          "sentence": "We will have dinner at six.",
+          "sentence_chinese": "我們會在六點吃晚餐。",
+          "id": "m2-3-u6-v021"
+        },
+        {
+          "word": "free",
+          "part_of_speech": "形",
+          "chinese": "空閒的",
+          "sentence": "Will you be free tomorrow afternoon?",
+          "sentence_chinese": "你明天下午有空嗎？",
+          "id": "m2-3-u6-v022"
+        },
+        {
+          "word": "lamp",
+          "part_of_speech": "名",
+          "chinese": "檯燈",
+          "sentence": "I will put the lamp on my desk.",
+          "sentence_chinese": "我會把檯燈放在書桌上。",
+          "id": "m2-3-u6-v023"
+        },
+        {
+          "word": "guitar",
+          "part_of_speech": "名",
+          "chinese": "吉他",
+          "sentence": "She will play the guitar tonight.",
+          "sentence_chinese": "她今晚會彈吉他。",
+          "id": "m2-3-u6-v024"
+        },
+        {
+          "word": "violin",
+          "part_of_speech": "名",
+          "chinese": "小提琴",
+          "sentence": "He is going to buy a violin.",
+          "sentence_chinese": "他打算買一把小提琴。",
+          "id": "m2-3-u6-v025"
+        },
+        {
+          "word": "honey",
+          "part_of_speech": "名",
+          "chinese": "蜂蜜",
+          "sentence": "I will add some honey to the tea.",
+          "sentence_chinese": "我會在茶裡加一些蜂蜜。",
+          "id": "m2-3-u6-v026"
+        },
+        {
+          "word": "couch",
+          "part_of_speech": "名",
+          "chinese": "沙發",
+          "sentence": "The cat is going to sleep on the couch.",
+          "sentence_chinese": "那隻貓要在沙發上睡覺。",
+          "id": "m2-3-u6-v027"
+        },
+        {
+          "word": "apartment",
+          "part_of_speech": "名",
+          "chinese": "公寓",
+          "sentence": "They will move into a new apartment.",
+          "sentence_chinese": "他們將搬進一間新公寓。",
+          "id": "m2-3-u6-v028"
+        },
+        {
+          "word": "castle",
+          "part_of_speech": "名",
+          "chinese": "城堡",
+          "sentence": "We are going to visit the castle.",
+          "sentence_chinese": "我們打算參觀那座城堡。",
+          "id": "m2-3-u6-v029"
+        },
+        {
+          "word": "earthquake",
+          "part_of_speech": "名",
+          "chinese": "地震",
+          "sentence": "We will learn about the earthquake tomorrow.",
+          "sentence_chinese": "我們明天會學習那次地震的相關知識。",
+          "id": "m2-3-u6-v030"
+        },
+        {
+          "word": "typhoon",
+          "part_of_speech": "名",
+          "chinese": "颱風",
+          "sentence": "The typhoon will arrive tomorrow night.",
+          "sentence_chinese": "颱風將在明天晚上抵達。",
+          "id": "m2-3-u6-v031"
+        },
+        {
+          "word": "born",
+          "part_of_speech": "形",
+          "chinese": "出生的",
+          "sentence": "I was born in Kaohsiung.",
+          "sentence_chinese": "我出生於高雄。",
+          "id": "m2-3-u6-v032"
+        },
+        {
+          "word": "technology",
+          "part_of_speech": "名",
+          "chinese": "科技",
+          "sentence": "Technology will change our lives.",
+          "sentence_chinese": "科技將改變我們的生活。",
+          "id": "m2-3-u6-v033"
+        },
+        {
+          "word": "college",
+          "part_of_speech": "名",
+          "chinese": "大學",
+          "sentence": "My sister will go to college next year.",
+          "sentence_chinese": "我姊姊明年將上大學。",
+          "id": "m2-3-u6-v034"
+        },
+        {
+          "word": "company",
+          "part_of_speech": "名",
+          "chinese": "公司",
+          "sentence": "The company will make new computers.",
+          "sentence_chinese": "這家公司將製造新的電腦。",
+          "id": "m2-3-u6-v035"
+        },
+        {
+          "word": "successful",
+          "part_of_speech": "形",
+          "chinese": "成功的",
+          "sentence": "Their new business will be successful.",
+          "sentence_chinese": "他們的新事業會成功。",
+          "id": "m2-3-u6-v036"
+        },
+        {
+          "word": "fail",
+          "part_of_speech": "動",
+          "chinese": "失敗；未能做到",
+          "sentence": "You will fail without enough practice.",
+          "sentence_chinese": "如果練習不夠，你會失敗。",
+          "id": "m2-3-u6-v037"
+        },
+        {
+          "word": "complete",
+          "part_of_speech": "動",
+          "chinese": "完成",
+          "sentence": "We will complete the work tomorrow.",
+          "sentence_chinese": "我們明天會完成工作。",
+          "id": "m2-3-u6-v038"
+        },
+        {
+          "word": "order",
+          "part_of_speech": "名",
+          "chinese": "訂單；訂購",
+          "sentence": "The company will get a large order.",
+          "sentence_chinese": "這家公司將接到一筆大訂單。",
+          "id": "m2-3-u6-v039"
+        },
+        {
+          "word": "leader",
+          "part_of_speech": "名",
+          "chinese": "領導者",
+          "sentence": "Our leader will talk to us tonight.",
+          "sentence_chinese": "我們的領導者今晚會和我們談話。",
+          "id": "m2-3-u6-v040"
+        },
+        {
+          "word": "heart",
+          "part_of_speech": "名",
+          "chinese": "內心；心臟",
+          "sentence": "The doctor will check his heart tomorrow.",
+          "sentence_chinese": "醫生明天會檢查他的心臟。",
+          "id": "m2-3-u6-v041"
+        },
+        {
+          "word": "forget",
+          "part_of_speech": "動",
+          "chinese": "忘記",
+          "sentence": "I won't forget your birthday.",
+          "sentence_chinese": "我不會忘記你的生日。",
+          "id": "m2-3-u6-v042"
+        },
+        {
+          "word": "lesson",
+          "part_of_speech": "名",
+          "chinese": "教訓；課",
+          "sentence": "We will learn an important lesson.",
+          "sentence_chinese": "我們將學到重要的一課。",
+          "id": "m2-3-u6-v043"
+        },
+        {
+          "word": "case",
+          "part_of_speech": "名",
+          "chinese": "事例；情況",
+          "sentence": "We will talk about this case tomorrow.",
+          "sentence_chinese": "我們明天會談這個案例。",
+          "id": "m2-3-u6-v044"
+        },
+        {
+          "word": "careful",
+          "part_of_speech": "形",
+          "chinese": "小心的",
+          "sentence": "I will be careful with the glass.",
+          "sentence_chinese": "我會小心拿這個玻璃杯。",
+          "id": "m2-3-u6-v045"
+        },
+        {
+          "word": "thanks to",
+          "part_of_speech": "片",
+          "chinese": "幸虧；由於",
+          "sentence": "Thanks to your help, we will finish in time.",
+          "sentence_chinese": "多虧你的幫忙，我們會及時完成。",
+          "id": "m2-3-u6-v046"
+        },
+        {
+          "word": "modern",
+          "part_of_speech": "形",
+          "chinese": "現代的",
+          "sentence": "They will build a modern school.",
+          "sentence_chinese": "他們將興建一所現代化學校。",
+          "id": "m2-3-u6-v047"
+        },
+        {
+          "word": "drive",
+          "part_of_speech": "動",
+          "chinese": "驅使",
+          "sentence": "His dream will drive him to work hard.",
+          "sentence_chinese": "他的夢想將驅使他努力。",
+          "id": "m2-3-u6-v048"
+        },
+        {
+          "word": "themselves",
+          "part_of_speech": "代",
+          "chinese": "他們自己",
+          "sentence": "The children will clean the room themselves.",
+          "sentence_chinese": "孩子們將自己打掃房間。",
+          "id": "m2-3-u6-v049"
+        },
+        {
+          "word": "shape",
+          "part_of_speech": "動",
+          "chinese": "形塑；影響……的發展",
+          "sentence": "Technology will shape our future.",
+          "sentence_chinese": "科技將形塑我們的未來。",
+          "id": "m2-3-u6-v050"
+        }
+      ],
+      "phrases": [
+        {
+          "phrase": "check...out",
+          "chinese": "去……查證；查看",
+          "sentence": "We need to check out his story.",
+          "sentence_chinese": "我們需要查證他的故事。",
+          "id": "m2-3-u6-p001"
+        },
+        {
+          "phrase": "No way!",
+          "chinese": "不可能！",
+          "sentence": "Jeff: May I use your computer? Julia: No way!",
+          "sentence_chinese": "傑夫：我可以用你的電腦嗎？茱莉亞：不行！",
+          "id": "m2-3-u6-p002"
+        },
+        {
+          "phrase": "type in...",
+          "chinese": "輸入；鍵入",
+          "sentence": "Please type in your password.",
+          "sentence_chinese": "請輸入你的密碼。",
+          "id": "m2-3-u6-p003"
+        },
+        {
+          "phrase": "on the Internet",
+          "chinese": "在網路上",
+          "sentence": "I usually do shopping on the Internet.",
+          "sentence_chinese": "我通常在網路上購物。",
+          "id": "m2-3-u6-p004"
+        },
+        {
+          "phrase": "by + 反身代名詞",
+          "chinese": "獨自；靠自己",
+          "sentence": "Maria finished the math homework by herself.",
+          "sentence_chinese": "瑪莉亞獨自完成了數學作業。",
+          "id": "m2-3-u6-p005"
+        },
+        {
+          "phrase": "in the future",
+          "chinese": "未來",
+          "sentence": "My dream is to become a great dancer in the future.",
+          "sentence_chinese": "我的夢想是未來成為一名很棒的舞者。",
+          "id": "m2-3-u6-p006"
+        },
+        {
+          "phrase": "learn more about...",
+          "chinese": "學習更多有關……的事",
+          "sentence": "We should learn more about AI.",
+          "sentence_chinese": "我們應該多學習人工智慧的相關知識。",
+          "id": "m2-3-u6-p007"
+        },
+        {
+          "phrase": "come true",
+          "chinese": "實現；成真",
+          "sentence": "If you work hard, your dream will come true.",
+          "sentence_chinese": "如果你努力，你的夢想就會成真。",
+          "id": "m2-3-u6-p008"
+        },
+        {
+          "phrase": "No problem.",
+          "chinese": "沒問題。",
+          "sentence": "Bruce: Can I ask you one more question? James: No problem.",
+          "sentence_chinese": "布魯斯：我可以再問你一個問題嗎？詹姆士：沒問題。",
+          "id": "m2-3-u6-p009"
+        },
+        {
+          "phrase": "Take care.",
+          "chinese": "保重。",
+          "sentence": "Kevin: I hope you get well soon. Take care.",
+          "sentence_chinese": "凱文：希望你早日康復。保重。",
+          "id": "m2-3-u6-p010"
+        },
+        {
+          "phrase": "talk about...",
+          "chinese": "談論……",
+          "sentence": "We're talking about that hard-working boy.",
+          "sentence_chinese": "我們正在談論那個努力工作的男孩。",
+          "id": "m2-3-u6-p011"
+        },
+        {
+          "phrase": "at a young age",
+          "chinese": "在年輕時",
+          "sentence": "At a young age, Mr. Huang was a famous engineer.",
+          "sentence_chinese": "黃先生年輕時就是一位知名的工程師。",
+          "id": "m2-3-u6-p012"
+        },
+        {
+          "phrase": "be curious about...",
+          "chinese": "對……感到好奇",
+          "sentence": "My brother is curious about that new machine.",
+          "sentence_chinese": "我哥哥對那台新機器感到好奇。",
+          "id": "m2-3-u6-p013"
+        },
+        {
+          "phrase": "make a lot of money",
+          "chinese": "賺很多錢",
+          "sentence": "The old man makes a lot of money by selling fruit.",
+          "sentence_chinese": "那位老人靠賣水果賺很多錢。",
+          "id": "m2-3-u6-p014"
+        },
+        {
+          "phrase": "complete a large order for...",
+          "chinese": "完成……的一筆大訂單",
+          "sentence": "Our company completed a large order for a client in Korea.",
+          "sentence_chinese": "我們公司完成了一位韓國客戶的大訂單。",
+          "id": "m2-3-u6-p015"
+        },
+        {
+          "phrase": "in time",
+          "chinese": "及時",
+          "sentence": "We caught the final train in time.",
+          "sentence_chinese": "我們及時趕上末班火車。",
+          "id": "m2-3-u6-p016"
+        },
+        {
+          "phrase": "in + 所有格 + heart",
+          "chinese": "在……心中",
+          "sentence": "In my heart, Jessica is a great girl.",
+          "sentence_chinese": "在我心中，潔西卡是個很棒的女孩。",
+          "id": "m2-3-u6-p017"
+        },
+        {
+          "phrase": "learn an important lesson from...",
+          "chinese": "從……學到重要的一課",
+          "sentence": "We need to learn an important lesson from this accident.",
+          "sentence_chinese": "我們需要從這次意外學到重要的一課。",
+          "id": "m2-3-u6-p018"
+        },
+        {
+          "phrase": "from now on",
+          "chinese": "從現在起",
+          "sentence": "Peter should listen to me from now on.",
+          "sentence_chinese": "彼得從現在起應該聽我的話。",
+          "id": "m2-3-u6-p019"
+        },
+        {
+          "phrase": "shape the future of...",
+          "chinese": "形塑……的未來",
+          "sentence": "His ideas help us to shape the future of technology.",
+          "sentence_chinese": "他的想法幫助我們形塑科技的未來。",
+          "id": "m2-3-u6-p020"
+        }
+      ],
+      "grammar": {
+        "tips": [
+          {
+            "label": "will 後用原形",
+            "text": "He will sing. / He will be free. 形容詞前別漏掉 be。"
+          },
+          {
+            "label": "going to 前看主詞",
+            "text": "I am；he / she / it is；you / we / they are。going to 後接原形動詞。"
+          },
+          {
+            "label": "問什麼，照句型答",
+            "text": "Will you...? → I will / won’t；Are you going to...? → I am / I’m not。"
+          },
+          {
+            "label": "將有……",
+            "text": "用 There will be 或 There is / are going to be，不能用 There will have。"
+          },
+          {
+            "label": "未來安排",
+            "text": "We are leaving tomorrow. 現在進行式也能表達已安排的未來活動。"
+          },
+          {
+            "label": "先找對應的人",
+            "text": "反身代名詞依人稱與單複數變化；you two 對應 yourselves，單獨一人用 yourself。"
+          },
+          {
+            "label": "自己與獨自",
+            "text": "She made it herself 強調她親自做；She made it by herself 強調她獨力完成。"
+          }
+        ],
+        "notes": [
+          {
+            "title": "未來時間與句意線索",
+            "rule": "tomorrow / next week / in two days / the day after tomorrow / in the future",
+            "description": "這些時間詞能提示未來的事情。in two days 是「兩天後」。tomorrow、next week 前不加 on。先看上下文，再看句型；不能只憑 tomorrow 就斷定一定用 will，因為 be going to 與表示安排的現在進行式也可談未來。",
+            "examples": [
+              "We will visit the castle in two days.（我們兩天後將參觀城堡。）",
+              "My uncle is arriving tomorrow morning.（我叔叔明天早上要抵達。）"
+            ]
+          },
+          {
+            "title": "will 的肯定句",
+            "rule": "主詞 + will + 原形動詞",
+            "description": "will 不隨主詞變化；he、she、it 後面也用 will。will 後的動詞不可加 -s、-ed 或 -ing。若後面是形容詞、名詞或地點，要補原形 be。",
+            "examples": [
+              "The company will create a new game.（公司將製作一個新遊戲。）",
+              "The lesson will be interesting.（這堂課會很有趣。）"
+            ]
+          },
+          {
+            "title": "will 的否定與縮寫",
+            "rule": "主詞 + will not / won’t + 原形動詞",
+            "description": "will not 可縮成 won’t。I will → I’ll；you will → you’ll；he will → he’ll；she will → she’ll；we will → we’ll；they will → they’ll。否定句同樣保留原形動詞；won’t be free 的 be 不可省略。",
+            "examples": [
+              "I won’t forget your help.（我不會忘記你的幫忙。）",
+              "She won’t be free tonight.（她今晚不會有空。）"
+            ]
+          },
+          {
+            "title": "will 的問句與簡答",
+            "rule": "Will + 主詞 + 原形動詞？\nYes, 主詞 + will. / No, 主詞 + won’t.",
+            "description": "把 will 放到主詞前形成問句，不另外加 do / does。簡答以代名詞對應原主詞，例如 your uncle → he。肯定簡答句尾不能只寫 I’ll，要寫 I will。",
+            "examples": [
+              "Will your uncle drive us home? — Yes, he will.（你叔叔會開車送我們回家嗎？會。）",
+              "Will you be late? — No, I won’t.（你會遲到嗎？不會。）"
+            ]
+          },
+          {
+            "title": "be going to 的肯定與否定",
+            "rule": "主詞 + am / is / are + going to + 原形動詞\n主詞 + am / is / are + not + going to + 原形動詞",
+            "description": "常用於打算、計畫，或根據眼前跡象作預測。I 用 am；he / she / it 與單數名詞用 is；you / we / they 與複數名詞用 are。going to 後用原形，形容詞前需要 be。",
+            "examples": [
+              "We are going to make dinner ourselves.（我們打算自己做晚餐。）",
+              "The sky is dark. It is going to rain.（天空很暗，要下雨了。）",
+              "He isn’t going to be late.（他不會遲到。）"
+            ]
+          },
+          {
+            "title": "be going to 的問句與簡答",
+            "rule": "Am / Is / Are + 主詞 + going to + 原形動詞？\nYes, 主詞 + am / is / are. / No, 主詞 + am not / isn’t / aren’t.",
+            "description": "問句以 be 開頭，標準簡答也用 be。Are you...? 回答時換成 I am / I’m not；Is she...? 則用 she is / she isn’t。注意 I am not 不能寫成 I amn’t。",
+            "examples": [
+              "Are you going to buy a lamp? — Yes, I am.（你打算買檯燈嗎？是的。）",
+              "Is she going to sing? — No, she isn’t.（她打算唱歌嗎？不。）"
+            ]
+          },
+          {
+            "title": "疑問詞問未來的事情",
+            "rule": "疑問詞 + will + 主詞 + 原形動詞？\n疑問詞 + am / is / are + 主詞 + going to + 原形動詞？",
+            "description": "When 問時間；Where 問地點；How 問方式；What 問事情。疑問詞問句要回答相應資訊，不能只回 Yes 或 No。疑問詞後仍須保留正確的助動詞或 be 動詞位置。",
+            "examples": [
+              "When will the show begin? — At seven.（表演幾點開始？七點。）",
+              "How are they going to get there? — By train.（他們打算怎麼去那裡？搭火車。）"
+            ]
+          },
+          {
+            "title": "There 的未來式：肯定與否定",
+            "rule": "There will be + 名詞.\nThere is / are going to be + 名詞.\nThere won’t be... / There isn’t / aren’t going to be...",
+            "description": "表示「將有……」用 There be 句型，不能把 be 換成 have。There will be 不因後方名詞的單複數改變；There is / are going to be 則要依後方名詞決定 is 或 are。",
+            "examples": [
+              "There will be a music lesson tomorrow.（明天會有一堂音樂課。）",
+              "There are going to be two tests next week.（下週將有兩次考試。）",
+              "There won’t be a show tonight.（今晚不會有表演。）"
+            ]
+          },
+          {
+            "title": "There 的未來式：問答",
+            "rule": "Will there be...? — Yes, there will. / No, there won’t.\nIs / Are there going to be...? — Yes, there is / are. / No, there isn’t / aren’t.",
+            "description": "there 問句的簡答保留 there，不以 it 或 they 代替。will 問句的標準簡答沿用 will，be going to 問句則沿用相應的 be 動詞。",
+            "examples": [
+              "Will there be a typhoon tomorrow? — No, there won’t.（明天會有颱風嗎？不會。）",
+              "Are there going to be two shows? — Yes, there are.（將有兩場表演嗎？是的。）"
+            ]
+          },
+          {
+            "title": "現在進行式也能表示未來安排",
+            "rule": "主詞 + am / is / are + V-ing + 未來時間",
+            "description": "come、go、arrive、leave、move 等動詞可用現在進行式表達已安排的未來活動。要結合 tomorrow、next week 等語境判斷。go to + 地點與 be going to + 原形動詞的結構不同，例如 going to the castle 與 going to visit the castle。",
+            "examples": [
+              "We are moving into a new apartment next week.（我們下週要搬進新公寓。）",
+              "My aunt is leaving for Taipei tomorrow.（我阿姨明天要出發去台北。）"
+            ]
+          },
+          {
+            "title": "反身代名詞的人稱與單複數",
+            "rule": "I → myself；you（單數）→ yourself；he → himself；she → herself；it → itself\nwe → ourselves；you（複數）→ yourselves；they → themselves",
+            "description": "先找反身代名詞所對應的人，再判斷人稱與單複數。you 可能是一人或多人，需看名字、boys、girls、you two 等線索。單數多以 -self 結尾，複數以 -selves 結尾。",
+            "examples": [
+              "I made the pizza myself.（我親自做了披薩。）",
+              "Please help yourselves to some fruit, boys.（男孩們，請自行取用水果。）"
+            ]
+          },
+          {
+            "title": "主詞與受詞是同一人",
+            "rule": "主詞 + 動詞 + 與主詞對應的反身代名詞",
+            "description": "動作回到主詞本人時，用反身代名詞作受詞。例如 hurt herself 表示她傷到自己；hurt her 則表示傷到另一位女性。反身代名詞不能單獨代替主格當主詞。",
+            "examples": [
+              "Mia hurt herself while cooking.（米雅煮飯時傷到自己。）",
+              "He taught himself to play the guitar.（他自學彈吉他。）"
+            ]
+          },
+          {
+            "title": "親自做與獨自做",
+            "rule": "主詞 + 反身代名詞 + 動詞... / 主詞 + 動詞... + 反身代名詞\nby + 反身代名詞 = 獨自；靠自己",
+            "description": "反身代名詞可強調「本人親自做」，放在主詞後或句尾。by oneself 強調沒有別人幫忙；on one’s own 常有相近意思。itself 可指物，by itself 表示自行發生。",
+            "examples": [
+              "The leader herself checked every order.（領導者親自檢查了每筆訂單。）",
+              "We cleaned the apartment by ourselves.（我們獨自打掃了公寓。）",
+              "The door closed by itself.（門自行關上了。）"
+            ]
+          },
+          {
+            "title": "反身代名詞常用表達",
+            "rule": "enjoy oneself（玩得開心）\nhelp oneself to + 食物（自行取用）\nmake oneself at home（像在家一樣自在）\nsay to oneself（心想；自言自語）",
+            "description": "片語裡的反身代名詞也要依對應的人稱與單複數變化，不是每次都填 yourself。正式練習題會提供清楚的主詞或稱呼，讓你判斷形式。",
+            "examples": [
+              "Did you enjoy yourself at the party, Ben?（班，你在派對玩得開心嗎？）",
+              "Make yourselves at home, children.（孩子們，別拘束，就像在自己家一樣。）"
+            ]
+          },
+          {
+            "title": "補充：表示人的字尾",
+            "rule": "部分名詞 + -ist；部分動詞 + -er / -or",
+            "description": "有些字加上字尾會變成表示人的名詞，例如 art → artist、science → scientist、teach → teacher、work → worker、collect → collector、visit → visitor。拼字可能改變，不能對所有單字直接套用。這項作為課本補充，不混入本課 50 題文法測驗。",
+            "examples": [
+              "The artist will create a new picture.（這位藝術家將創作一幅新畫。）",
+              "The visitors will arrive tomorrow.（訪客明天將抵達。）"
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "id": "m2-3-u6-q001",
+            "question": "The virtual music lesson will ___ interesting.",
+            "options": [
+              "A. is",
+              "B. are",
+              "C. be",
+              "D. being"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "will 後用原形動詞；interesting 是形容詞，前面要有 be。"
+          },
+          {
+            "id": "m2-3-u6-q002",
+            "question": "Our company will ___ a new digital game next year.",
+            "options": [
+              "A. creates",
+              "B. created",
+              "C. create",
+              "D. creating"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "will 後接原形 create；主詞是 company 也不能把動詞加 -s。"
+          },
+          {
+            "id": "m2-3-u6-q003",
+            "question": "I will not ___ the lyrics, so please write them down for me.",
+            "options": [
+              "A. remember",
+              "B. remembers",
+              "C. remembered",
+              "D. remembering"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "will not 後仍接原形 remember，不能用第三人稱、過去式或 -ing。"
+          },
+          {
+            "id": "m2-3-u6-q004",
+            "question": "Mia has to work all evening, so she will not ___ free tonight.",
+            "options": [
+              "A. be",
+              "B. is",
+              "C. being",
+              "D. to be"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "free 是形容詞；will not 後須接原形 be，形成 will not be free。"
+          },
+          {
+            "id": "m2-3-u6-q005",
+            "question": "The singer ___ perform tonight because she has lost her voice.",
+            "options": [
+              "A. will not to",
+              "B. will not be",
+              "C. will not",
+              "D. will not going"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "後面是原形 perform，否定未來式用 will not perform；不能多加 to、be 或 going。失聲也提供否定語意。"
+          },
+          {
+            "id": "m2-3-u6-q006",
+            "question": "Dad: Will you carry this lamp for me? Ben: Yes, ___.",
+            "options": [
+              "A. I'll",
+              "B. I am",
+              "C. I will",
+              "D. I do"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "Will you...? 的標準肯定簡答是 Yes, I will.；簡答結尾不可只用縮寫 I’ll。"
+          },
+          {
+            "id": "m2-3-u6-q007",
+            "question": "Will your uncle ___ the order before dinner?",
+            "options": [
+              "A. complete",
+              "B. completes",
+              "C. completed",
+              "D. completing"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "Will + 主詞 + 原形動詞，故填 complete，不隨 uncle 加 -s。"
+          },
+          {
+            "id": "m2-3-u6-q008",
+            "question": "Amy: Will the shop be open tomorrow? Ben: No, it ___ be open tomorrow. It's closed every Monday.",
+            "options": [
+              "A. isn't",
+              "B. doesn't",
+              "C. won't",
+              "D. wasn't"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "回答空格後已有原形 be，應填 won’t，形成 won’t be open；店休資訊表示否定。"
+          },
+          {
+            "id": "m2-3-u6-q009",
+            "question": "I ___ going to learn more about modern technology this summer.",
+            "options": [
+              "A. is",
+              "B. am",
+              "C. are",
+              "D. be"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "be going to 的 be 要跟主詞一致；I 搭配 am。"
+          },
+          {
+            "id": "m2-3-u6-q010",
+            "question": "My two cousins ___ going to visit our new apartment tomorrow.",
+            "options": [
+              "A. is",
+              "B. am",
+              "C. be",
+              "D. are"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "My two cousins 是複數主詞，因此用 are going to。"
+          },
+          {
+            "id": "m2-3-u6-q011",
+            "question": "My little sister ___ going to learn the violin next month.",
+            "options": [
+              "A. am",
+              "B. is",
+              "C. are",
+              "D. be"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "My little sister 是第三人稱單數，be 動詞用 is。"
+          },
+          {
+            "id": "m2-3-u6-q012",
+            "question": "We are going to ___ a large order for the company.",
+            "options": [
+              "A. completes",
+              "B. completed",
+              "C. completing",
+              "D. complete"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "be going to 後接原形動詞 complete；to 後在此不是 -ing 形式。"
+          },
+          {
+            "id": "m2-3-u6-q013",
+            "question": "The lesson is going to ___ simple enough for beginners.",
+            "options": [
+              "A. is",
+              "B. being",
+              "C. be",
+              "D. are"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "simple 是形容詞，going to 後須接原形 be，形成 is going to be simple。"
+          },
+          {
+            "id": "m2-3-u6-q014",
+            "question": "Our leader is ___ going to join us tonight; she's still in Japan.",
+            "options": [
+              "A. no",
+              "B. don't",
+              "C. doesn't",
+              "D. not"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "be going to 的否定把 not 放在 be 後，即 is not going to；不能用 no，也不能在 is 後加 don’t 或 doesn’t。"
+          },
+          {
+            "id": "m2-3-u6-q015",
+            "question": "___ your parents going to have dinner with us tomorrow?",
+            "options": [
+              "A. Is",
+              "B. Am",
+              "C. Be",
+              "D. Are"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "your parents 是複數；問句把 Are 放到主詞前，形成 Are your parents going to...?"
+          },
+          {
+            "id": "m2-3-u6-q016",
+            "question": "What is the company ___ create for young children?",
+            "options": [
+              "A. go to",
+              "B. going to",
+              "C. will",
+              "D. going"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "題目已有 is，後面又有原形 create，應組成 is going to create；is 不可直接接 will。"
+          },
+          {
+            "id": "m2-3-u6-q017",
+            "question": "Are you going to check out the virtual museum? — Yes, I ___ going to visit it on Saturday.",
+            "options": [
+              "A. am",
+              "B. will",
+              "C. do",
+              "D. was"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "回答使用 I ___ going to，須填 am，形成 I am going to；主詞從 you 轉為 I 時 be 也要改變。"
+          },
+          {
+            "id": "m2-3-u6-q018",
+            "question": "Is Lucy going to play the guitar tonight? — No, she ___ going to play tonight. Her hand hurts.",
+            "options": [
+              "A. won't",
+              "B. isn't",
+              "C. doesn't",
+              "D. wasn't"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "回答中 going to 前需要 be 的否定；she 搭配 isn’t，形成 she isn’t going to。手痛說明她不表演。"
+          },
+          {
+            "id": "m2-3-u6-q019",
+            "question": "___ will your uncle arrive at the castle? — At ten tomorrow morning.",
+            "options": [
+              "A. Where",
+              "B. When",
+              "C. What",
+              "D. Who"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "回答 At ten tomorrow morning 是時間，因此疑問詞用 When。"
+          },
+          {
+            "id": "m2-3-u6-q020",
+            "question": "___ are the students going to have dinner? — At the new restaurant.",
+            "options": [
+              "A. When",
+              "B. Why",
+              "C. Who",
+              "D. Where"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "At the new restaurant 回答地點，因此用 Where 提問。"
+          },
+          {
+            "id": "m2-3-u6-q021",
+            "question": "___ will the visitors get to the company? — By bus.",
+            "options": [
+              "A. How",
+              "B. When",
+              "C. Where",
+              "D. Who"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "By bus 是交通方式，對應問方式的 How。"
+          },
+          {
+            "id": "m2-3-u6-q022",
+            "question": "When ___ your brother going to leave for college?",
+            "options": [
+              "A. are",
+              "B. am",
+              "C. be",
+              "D. is"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "your brother 是單數，疑問詞後接 is，再接主詞與 going to。"
+          },
+          {
+            "id": "m2-3-u6-q023",
+            "question": "What will the singer ___ after the show?",
+            "options": [
+              "A. do",
+              "B. does",
+              "C. did",
+              "D. doing"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "疑問詞問句仍遵守 will + 主詞 + 原形動詞，故用 do。"
+          },
+          {
+            "id": "m2-3-u6-q024",
+            "question": "How are the workers going to ___ this heavy couch upstairs?",
+            "options": [
+              "A. carries",
+              "B. carry",
+              "C. carried",
+              "D. carrying"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "going to 後用原形 carry；疑問詞 How 不改變這個規則。"
+          },
+          {
+            "id": "m2-3-u6-q025",
+            "question": "There will ___ a new digital library near our school.",
+            "options": [
+              "A. have",
+              "B. be",
+              "C. has",
+              "D. being"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "「將有……」用 There will be；此處不是某人擁有東西，不能用 have 或 has。"
+          },
+          {
+            "id": "m2-3-u6-q026",
+            "question": "There ___ going to be three new songs in the show.",
+            "options": [
+              "A. is",
+              "B. am",
+              "C. be",
+              "D. are"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "three new songs 是複數，There be 的 going to 句型要用 are going to be。"
+          },
+          {
+            "id": "m2-3-u6-q027",
+            "question": "There ___ going to be a large dinner at the castle.",
+            "options": [
+              "A. is",
+              "B. are",
+              "C. am",
+              "D. be"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "後方 a large dinner 是單數，故用 There is going to be。"
+          },
+          {
+            "id": "m2-3-u6-q028",
+            "question": "There is going to ___ a new lamp beside the couch.",
+            "options": [
+              "A. have",
+              "B. be",
+              "C. has",
+              "D. being"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "There is going to be 表示「將有」；going to 後接原形 be，不能換成 have。"
+          },
+          {
+            "id": "m2-3-u6-q029",
+            "question": "There will not ___ any music lessons during the typhoon.",
+            "options": [
+              "A. have",
+              "B. be",
+              "C. are",
+              "D. being"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "否定的「將有」是 There will not be，will not 後保留原形 be。"
+          },
+          {
+            "id": "m2-3-u6-q030",
+            "question": "___ there be a violin show next Sunday?",
+            "options": [
+              "A. Will",
+              "B. Does",
+              "C. Is",
+              "D. Are"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "後面已有 there be，未來式問句應是 Will there be...?；Is / Are there 後不能直接再接 be。"
+          },
+          {
+            "id": "m2-3-u6-q031",
+            "question": "Will there be any free seats tonight? — No, there ___ be any free seats. Every seat is taken.",
+            "options": [
+              "A. isn't",
+              "B. won't",
+              "C. don't",
+              "D. weren't"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "空格後已有 be，應使用 there won’t be，表示將沒有空位；所有座位已滿也提供否定線索。"
+          },
+          {
+            "id": "m2-3-u6-q032",
+            "question": "Are there going to be two leaders in the game? — Yes, there ___.",
+            "options": [
+              "A. is",
+              "B. am",
+              "C. are",
+              "D. be"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "問句用 Are there going to be...?，肯定簡答保留 there are。"
+          },
+          {
+            "id": "m2-3-u6-q033",
+            "question": "Our train tickets are ready. We are ___ for Taipei tomorrow.",
+            "options": [
+              "A. leave",
+              "B. leaves",
+              "C. leaving",
+              "D. left"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "已訂票且有 tomorrow，表示未來安排；are 後接 leaving 構成現在進行式。"
+          },
+          {
+            "id": "m2-3-u6-q034",
+            "question": "My uncle is ___ at the station at noon tomorrow.",
+            "options": [
+              "A. arrive",
+              "B. arrives",
+              "C. arriving",
+              "D. to arriving"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "主詞後已有 is，表示抵達安排時用 is arriving；其他選項不能與 is 組成此句型。"
+          },
+          {
+            "id": "m2-3-u6-q035",
+            "question": "The boxes are ready. We are ___ into the new apartment on Friday.",
+            "options": [
+              "A. move",
+              "B. moving",
+              "C. moves",
+              "D. to moving"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "搬家已安排好，are moving 可表示未來計畫；are 後應接 moving，不能接 move、moves 或 to moving。"
+          },
+          {
+            "id": "m2-3-u6-q036",
+            "question": "The singer is ___ to Kaohsiung next week to meet her fans.",
+            "options": [
+              "A. coming",
+              "B. come",
+              "C. comes",
+              "D. to coming"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "is coming 搭配 next week 表示未來安排；be 後用 V-ing，不用原形或第三人稱形式。"
+          },
+          {
+            "id": "m2-3-u6-q037",
+            "question": "Nobody helped me. I made this digital card by ___.",
+            "options": [
+              "A. myself",
+              "B. yourself",
+              "C. himself",
+              "D. ourselves"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "主詞 I 對應 myself；Nobody helped me 表示獨力完成，使用 by myself。"
+          },
+          {
+            "id": "m2-3-u6-q038",
+            "question": "Lucy cut ___ while making dinner, so she put a bandage on her own finger.",
+            "options": [
+              "A. himself",
+              "B. herself",
+              "C. itself",
+              "D. themselves"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "Lucy 傷到自己的手指，主詞與受詞相同；單數女性用 herself。"
+          },
+          {
+            "id": "m2-3-u6-q039",
+            "question": "The children made the hamburgers by ___. No adults helped them.",
+            "options": [
+              "A. itself",
+              "B. himself",
+              "C. themselves",
+              "D. ourselves"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "The children 是第三人稱複數，對應 themselves；沒有成人協助表示獨自完成。"
+          },
+          {
+            "id": "m2-3-u6-q040",
+            "question": "My sister and I cleaned the whole apartment by ___.",
+            "options": [
+              "A. myself",
+              "B. themselves",
+              "C. yourself",
+              "D. ourselves"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "My sister and I 等於 we，反身代名詞用 ourselves，不能只按 I 選 myself。"
+          },
+          {
+            "id": "m2-3-u6-q041",
+            "question": "Ben and Tim, you must carry your own guitars by ___.",
+            "options": [
+              "A. yourself",
+              "B. ourselves",
+              "C. yourselves",
+              "D. themselves"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "說話者同時對 Ben 和 Tim 兩人說 you，因此用複數 yourselves。"
+          },
+          {
+            "id": "m2-3-u6-q042",
+            "question": "Anna, you are the only person here. Did you cook dinner by ___?",
+            "options": [
+              "A. yourselves",
+              "B. yourself",
+              "C. herself",
+              "D. myself"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "直接對 Anna 一人說 you，且 only person 明確是單數，應用 yourself。"
+          },
+          {
+            "id": "m2-3-u6-q043",
+            "question": "The digital clock can turn ___ off when nobody is in the room.",
+            "options": [
+              "A. himself",
+              "B. herself",
+              "C. themselves",
+              "D. itself"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "The digital clock 是單數物品；關掉自己時用 itself。"
+          },
+          {
+            "id": "m2-3-u6-q044",
+            "question": "My uncle taught ___ to play the violin without a teacher.",
+            "options": [
+              "A. himself",
+              "B. herself",
+              "C. itself",
+              "D. themselves"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "My uncle 是單數男性，自己教自己用 taught himself；without a teacher 提示自學。"
+          },
+          {
+            "id": "m2-3-u6-q045",
+            "question": "Girls, enjoy ___ at the music show tonight!",
+            "options": [
+              "A. yourselves",
+              "B. yourself",
+              "C. ourselves",
+              "D. myself"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "這是對 Girls 多人說的祈使句，省略的主詞是複數 you，enjoy 後填 yourselves。"
+          },
+          {
+            "id": "m2-3-u6-q046",
+            "question": "Tom, please help ___ to some pizza. Everyone else has already eaten.",
+            "options": [
+              "A. yourself",
+              "B. yourselves",
+              "C. ourselves",
+              "D. myself"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "此句直接對 Tom 一人說話；help yourself to 表示請自行取用，故用單數 yourself。"
+          },
+          {
+            "id": "m2-3-u6-q047",
+            "question": "Welcome, Jack and Amy! Please make ___ at home.",
+            "options": [
+              "A. yourself",
+              "B. myself",
+              "C. ourselves",
+              "D. yourselves"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "對 Jack 和 Amy 兩位客人說話，make yourselves at home 中須用複數 yourselves。"
+          },
+          {
+            "id": "m2-3-u6-q048",
+            "question": "Mia said to ___, \"I will complete the order in time.\"",
+            "options": [
+              "A. himself",
+              "B. itself",
+              "C. themselves",
+              "D. herself"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "Mia 心想或自言自語，所對應的是單數女性，say to oneself 在此用 herself。"
+          },
+          {
+            "id": "m2-3-u6-q049",
+            "question": "The girl ___ created both the lyrics and the melody.",
+            "options": [
+              "A. her",
+              "B. she",
+              "C. hers",
+              "D. herself"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "空格用來強調女孩「親自」創作，需用 herself；her、she、hers 都不能在此作強調語。"
+          },
+          {
+            "id": "m2-3-u6-q050",
+            "question": "___ will teach himself to use the new technology.",
+            "options": [
+              "A. Him",
+              "B. His",
+              "C. He",
+              "D. Himself"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "空格是句子的主詞，須用主格 He；himself 可作反身受詞，但不可單獨取代主格。"
+          }
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          {
+            "id": "m2-3-u6-sv001",
+            "vocab_id": "m2-3-u6-v001",
+            "sentence": "The game will be simple.",
+            "sentence_chinese": "這個遊戲會很簡單。"
+          },
+          {
+            "id": "m2-3-u6-sv002",
+            "vocab_id": "m2-3-u6-v002",
+            "sentence": "We will create a new song.",
+            "sentence_chinese": "我們將創作一首新歌。"
+          },
+          {
+            "id": "m2-3-u6-sv003",
+            "vocab_id": "m2-3-u6-v003",
+            "sentence": "I will write the lyrics myself.",
+            "sentence_chinese": "我會自己寫歌詞。"
+          },
+          {
+            "id": "m2-3-u6-sv004",
+            "vocab_id": "m2-3-u6-v004",
+            "sentence": "She will create a beautiful melody.",
+            "sentence_chinese": "她將創作一段優美的旋律。"
+          },
+          {
+            "id": "m2-3-u6-sv005",
+            "vocab_id": "m2-3-u6-v005",
+            "sentence": "We will find the answer on the Internet.",
+            "sentence_chinese": "我們會在網路上找到答案。"
+          },
+          {
+            "id": "m2-3-u6-sv006",
+            "vocab_id": "m2-3-u6-v006",
+            "sentence": "The door closed by itself.",
+            "sentence_chinese": "門自己關上了。"
+          },
+          {
+            "id": "m2-3-u6-sv007",
+            "vocab_id": "m2-3-u6-v007",
+            "sentence": "Actually, I will stay home tonight.",
+            "sentence_chinese": "其實，我今晚會待在家。"
+          },
+          {
+            "id": "m2-3-u6-sv008",
+            "vocab_id": "m2-3-u6-v008",
+            "sentence": "Her dream will come true one day.",
+            "sentence_chinese": "她的夢想有一天會實現。"
+          },
+          {
+            "id": "m2-3-u6-sv009",
+            "vocab_id": "m2-3-u6-v009",
+            "sentence": "I will have my own room.",
+            "sentence_chinese": "我將有自己的房間。"
+          },
+          {
+            "id": "m2-3-u6-sv010",
+            "vocab_id": "m2-3-u6-v010",
+            "sentence": "We will visit a virtual museum.",
+            "sentence_chinese": "我們將參觀一座虛擬博物館。"
+          },
+          {
+            "id": "m2-3-u6-sv011",
+            "vocab_id": "m2-3-u6-v011",
+            "sentence": "She is going to become a singer.",
+            "sentence_chinese": "她打算成為一名歌手。"
+          },
+          {
+            "id": "m2-3-u6-sv012",
+            "vocab_id": "m2-3-u6-v012",
+            "sentence": "We will use more technology in the future.",
+            "sentence_chinese": "我們未來會使用更多科技。"
+          },
+          {
+            "id": "m2-3-u6-sv013",
+            "vocab_id": "m2-3-u6-v013",
+            "sentence": "He will buy a digital camera.",
+            "sentence_chinese": "他將買一台數位相機。"
+          },
+          {
+            "id": "m2-3-u6-sv014",
+            "vocab_id": "m2-3-u6-v014",
+            "sentence": "The music lesson will be interesting.",
+            "sentence_chinese": "這堂音樂課會很有趣。"
+          },
+          {
+            "id": "m2-3-u6-sv015",
+            "vocab_id": "m2-3-u6-v015",
+            "sentence": "I will help you after dinner.",
+            "sentence_chinese": "我晚餐後會幫你。"
+          },
+          {
+            "id": "m2-3-u6-sv016",
+            "vocab_id": "m2-3-u6-v016",
+            "sentence": "Your dream will come true one day.",
+            "sentence_chinese": "你的夢想有一天會實現。"
+          },
+          {
+            "id": "m2-3-u6-sv017",
+            "vocab_id": "m2-3-u6-v017",
+            "sentence": "We are going to watch a movie tonight.",
+            "sentence_chinese": "我們今晚打算看電影。"
+          },
+          {
+            "id": "m2-3-u6-sv018",
+            "vocab_id": "m2-3-u6-v018",
+            "sentence": "My uncle will visit us tomorrow.",
+            "sentence_chinese": "我叔叔明天會來看我們。"
+          },
+          {
+            "id": "m2-3-u6-sv019",
+            "vocab_id": "m2-3-u6-v019",
+            "sentence": "They will make a pizza themselves.",
+            "sentence_chinese": "他們將自己做一個披薩。"
+          },
+          {
+            "id": "m2-3-u6-sv020",
+            "vocab_id": "m2-3-u6-v020",
+            "sentence": "He is going to eat a hamburger.",
+            "sentence_chinese": "他打算吃一個漢堡。"
+          },
+          {
+            "id": "m2-3-u6-sv021",
+            "vocab_id": "m2-3-u6-v021",
+            "sentence": "We will have dinner at six.",
+            "sentence_chinese": "我們會在六點吃晚餐。"
+          },
+          {
+            "id": "m2-3-u6-sv022",
+            "vocab_id": "m2-3-u6-v022",
+            "sentence": "Will you be free tomorrow afternoon?",
+            "sentence_chinese": "你明天下午有空嗎？"
+          },
+          {
+            "id": "m2-3-u6-sv023",
+            "vocab_id": "m2-3-u6-v023",
+            "sentence": "I will put the lamp on my desk.",
+            "sentence_chinese": "我會把檯燈放在書桌上。"
+          },
+          {
+            "id": "m2-3-u6-sv024",
+            "vocab_id": "m2-3-u6-v024",
+            "sentence": "She will play the guitar tonight.",
+            "sentence_chinese": "她今晚會彈吉他。"
+          },
+          {
+            "id": "m2-3-u6-sv025",
+            "vocab_id": "m2-3-u6-v025",
+            "sentence": "He is going to buy a violin.",
+            "sentence_chinese": "他打算買一把小提琴。"
+          },
+          {
+            "id": "m2-3-u6-sv026",
+            "vocab_id": "m2-3-u6-v026",
+            "sentence": "I will add some honey to the tea.",
+            "sentence_chinese": "我會在茶裡加一些蜂蜜。"
+          },
+          {
+            "id": "m2-3-u6-sv027",
+            "vocab_id": "m2-3-u6-v027",
+            "sentence": "The cat is going to sleep on the couch.",
+            "sentence_chinese": "那隻貓要在沙發上睡覺。"
+          },
+          {
+            "id": "m2-3-u6-sv028",
+            "vocab_id": "m2-3-u6-v028",
+            "sentence": "They will move into a new apartment.",
+            "sentence_chinese": "他們將搬進一間新公寓。"
+          },
+          {
+            "id": "m2-3-u6-sv029",
+            "vocab_id": "m2-3-u6-v029",
+            "sentence": "We are going to visit the castle.",
+            "sentence_chinese": "我們打算參觀那座城堡。"
+          },
+          {
+            "id": "m2-3-u6-sv030",
+            "vocab_id": "m2-3-u6-v030",
+            "sentence": "We will learn about the earthquake tomorrow.",
+            "sentence_chinese": "我們明天會學習那次地震的相關知識。"
+          },
+          {
+            "id": "m2-3-u6-sv031",
+            "vocab_id": "m2-3-u6-v031",
+            "sentence": "The typhoon will arrive tomorrow night.",
+            "sentence_chinese": "颱風將在明天晚上抵達。"
+          },
+          {
+            "id": "m2-3-u6-sv032",
+            "vocab_id": "m2-3-u6-v032",
+            "sentence": "I was born in Kaohsiung.",
+            "sentence_chinese": "我出生於高雄。"
+          },
+          {
+            "id": "m2-3-u6-sv033",
+            "vocab_id": "m2-3-u6-v033",
+            "sentence": "Technology will change our lives.",
+            "sentence_chinese": "科技將改變我們的生活。"
+          },
+          {
+            "id": "m2-3-u6-sv034",
+            "vocab_id": "m2-3-u6-v034",
+            "sentence": "My sister will go to college next year.",
+            "sentence_chinese": "我姊姊明年將上大學。"
+          },
+          {
+            "id": "m2-3-u6-sv035",
+            "vocab_id": "m2-3-u6-v035",
+            "sentence": "The company will make new computers.",
+            "sentence_chinese": "這家公司將製造新的電腦。"
+          },
+          {
+            "id": "m2-3-u6-sv036",
+            "vocab_id": "m2-3-u6-v036",
+            "sentence": "Their new business will be successful.",
+            "sentence_chinese": "他們的新事業會成功。"
+          },
+          {
+            "id": "m2-3-u6-sv037",
+            "vocab_id": "m2-3-u6-v037",
+            "sentence": "You will fail without enough practice.",
+            "sentence_chinese": "如果練習不夠，你會失敗。"
+          },
+          {
+            "id": "m2-3-u6-sv038",
+            "vocab_id": "m2-3-u6-v038",
+            "sentence": "We will complete the work tomorrow.",
+            "sentence_chinese": "我們明天會完成工作。"
+          },
+          {
+            "id": "m2-3-u6-sv039",
+            "vocab_id": "m2-3-u6-v039",
+            "sentence": "The company will get a large order.",
+            "sentence_chinese": "這家公司將接到一筆大訂單。"
+          },
+          {
+            "id": "m2-3-u6-sv040",
+            "vocab_id": "m2-3-u6-v040",
+            "sentence": "Our leader will talk to us tonight.",
+            "sentence_chinese": "我們的領導者今晚會和我們談話。"
+          },
+          {
+            "id": "m2-3-u6-sv041",
+            "vocab_id": "m2-3-u6-v041",
+            "sentence": "The doctor will check his heart tomorrow.",
+            "sentence_chinese": "醫生明天會檢查他的心臟。"
+          },
+          {
+            "id": "m2-3-u6-sv042",
+            "vocab_id": "m2-3-u6-v042",
+            "sentence": "I won't forget your birthday.",
+            "sentence_chinese": "我不會忘記你的生日。"
+          },
+          {
+            "id": "m2-3-u6-sv043",
+            "vocab_id": "m2-3-u6-v043",
+            "sentence": "We will learn an important lesson.",
+            "sentence_chinese": "我們將學到重要的一課。"
+          },
+          {
+            "id": "m2-3-u6-sv044",
+            "vocab_id": "m2-3-u6-v044",
+            "sentence": "We will talk about this case tomorrow.",
+            "sentence_chinese": "我們明天會談這個案例。"
+          },
+          {
+            "id": "m2-3-u6-sv045",
+            "vocab_id": "m2-3-u6-v045",
+            "sentence": "I will be careful with the glass.",
+            "sentence_chinese": "我會小心拿這個玻璃杯。"
+          },
+          {
+            "id": "m2-3-u6-sv046",
+            "vocab_id": "m2-3-u6-v046",
+            "sentence": "Thanks to your help, we will finish in time.",
+            "sentence_chinese": "多虧你的幫忙，我們會及時完成。"
+          },
+          {
+            "id": "m2-3-u6-sv047",
+            "vocab_id": "m2-3-u6-v047",
+            "sentence": "They will build a modern school.",
+            "sentence_chinese": "他們將興建一所現代化學校。"
+          },
+          {
+            "id": "m2-3-u6-sv048",
+            "vocab_id": "m2-3-u6-v048",
+            "sentence": "His dream will drive him to work hard.",
+            "sentence_chinese": "他的夢想將驅使他努力。"
+          },
+          {
+            "id": "m2-3-u6-sv049",
+            "vocab_id": "m2-3-u6-v049",
+            "sentence": "The children will clean the room themselves.",
+            "sentence_chinese": "孩子們將自己打掃房間。"
+          },
+          {
+            "id": "m2-3-u6-sv050",
+            "vocab_id": "m2-3-u6-v050",
+            "sentence": "Technology will shape our future.",
+            "sentence_chinese": "科技將形塑我們的未來。"
+          }
+        ],
+        "phrases": [
+          {
+            "id": "m2-3-u6-sp001",
+            "phrase_id": "m2-3-u6-p001",
+            "sentence": "We need to check out his story.",
+            "sentence_chinese": "我們需要查證他的故事。"
+          },
+          {
+            "id": "m2-3-u6-sp002",
+            "phrase_id": "m2-3-u6-p002",
+            "sentence": "Jeff: May I use your computer? Julia: No way!",
+            "sentence_chinese": "傑夫：我可以用你的電腦嗎？茱莉亞：不行！"
+          },
+          {
+            "id": "m2-3-u6-sp003",
+            "phrase_id": "m2-3-u6-p003",
+            "sentence": "Please type in your password.",
+            "sentence_chinese": "請輸入你的密碼。"
+          },
+          {
+            "id": "m2-3-u6-sp004",
+            "phrase_id": "m2-3-u6-p004",
+            "sentence": "I usually do shopping on the Internet.",
+            "sentence_chinese": "我通常在網路上購物。"
+          },
+          {
+            "id": "m2-3-u6-sp005",
+            "phrase_id": "m2-3-u6-p005",
+            "sentence": "Maria finished the math homework by herself.",
+            "sentence_chinese": "瑪莉亞獨自完成了數學作業。"
+          },
+          {
+            "id": "m2-3-u6-sp006",
+            "phrase_id": "m2-3-u6-p006",
+            "sentence": "My dream is to become a great dancer in the future.",
+            "sentence_chinese": "我的夢想是未來成為一名很棒的舞者。"
+          },
+          {
+            "id": "m2-3-u6-sp007",
+            "phrase_id": "m2-3-u6-p007",
+            "sentence": "We should learn more about AI.",
+            "sentence_chinese": "我們應該多學習人工智慧的相關知識。"
+          },
+          {
+            "id": "m2-3-u6-sp008",
+            "phrase_id": "m2-3-u6-p008",
+            "sentence": "If you work hard, your dream will come true.",
+            "sentence_chinese": "如果你努力，你的夢想就會成真。"
+          },
+          {
+            "id": "m2-3-u6-sp009",
+            "phrase_id": "m2-3-u6-p009",
+            "sentence": "Bruce: Can I ask you one more question? James: No problem.",
+            "sentence_chinese": "布魯斯：我可以再問你一個問題嗎？詹姆士：沒問題。"
+          },
+          {
+            "id": "m2-3-u6-sp010",
+            "phrase_id": "m2-3-u6-p010",
+            "sentence": "Kevin: I hope you get well soon. Take care.",
+            "sentence_chinese": "凱文：希望你早日康復。保重。"
+          },
+          {
+            "id": "m2-3-u6-sp011",
+            "phrase_id": "m2-3-u6-p011",
+            "sentence": "We're talking about that hard-working boy.",
+            "sentence_chinese": "我們正在談論那個努力工作的男孩。"
+          },
+          {
+            "id": "m2-3-u6-sp012",
+            "phrase_id": "m2-3-u6-p012",
+            "sentence": "At a young age, Mr. Huang was a famous engineer.",
+            "sentence_chinese": "黃先生年輕時就是一位知名的工程師。"
+          },
+          {
+            "id": "m2-3-u6-sp013",
+            "phrase_id": "m2-3-u6-p013",
+            "sentence": "My brother is curious about that new machine.",
+            "sentence_chinese": "我哥哥對那台新機器感到好奇。"
+          },
+          {
+            "id": "m2-3-u6-sp014",
+            "phrase_id": "m2-3-u6-p014",
+            "sentence": "The old man makes a lot of money by selling fruit.",
+            "sentence_chinese": "那位老人靠賣水果賺很多錢。"
+          },
+          {
+            "id": "m2-3-u6-sp015",
+            "phrase_id": "m2-3-u6-p015",
+            "sentence": "Our company completed a large order for a client in Korea.",
+            "sentence_chinese": "我們公司完成了一位韓國客戶的大訂單。"
+          },
+          {
+            "id": "m2-3-u6-sp016",
+            "phrase_id": "m2-3-u6-p016",
+            "sentence": "We caught the final train in time.",
+            "sentence_chinese": "我們及時趕上末班火車。"
+          },
+          {
+            "id": "m2-3-u6-sp017",
+            "phrase_id": "m2-3-u6-p017",
+            "sentence": "In my heart, Jessica is a great girl.",
+            "sentence_chinese": "在我心中，潔西卡是個很棒的女孩。"
+          },
+          {
+            "id": "m2-3-u6-sp018",
+            "phrase_id": "m2-3-u6-p018",
+            "sentence": "We need to learn an important lesson from this accident.",
+            "sentence_chinese": "我們需要從這次意外學到重要的一課。"
+          },
+          {
+            "id": "m2-3-u6-sp019",
+            "phrase_id": "m2-3-u6-p019",
+            "sentence": "Peter should listen to me from now on.",
+            "sentence_chinese": "彼得從現在起應該聽我的話。"
+          },
+          {
+            "id": "m2-3-u6-sp020",
+            "phrase_id": "m2-3-u6-p020",
+            "sentence": "His ideas help us to shape the future of technology.",
+            "sentence_chinese": "他的想法幫助我們形塑科技的未來。"
+          }
+        ],
+        "grammar": [
+          {
+            "id": "m2-3-u6-sg001",
+            "sentence": "We will create a new song tonight.",
+            "sentence_chinese": "我們今晚將創作一首新歌。"
+          },
+          {
+            "id": "m2-3-u6-sg002",
+            "sentence": "She is going to visit her uncle tomorrow.",
+            "sentence_chinese": "她明天打算去看叔叔。"
+          },
+          {
+            "id": "m2-3-u6-sg003",
+            "sentence": "The little boy made the card by himself.",
+            "sentence_chinese": "那個小男孩自己做了這張卡片。"
+          },
+          {
+            "id": "m2-3-u6-sg004",
+            "sentence": "Will your dream come true in the future?",
+            "sentence_chinese": "你的夢想將來會實現嗎？"
+          },
+          {
+            "id": "m2-3-u6-sg005",
+            "sentence": "There are going to be two music shows.",
+            "sentence_chinese": "將有兩場音樂表演。"
+          },
+          {
+            "id": "m2-3-u6-sg006",
+            "sentence": "Please help yourselves to some honey, children.",
+            "sentence_chinese": "孩子們，請自行取用一些蜂蜜。"
+          },
+          {
+            "id": "m2-3-u6-sg007",
+            "sentence": "My uncle is arriving in Kaohsiung tomorrow morning.",
+            "sentence_chinese": "我叔叔明天早上要抵達高雄。"
+          },
+          {
+            "id": "m2-3-u6-sg008",
+            "sentence": "We will not forget this important lesson.",
+            "sentence_chinese": "我們不會忘記這重要的一課。"
+          },
+          {
+            "id": "m2-3-u6-sg009",
+            "sentence": "The company is going to complete your order.",
+            "sentence_chinese": "這家公司將完成你的訂單。"
+          },
+          {
+            "id": "m2-3-u6-sg010",
+            "sentence": "Did you enjoy yourself at the party, Amy?",
+            "sentence_chinese": "艾咪，你在派對玩得開心嗎？"
+          },
+          {
+            "id": "m2-3-u6-sg011",
+            "sentence": "There will be a new lamp in my room.",
+            "sentence_chinese": "我的房間裡將有一盞新檯燈。"
+          },
+          {
+            "id": "m2-3-u6-sg012",
+            "sentence": "What will the singer do after dinner?",
+            "sentence_chinese": "那位歌手晚餐後會做什麼？"
+          },
+          {
+            "id": "m2-3-u6-sg013",
+            "sentence": "The children cleaned the apartment by themselves.",
+            "sentence_chinese": "孩子們獨自打掃了公寓。"
+          },
+          {
+            "id": "m2-3-u6-sg014",
+            "sentence": "We are leaving for the castle tomorrow morning.",
+            "sentence_chinese": "我們明天早上要出發去城堡。"
+          },
+          {
+            "id": "m2-3-u6-sg015",
+            "sentence": "Are you going to buy a digital camera?",
+            "sentence_chinese": "你打算買一台數位相機嗎？"
+          },
+          {
+            "id": "m2-3-u6-sg016",
+            "sentence": "The leader herself checked all the orders.",
+            "sentence_chinese": "領導者親自檢查了所有訂單。"
+          },
+          {
+            "id": "m2-3-u6-sg017",
+            "sentence": "There will not be any tests next week.",
+            "sentence_chinese": "下週不會有任何考試。"
+          },
+          {
+            "id": "m2-3-u6-sg018",
+            "sentence": "When is your sister going to enter college?",
+            "sentence_chinese": "你姊姊打算何時上大學？"
+          },
+          {
+            "id": "m2-3-u6-sg019",
+            "sentence": "We taught ourselves to play the guitar.",
+            "sentence_chinese": "我們自學彈吉他。"
+          },
+          {
+            "id": "m2-3-u6-sg020",
+            "sentence": "He will be careful with the new violin.",
+            "sentence_chinese": "他會小心使用這把新小提琴。"
+          },
+          {
+            "id": "m2-3-u6-sg021",
+            "sentence": "The clock will turn itself off at midnight.",
+            "sentence_chinese": "這個時鐘會在午夜自行關閉。"
+          },
+          {
+            "id": "m2-3-u6-sg022",
+            "sentence": "Our family is moving into an apartment tomorrow.",
+            "sentence_chinese": "我們家明天要搬進一間公寓。"
+          },
+          {
+            "id": "m2-3-u6-sg023",
+            "sentence": "Will there be a typhoon this weekend?",
+            "sentence_chinese": "這個週末會有颱風嗎？"
+          },
+          {
+            "id": "m2-3-u6-sg024",
+            "sentence": "I am not going to eat another hamburger.",
+            "sentence_chinese": "我不打算再吃一個漢堡。"
+          },
+          {
+            "id": "m2-3-u6-sg025",
+            "sentence": "She looked at herself in the mirror.",
+            "sentence_chinese": "她看著鏡子裡的自己。"
+          },
+          {
+            "id": "m2-3-u6-sg026",
+            "sentence": "How will technology shape our lives in the future?",
+            "sentence_chinese": "科技未來將如何形塑我們的生活？"
+          },
+          {
+            "id": "m2-3-u6-sg027",
+            "sentence": "Jack and Amy, please make yourselves at home.",
+            "sentence_chinese": "傑克和艾咪，請別拘束，就像在自己家一樣。"
+          },
+          {
+            "id": "m2-3-u6-sg028",
+            "sentence": "Is there going to be a virtual tour?",
+            "sentence_chinese": "將會有一場虛擬導覽嗎？"
+          },
+          {
+            "id": "m2-3-u6-sg029",
+            "sentence": "We are going to cook dinner by ourselves.",
+            "sentence_chinese": "我們打算自己煮晚餐。"
+          },
+          {
+            "id": "m2-3-u6-sg030",
+            "sentence": "My brother will not be free tomorrow evening.",
+            "sentence_chinese": "我哥哥明天晚上不會有空。"
+          }
+        ]
+      },
+      "cloze_quiz": [
+        {
+          "id": "m2-3-u6-cq001",
+          "vocab_id": "m2-3-u6-v001",
+          "question": "Even a five-year-old can play this game. Its rules are very ___.",
+          "options": [
+            "expensive",
+            "simple",
+            "heavy",
+            "dangerous"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "五歲孩子也能玩，表示規則很簡單；simple 是簡單的。"
+        },
+        {
+          "id": "m2-3-u6-cq002",
+          "vocab_id": "m2-3-u6-v002",
+          "question": "The art teacher asked us to ___ a new picture, not copy an old one.",
+          "options": [
+            "borrow",
+            "create",
+            "close",
+            "wash"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "不是複製舊圖，而是創作新圖；create 是創作、創造。"
+        },
+        {
+          "id": "m2-3-u6-cq003",
+          "vocab_id": "m2-3-u6-v003",
+          "question": "I know the tune of the song, but I cannot remember its ___.",
+          "options": [
+            "prices",
+            "colors",
+            "tickets",
+            "lyrics"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "已記得曲調，忘記的是歌曲的文字；lyrics 是歌詞。"
+        },
+        {
+          "id": "m2-3-u6-cq004",
+          "vocab_id": "m2-3-u6-v004",
+          "question": "There are no words in this piece of music, but its ___ is beautiful.",
+          "options": [
+            "melody",
+            "address",
+            "weather",
+            "price"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "沒有歌詞但音樂仍好聽，指的是旋律 melody。"
+        },
+        {
+          "id": "m2-3-u6-cq005",
+          "vocab_id": "m2-3-u6-v005",
+          "question": "You need to connect your phone to the ___ before you can visit this website.",
+          "options": [
+            "kitchen",
+            "ceiling",
+            "garden",
+            "Internet"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "瀏覽網站需要網路連線；Internet 是網路。"
+        },
+        {
+          "id": "m2-3-u6-cq006",
+          "vocab_id": "m2-3-u6-v006",
+          "question": "Nobody touched the toy car, but it started moving by ___.",
+          "options": [
+            "itself",
+            "herself",
+            "himself",
+            "themselves"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "toy car 是單數物品，by itself 表示自行移動。"
+        },
+        {
+          "id": "m2-3-u6-cq007",
+          "vocab_id": "m2-3-u6-v007",
+          "question": "You think Ben is from Japan, but he is ___ from Taiwan.",
+          "options": [
+            "yesterday",
+            "actually",
+            "upstairs",
+            "outside"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "前半句是別人的想法，後半句說明事實；actually 表示其實、事實上。"
+        },
+        {
+          "id": "m2-3-u6-cq008",
+          "vocab_id": "m2-3-u6-v008",
+          "question": "Becoming a doctor is my biggest ___. I hope to help sick people one day.",
+          "options": [
+            "meal",
+            "dream",
+            "ticket",
+            "noise"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "希望有一天成為醫生，是未來的夢想 dream。"
+        },
+        {
+          "id": "m2-3-u6-cq009",
+          "vocab_id": "m2-3-u6-v009",
+          "question": "I do not need to borrow a computer anymore. I have my ___ now.",
+          "options": [
+            "late",
+            "empty",
+            "loud",
+            "own"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "不必再借，表示已有自己的電腦；my own 是我自己的。"
+        },
+        {
+          "id": "m2-3-u6-cq010",
+          "vocab_id": "m2-3-u6-v010",
+          "question": "We wore special glasses and walked around a ___ city made by a computer.",
+          "options": [
+            "virtual",
+            "hungry",
+            "wooden",
+            "sleepy"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "電腦建立、透過特殊眼鏡觀看的城市是虛擬的；virtual。"
+        },
+        {
+          "id": "m2-3-u6-cq011",
+          "vocab_id": "m2-3-u6-v011",
+          "question": "The ___ sang three songs on stage, and everyone loved her voice.",
+          "options": [
+            "driver",
+            "singer",
+            "farmer",
+            "dentist"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "在舞台唱歌且有好歌聲，指歌手 singer。"
+        },
+        {
+          "id": "m2-3-u6-cq012",
+          "vocab_id": "m2-3-u6-v012",
+          "question": "What will schools be like fifty years from now? Nobody knows the ___.",
+          "options": [
+            "kitchen",
+            "future",
+            "breakfast",
+            "address"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "fifty years from now 指五十年後，談的是未來 future。"
+        },
+        {
+          "id": "m2-3-u6-cq013",
+          "vocab_id": "m2-3-u6-v013",
+          "question": "This ___ clock shows the time with numbers on a screen instead of hands.",
+          "options": [
+            "digital",
+            "hungry",
+            "cloudy",
+            "careless"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "螢幕顯示數字而非指針，指數位時鐘；digital 是數位的。"
+        },
+        {
+          "id": "m2-3-u6-cq014",
+          "vocab_id": "m2-3-u6-v014",
+          "question": "The story is so ___ that I want to read it again right away.",
+          "options": [
+            "boring",
+            "interesting",
+            "empty",
+            "asleep"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "讀完馬上想再讀一次，表示故事很有趣 interesting；boring 表示無聊。"
+        },
+        {
+          "id": "m2-3-u6-cq015",
+          "vocab_id": "m2-3-u6-v015",
+          "question": "I promise I ___ return your guitar tomorrow.",
+          "options": [
+            "was",
+            "am",
+            "will",
+            "did"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "promise 表示承諾，tomorrow 是未來時間；will 後接原形 return。"
+        },
+        {
+          "id": "m2-3-u6-cq016",
+          "vocab_id": "m2-3-u6-v016",
+          "question": "After years of hard work, her wish to open a bakery may finally ___.",
+          "options": [
+            "fall asleep",
+            "get lost",
+            "come true",
+            "sit down"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "多年努力後實現開麵包店的心願；come true 是成真。"
+        },
+        {
+          "id": "m2-3-u6-cq017",
+          "vocab_id": "m2-3-u6-v017",
+          "question": "It is six in the evening now. We are going to watch a movie at eight ___.",
+          "options": [
+            "yesterday",
+            "last week",
+            "tonight",
+            "every morning"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "現在是傍晚六點，接著晚上八點看電影，指今晚 tonight。"
+        },
+        {
+          "id": "m2-3-u6-cq018",
+          "vocab_id": "m2-3-u6-v018",
+          "question": "My mother's brother is my ___.",
+          "options": [
+            "cousin",
+            "uncle",
+            "nephew",
+            "grandfather"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "媽媽的兄弟是舅舅，英文為 uncle。"
+        },
+        {
+          "id": "m2-3-u6-cq019",
+          "vocab_id": "m2-3-u6-v019",
+          "question": "We ordered a round ___ with cheese and tomatoes on top and cut it into slices.",
+          "options": [
+            "pizza",
+            "soup",
+            "juice",
+            "sandwich"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "圓形、上面有起司與番茄並切片食用，指披薩 pizza。"
+        },
+        {
+          "id": "m2-3-u6-cq020",
+          "vocab_id": "m2-3-u6-v020",
+          "question": "He put a piece of beef between the two halves of a round bun to make a ___.",
+          "options": [
+            "hamburger",
+            "pancake",
+            "salad",
+            "noodle"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "把牛肉夾在圓麵包裡做成漢堡 hamburger。"
+        },
+        {
+          "id": "m2-3-u6-cq021",
+          "vocab_id": "m2-3-u6-v021",
+          "question": "We usually eat ___ at seven in the evening after Dad gets home.",
+          "options": [
+            "breakfast",
+            "dinner",
+            "lunch",
+            "brunch"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "晚上七點、爸爸回家後吃的那一餐是晚餐 dinner。"
+        },
+        {
+          "id": "m2-3-u6-cq022",
+          "vocab_id": "m2-3-u6-v022",
+          "question": "I have no classes or work tomorrow afternoon, so I will be ___.",
+          "options": [
+            "busy",
+            "late",
+            "free",
+            "absent"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "沒有課也沒有工作，表示有空；free 在此指空閒的。"
+        },
+        {
+          "id": "m2-3-u6-cq023",
+          "vocab_id": "m2-3-u6-v023",
+          "question": "It is too dark to read. Please turn on the ___ beside the bed.",
+          "options": [
+            "couch",
+            "pillow",
+            "carpet",
+            "lamp"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "太暗無法閱讀，需要打開能照明的檯燈 lamp。"
+        },
+        {
+          "id": "m2-3-u6-cq024",
+          "vocab_id": "m2-3-u6-v024",
+          "question": "The musician played a six-string ___ by picking its strings with his fingers.",
+          "options": [
+            "flute",
+            "drum",
+            "guitar",
+            "trumpet"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "六條弦、用手指撥弦演奏的是吉他 guitar；其他選項非弦樂器。"
+        },
+        {
+          "id": "m2-3-u6-cq025",
+          "vocab_id": "m2-3-u6-v025",
+          "question": "She held the ___ under her chin and moved a bow across its four strings.",
+          "options": [
+            "piano",
+            "violin",
+            "drum",
+            "flute"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "放在下巴下、有四條弦且用弓演奏的是小提琴 violin。"
+        },
+        {
+          "id": "m2-3-u6-cq026",
+          "vocab_id": "m2-3-u6-v026",
+          "question": "Bees make ___, a sweet food that people often add to tea.",
+          "options": [
+            "salt",
+            "flour",
+            "butter",
+            "honey"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "蜜蜂製造、可以加進茶裡的甜食是蜂蜜 honey。"
+        },
+        {
+          "id": "m2-3-u6-cq027",
+          "vocab_id": "m2-3-u6-v027",
+          "question": "Three people can sit together on this soft ___ in the living room.",
+          "options": [
+            "couch",
+            "desk",
+            "cupboard",
+            "lamp"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "客廳裡可讓三人一起坐的柔軟家具是沙發 couch。"
+        },
+        {
+          "id": "m2-3-u6-cq028",
+          "vocab_id": "m2-3-u6-v028",
+          "question": "Our ___ has a kitchen, two bedrooms, and a bathroom on the sixth floor of the building.",
+          "options": [
+            "apartment",
+            "garage",
+            "garden",
+            "roof"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "大樓六樓裡有廚房、臥室及浴室的住家是公寓 apartment。"
+        },
+        {
+          "id": "m2-3-u6-cq029",
+          "vocab_id": "m2-3-u6-v029",
+          "question": "The king lived in a stone ___ with high walls and towers.",
+          "options": [
+            "castle",
+            "tent",
+            "bakery",
+            "classroom"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "國王居住、有高牆與塔樓的石造建築是城堡 castle。"
+        },
+        {
+          "id": "m2-3-u6-cq030",
+          "vocab_id": "m2-3-u6-v030",
+          "question": "The ground suddenly shook during the ___, and dishes fell off the table.",
+          "options": [
+            "rainbow",
+            "sunset",
+            "fog",
+            "earthquake"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "地面突然搖晃、盤子掉落是地震 earthquake 的線索。"
+        },
+        {
+          "id": "m2-3-u6-cq031",
+          "vocab_id": "m2-3-u6-v031",
+          "question": "A ___ is a powerful storm that can bring very strong winds and heavy rain to Taiwan.",
+          "options": [
+            "rainbow",
+            "sunrise",
+            "earthquake",
+            "typhoon"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "帶來強風豪雨的強烈風暴是颱風 typhoon；地震是地面震動。"
+        },
+        {
+          "id": "m2-3-u6-cq032",
+          "vocab_id": "m2-3-u6-v032",
+          "question": "My baby brother was ___ last night, and Mom is still resting in the hospital.",
+          "options": [
+            "lost",
+            "broken",
+            "closed",
+            "born"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "新生兒昨晚來到世上、媽媽仍在醫院休息，指出生 born。"
+        },
+        {
+          "id": "m2-3-u6-cq033",
+          "vocab_id": "m2-3-u6-v033",
+          "question": "New ___ makes it possible for doctors to talk to patients through computers.",
+          "options": [
+            "weather",
+            "furniture",
+            "technology",
+            "dessert"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "讓醫生能透過電腦與病人談話的是新科技 technology。"
+        },
+        {
+          "id": "m2-3-u6-cq034",
+          "vocab_id": "m2-3-u6-v034",
+          "question": "After finishing high school, she plans to study medicine at ___.",
+          "options": [
+            "kindergarten",
+            "a bakery",
+            "college",
+            "a supermarket"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "高中畢業後繼續學習醫學，指上大學 college。"
+        },
+        {
+          "id": "m2-3-u6-cq035",
+          "vocab_id": "m2-3-u6-v035",
+          "question": "My dad works for a computer ___ that sells laptops around the world.",
+          "options": [
+            "playground",
+            "waterfall",
+            "company",
+            "bedroom"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "向全球銷售筆電、爸爸在其中工作的機構是公司 company。"
+        },
+        {
+          "id": "m2-3-u6-cq036",
+          "vocab_id": "m2-3-u6-v036",
+          "question": "Her first business was very ___: it earned enough money to open three more shops.",
+          "options": [
+            "successful",
+            "sleepy",
+            "empty",
+            "careless"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "賺到能再開三家店的錢，表示事業成功 successful。"
+        },
+        {
+          "id": "m2-3-u6-cq037",
+          "vocab_id": "m2-3-u6-v037",
+          "question": "If you get fewer than sixty points, you will ___ the test.",
+          "options": [
+            "fail",
+            "pass",
+            "write",
+            "print"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "分數不到及格門檻，表示考試不及格；fail 是未能通過、失敗。"
+        },
+        {
+          "id": "m2-3-u6-cq038",
+          "vocab_id": "m2-3-u6-v038",
+          "question": "Only one question is left. Answer it to ___ the worksheet.",
+          "options": [
+            "lose",
+            "tear",
+            "complete",
+            "hide"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "只剩一題，回答後就能完成學習單；complete 是完成。"
+        },
+        {
+          "id": "m2-3-u6-cq039",
+          "vocab_id": "m2-3-u6-v039",
+          "question": "The customer placed an ___ for twenty computers, and we will deliver them next week.",
+          "options": [
+            "earthquake",
+            "accident",
+            "order",
+            "idea"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "顧客訂購二十台電腦，指一筆訂單 order。"
+        },
+        {
+          "id": "m2-3-u6-cq040",
+          "vocab_id": "m2-3-u6-v040",
+          "question": "As the team ___, she gives everyone a job and helps them work together.",
+          "options": [
+            "leader",
+            "visitor",
+            "baby",
+            "patient"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "分配工作並帶領大家合作的人是領導者 leader。"
+        },
+        {
+          "id": "m2-3-u6-cq041",
+          "vocab_id": "m2-3-u6-v041",
+          "question": "Your ___ beats faster when you run because it pumps blood around your body.",
+          "options": [
+            "stomach",
+            "knee",
+            "heart",
+            "finger"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "會跳動並將血液送往全身的器官是心臟 heart。"
+        },
+        {
+          "id": "m2-3-u6-cq042",
+          "vocab_id": "m2-3-u6-v042",
+          "question": "Please write down the date so you will not ___ it later.",
+          "options": [
+            "remember",
+            "forget",
+            "wash",
+            "carry"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "寫下日期是為了避免之後忘記；forget 是忘記。"
+        },
+        {
+          "id": "m2-3-u6-cq043",
+          "vocab_id": "m2-3-u6-v043",
+          "question": "He learned a painful ___ from losing all his savings: never trust strangers with money.",
+          "options": [
+            "melody",
+            "meal",
+            "address",
+            "lesson"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "因損失存款而學會不要把錢交給陌生人，是得到教訓 lesson。"
+        },
+        {
+          "id": "m2-3-u6-cq044",
+          "vocab_id": "m2-3-u6-v044",
+          "question": "This is a rare ___ in which a person remembers every day of her life.",
+          "options": [
+            "guitar",
+            "case",
+            "couch",
+            "hamburger"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "描述一種罕見的情況，名詞 case 可表示案例、事例或情況。"
+        },
+        {
+          "id": "m2-3-u6-cq045",
+          "vocab_id": "m2-3-u6-v045",
+          "question": "Be ___ with that glass. Hold it with both hands so you do not drop it.",
+          "options": [
+            "careless",
+            "noisy",
+            "hungry",
+            "careful"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "提醒雙手拿玻璃杯以免掉落，是要求小心 careful。"
+        },
+        {
+          "id": "m2-3-u6-cq046",
+          "vocab_id": "m2-3-u6-v046",
+          "question": "We were able to finish the work early ___ your help. You saved us two hours!",
+          "options": [
+            "instead of",
+            "far from",
+            "thanks to",
+            "next to"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "你的幫助讓我們提早兩小時完成，表示幸虧、由於你的幫助；thanks to。"
+        },
+        {
+          "id": "m2-3-u6-cq047",
+          "vocab_id": "m2-3-u6-v047",
+          "question": "The old building has become a ___ library with robots and new computer systems.",
+          "options": [
+            "ancient",
+            "sleepy",
+            "hungry",
+            "modern"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "有機器人與新電腦系統的圖書館是現代化的 modern。"
+        },
+        {
+          "id": "m2-3-u6-cq048",
+          "vocab_id": "m2-3-u6-v048",
+          "question": "A strong wish to win can ___ a person to practice every day.",
+          "options": [
+            "wash",
+            "carry",
+            "cook",
+            "drive"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "想獲勝的願望能驅使一個人天天練習；drive 在此是驅使，不是開車。"
+        },
+        {
+          "id": "m2-3-u6-cq049",
+          "vocab_id": "m2-3-u6-v049",
+          "question": "The twins dressed ___ without any help from their parents.",
+          "options": [
+            "himself",
+            "themselves",
+            "herself",
+            "itself"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "The twins 是兩個人，自己穿衣服用複數反身代名詞 themselves。"
+        },
+        {
+          "id": "m2-3-u6-cq050",
+          "vocab_id": "m2-3-u6-v050",
+          "question": "The books children read can ___ the way they think about the world.",
+          "options": [
+            "shape",
+            "boil",
+            "sweep",
+            "count"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "書會影響、形塑孩子看待世界的方式；shape 在此是動詞。"
+        }
+      ]
+    }
+  }
+}
