@@ -1,0 +1,2491 @@
+{
+  "units": {
+    "m2-3-u5": {
+      "title": "U5",
+      "vocab": [
+        {
+          "id": "m2-3-u5-v001",
+          "word": "convenience store",
+          "part_of_speech": "名",
+          "chinese": "便利商店",
+          "sentence": "I paid the bill at a convenience store.",
+          "sentence_chinese": "我在便利商店繳了帳單。"
+        },
+        {
+          "id": "m2-3-u5-v002",
+          "word": "print",
+          "part_of_speech": "動",
+          "chinese": "列印；印刷",
+          "sentence": "It took me five minutes to print the photos.",
+          "sentence_chinese": "我花了 5 分鐘列印照片。"
+        },
+        {
+          "id": "m2-3-u5-v003",
+          "word": "photo",
+          "part_of_speech": "名",
+          "chinese": "照片",
+          "sentence": "These photos cost me fifty dollars.",
+          "sentence_chinese": "這些照片花了我 50 元。"
+        },
+        {
+          "id": "m2-3-u5-v004",
+          "word": "of course",
+          "part_of_speech": "片",
+          "chinese": "當然",
+          "sentence": "Of course, I can help you print it.",
+          "sentence_chinese": "當然，我可以幫你列印。"
+        },
+        {
+          "id": "m2-3-u5-v005",
+          "word": "how much",
+          "part_of_speech": "片",
+          "chinese": "多少錢",
+          "sentence": "How much did you pay for the book?",
+          "sentence_chinese": "你買這本書花了多少錢？"
+        },
+        {
+          "id": "m2-3-u5-v006",
+          "word": "cost",
+          "part_of_speech": "動",
+          "chinese": "花費（金錢）",
+          "sentence": "The umbrella cost me two hundred dollars.",
+          "sentence_chinese": "這把雨傘花了我 200 元。"
+        },
+        {
+          "id": "m2-3-u5-v007",
+          "word": "dollar",
+          "part_of_speech": "名",
+          "chinese": "元",
+          "sentence": "I spent ten dollars on this pen.",
+          "sentence_chinese": "我買這支筆花了 10 元。"
+        },
+        {
+          "id": "m2-3-u5-v008",
+          "word": "send",
+          "part_of_speech": "動",
+          "chinese": "寄送；寄",
+          "sentence": "She sent a package to her brother yesterday.",
+          "sentence_chinese": "她昨天寄了一個包裹給哥哥。"
+        },
+        {
+          "id": "m2-3-u5-v009",
+          "word": "package",
+          "part_of_speech": "名",
+          "chinese": "包裹",
+          "sentence": "It took me ten minutes to send the package.",
+          "sentence_chinese": "我花了 10 分鐘寄包裹。"
+        },
+        {
+          "id": "m2-3-u5-v010",
+          "word": "pay",
+          "part_of_speech": "動",
+          "chinese": "付錢；付款",
+          "sentence": "Dad paid five hundred dollars for dinner.",
+          "sentence_chinese": "爸爸花了 500 元吃晚餐。"
+        },
+        {
+          "id": "m2-3-u5-v011",
+          "word": "bill",
+          "part_of_speech": "名",
+          "chinese": "帳單",
+          "sentence": "Mom paid the phone bill this morning.",
+          "sentence_chinese": "媽媽今天早上繳了電話費。"
+        },
+        {
+          "id": "m2-3-u5-v012",
+          "word": "price",
+          "part_of_speech": "名",
+          "chinese": "價格",
+          "sentence": "The price of this bike is too high.",
+          "sentence_chinese": "這輛腳踏車的價格太高了。"
+        },
+        {
+          "id": "m2-3-u5-v013",
+          "word": "low",
+          "part_of_speech": "形",
+          "chinese": "低的",
+          "sentence": "The price of the bag is low.",
+          "sentence_chinese": "這個袋子的價格很低。"
+        },
+        {
+          "id": "m2-3-u5-v014",
+          "word": "spend",
+          "part_of_speech": "動",
+          "chinese": "花費（金錢、時間）",
+          "sentence": "I spend thirty minutes reading every day.",
+          "sentence_chinese": "我每天花 30 分鐘閱讀。"
+        },
+        {
+          "id": "m2-3-u5-v015",
+          "word": "cent",
+          "part_of_speech": "名",
+          "chinese": "分（金錢單位）",
+          "sentence": "This pencil costs fifty cents.",
+          "sentence_chinese": "這支鉛筆的價格是 50 分。"
+        },
+        {
+          "id": "m2-3-u5-v016",
+          "word": "cheap",
+          "part_of_speech": "形",
+          "chinese": "便宜的",
+          "sentence": "This bag is cheap, but it is useful.",
+          "sentence_chinese": "這個袋子很便宜，但很實用。"
+        },
+        {
+          "id": "m2-3-u5-v017",
+          "word": "worry",
+          "part_of_speech": "動",
+          "chinese": "擔心；憂慮",
+          "sentence": "Don't worry about the money.",
+          "sentence_chinese": "別擔心錢的事。"
+        },
+        {
+          "id": "m2-3-u5-v018",
+          "word": "umbrella",
+          "part_of_speech": "名",
+          "chinese": "雨傘",
+          "sentence": "I paid three hundred dollars for this umbrella.",
+          "sentence_chinese": "我買這把雨傘花了 300 元。"
+        },
+        {
+          "id": "m2-3-u5-v019",
+          "word": "convenient",
+          "part_of_speech": "形",
+          "chinese": "方便的",
+          "sentence": "It is convenient to pay bills here.",
+          "sentence_chinese": "在這裡繳帳單很方便。"
+        },
+        {
+          "id": "m2-3-u5-v020",
+          "word": "far",
+          "part_of_speech": "副",
+          "chinese": "遠地",
+          "sentence": "We did not travel far yesterday.",
+          "sentence_chinese": "我們昨天沒有到很遠的地方旅行。"
+        },
+        {
+          "id": "m2-3-u5-v021",
+          "word": "take",
+          "part_of_speech": "動",
+          "chinese": "花費（時間）",
+          "sentence": "It takes me ten minutes to walk home.",
+          "sentence_chinese": "我走路回家要花 10 分鐘。"
+        },
+        {
+          "id": "m2-3-u5-v022",
+          "word": "restroom",
+          "part_of_speech": "名",
+          "chinese": "洗手間",
+          "sentence": "The restroom is next to the store.",
+          "sentence_chinese": "洗手間在商店旁邊。"
+        },
+        {
+          "id": "m2-3-u5-v023",
+          "word": "town",
+          "part_of_speech": "名",
+          "chinese": "城鎮",
+          "sentence": "We spent two days in this town.",
+          "sentence_chinese": "我們在這座城鎮待了 2 天。"
+        },
+        {
+          "id": "m2-3-u5-v024",
+          "word": "stay",
+          "part_of_speech": "動",
+          "chinese": "待；停留",
+          "sentence": "We stayed in Taiwan for a week.",
+          "sentence_chinese": "我們在臺灣待了 1 週。"
+        },
+        {
+          "id": "m2-3-u5-v025",
+          "word": "pray",
+          "part_of_speech": "動",
+          "chinese": "祈求；禱告",
+          "sentence": "They prayed for their sick friend.",
+          "sentence_chinese": "他們為生病的朋友祈禱。"
+        },
+        {
+          "id": "m2-3-u5-v026",
+          "word": "temple",
+          "part_of_speech": "名",
+          "chinese": "寺廟",
+          "sentence": "It took us an hour to reach the temple.",
+          "sentence_chinese": "我們花了 1 小時到達寺廟。"
+        },
+        {
+          "id": "m2-3-u5-v027",
+          "word": "department store",
+          "part_of_speech": "名",
+          "chinese": "百貨公司",
+          "sentence": "Mom spent two hours in the department store.",
+          "sentence_chinese": "媽媽在百貨公司待了 2 小時。"
+        },
+        {
+          "id": "m2-3-u5-v028",
+          "word": "foreigner",
+          "part_of_speech": "名",
+          "chinese": "外國人",
+          "sentence": "The foreigner asked me for help.",
+          "sentence_chinese": "那位外國人向我求助。"
+        },
+        {
+          "id": "m2-3-u5-v029",
+          "word": "think of",
+          "part_of_speech": "片",
+          "chinese": "想到",
+          "sentence": "Can you think of a cheaper way?",
+          "sentence_chinese": "你想得到更便宜的方法嗎？"
+        },
+        {
+          "id": "m2-3-u5-v030",
+          "word": "koala",
+          "part_of_speech": "名",
+          "chinese": "無尾熊",
+          "sentence": "We spent an hour watching the koalas.",
+          "sentence_chinese": "我們花了 1 小時看無尾熊。"
+        },
+        {
+          "id": "m2-3-u5-v031",
+          "word": "scenery",
+          "part_of_speech": "名",
+          "chinese": "風景",
+          "sentence": "We enjoyed the beautiful scenery on the trip.",
+          "sentence_chinese": "我們在旅途中欣賞了美麗的風景。"
+        },
+        {
+          "id": "m2-3-u5-v032",
+          "word": "draw",
+          "part_of_speech": "動",
+          "chinese": "吸引",
+          "sentence": "The beautiful photos draw visitors to Taiwan.",
+          "sentence_chinese": "這些美麗的照片吸引遊客來臺灣。"
+        },
+        {
+          "id": "m2-3-u5-v033",
+          "word": "visitor",
+          "part_of_speech": "名",
+          "chinese": "遊客；訪客",
+          "sentence": "Many visitors spent the night in this town.",
+          "sentence_chinese": "許多遊客在這座城鎮過夜。"
+        },
+        {
+          "id": "m2-3-u5-v034",
+          "word": "foreign",
+          "part_of_speech": "形",
+          "chinese": "外國的",
+          "sentence": "She spent a year in a foreign country.",
+          "sentence_chinese": "她在外國待了 1 年。"
+        },
+        {
+          "id": "m2-3-u5-v035",
+          "word": "travel",
+          "part_of_speech": "動",
+          "chinese": "旅行",
+          "sentence": "We spent a month traveling around Taiwan.",
+          "sentence_chinese": "我們花了 1 個月環臺旅行。"
+        },
+        {
+          "id": "m2-3-u5-v036",
+          "word": "reach",
+          "part_of_speech": "動",
+          "chinese": "抵達",
+          "sentence": "It took us two hours to reach the city.",
+          "sentence_chinese": "我們花了 2 小時抵達這座城市。"
+        },
+        {
+          "id": "m2-3-u5-v037",
+          "word": "expensive",
+          "part_of_speech": "形",
+          "chinese": "昂貴的",
+          "sentence": "This watch is too expensive for me.",
+          "sentence_chinese": "這支手錶對我來說太貴了。"
+        },
+        {
+          "id": "m2-3-u5-v038",
+          "word": "city",
+          "part_of_speech": "名",
+          "chinese": "城市",
+          "sentence": "We spent three days in the city.",
+          "sentence_chinese": "我們在這座城市待了 3 天。"
+        },
+        {
+          "id": "m2-3-u5-v039",
+          "word": "anywhere",
+          "part_of_speech": "副",
+          "chinese": "在任何地方",
+          "sentence": "You can sit anywhere in this room.",
+          "sentence_chinese": "你可以坐在這個房間裡的任何地方。"
+        },
+        {
+          "id": "m2-3-u5-v040",
+          "word": "comfortable",
+          "part_of_speech": "形",
+          "chinese": "舒適的",
+          "sentence": "This chair is comfortable.",
+          "sentence_chinese": "這張椅子很舒適。"
+        },
+        {
+          "id": "m2-3-u5-v041",
+          "word": "little",
+          "part_of_speech": "形",
+          "chinese": "不多的；少許的",
+          "sentence": "We have little time to visit the temple.",
+          "sentence_chinese": "我們幾乎沒有時間參觀寺廟。"
+        },
+        {
+          "id": "m2-3-u5-v042",
+          "word": "besides",
+          "part_of_speech": "副",
+          "chinese": "此外",
+          "sentence": "The hotel is cheap. Besides, it is comfortable.",
+          "sentence_chinese": "這間旅館很便宜。此外，它也很舒適。"
+        },
+        {
+          "id": "m2-3-u5-v043",
+          "word": "most",
+          "part_of_speech": "形",
+          "chinese": "大部分的；大多數的",
+          "sentence": "Most visitors travel around the city by bus.",
+          "sentence_chinese": "大多數遊客搭公車遊覽這座城市。"
+        },
+        {
+          "id": "m2-3-u5-v044",
+          "word": "someone",
+          "part_of_speech": "代",
+          "chinese": "某人",
+          "sentence": "Someone paid for our lunch.",
+          "sentence_chinese": "有人付了我們的午餐錢。"
+        },
+        {
+          "id": "m2-3-u5-v045",
+          "word": "lend a hand",
+          "part_of_speech": "片",
+          "chinese": "幫忙",
+          "sentence": "Can you lend me a hand with these bags?",
+          "sentence_chinese": "你可以幫我拿這些袋子嗎？"
+        },
+        {
+          "id": "m2-3-u5-v046",
+          "word": "rich",
+          "part_of_speech": "形",
+          "chinese": "富有的",
+          "sentence": "The rich man spent a lot on his car.",
+          "sentence_chinese": "那位有錢人花了很多錢買車。"
+        },
+        {
+          "id": "m2-3-u5-v047",
+          "word": "be proud of",
+          "part_of_speech": "片",
+          "chinese": "以……為榮",
+          "sentence": "We are proud of our school.",
+          "sentence_chinese": "我們以自己的學校為榮。"
+        }
+      ],
+      "phrases": [
+        {
+          "id": "m2-3-u5-p001",
+          "phrase": "of course",
+          "chinese": "當然",
+          "sentence": "Of course!",
+          "sentence_chinese": "當然可以！"
+        },
+        {
+          "id": "m2-3-u5-p002",
+          "phrase": "in a convenience store",
+          "chinese": "在便利商店",
+          "sentence": "We were in a convenience store.",
+          "sentence_chinese": "我們那時在便利商店。"
+        },
+        {
+          "id": "m2-3-u5-p003",
+          "phrase": "send packages",
+          "chinese": "寄包裹",
+          "sentence": "My friend sends packages to me every week.",
+          "sentence_chinese": "我的朋友每週寄包裹給我。"
+        },
+        {
+          "id": "m2-3-u5-p004",
+          "phrase": "get tickets",
+          "chinese": "買票",
+          "sentence": "Remember to get tickets by tomorrow.",
+          "sentence_chinese": "記得明天以前去買票。"
+        },
+        {
+          "id": "m2-3-u5-p005",
+          "phrase": "pay bills",
+          "chinese": "付帳單",
+          "sentence": "Lucy paid bills last Sunday.",
+          "sentence_chinese": "Lucy 上個星期日付了帳單。"
+        },
+        {
+          "id": "m2-3-u5-p006",
+          "phrase": "have/has to + 原形動詞",
+          "chinese": "必須……",
+          "sentence": "You don't have to get up early every day.",
+          "sentence_chinese": "你不必每天早起。"
+        },
+        {
+          "id": "m2-3-u5-p007",
+          "phrase": "No worries.",
+          "chinese": "不用擔心。",
+          "sentence": "No worries. All of us can help you.",
+          "sentence_chinese": "不用擔心。我們全都能幫你。"
+        },
+        {
+          "id": "m2-3-u5-p008",
+          "phrase": "(not) far from...",
+          "chinese": "離……（不）遠",
+          "sentence": "The library is not far from my home.",
+          "sentence_chinese": "圖書館離我家不遠。"
+        },
+        {
+          "id": "m2-3-u5-p009",
+          "phrase": "Good idea.",
+          "chinese": "好主意。",
+          "sentence": "Good idea!",
+          "sentence_chinese": "好主意！"
+        },
+        {
+          "id": "m2-3-u5-p010",
+          "phrase": "think of...",
+          "chinese": "想到……",
+          "sentence": "Jenny thought of a good idea and discussed it for a long time.",
+          "sentence_chinese": "Jenny 想到了一個好主意，並討論了很久。"
+        },
+        {
+          "id": "m2-3-u5-p011",
+          "phrase": "draw...to...",
+          "chinese": "吸引……到……",
+          "sentence": "The picture draws me to the beautiful beach.",
+          "sentence_chinese": "這張圖片吸引我前往那片美麗的海灘。"
+        },
+        {
+          "id": "m2-3-u5-p012",
+          "phrase": "around the island",
+          "chinese": "環島",
+          "sentence": "Jerry went traveling around the island by bike.",
+          "sentence_chinese": "Jerry 騎腳踏車環島旅行。"
+        },
+        {
+          "id": "m2-3-u5-p013",
+          "phrase": "by + 交通工具",
+          "chinese": "搭乘……",
+          "sentence": "Mia goes to work by bus every day.",
+          "sentence_chinese": "Mia 每天搭公車上班。"
+        },
+        {
+          "id": "m2-3-u5-p014",
+          "phrase": "on the metro",
+          "chinese": "搭地鐵",
+          "sentence": "We can go to the airport on the metro.",
+          "sentence_chinese": "我們可以搭地鐵去機場。"
+        },
+        {
+          "id": "m2-3-u5-p015",
+          "phrase": "what's more",
+          "chinese": "此外；而且",
+          "sentence": "What's more, living in the country is safe.",
+          "sentence_chinese": "此外，住在鄉下很安全。"
+        },
+        {
+          "id": "m2-3-u5-p016",
+          "phrase": "worry about...",
+          "chinese": "擔心……",
+          "sentence": "Don't worry about getting lost because we have a map.",
+          "sentence_chinese": "別擔心迷路，因為我們有地圖。"
+        },
+        {
+          "id": "m2-3-u5-p017",
+          "phrase": "be proud of",
+          "chinese": "以……為榮",
+          "sentence": "We are proud of our son.",
+          "sentence_chinese": "我們以兒子為榮。"
+        },
+        {
+          "id": "m2-3-u5-p018",
+          "phrase": "lend a hand",
+          "chinese": "幫忙",
+          "sentence": "My friend always lends me a hand when I'm in trouble.",
+          "sentence_chinese": "當我遇到困難時，我的朋友總是幫助我。"
+        }
+      ],
+      "grammar": {
+        "tips": [
+          {
+            "label": "先看主詞與花費內容",
+            "text": "人花時間或金錢用 spend；人付錢用 pay；物品的價錢用 cost；It 開頭表達花時間做事用 take。"
+          },
+          {
+            "label": "動作接法",
+            "text": "spend + 時間／金錢 + V-ing；It takes + 人 + 時間 + to V；It costs + 人 + 金錢 + to V。"
+          },
+          {
+            "label": "問時間、問金錢",
+            "text": "How long 問花多久；How much 問花多少錢。問句用了 do、does、did，後面動詞要恢復原形。"
+          },
+          {
+            "label": "記住四組變化",
+            "text": "spend–spent、take–took、cost–cost、pay–paid。現在式還要注意 spends、takes、costs、pays。"
+          }
+        ],
+        "notes": [
+          {
+            "title": "spend：人花時間或金錢",
+            "rule": "人 + spend(s)/spent + 時間／金錢 + V-ing；人 + spend(s)/spent + 時間／金錢 + on + 名詞",
+            "description": "spend 的主詞通常是人。後面若是動作，用 V-ing；若是事物，用 on 加名詞。不要把 spend 的 V-ing 寫成 to V。",
+            "examples": [
+              "We spent two hours visiting the temple.",
+              "She spends thirty minutes on her homework every day.",
+              "Dad spent five hundred dollars buying an umbrella.",
+              "Dad spent five hundred dollars on an umbrella."
+            ]
+          },
+          {
+            "title": "take：花時間做事",
+            "rule": "It takes/took + 人 + 時間 + to V；V-ing + takes/took + 人 + 時間",
+            "description": "take 在本課用來表示花時間。It 句型後面的動作用 to V，人的代名詞用受格 me、him、her、us、them。也能把動名詞片語放到句首作主詞；整件事視為單數，現在式用 takes。人可以省略，如 It takes ten minutes to walk there.",
+            "examples": [
+              "It took us an hour to reach the town.",
+              "It takes her ten minutes to print the photos.",
+              "Walking to the temple takes me twenty minutes."
+            ]
+          },
+          {
+            "title": "cost：事物花費金錢",
+            "rule": "事物 + cost(s)/cost + 人 + 金錢；It costs/cost + 人 + 金錢 + to V",
+            "description": "說某物價錢多少時，用事物作主詞；不要直接用買東西的人作 cost 的主詞。一般現在式的單數主詞用 costs，複數用 cost；過去式仍是 cost，不是 costed。也能用 It costs/cost ... to V 說明做某事需要的金額。",
+            "examples": [
+              "The ticket costs two hundred dollars.",
+              "These tickets cost six hundred dollars.",
+              "The camera cost me three thousand dollars yesterday.",
+              "It cost us four hundred dollars to visit the zoo."
+            ]
+          },
+          {
+            "title": "pay：人付錢買東西",
+            "rule": "人 + pay(s)/paid + 金錢 + for + 事物；人 + pay(s)/paid + 帳單",
+            "description": "pay 的主詞是付款的人，過去式是 paid。付多少錢買某物用 pay + 金額 + for + 事物；繳帳單可直接說 pay the bill，不需要再加 for。",
+            "examples": [
+              "I paid three hundred dollars for the umbrella.",
+              "She pays the phone bill every month.",
+              "We did not pay for the tickets."
+            ]
+          },
+          {
+            "title": "How long：問花費時間",
+            "rule": "How long + do/does/did + 人 + spend + V-ing?；How long + does/did + it + take + 人 + to V?",
+            "description": "How long 對應時間長度，例如 twenty minutes 或 two hours。注意 spend 問句用 V-ing，take 的 It 問句用 to V。助動詞 did 已表示過去，後面仍用 spend、take。",
+            "examples": [
+              "How long did you spend printing the photos?",
+              "I spent ten minutes printing them.",
+              "How long does it take her to get to the city?",
+              "It takes her an hour to get there."
+            ]
+          },
+          {
+            "title": "How much：問花費金額",
+            "rule": "How much + do/does/did + 人 + spend + on + 事物?；How much + does/do/did + 事物 + cost?；How much + do/does/did + 人 + pay + for + 事物?",
+            "description": "How much 對應金額，例如 two hundred dollars。判斷助動詞時要看時態與主詞：the ticket 用 does，the tickets 用 do，過去事件用 did。也可說 How much did it cost you to buy the ticket?",
+            "examples": [
+              "How much did you spend on the package?",
+              "How much does this umbrella cost?",
+              "How much do these photos cost?",
+              "How much did she pay for the ticket?",
+              "How much did it cost you to send the package?"
+            ]
+          },
+          {
+            "title": "同義句轉換：時間",
+            "rule": "人 + spend + 時間 + V-ing ↔ It takes + 人 + 時間 + to V",
+            "description": "意思相同，句型中的主詞與動詞形式會改變。轉換時保留原來的時間、做事的人與時態；原句是過去式，兩邊都要用過去式。",
+            "examples": [
+              "We spent thirty minutes cleaning the room.",
+              "It took us thirty minutes to clean the room.",
+              "Cleaning the room took us thirty minutes."
+            ]
+          },
+          {
+            "title": "同義句轉換：金錢",
+            "rule": "人 + spend + 金錢 + on + 物 ↔ 物 + cost + 人 + 金錢 ↔ 人 + pay + 金錢 + for + 物",
+            "description": "三種句型可以描述同一次購買。先找付款的人、購買的物品與金額，再依主詞選 spend、cost 或 pay；不要只看到 dollars 就選同一個動詞。",
+            "examples": [
+              "Amy spent two hundred dollars on the bag.",
+              "The bag cost Amy two hundred dollars.",
+              "Amy paid two hundred dollars for the bag."
+            ]
+          },
+          {
+            "title": "現在式、過去式與助動詞",
+            "rule": "spend–spent；take–took；cost–cost；pay–paid；do/does/did/did not + 原形動詞",
+            "description": "every day、usually 常提示習慣，yesterday、last night 常提示過去。現在式單數第三人稱要加 s；疑問句與否定句已有 does 或 did，後面的動詞不能再加 s 或改成過去式。",
+            "examples": [
+              "He spends an hour reading every night.",
+              "He spent an hour reading last night.",
+              "Did he spend an hour reading last night?",
+              "She does not pay for lunch at school."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "id": "m2-3-u5-q001",
+            "question": "The visitors spent twenty minutes ___ for the bus outside the temple.",
+            "options": [
+              "A. wait",
+              "B. waits",
+              "C. waiting",
+              "D. to wait"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "spent 後面接時間與動作時，動作要用 V-ing，因此選 waiting。"
+          },
+          {
+            "id": "m2-3-u5-q002",
+            "question": "It took us half an hour ___ the missing umbrella.",
+            "options": [
+              "A. to find",
+              "B. find",
+              "C. finding",
+              "D. found"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "It took + 人 + 時間 後面用 to V，表示做某事花多少時間，因此用 to find。"
+          },
+          {
+            "id": "m2-3-u5-q003",
+            "question": "The photos ___ me eighty dollars when I printed them yesterday.",
+            "options": [
+              "A. cost",
+              "B. costs",
+              "C. costed",
+              "D. costing"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "yesterday 表過去；cost 的過去式仍是 cost，不能寫成 costed，也不能用現在式 costs。"
+          },
+          {
+            "id": "m2-3-u5-q004",
+            "question": "I ___ three hundred dollars for this bag at the department store yesterday.",
+            "options": [
+              "A. pay",
+              "B. paid",
+              "C. pays",
+              "D. paying"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "yesterday 表過去；人付錢買東西用 pay 的過去式 paid。"
+          },
+          {
+            "id": "m2-3-u5-q005",
+            "question": "A: ___ did you spend visiting the city? B: About two days.",
+            "options": [
+              "A. How much",
+              "B. How many",
+              "C. How often",
+              "D. How long"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "回答 two days 是時間長度，因此用 How long；How much 問金額，How often 問頻率。"
+          },
+          {
+            "id": "m2-3-u5-q006",
+            "question": "My sister usually ___ fifteen minutes paying bills online.",
+            "options": [
+              "A. spend",
+              "B. spent",
+              "C. spends",
+              "D. spending"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "usually 表習慣；主詞 My sister 是單數第三人稱，一般現在式用 spends。"
+          },
+          {
+            "id": "m2-3-u5-q007",
+            "question": "A: How much did the umbrella ___? B: Two hundred dollars.",
+            "options": [
+              "A. costs",
+              "B. costed",
+              "C. cost",
+              "D. costing"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "問句已有 did，後面用原形 cost；不能加 s、加 ed 或改成 V-ing。"
+          },
+          {
+            "id": "m2-3-u5-q008",
+            "question": "It ___ me ten minutes to walk to the convenience store every morning.",
+            "options": [
+              "A. take",
+              "B. took",
+              "C. takes",
+              "D. taking"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "every morning 表習慣，主詞 It 是單數，一般現在式用 takes。"
+          },
+          {
+            "id": "m2-3-u5-q009",
+            "question": "We spent three hundred dollars ___ tickets for the temple tour.",
+            "options": [
+              "A. buying",
+              "B. buy",
+              "C. buys",
+              "D. to buy"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "spend + 金額 後面若接購買的動作，要用 V-ing，因此選 buying。"
+          },
+          {
+            "id": "m2-3-u5-q010",
+            "question": "A: How much did you ___ for the train ticket? B: Five hundred dollars.",
+            "options": [
+              "A. spend",
+              "B. pay",
+              "C. cost",
+              "D. take"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "主詞 you 是付款的人，且金錢問句搭配 for the train ticket，要用 pay。"
+          },
+          {
+            "id": "m2-3-u5-q011",
+            "question": "My brother did not ___ any time looking for the restroom because he knew where it was.",
+            "options": [
+              "A. spend",
+              "B. spends",
+              "C. spent",
+              "D. spending"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "did not 後接原形動詞；spend + 時間 + V-ing 表示花時間做事，因此用 spend。"
+          },
+          {
+            "id": "m2-3-u5-q012",
+            "question": "It took ___ forty minutes to reach the small town.",
+            "options": [
+              "A. him",
+              "B. he",
+              "C. his",
+              "D. himself"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "It took + 人 + 時間 中，人是受詞，he 要改成受格 him；本句沒有反身代名詞的用法。"
+          },
+          {
+            "id": "m2-3-u5-q013",
+            "question": "A: ___ did the camera cost you? B: Six thousand dollars.",
+            "options": [
+              "A. How long",
+              "B. How many",
+              "C. How often",
+              "D. How much"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "回答是 six thousand dollars，問的是花費金額，因此用 How much。"
+          },
+          {
+            "id": "m2-3-u5-q014",
+            "question": "Walking from the hotel to the temple ___ us twenty minutes every day.",
+            "options": [
+              "A. take",
+              "B. took",
+              "C. taking",
+              "D. takes"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "Walking ... 是一整件事，動名詞片語作主詞視為單數；every day 提示現在習慣，用 takes。"
+          },
+          {
+            "id": "m2-3-u5-q015",
+            "question": "A: How long did the foreigners ___ traveling around the island? B: A week.",
+            "options": [
+              "A. take",
+              "B. cost",
+              "C. pay",
+              "D. spend"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "主詞是人 the foreigners，後面接 traveling，問花費時間要用 spend。"
+          },
+          {
+            "id": "m2-3-u5-q016",
+            "question": "The two museum tickets ___ four hundred dollars in total. That is their price today.",
+            "options": [
+              "A. costs",
+              "B. cost",
+              "C. costed",
+              "D. costing"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "主詞 The two museum tickets 是複數，且說的是今天的價格，一般現在式用 cost。"
+          },
+          {
+            "id": "m2-3-u5-q017",
+            "question": "My father ___ the phone bill last night.",
+            "options": [
+              "A. pay",
+              "B. pays",
+              "C. paid",
+              "D. paying"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "last night 表過去；pay the bill 表繳帳單，pay 的過去式是 paid。"
+          },
+          {
+            "id": "m2-3-u5-q018",
+            "question": "A: How long did it take you ___ those photos? B: Ten minutes.",
+            "options": [
+              "A. print",
+              "B. printing",
+              "C. to print",
+              "D. printed"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "How long did it take + 人 後面接 to V，表示做這件事花多久，因此用 to print。"
+          },
+          {
+            "id": "m2-3-u5-q019",
+            "question": "The visitors ___ two hours in the department store yesterday.",
+            "options": [
+              "A. spend",
+              "B. spends",
+              "C. spending",
+              "D. spent"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "yesterday 表過去；人花時間待在某處用 spend，過去式是 spent。"
+          },
+          {
+            "id": "m2-3-u5-q020",
+            "question": "It costs us fifty dollars ___ a package from this store.",
+            "options": [
+              "A. send",
+              "B. sending",
+              "C. sent",
+              "D. to send"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "It costs + 人 + 金額 後面用 to V 說明花錢做什麼，因此用 to send。"
+          },
+          {
+            "id": "m2-3-u5-q021",
+            "question": "A: How much does your sister ___ on bus tickets each week? B: Two hundred dollars.",
+            "options": [
+              "A. spends",
+              "B. spent",
+              "C. spend",
+              "D. spending"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "問句已有 does，後面的 spend 用原形；不能再加 s 或用過去式。"
+          },
+          {
+            "id": "m2-3-u5-q022",
+            "question": "I spent twenty minutes reading the map. In other words, it ___ me twenty minutes to read it.",
+            "options": [
+              "A. takes",
+              "B. take",
+              "C. took",
+              "D. taking"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "原句 spent 是過去式；改成 It ... to V 仍要保留過去時間，所以用 took。"
+          },
+          {
+            "id": "m2-3-u5-q023",
+            "question": "A: How much ___ these umbrellas cost? B: They cost three hundred dollars each.",
+            "options": [
+              "A. does",
+              "B. is",
+              "C. are",
+              "D. do"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "these umbrellas 是複數，cost 是一般動詞，現在式問句用 do；不能用 does 或 be 動詞。"
+          },
+          {
+            "id": "m2-3-u5-q024",
+            "question": "Our teacher ___ an hour helping the foreign visitor yesterday.",
+            "options": [
+              "A. took",
+              "B. spent",
+              "C. cost",
+              "D. paid"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "主詞 Our teacher 是人，後面是時間 an hour 與 helping，要用 spent。"
+          },
+          {
+            "id": "m2-3-u5-q025",
+            "question": "Amy does not ___ for her lunch at school.",
+            "options": [
+              "A. pays",
+              "B. paid",
+              "C. pay",
+              "D. paying"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "does not 已標示現在式與單數主詞，後面的動詞恢復原形 pay。"
+          },
+          {
+            "id": "m2-3-u5-q026",
+            "question": "The tour bus ticket ___ five hundred dollars. That is its price today.",
+            "options": [
+              "A. cost",
+              "B. costed",
+              "C. costing",
+              "D. costs"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "主詞 The tour bus ticket 是單數，描述目前的價格，現在式用 costs。"
+          },
+          {
+            "id": "m2-3-u5-q027",
+            "question": "A: How long does it ___ you to reach the city by train? B: An hour.",
+            "options": [
+              "A. takes",
+              "B. take",
+              "C. took",
+              "D. taking"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "問句已有 does，後面的動詞要用原形 take；不能用 takes 或 took。"
+          },
+          {
+            "id": "m2-3-u5-q028",
+            "question": "My parents spent two days ___ in the small town.",
+            "options": [
+              "A. stay",
+              "B. stays",
+              "C. to stay",
+              "D. staying"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "spent + 時間 後面接動作時用 V-ing，因此選 staying。"
+          },
+          {
+            "id": "m2-3-u5-q029",
+            "question": "Dad paid six hundred dollars for the umbrella. In other words, the umbrella ___ Dad six hundred dollars.",
+            "options": [
+              "A. paid",
+              "B. cost",
+              "C. spent",
+              "D. took"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "改成物品 the umbrella 作主詞，表達金額要用 cost；pay、spend 通常用人作主詞，take 在本課表示時間。"
+          },
+          {
+            "id": "m2-3-u5-q030",
+            "question": "A: ___ does it take to get to the airport on the metro? B: About forty minutes.",
+            "options": [
+              "A. How much",
+              "B. How many",
+              "C. How long",
+              "D. How often"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "回答 forty minutes 是花費的時間長度，所以用 How long。"
+          },
+          {
+            "id": "m2-3-u5-q031",
+            "question": "I ___ two hundred dollars for the visitor's ticket yesterday.",
+            "options": [
+              "A. spent",
+              "B. paid",
+              "C. cost",
+              "D. took"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "主詞是人 I，後面是金額與 for + 物品，應選 pay 的過去式 paid。"
+          },
+          {
+            "id": "m2-3-u5-q032",
+            "question": "It took us an hour ___ the beautiful scenery around the lake.",
+            "options": [
+              "A. enjoy",
+              "B. to enjoy",
+              "C. enjoying",
+              "D. enjoyed"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "It took + 人 + 時間 後面要接 to V，因此用 to enjoy。"
+          },
+          {
+            "id": "m2-3-u5-q033",
+            "question": "A: How much did you ___ on the gifts for your foreign friends? B: A thousand dollars.",
+            "options": [
+              "A. pay",
+              "B. cost",
+              "C. spend",
+              "D. take"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "主詞 you 是人，金額問句接 on + 物品，使用 spend；pay 的購物句型搭配 for。"
+          },
+          {
+            "id": "m2-3-u5-q034",
+            "question": "Printing all these photos ___ me an hour yesterday.",
+            "options": [
+              "A. takes",
+              "B. took",
+              "C. take",
+              "D. taking"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "yesterday 表過去；動名詞片語 Printing ... 作主詞，用 take 的過去式 took 表示花時間。"
+          },
+          {
+            "id": "m2-3-u5-q035",
+            "question": "How much did it cost your family ___ around the island last summer?",
+            "options": [
+              "A. to travel",
+              "B. travel",
+              "C. traveling",
+              "D. traveled"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "How much did it cost + 人 後面用 to V 表示花錢做什麼，因此選 to travel。"
+          },
+          {
+            "id": "m2-3-u5-q036",
+            "question": "We did not ___ for the comfortable seats because they were free.",
+            "options": [
+              "A. pays",
+              "B. paid",
+              "C. paying",
+              "D. pay"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "did not 後面接原形 pay；即使事情發生在過去，也不能再用 paid。"
+          },
+          {
+            "id": "m2-3-u5-q037",
+            "question": "A: How long did your brother spend ___ the bills? B: About five minutes.",
+            "options": [
+              "A. pay",
+              "B. pays",
+              "C. paying",
+              "D. to pay"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "How long did ... spend 後面的動作要用 V-ing；pay bills 是繳帳單，因此用 paying。"
+          },
+          {
+            "id": "m2-3-u5-q038",
+            "question": "My sister ___ three hundred dollars for her bus pass every month.",
+            "options": [
+              "A. pay",
+              "B. paid",
+              "C. paying",
+              "D. pays"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "every month 表習慣，主詞 My sister 是單數第三人稱，pay 要加 s 成為 pays。"
+          },
+          {
+            "id": "m2-3-u5-q039",
+            "question": "It took the visitors two hours to reach the temple. They ___ two hours getting there.",
+            "options": [
+              "A. spent",
+              "B. took",
+              "C. cost",
+              "D. paid"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "換成人 They 作主詞，後面接時間與 getting，改用 spent，並保留過去式。"
+          },
+          {
+            "id": "m2-3-u5-q040",
+            "question": "A: How much ___ this camera cost? B: It costs eight thousand dollars.",
+            "options": [
+              "A. does",
+              "B. do",
+              "C. is",
+              "D. are"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "this camera 是單數，回答 costs 表現在價格；一般動詞的問句用 does。"
+          },
+          {
+            "id": "m2-3-u5-q041",
+            "question": "The new chair ___ me two thousand dollars last week.",
+            "options": [
+              "A. cost",
+              "B. costs",
+              "C. costed",
+              "D. costing"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "last week 表過去；cost 的過去式不加 ed，仍是 cost。"
+          },
+          {
+            "id": "m2-3-u5-q042",
+            "question": "A: How long did it ___ your friend to print the map? B: Five minutes.",
+            "options": [
+              "A. takes",
+              "B. take",
+              "C. took",
+              "D. taking"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "did 後面用原形 take，不能再用過去式 took，也不能加 s。"
+          },
+          {
+            "id": "m2-3-u5-q043",
+            "question": "The visitors spent a lot of money ___ photos of the koalas.",
+            "options": [
+              "A. buying",
+              "B. buy",
+              "C. buys",
+              "D. to buy"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "spend + 金錢 後接動作時，用 V-ing；因此用 buying，不能用 to buy。"
+          },
+          {
+            "id": "m2-3-u5-q044",
+            "question": "We paid five hundred dollars for the tickets. We ___ five hundred dollars on them.",
+            "options": [
+              "A. spent",
+              "B. paid",
+              "C. cost",
+              "D. took"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "同義改寫保留人作主詞與金額，後面是 on them，使用 spent + 金額 + on + 事物。"
+          },
+          {
+            "id": "m2-3-u5-q045",
+            "question": "A: ___ did you pay for the comfortable shoes? B: Nine hundred dollars.",
+            "options": [
+              "A. How much",
+              "B. How long",
+              "C. How many",
+              "D. How often"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "回答 nine hundred dollars 是金額，pay for 問花多少錢，用 How much。"
+          },
+          {
+            "id": "m2-3-u5-q046",
+            "question": "It ___ us an hour to find the lost package yesterday.",
+            "options": [
+              "A. takes",
+              "B. took",
+              "C. take",
+              "D. taking"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "yesterday 表過去；It ... + 人 + 時間 + to V 用 take 的過去式 took。"
+          },
+          {
+            "id": "m2-3-u5-q047",
+            "question": "How long ___ it usually take your mother to pay the bills online?",
+            "options": [
+              "A. does",
+              "B. do",
+              "C. is",
+              "D. are"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "usually 表習慣；主詞 it 是單數，take 是一般動詞，問句用 does。"
+          },
+          {
+            "id": "m2-3-u5-q048",
+            "question": "I spent thirty minutes drawing a map. It took me thirty minutes ___ the map.",
+            "options": [
+              "A. drawing",
+              "B. draw",
+              "C. to draw",
+              "D. drew"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "spend ... V-ing 改成 It took ... to V，動作 drawing 要改為 to draw。"
+          },
+          {
+            "id": "m2-3-u5-q049",
+            "question": "It cost ___ three hundred dollars to send the package.",
+            "options": [
+              "A. we",
+              "B. our",
+              "C. ours",
+              "D. us"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "It cost + 人 + 金額 中的人作受詞，we 要用受格 us；our、ours 都是所有格形式。"
+          },
+          {
+            "id": "m2-3-u5-q050",
+            "question": "A: How much did you ___ for the umbrella that day? B: Only a hundred dollars.",
+            "options": [
+              "A. pays",
+              "B. pay",
+              "C. paid",
+              "D. paying"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "問句已有 did，後面的 pay 必須用原形；不能因為 that day 是過去就再用 paid。"
+          }
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          {
+            "id": "m2-3-u5-sv001",
+            "vocab_id": "m2-3-u5-v001",
+            "sentence": "I paid the bill at a convenience store.",
+            "sentence_chinese": "我在便利商店繳了帳單。"
+          },
+          {
+            "id": "m2-3-u5-sv002",
+            "vocab_id": "m2-3-u5-v002",
+            "sentence": "It took me five minutes to print the photos.",
+            "sentence_chinese": "我花了 5 分鐘列印照片。"
+          },
+          {
+            "id": "m2-3-u5-sv003",
+            "vocab_id": "m2-3-u5-v003",
+            "sentence": "These photos cost me fifty dollars.",
+            "sentence_chinese": "這些照片花了我 50 元。"
+          },
+          {
+            "id": "m2-3-u5-sv004",
+            "vocab_id": "m2-3-u5-v004",
+            "sentence": "Of course, I can help you print it.",
+            "sentence_chinese": "當然，我可以幫你列印。"
+          },
+          {
+            "id": "m2-3-u5-sv005",
+            "vocab_id": "m2-3-u5-v005",
+            "sentence": "How much did you pay for the book?",
+            "sentence_chinese": "你買這本書花了多少錢？"
+          },
+          {
+            "id": "m2-3-u5-sv006",
+            "vocab_id": "m2-3-u5-v006",
+            "sentence": "The umbrella cost me two hundred dollars.",
+            "sentence_chinese": "這把雨傘花了我 200 元。"
+          },
+          {
+            "id": "m2-3-u5-sv007",
+            "vocab_id": "m2-3-u5-v007",
+            "sentence": "I spent ten dollars on this pen.",
+            "sentence_chinese": "我買這支筆花了 10 元。"
+          },
+          {
+            "id": "m2-3-u5-sv008",
+            "vocab_id": "m2-3-u5-v008",
+            "sentence": "She sent a package to her brother yesterday.",
+            "sentence_chinese": "她昨天寄了一個包裹給哥哥。"
+          },
+          {
+            "id": "m2-3-u5-sv009",
+            "vocab_id": "m2-3-u5-v009",
+            "sentence": "It took me ten minutes to send the package.",
+            "sentence_chinese": "我花了 10 分鐘寄包裹。"
+          },
+          {
+            "id": "m2-3-u5-sv010",
+            "vocab_id": "m2-3-u5-v010",
+            "sentence": "Dad paid five hundred dollars for dinner.",
+            "sentence_chinese": "爸爸花了 500 元吃晚餐。"
+          },
+          {
+            "id": "m2-3-u5-sv011",
+            "vocab_id": "m2-3-u5-v011",
+            "sentence": "Mom paid the phone bill this morning.",
+            "sentence_chinese": "媽媽今天早上繳了電話費。"
+          },
+          {
+            "id": "m2-3-u5-sv012",
+            "vocab_id": "m2-3-u5-v012",
+            "sentence": "The price of this bike is too high.",
+            "sentence_chinese": "這輛腳踏車的價格太高了。"
+          },
+          {
+            "id": "m2-3-u5-sv013",
+            "vocab_id": "m2-3-u5-v013",
+            "sentence": "The price of the bag is low.",
+            "sentence_chinese": "這個袋子的價格很低。"
+          },
+          {
+            "id": "m2-3-u5-sv014",
+            "vocab_id": "m2-3-u5-v014",
+            "sentence": "I spend thirty minutes reading every day.",
+            "sentence_chinese": "我每天花 30 分鐘閱讀。"
+          },
+          {
+            "id": "m2-3-u5-sv015",
+            "vocab_id": "m2-3-u5-v015",
+            "sentence": "This pencil costs fifty cents.",
+            "sentence_chinese": "這支鉛筆的價格是 50 分。"
+          },
+          {
+            "id": "m2-3-u5-sv016",
+            "vocab_id": "m2-3-u5-v016",
+            "sentence": "This bag is cheap, but it is useful.",
+            "sentence_chinese": "這個袋子很便宜，但很實用。"
+          },
+          {
+            "id": "m2-3-u5-sv017",
+            "vocab_id": "m2-3-u5-v017",
+            "sentence": "Don't worry about the money.",
+            "sentence_chinese": "別擔心錢的事。"
+          },
+          {
+            "id": "m2-3-u5-sv018",
+            "vocab_id": "m2-3-u5-v018",
+            "sentence": "I paid three hundred dollars for this umbrella.",
+            "sentence_chinese": "我買這把雨傘花了 300 元。"
+          },
+          {
+            "id": "m2-3-u5-sv019",
+            "vocab_id": "m2-3-u5-v019",
+            "sentence": "It is convenient to pay bills here.",
+            "sentence_chinese": "在這裡繳帳單很方便。"
+          },
+          {
+            "id": "m2-3-u5-sv020",
+            "vocab_id": "m2-3-u5-v020",
+            "sentence": "We did not travel far yesterday.",
+            "sentence_chinese": "我們昨天沒有到很遠的地方旅行。"
+          },
+          {
+            "id": "m2-3-u5-sv021",
+            "vocab_id": "m2-3-u5-v021",
+            "sentence": "It takes me ten minutes to walk home.",
+            "sentence_chinese": "我走路回家要花 10 分鐘。"
+          },
+          {
+            "id": "m2-3-u5-sv022",
+            "vocab_id": "m2-3-u5-v022",
+            "sentence": "The restroom is next to the store.",
+            "sentence_chinese": "洗手間在商店旁邊。"
+          },
+          {
+            "id": "m2-3-u5-sv023",
+            "vocab_id": "m2-3-u5-v023",
+            "sentence": "We spent two days in this town.",
+            "sentence_chinese": "我們在這座城鎮待了 2 天。"
+          },
+          {
+            "id": "m2-3-u5-sv024",
+            "vocab_id": "m2-3-u5-v024",
+            "sentence": "We stayed in Taiwan for a week.",
+            "sentence_chinese": "我們在臺灣待了 1 週。"
+          },
+          {
+            "id": "m2-3-u5-sv025",
+            "vocab_id": "m2-3-u5-v025",
+            "sentence": "They prayed for their sick friend.",
+            "sentence_chinese": "他們為生病的朋友祈禱。"
+          },
+          {
+            "id": "m2-3-u5-sv026",
+            "vocab_id": "m2-3-u5-v026",
+            "sentence": "It took us an hour to reach the temple.",
+            "sentence_chinese": "我們花了 1 小時到達寺廟。"
+          },
+          {
+            "id": "m2-3-u5-sv027",
+            "vocab_id": "m2-3-u5-v027",
+            "sentence": "Mom spent two hours in the department store.",
+            "sentence_chinese": "媽媽在百貨公司待了 2 小時。"
+          },
+          {
+            "id": "m2-3-u5-sv028",
+            "vocab_id": "m2-3-u5-v028",
+            "sentence": "The foreigner asked me for help.",
+            "sentence_chinese": "那位外國人向我求助。"
+          },
+          {
+            "id": "m2-3-u5-sv029",
+            "vocab_id": "m2-3-u5-v029",
+            "sentence": "Can you think of a cheaper way?",
+            "sentence_chinese": "你想得到更便宜的方法嗎？"
+          },
+          {
+            "id": "m2-3-u5-sv030",
+            "vocab_id": "m2-3-u5-v030",
+            "sentence": "We spent an hour watching the koalas.",
+            "sentence_chinese": "我們花了 1 小時看無尾熊。"
+          },
+          {
+            "id": "m2-3-u5-sv031",
+            "vocab_id": "m2-3-u5-v031",
+            "sentence": "We enjoyed the beautiful scenery on the trip.",
+            "sentence_chinese": "我們在旅途中欣賞了美麗的風景。"
+          },
+          {
+            "id": "m2-3-u5-sv032",
+            "vocab_id": "m2-3-u5-v032",
+            "sentence": "The beautiful photos draw visitors to Taiwan.",
+            "sentence_chinese": "這些美麗的照片吸引遊客來臺灣。"
+          },
+          {
+            "id": "m2-3-u5-sv033",
+            "vocab_id": "m2-3-u5-v033",
+            "sentence": "Many visitors spent the night in this town.",
+            "sentence_chinese": "許多遊客在這座城鎮過夜。"
+          },
+          {
+            "id": "m2-3-u5-sv034",
+            "vocab_id": "m2-3-u5-v034",
+            "sentence": "She spent a year in a foreign country.",
+            "sentence_chinese": "她在外國待了 1 年。"
+          },
+          {
+            "id": "m2-3-u5-sv035",
+            "vocab_id": "m2-3-u5-v035",
+            "sentence": "We spent a month traveling around Taiwan.",
+            "sentence_chinese": "我們花了 1 個月環臺旅行。"
+          },
+          {
+            "id": "m2-3-u5-sv036",
+            "vocab_id": "m2-3-u5-v036",
+            "sentence": "It took us two hours to reach the city.",
+            "sentence_chinese": "我們花了 2 小時抵達這座城市。"
+          },
+          {
+            "id": "m2-3-u5-sv037",
+            "vocab_id": "m2-3-u5-v037",
+            "sentence": "This watch is too expensive for me.",
+            "sentence_chinese": "這支手錶對我來說太貴了。"
+          },
+          {
+            "id": "m2-3-u5-sv038",
+            "vocab_id": "m2-3-u5-v038",
+            "sentence": "We spent three days in the city.",
+            "sentence_chinese": "我們在這座城市待了 3 天。"
+          },
+          {
+            "id": "m2-3-u5-sv039",
+            "vocab_id": "m2-3-u5-v039",
+            "sentence": "You can sit anywhere in this room.",
+            "sentence_chinese": "你可以坐在這個房間裡的任何地方。"
+          },
+          {
+            "id": "m2-3-u5-sv040",
+            "vocab_id": "m2-3-u5-v040",
+            "sentence": "This chair is comfortable.",
+            "sentence_chinese": "這張椅子很舒適。"
+          },
+          {
+            "id": "m2-3-u5-sv041",
+            "vocab_id": "m2-3-u5-v041",
+            "sentence": "We have little time to visit the temple.",
+            "sentence_chinese": "我們幾乎沒有時間參觀寺廟。"
+          },
+          {
+            "id": "m2-3-u5-sv042",
+            "vocab_id": "m2-3-u5-v042",
+            "sentence": "The hotel is cheap. Besides, it is comfortable.",
+            "sentence_chinese": "這間旅館很便宜。此外，它也很舒適。"
+          },
+          {
+            "id": "m2-3-u5-sv043",
+            "vocab_id": "m2-3-u5-v043",
+            "sentence": "Most visitors travel around the city by bus.",
+            "sentence_chinese": "大多數遊客搭公車遊覽這座城市。"
+          },
+          {
+            "id": "m2-3-u5-sv044",
+            "vocab_id": "m2-3-u5-v044",
+            "sentence": "Someone paid for our lunch.",
+            "sentence_chinese": "有人付了我們的午餐錢。"
+          },
+          {
+            "id": "m2-3-u5-sv045",
+            "vocab_id": "m2-3-u5-v045",
+            "sentence": "Can you lend me a hand with these bags?",
+            "sentence_chinese": "你可以幫我拿這些袋子嗎？"
+          },
+          {
+            "id": "m2-3-u5-sv046",
+            "vocab_id": "m2-3-u5-v046",
+            "sentence": "The rich man spent a lot on his car.",
+            "sentence_chinese": "那位有錢人花了很多錢買車。"
+          },
+          {
+            "id": "m2-3-u5-sv047",
+            "vocab_id": "m2-3-u5-v047",
+            "sentence": "We are proud of our school.",
+            "sentence_chinese": "我們以自己的學校為榮。"
+          }
+        ],
+        "phrases": [
+          {
+            "id": "m2-3-u5-sp001",
+            "phrase_id": "m2-3-u5-p001",
+            "sentence": "Of course!",
+            "sentence_chinese": "當然可以！"
+          },
+          {
+            "id": "m2-3-u5-sp002",
+            "phrase_id": "m2-3-u5-p002",
+            "sentence": "We were in a convenience store.",
+            "sentence_chinese": "我們那時在便利商店。"
+          },
+          {
+            "id": "m2-3-u5-sp003",
+            "phrase_id": "m2-3-u5-p003",
+            "sentence": "My friend sends packages to me every week.",
+            "sentence_chinese": "我的朋友每週寄包裹給我。"
+          },
+          {
+            "id": "m2-3-u5-sp004",
+            "phrase_id": "m2-3-u5-p004",
+            "sentence": "Remember to get tickets by tomorrow.",
+            "sentence_chinese": "記得明天以前去買票。"
+          },
+          {
+            "id": "m2-3-u5-sp005",
+            "phrase_id": "m2-3-u5-p005",
+            "sentence": "Lucy paid bills last Sunday.",
+            "sentence_chinese": "Lucy 上個星期日付了帳單。"
+          },
+          {
+            "id": "m2-3-u5-sp006",
+            "phrase_id": "m2-3-u5-p006",
+            "sentence": "You don't have to get up early every day.",
+            "sentence_chinese": "你不必每天早起。"
+          },
+          {
+            "id": "m2-3-u5-sp007",
+            "phrase_id": "m2-3-u5-p007",
+            "sentence": "No worries. All of us can help you.",
+            "sentence_chinese": "不用擔心。我們全都能幫你。"
+          },
+          {
+            "id": "m2-3-u5-sp008",
+            "phrase_id": "m2-3-u5-p008",
+            "sentence": "The library is not far from my home.",
+            "sentence_chinese": "圖書館離我家不遠。"
+          },
+          {
+            "id": "m2-3-u5-sp009",
+            "phrase_id": "m2-3-u5-p009",
+            "sentence": "Good idea!",
+            "sentence_chinese": "好主意！"
+          },
+          {
+            "id": "m2-3-u5-sp010",
+            "phrase_id": "m2-3-u5-p010",
+            "sentence": "Jenny thought of a good idea and discussed it for a long time.",
+            "sentence_chinese": "Jenny 想到了一個好主意，並討論了很久。"
+          },
+          {
+            "id": "m2-3-u5-sp011",
+            "phrase_id": "m2-3-u5-p011",
+            "sentence": "The picture draws me to the beautiful beach.",
+            "sentence_chinese": "這張圖片吸引我前往那片美麗的海灘。"
+          },
+          {
+            "id": "m2-3-u5-sp012",
+            "phrase_id": "m2-3-u5-p012",
+            "sentence": "Jerry went traveling around the island by bike.",
+            "sentence_chinese": "Jerry 騎腳踏車環島旅行。"
+          },
+          {
+            "id": "m2-3-u5-sp013",
+            "phrase_id": "m2-3-u5-p013",
+            "sentence": "Mia goes to work by bus every day.",
+            "sentence_chinese": "Mia 每天搭公車上班。"
+          },
+          {
+            "id": "m2-3-u5-sp014",
+            "phrase_id": "m2-3-u5-p014",
+            "sentence": "We can go to the airport on the metro.",
+            "sentence_chinese": "我們可以搭地鐵去機場。"
+          },
+          {
+            "id": "m2-3-u5-sp015",
+            "phrase_id": "m2-3-u5-p015",
+            "sentence": "What's more, living in the country is safe.",
+            "sentence_chinese": "此外，住在鄉下很安全。"
+          },
+          {
+            "id": "m2-3-u5-sp016",
+            "phrase_id": "m2-3-u5-p016",
+            "sentence": "Don't worry about getting lost because we have a map.",
+            "sentence_chinese": "別擔心迷路，因為我們有地圖。"
+          },
+          {
+            "id": "m2-3-u5-sp017",
+            "phrase_id": "m2-3-u5-p017",
+            "sentence": "We are proud of our son.",
+            "sentence_chinese": "我們以兒子為榮。"
+          },
+          {
+            "id": "m2-3-u5-sp018",
+            "phrase_id": "m2-3-u5-p018",
+            "sentence": "My friend always lends me a hand when I'm in trouble.",
+            "sentence_chinese": "當我遇到困難時，我的朋友總是幫助我。"
+          }
+        ],
+        "grammar": [
+          {
+            "id": "m2-3-u5-sg001",
+            "sentence": "We spent two hours visiting the old temple.",
+            "sentence_chinese": "我們花了 2 小時參觀那座古老的寺廟。"
+          },
+          {
+            "id": "m2-3-u5-sg002",
+            "sentence": "It took me ten minutes to print these photos.",
+            "sentence_chinese": "我花了 10 分鐘列印這些照片。"
+          },
+          {
+            "id": "m2-3-u5-sg003",
+            "sentence": "The umbrella cost her two hundred dollars yesterday.",
+            "sentence_chinese": "這把雨傘昨天花了她 200 元。"
+          },
+          {
+            "id": "m2-3-u5-sg004",
+            "sentence": "Dad paid five hundred dollars for the train tickets.",
+            "sentence_chinese": "爸爸買火車票花了 500 元。"
+          },
+          {
+            "id": "m2-3-u5-sg005",
+            "sentence": "How long did you spend watching the koalas?",
+            "sentence_chinese": "你花了多久看無尾熊？"
+          },
+          {
+            "id": "m2-3-u5-sg006",
+            "sentence": "How much does this comfortable chair cost you?",
+            "sentence_chinese": "這張舒適的椅子要花你多少錢？"
+          },
+          {
+            "id": "m2-3-u5-sg007",
+            "sentence": "My brother spends an hour reading every evening.",
+            "sentence_chinese": "我弟弟每天晚上花 1 小時閱讀。"
+          },
+          {
+            "id": "m2-3-u5-sg008",
+            "sentence": "It takes us twenty minutes to reach the city.",
+            "sentence_chinese": "我們花 20 分鐘抵達這座城市。"
+          },
+          {
+            "id": "m2-3-u5-sg009",
+            "sentence": "She paid the phone bill at the convenience store.",
+            "sentence_chinese": "她在便利商店繳了電話費。"
+          },
+          {
+            "id": "m2-3-u5-sg010",
+            "sentence": "How much did you spend on the package?",
+            "sentence_chinese": "你花了多少錢在那個包裹上？"
+          },
+          {
+            "id": "m2-3-u5-sg011",
+            "sentence": "Walking to the department store takes me thirty minutes.",
+            "sentence_chinese": "走路到百貨公司要花我 30 分鐘。"
+          },
+          {
+            "id": "m2-3-u5-sg012",
+            "sentence": "The visitors spent a week traveling around Taiwan.",
+            "sentence_chinese": "遊客們花了 1 週環臺旅行。"
+          },
+          {
+            "id": "m2-3-u5-sg013",
+            "sentence": "It cost us a thousand dollars to stay here.",
+            "sentence_chinese": "住在這裡花了我們 1,000 元。"
+          },
+          {
+            "id": "m2-3-u5-sg014",
+            "sentence": "How much did she pay for the umbrella?",
+            "sentence_chinese": "她買那把雨傘花了多少錢？"
+          },
+          {
+            "id": "m2-3-u5-sg015",
+            "sentence": "My father did not spend much money today.",
+            "sentence_chinese": "我爸爸今天沒有花很多錢。"
+          },
+          {
+            "id": "m2-3-u5-sg016",
+            "sentence": "It took the foreigner an hour to get here.",
+            "sentence_chinese": "那位外國人花了 1 小時到這裡。"
+          },
+          {
+            "id": "m2-3-u5-sg017",
+            "sentence": "The photo cost me fifty dollars last week.",
+            "sentence_chinese": "那張照片上週花了我 50 元。"
+          },
+          {
+            "id": "m2-3-u5-sg018",
+            "sentence": "They paid six hundred dollars for these gifts.",
+            "sentence_chinese": "他們買這些禮物花了 600 元。"
+          },
+          {
+            "id": "m2-3-u5-sg019",
+            "sentence": "How long does it take you to get home?",
+            "sentence_chinese": "你回家要花多久？"
+          },
+          {
+            "id": "m2-3-u5-sg020",
+            "sentence": "We spent thirty minutes looking for the restroom.",
+            "sentence_chinese": "我們花了 30 分鐘找洗手間。"
+          },
+          {
+            "id": "m2-3-u5-sg021",
+            "sentence": "It costs eighty dollars to send this package.",
+            "sentence_chinese": "寄這個包裹要花 80 元。"
+          },
+          {
+            "id": "m2-3-u5-sg022",
+            "sentence": "My mother pays the bills online every month.",
+            "sentence_chinese": "我媽媽每個月都在線上繳帳單。"
+          },
+          {
+            "id": "m2-3-u5-sg023",
+            "sentence": "Did you spend two days in that town?",
+            "sentence_chinese": "你在那座城鎮待了 2 天嗎？"
+          },
+          {
+            "id": "m2-3-u5-sg024",
+            "sentence": "It took her ten minutes to find the map.",
+            "sentence_chinese": "她花了 10 分鐘找到地圖。"
+          },
+          {
+            "id": "m2-3-u5-sg025",
+            "sentence": "How much do these train tickets cost you?",
+            "sentence_chinese": "這些火車票要花你多少錢？"
+          },
+          {
+            "id": "m2-3-u5-sg026",
+            "sentence": "My sister spent three hundred dollars buying this bag.",
+            "sentence_chinese": "我姊姊買這個袋子花了 300 元。"
+          },
+          {
+            "id": "m2-3-u5-sg027",
+            "sentence": "We did not pay for the temple tour.",
+            "sentence_chinese": "我們沒有付錢參加那個寺廟導覽。"
+          },
+          {
+            "id": "m2-3-u5-sg028",
+            "sentence": "Getting to the airport took us an hour.",
+            "sentence_chinese": "到機場花了我們 1 小時。"
+          },
+          {
+            "id": "m2-3-u5-sg029",
+            "sentence": "How long did they spend enjoying the scenery?",
+            "sentence_chinese": "他們花了多久欣賞風景？"
+          },
+          {
+            "id": "m2-3-u5-sg030",
+            "sentence": "It cost him two hundred dollars to buy the book.",
+            "sentence_chinese": "他買那本書花了 200 元。"
+          }
+        ]
+      },
+      "cloze_quiz": [
+        {
+          "id": "m2-3-u5-cq001",
+          "vocab_id": "m2-3-u5-v001",
+          "question": "We can buy snacks and pay bills at the ___ on the corner.",
+          "options": [
+            "playground",
+            "bedroom",
+            "convenience store",
+            "swimming pool"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "convenience store 是便利商店；能買點心和繳帳單是線索。"
+        },
+        {
+          "id": "m2-3-u5-cq002",
+          "vocab_id": "m2-3-u5-v002",
+          "question": "Please ___ this photo on paper so I can put it on the wall.",
+          "options": [
+            "print",
+            "wash",
+            "eat",
+            "hear"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "print 是列印；on paper 和放到牆上說明要把照片印出來。"
+        },
+        {
+          "id": "m2-3-u5-cq003",
+          "vocab_id": "m2-3-u5-v003",
+          "question": "Dad took a ___ of us with his camera.",
+          "options": [
+            "photo",
+            "ticket",
+            "bill",
+            "dollar"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "photo 是照片；took 和 camera 是拍照的線索。"
+        },
+        {
+          "id": "m2-3-u5-cq004",
+          "vocab_id": "m2-3-u5-v004",
+          "question": "A: May I borrow your pen? B: ___! Here you are.",
+          "options": [
+            "No way",
+            "Of course",
+            "Not yet",
+            "Never mind"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "of course 表當然；後面把筆交給對方，表示同意借出。"
+        },
+        {
+          "id": "m2-3-u5-cq005",
+          "vocab_id": "m2-3-u5-v005",
+          "question": "I want to know ___ this bike costs, so I can bring enough money.",
+          "options": [
+            "how long",
+            "how often",
+            "how old",
+            "how much"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "how much 問多少錢；costs 和 enough money 提供金額線索。"
+        },
+        {
+          "id": "m2-3-u5-cq006",
+          "vocab_id": "m2-3-u5-v006",
+          "question": "These two tickets ___ three hundred dollars in total.",
+          "options": [
+            "send",
+            "reach",
+            "cost",
+            "draw"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "cost 表花費金錢；主詞是票券，後面接總價。"
+        },
+        {
+          "id": "m2-3-u5-cq007",
+          "vocab_id": "m2-3-u5-v007",
+          "question": "One US ___ is equal to one hundred cents.",
+          "options": [
+            "hour",
+            "meter",
+            "dollar",
+            "week"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "dollar 是元；one hundred cents 等於一元。"
+        },
+        {
+          "id": "m2-3-u5-cq008",
+          "vocab_id": "m2-3-u5-v008",
+          "question": "Please ___ this package to my aunt by mail.",
+          "options": [
+            "keep",
+            "open",
+            "send",
+            "hide"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "send 是寄送；to my aunt 與 by mail 表示郵寄給阿姨。"
+        },
+        {
+          "id": "m2-3-u5-cq009",
+          "vocab_id": "m2-3-u5-v009",
+          "question": "The delivery driver brought a ___ with my new shoes inside.",
+          "options": [
+            "package",
+            "temple",
+            "restroom",
+            "city"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "package 是包裹；送貨員送來、裡面裝著鞋子是線索。"
+        },
+        {
+          "id": "m2-3-u5-cq010",
+          "vocab_id": "m2-3-u5-v010",
+          "question": "You can ___ for your lunch with cash or a card.",
+          "options": [
+            "pray",
+            "pay",
+            "stay",
+            "draw"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "pay 是付款；cash or a card 是付款方式。"
+        },
+        {
+          "id": "m2-3-u5-cq011",
+          "vocab_id": "m2-3-u5-v011",
+          "question": "The waiter brought our ___ after we finished dinner.",
+          "options": [
+            "bill",
+            "umbrella",
+            "map",
+            "photo"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "bill 是帳單；用餐完由服務生送來供結帳。"
+        },
+        {
+          "id": "m2-3-u5-cq012",
+          "vocab_id": "m2-3-u5-v012",
+          "question": "The ___ on the tag tells me how much the bag costs.",
+          "options": [
+            "price",
+            "name",
+            "date",
+            "color"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "price 是價格；how much the bag costs 是直接線索。"
+        },
+        {
+          "id": "m2-3-u5-cq013",
+          "vocab_id": "m2-3-u5-v013",
+          "question": "The price is very ___, so I can buy it with just a little money.",
+          "options": [
+            "high",
+            "late",
+            "heavy",
+            "low"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "low 表低的；只要少量金錢就買得起，表示價格低。"
+        },
+        {
+          "id": "m2-3-u5-cq014",
+          "vocab_id": "m2-3-u5-v014",
+          "question": "I ___ thirty minutes reading English every evening.",
+          "options": [
+            "send",
+            "cost",
+            "reach",
+            "spend"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "spend 表花費時間；人作主詞，接時間和 reading。"
+        },
+        {
+          "id": "m2-3-u5-cq015",
+          "vocab_id": "m2-3-u5-v015",
+          "question": "A dollar has one hundred cents. This candy costs just one ___.",
+          "options": [
+            "hour",
+            "week",
+            "year",
+            "cent"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "cent 是分；前句說明貨幣單位，後句問糖果價格。"
+        },
+        {
+          "id": "m2-3-u5-cq016",
+          "vocab_id": "m2-3-u5-v016",
+          "question": "This pen is ___; it costs only five dollars.",
+          "options": [
+            "expensive",
+            "cheap",
+            "dangerous",
+            "hungry"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "cheap 是便宜的；only five dollars 表示價格很低。"
+        },
+        {
+          "id": "m2-3-u5-cq017",
+          "vocab_id": "m2-3-u5-v017",
+          "question": "Don't ___ about the test. You have studied hard.",
+          "options": [
+            "travel",
+            "print",
+            "worry",
+            "pay"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "worry about 表擔心；已認真讀書，因此安慰對方別擔心考試。"
+        },
+        {
+          "id": "m2-3-u5-cq018",
+          "vocab_id": "m2-3-u5-v018",
+          "question": "It is raining. Take an ___ to keep yourself dry.",
+          "options": [
+            "apple",
+            "eraser",
+            "umbrella",
+            "envelope"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "umbrella 是雨傘；下雨時用來避免淋濕。"
+        },
+        {
+          "id": "m2-3-u5-cq019",
+          "vocab_id": "m2-3-u5-v019",
+          "question": "The store is next door and open all day, so shopping there is ___.",
+          "options": [
+            "dangerous",
+            "difficult",
+            "impossible",
+            "convenient"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "convenient 是方便的；就在隔壁且全天營業是方便購物的線索。"
+        },
+        {
+          "id": "m2-3-u5-cq020",
+          "vocab_id": "m2-3-u5-v020",
+          "question": "The school is next door, so we do not have to walk ___.",
+          "options": [
+            "upstairs",
+            "downstairs",
+            "backward",
+            "far"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "far 表遠；學校就在隔壁，所以不用走很遠。"
+        },
+        {
+          "id": "m2-3-u5-cq021",
+          "vocab_id": "m2-3-u5-v021",
+          "question": "How long does it ___ to walk to the station?",
+          "options": [
+            "pay",
+            "cost",
+            "take",
+            "send"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "take 在此表示花費時間；How long 與 it ... to walk 是線索。"
+        },
+        {
+          "id": "m2-3-u5-cq022",
+          "vocab_id": "m2-3-u5-v022",
+          "question": "I need to use the toilet. Where is the ___?",
+          "options": [
+            "kitchen",
+            "library",
+            "restroom",
+            "classroom"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "restroom 是洗手間；use the toilet 是直接線索。"
+        },
+        {
+          "id": "m2-3-u5-cq023",
+          "vocab_id": "m2-3-u5-v023",
+          "question": "My grandfather lives in a small ___ with only two streets and a few shops.",
+          "options": [
+            "bedroom",
+            "classroom",
+            "garden",
+            "town"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "town 是城鎮；有街道和商店、可供居民生活是線索。"
+        },
+        {
+          "id": "m2-3-u5-cq024",
+          "vocab_id": "m2-3-u5-v024",
+          "question": "We will ___ at this hotel for two nights before leaving.",
+          "options": [
+            "print",
+            "stay",
+            "pay",
+            "reach"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "stay 是停留；在旅館住兩晚後才離開。"
+        },
+        {
+          "id": "m2-3-u5-cq025",
+          "vocab_id": "m2-3-u5-v025",
+          "question": "They ___ for their sick grandmother every night.",
+          "options": [
+            "print",
+            "draw",
+            "pray",
+            "reach"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "pray 是祈禱；pray for someone 可表為生病的家人祈禱。"
+        },
+        {
+          "id": "m2-3-u5-cq026",
+          "vocab_id": "m2-3-u5-v026",
+          "question": "People burn incense and pray in this ___.",
+          "options": [
+            "restroom",
+            "classroom",
+            "playground",
+            "temple"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "temple 是寺廟；燒香和祈禱是線索。"
+        },
+        {
+          "id": "m2-3-u5-cq027",
+          "vocab_id": "m2-3-u5-v027",
+          "question": "This ___ has ten floors of shops selling clothes, shoes, and furniture.",
+          "options": [
+            "train station",
+            "department store",
+            "post office",
+            "bus stop"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "department store 是百貨公司；多個樓層販售各類商品是線索。"
+        },
+        {
+          "id": "m2-3-u5-cq028",
+          "vocab_id": "m2-3-u5-v028",
+          "question": "Mr. Brown is a ___ in Taiwan because he comes from another country.",
+          "options": [
+            "classmate",
+            "neighbor",
+            "cook",
+            "foreigner"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "foreigner 是外國人；because 後面說他來自另一個國家。"
+        },
+        {
+          "id": "m2-3-u5-cq029",
+          "vocab_id": "m2-3-u5-v029",
+          "question": "We need a new idea. Can you ___ a better way to do this?",
+          "options": [
+            "pay for",
+            "think of",
+            "listen to",
+            "wait for"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "think of 是想到；need a new idea 與 a better way 表示構思辦法。"
+        },
+        {
+          "id": "m2-3-u5-cq030",
+          "vocab_id": "m2-3-u5-v030",
+          "question": "A ___ is an Australian animal that eats eucalyptus leaves.",
+          "options": [
+            "tiger",
+            "penguin",
+            "koala",
+            "dolphin"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "koala 是無尾熊；澳洲與吃尤加利葉是線索。"
+        },
+        {
+          "id": "m2-3-u5-cq031",
+          "vocab_id": "m2-3-u5-v031",
+          "question": "We stopped to enjoy the beautiful ___ of the mountains and lake.",
+          "options": [
+            "homework",
+            "scenery",
+            "music",
+            "food"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "scenery 是風景；山與湖是自然景色。"
+        },
+        {
+          "id": "m2-3-u5-cq032",
+          "vocab_id": "m2-3-u5-v032",
+          "question": "The beautiful beaches ___ many visitors to this island every summer.",
+          "options": [
+            "print",
+            "draw",
+            "lend",
+            "cost"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "draw 在本課表示吸引；draw visitors to a place 指吸引遊客到某地。"
+        },
+        {
+          "id": "m2-3-u5-cq033",
+          "vocab_id": "m2-3-u5-v033",
+          "question": "A ___ is someone who comes to see a person or a place for a short time.",
+          "options": [
+            "driver",
+            "farmer",
+            "visitor",
+            "singer"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "visitor 是訪客或遊客；短暫前來拜訪或參觀符合定義。"
+        },
+        {
+          "id": "m2-3-u5-cq034",
+          "vocab_id": "m2-3-u5-v034",
+          "question": "I live in Taiwan. Japan is a ___ country to me.",
+          "options": [
+            "sleepy",
+            "foreign",
+            "hungry",
+            "thirsty"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "foreign 是外國的；住在臺灣的人把日本視為外國。"
+        },
+        {
+          "id": "m2-3-u5-cq035",
+          "vocab_id": "m2-3-u5-v035",
+          "question": "I want to ___ around the world and see different countries.",
+          "options": [
+            "travel",
+            "sleep",
+            "print",
+            "pray"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "travel 是旅行；around the world 和看不同國家是線索。"
+        },
+        {
+          "id": "m2-3-u5-cq036",
+          "vocab_id": "m2-3-u5-v036",
+          "question": "We will leave at eight and ___ the station at nine.",
+          "options": [
+            "spend",
+            "lend",
+            "cost",
+            "reach"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "reach 是抵達；八點出發、九點到車站表示抵達時間。"
+        },
+        {
+          "id": "m2-3-u5-cq037",
+          "vocab_id": "m2-3-u5-v037",
+          "question": "This watch is too ___ for me; I don't have enough money to buy it.",
+          "options": [
+            "cheap",
+            "sleepy",
+            "expensive",
+            "thirsty"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "expensive 是昂貴的；沒有足夠的錢買它是線索。"
+        },
+        {
+          "id": "m2-3-u5-cq038",
+          "vocab_id": "m2-3-u5-v038",
+          "question": "Kaohsiung is a large ___ in southern Taiwan.",
+          "options": [
+            "island",
+            "country",
+            "village",
+            "city"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "city 是城市；高雄是臺灣南部的大城市。"
+        },
+        {
+          "id": "m2-3-u5-cq039",
+          "vocab_id": "m2-3-u5-v039",
+          "question": "There are no seat numbers. You may sit ___ you like.",
+          "options": [
+            "anywhere",
+            "nowhere",
+            "upstairs",
+            "downstairs"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "anywhere 表任何地方；沒有座位編號，可以自由選位。"
+        },
+        {
+          "id": "m2-3-u5-cq040",
+          "vocab_id": "m2-3-u5-v040",
+          "question": "This bed is soft and ___, so I sleep well in it.",
+          "options": [
+            "comfortable",
+            "noisy",
+            "wet",
+            "broken"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "comfortable 是舒適的；柔軟且能睡得好是線索。"
+        },
+        {
+          "id": "m2-3-u5-cq041",
+          "vocab_id": "m2-3-u5-v041",
+          "question": "We have very ___ time before the bus leaves, so hurry up.",
+          "options": [
+            "little",
+            "much",
+            "enough",
+            "plenty of"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "little 表很少；公車快開了、必須趕快，表示剩下的時間少。"
+        },
+        {
+          "id": "m2-3-u5-cq042",
+          "vocab_id": "m2-3-u5-v042",
+          "question": "The hotel is cheap. ___, it is close to the station.",
+          "options": [
+            "However",
+            "Besides",
+            "Instead",
+            "Otherwise"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "besides 是此外；第二句補充旅館的另一個優點，而非轉折或替代。"
+        },
+        {
+          "id": "m2-3-u5-cq043",
+          "vocab_id": "m2-3-u5-v043",
+          "question": "Nine of the ten students walk to school, so ___ students in this group walk.",
+          "options": [
+            "most",
+            "no",
+            "few",
+            "both"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "most 是大多數的；10 人中有 9 人走路，表示大多數。"
+        },
+        {
+          "id": "m2-3-u5-cq044",
+          "vocab_id": "m2-3-u5-v044",
+          "question": "I heard a voice outside. There must be ___ at the door.",
+          "options": [
+            "someone",
+            "no one",
+            "nothing",
+            "anything"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "someone 是某人；聽到說話聲，推知門外有人。"
+        },
+        {
+          "id": "m2-3-u5-cq045",
+          "vocab_id": "m2-3-u5-v045",
+          "question": "These boxes are too heavy for me. Can you ___ and help me carry them?",
+          "options": [
+            "lend a hand",
+            "take a nap",
+            "go shopping",
+            "watch TV"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "lend a hand 是幫忙；後面 help me carry them 說明要幫忙搬箱子。"
+        },
+        {
+          "id": "m2-3-u5-cq046",
+          "vocab_id": "m2-3-u5-v046",
+          "question": "The man is very ___; he has millions of dollars.",
+          "options": [
+            "poor",
+            "rich",
+            "hungry",
+            "sleepy"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "rich 是富有的；擁有數百萬元是線索。"
+        },
+        {
+          "id": "m2-3-u5-cq047",
+          "vocab_id": "m2-3-u5-v047",
+          "question": "You worked hard and won the race. You should ___ yourself.",
+          "options": [
+            "be proud of",
+            "be afraid of",
+            "be angry with",
+            "be bored with"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "be proud of 是以……為榮；努力並贏得比賽是值得自豪的事。"
+        }
+      ]
+    }
+  }
+}
