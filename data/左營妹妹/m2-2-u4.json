@@ -1,0 +1,2337 @@
+{
+  "units": {
+    "m2-2-u4": {
+      "title": "U4",
+      "vocab": [
+        {
+          "id": "m2-2-u4-v001",
+          "word": "cousin",
+          "part_of_speech": "名",
+          "chinese": "堂、表兄弟姊妹",
+          "sentence": "My cousin hopes to visit Taiwan.",
+          "sentence_chinese": "我的表弟希望來臺灣玩。"
+        },
+        {
+          "id": "m2-2-u4-v002",
+          "word": "job",
+          "part_of_speech": "名",
+          "chinese": "工作",
+          "sentence": "She wants to find a new job.",
+          "sentence_chinese": "她想找一份新工作。"
+        },
+        {
+          "id": "m2-2-u4-v003",
+          "word": "as",
+          "part_of_speech": "介",
+          "chinese": "以……的身分",
+          "sentence": "He hopes to work as a cook.",
+          "sentence_chinese": "他希望擔任廚師。"
+        },
+        {
+          "id": "m2-2-u4-v004",
+          "word": "waiter",
+          "part_of_speech": "名",
+          "chinese": "男服務生",
+          "sentence": "The waiter finished cleaning the table.",
+          "sentence_chinese": "那位男服務生擦完了桌子。"
+        },
+        {
+          "id": "m2-2-u4-v005",
+          "word": "live",
+          "part_of_speech": "動",
+          "chinese": "生活；居住",
+          "sentence": "I want to live near the beach.",
+          "sentence_chinese": "我想住在海灘附近。"
+        },
+        {
+          "id": "m2-2-u4-v006",
+          "word": "amazing",
+          "part_of_speech": "形",
+          "chinese": "非常驚人的；令人驚喜的",
+          "sentence": "It is amazing to see sea turtles.",
+          "sentence_chinese": "看到海龜令人驚喜。"
+        },
+        {
+          "id": "m2-2-u4-v007",
+          "word": "experience",
+          "part_of_speech": "名",
+          "chinese": "經驗",
+          "sentence": "Working on a farm was a great experience.",
+          "sentence_chinese": "在農場工作是很棒的經驗。"
+        },
+        {
+          "id": "m2-2-u4-v008",
+          "word": "air",
+          "part_of_speech": "名",
+          "chinese": "空氣",
+          "sentence": "We enjoy getting some fresh air outside.",
+          "sentence_chinese": "我們喜歡到外面呼吸新鮮空氣。"
+        },
+        {
+          "id": "m2-2-u4-v009",
+          "word": "fresh",
+          "part_of_speech": "形",
+          "chinese": "新鮮的",
+          "sentence": "Dad wants to buy some fresh fish.",
+          "sentence_chinese": "爸爸想買一些新鮮的魚。"
+        },
+        {
+          "id": "m2-2-u4-v010",
+          "word": "clear",
+          "part_of_speech": "形",
+          "chinese": "清澈的",
+          "sentence": "We enjoy swimming in the clear water.",
+          "sentence_chinese": "我們喜歡在清澈的水中游泳。"
+        },
+        {
+          "id": "m2-2-u4-v011",
+          "word": "coral reef",
+          "part_of_speech": "名",
+          "chinese": "珊瑚礁",
+          "sentence": "We hope to see a coral reef.",
+          "sentence_chinese": "我們希望看到珊瑚礁。"
+        },
+        {
+          "id": "m2-2-u4-v012",
+          "word": "sea turtle",
+          "part_of_speech": "名",
+          "chinese": "海龜",
+          "sentence": "Watching sea turtles is a lot of fun.",
+          "sentence_chinese": "看海龜非常有趣。"
+        },
+        {
+          "id": "m2-2-u4-v013",
+          "word": "beach",
+          "part_of_speech": "名",
+          "chinese": "海灘",
+          "sentence": "They plan to clean the beach tomorrow.",
+          "sentence_chinese": "他們計畫明天清理海灘。"
+        },
+        {
+          "id": "m2-2-u4-v014",
+          "word": "want",
+          "part_of_speech": "動",
+          "chinese": "想要",
+          "sentence": "I want to learn about different cultures.",
+          "sentence_chinese": "我想認識不同的文化。"
+        },
+        {
+          "id": "m2-2-u4-v015",
+          "word": "should",
+          "part_of_speech": "助",
+          "chinese": "應該",
+          "sentence": "You should practice speaking English every day.",
+          "sentence_chinese": "你應該每天練習說英文。"
+        },
+        {
+          "id": "m2-2-u4-v016",
+          "word": "prepare",
+          "part_of_speech": "動",
+          "chinese": "準備",
+          "sentence": "We prepared to leave early this morning.",
+          "sentence_chinese": "今天早上我們準備提早離開。"
+        },
+        {
+          "id": "m2-2-u4-v017",
+          "word": "keep",
+          "part_of_speech": "動",
+          "chinese": "持續；保持",
+          "sentence": "Keep practicing, and you will make progress.",
+          "sentence_chinese": "持續練習，你就會進步。"
+        },
+        {
+          "id": "m2-2-u4-v018",
+          "word": "practice",
+          "part_of_speech": "動",
+          "chinese": "練習",
+          "sentence": "My sister practices singing after school.",
+          "sentence_chinese": "我妹妹放學後練習唱歌。"
+        },
+        {
+          "id": "m2-2-u4-v019",
+          "word": "Give me a break!",
+          "part_of_speech": "片",
+          "chinese": "饒了我吧！",
+          "sentence": "Give me a break! I just finished working.",
+          "sentence_chinese": "饒了我吧！我才剛工作完。"
+        },
+        {
+          "id": "m2-2-u4-v020",
+          "word": "No kidding!",
+          "part_of_speech": "片",
+          "chinese": "不開玩笑的！",
+          "sentence": "No kidding! He plans to work abroad.",
+          "sentence_chinese": "不開玩笑的！他計畫到國外工作。"
+        },
+        {
+          "id": "m2-2-u4-v021",
+          "word": "important",
+          "part_of_speech": "形",
+          "chinese": "重要的",
+          "sentence": "It is important to keep the beach clean.",
+          "sentence_chinese": "保持海灘乾淨很重要。"
+        },
+        {
+          "id": "m2-2-u4-v022",
+          "word": "learn",
+          "part_of_speech": "動",
+          "chinese": "學習",
+          "sentence": "My cousin wants to learn to surf.",
+          "sentence_chinese": "我的表弟想學衝浪。"
+        },
+        {
+          "id": "m2-2-u4-v023",
+          "word": "farm",
+          "part_of_speech": "名",
+          "chinese": "農場",
+          "sentence": "They enjoy working on their uncle's farm.",
+          "sentence_chinese": "他們喜歡在叔叔的農場工作。"
+        },
+        {
+          "id": "m2-2-u4-v024",
+          "word": "worker",
+          "part_of_speech": "名",
+          "chinese": "工人",
+          "sentence": "The workers stopped working at five.",
+          "sentence_chinese": "工人們在 5 點停止工作。"
+        },
+        {
+          "id": "m2-2-u4-v025",
+          "word": "waitress",
+          "part_of_speech": "名",
+          "chinese": "女服務生",
+          "sentence": "The waitress needs to clean these tables.",
+          "sentence_chinese": "那位女服務生需要清理這些桌子。"
+        },
+        {
+          "id": "m2-2-u4-v026",
+          "word": "factory",
+          "part_of_speech": "名",
+          "chinese": "工廠",
+          "sentence": "He hopes to work in this factory.",
+          "sentence_chinese": "他希望在這間工廠工作。"
+        },
+        {
+          "id": "m2-2-u4-v027",
+          "word": "salesman",
+          "part_of_speech": "名",
+          "chinese": "推銷員；業務員",
+          "sentence": "The salesman tried to help us.",
+          "sentence_chinese": "那位業務員試著幫助我們。"
+        },
+        {
+          "id": "m2-2-u4-v028",
+          "word": "fisherman",
+          "part_of_speech": "名",
+          "chinese": "漁夫；漁人",
+          "sentence": "The fisherman finished cleaning his boat.",
+          "sentence_chinese": "那位漁夫清理完他的船。"
+        },
+        {
+          "id": "m2-2-u4-v029",
+          "word": "friendly",
+          "part_of_speech": "形",
+          "chinese": "友善的",
+          "sentence": "The friendly worker offered to help me.",
+          "sentence_chinese": "那位友善的工人主動提出要幫我。"
+        },
+        {
+          "id": "m2-2-u4-v030",
+          "word": "culture",
+          "part_of_speech": "名",
+          "chinese": "文化",
+          "sentence": "Learning about another culture is interesting.",
+          "sentence_chinese": "認識另一種文化很有趣。"
+        },
+        {
+          "id": "m2-2-u4-v031",
+          "word": "progress",
+          "part_of_speech": "名",
+          "chinese": "進步",
+          "sentence": "She hopes to make progress in English.",
+          "sentence_chinese": "她希望英文能進步。"
+        },
+        {
+          "id": "m2-2-u4-v032",
+          "word": "grow",
+          "part_of_speech": "動",
+          "chinese": "成長",
+          "sentence": "Watching these plants grow is fun.",
+          "sentence_chinese": "看著這些植物成長很有趣。"
+        },
+        {
+          "id": "m2-2-u4-v033",
+          "word": "understand",
+          "part_of_speech": "動",
+          "chinese": "了解",
+          "sentence": "I tried to understand his question.",
+          "sentence_chinese": "我試著理解他的問題。"
+        },
+        {
+          "id": "m2-2-u4-v034",
+          "word": "accent",
+          "part_of_speech": "名",
+          "chinese": "口音",
+          "sentence": "Understanding her accent is difficult for me.",
+          "sentence_chinese": "理解她的口音對我來說很困難。"
+        },
+        {
+          "id": "m2-2-u4-v035",
+          "word": "leave",
+          "part_of_speech": "動",
+          "chinese": "留下",
+          "sentence": "Please remember to leave a message.",
+          "sentence_chinese": "請記得留言。"
+        },
+        {
+          "id": "m2-2-u4-v036",
+          "word": "surf",
+          "part_of_speech": "動",
+          "chinese": "衝浪",
+          "sentence": "My brother likes to surf with friends.",
+          "sentence_chinese": "我哥哥喜歡和朋友一起衝浪。"
+        },
+        {
+          "id": "m2-2-u4-v037",
+          "word": "sail",
+          "part_of_speech": "動",
+          "chinese": "駕船；航行",
+          "sentence": "They hope to sail around the island.",
+          "sentence_chinese": "他們希望駕船繞島航行。"
+        },
+        {
+          "id": "m2-2-u4-v038",
+          "word": "camp",
+          "part_of_speech": "動",
+          "chinese": "露營",
+          "sentence": "We plan to camp near the lake.",
+          "sentence_chinese": "我們計畫在湖邊露營。"
+        },
+        {
+          "id": "m2-2-u4-v039",
+          "word": "begin",
+          "part_of_speech": "動",
+          "chinese": "開始",
+          "sentence": "It began to rain after lunch.",
+          "sentence_chinese": "午餐後開始下雨。"
+        },
+        {
+          "id": "m2-2-u4-v040",
+          "word": "end",
+          "part_of_speech": "動",
+          "chinese": "結束",
+          "sentence": "We decided to end the game early.",
+          "sentence_chinese": "我們決定提早結束遊戲。"
+        },
+        {
+          "id": "m2-2-u4-v041",
+          "word": "hope",
+          "part_of_speech": "動",
+          "chinese": "希望",
+          "sentence": "I hope to visit my cousin soon.",
+          "sentence_chinese": "我希望很快就能去看我的表姊。"
+        },
+        {
+          "id": "m2-2-u4-v042",
+          "word": "unhappy",
+          "part_of_speech": "形",
+          "chinese": "不快樂的",
+          "sentence": "He was unhappy to hear the news.",
+          "sentence_chinese": "聽到這個消息，他很不開心。"
+        }
+      ],
+      "phrases": [
+        {
+          "id": "m2-2-u4-p001",
+          "phrase": "Long time no see.",
+          "chinese": "好久不見。",
+          "sentence": "Long time no see. How are you?",
+          "sentence_chinese": "好久不見。你好嗎？"
+        },
+        {
+          "id": "m2-2-u4-p002",
+          "phrase": "What a surprise!",
+          "chinese": "真讓人驚訝！",
+          "sentence": "What a surprise! You work here, too.",
+          "sentence_chinese": "真讓人驚訝！你也在這裡工作。"
+        },
+        {
+          "id": "m2-2-u4-p003",
+          "phrase": "What are you up to?",
+          "chinese": "你最近在忙什麼？",
+          "sentence": "What are you up to these days?",
+          "sentence_chinese": "你最近在忙什麼？"
+        },
+        {
+          "id": "m2-2-u4-p004",
+          "phrase": "go on / take a working holiday",
+          "chinese": "去打工度假",
+          "sentence": "I hope to go on a working holiday.",
+          "sentence_chinese": "我希望去打工度假。"
+        },
+        {
+          "id": "m2-2-u4-p005",
+          "phrase": "what kind of + 單數名詞",
+          "chinese": "哪一種……",
+          "sentence": "What kind of job do you want?",
+          "sentence_chinese": "你想要哪一種工作？"
+        },
+        {
+          "id": "m2-2-u4-p006",
+          "phrase": "work as + 職業",
+          "chinese": "擔任……",
+          "sentence": "She hopes to work as a waitress.",
+          "sentence_chinese": "她希望擔任女服務生。"
+        },
+        {
+          "id": "m2-2-u4-p007",
+          "phrase": "keep + V-ing",
+          "chinese": "一直……；不停……",
+          "sentence": "Please keep practicing with your classmates.",
+          "sentence_chinese": "請持續和同學練習。"
+        },
+        {
+          "id": "m2-2-u4-p008",
+          "phrase": "Give me a break!",
+          "chinese": "饒了我吧！",
+          "sentence": "Give me a break! I need to rest.",
+          "sentence_chinese": "饒了我吧！我需要休息。"
+        },
+        {
+          "id": "m2-2-u4-p009",
+          "phrase": "No kidding!",
+          "chinese": "不開玩笑的！",
+          "sentence": "No kidding! My cousin can sail a boat.",
+          "sentence_chinese": "不開玩笑的！我的表哥會駕船。"
+        },
+        {
+          "id": "m2-2-u4-p010",
+          "phrase": "learn about...",
+          "chinese": "學習；了解……",
+          "sentence": "We want to learn about sea turtles.",
+          "sentence_chinese": "我們想認識海龜。"
+        },
+        {
+          "id": "m2-2-u4-p011",
+          "phrase": "make progress",
+          "chinese": "有進步",
+          "sentence": "Practicing every day helps you make progress.",
+          "sentence_chinese": "每天練習有助於你進步。"
+        },
+        {
+          "id": "m2-2-u4-p012",
+          "phrase": "in short",
+          "chinese": "簡而言之",
+          "sentence": "In short, learning English takes time.",
+          "sentence_chinese": "簡而言之，學英文需要時間。"
+        },
+        {
+          "id": "m2-2-u4-p013",
+          "phrase": "enjoy surfing / sailing",
+          "chinese": "喜愛衝浪／駕船航行",
+          "sentence": "My cousins enjoy sailing on weekends.",
+          "sentence_chinese": "我的表兄弟週末喜歡駕船航行。"
+        }
+      ],
+      "grammar": {
+        "tips": [
+          {
+            "label": "先看前面的動詞",
+            "text": "want、need、plan、hope、choose、prepare 後接 to V；enjoy、finish、keep、practice、mind 後接 V-ing。"
+          },
+          {
+            "label": "叫某人做事",
+            "text": "ask / tell / want＋人＋to V；叫某人不要做：ask / tell / want＋人＋not to V。"
+          },
+          {
+            "label": "介系詞後用 V-ing",
+            "text": "How about going camping?／be good at singing；此處的 about、at 後面接動名詞。"
+          },
+          {
+            "label": "用語境分辨意思",
+            "text": "remember / forget to V 是記得／忘記要去做；remember / forget V-ing 是記得／忘記做過。stop V-ing 是停止原動作；stop to V 是停下來做另一件事。"
+          },
+          {
+            "label": "整件事當主詞",
+            "text": "V-ing 或 To V 片語當主詞時視為單數：Swimming is fun.／To swim is fun. 也能改成 It is fun to swim."
+          }
+        ],
+        "notes": [
+          {
+            "title": "不定詞作受詞",
+            "rule": "主詞＋want / need / plan / hope / choose / prepare / would like＋to＋原形動詞",
+            "description": "不定詞用 to＋原形動詞。前面的主要動詞可以變時態，但 to 後仍是原形；不能看到過去時間就把後面的動詞也改成過去式。mean 表示打算時也可接 to V。",
+            "examples": [
+              "We plan to visit a farm.（我們計畫參觀農場。）",
+              "She chose to stay home yesterday.（她昨天選擇待在家。）",
+              "I would like to learn to sail.（我想學駕船。）"
+            ]
+          },
+          {
+            "title": "要求或希望某人做某事",
+            "rule": "ask / tell / want＋人＋to V",
+            "description": "人放在主要動詞和不定詞之間。若用代名詞，使用 me、him、her、us、them 等受格。",
+            "examples": [
+              "The worker asked me to wait outside.（工人請我在外面等。）",
+              "Mom wants him to practice English.（媽媽希望他練習英文。）"
+            ]
+          },
+          {
+            "title": "不定詞的否定",
+            "rule": "ask / tell / want＋人＋not to V",
+            "description": "本課的否定句型把 not 放在 to 前面。不要把 do not、does not 或 did not 放在這個位置。",
+            "examples": [
+              "Dad told us not to swim here.（爸爸告訴我們不要在這裡游泳。）",
+              "Please ask her not to leave yet.（請她先不要離開。）"
+            ]
+          },
+          {
+            "title": "不定詞修飾名詞",
+            "rule": "名詞或不定代名詞＋to V",
+            "description": "不定詞放在名詞後，說明可以做或需要做的事情；常見 something to drink、things to do、a way to learn。",
+            "examples": [
+              "We have a lot of work to do.（我們有很多工作要做。）",
+              "I need something to drink.（我需要一些喝的東西。）"
+            ]
+          },
+          {
+            "title": "不定詞表示目的",
+            "rule": "主要動作＋to V；to V 可表示為了……",
+            "description": "用不定詞說明做前一個動作的目的，常可換成 in order to V。注意此處 to 後面是原形。",
+            "examples": [
+              "We went to the beach to watch sea turtles.（我們去海灘看海龜。）",
+              "She got up early in order to catch the bus.（她早起是為了趕上公車。）"
+            ]
+          },
+          {
+            "title": "形容詞後接不定詞",
+            "rule": "be＋happy / glad / sad 等形容詞＋to V",
+            "description": "不定詞可補充造成某種感受的事情，像 happy to see 或 sad to hear。主要動詞 be 負責表達時態。",
+            "examples": [
+              "I was glad to see my cousin.（我很高興見到表弟。）",
+              "She was unhappy to hear the news.（她聽到消息很不開心。）"
+            ]
+          },
+          {
+            "title": "不定詞的省略",
+            "rule": "省略重複的動作內容，但保留 to",
+            "description": "前文已提過的內容可省略，例如 want to go camping 省成 want to；不要只刪掉 to 而留下原形動詞。",
+            "examples": [
+              "A: Do you want to go camping? B: Yes, I want to.（你想去露營嗎？想，我想去。）",
+              "He wanted to stay, but I did not want to.（他想留下，但我不想。）"
+            ]
+          },
+          {
+            "title": "固定接動名詞的動詞",
+            "rule": "enjoy / finish / keep / practice / mind＋V-ing",
+            "description": "V-ing 在這裡作受詞，不是現在進行式。也要記住 have fun＋V-ing、have trouble＋V-ing、be busy＋V-ing。",
+            "examples": [
+              "The waiter finished cleaning the table.（服務生擦完了桌子。）",
+              "Would you mind opening the door?（可以請你開門嗎？）",
+              "We had trouble understanding his accent.（我們很難理解他的口音。）"
+            ]
+          },
+          {
+            "title": "介系詞後接動名詞",
+            "rule": "介系詞＋V-ing；例如 about、at、of、before、after",
+            "description": "介系詞後若要放動作，改成動名詞。before 或 after 後也能接完整子句，但不能把沒有主詞的原形動詞直接放在介系詞後。",
+            "examples": [
+              "She is good at telling stories.（她擅長說故事。）",
+              "How about going sailing?（去駕船如何？）",
+              "Wash your hands before eating.（吃東西前要洗手。）"
+            ]
+          },
+          {
+            "title": "可接兩種形式的動詞",
+            "rule": "begin / start / like / love / hate＋to V 或 V-ing",
+            "description": "在本課的一般情境中，這些動詞可接不定詞或動名詞。遇到選擇題要檢查選項，不能把兩種都正確的形式當成一對正誤。",
+            "examples": [
+              "It began to rain. = It began raining.（開始下雨了。）",
+              "He loves to cook. = He loves cooking.（他喜歡做菜。）"
+            ]
+          },
+          {
+            "title": "remember 與 forget：要做還是做過",
+            "rule": "remember / forget＋to V：記得／忘記要做；remember / forget＋V-ing：記得／忘記做過",
+            "description": "先判斷動作是否已發生。提醒未來要做的事情用 to V；回憶或忘記已發生的經驗用 V-ing。照片、回憶、尚未完成等語境比單看時間詞更可靠。",
+            "examples": [
+              "Remember to bring your ticket tomorrow.（記得明天帶票。）",
+              "I remember meeting her last year.（我記得去年見過她。）",
+              "He forgot to close the door.（他忘記關門了。）",
+              "I forgot meeting him until I saw our photo.（直到看到合照，我才想起曾經見過他。）"
+            ]
+          },
+          {
+            "title": "stop：停止原動作或停下來做別的事",
+            "rule": "stop＋V-ing：停止原動作；stop＋to V：停下來去做另一件事",
+            "description": "先找原本正在做什麼。stop talking 是停止聊天；stop to talk 是停下原本的活動，轉而聊天。to V 在此表達停下來的目的。",
+            "examples": [
+              "The children stopped talking when class began.（上課時，孩子們停止聊天。）",
+              "We stopped to rest during the walk.（走路途中，我們停下來休息。）"
+            ]
+          },
+          {
+            "title": "動名詞作主詞",
+            "rule": "V-ing 片語＋單數動詞",
+            "description": "把整件事當作主詞，現在式用 is、helps、takes 等單數形式，過去式用 was。不要被片語內的複數名詞影響。",
+            "examples": [
+              "Eating fresh vegetables is good for you.（吃新鮮蔬菜對你有益。）",
+              "Learning new words takes time.（學新單字需要時間。）",
+              "Working with those people was fun.（和那些人一起工作很有趣。）"
+            ]
+          },
+          {
+            "title": "不定詞作主詞",
+            "rule": "To V 片語＋單數動詞",
+            "description": "不定詞片語也可作主詞，整件事視為單數。前面沒有別的主詞時，不要直接用原形動詞來代替這個名詞性片語。",
+            "examples": [
+              "To learn another language takes time.（學另一種語言需要時間。）",
+              "To keep the beach clean is important.（保持海灘乾淨很重要。）"
+            ]
+          },
+          {
+            "title": "虛主詞 it 與句型改寫",
+            "rule": "It＋is / was＋形容詞＋(for＋受格)＋to V",
+            "description": "用 It 暫代較長的主詞，把不定詞移到後面。for＋人表示對誰而言，可省略。改寫時保留原來的時態與意思。不要寫成 It is easy for he…。",
+            "examples": [
+              "Understanding his accent is hard for me.（理解他的口音對我很難。）",
+              "To understand his accent is hard for me.（理解他的口音對我很難。）",
+              "It is hard for me to understand his accent.（理解他的口音對我很難。）",
+              "It was wonderful for us to camp there.（對我們來說，在那裡露營很棒。）"
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "id": "m2-2-u4-q001",
+            "question": "The sea looks beautiful. I want ___ a photo of it.",
+            "options": [
+              "A. took",
+              "B. take",
+              "C. taking",
+              "D. to take"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "want 後接 to＋原形動詞，因此用 to take；不能直接接 take、taking 或 took。"
+          },
+          {
+            "id": "m2-2-u4-q002",
+            "question": "Our class plans ___ the beach before the summer vacation.",
+            "options": [
+              "A. cleaned",
+              "B. cleaning",
+              "C. clean",
+              "D. to clean"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "plans 後接不定詞 to clean，說明計畫要做的事。"
+          },
+          {
+            "id": "m2-2-u4-q003",
+            "question": "Both jobs were interesting, but Helen chose ___ at the farm.",
+            "options": [
+              "A. to work",
+              "B. working",
+              "C. work",
+              "D. worked"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "chose 是 choose 的過去式，後面的受詞仍用 to work；不能因 chose 是過去式就接 worked。"
+          },
+          {
+            "id": "m2-2-u4-q004",
+            "question": "The waiter needs ___ more glasses before the guests arrive.",
+            "options": [
+              "A. washing",
+              "B. wash",
+              "C. to wash",
+              "D. washed"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "needs 在此表示需要做某事，後接 to wash；受詞 glasses 表示由服務生清洗杯子。"
+          },
+          {
+            "id": "m2-2-u4-q005",
+            "question": "The sky turned dark, so the fishermen prepared ___ home.",
+            "options": [
+              "A. going",
+              "B. to go",
+              "C. go",
+              "D. went"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "prepared 後接 to＋原形動詞，表示準備回家，因此用 to go。"
+          },
+          {
+            "id": "m2-2-u4-q006",
+            "question": "My cousin hopes ___ a lot about local culture during her trip.",
+            "options": [
+              "A. learned",
+              "B. to learn",
+              "C. learn",
+              "D. learning"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "hopes 後接不定詞 to learn，表示希望做的事。"
+          },
+          {
+            "id": "m2-2-u4-q007",
+            "question": "The sign was hard to read, so I asked a worker ___ it to me.",
+            "options": [
+              "A. explain",
+              "B. explained",
+              "C. to explain",
+              "D. explaining"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "asked＋人＋to V 表示請某人做某事；a worker 後用 to explain。"
+          },
+          {
+            "id": "m2-2-u4-q008",
+            "question": "Before dinner, Dad told us ___ the fresh vegetables.",
+            "options": [
+              "A. washing",
+              "B. to wash",
+              "C. wash",
+              "D. washed"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "told＋人＋to V 表示告訴某人去做某事，因此 us 後接 to wash。"
+          },
+          {
+            "id": "m2-2-u4-q009",
+            "question": "The waitress is very busy. She wants me ___ these plates for her.",
+            "options": [
+              "A. to carry",
+              "B. carry",
+              "C. carrying",
+              "D. carried"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "wants＋人＋to V 表示希望某人做某事，me 後接 to carry。"
+          },
+          {
+            "id": "m2-2-u4-q010",
+            "question": "The sea is dangerous today. Mom told me ___ into the water.",
+            "options": [
+              "A. not going",
+              "B. not go",
+              "C. to not going",
+              "D. not to go"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "這是叫人不要做某事，使用 told＋人＋not to V，因此填 not to go。"
+          },
+          {
+            "id": "m2-2-u4-q011",
+            "question": "The baby is asleep. Please ask your cousin ___ too loudly.",
+            "options": [
+              "A. not talk",
+              "B. not to talk",
+              "C. not talking",
+              "D. to not talking"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "嬰兒正在睡覺，所以是請表親不要大聲說話；ask＋人＋not to talk。"
+          },
+          {
+            "id": "m2-2-u4-q012",
+            "question": "I am hungry. Is there anything ___ in the kitchen?",
+            "options": [
+              "A. eats",
+              "B. to eat",
+              "C. eat",
+              "D. ate"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "anything 後接不定詞 to eat，表示可以吃的東西；eat、ate、eats 都不能在此修飾 anything。"
+          },
+          {
+            "id": "m2-2-u4-q013",
+            "question": "Our boat is broken. We must find a way ___ to the beach.",
+            "options": [
+              "A. to get",
+              "B. got",
+              "C. gets",
+              "D. get"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "a way to V 表示做某事的方法；to get 說明到達海灘的方法。"
+          },
+          {
+            "id": "m2-2-u4-q014",
+            "question": "We walked to the station ___ our cousin after her long trip.",
+            "options": [
+              "A. to meet",
+              "B. meets",
+              "C. meet",
+              "D. met"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "走到車站的目的是接表親，不定詞 to meet 可以表示目的。"
+          },
+          {
+            "id": "m2-2-u4-q015",
+            "question": "The workers were glad ___ that everyone was safe.",
+            "options": [
+              "A. to hear",
+              "B. hears",
+              "C. hear",
+              "D. heard"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "be glad to V 表示很高興做某事；形容詞 glad 後接 to hear。"
+          },
+          {
+            "id": "m2-2-u4-q016",
+            "question": "A: Would you like to go sailing with us? B: Yes, I would love ___.",
+            "options": [
+              "A. went",
+              "B. to going",
+              "C. go",
+              "D. to"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "前句已說 go sailing with us，回答可省略重複內容，但 love 後的不定詞標記 to 要保留。"
+          },
+          {
+            "id": "m2-2-u4-q017",
+            "question": "My sister wanted to camp by the lake, but I did not want ___.",
+            "options": [
+              "A. camped",
+              "B. to",
+              "C. camp",
+              "D. camping"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "want to camp by the lake 的重複內容可以省略，保留 to；did not 只使 want 用原形。"
+          },
+          {
+            "id": "m2-2-u4-q018",
+            "question": "After work, the salesman enjoys ___ music on the bus.",
+            "options": [
+              "A. listened to",
+              "B. to listen to",
+              "C. listen to",
+              "D. listening to"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "enjoys 後接動名詞，因此用 listening to；to 為 listen to 的一部分，考點仍是 listening 的形式。"
+          },
+          {
+            "id": "m2-2-u4-q019",
+            "question": "We cannot leave yet. The workers have not finished ___ the boat.",
+            "options": [
+              "A. checking",
+              "B. check",
+              "C. checked",
+              "D. to check"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "finished 後接 V-ing，表示完成檢查這個動作；have not 不改變 finished 後的接法。"
+          },
+          {
+            "id": "m2-2-u4-q020",
+            "question": "The line is busy, but the waitress keeps ___ the number.",
+            "options": [
+              "A. call",
+              "B. calling",
+              "C. called",
+              "D. to call"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "keeps 後接 V-ing，表示持續打電話，因此用 calling。"
+          },
+          {
+            "id": "m2-2-u4-q021",
+            "question": "Before his trip, Ben practiced ___ simple English questions.",
+            "options": [
+              "A. asking",
+              "B. ask",
+              "C. asked",
+              "D. to ask"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "practiced 後接動名詞 asking，表示練習問問題；不是接過去式 asked。"
+          },
+          {
+            "id": "m2-2-u4-q022",
+            "question": "Would you mind ___ the window? The air in here is not fresh.",
+            "options": [
+              "A. opening",
+              "B. to open",
+              "C. opened",
+              "D. open"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "Would you mind＋V-ing 是禮貌請求的句型，mind 後接 opening。"
+          },
+          {
+            "id": "m2-2-u4-q023",
+            "question": "The children had fun ___ about sea turtles at the museum.",
+            "options": [
+              "A. to learn",
+              "B. learn",
+              "C. learning",
+              "D. learned"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "have fun 後可接 V-ing，表示做某事很開心；had fun 後用 learning。"
+          },
+          {
+            "id": "m2-2-u4-q024",
+            "question": "The tourists had trouble ___ the fisherman because of his accent.",
+            "options": [
+              "A. to understand",
+              "B. understanding",
+              "C. understood",
+              "D. understand"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "have trouble＋V-ing 表示做某事有困難；口音是難以理解的原因，因此填 understanding。"
+          },
+          {
+            "id": "m2-2-u4-q025",
+            "question": "I am tired of ___ indoors. Let us take a walk on the beach.",
+            "options": [
+              "A. stayed",
+              "B. staying",
+              "C. stay",
+              "D. to stay"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "of 是介系詞，後接動名詞 staying；不能接原形、過去式或不定詞。"
+          },
+          {
+            "id": "m2-2-u4-q026",
+            "question": "How about ___ a tent near the river this weekend?",
+            "options": [
+              "A. put up",
+              "B. puts up",
+              "C. to put up",
+              "D. putting up"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "How about 後接 V-ing，所以用 putting up；put up a tent 表示搭帳篷。"
+          },
+          {
+            "id": "m2-2-u4-q027",
+            "question": "My cousin is good at ___ stories to young children.",
+            "options": [
+              "A. to tell",
+              "B. tell",
+              "C. telling",
+              "D. told"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "at 是介系詞，be good at 後用 V-ing，因此填 telling。"
+          },
+          {
+            "id": "m2-2-u4-q028",
+            "question": "Please wash your hands before ___ the fresh fruit.",
+            "options": [
+              "A. ate",
+              "B. eat",
+              "C. to eat",
+              "D. eating"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "before 在此後面沒有子句主詞，作介系詞使用，後接動名詞 eating。"
+          },
+          {
+            "id": "m2-2-u4-q029",
+            "question": "The farmer began ___ us around the farm after lunch.",
+            "options": [
+              "A. show",
+              "B. to show",
+              "C. to showing",
+              "D. showed"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "began 後可接 to show 或 showing；本題選項只有 to show 符合，to showing 的 to 後不是原形。"
+          },
+          {
+            "id": "m2-2-u4-q030",
+            "question": "The sea turtle started ___ toward the water.",
+            "options": [
+              "A. moving",
+              "B. moved",
+              "C. to moving",
+              "D. move"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "started 後可接 moving 或 to move；選項中只有 moving 符合，to moving 不正確。"
+          },
+          {
+            "id": "m2-2-u4-q031",
+            "question": "My little brother loves ___ pictures of fish.",
+            "options": [
+              "A. to draw",
+              "B. draw",
+              "C. to drawing",
+              "D. drew"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "loves 後可接 to draw 或 drawing；本題只有 to draw 符合，不能直接接 draw 或 drew。"
+          },
+          {
+            "id": "m2-2-u4-q032",
+            "question": "The waitress hates ___ alone late at night.",
+            "options": [
+              "A. walk",
+              "B. walked",
+              "C. walking",
+              "D. to walking"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "hates 後可接 walking 或 to walk；選項中只有 walking 符合。"
+          },
+          {
+            "id": "m2-2-u4-q033",
+            "question": "The fisherman likes ___ his boat before breakfast.",
+            "options": [
+              "A. checked",
+              "B. to checking",
+              "C. to check",
+              "D. check"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "likes 後可接 to check 或 checking；本題提供的正確形式是 to check。"
+          },
+          {
+            "id": "m2-2-u4-q034",
+            "question": "The door is still open. Please remember ___ it before you leave.",
+            "options": [
+              "A. close",
+              "B. closing",
+              "C. closed",
+              "D. to close"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "門還開著，表示關門尚未完成；remember to close 是記得要去關門，remember closing 則是記得關過。"
+          },
+          {
+            "id": "m2-2-u4-q035",
+            "question": "I remember ___ that sea turtle last year. I still have a photo of it.",
+            "options": [
+              "A. to see",
+              "B. seeing",
+              "C. see",
+              "D. saw"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "last year 和保留照片表示事情已發生；remember seeing 是記得曾經看過。"
+          },
+          {
+            "id": "m2-2-u4-q036",
+            "question": "Our tickets are still on the table. Do not forget ___ them tomorrow.",
+            "options": [
+              "A. brought",
+              "B. bring",
+              "C. to bring",
+              "D. bringing"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "tomorrow 表示提醒未來要做的事，使用 forget to bring；bringing 會變成忘記曾帶過的經驗。"
+          },
+          {
+            "id": "m2-2-u4-q037",
+            "question": "I forgot ___ Ken at the beach last year until he showed me our photo.",
+            "options": [
+              "A. meet",
+              "B. to meet",
+              "C. meeting",
+              "D. met"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "照片證明去年已見過面，只是忘了這段經驗；forget meeting 表示忘記見過，to meet 表示忘記赴約。"
+          },
+          {
+            "id": "m2-2-u4-q038",
+            "question": "The teacher is speaking now. Please stop ___ and listen.",
+            "options": [
+              "A. to talk",
+              "B. talk",
+              "C. talked",
+              "D. talking"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "老師正在說話，要求停止聊天來聽講；stop talking 是停止原本的動作，stop to talk 是停下來去聊天。"
+          },
+          {
+            "id": "m2-2-u4-q039",
+            "question": "We were walking to the farm when we got thirsty, so we stopped ___ some water.",
+            "options": [
+              "A. drank",
+              "B. drink",
+              "C. to drink",
+              "D. drinking"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "原本在走路，因口渴而停下來喝水；stop to drink 表示停下原本的事去喝水。"
+          },
+          {
+            "id": "m2-2-u4-q040",
+            "question": "The phone was ringing, but it stopped ___ when I picked it up.",
+            "options": [
+              "A. to ring",
+              "B. rang",
+              "C. ringing",
+              "D. ring"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "原本電話正在響，拿起後鈴聲停止；stop ringing 是停止響鈴，to ring 會變成停下來去響鈴。"
+          },
+          {
+            "id": "m2-2-u4-q041",
+            "question": "On his way home, the salesman stopped ___ some bread for dinner.",
+            "options": [
+              "A. to buy",
+              "B. buy",
+              "C. bought",
+              "D. buying"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "原本在回家途中，中途停下來買晚餐的麵包；stop to buy 表示停下原本的活動去買東西。"
+          },
+          {
+            "id": "m2-2-u4-q042",
+            "question": "___ English with my cousin is fun.",
+            "options": [
+              "A. Speaking",
+              "B. Speak",
+              "C. Spoke",
+              "D. Speaks"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "空格開頭的片語作整句主詞，需用動名詞 Speaking；後面的 is 是主要動詞。"
+          },
+          {
+            "id": "m2-2-u4-q043",
+            "question": "Learning about another culture ___ time.",
+            "options": [
+              "A. take",
+              "B. taking",
+              "C. to take",
+              "D. takes"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "Learning about another culture 是一整件事，視為單數主詞，現在式主要動詞用 takes。"
+          },
+          {
+            "id": "m2-2-u4-q044",
+            "question": "___ the boat after every trip helps keep it clean.",
+            "options": [
+              "A. Washed",
+              "B. Wash",
+              "C. Washing",
+              "D. Washes"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "空格所在的片語作主詞，要用動名詞 Washing；helps 才是整句的主要動詞。"
+          },
+          {
+            "id": "m2-2-u4-q045",
+            "question": "To practice these words every day ___ important.",
+            "options": [
+              "A. be",
+              "B. are",
+              "C. is",
+              "D. being"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "To practice these words every day 整體作單數主詞，不受 words 為複數影響，因此用 is。"
+          },
+          {
+            "id": "m2-2-u4-q046",
+            "question": "It is dangerous ___ on this beach during a storm.",
+            "options": [
+              "A. camp",
+              "B. camped",
+              "C. camps",
+              "D. to camp"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "It is＋形容詞＋to V，It 代替後面的不定詞內容；to camp 表示露營這件事。"
+          },
+          {
+            "id": "m2-2-u4-q047",
+            "question": "It is easy for the friendly worker ___ new friends.",
+            "options": [
+              "A. makes",
+              "B. made",
+              "C. make",
+              "D. to make"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "It is easy for＋人＋to V 表示對某人來說做某事很容易，因此填 to make。"
+          },
+          {
+            "id": "m2-2-u4-q048",
+            "question": "It is hard for ___ to understand this accent.",
+            "options": [
+              "A. he",
+              "B. him",
+              "C. himself",
+              "D. his"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "for 是介系詞，後接受格 him；he 是主格，his 是所有格，此處沒有使用反身代名詞的條件。"
+          },
+          {
+            "id": "m2-2-u4-q049",
+            "question": "___ is important to bring enough water when you go camping.",
+            "options": [
+              "A. It",
+              "B. These",
+              "C. There",
+              "D. They"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "句末 to bring enough water…才是實際內容，句首用虛主詞 It；There、They、These 不符此句型。"
+          },
+          {
+            "id": "m2-2-u4-q050",
+            "question": "Working in that factory ___ a useful experience for my father last summer.",
+            "options": [
+              "A. be",
+              "B. were",
+              "C. was",
+              "D. being"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "Working in that factory 整體是單數主詞，last summer 提示過去時間，因此用 was；不能因 factory 後有其他字就改成複數。"
+          }
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          {
+            "id": "m2-2-u4-sv001",
+            "vocab_id": "m2-2-u4-v001",
+            "sentence": "My cousin hopes to visit Taiwan.",
+            "sentence_chinese": "我的表弟希望來臺灣玩。"
+          },
+          {
+            "id": "m2-2-u4-sv002",
+            "vocab_id": "m2-2-u4-v002",
+            "sentence": "She wants to find a new job.",
+            "sentence_chinese": "她想找一份新工作。"
+          },
+          {
+            "id": "m2-2-u4-sv003",
+            "vocab_id": "m2-2-u4-v003",
+            "sentence": "He hopes to work as a cook.",
+            "sentence_chinese": "他希望擔任廚師。"
+          },
+          {
+            "id": "m2-2-u4-sv004",
+            "vocab_id": "m2-2-u4-v004",
+            "sentence": "The waiter finished cleaning the table.",
+            "sentence_chinese": "那位男服務生擦完了桌子。"
+          },
+          {
+            "id": "m2-2-u4-sv005",
+            "vocab_id": "m2-2-u4-v005",
+            "sentence": "I want to live near the beach.",
+            "sentence_chinese": "我想住在海灘附近。"
+          },
+          {
+            "id": "m2-2-u4-sv006",
+            "vocab_id": "m2-2-u4-v006",
+            "sentence": "It is amazing to see sea turtles.",
+            "sentence_chinese": "看到海龜令人驚喜。"
+          },
+          {
+            "id": "m2-2-u4-sv007",
+            "vocab_id": "m2-2-u4-v007",
+            "sentence": "Working on a farm was a great experience.",
+            "sentence_chinese": "在農場工作是很棒的經驗。"
+          },
+          {
+            "id": "m2-2-u4-sv008",
+            "vocab_id": "m2-2-u4-v008",
+            "sentence": "We enjoy getting some fresh air outside.",
+            "sentence_chinese": "我們喜歡到外面呼吸新鮮空氣。"
+          },
+          {
+            "id": "m2-2-u4-sv009",
+            "vocab_id": "m2-2-u4-v009",
+            "sentence": "Dad wants to buy some fresh fish.",
+            "sentence_chinese": "爸爸想買一些新鮮的魚。"
+          },
+          {
+            "id": "m2-2-u4-sv010",
+            "vocab_id": "m2-2-u4-v010",
+            "sentence": "We enjoy swimming in the clear water.",
+            "sentence_chinese": "我們喜歡在清澈的水中游泳。"
+          },
+          {
+            "id": "m2-2-u4-sv011",
+            "vocab_id": "m2-2-u4-v011",
+            "sentence": "We hope to see a coral reef.",
+            "sentence_chinese": "我們希望看到珊瑚礁。"
+          },
+          {
+            "id": "m2-2-u4-sv012",
+            "vocab_id": "m2-2-u4-v012",
+            "sentence": "Watching sea turtles is a lot of fun.",
+            "sentence_chinese": "看海龜非常有趣。"
+          },
+          {
+            "id": "m2-2-u4-sv013",
+            "vocab_id": "m2-2-u4-v013",
+            "sentence": "They plan to clean the beach tomorrow.",
+            "sentence_chinese": "他們計畫明天清理海灘。"
+          },
+          {
+            "id": "m2-2-u4-sv014",
+            "vocab_id": "m2-2-u4-v014",
+            "sentence": "I want to learn about different cultures.",
+            "sentence_chinese": "我想認識不同的文化。"
+          },
+          {
+            "id": "m2-2-u4-sv015",
+            "vocab_id": "m2-2-u4-v015",
+            "sentence": "You should practice speaking English every day.",
+            "sentence_chinese": "你應該每天練習說英文。"
+          },
+          {
+            "id": "m2-2-u4-sv016",
+            "vocab_id": "m2-2-u4-v016",
+            "sentence": "We prepared to leave early this morning.",
+            "sentence_chinese": "今天早上我們準備提早離開。"
+          },
+          {
+            "id": "m2-2-u4-sv017",
+            "vocab_id": "m2-2-u4-v017",
+            "sentence": "Keep practicing, and you will make progress.",
+            "sentence_chinese": "持續練習，你就會進步。"
+          },
+          {
+            "id": "m2-2-u4-sv018",
+            "vocab_id": "m2-2-u4-v018",
+            "sentence": "My sister practices singing after school.",
+            "sentence_chinese": "我妹妹放學後練習唱歌。"
+          },
+          {
+            "id": "m2-2-u4-sv019",
+            "vocab_id": "m2-2-u4-v019",
+            "sentence": "Give me a break! I just finished working.",
+            "sentence_chinese": "饒了我吧！我才剛工作完。"
+          },
+          {
+            "id": "m2-2-u4-sv020",
+            "vocab_id": "m2-2-u4-v020",
+            "sentence": "No kidding! He plans to work abroad.",
+            "sentence_chinese": "不開玩笑的！他計畫到國外工作。"
+          },
+          {
+            "id": "m2-2-u4-sv021",
+            "vocab_id": "m2-2-u4-v021",
+            "sentence": "It is important to keep the beach clean.",
+            "sentence_chinese": "保持海灘乾淨很重要。"
+          },
+          {
+            "id": "m2-2-u4-sv022",
+            "vocab_id": "m2-2-u4-v022",
+            "sentence": "My cousin wants to learn to surf.",
+            "sentence_chinese": "我的表弟想學衝浪。"
+          },
+          {
+            "id": "m2-2-u4-sv023",
+            "vocab_id": "m2-2-u4-v023",
+            "sentence": "They enjoy working on their uncle's farm.",
+            "sentence_chinese": "他們喜歡在叔叔的農場工作。"
+          },
+          {
+            "id": "m2-2-u4-sv024",
+            "vocab_id": "m2-2-u4-v024",
+            "sentence": "The workers stopped working at five.",
+            "sentence_chinese": "工人們在 5 點停止工作。"
+          },
+          {
+            "id": "m2-2-u4-sv025",
+            "vocab_id": "m2-2-u4-v025",
+            "sentence": "The waitress needs to clean these tables.",
+            "sentence_chinese": "那位女服務生需要清理這些桌子。"
+          },
+          {
+            "id": "m2-2-u4-sv026",
+            "vocab_id": "m2-2-u4-v026",
+            "sentence": "He hopes to work in this factory.",
+            "sentence_chinese": "他希望在這間工廠工作。"
+          },
+          {
+            "id": "m2-2-u4-sv027",
+            "vocab_id": "m2-2-u4-v027",
+            "sentence": "The salesman tried to help us.",
+            "sentence_chinese": "那位業務員試著幫助我們。"
+          },
+          {
+            "id": "m2-2-u4-sv028",
+            "vocab_id": "m2-2-u4-v028",
+            "sentence": "The fisherman finished cleaning his boat.",
+            "sentence_chinese": "那位漁夫清理完他的船。"
+          },
+          {
+            "id": "m2-2-u4-sv029",
+            "vocab_id": "m2-2-u4-v029",
+            "sentence": "The friendly worker offered to help me.",
+            "sentence_chinese": "那位友善的工人主動提出要幫我。"
+          },
+          {
+            "id": "m2-2-u4-sv030",
+            "vocab_id": "m2-2-u4-v030",
+            "sentence": "Learning about another culture is interesting.",
+            "sentence_chinese": "認識另一種文化很有趣。"
+          },
+          {
+            "id": "m2-2-u4-sv031",
+            "vocab_id": "m2-2-u4-v031",
+            "sentence": "She hopes to make progress in English.",
+            "sentence_chinese": "她希望英文能進步。"
+          },
+          {
+            "id": "m2-2-u4-sv032",
+            "vocab_id": "m2-2-u4-v032",
+            "sentence": "Watching these plants grow is fun.",
+            "sentence_chinese": "看著這些植物成長很有趣。"
+          },
+          {
+            "id": "m2-2-u4-sv033",
+            "vocab_id": "m2-2-u4-v033",
+            "sentence": "I tried to understand his question.",
+            "sentence_chinese": "我試著理解他的問題。"
+          },
+          {
+            "id": "m2-2-u4-sv034",
+            "vocab_id": "m2-2-u4-v034",
+            "sentence": "Understanding her accent is difficult for me.",
+            "sentence_chinese": "理解她的口音對我來說很困難。"
+          },
+          {
+            "id": "m2-2-u4-sv035",
+            "vocab_id": "m2-2-u4-v035",
+            "sentence": "Please remember to leave a message.",
+            "sentence_chinese": "請記得留言。"
+          },
+          {
+            "id": "m2-2-u4-sv036",
+            "vocab_id": "m2-2-u4-v036",
+            "sentence": "My brother likes to surf with friends.",
+            "sentence_chinese": "我哥哥喜歡和朋友一起衝浪。"
+          },
+          {
+            "id": "m2-2-u4-sv037",
+            "vocab_id": "m2-2-u4-v037",
+            "sentence": "They hope to sail around the island.",
+            "sentence_chinese": "他們希望駕船繞島航行。"
+          },
+          {
+            "id": "m2-2-u4-sv038",
+            "vocab_id": "m2-2-u4-v038",
+            "sentence": "We plan to camp near the lake.",
+            "sentence_chinese": "我們計畫在湖邊露營。"
+          },
+          {
+            "id": "m2-2-u4-sv039",
+            "vocab_id": "m2-2-u4-v039",
+            "sentence": "It began to rain after lunch.",
+            "sentence_chinese": "午餐後開始下雨。"
+          },
+          {
+            "id": "m2-2-u4-sv040",
+            "vocab_id": "m2-2-u4-v040",
+            "sentence": "We decided to end the game early.",
+            "sentence_chinese": "我們決定提早結束遊戲。"
+          },
+          {
+            "id": "m2-2-u4-sv041",
+            "vocab_id": "m2-2-u4-v041",
+            "sentence": "I hope to visit my cousin soon.",
+            "sentence_chinese": "我希望很快就能去看我的表姊。"
+          },
+          {
+            "id": "m2-2-u4-sv042",
+            "vocab_id": "m2-2-u4-v042",
+            "sentence": "He was unhappy to hear the news.",
+            "sentence_chinese": "聽到這個消息，他很不開心。"
+          }
+        ],
+        "phrases": [
+          {
+            "id": "m2-2-u4-sp001",
+            "phrase_id": "m2-2-u4-p001",
+            "sentence": "Long time no see. How are you?",
+            "sentence_chinese": "好久不見。你好嗎？"
+          },
+          {
+            "id": "m2-2-u4-sp002",
+            "phrase_id": "m2-2-u4-p002",
+            "sentence": "What a surprise! You work here, too.",
+            "sentence_chinese": "真讓人驚訝！你也在這裡工作。"
+          },
+          {
+            "id": "m2-2-u4-sp003",
+            "phrase_id": "m2-2-u4-p003",
+            "sentence": "What are you up to these days?",
+            "sentence_chinese": "你最近在忙什麼？"
+          },
+          {
+            "id": "m2-2-u4-sp004",
+            "phrase_id": "m2-2-u4-p004",
+            "sentence": "I hope to go on a working holiday.",
+            "sentence_chinese": "我希望去打工度假。"
+          },
+          {
+            "id": "m2-2-u4-sp005",
+            "phrase_id": "m2-2-u4-p005",
+            "sentence": "What kind of job do you want?",
+            "sentence_chinese": "你想要哪一種工作？"
+          },
+          {
+            "id": "m2-2-u4-sp006",
+            "phrase_id": "m2-2-u4-p006",
+            "sentence": "She hopes to work as a waitress.",
+            "sentence_chinese": "她希望擔任女服務生。"
+          },
+          {
+            "id": "m2-2-u4-sp007",
+            "phrase_id": "m2-2-u4-p007",
+            "sentence": "Please keep practicing with your classmates.",
+            "sentence_chinese": "請持續和同學練習。"
+          },
+          {
+            "id": "m2-2-u4-sp008",
+            "phrase_id": "m2-2-u4-p008",
+            "sentence": "Give me a break! I need to rest.",
+            "sentence_chinese": "饒了我吧！我需要休息。"
+          },
+          {
+            "id": "m2-2-u4-sp009",
+            "phrase_id": "m2-2-u4-p009",
+            "sentence": "No kidding! My cousin can sail a boat.",
+            "sentence_chinese": "不開玩笑的！我的表哥會駕船。"
+          },
+          {
+            "id": "m2-2-u4-sp010",
+            "phrase_id": "m2-2-u4-p010",
+            "sentence": "We want to learn about sea turtles.",
+            "sentence_chinese": "我們想認識海龜。"
+          },
+          {
+            "id": "m2-2-u4-sp011",
+            "phrase_id": "m2-2-u4-p011",
+            "sentence": "Practicing every day helps you make progress.",
+            "sentence_chinese": "每天練習有助於你進步。"
+          },
+          {
+            "id": "m2-2-u4-sp012",
+            "phrase_id": "m2-2-u4-p012",
+            "sentence": "In short, learning English takes time.",
+            "sentence_chinese": "簡而言之，學英文需要時間。"
+          },
+          {
+            "id": "m2-2-u4-sp013",
+            "phrase_id": "m2-2-u4-p013",
+            "sentence": "My cousins enjoy sailing on weekends.",
+            "sentence_chinese": "我的表兄弟週末喜歡駕船航行。"
+          }
+        ],
+        "grammar": [
+          {
+            "id": "m2-2-u4-sg001",
+            "sentence": "My cousin wants to work as a waiter.",
+            "sentence_chinese": "我的表哥想擔任男服務生。"
+          },
+          {
+            "id": "m2-2-u4-sg002",
+            "sentence": "We enjoy learning about different cultures after school.",
+            "sentence_chinese": "我們喜歡放學後認識不同的文化。"
+          },
+          {
+            "id": "m2-2-u4-sg003",
+            "sentence": "It is important to keep the water clean.",
+            "sentence_chinese": "保持水質乾淨很重要。"
+          },
+          {
+            "id": "m2-2-u4-sg004",
+            "sentence": "The farmer asked us to pick some oranges.",
+            "sentence_chinese": "農夫請我們採一些柳橙。"
+          },
+          {
+            "id": "m2-2-u4-sg005",
+            "sentence": "Please remember to bring your lunch tomorrow.",
+            "sentence_chinese": "請記得明天帶午餐。"
+          },
+          {
+            "id": "m2-2-u4-sg006",
+            "sentence": "Watching sea turtles was an amazing experience.",
+            "sentence_chinese": "看海龜是很棒的經驗。"
+          },
+          {
+            "id": "m2-2-u4-sg007",
+            "sentence": "They plan to sail around the island.",
+            "sentence_chinese": "他們計畫駕船繞島航行。"
+          },
+          {
+            "id": "m2-2-u4-sg008",
+            "sentence": "My sister finished cleaning her room before dinner.",
+            "sentence_chinese": "我妹妹晚餐前打掃完她的房間。"
+          },
+          {
+            "id": "m2-2-u4-sg009",
+            "sentence": "The guide told us not to touch the fish.",
+            "sentence_chinese": "導遊告訴我們不要碰那些魚。"
+          },
+          {
+            "id": "m2-2-u4-sg010",
+            "sentence": "I stopped to rest after walking for hours.",
+            "sentence_chinese": "走了幾個小時後，我停下來休息。"
+          },
+          {
+            "id": "m2-2-u4-sg011",
+            "sentence": "Learning a new language takes a lot of time.",
+            "sentence_chinese": "學習新語言需要很多時間。"
+          },
+          {
+            "id": "m2-2-u4-sg012",
+            "sentence": "The workers prepared to leave the factory early.",
+            "sentence_chinese": "工人們準備提早離開工廠。"
+          },
+          {
+            "id": "m2-2-u4-sg013",
+            "sentence": "My cousin is good at telling funny stories.",
+            "sentence_chinese": "我的表姊擅長說有趣的故事。"
+          },
+          {
+            "id": "m2-2-u4-sg014",
+            "sentence": "It was difficult for her to understand him.",
+            "sentence_chinese": "理解他的話對她來說很困難。"
+          },
+          {
+            "id": "m2-2-u4-sg015",
+            "sentence": "The children kept asking questions about the farm.",
+            "sentence_chinese": "孩子們不停地問關於農場的問題。"
+          },
+          {
+            "id": "m2-2-u4-sg016",
+            "sentence": "He forgot to buy fresh vegetables yesterday.",
+            "sentence_chinese": "他昨天忘了買新鮮蔬菜。"
+          },
+          {
+            "id": "m2-2-u4-sg017",
+            "sentence": "We went outside to get some fresh air.",
+            "sentence_chinese": "我們到外面呼吸一些新鮮空氣。"
+          },
+          {
+            "id": "m2-2-u4-sg018",
+            "sentence": "She remembers seeing that fisherman at the beach.",
+            "sentence_chinese": "她記得曾在海灘見過那位漁夫。"
+          },
+          {
+            "id": "m2-2-u4-sg019",
+            "sentence": "To learn about another culture is interesting.",
+            "sentence_chinese": "認識另一種文化很有趣。"
+          },
+          {
+            "id": "m2-2-u4-sg020",
+            "sentence": "Would you mind closing the window for me?",
+            "sentence_chinese": "可以請你幫我關窗嗎？"
+          },
+          {
+            "id": "m2-2-u4-sg021",
+            "sentence": "The boy stopped crying when his mother arrived.",
+            "sentence_chinese": "男孩在媽媽到達時停止哭泣。"
+          },
+          {
+            "id": "m2-2-u4-sg022",
+            "sentence": "Our teacher hopes to visit Japan next year.",
+            "sentence_chinese": "我們的老師希望明年去日本。"
+          },
+          {
+            "id": "m2-2-u4-sg023",
+            "sentence": "You should wash your hands before eating lunch.",
+            "sentence_chinese": "你應該在吃午餐前洗手。"
+          },
+          {
+            "id": "m2-2-u4-sg024",
+            "sentence": "The friendly waitress was happy to help us.",
+            "sentence_chinese": "那位友善的女服務生很樂意幫我們。"
+          },
+          {
+            "id": "m2-2-u4-sg025",
+            "sentence": "We need something to drink after the game.",
+            "sentence_chinese": "比賽後我們需要一些喝的東西。"
+          },
+          {
+            "id": "m2-2-u4-sg026",
+            "sentence": "She practices speaking English with her cousin daily.",
+            "sentence_chinese": "她每天和表姊練習說英文。"
+          },
+          {
+            "id": "m2-2-u4-sg027",
+            "sentence": "It is fun for us to go camping.",
+            "sentence_chinese": "對我們來說，去露營很有趣。"
+          },
+          {
+            "id": "m2-2-u4-sg028",
+            "sentence": "The salesman began to explain the new phone.",
+            "sentence_chinese": "業務員開始介紹那支新手機。"
+          },
+          {
+            "id": "m2-2-u4-sg029",
+            "sentence": "I would love to visit that coral reef.",
+            "sentence_chinese": "我很想去看看那座珊瑚礁。"
+          },
+          {
+            "id": "m2-2-u4-sg030",
+            "sentence": "Working on the farm helped him grow.",
+            "sentence_chinese": "在農場工作幫助他成長。"
+          }
+        ]
+      },
+      "cloze_quiz": [
+        {
+          "id": "m2-2-u4-cq001",
+          "vocab_id": "m2-2-u4-v001",
+          "question": "My aunt has one daughter. That girl is my ___.",
+          "options": [
+            "mother",
+            "cousin",
+            "daughter",
+            "grandmother"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "阿姨的女兒和我是表姊妹，cousin 是堂、表兄弟姊妹。"
+        },
+        {
+          "id": "m2-2-u4-cq002",
+          "vocab_id": "m2-2-u4-v002",
+          "question": "Mia needs money, so she is looking for a ___ at a restaurant.",
+          "options": [
+            "tent",
+            "job",
+            "boat",
+            "river"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "needs money 和餐廳求職是線索；job 表示工作。"
+        },
+        {
+          "id": "m2-2-u4-cq003",
+          "vocab_id": "m2-2-u4-v003",
+          "question": "Eric works ___ a tour guide and shows visitors around the city.",
+          "options": [
+            "as",
+            "of",
+            "onto",
+            "among"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "work as＋職業表示擔任某種工作，as 是以……的身分。"
+        },
+        {
+          "id": "m2-2-u4-cq004",
+          "vocab_id": "m2-2-u4-v004",
+          "question": "The man who brings our food to the table is a ___.",
+          "options": [
+            "waiter",
+            "pilot",
+            "farmer",
+            "fisherman"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "man 和把餐點送到桌邊是線索；waiter 是男服務生。"
+        },
+        {
+          "id": "m2-2-u4-cq005",
+          "vocab_id": "m2-2-u4-v005",
+          "question": "My grandparents ___ in Kaohsiung. Their house is near a park.",
+          "options": [
+            "shout",
+            "swim",
+            "live",
+            "fly"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "後句提到住家位置，live in 表示住在某地。"
+        },
+        {
+          "id": "m2-2-u4-cq006",
+          "vocab_id": "m2-2-u4-v006",
+          "question": "The boy can speak ten languages. That is ___!",
+          "options": [
+            "salty",
+            "amazing",
+            "cloudy",
+            "empty"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "會說十種語言讓人驚訝，amazing 表示非常驚人的。"
+        },
+        {
+          "id": "m2-2-u4-cq007",
+          "vocab_id": "m2-2-u4-v007",
+          "question": "This is my first time working in a hotel, so I have no hotel work ___.",
+          "options": [
+            "air",
+            "beach",
+            "accent",
+            "experience"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "第一次在旅館工作表示沒有相關工作經驗；experience 是經驗。"
+        },
+        {
+          "id": "m2-2-u4-cq008",
+          "vocab_id": "m2-2-u4-v008",
+          "question": "Fish live in water, but people need ___ to breathe.",
+          "options": [
+            "air",
+            "sand",
+            "juice",
+            "wood"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "breathe 是呼吸，人需要空氣 air。"
+        },
+        {
+          "id": "m2-2-u4-cq009",
+          "vocab_id": "m2-2-u4-v009",
+          "question": "These eggs came from our hens this morning. They are very ___.",
+          "options": [
+            "noisy",
+            "angry",
+            "fresh",
+            "deep"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "今早才生的蛋很新鮮；fresh 是新鮮的。"
+        },
+        {
+          "id": "m2-2-u4-cq010",
+          "vocab_id": "m2-2-u4-v010",
+          "question": "The water is so ___ that we can see the stones at the bottom.",
+          "options": [
+            "cloudy",
+            "clear",
+            "dirty",
+            "dark"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "看得見水底石頭，表示水很清澈，應用 clear。"
+        },
+        {
+          "id": "m2-2-u4-cq011",
+          "vocab_id": "m2-2-u4-v011",
+          "question": "We saw many small fish living among the corals of the ___.",
+          "options": [
+            "bus station",
+            "playground",
+            "factory",
+            "coral reef"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "corals 是珊瑚，魚生活在珊瑚礁中；coral reef 是珊瑚礁。"
+        },
+        {
+          "id": "m2-2-u4-cq012",
+          "vocab_id": "m2-2-u4-v012",
+          "question": "The animal has a shell, lives in the ocean, and lays eggs on the sand. It is a ___.",
+          "options": [
+            "dolphin",
+            "whale",
+            "sea turtle",
+            "shark"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "有殼且在沙地產卵的海洋動物是海龜 sea turtle。"
+        },
+        {
+          "id": "m2-2-u4-cq013",
+          "vocab_id": "m2-2-u4-v013",
+          "question": "The children built a sandcastle on the ___ beside the sea.",
+          "options": [
+            "beach",
+            "mountain",
+            "bridge",
+            "roof"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "海邊堆沙堡的地點是沙灘，beach 是海灘。"
+        },
+        {
+          "id": "m2-2-u4-cq014",
+          "vocab_id": "m2-2-u4-v014",
+          "question": "I am very hungry, and I ___ to eat dinner now.",
+          "options": [
+            "sail",
+            "grow",
+            "camp",
+            "want"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "飢餓而想吃晚餐，want 表示想要。"
+        },
+        {
+          "id": "m2-2-u4-cq015",
+          "vocab_id": "m2-2-u4-v015",
+          "question": "You have a high fever. You ___ see a doctor.",
+          "options": [
+            "needn't",
+            "should",
+            "can't",
+            "mustn't"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "發高燒時建議看醫生，should 表示應該；其他選項分別表示禁止、不能、不必。"
+        },
+        {
+          "id": "m2-2-u4-cq016",
+          "vocab_id": "m2-2-u4-v016",
+          "question": "The guests will arrive soon. We need to ___ dinner before they come.",
+          "options": [
+            "drop",
+            "forget",
+            "prepare",
+            "hide"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "客人即將到，應事先準備晚餐；prepare 是準備。"
+        },
+        {
+          "id": "m2-2-u4-cq017",
+          "vocab_id": "m2-2-u4-v017",
+          "question": "The baby is asleep. Please ___ your voice down.",
+          "options": [
+            "draw",
+            "sell",
+            "keep",
+            "plant"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "keep your voice down 表示保持低音量；keep 有保持的意思。"
+        },
+        {
+          "id": "m2-2-u4-cq018",
+          "vocab_id": "m2-2-u4-v018",
+          "question": "To get better at the piano, I ___ for thirty minutes every day.",
+          "options": [
+            "leave",
+            "camp",
+            "practice",
+            "sail"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "每天練琴才能進步，practice 是練習。"
+        },
+        {
+          "id": "m2-2-u4-cq019",
+          "vocab_id": "m2-2-u4-v019",
+          "question": "A: Clean all ten rooms by yourself right now! B: ___ That is too much work!",
+          "options": [
+            "Welcome home!",
+            "Happy birthday!",
+            "Nice to meet you!",
+            "Give me a break!"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "認為工作量太多，說 Give me a break! 表示饒了我吧。"
+        },
+        {
+          "id": "m2-2-u4-cq020",
+          "vocab_id": "m2-2-u4-v020",
+          "question": "A: Did you really catch ten fish today? B: ___ I can show you all ten.",
+          "options": [
+            "No kidding!",
+            "Never mind!",
+            "Of course not!",
+            "Not at all!"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "後句表示能出示十條魚，No kidding! 在此強調沒有開玩笑，確實如此。"
+        },
+        {
+          "id": "m2-2-u4-cq021",
+          "vocab_id": "m2-2-u4-v021",
+          "question": "Water is ___ to all living things. They cannot live without it.",
+          "options": [
+            "boring",
+            "dangerous",
+            "useless",
+            "important"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "沒有水就無法存活，表示水很重要；important 是重要的。"
+        },
+        {
+          "id": "m2-2-u4-cq022",
+          "vocab_id": "m2-2-u4-v022",
+          "question": "I do not know how to cook, but I want to ___ from my mother.",
+          "options": [
+            "fall",
+            "borrow",
+            "hide",
+            "learn"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "目前不會做菜，想向媽媽學習，learn 是學習。"
+        },
+        {
+          "id": "m2-2-u4-cq023",
+          "vocab_id": "m2-2-u4-v023",
+          "question": "Uncle Ben grows rice and raises cows on his ___.",
+          "options": [
+            "balcony",
+            "boat",
+            "farm",
+            "beach"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "種稻與養牛的地方是農場 farm。"
+        },
+        {
+          "id": "m2-2-u4-cq024",
+          "vocab_id": "m2-2-u4-v024",
+          "question": "The man builds houses for a living. He is a construction ___.",
+          "options": [
+            "dancer",
+            "singer",
+            "writer",
+            "worker"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "construction worker 是建築工人；worker 表示工人。"
+        },
+        {
+          "id": "m2-2-u4-cq025",
+          "vocab_id": "m2-2-u4-v025",
+          "question": "The woman who takes our order at this restaurant is a ___.",
+          "options": [
+            "fisherman",
+            "waitress",
+            "farmer",
+            "pilot"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "woman 和在餐廳幫客人點餐是線索；waitress 是女服務生。"
+        },
+        {
+          "id": "m2-2-u4-cq026",
+          "vocab_id": "m2-2-u4-v026",
+          "question": "Hundreds of workers make cars inside that large ___.",
+          "options": [
+            "theater",
+            "factory",
+            "hospital",
+            "library"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "工人製造汽車的地方是工廠 factory。"
+        },
+        {
+          "id": "m2-2-u4-cq027",
+          "vocab_id": "m2-2-u4-v027",
+          "question": "The man at the car store helps customers choose and buy cars. He is a ___.",
+          "options": [
+            "salesman",
+            "fisherman",
+            "dentist",
+            "cook"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "在店裡協助顧客選購汽車的是業務員，salesman 是推銷員或業務員。"
+        },
+        {
+          "id": "m2-2-u4-cq028",
+          "vocab_id": "m2-2-u4-v028",
+          "question": "The ___ takes his boat out every morning to catch fish for a living.",
+          "options": [
+            "fisherman",
+            "waiter",
+            "driver",
+            "dentist"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "以出海捕魚維生的是漁夫 fisherman。"
+        },
+        {
+          "id": "m2-2-u4-cq029",
+          "vocab_id": "m2-2-u4-v029",
+          "question": "Our new neighbor is ___. She always smiles and welcomes us warmly.",
+          "options": [
+            "rude",
+            "unhappy",
+            "friendly",
+            "angry"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "微笑並熱情歡迎別人，表示待人友善，friendly 是友善的。"
+        },
+        {
+          "id": "m2-2-u4-cq030",
+          "vocab_id": "m2-2-u4-v030",
+          "question": "Food, festivals, and music can teach us about a country's ___.",
+          "options": [
+            "temperature",
+            "size",
+            "weather",
+            "culture"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "食物、節慶和音樂屬於文化，culture 是文化。"
+        },
+        {
+          "id": "m2-2-u4-cq031",
+          "vocab_id": "m2-2-u4-v031",
+          "question": "I could read only ten words before, but now I can read a hundred. I have made ___.",
+          "options": [
+            "noise",
+            "progress",
+            "trouble",
+            "dinner"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "從十個字增加到一百個字表示有進步，make progress 是進步。"
+        },
+        {
+          "id": "m2-2-u4-cq032",
+          "vocab_id": "m2-2-u4-v032",
+          "question": "Plants need sunlight and water to ___ taller.",
+          "options": [
+            "leave",
+            "camp",
+            "grow",
+            "sail"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "植物需要陽光與水才能長高，grow 是成長。"
+        },
+        {
+          "id": "m2-2-u4-cq033",
+          "vocab_id": "m2-2-u4-v033",
+          "question": "Please speak more slowly. I cannot ___ what you are saying.",
+          "options": [
+            "plant",
+            "understand",
+            "wash",
+            "carry"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "請人慢慢說是因為聽不懂，understand 表示了解。"
+        },
+        {
+          "id": "m2-2-u4-cq034",
+          "vocab_id": "m2-2-u4-v034",
+          "question": "He speaks English with an Australian ___.",
+          "options": [
+            "accent",
+            "job",
+            "farm",
+            "factory"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "說英文時帶有澳洲口音，accent 是口音。"
+        },
+        {
+          "id": "m2-2-u4-cq035",
+          "vocab_id": "m2-2-u4-v035",
+          "question": "No one answered the phone, so I decided to ___ a message.",
+          "options": [
+            "camp",
+            "leave",
+            "sail",
+            "grow"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "leave a message 表示留言；leave 在此是留下。"
+        },
+        {
+          "id": "m2-2-u4-cq036",
+          "vocab_id": "m2-2-u4-v036",
+          "question": "I want to stand on a board and ride the ocean waves. Please teach me to ___.",
+          "options": [
+            "surf",
+            "ski",
+            "hike",
+            "camp"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "站在板上乘著海浪前進是衝浪，surf 是衝浪。"
+        },
+        {
+          "id": "m2-2-u4-cq037",
+          "vocab_id": "m2-2-u4-v037",
+          "question": "When there is enough wind, we can ___ this small boat across the lake.",
+          "options": [
+            "camp",
+            "hike",
+            "swim",
+            "sail"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "有風時操作帆船航行，sail 表示駕船或航行。"
+        },
+        {
+          "id": "m2-2-u4-cq038",
+          "vocab_id": "m2-2-u4-v038",
+          "question": "We plan to sleep in a tent and ___ in the mountains tonight.",
+          "options": [
+            "skate",
+            "camp",
+            "surf",
+            "sail"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "在山裡睡帳篷表示露營，camp 是露營。"
+        },
+        {
+          "id": "m2-2-u4-cq039",
+          "vocab_id": "m2-2-u4-v039",
+          "question": "The movie will ___ at seven, so please be in your seat before then.",
+          "options": [
+            "grow",
+            "sail",
+            "begin",
+            "camp"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "要在七點前就座，因為電影七點開始，begin 是開始。"
+        },
+        {
+          "id": "m2-2-u4-cq040",
+          "vocab_id": "m2-2-u4-v040",
+          "question": "The movie started at seven and will ___ at nine. Then we can go home.",
+          "options": [
+            "end",
+            "begin",
+            "grow",
+            "sail"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "電影七點開始、九點結束，之後能回家，end 是結束。"
+        },
+        {
+          "id": "m2-2-u4-cq041",
+          "vocab_id": "m2-2-u4-v041",
+          "question": "I ___ to see you again soon. I really enjoyed our time together.",
+          "options": [
+            "forget",
+            "refuse",
+            "hate",
+            "hope"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "相處愉快，所以希望很快再見面，hope 是希望。"
+        },
+        {
+          "id": "m2-2-u4-cq042",
+          "vocab_id": "m2-2-u4-v042",
+          "question": "Amy lost her favorite toy and cried. She was very ___.",
+          "options": [
+            "unhappy",
+            "excited",
+            "proud",
+            "glad"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "失去心愛的玩具而哭泣，表示不開心；unhappy 是不快樂的。"
+        }
+      ]
+    }
+  }
+}
