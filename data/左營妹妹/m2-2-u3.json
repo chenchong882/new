@@ -1,0 +1,2335 @@
+{
+  "units": {
+    "m2-2-u3": {
+      "title": "U3",
+      "vocab": [
+        {
+          "id": "m2-2-u3-v001",
+          "word": "king",
+          "part_of_speech": "名",
+          "chinese": "國王",
+          "sentence": "The king was talking to a little boy.",
+          "sentence_chinese": "國王當時正和一個小男孩說話。"
+        },
+        {
+          "id": "m2-2-u3-v002",
+          "word": "toad",
+          "part_of_speech": "名",
+          "chinese": "蟾蜍",
+          "sentence": "The toad was sitting beside the hole.",
+          "sentence_chinese": "蟾蜍當時正坐在洞旁。"
+        },
+        {
+          "id": "m2-2-u3-v003",
+          "word": "way",
+          "part_of_speech": "名",
+          "chinese": "路；路線",
+          "sentence": "We saw a fox on our way home.",
+          "sentence_chinese": "我們在回家的路上看到一隻狐狸。"
+        },
+        {
+          "id": "m2-2-u3-v004",
+          "word": "wet",
+          "part_of_speech": "形",
+          "chinese": "溼的",
+          "sentence": "My shoes were wet after I crossed the river.",
+          "sentence_chinese": "我過河後，鞋子都溼了。"
+        },
+        {
+          "id": "m2-2-u3-v005",
+          "word": "mud",
+          "part_of_speech": "名",
+          "chinese": "泥土；泥巴",
+          "sentence": "The children were playing in the mud then.",
+          "sentence_chinese": "孩子們當時正在泥巴裡玩。"
+        },
+        {
+          "id": "m2-2-u3-v006",
+          "word": "suddenly",
+          "part_of_speech": "副",
+          "chinese": "突然地",
+          "sentence": "Suddenly, a snake fell out of the tree.",
+          "sentence_chinese": "突然，一條蛇從樹上掉了下來。"
+        },
+        {
+          "id": "m2-2-u3-v007",
+          "word": "deep",
+          "part_of_speech": "形",
+          "chinese": "深的",
+          "sentence": "The hole was deep, so we stayed away.",
+          "sentence_chinese": "那個洞很深，所以我們離得遠遠的。"
+        },
+        {
+          "id": "m2-2-u3-v008",
+          "word": "hole",
+          "part_of_speech": "名",
+          "chinese": "洞",
+          "sentence": "A rat was hiding in the hole then.",
+          "sentence_chinese": "一隻老鼠當時正躲在洞裡。"
+        },
+        {
+          "id": "m2-2-u3-v009",
+          "word": "cry",
+          "part_of_speech": "動",
+          "chinese": "哭；哭喊",
+          "sentence": "The baby was crying when her mother arrived.",
+          "sentence_chinese": "媽媽到達時，寶寶正在哭。"
+        },
+        {
+          "id": "m2-2-u3-v010",
+          "word": "go by",
+          "part_of_speech": "片",
+          "chinese": "經過",
+          "sentence": "A bus went by while we were talking.",
+          "sentence_chinese": "我們說話時，一輛公車經過。"
+        },
+        {
+          "id": "m2-2-u3-v011",
+          "word": "beside",
+          "part_of_speech": "介",
+          "chinese": "在……旁邊",
+          "sentence": "I was sitting beside my sister then.",
+          "sentence_chinese": "我當時正坐在妹妹旁邊。"
+        },
+        {
+          "id": "m2-2-u3-v012",
+          "word": "before",
+          "part_of_speech": "連／介",
+          "chinese": "在……之前",
+          "sentence": "I washed my hands before I ate dinner.",
+          "sentence_chinese": "我吃晚餐前先洗了手。"
+        },
+        {
+          "id": "m2-2-u3-v013",
+          "word": "difficult",
+          "part_of_speech": "形",
+          "chinese": "困難的",
+          "sentence": "The game was difficult, but we kept trying.",
+          "sentence_chinese": "這個遊戲很難，但我們繼續嘗試。"
+        },
+        {
+          "id": "m2-2-u3-v014",
+          "word": "over and over",
+          "part_of_speech": "片",
+          "chinese": "一遍又一遍",
+          "sentence": "He was reading the message over and over.",
+          "sentence_chinese": "他當時正一遍又一遍地讀那則訊息。"
+        },
+        {
+          "id": "m2-2-u3-v015",
+          "word": "butterfly",
+          "part_of_speech": "名",
+          "chinese": "蝴蝶",
+          "sentence": "A butterfly was flying over the flowers.",
+          "sentence_chinese": "一隻蝴蝶當時正在花朵上方飛舞。"
+        },
+        {
+          "id": "m2-2-u3-v016",
+          "word": "laugh",
+          "part_of_speech": "動",
+          "chinese": "笑；大笑",
+          "sentence": "The children were laughing when I walked in.",
+          "sentence_chinese": "我走進去時，孩子們正在大笑。"
+        },
+        {
+          "id": "m2-2-u3-v017",
+          "word": "possible",
+          "part_of_speech": "形",
+          "chinese": "可能的",
+          "sentence": "It was possible to finish the work before dinner.",
+          "sentence_chinese": "晚餐前完成工作是有可能的。"
+        },
+        {
+          "id": "m2-2-u3-v018",
+          "word": "pass by",
+          "part_of_speech": "片",
+          "chinese": "經過",
+          "sentence": "We passed by the park at half past five.",
+          "sentence_chinese": "我們在五點半經過公園。"
+        },
+        {
+          "id": "m2-2-u3-v019",
+          "word": "climb",
+          "part_of_speech": "動",
+          "chinese": "攀爬",
+          "sentence": "The monkey was climbing the tree then.",
+          "sentence_chinese": "猴子當時正在爬樹。"
+        },
+        {
+          "id": "m2-2-u3-v020",
+          "word": "bottom",
+          "part_of_speech": "名",
+          "chinese": "底部",
+          "sentence": "The coin fell to the bottom of the hole.",
+          "sentence_chinese": "硬幣掉到了洞底。"
+        },
+        {
+          "id": "m2-2-u3-v021",
+          "word": "die",
+          "part_of_speech": "動",
+          "chinese": "死亡",
+          "sentence": "The flower died before we came home.",
+          "sentence_chinese": "我們回家前，那朵花就枯死了。"
+        },
+        {
+          "id": "m2-2-u3-v022",
+          "word": "tired",
+          "part_of_speech": "形",
+          "chinese": "疲倦的",
+          "sentence": "I was tired after I climbed the mountain.",
+          "sentence_chinese": "爬山後，我很累。"
+        },
+        {
+          "id": "m2-2-u3-v023",
+          "word": "helpless",
+          "part_of_speech": "形",
+          "chinese": "無助的",
+          "sentence": "The lost boy felt helpless and cried.",
+          "sentence_chinese": "迷路的男孩感到無助，哭了起來。"
+        },
+        {
+          "id": "m2-2-u3-v024",
+          "word": "finally",
+          "part_of_speech": "副",
+          "chinese": "最後；終於",
+          "sentence": "We finally arrived at a quarter to six.",
+          "sentence_chinese": "我們終於在五點四十五分到達。"
+        },
+        {
+          "id": "m2-2-u3-v025",
+          "word": "arrive",
+          "part_of_speech": "動",
+          "chinese": "到達",
+          "sentence": "Dad arrived while we were having dinner.",
+          "sentence_chinese": "爸爸到達時，我們正在吃晚餐。"
+        },
+        {
+          "id": "m2-2-u3-v026",
+          "word": "in time",
+          "part_of_speech": "片",
+          "chinese": "及時",
+          "sentence": "The girl caught the ball in time.",
+          "sentence_chinese": "女孩及時接住了球。"
+        },
+        {
+          "id": "m2-2-u3-v027",
+          "word": "surprised",
+          "part_of_speech": "形",
+          "chinese": "感到驚訝的",
+          "sentence": "I was surprised when I heard the news.",
+          "sentence_chinese": "聽到這個消息時，我很驚訝。"
+        },
+        {
+          "id": "m2-2-u3-v028",
+          "word": "snake",
+          "part_of_speech": "名",
+          "chinese": "蛇",
+          "sentence": "A snake was sleeping under the tree.",
+          "sentence_chinese": "一條蛇當時正在樹下睡覺。"
+        },
+        {
+          "id": "m2-2-u3-v029",
+          "word": "type",
+          "part_of_speech": "動",
+          "chinese": "打字",
+          "sentence": "Mom was typing a message at nine last night.",
+          "sentence_chinese": "媽媽昨晚九點正在打訊息。"
+        },
+        {
+          "id": "m2-2-u3-v030",
+          "word": "message",
+          "part_of_speech": "名",
+          "chinese": "訊息",
+          "sentence": "I read your message before I went out.",
+          "sentence_chinese": "我出門前讀了你的訊息。"
+        },
+        {
+          "id": "m2-2-u3-v031",
+          "word": "cellphone",
+          "part_of_speech": "名",
+          "chinese": "手機",
+          "sentence": "My cellphone rang while I was studying.",
+          "sentence_chinese": "我讀書時，手機響了。"
+        },
+        {
+          "id": "m2-2-u3-v032",
+          "word": "deaf",
+          "part_of_speech": "形",
+          "chinese": "聾的；聽不見的",
+          "sentence": "The deaf boy was reading beside the window.",
+          "sentence_chinese": "那位聽不見的男孩當時正在窗邊看書。"
+        },
+        {
+          "id": "m2-2-u3-v033",
+          "word": "hear",
+          "part_of_speech": "動",
+          "chinese": "聽見",
+          "sentence": "I heard a cry while I was walking home.",
+          "sentence_chinese": "我走路回家時聽到一聲哭喊。"
+        },
+        {
+          "id": "m2-2-u3-v034",
+          "word": "cheer...on",
+          "part_of_speech": "片",
+          "chinese": "為……歡呼；鼓勵……",
+          "sentence": "We were cheering our friends on at the game.",
+          "sentence_chinese": "比賽時，我們正在為朋友加油。"
+        },
+        {
+          "id": "m2-2-u3-v035",
+          "word": "bat",
+          "part_of_speech": "名",
+          "chinese": "蝙蝠",
+          "sentence": "A bat was flying above the house then.",
+          "sentence_chinese": "一隻蝙蝠當時正在房子上方飛。"
+        },
+        {
+          "id": "m2-2-u3-v036",
+          "word": "fox",
+          "part_of_speech": "名",
+          "chinese": "狐狸",
+          "sentence": "The fox ran away when it saw us.",
+          "sentence_chinese": "狐狸看到我們時就跑走了。"
+        },
+        {
+          "id": "m2-2-u3-v037",
+          "word": "rat",
+          "part_of_speech": "名",
+          "chinese": "老鼠",
+          "sentence": "A rat was eating beside the door.",
+          "sentence_chinese": "一隻老鼠當時正在門旁吃東西。"
+        },
+        {
+          "id": "m2-2-u3-v038",
+          "word": "hen",
+          "part_of_speech": "名",
+          "chinese": "母雞",
+          "sentence": "The hen was looking for food at seven.",
+          "sentence_chinese": "母雞七點時正在找食物。"
+        }
+      ],
+      "phrases": [
+        {
+          "id": "m2-2-u3-p001",
+          "phrase": "was/were going to...",
+          "chinese": "（過去）正／將要……",
+          "sentence": "We were going to the park at that time.",
+          "sentence_chinese": "我們那時正要去公園。"
+        },
+        {
+          "id": "m2-2-u3-p002",
+          "phrase": "on the/所有格 + way (+ to + 地方)",
+          "chinese": "在（去……的）路上／途中",
+          "sentence": "I met my friend on my way home.",
+          "sentence_chinese": "我在回家途中遇見朋友。"
+        },
+        {
+          "id": "m2-2-u3-p003",
+          "phrase": "be full of... / be filled with...",
+          "chinese": "充滿……",
+          "sentence": "The room was full of flowers that day.",
+          "sentence_chinese": "那天房間裡滿是花。"
+        },
+        {
+          "id": "m2-2-u3-p004",
+          "phrase": "take selfies / a selfie",
+          "chinese": "自拍",
+          "sentence": "The women were taking selfies in the garden then.",
+          "sentence_chinese": "那些女士當時正在花園裡自拍。"
+        },
+        {
+          "id": "m2-2-u3-p005",
+          "phrase": "fall into...",
+          "chinese": "掉進……",
+          "sentence": "The boy fell into a hole while he was running.",
+          "sentence_chinese": "男孩跑步時掉進了洞裡。"
+        },
+        {
+          "id": "m2-2-u3-p006",
+          "phrase": "cry for help",
+          "chinese": "哭喊求救；大聲求救",
+          "sentence": "The little boy was crying for help last night.",
+          "sentence_chinese": "那個小男孩昨晚正在大聲求救。"
+        },
+        {
+          "id": "m2-2-u3-p007",
+          "phrase": "go/pass by = go past",
+          "chinese": "經過",
+          "sentence": "They went past the restaurant after school yesterday.",
+          "sentence_chinese": "他們昨天放學後經過那間餐廳。"
+        },
+        {
+          "id": "m2-2-u3-p008",
+          "phrase": "get to + 地方",
+          "chinese": "到達……",
+          "sentence": "When we got to the park, we saw rabbits.",
+          "sentence_chinese": "我們到公園時，看見了兔子。"
+        },
+        {
+          "id": "m2-2-u3-p009",
+          "phrase": "give up",
+          "chinese": "放棄",
+          "sentence": "He did not give up after he fell.",
+          "sentence_chinese": "他跌倒後沒有放棄。"
+        },
+        {
+          "id": "m2-2-u3-p010",
+          "phrase": "jump/go away",
+          "chinese": "跳走／離開",
+          "sentence": "The frog jumped away when we came near.",
+          "sentence_chinese": "我們靠近時，青蛙跳走了。"
+        },
+        {
+          "id": "m2-2-u3-p011",
+          "phrase": "over and over again = over and over = again and again",
+          "chinese": "一遍又一遍",
+          "sentence": "She was reading the story over and over again.",
+          "sentence_chinese": "她當時正一遍又一遍地讀那個故事。"
+        },
+        {
+          "id": "m2-2-u3-p012",
+          "phrase": "fly by/away",
+          "chinese": "飛過／飛走",
+          "sentence": "The butterflies flew away when the boy arrived.",
+          "sentence_chinese": "男孩到達時，蝴蝶飛走了。"
+        },
+        {
+          "id": "m2-2-u3-p013",
+          "phrase": "fall (down) to...",
+          "chinese": "掉到……",
+          "sentence": "The poor old man fell to the bottom of the hole.",
+          "sentence_chinese": "那位可憐的老人跌到了洞底。"
+        },
+        {
+          "id": "m2-2-u3-p014",
+          "phrase": "at first",
+          "chinese": "起初；一開始",
+          "sentence": "At first, I did not believe him.",
+          "sentence_chinese": "起初，我不相信他。"
+        },
+        {
+          "id": "m2-2-u3-p015",
+          "phrase": "listen to + 名詞／代名詞",
+          "chinese": "聆聽……",
+          "sentence": "We were listening to the teacher at that time.",
+          "sentence_chinese": "我們當時正在聽老師說話。"
+        },
+        {
+          "id": "m2-2-u3-p016",
+          "phrase": "many times",
+          "chinese": "很多次",
+          "sentence": "Jeremy saw the movie many times last year.",
+          "sentence_chinese": "Jeremy 去年看了那部電影很多次。"
+        },
+        {
+          "id": "m2-2-u3-p017",
+          "phrase": "give it another try",
+          "chinese": "再試一次",
+          "sentence": "She gave it another try before she went home.",
+          "sentence_chinese": "她回家前又試了一次。"
+        },
+        {
+          "id": "m2-2-u3-p018",
+          "phrase": "jump out of...",
+          "chinese": "跳出……",
+          "sentence": "The rabbit jumped out of the box then.",
+          "sentence_chinese": "兔子當時跳出了箱子。"
+        },
+        {
+          "id": "m2-2-u3-p019",
+          "phrase": "arrive at + 小地方 / in + 大地方",
+          "chinese": "到達……",
+          "sentence": "We arrived at Nancy's home at six.",
+          "sentence_chinese": "我們六點到達 Nancy 家。"
+        },
+        {
+          "id": "m2-2-u3-p020",
+          "phrase": "in time",
+          "chinese": "及時",
+          "sentence": "The spider saved the butterfly in time.",
+          "sentence_chinese": "蜘蛛及時救了蝴蝶。"
+        },
+        {
+          "id": "m2-2-u3-p021",
+          "phrase": "all the other + 複數可數名詞",
+          "chinese": "所有其他的……",
+          "sentence": "All the other students were reading at that time.",
+          "sentence_chinese": "所有其他學生當時都在看書。"
+        },
+        {
+          "id": "m2-2-u3-p022",
+          "phrase": "get out of...",
+          "chinese": "離開……",
+          "sentence": "They got out of the house before dinner.",
+          "sentence_chinese": "他們晚餐前離開了房子。"
+        },
+        {
+          "id": "m2-2-u3-p023",
+          "phrase": "on + 所有格 / the + cellphone",
+          "chinese": "在（……的）手機上；用手機",
+          "sentence": "My dad was talking on his cellphone then.",
+          "sentence_chinese": "爸爸當時正在用手機說話。"
+        },
+        {
+          "id": "m2-2-u3-p024",
+          "phrase": "cheer + 人 + on",
+          "chinese": "鼓勵……；為……加油",
+          "sentence": "We were cheering her on when she fell.",
+          "sentence_chinese": "她跌倒時，我們正在為她加油。"
+        },
+        {
+          "id": "m2-2-u3-p025",
+          "phrase": "because of + 名詞",
+          "chinese": "因為……",
+          "sentence": "We did not go out because of the rain.",
+          "sentence_chinese": "我們因為下雨而沒有出門。"
+        }
+      ],
+      "grammar": {
+        "tips": [
+          {
+            "label": "過去正在做",
+            "text": "過去某個時刻正在做的事：主詞 + was/were + V-ing。I/he/she/it 用 was；you/we/they 用 were。"
+          },
+          {
+            "label": "否定與問句",
+            "text": "否定在 was/were 後加 not；問句把 was/were 放到主詞前。Were you typing? → Yes, I was."
+          },
+          {
+            "label": "先後順序",
+            "text": "before = 在……之前；after = 在……之後。先確定哪件事先發生，再選連接詞。"
+          },
+          {
+            "label": "正在做時發生另一件事",
+            "text": "I was reading when the phone rang. 正在看書是背景，電話響是發生的事件。"
+          },
+          {
+            "label": "兩件事同時進行",
+            "text": "While I was typing, Mom was cooking. while 引出的活動進行時，另一個活動也正在進行。"
+          },
+          {
+            "label": "時間這樣說",
+            "text": "7:20 = twenty past seven；7:50 = ten to eight；7:15 = a quarter past seven；7:30 = half past seven。"
+          }
+        ],
+        "notes": [
+          {
+            "title": "過去進行式：肯定、否定",
+            "rule": "主詞 + was/were (+ not) + V-ing",
+            "description": "描述過去某時刻正在做的事。I/he/she/it 與單數主詞用 was；you/we/they 與複數主詞用 were。",
+            "examples": [
+              "The ant was laughing at the spider then.（螞蟻當時正在嘲笑蜘蛛。）",
+              "They were not picking flowers at that time.（他們那時沒有在摘花。）"
+            ]
+          },
+          {
+            "title": "過去進行式：問句與簡答",
+            "rule": "Was/Were + 主詞 + V-ing...? / What + was/were + 主詞 + doing...?",
+            "description": "Yes/No 問句把 was/were 移到主詞前；簡答保留 was/were。疑問詞問句也要注意倒裝。",
+            "examples": [
+              "Were the children running at seven yesterday morning?（孩子們昨天早上七點正在跑步嗎？）",
+              "Yes, they were. / No, they were not.",
+              "What was your brother doing at that time?（你哥哥那時正在做什麼？）"
+            ]
+          },
+          {
+            "title": "when、before、after 與事件順序",
+            "rule": "When/Before/After + 主詞 + 動詞, 主詞 + 動詞.",
+            "description": "when 表示當……時；before 表示在……之前；after 表示在……之後。子句也可放在後面，通常不加逗號。before/after 後可接完整子句，或在語意主詞適當時接 V-ing。",
+            "examples": [
+              "Before Ben ate dinner, he washed his hands.（Ben 吃晚餐前先洗手。）",
+              "After washing his hands, Ben ate dinner.（Ben 洗手後吃晚餐。）"
+            ]
+          },
+          {
+            "title": "when：進行中的背景與插入事件",
+            "rule": "主詞 + was/were + V-ing + when + 主詞 + 過去式",
+            "description": "用過去進行式描述當時持續中的活動，以過去簡單式描述發生的事件。不可把 when 一律視為只能接某一時態。",
+            "examples": [
+              "The girls were dancing when I arrived at the party.（我到派對時，女孩們正在跳舞。）"
+            ]
+          },
+          {
+            "title": "while：同時進行或活動期間發生事件",
+            "rule": "While + 主詞 + was/were + V-ing, 主詞 + 過去式 / was/were + V-ing",
+            "description": "本課用 while 子句描述持續中的活動；另一件事可為突然發生的事件，也可為同時進行的活動。需依語境判斷，不將所有 while 句都機械套成兩個進行式。",
+            "examples": [
+              "Tina went by while David was buying chocolate.（David 買巧克力時，Tina 經過。）",
+              "While Mr. Lin was picking fruit, Mrs. Lin was planting a tree.（林先生摘水果時，林太太正在種樹。）"
+            ]
+          },
+          {
+            "title": "時間：past／after、to、quarter、half",
+            "rule": "分鐘 + past/after + 當下鐘點；剩餘分鐘 + to + 下一個鐘點",
+            "description": "1–30 分可用 past/after；31–59 分常改用 to，分鐘以 60 減原分鐘，鐘點加 1。a quarter = 15 分鐘；half past = ……點半。",
+            "examples": [
+              "2:10 = ten past two / ten after two",
+              "4:50 = ten to five",
+              "1:15 = a quarter past one",
+              "6:45 = a quarter to seven",
+              "3:30 = half past three"
+            ]
+          },
+          {
+            "title": "V-ing 的常見變化",
+            "rule": "一般加 -ing；不發音 e 結尾先去 e；部分短母音 + 單一子音結尾字需重複子音；ie 改 y 再加 -ing。",
+            "description": "本課常見：type → typing、climb → climbing、run → running、sit → sitting、die → dying。不能把過去式直接放在 was/were 後當成進行式。",
+            "examples": [
+              "The boy was typing a message then.（男孩當時正在打訊息。）",
+              "The hen was sitting beside the tree.（母雞當時正坐在樹旁。）"
+            ]
+          },
+          {
+            "title": "before/after 後接子句或 V-ing",
+            "rule": "before/after + 主詞 + 動詞；before/after + V-ing",
+            "description": "I ate before I left. 的 before 後是完整子句。I ate before leaving. 的 leaving 沒有另寫主詞，通常由主句的 I 做這個動作。若兩個動作主詞不同，保留完整子句，避免誤會。",
+            "examples": [
+              "After reading the message, I called Dad.（讀完訊息後，我打電話給爸爸。）",
+              "I closed the door before the baby fell asleep.（寶寶睡著前，我關上門。）"
+            ]
+          },
+          {
+            "title": "時間連接詞不是時態開關",
+            "rule": "先看事件的時間與進行狀態，再選動詞。",
+            "description": "when 可以連接過去事件，也可出現在現在的習慣句。while 常引出持續中的背景，但不代表兩邊一定都要用進行式。was happy、were tired 是 be + 形容詞，並不是過去進行式。",
+            "examples": [
+              "When I heard the news, I was surprised.（我聽到消息時很驚訝。）",
+              "While I was climbing, a bird flew by.（我攀爬時，一隻鳥飛過。）"
+            ]
+          },
+          {
+            "title": "going to 後面的詞決定意思",
+            "rule": "was/were going to + 地方；was/were going to + 原形動詞",
+            "description": "接地方時，表示當時正前往某地；接原形動詞時，表示當時打算做某事。兩種句型不要混在一起。",
+            "examples": [
+              "We were going to the park then.（我們當時正前往公園。）",
+              "We were going to play in the park.（我們當時打算在公園玩。）"
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "id": "m2-2-u3-q001",
+            "question": "At eight last night, I ___ typing a message to my cousin.",
+            "options": [
+              "A. were",
+              "B. was",
+              "C. am",
+              "D. be"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "at eight last night 指過去的特定時刻；主詞 I 用 was，搭配 typing 表示當時正在打字。"
+          },
+          {
+            "id": "m2-2-u3-q002",
+            "question": "The children ___ climbing a tree when Grandma called them.",
+            "options": [
+              "A. was",
+              "B. is",
+              "C. were",
+              "D. be"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "climbing 前需要過去式 be 動詞；The children 是複數，所以用 were。"
+          },
+          {
+            "id": "m2-2-u3-q003",
+            "question": "At six yesterday morning, the hen ___ under a tree.",
+            "options": [
+              "A. were sleeping",
+              "B. was sleeping",
+              "C. is sleeping",
+              "D. sleeping"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "at six yesterday morning 指過去某時刻正在進行的活動；the hen 是單數，用 was sleeping。"
+          },
+          {
+            "id": "m2-2-u3-q004",
+            "question": "A rat ___ across the kitchen when I turned on the light.",
+            "options": [
+              "A. were running",
+              "B. was running",
+              "C. is running",
+              "D. running"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "turned on 是過去事件；老鼠當時正在跑，且 A rat 是單數，用 was running。"
+          },
+          {
+            "id": "m2-2-u3-q005",
+            "question": "Mom did not hear the doorbell because she ___ on her cellphone at that time.",
+            "options": [
+              "A. were talking",
+              "B. is talking",
+              "C. was talking",
+              "D. talking"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "did not hear 和 at that time 表示過去情境；she 搭配 was talking，說明當時正在講電話。"
+          },
+          {
+            "id": "m2-2-u3-q006",
+            "question": "A: Were the boys playing in the mud then? B: No, they ___. They were inside.",
+            "options": [
+              "A. wasn’t",
+              "B. aren’t",
+              "C. didn’t",
+              "D. weren’t"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "問句使用 Were，主詞為 they，否定簡答用 weren’t；不能改用 didn’t。"
+          },
+          {
+            "id": "m2-2-u3-q007",
+            "question": "Dad ___ watching the game at nine last night. He was washing the dishes instead.",
+            "options": [
+              "A. weren’t",
+              "B. isn’t",
+              "C. wasn’t",
+              "D. doesn’t"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "instead 表示爸爸當時在洗碗而沒有看比賽；Dad 是單數，否定進行式用 wasn’t watching。"
+          },
+          {
+            "id": "m2-2-u3-q008",
+            "question": "The foxes ___ looking for food at midnight yesterday.",
+            "options": [
+              "A. was",
+              "B. are",
+              "C. is",
+              "D. were"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "at midnight yesterday 指過去某時刻；The foxes 是複數，用 were looking。"
+          },
+          {
+            "id": "m2-2-u3-q009",
+            "question": "A: ___ your brother taking a selfie when you found him? B: Yes, he was.",
+            "options": [
+              "A. Were",
+              "B. Did",
+              "C. Was",
+              "D. Does"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "過去進行式問句以 Was/Were 開頭；your brother 是單數，且答句為 he was，所以用 Was。"
+          },
+          {
+            "id": "m2-2-u3-q010",
+            "question": "A: ___ the butterflies flying over the garden then? B: Yes, they were.",
+            "options": [
+              "A. Was",
+              "B. Were",
+              "C. Did",
+              "D. Do"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "the butterflies 是複數；過去進行式問句用 Were + 主詞 + V-ing。"
+          },
+          {
+            "id": "m2-2-u3-q011",
+            "question": "A: What ___ you doing when the king arrived? B: I was cleaning the floor.",
+            "options": [
+              "A. was",
+              "B. did",
+              "C. are",
+              "D. were"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "What were you doing...? 問過去正在做什麼；問句主詞 you 用 were，即使回答時 I 用 was。"
+          },
+          {
+            "id": "m2-2-u3-q012",
+            "question": "A: ___ was the little girl doing beside the hole? B: She was crying for help.",
+            "options": [
+              "A. Where",
+              "B. When",
+              "C. Why",
+              "D. What"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "答句 crying for help 說明正在做的活動，因此用 What 詢問做什麼，而非地點、時間或原因。"
+          },
+          {
+            "id": "m2-2-u3-q013",
+            "question": "A: Where were you sitting during the show? B: I ___ beside my sister.",
+            "options": [
+              "A. were sitting",
+              "B. am sitting",
+              "C. sitting",
+              "D. was sitting"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "問句 were you sitting 指過去；回答主詞改為 I，所以用 was sitting。"
+          },
+          {
+            "id": "m2-2-u3-q014",
+            "question": "A: Was the deaf boy reading at that time? B: Yes, he ___.",
+            "options": [
+              "A. was",
+              "B. were",
+              "C. did",
+              "D. is"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "Was 開頭的進行式問句以 was 簡答；he 是單數，不能用 were 或 did。"
+          },
+          {
+            "id": "m2-2-u3-q015",
+            "question": "A: Were you listening to the teacher then, Ben? B: Yes, I ___.",
+            "options": [
+              "A. were",
+              "B. was",
+              "C. am",
+              "D. did"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "問句的 you 用 were；Ben 以 I 回答時，過去式 be 動詞要改為 was。"
+          },
+          {
+            "id": "m2-2-u3-q016",
+            "question": "A: Were you and May cheering the team on? B: Yes, we ___.",
+            "options": [
+              "A. were",
+              "B. was",
+              "C. are",
+              "D. did"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "回答主詞 we 是複數，沿用過去進行式的 be 動詞 were。"
+          },
+          {
+            "id": "m2-2-u3-q017",
+            "question": "At ten last night, my parents were ___ for their missing cellphone.",
+            "options": [
+              "A. look",
+              "B. looking",
+              "C. looked",
+              "D. looks"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "were 後接 V-ing 才構成過去進行式，表示昨晚十點正在找手機。"
+          },
+          {
+            "id": "m2-2-u3-q018",
+            "question": "When the rain started, the children were ___ into the house.",
+            "options": [
+              "A. run",
+              "B. ran",
+              "C. runs",
+              "D. running"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "were 後接 V-ing；run 的進行式為 running，表示孩子當時正在跑進屋裡。"
+          },
+          {
+            "id": "m2-2-u3-q019",
+            "question": "The little boy was ___ a message when the teacher walked in.",
+            "options": [
+              "A. type",
+              "B. typed",
+              "C. typing",
+              "D. types"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "was + V-ing 描述老師走進來時正在做的事；type 去掉不發音的 e 再加 -ing，成為 typing。"
+          },
+          {
+            "id": "m2-2-u3-q020",
+            "question": "At that moment, we ___ laughing at the toad. We were watching it quietly.",
+            "options": [
+              "A. weren’t",
+              "B. wasn’t",
+              "C. isn’t",
+              "D. doesn’t"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "後句 quietly 表示我們安靜觀看而沒有嘲笑牠；we 用 weren’t，組成否定過去進行式。"
+          },
+          {
+            "id": "m2-2-u3-q021",
+            "question": "The tired woman was ___ beside the window at that time.",
+            "options": [
+              "A. sitting",
+              "B. siting",
+              "C. sit",
+              "D. sat"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "過去進行式需要 V-ing；sit 要重複 t 再加 -ing，表示坐著的正確形式是 sitting。"
+          },
+          {
+            "id": "m2-2-u3-q022",
+            "question": "The flower was ___ because it had no water when we found it.",
+            "options": [
+              "A. dieing",
+              "B. die",
+              "C. dying",
+              "D. died"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "was 後用 V-ing；die 的 ie 改成 y 再加 -ing，成為 dying，表示當時正在枯死。"
+          },
+          {
+            "id": "m2-2-u3-q023",
+            "question": "We reached the station at 8:00. The train left at 8:10, so we arrived ___ it left.",
+            "options": [
+              "A. before",
+              "B. after",
+              "C. when",
+              "D. while"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "我們八點到、火車八點十分離開，抵達較早，應用 before 表示在火車離開之前。"
+          },
+          {
+            "id": "m2-2-u3-q024",
+            "question": "The rain stopped at 3:00. We went out at 3:20, so we went out ___ the rain stopped.",
+            "options": [
+              "A. before",
+              "B. when",
+              "C. while",
+              "D. after"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "雨三點停、我們三點二十分才出門；出門較晚，用 after 表示在雨停之後。"
+          },
+          {
+            "id": "m2-2-u3-q025",
+            "question": "After ___ the wet floor, Dad put the mop away.",
+            "options": [
+              "A. clean",
+              "B. cleaned",
+              "C. to clean",
+              "D. cleaning"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "After 後沒有另寫主詞，接 cleaning 這個 V-ing 形式；清理地板和收拖把的人都是 Dad。"
+          },
+          {
+            "id": "m2-2-u3-q026",
+            "question": "Lily read the message before ___ her cellphone into her bag.",
+            "options": [
+              "A. put",
+              "B. putting",
+              "C. puts",
+              "D. to put"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "before 後沒有主詞，接 V-ing；put 要重複 t 再加 -ing，成為 putting。"
+          },
+          {
+            "id": "m2-2-u3-q027",
+            "question": "After the baby ___ asleep last night, Mom turned off the light.",
+            "options": [
+              "A. fell",
+              "B. fall",
+              "C. falls",
+              "D. falling"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "After 後已有主詞 the baby，需要完整子句的動詞；last night 和 turned 表示過去，使用 fell。"
+          },
+          {
+            "id": "m2-2-u3-q028",
+            "question": "Before we ___ the muddy field yesterday, we put on our boots.",
+            "options": [
+              "A. enter",
+              "B. enters",
+              "C. entered",
+              "D. entering"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "before 後有主詞 we；yesterday 表示過去，用 entered 完成子句。不能只有 entering 而沒有 be 動詞。"
+          },
+          {
+            "id": "m2-2-u3-q029",
+            "question": "First, Sam finished his homework. Next, he fed the hen. He fed the hen ___ finishing his homework.",
+            "options": [
+              "A. before",
+              "B. after",
+              "C. because",
+              "D. when"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "First 和 Next 明示先完成作業、再餵雞，因此用 after finishing。before 會顛倒順序；when finishing 表示完成當下，不符合這裡的先後線索；because 不能直接接 finishing。"
+          },
+          {
+            "id": "m2-2-u3-q030",
+            "question": "The shop closed at 9:00. We left at 8:40, twenty minutes ___ it closed.",
+            "options": [
+              "A. before",
+              "B. after",
+              "C. when",
+              "D. while"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "八點四十分比九點早二十分鐘；twenty minutes before 表示早二十分鐘。"
+          },
+          {
+            "id": "m2-2-u3-q031",
+            "question": "While I was drawing a butterfly yesterday, my sister ___ a picture of a fox.",
+            "options": [
+              "A. were painting",
+              "B. is painting",
+              "C. painting",
+              "D. was painting"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "while 描述同時進行的活動；主詞 my sister 是單數，過去當時正在畫畫用 was painting。"
+          },
+          {
+            "id": "m2-2-u3-q032",
+            "question": "The children ___ a deep hole when they suddenly heard a loud cry.",
+            "options": [
+              "A. were digging",
+              "B. was digging",
+              "C. are digging",
+              "D. digging"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "heard 是過去發生的事件；The children 是複數，當時正在挖洞用 were digging。"
+          },
+          {
+            "id": "m2-2-u3-q033",
+            "question": "While Grandma was making soup last night, the lights suddenly ___ out.",
+            "options": [
+              "A. go",
+              "B. went",
+              "C. goes",
+              "D. going"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "was making 是過去進行中的背景；突然停電是發生的事件，用過去式 went。"
+          },
+          {
+            "id": "m2-2-u3-q034",
+            "question": "I was taking a selfie when a butterfly suddenly ___ on my hand.",
+            "options": [
+              "A. lands",
+              "B. landed",
+              "C. land",
+              "D. landing"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "was taking 是背景動作；蝴蝶突然停到手上是過去事件，用 landed。"
+          },
+          {
+            "id": "m2-2-u3-q035",
+            "question": "While the bats ___ above the lake, we were watching from a boat.",
+            "options": [
+              "A. were flying",
+              "B. was flying",
+              "C. are flying",
+              "D. flying"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "主句 were watching 表示過去當時在看；the bats 是複數，同時飛行用 were flying。"
+          },
+          {
+            "id": "m2-2-u3-q036",
+            "question": "When I opened the door, the guests ___ for the king inside.",
+            "options": [
+              "A. was waiting",
+              "B. are waiting",
+              "C. waiting",
+              "D. were waiting"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "opened 是過去事件；門打開時賓客已在等候，複數主詞 the guests 用 were waiting。"
+          },
+          {
+            "id": "m2-2-u3-q037",
+            "question": "While I was looking for my keys, Dad ___ them under the sofa.",
+            "options": [
+              "A. find",
+              "B. finds",
+              "C. found",
+              "D. finding"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "was looking 是持續尋找的背景；爸爸找到鑰匙是過去發生的事件，用 found。"
+          },
+          {
+            "id": "m2-2-u3-q038",
+            "question": "When the snake ___ out of the box, I was standing beside the table.",
+            "options": [
+              "A. come",
+              "B. comes",
+              "C. coming",
+              "D. came"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "主句 was standing 表示過去背景；蛇出來是當時發生的事件，使用 come 的過去式 came。"
+          },
+          {
+            "id": "m2-2-u3-q039",
+            "question": "A: Were the girls singing while you were typing? B: No, they ___. They were reading.",
+            "options": [
+              "A. wasn’t",
+              "B. aren’t",
+              "C. weren’t",
+              "D. didn’t"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "while 連接同時進行的活動；女孩們當時在讀書而非唱歌，they 的否定簡答用 weren’t。"
+          },
+          {
+            "id": "m2-2-u3-q040",
+            "question": "Mom ___ the wet clothes while Dad was washing the dishes.",
+            "options": [
+              "A. were hanging",
+              "B. is hanging",
+              "C. was hanging",
+              "D. hanging"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "Dad was washing 表示過去進行中的活動；Mom 同時在晾衣服，單數主詞用 was hanging。"
+          },
+          {
+            "id": "m2-2-u3-q041",
+            "question": "The clock shows 7:20. It is twenty ___ seven.",
+            "options": [
+              "A. past",
+              "B. to",
+              "C. at",
+              "D. on"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "7:20 是七點過二十分，用 twenty past seven；twenty to seven 則是 6:40。"
+          },
+          {
+            "id": "m2-2-u3-q042",
+            "question": "The bus leaves at 8:50, or ten to ___.",
+            "options": [
+              "A. eight",
+              "B. nine",
+              "C. ten",
+              "D. seven"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "8:50 距離九點還有十分鐘；to 後接下一個鐘點 nine。"
+          },
+          {
+            "id": "m2-2-u3-q043",
+            "question": "It is 3:45 now. It is a ___ to four.",
+            "options": [
+              "A. half",
+              "B. third",
+              "C. quarter",
+              "D. minute"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "3:45 距離四點還有十五分鐘；a quarter 表示一刻鐘，也就是十五分鐘。"
+          },
+          {
+            "id": "m2-2-u3-q044",
+            "question": "Dinner is at 6:30, or ___ past six.",
+            "options": [
+              "A. half",
+              "B. a quarter",
+              "C. ten",
+              "D. twenty"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "6:30 是六點過三十分；half 表示半小時，half past six 就是六點半。"
+          },
+          {
+            "id": "m2-2-u3-q045",
+            "question": "The cellphone shows 11:55. It is five ___ twelve.",
+            "options": [
+              "A. past",
+              "B. to",
+              "C. after",
+              "D. at"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "11:55 距離十二點還有五分鐘，用 five to twelve。past/after twelve 表示十二點過後。"
+          },
+          {
+            "id": "m2-2-u3-q046",
+            "question": "The game starts at 1:15, or a quarter ___ one.",
+            "options": [
+              "A. past",
+              "B. to",
+              "C. on",
+              "D. at"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "1:15 是一點過十五分，用 a quarter past one；a quarter to one 是 12:45。"
+          },
+          {
+            "id": "m2-2-u3-q047",
+            "question": "We arrived at 10:40, or twenty to ___.",
+            "options": [
+              "A. ten",
+              "B. nine",
+              "C. twelve",
+              "D. eleven"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "10:40 距離十一點還有二十分鐘，因此是 twenty to eleven。"
+          },
+          {
+            "id": "m2-2-u3-q048",
+            "question": "The clock shows 4:10. It is ten ___ four.",
+            "options": [
+              "A. to",
+              "B. after",
+              "C. at",
+              "D. on"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "4:10 可說 ten past four 或 ten after four；選項只有 after 能表示四點過十分。"
+          },
+          {
+            "id": "m2-2-u3-q049",
+            "question": "The train leaves at 9:35, or ___ to ten.",
+            "options": [
+              "A. thirty-five",
+              "B. twenty",
+              "C. twenty-five",
+              "D. fifteen"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "to 的分鐘要用 60 減目前分鐘：60 − 35 = 25，所以 9:35 是 twenty-five to ten。"
+          },
+          {
+            "id": "m2-2-u3-q050",
+            "question": "We will meet at a quarter to two. The digital clock should show ___.",
+            "options": [
+              "A. 1:45",
+              "B. 2:15",
+              "C. 2:45",
+              "D. 1:15"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "a quarter to two 是距離兩點還有十五分鐘，也就是 1:45；不是兩點十五分。"
+          }
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          {
+            "id": "m2-2-u3-sv001",
+            "vocab_id": "m2-2-u3-v001",
+            "sentence": "The king was talking to a little boy.",
+            "sentence_chinese": "國王當時正和一個小男孩說話。"
+          },
+          {
+            "id": "m2-2-u3-sv002",
+            "vocab_id": "m2-2-u3-v002",
+            "sentence": "The toad was sitting beside the hole.",
+            "sentence_chinese": "蟾蜍當時正坐在洞旁。"
+          },
+          {
+            "id": "m2-2-u3-sv003",
+            "vocab_id": "m2-2-u3-v003",
+            "sentence": "We saw a fox on our way home.",
+            "sentence_chinese": "我們在回家的路上看到一隻狐狸。"
+          },
+          {
+            "id": "m2-2-u3-sv004",
+            "vocab_id": "m2-2-u3-v004",
+            "sentence": "My shoes were wet after I crossed the river.",
+            "sentence_chinese": "我過河後，鞋子都溼了。"
+          },
+          {
+            "id": "m2-2-u3-sv005",
+            "vocab_id": "m2-2-u3-v005",
+            "sentence": "The children were playing in the mud then.",
+            "sentence_chinese": "孩子們當時正在泥巴裡玩。"
+          },
+          {
+            "id": "m2-2-u3-sv006",
+            "vocab_id": "m2-2-u3-v006",
+            "sentence": "Suddenly, a snake fell out of the tree.",
+            "sentence_chinese": "突然，一條蛇從樹上掉了下來。"
+          },
+          {
+            "id": "m2-2-u3-sv007",
+            "vocab_id": "m2-2-u3-v007",
+            "sentence": "The hole was deep, so we stayed away.",
+            "sentence_chinese": "那個洞很深，所以我們離得遠遠的。"
+          },
+          {
+            "id": "m2-2-u3-sv008",
+            "vocab_id": "m2-2-u3-v008",
+            "sentence": "A rat was hiding in the hole then.",
+            "sentence_chinese": "一隻老鼠當時正躲在洞裡。"
+          },
+          {
+            "id": "m2-2-u3-sv009",
+            "vocab_id": "m2-2-u3-v009",
+            "sentence": "The baby was crying when her mother arrived.",
+            "sentence_chinese": "媽媽到達時，寶寶正在哭。"
+          },
+          {
+            "id": "m2-2-u3-sv010",
+            "vocab_id": "m2-2-u3-v010",
+            "sentence": "A bus went by while we were talking.",
+            "sentence_chinese": "我們說話時，一輛公車經過。"
+          },
+          {
+            "id": "m2-2-u3-sv011",
+            "vocab_id": "m2-2-u3-v011",
+            "sentence": "I was sitting beside my sister then.",
+            "sentence_chinese": "我當時正坐在妹妹旁邊。"
+          },
+          {
+            "id": "m2-2-u3-sv012",
+            "vocab_id": "m2-2-u3-v012",
+            "sentence": "I washed my hands before I ate dinner.",
+            "sentence_chinese": "我吃晚餐前先洗了手。"
+          },
+          {
+            "id": "m2-2-u3-sv013",
+            "vocab_id": "m2-2-u3-v013",
+            "sentence": "The game was difficult, but we kept trying.",
+            "sentence_chinese": "這個遊戲很難，但我們繼續嘗試。"
+          },
+          {
+            "id": "m2-2-u3-sv014",
+            "vocab_id": "m2-2-u3-v014",
+            "sentence": "He was reading the message over and over.",
+            "sentence_chinese": "他當時正一遍又一遍地讀那則訊息。"
+          },
+          {
+            "id": "m2-2-u3-sv015",
+            "vocab_id": "m2-2-u3-v015",
+            "sentence": "A butterfly was flying over the flowers.",
+            "sentence_chinese": "一隻蝴蝶當時正在花朵上方飛舞。"
+          },
+          {
+            "id": "m2-2-u3-sv016",
+            "vocab_id": "m2-2-u3-v016",
+            "sentence": "The children were laughing when I walked in.",
+            "sentence_chinese": "我走進去時，孩子們正在大笑。"
+          },
+          {
+            "id": "m2-2-u3-sv017",
+            "vocab_id": "m2-2-u3-v017",
+            "sentence": "It was possible to finish the work before dinner.",
+            "sentence_chinese": "晚餐前完成工作是有可能的。"
+          },
+          {
+            "id": "m2-2-u3-sv018",
+            "vocab_id": "m2-2-u3-v018",
+            "sentence": "We passed by the park at half past five.",
+            "sentence_chinese": "我們在五點半經過公園。"
+          },
+          {
+            "id": "m2-2-u3-sv019",
+            "vocab_id": "m2-2-u3-v019",
+            "sentence": "The monkey was climbing the tree then.",
+            "sentence_chinese": "猴子當時正在爬樹。"
+          },
+          {
+            "id": "m2-2-u3-sv020",
+            "vocab_id": "m2-2-u3-v020",
+            "sentence": "The coin fell to the bottom of the hole.",
+            "sentence_chinese": "硬幣掉到了洞底。"
+          },
+          {
+            "id": "m2-2-u3-sv021",
+            "vocab_id": "m2-2-u3-v021",
+            "sentence": "The flower died before we came home.",
+            "sentence_chinese": "我們回家前，那朵花就枯死了。"
+          },
+          {
+            "id": "m2-2-u3-sv022",
+            "vocab_id": "m2-2-u3-v022",
+            "sentence": "I was tired after I climbed the mountain.",
+            "sentence_chinese": "爬山後，我很累。"
+          },
+          {
+            "id": "m2-2-u3-sv023",
+            "vocab_id": "m2-2-u3-v023",
+            "sentence": "The lost boy felt helpless and cried.",
+            "sentence_chinese": "迷路的男孩感到無助，哭了起來。"
+          },
+          {
+            "id": "m2-2-u3-sv024",
+            "vocab_id": "m2-2-u3-v024",
+            "sentence": "We finally arrived at a quarter to six.",
+            "sentence_chinese": "我們終於在五點四十五分到達。"
+          },
+          {
+            "id": "m2-2-u3-sv025",
+            "vocab_id": "m2-2-u3-v025",
+            "sentence": "Dad arrived while we were having dinner.",
+            "sentence_chinese": "爸爸到達時，我們正在吃晚餐。"
+          },
+          {
+            "id": "m2-2-u3-sv026",
+            "vocab_id": "m2-2-u3-v026",
+            "sentence": "The girl caught the ball in time.",
+            "sentence_chinese": "女孩及時接住了球。"
+          },
+          {
+            "id": "m2-2-u3-sv027",
+            "vocab_id": "m2-2-u3-v027",
+            "sentence": "I was surprised when I heard the news.",
+            "sentence_chinese": "聽到這個消息時，我很驚訝。"
+          },
+          {
+            "id": "m2-2-u3-sv028",
+            "vocab_id": "m2-2-u3-v028",
+            "sentence": "A snake was sleeping under the tree.",
+            "sentence_chinese": "一條蛇當時正在樹下睡覺。"
+          },
+          {
+            "id": "m2-2-u3-sv029",
+            "vocab_id": "m2-2-u3-v029",
+            "sentence": "Mom was typing a message at nine last night.",
+            "sentence_chinese": "媽媽昨晚九點正在打訊息。"
+          },
+          {
+            "id": "m2-2-u3-sv030",
+            "vocab_id": "m2-2-u3-v030",
+            "sentence": "I read your message before I went out.",
+            "sentence_chinese": "我出門前讀了你的訊息。"
+          },
+          {
+            "id": "m2-2-u3-sv031",
+            "vocab_id": "m2-2-u3-v031",
+            "sentence": "My cellphone rang while I was studying.",
+            "sentence_chinese": "我讀書時，手機響了。"
+          },
+          {
+            "id": "m2-2-u3-sv032",
+            "vocab_id": "m2-2-u3-v032",
+            "sentence": "The deaf boy was reading beside the window.",
+            "sentence_chinese": "那位聽不見的男孩當時正在窗邊看書。"
+          },
+          {
+            "id": "m2-2-u3-sv033",
+            "vocab_id": "m2-2-u3-v033",
+            "sentence": "I heard a cry while I was walking home.",
+            "sentence_chinese": "我走路回家時聽到一聲哭喊。"
+          },
+          {
+            "id": "m2-2-u3-sv034",
+            "vocab_id": "m2-2-u3-v034",
+            "sentence": "We were cheering our friends on at the game.",
+            "sentence_chinese": "比賽時，我們正在為朋友加油。"
+          },
+          {
+            "id": "m2-2-u3-sv035",
+            "vocab_id": "m2-2-u3-v035",
+            "sentence": "A bat was flying above the house then.",
+            "sentence_chinese": "一隻蝙蝠當時正在房子上方飛。"
+          },
+          {
+            "id": "m2-2-u3-sv036",
+            "vocab_id": "m2-2-u3-v036",
+            "sentence": "The fox ran away when it saw us.",
+            "sentence_chinese": "狐狸看到我們時就跑走了。"
+          },
+          {
+            "id": "m2-2-u3-sv037",
+            "vocab_id": "m2-2-u3-v037",
+            "sentence": "A rat was eating beside the door.",
+            "sentence_chinese": "一隻老鼠當時正在門旁吃東西。"
+          },
+          {
+            "id": "m2-2-u3-sv038",
+            "vocab_id": "m2-2-u3-v038",
+            "sentence": "The hen was looking for food at seven.",
+            "sentence_chinese": "母雞七點時正在找食物。"
+          }
+        ],
+        "phrases": [
+          {
+            "id": "m2-2-u3-sp001",
+            "phrase_id": "m2-2-u3-p001",
+            "sentence": "We were going to the park at that time.",
+            "sentence_chinese": "我們那時正要去公園。"
+          },
+          {
+            "id": "m2-2-u3-sp002",
+            "phrase_id": "m2-2-u3-p002",
+            "sentence": "I met my friend on my way home.",
+            "sentence_chinese": "我在回家途中遇見朋友。"
+          },
+          {
+            "id": "m2-2-u3-sp003",
+            "phrase_id": "m2-2-u3-p003",
+            "sentence": "The room was full of flowers that day.",
+            "sentence_chinese": "那天房間裡滿是花。"
+          },
+          {
+            "id": "m2-2-u3-sp004",
+            "phrase_id": "m2-2-u3-p004",
+            "sentence": "The women were taking selfies in the garden then.",
+            "sentence_chinese": "那些女士當時正在花園裡自拍。"
+          },
+          {
+            "id": "m2-2-u3-sp005",
+            "phrase_id": "m2-2-u3-p005",
+            "sentence": "The boy fell into a hole while he was running.",
+            "sentence_chinese": "男孩跑步時掉進了洞裡。"
+          },
+          {
+            "id": "m2-2-u3-sp006",
+            "phrase_id": "m2-2-u3-p006",
+            "sentence": "The little boy was crying for help last night.",
+            "sentence_chinese": "那個小男孩昨晚正在大聲求救。"
+          },
+          {
+            "id": "m2-2-u3-sp007",
+            "phrase_id": "m2-2-u3-p007",
+            "sentence": "They went past the restaurant after school yesterday.",
+            "sentence_chinese": "他們昨天放學後經過那間餐廳。"
+          },
+          {
+            "id": "m2-2-u3-sp008",
+            "phrase_id": "m2-2-u3-p008",
+            "sentence": "When we got to the park, we saw rabbits.",
+            "sentence_chinese": "我們到公園時，看見了兔子。"
+          },
+          {
+            "id": "m2-2-u3-sp009",
+            "phrase_id": "m2-2-u3-p009",
+            "sentence": "He did not give up after he fell.",
+            "sentence_chinese": "他跌倒後沒有放棄。"
+          },
+          {
+            "id": "m2-2-u3-sp010",
+            "phrase_id": "m2-2-u3-p010",
+            "sentence": "The frog jumped away when we came near.",
+            "sentence_chinese": "我們靠近時，青蛙跳走了。"
+          },
+          {
+            "id": "m2-2-u3-sp011",
+            "phrase_id": "m2-2-u3-p011",
+            "sentence": "She was reading the story over and over again.",
+            "sentence_chinese": "她當時正一遍又一遍地讀那個故事。"
+          },
+          {
+            "id": "m2-2-u3-sp012",
+            "phrase_id": "m2-2-u3-p012",
+            "sentence": "The butterflies flew away when the boy arrived.",
+            "sentence_chinese": "男孩到達時，蝴蝶飛走了。"
+          },
+          {
+            "id": "m2-2-u3-sp013",
+            "phrase_id": "m2-2-u3-p013",
+            "sentence": "The poor old man fell to the bottom of the hole.",
+            "sentence_chinese": "那位可憐的老人跌到了洞底。"
+          },
+          {
+            "id": "m2-2-u3-sp014",
+            "phrase_id": "m2-2-u3-p014",
+            "sentence": "At first, I did not believe him.",
+            "sentence_chinese": "起初，我不相信他。"
+          },
+          {
+            "id": "m2-2-u3-sp015",
+            "phrase_id": "m2-2-u3-p015",
+            "sentence": "We were listening to the teacher at that time.",
+            "sentence_chinese": "我們當時正在聽老師說話。"
+          },
+          {
+            "id": "m2-2-u3-sp016",
+            "phrase_id": "m2-2-u3-p016",
+            "sentence": "Jeremy saw the movie many times last year.",
+            "sentence_chinese": "Jeremy 去年看了那部電影很多次。"
+          },
+          {
+            "id": "m2-2-u3-sp017",
+            "phrase_id": "m2-2-u3-p017",
+            "sentence": "She gave it another try before she went home.",
+            "sentence_chinese": "她回家前又試了一次。"
+          },
+          {
+            "id": "m2-2-u3-sp018",
+            "phrase_id": "m2-2-u3-p018",
+            "sentence": "The rabbit jumped out of the box then.",
+            "sentence_chinese": "兔子當時跳出了箱子。"
+          },
+          {
+            "id": "m2-2-u3-sp019",
+            "phrase_id": "m2-2-u3-p019",
+            "sentence": "We arrived at Nancy's home at six.",
+            "sentence_chinese": "我們六點到達 Nancy 家。"
+          },
+          {
+            "id": "m2-2-u3-sp020",
+            "phrase_id": "m2-2-u3-p020",
+            "sentence": "The spider saved the butterfly in time.",
+            "sentence_chinese": "蜘蛛及時救了蝴蝶。"
+          },
+          {
+            "id": "m2-2-u3-sp021",
+            "phrase_id": "m2-2-u3-p021",
+            "sentence": "All the other students were reading at that time.",
+            "sentence_chinese": "所有其他學生當時都在看書。"
+          },
+          {
+            "id": "m2-2-u3-sp022",
+            "phrase_id": "m2-2-u3-p022",
+            "sentence": "They got out of the house before dinner.",
+            "sentence_chinese": "他們晚餐前離開了房子。"
+          },
+          {
+            "id": "m2-2-u3-sp023",
+            "phrase_id": "m2-2-u3-p023",
+            "sentence": "My dad was talking on his cellphone then.",
+            "sentence_chinese": "爸爸當時正在用手機說話。"
+          },
+          {
+            "id": "m2-2-u3-sp024",
+            "phrase_id": "m2-2-u3-p024",
+            "sentence": "We were cheering her on when she fell.",
+            "sentence_chinese": "她跌倒時，我們正在為她加油。"
+          },
+          {
+            "id": "m2-2-u3-sp025",
+            "phrase_id": "m2-2-u3-p025",
+            "sentence": "We did not go out because of the rain.",
+            "sentence_chinese": "我們因為下雨而沒有出門。"
+          }
+        ],
+        "grammar": [
+          {
+            "id": "m2-2-u3-sg001",
+            "sentence": "The king was reading beside the window then.",
+            "sentence_chinese": "國王當時正在窗邊讀書。"
+          },
+          {
+            "id": "m2-2-u3-sg002",
+            "sentence": "We arrived after the rain stopped yesterday.",
+            "sentence_chinese": "我們昨天在雨停之後到達。"
+          },
+          {
+            "id": "m2-2-u3-sg003",
+            "sentence": "Were the girls taking selfies in the garden?",
+            "sentence_chinese": "那些女孩當時正在花園裡自拍嗎？"
+          },
+          {
+            "id": "m2-2-u3-sg004",
+            "sentence": "It was a quarter past three then.",
+            "sentence_chinese": "當時是三點十五分。"
+          },
+          {
+            "id": "m2-2-u3-sg005",
+            "sentence": "While I was typing, Dad was cooking dinner.",
+            "sentence_chinese": "我打字時，爸爸正在煮晚餐。"
+          },
+          {
+            "id": "m2-2-u3-sg006",
+            "sentence": "The toad was not sitting in the mud.",
+            "sentence_chinese": "蟾蜍當時沒有坐在泥巴裡。"
+          },
+          {
+            "id": "m2-2-u3-sg007",
+            "sentence": "I heard a cry when I opened the door.",
+            "sentence_chinese": "我開門時聽見一聲哭喊。"
+          },
+          {
+            "id": "m2-2-u3-sg008",
+            "sentence": "After reading the message, she called her mother.",
+            "sentence_chinese": "讀完訊息後，她打電話給媽媽。"
+          },
+          {
+            "id": "m2-2-u3-sg009",
+            "sentence": "What were you doing beside the hole?",
+            "sentence_chinese": "你當時正在洞旁做什麼？"
+          },
+          {
+            "id": "m2-2-u3-sg010",
+            "sentence": "The train arrived at twenty to seven.",
+            "sentence_chinese": "火車在六點四十分到達。"
+          },
+          {
+            "id": "m2-2-u3-sg011",
+            "sentence": "The boys were climbing when the rain started.",
+            "sentence_chinese": "開始下雨時，男孩們正在攀爬。"
+          },
+          {
+            "id": "m2-2-u3-sg012",
+            "sentence": "Before leaving home, I fed the hen.",
+            "sentence_chinese": "離家前，我餵了母雞。"
+          },
+          {
+            "id": "m2-2-u3-sg013",
+            "sentence": "Was your brother cheering the players on then?",
+            "sentence_chinese": "你哥哥當時正在為選手們加油嗎？"
+          },
+          {
+            "id": "m2-2-u3-sg014",
+            "sentence": "While the children were sleeping, a bat flew by.",
+            "sentence_chinese": "孩子們睡覺時，一隻蝙蝠飛過。"
+          },
+          {
+            "id": "m2-2-u3-sg015",
+            "sentence": "We were not laughing at the little boy.",
+            "sentence_chinese": "我們當時沒有嘲笑那個小男孩。"
+          },
+          {
+            "id": "m2-2-u3-sg016",
+            "sentence": "The movie started at half past eight.",
+            "sentence_chinese": "電影在八點半開始。"
+          },
+          {
+            "id": "m2-2-u3-sg017",
+            "sentence": "Dad washed his hands before he cooked dinner.",
+            "sentence_chinese": "爸爸煮晚餐前先洗了手。"
+          },
+          {
+            "id": "m2-2-u3-sg018",
+            "sentence": "The fox was hiding behind the tree then.",
+            "sentence_chinese": "狐狸當時正躲在樹後。"
+          },
+          {
+            "id": "m2-2-u3-sg019",
+            "sentence": "When I saw the snake, I ran away.",
+            "sentence_chinese": "我看到蛇時就跑走了。"
+          },
+          {
+            "id": "m2-2-u3-sg020",
+            "sentence": "Were you listening when the teacher called you?",
+            "sentence_chinese": "老師叫你時，你有在聽嗎？"
+          },
+          {
+            "id": "m2-2-u3-sg021",
+            "sentence": "We went out after the wind stopped.",
+            "sentence_chinese": "風停了之後，我們才出門。"
+          },
+          {
+            "id": "m2-2-u3-sg022",
+            "sentence": "My sister was dancing while I was singing.",
+            "sentence_chinese": "我唱歌時，妹妹正在跳舞。"
+          },
+          {
+            "id": "m2-2-u3-sg023",
+            "sentence": "It is now five minutes to twelve.",
+            "sentence_chinese": "現在是十一點五十五分。"
+          },
+          {
+            "id": "m2-2-u3-sg024",
+            "sentence": "The tired boy was not running then.",
+            "sentence_chinese": "那個疲倦的男孩當時沒有在跑步。"
+          },
+          {
+            "id": "m2-2-u3-sg025",
+            "sentence": "Before I went downstairs, I closed the window.",
+            "sentence_chinese": "我下樓前先關了窗戶。"
+          },
+          {
+            "id": "m2-2-u3-sg026",
+            "sentence": "Where was the rat hiding at that time?",
+            "sentence_chinese": "老鼠那時正躲在哪裡？"
+          },
+          {
+            "id": "m2-2-u3-sg027",
+            "sentence": "We were playing when Grandma finally arrived.",
+            "sentence_chinese": "奶奶終於到達時，我們正在玩。"
+          },
+          {
+            "id": "m2-2-u3-sg028",
+            "sentence": "The little girl arrived at ten past nine.",
+            "sentence_chinese": "那個小女孩在九點十分到達。"
+          },
+          {
+            "id": "m2-2-u3-sg029",
+            "sentence": "While Mom was reading, I was drawing butterflies.",
+            "sentence_chinese": "媽媽讀書時，我正在畫蝴蝶。"
+          },
+          {
+            "id": "m2-2-u3-sg030",
+            "sentence": "I gave it another try after lunch.",
+            "sentence_chinese": "午餐後，我又試了一次。"
+          }
+        ]
+      },
+      "cloze_quiz": [
+        {
+          "id": "m2-2-u3-cq001",
+          "vocab_id": "m2-2-u3-v001",
+          "question": "The man wore a crown and ruled the country. He was the ___.",
+          "options": [
+            "farmer",
+            "driver",
+            "king",
+            "student"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "crown 是王冠，ruled the country 是統治國家；兩者指向 king（國王）。"
+        },
+        {
+          "id": "m2-2-u3-cq002",
+          "vocab_id": "m2-2-u3-v002",
+          "question": "The animal looks like a frog, but it has rough, dry skin. It is a ___.",
+          "options": [
+            "toad",
+            "hen",
+            "bat",
+            "fox"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "外形像青蛙、皮膚粗糙的動物是 toad（蟾蜍）。"
+        },
+        {
+          "id": "m2-2-u3-cq003",
+          "vocab_id": "m2-2-u3-v003",
+          "question": "This road is the only ___ to the village. Follow it to get there.",
+          "options": [
+            "message",
+            "mud",
+            "bottom",
+            "way"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "road 和 Follow it to get there 表示通往村莊的路，因此選 way（路；路線）。"
+        },
+        {
+          "id": "m2-2-u3-cq004",
+          "vocab_id": "m2-2-u3-v004",
+          "question": "My socks are ___ because I stepped into a pool of water.",
+          "options": [
+            "dry",
+            "hungry",
+            "deaf",
+            "wet"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "stepped into a pool of water 表示踩進水裡，所以襪子是 wet（溼的）。"
+        },
+        {
+          "id": "m2-2-u3-cq005",
+          "vocab_id": "m2-2-u3-v005",
+          "question": "After the rain, the soil mixed with water and became soft ___.",
+          "options": [
+            "glass",
+            "paper",
+            "mud",
+            "ice"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "soil mixed with water 是土與水混合，形成 mud（泥巴）。"
+        },
+        {
+          "id": "m2-2-u3-cq006",
+          "vocab_id": "m2-2-u3-v006",
+          "question": "We had no warning. The quiet dog ___ barked and made us jump.",
+          "options": [
+            "slowly",
+            "politely",
+            "suddenly",
+            "carefully"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "had no warning 和 made us jump 表示毫無預警、嚇了一跳，因此選 suddenly（突然地）。"
+        },
+        {
+          "id": "m2-2-u3-cq007",
+          "vocab_id": "m2-2-u3-v007",
+          "question": "The pool is three meters ___. Small children must not enter it alone.",
+          "options": [
+            "tired",
+            "deep",
+            "deaf",
+            "helpless"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "three meters 描述水池深度，對應 deep（深的）。"
+        },
+        {
+          "id": "m2-2-u3-cq008",
+          "vocab_id": "m2-2-u3-v008",
+          "question": "There is a ___ in my sock, and I can see my toe through it.",
+          "options": [
+            "message",
+            "way",
+            "king",
+            "hole"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "can see my toe through it 表示襪子破了一個 hole（洞）。"
+        },
+        {
+          "id": "m2-2-u3-cq009",
+          "vocab_id": "m2-2-u3-v009",
+          "question": "The sad child began to ___, and tears ran down her face.",
+          "options": [
+            "cry",
+            "laugh",
+            "type",
+            "climb"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "sad 和 tears 是傷心流淚的線索，選 cry（哭）。"
+        },
+        {
+          "id": "m2-2-u3-cq010",
+          "vocab_id": "m2-2-u3-v010",
+          "question": "To reach our school, you must ___ the post office without stopping.",
+          "options": [
+            "go by",
+            "put on",
+            "give up",
+            "fill in"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "without stopping 表示不停止、從郵局旁經過，go by 就是經過。"
+        },
+        {
+          "id": "m2-2-u3-cq011",
+          "vocab_id": "m2-2-u3-v011",
+          "question": "May sat right ___ me, so we could share the same book.",
+          "options": [
+            "above",
+            "beside",
+            "inside",
+            "through"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "能共看同一本書，表示 May 坐在我旁邊，選 beside（在……旁邊）。"
+        },
+        {
+          "id": "m2-2-u3-cq012",
+          "vocab_id": "m2-2-u3-v012",
+          "question": "Please arrive ___ eight. We start at eight, and you need time to find a seat first.",
+          "options": [
+            "after",
+            "during",
+            "until",
+            "before"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "需要先找座位，因此要在八點開始之前到，選 before（在……之前）。"
+        },
+        {
+          "id": "m2-2-u3-cq013",
+          "vocab_id": "m2-2-u3-v013",
+          "question": "This math problem is very ___. Nobody in our class can solve it.",
+          "options": [
+            "easy",
+            "wet",
+            "deaf",
+            "difficult"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "Nobody can solve it 表示沒人解得出來，題目很 difficult（困難的）。"
+        },
+        {
+          "id": "m2-2-u3-cq014",
+          "vocab_id": "m2-2-u3-v014",
+          "question": "I played the same song ___—about ten times—until I remembered every word.",
+          "options": [
+            "only once",
+            "over and over",
+            "for the first time",
+            "not at all"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "about ten times 表示重複很多次，over and over 是一遍又一遍。"
+        },
+        {
+          "id": "m2-2-u3-cq015",
+          "vocab_id": "m2-2-u3-v015",
+          "question": "A colorful insect with large wings landed on the flower. It was a ___.",
+          "options": [
+            "rat",
+            "fox",
+            "butterfly",
+            "hen"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "colorful insect、large wings 和 flower 指向 butterfly（蝴蝶）。"
+        },
+        {
+          "id": "m2-2-u3-cq016",
+          "vocab_id": "m2-2-u3-v016",
+          "question": "The funny story made everyone ___ with joy.",
+          "options": [
+            "cry",
+            "laugh",
+            "type",
+            "climb"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "funny story 和 with joy 表示開心地笑，因此選 laugh。"
+        },
+        {
+          "id": "m2-2-u3-cq017",
+          "vocab_id": "m2-2-u3-v017",
+          "question": "It is ___ to finish today. We still have enough time.",
+          "options": [
+            "impossible",
+            "wet",
+            "possible",
+            "deaf"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "still have enough time 表示時間足夠、做得到，因此選 possible（可能的）。"
+        },
+        {
+          "id": "m2-2-u3-cq018",
+          "vocab_id": "m2-2-u3-v018",
+          "question": "Please ___ the library on your walk here and check whether it is open; you do not need to go inside.",
+          "options": [
+            "pass by",
+            "put on",
+            "give up",
+            "turn off"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "on your walk here 和 do not need to go inside 表示經過圖書館即可，選 pass by。"
+        },
+        {
+          "id": "m2-2-u3-cq019",
+          "vocab_id": "m2-2-u3-v019",
+          "question": "The cat is high in the tree. We need to ___ up to reach it.",
+          "options": [
+            "type",
+            "climb",
+            "hear",
+            "laugh"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "high in the tree 和 up to reach it 表示要往上爬，選 climb（攀爬）。"
+        },
+        {
+          "id": "m2-2-u3-cq020",
+          "vocab_id": "m2-2-u3-v020",
+          "question": "The coin sank through the water and rested at the ___ of the pool.",
+          "options": [
+            "top",
+            "entrance",
+            "roof",
+            "bottom"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "sank through the water 表示硬幣沉下去，最後停在泳池底部 bottom。"
+        },
+        {
+          "id": "m2-2-u3-cq021",
+          "vocab_id": "m2-2-u3-v021",
+          "question": "Plants may ___ if they get no water for a long time.",
+          "options": [
+            "laugh",
+            "type",
+            "die",
+            "arrive"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "長時間沒有水可能使植物 die（死亡；枯死）。"
+        },
+        {
+          "id": "m2-2-u3-cq022",
+          "vocab_id": "m2-2-u3-v022",
+          "question": "I walked for five hours. Now I am ___ and need a rest.",
+          "options": [
+            "wet",
+            "deaf",
+            "deep",
+            "tired"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "walked for five hours 和 need a rest 指疲倦，需要休息，因此選 tired。"
+        },
+        {
+          "id": "m2-2-u3-cq023",
+          "vocab_id": "m2-2-u3-v023",
+          "question": "The injured bird could not move or save itself. It was ___.",
+          "options": [
+            "powerful",
+            "careless",
+            "helpless",
+            "helpful"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "could not move or save itself 表示無法自救，因此是 helpless（無助的）。"
+        },
+        {
+          "id": "m2-2-u3-cq024",
+          "vocab_id": "m2-2-u3-v024",
+          "question": "We tried to open the box many times. On our last try, it ___ opened.",
+          "options": [
+            "never",
+            "finally",
+            "already",
+            "still"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "many times 和 last try 表示多次嘗試後終於成功，選 finally（終於）。"
+        },
+        {
+          "id": "m2-2-u3-cq025",
+          "vocab_id": "m2-2-u3-v025",
+          "question": "Our flight will ___ in Taipei at noon. Please meet us at the airport.",
+          "options": [
+            "arrive",
+            "laugh",
+            "climb",
+            "type"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "flight、Taipei 和 meet us at the airport 指班機到達，選 arrive。"
+        },
+        {
+          "id": "m2-2-u3-cq026",
+          "vocab_id": "m2-2-u3-v026",
+          "question": "The train left at ten. We got there at 9:59 and caught it ___.",
+          "options": [
+            "too late",
+            "in time",
+            "by mistake",
+            "for no reason"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "9:59 在十點發車前，且成功搭上，表示 in time（及時）。"
+        },
+        {
+          "id": "m2-2-u3-cq027",
+          "vocab_id": "m2-2-u3-v027",
+          "question": "I did not know about the party, so I was ___ to see all my friends there.",
+          "options": [
+            "bored",
+            "surprised",
+            "ready",
+            "deaf"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "不知道有派對卻看到所有朋友，表示感到 surprised（驚訝的）。"
+        },
+        {
+          "id": "m2-2-u3-cq028",
+          "vocab_id": "m2-2-u3-v028",
+          "question": "The animal has a long body, no legs, and scales on its skin. It is a ___.",
+          "options": [
+            "hen",
+            "fox",
+            "snake",
+            "bat"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "long body、no legs 和 scales 指向 snake（蛇）。"
+        },
+        {
+          "id": "m2-2-u3-cq029",
+          "vocab_id": "m2-2-u3-v029",
+          "question": "Use the keyboard to ___ your name into the computer.",
+          "options": [
+            "hear",
+            "type",
+            "climb",
+            "drink"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "keyboard 是鍵盤，用鍵盤輸入姓名就是 type（打字）。"
+        },
+        {
+          "id": "m2-2-u3-cq030",
+          "vocab_id": "m2-2-u3-v030",
+          "question": "There is a new ___ on my phone. It says, “Please call Mom.”",
+          "options": [
+            "hole",
+            "message",
+            "butterfly",
+            "king"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "It says 後有文字內容，表示手機上有一則 message（訊息）。"
+        },
+        {
+          "id": "m2-2-u3-cq031",
+          "vocab_id": "m2-2-u3-v031",
+          "question": "I used my ___ to call Dad while I was walking outside.",
+          "options": [
+            "cellphone",
+            "spoon",
+            "pillow",
+            "basket"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "call Dad 和 walking outside 指用可攜式電話通話，選 cellphone（手機）。"
+        },
+        {
+          "id": "m2-2-u3-cq032",
+          "vocab_id": "m2-2-u3-v032",
+          "question": "The man cannot hear any sound because he is ___.",
+          "options": [
+            "deaf",
+            "tired",
+            "wet",
+            "deep"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "cannot hear any sound 表示聽不見，選 deaf。"
+        },
+        {
+          "id": "m2-2-u3-cq033",
+          "vocab_id": "m2-2-u3-v033",
+          "question": "Please speak louder. I cannot ___ your voice over the music.",
+          "options": [
+            "type",
+            "climb",
+            "see",
+            "hear"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "speak louder 和 voice 指聲音聽不清楚，選 hear（聽見）。"
+        },
+        {
+          "id": "m2-2-u3-cq034",
+          "vocab_id": "m2-2-u3-v034",
+          "question": "Our players are running toward the finish line. Let’s ___ by shouting, “You can do it!”",
+          "options": [
+            "wake them up",
+            "pick them up",
+            "cheer them on",
+            "look them up"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "You can do it! 是鼓勵選手的話；cheer + 人 + on 表示替某人加油。them 指正在跑向終點的選手。"
+        },
+        {
+          "id": "m2-2-u3-cq035",
+          "vocab_id": "m2-2-u3-v035",
+          "question": "This animal sleeps upside down and flies at night. It is a ___.",
+          "options": [
+            "bat",
+            "hen",
+            "rat",
+            "toad"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "sleeps upside down 和 flies at night 指蝙蝠 bat。"
+        },
+        {
+          "id": "m2-2-u3-cq036",
+          "vocab_id": "m2-2-u3-v036",
+          "question": "The wild animal looks like a small dog and has a big, bushy tail. It is a ___.",
+          "options": [
+            "fox",
+            "hen",
+            "toad",
+            "snake"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "像小狗、有蓬鬆大尾巴的動物是 fox（狐狸）。"
+        },
+        {
+          "id": "m2-2-u3-cq037",
+          "vocab_id": "m2-2-u3-v037",
+          "question": "The animal looks like a large mouse and has a long tail. It is a ___.",
+          "options": [
+            "rat",
+            "bat",
+            "hen",
+            "butterfly"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "looks like a large mouse 表示像大隻老鼠，選 rat。"
+        },
+        {
+          "id": "m2-2-u3-cq038",
+          "vocab_id": "m2-2-u3-v038",
+          "question": "The farmer keeps this female chicken for its eggs. It is a ___.",
+          "options": [
+            "fox",
+            "bat",
+            "snake",
+            "hen"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "female chicken 和 eggs 指母雞 hen。"
+        }
+      ]
+    }
+  }
+}
