@@ -38,282 +38,227 @@
         {
           "id": "h1-3-u4-cq001",
           "vocab_id": "h1-3-u4-v001",
-          "question": "Taking off shoes before entering a home is a ___ in some places.",
+          "question": "A family get-together for dinner on Chinese New Year’s Eve is a very important ___ in Taiwan.",
+          "sentence_chinese": "在臺灣，除夕夜全家團聚吃晚餐是一項非常重要的習俗。",
           "options": [
-            "accident",
-            "illness",
-            "mistake",
-            "custom"
+            "error",
+            "speed",
+            "custom",
+            "greeting"
           ],
-          "answer": "D",
-          "answer_index": 3,
-          "hint": "custom 指一群人長久以來的習俗。"
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "除夕夜全家團聚吃晚餐是一項傳統習俗，因此填 custom（風俗；習慣）。"
         },
         {
           "id": "h1-3-u4-cq002",
-          "vocab_id": "h1-3-u4-v001",
-          "question": "Eating special food at a festival is a local ___.",
+          "vocab_id": "h1-3-u4-v002",
+          "question": "At the Christmas party, students happily ___ gifts and had a good time.",
+          "sentence_chinese": "在聖誕派對上，學生們開心地交換禮物，度過了愉快的時光。",
           "options": [
-            "custom",
-            "illness",
-            "accident",
-            "mistake"
+            "exchanged",
+            "calculated",
+            "attended",
+            "pronounced"
           ],
           "answer": "A",
           "answer_index": 0,
-          "hint": "custom 指一群人長久以來的習俗。"
+          "hint": "聖誕派對上互相交換禮物用 exchange gifts；後面的 had 表示過去的事情，因此填過去式 exchanged。"
         },
         {
           "id": "h1-3-u4-cq003",
-          "vocab_id": "h1-3-u4-v001",
-          "question": "This old ___ has been passed down in the family for years.",
+          "vocab_id": "h1-3-u4-v002",
+          "question": "During the meeting, Robert and Jane had an ___ of ideas and discussed several important issues.",
+          "sentence_chinese": "會議期間，Robert 和 Jane 交流了想法，並討論了幾個重要議題。",
           "options": [
-            "illness",
-            "mistake",
-            "accident",
-            "custom"
+            "error",
+            "ceremony",
+            "custom",
+            "exchange"
           ],
           "answer": "D",
           "answer_index": 3,
-          "hint": "custom 指一群人長久以來的習俗。"
+          "hint": "後面提到討論重要議題，這裡是交流想法；an exchange of ideas 表示「意見交流」，exchange 在此是名詞。"
         },
         {
           "id": "h1-3-u4-cq004",
           "vocab_id": "h1-3-u4-v002",
-          "question": "Let us ___ phone numbers so we can stay in touch.",
+          "question": "What will you give to me in ___ for a ticket to Mayday’s concert next month?",
+          "sentence_chinese": "你會給我什麼，來換取一張五月天下個月演唱會的門票呢？",
           "options": [
-            "drop",
-            "hide",
+            "speed",
             "exchange",
-            "destroy"
+            "greeting",
+            "ceremony"
           ],
-          "answer": "C",
-          "answer_index": 2,
-          "hint": "exchange 指交換；雙方互相給予東西是線索。"
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "句子是在問用什麼換取演唱會門票；in exchange for 表示「交換……；換取……」，因此填 exchange。"
         },
         {
           "id": "h1-3-u4-cq005",
-          "vocab_id": "h1-3-u4-v002",
-          "question": "At the party, we will ___ gifts with each other.",
+          "vocab_id": "h1-3-u4-v003",
+          "question": "Teresa waved her hand in ___ when her brother got out of the train station.",
+          "sentence_chinese": "Teresa 的哥哥走出火車站時，她揮手向他打招呼。",
           "options": [
-            "exchange",
-            "drop",
-            "hide",
-            "destroy"
+            "million",
+            "greeting",
+            "speed",
+            "ceremony"
           ],
-          "answer": "A",
-          "answer_index": 0,
-          "hint": "exchange 指交換；雙方互相給予東西是線索。"
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "waved her hand 表示揮手，這裡是揮手打招呼；in greeting 表示「以示問候」，因此填 greeting。"
         },
         {
           "id": "h1-3-u4-cq006",
-          "vocab_id": "h1-3-u4-v002",
-          "question": "Can we ___ seats? You can take mine, and I will take yours.",
+          "vocab_id": "h1-3-u4-v003",
+          "question": "Tony quickly exchanged ___ with Stella and then rushed to the classroom because he was already late.",
+          "sentence_chinese": "Tony 迅速和 Stella 互相問候，接著趕往教室，因為他已經遲到了。",
           "options": [
-            "destroy",
-            "exchange",
-            "drop",
-            "hide"
+            "deliveries",
+            "errors",
+            "customs",
+            "greetings"
           ],
-          "answer": "B",
-          "answer_index": 1,
-          "hint": "exchange 指交換；雙方互相給予東西是線索。"
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "Tony 和 Stella 互相打招呼；exchange greetings with someone 表示「和某人互相問候」，此處用複數 greetings。"
         },
         {
           "id": "h1-3-u4-cq007",
-          "vocab_id": "h1-3-u4-v003",
-          "question": "\"Good morning\" is a common ___.",
+          "vocab_id": "h1-3-u4-v004",
+          "question": "David gathered his courage to invite Shirley to ___ the party with him, and she agreed.",
+          "sentence_chinese": "David 鼓起勇氣邀請 Shirley 和他一起參加派對，而她答應了。",
           "options": [
-            "price",
-            "warning",
-            "greeting",
-            "mistake"
+            "attend",
+            "deliver",
+            "calculate",
+            "exchange"
           ],
-          "answer": "C",
-          "answer_index": 2,
-          "hint": "greeting 指問候語或打招呼的動作。"
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "invite Shirley 表示邀請 Shirley，邀請她一起「參加」派對用 attend the party；to 後接原形 attend。"
         },
         {
           "id": "h1-3-u4-cq008",
-          "vocab_id": "h1-3-u4-v003",
-          "question": "She gave us a warm ___ when we arrived.",
+          "vocab_id": "h1-3-u4-v004",
+          "question": "The important meeting is scheduled for next Wednesday, and we hope that everyone can ___.",
+          "sentence_chinese": "這場重要會議訂於下週三舉行，我們希望每個人都能出席。",
           "options": [
-            "mistake",
-            "price",
-            "warning",
-            "greeting"
+            "deliver",
+            "exchange",
+            "attend",
+            "calculate"
           ],
-          "answer": "D",
-          "answer_index": 3,
-          "hint": "greeting 指問候語或打招呼的動作。"
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "前面提到重要會議，這裡希望大家都能「出席」；can 後接原形動詞 attend。"
         },
         {
           "id": "h1-3-u4-cq009",
-          "vocab_id": "h1-3-u4-v003",
-          "question": "He smiled and waved as a friendly ___.",
+          "vocab_id": "h1-3-u4-v005",
+          "question": "At the graduation ___, a famous scholar delivered an inspiring speech, encouraging the students to pursue their dreams.",
+          "sentence_chinese": "在畢業典禮上，一位著名學者發表了振奮人心的演講，鼓勵學生追求自己的夢想。",
           "options": [
+            "ceremony",
+            "error",
             "greeting",
-            "warning",
-            "price",
-            "mistake"
+            "speed"
           ],
           "answer": "A",
           "answer_index": 0,
-          "hint": "greeting 指問候語或打招呼的動作。"
+          "hint": "學者在畢業活動中發表演講；graduation ceremony 表示「畢業典禮」，因此填 ceremony。"
         },
         {
           "id": "h1-3-u4-cq010",
-          "vocab_id": "h1-3-u4-v004",
-          "question": "Will you ___ the meeting or stay at home?",
+          "vocab_id": "h1-3-u4-v006",
+          "question": "The professor demanded that Carl write his report again because there were too many ___ in it.",
+          "sentence_chinese": "教授要求 Carl 重寫報告，因為報告裡有太多錯誤。",
           "options": [
-            "miss",
-            "forget",
-            "cancel",
-            "attend"
+            "greetings",
+            "ceremonies",
+            "errors",
+            "customs"
           ],
-          "answer": "D",
-          "answer_index": 3,
-          "hint": "attend 指出席、參加活動。"
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "教授要求重寫報告，原因是報告裡有太多「錯誤」；too many 後接複數可數名詞，因此填 errors。"
         },
         {
           "id": "h1-3-u4-cq011",
-          "vocab_id": "h1-3-u4-v004",
-          "question": "All students must ___ the school ceremony.",
+          "vocab_id": "h1-3-u4-v006",
+          "question": "After a thorough investigation, these experts concluded that the airplane crash mainly resulted from human ___.",
+          "sentence_chinese": "經過徹底調查後，這些專家認定這起墜機事故主要是人為疏失造成的。",
           "options": [
-            "attend",
-            "miss",
-            "cancel",
-            "forget"
+            "custom",
+            "error",
+            "greeting",
+            "ceremony"
           ],
-          "answer": "A",
-          "answer_index": 0,
-          "hint": "attend 指出席、參加活動。"
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "專家調查墜機原因後認定是人為疏失；human error 表示「人為錯誤；人為疏失」，因此填 error。"
         },
         {
           "id": "h1-3-u4-cq012",
-          "vocab_id": "h1-3-u4-v004",
-          "question": "I am free tonight, so I can ___ your party.",
+          "vocab_id": "h1-3-u4-v007",
+          "question": "The mailman ___ letters to the remote village in the mountains once a week.",
+          "sentence_chinese": "郵差每週一次將信件送到山中的偏遠村落。",
           "options": [
-            "attend",
-            "forget",
-            "cancel",
-            "miss"
-          ],
-          "answer": "A",
-          "answer_index": 0,
-          "hint": "attend 指出席、參加活動。"
-        },
-        {
-          "id": "h1-3-u4-cq013",
-          "vocab_id": "h1-3-u4-v005",
-          "question": "The students received their prizes at the ___.",
-          "options": [
-            "machine",
-            "ceremony",
-            "notebook",
-            "factory"
-          ],
-          "answer": "B",
-          "answer_index": 1,
-          "hint": "ceremony 指典禮或儀式。"
-        },
-        {
-          "id": "h1-3-u4-cq014",
-          "vocab_id": "h1-3-u4-v005",
-          "question": "The school held a ___ to welcome the new students.",
-          "options": [
-            "factory",
-            "machine",
-            "ceremony",
-            "notebook"
-          ],
-          "answer": "C",
-          "answer_index": 2,
-          "hint": "ceremony 指典禮或儀式。"
-        },
-        {
-          "id": "h1-3-u4-cq015",
-          "vocab_id": "h1-3-u4-v005",
-          "question": "Everyone stood quietly during the flag-raising ___.",
-          "options": [
-            "factory",
-            "notebook",
-            "ceremony",
-            "machine"
-          ],
-          "answer": "C",
-          "answer_index": 2,
-          "hint": "ceremony 指典禮或儀式。"
-        },
-        {
-          "id": "h1-3-u4-cq016",
-          "vocab_id": "h1-3-u4-v006",
-          "question": "There is an ___ in your answer. Please check it again.",
-          "options": [
-            "answer",
-            "gift",
-            "lesson",
-            "error"
+            "attends",
+            "celebrates",
+            "calculates",
+            "delivers"
           ],
           "answer": "D",
           "answer_index": 3,
-          "hint": "error 指錯誤；需要更正的地方是線索。"
+          "hint": "郵差把信件送到村落，表示「投遞」，用 deliver；once a week 表示固定習慣，主詞 The mailman 是第三人稱單數，因此填 delivers。"
         },
         {
-          "id": "h1-3-u4-cq017",
-          "vocab_id": "h1-3-u4-v006",
-          "question": "I made an ___ when I typed your name.",
+          "id": "h1-3-u4-cq013",
+          "vocab_id": "h1-3-u4-v008",
+          "question": "It’s estimated that there will be more than one ___ people out of work due to this financial crisis.",
+          "sentence_chinese": "據估計，這場金融危機將造成超過一百萬人失業。",
           "options": [
-            "answer",
-            "lesson",
-            "error",
-            "gift"
+            "custom",
+            "ceremony",
+            "million",
+            "greeting"
           ],
           "answer": "C",
           "answer_index": 2,
-          "hint": "error 指錯誤；需要更正的地方是線索。"
+          "hint": "one 後面需要表示人數的數量詞；one million people 表示「一百萬人」。million 前面有明確數字時不加 s。"
         },
         {
-          "id": "h1-3-u4-cq018",
-          "vocab_id": "h1-3-u4-v006",
-          "question": "The program stopped because of a computer ___.",
+          "id": "h1-3-u4-cq014",
+          "vocab_id": "h1-3-u4-v009",
+          "question": "It is amazing that this new sports car can run at a maximum ___ of 300 kilometers an hour!",
+          "sentence_chinese": "這輛新跑車的最高時速可達 300 公里，真是令人驚嘆！",
           "options": [
-            "lesson",
             "error",
-            "gift",
-            "answer"
+            "speed",
+            "greeting",
+            "custom"
           ],
           "answer": "B",
           "answer_index": 1,
-          "hint": "error 指錯誤；需要更正的地方是線索。"
+          "hint": "300 kilometers an hour 表示每小時 300 公里，是速度；at a maximum speed of 表示「以最高……的速度」，因此填 speed。"
         },
         {
-          "id": "h1-3-u4-cq019",
-          "vocab_id": "h1-3-u4-v007",
-          "question": "The driver will ___ the package to your house.",
+          "id": "h1-3-u4-cq015",
+          "vocab_id": "h1-3-u4-v009",
+          "question": "Drivers must always pay attention to the ___ limits in different sections on the highway.",
+          "sentence_chinese": "駕駛人必須隨時注意高速公路不同路段的速限。",
           "options": [
-            "hide",
-            "deliver",
-            "break",
-            "borrow"
+            "speed",
+            "greeting",
+            "ceremony",
+            "custom"
           ],
-          "answer": "B",
-          "answer_index": 1,
-          "hint": "deliver 指遞送，將信件或物品送到收件處。"
-        },
-        {
-          "id": "h1-3-u4-cq020",
-          "vocab_id": "h1-3-u4-v007",
-          "question": "Can this shop ___ our food before noon?",
-          "options": [
-            "hide",
-            "deliver",
-            "break",
-            "borrow"
-          ],
-          "answer": "B",
-          "answer_index": 1,
-          "hint": "deliver 指遞送，將信件或物品送到收件處。"
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "句子提醒駕駛注意高速公路各路段的限制；speed limits 表示「速度限制；速限」，因此填 speed。"
         }
       ]
     }
