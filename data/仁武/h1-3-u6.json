@@ -38,282 +38,182 @@
         {
           "id": "h1-3-u6-cq001",
           "vocab_id": "h1-3-u6-v001",
-          "question": "The ___ took photos of every famous place in the city.",
+          "question": "Every summer, millions of ___ flock to this small island to go on vacation and enjoy the leisurely atmosphere.",
+          "sentence_chinese": "每年夏天，數以百萬計的遊客湧入這座小島度假，享受悠閒的氣氛。",
           "options": [
-            "doctor",
-            "tourist",
-            "teacher",
-            "farmer"
+            "regions",
+            "tourists",
+            "departments",
+            "runways"
           ],
           "answer": "B",
           "answer_index": 1,
-          "hint": "tourist 指到外地遊覽的旅客。"
+          "hint": "每年夏天湧入小島度假的人是遊客；millions of 後面用複數 tourists。"
         },
         {
           "id": "h1-3-u6-cq002",
-          "vocab_id": "h1-3-u6-v001",
-          "question": "As a ___, I visited museums and bought gifts for my family.",
+          "vocab_id": "h1-3-u6-v002",
+          "question": "The police just found out that the car used by the robbers had not been ___.",
+          "sentence_chinese": "警方剛發現，搶匪使用的那輛車並未登記。",
           "options": [
-            "doctor",
-            "teacher",
-            "tourist",
-            "farmer"
+            "invited",
+            "taught",
+            "registered",
+            "fed"
           ],
           "answer": "C",
           "answer_index": 2,
-          "hint": "tourist 指到外地遊覽的旅客。"
+          "hint": "警方發現搶匪使用的車輛並未登記；had not been 後接過去分詞 registered，表示「尚未被登記」。"
         },
         {
           "id": "h1-3-u6-cq003",
-          "vocab_id": "h1-3-u6-v001",
-          "question": "The ___ asked where to buy a ticket for the city tour.",
+          "vocab_id": "h1-3-u6-v002",
+          "question": "Students who are interested in this new course have to ___ for it by the end of September.",
+          "sentence_chinese": "對這門新課程有興趣的學生必須在九月底前報名。",
           "options": [
-            "teacher",
-            "tourist",
-            "farmer",
-            "doctor"
+            "register",
+            "forget",
+            "damage",
+            "collect"
           ],
-          "answer": "B",
-          "answer_index": 1,
-          "hint": "tourist 指到外地遊覽的旅客。"
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "對新課程有興趣的學生必須在九月底前報名；register for 表示「報名參加」，have to 後接原形 register。"
         },
         {
           "id": "h1-3-u6-cq004",
-          "vocab_id": "h1-3-u6-v001",
-          "question": "The hotel gives each ___ a map of popular sights.",
+          "vocab_id": "h1-3-u6-v003",
+          "question": "That primitive tribe lives in a remote mountainous ___ where few other people have set foot.",
+          "sentence_chinese": "那個原始部落住在偏遠的山區，幾乎沒有其他人踏足過。",
           "options": [
-            "doctor",
-            "farmer",
-            "tourist",
-            "teacher"
+            "document",
+            "vehicle",
+            "factory",
+            "region"
           ],
-          "answer": "C",
-          "answer_index": 2,
-          "hint": "tourist 指到外地遊覽的旅客。"
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "部落居住在偏遠的山區；mountainous region 表示「山區」，region 是地區或區域。"
         },
         {
           "id": "h1-3-u6-cq005",
-          "vocab_id": "h1-3-u6-v002",
-          "question": "You must ___ for the race before you can join it.",
+          "vocab_id": "h1-3-u6-v004",
+          "question": "The ___ of this city have long been troubled by the lack of parking spaces.",
+          "sentence_chinese": "這座城市的居民長期受到停車位不足的困擾。",
           "options": [
-            "hide",
-            "forget",
-            "cancel",
-            "register"
+            "regions",
+            "residents",
+            "runways",
+            "regulations"
           ],
-          "answer": "D",
-          "answer_index": 3,
-          "hint": "register 指登記或報名；先留下姓名資料是線索。"
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "受到城市停車位不足困擾的是當地居民；後面的 have 表示主詞為複數，因此填 residents。"
         },
         {
           "id": "h1-3-u6-cq006",
-          "vocab_id": "h1-3-u6-v002",
-          "question": "Please ___ your name at the desk when you arrive.",
+          "vocab_id": "h1-3-u6-v005",
+          "question": "The ___ departments in many companies are now called human resources departments.",
+          "sentence_chinese": "許多公司的人事部門現在稱為人力資源部門。",
           "options": [
-            "register",
-            "hide",
-            "forget",
-            "cancel"
+            "personnel",
+            "paradise",
+            "runway",
+            "coffee"
           ],
           "answer": "A",
           "answer_index": 0,
-          "hint": "register 指登記或報名；先留下姓名資料是線索。"
+          "hint": "human resources departments 是人力資源部門，舊稱 personnel departments（人事部門）；personnel 指全體人員或員工。"
         },
         {
           "id": "h1-3-u6-cq007",
-          "vocab_id": "h1-3-u6-v002",
-          "question": "Students can ___ online to join the summer class.",
+          "vocab_id": "h1-3-u6-v006",
+          "question": "Enjoying a hot cup of coffee in a cozy café on a winter’s afternoon is just like living in ___.",
+          "sentence_chinese": "冬日午後，在舒適的咖啡館享用一杯熱咖啡，就像身處天堂。",
           "options": [
-            "cancel",
-            "forget",
-            "register",
-            "hide"
+            "prison",
+            "factory",
+            "desert",
+            "paradise"
           ],
-          "answer": "C",
-          "answer_index": 2,
-          "hint": "register 指登記或報名；先留下姓名資料是線索。"
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "在冬日午後的舒適咖啡館享用熱咖啡，讓人覺得像身處天堂；living in paradise 表示「生活在天堂般美好的地方」。"
         },
         {
           "id": "h1-3-u6-cq008",
-          "vocab_id": "h1-3-u6-v002",
-          "question": "There are only ten places, so ___ for the course today.",
-          "options": [
-            "forget",
-            "hide",
-            "cancel",
-            "register"
-          ],
-          "answer": "D",
-          "answer_index": 3,
-          "hint": "register 指登記或報名；先留下姓名資料是線索。"
-        },
-        {
-          "id": "h1-3-u6-cq009",
-          "vocab_id": "h1-3-u6-v003",
-          "question": "This ___ in the north gets a lot of snow.",
-          "options": [
-            "machine",
-            "holiday",
-            "region",
-            "person"
-          ],
-          "answer": "C",
-          "answer_index": 2,
-          "hint": "region 指地區，是一片地理範圍。"
-        },
-        {
-          "id": "h1-3-u6-cq010",
-          "vocab_id": "h1-3-u6-v003",
-          "question": "Farmers in this dry ___ need more rain.",
-          "options": [
-            "holiday",
-            "region",
-            "machine",
-            "person"
-          ],
-          "answer": "B",
-          "answer_index": 1,
-          "hint": "region 指地區，是一片地理範圍。"
-        },
-        {
-          "id": "h1-3-u6-cq011",
-          "vocab_id": "h1-3-u6-v003",
-          "question": "The mountain ___ is cooler than the coast.",
-          "options": [
-            "region",
-            "holiday",
-            "person",
-            "machine"
-          ],
-          "answer": "A",
-          "answer_index": 0,
-          "hint": "region 指地區，是一片地理範圍。"
-        },
-        {
-          "id": "h1-3-u6-cq012",
-          "vocab_id": "h1-3-u6-v004",
-          "question": "I have lived here for twenty years. I am a local ___.",
-          "options": [
-            "resident",
-            "visitor",
-            "guest",
-            "tourist"
-          ],
-          "answer": "A",
-          "answer_index": 0,
-          "hint": "resident 是居民，長期住在某地的人。"
-        },
-        {
-          "id": "h1-3-u6-cq013",
-          "vocab_id": "h1-3-u6-v004",
-          "question": "Each ___ of this building has a key to the main door.",
-          "options": [
-            "guest",
-            "resident",
-            "tourist",
-            "visitor"
-          ],
-          "answer": "B",
-          "answer_index": 1,
-          "hint": "resident 是居民，長期住在某地的人。"
-        },
-        {
-          "id": "h1-3-u6-cq014",
-          "vocab_id": "h1-3-u6-v004",
-          "question": "She moved into this town and became a ___ last year.",
-          "options": [
-            "resident",
-            "visitor",
-            "tourist",
-            "guest"
-          ],
-          "answer": "A",
-          "answer_index": 0,
-          "hint": "resident 是居民，長期住在某地的人。"
-        },
-        {
-          "id": "h1-3-u6-cq015",
-          "vocab_id": "h1-3-u6-v005",
-          "question": "Only hospital ___ may enter the staff room.",
-          "options": [
-            "weather",
-            "traffic",
-            "furniture",
-            "personnel"
-          ],
-          "answer": "D",
-          "answer_index": 3,
-          "hint": "personnel 指機構中的工作人員。"
-        },
-        {
-          "id": "h1-3-u6-cq016",
-          "vocab_id": "h1-3-u6-v005",
-          "question": "The company needs more ___ to work in its new office.",
-          "options": [
-            "personnel",
-            "traffic",
-            "furniture",
-            "weather"
-          ],
-          "answer": "A",
-          "answer_index": 0,
-          "hint": "personnel 指機構中的工作人員。"
-        },
-        {
-          "id": "h1-3-u6-cq017",
-          "vocab_id": "h1-3-u6-v005",
-          "question": "All school ___, including teachers and office workers, attended the meeting.",
-          "options": [
-            "furniture",
-            "personnel",
-            "weather",
-            "traffic"
-          ],
-          "answer": "B",
-          "answer_index": 1,
-          "hint": "personnel 指機構中的工作人員。"
-        },
-        {
-          "id": "h1-3-u6-cq018",
           "vocab_id": "h1-3-u6-v006",
-          "question": "With beautiful beaches and clear water, the island felt like ___.",
+          "question": "This tropical forest is a ___ for a wide variety of animals and plants.",
+          "sentence_chinese": "這座熱帶森林是各式各樣動植物的天堂。",
           "options": [
-            "desert",
             "prison",
             "factory",
-            "paradise"
-          ],
-          "answer": "D",
-          "answer_index": 3,
-          "hint": "paradise 指天堂般美好的地方。"
-        },
-        {
-          "id": "h1-3-u6-cq019",
-          "vocab_id": "h1-3-u6-v006",
-          "question": "This huge bookstore is a ___ for people who love books.",
-          "options": [
-            "prison",
-            "desert",
-            "factory",
-            "paradise"
-          ],
-          "answer": "D",
-          "answer_index": 3,
-          "hint": "paradise 指天堂般美好的地方。"
-        },
-        {
-          "id": "h1-3-u6-cq020",
-          "vocab_id": "h1-3-u6-v006",
-          "question": "The garden is a bird's ___, with plenty of food and safe trees.",
-          "options": [
-            "factory",
-            "prison",
             "paradise",
             "desert"
           ],
           "answer": "C",
           "answer_index": 2,
-          "hint": "paradise 指天堂般美好的地方。"
+          "hint": "熱帶森林適合各式各樣的動植物生存，因此稱為牠們的天堂；a paradise for 表示「……的天堂」。"
+        },
+        {
+          "id": "h1-3-u6-cq009",
+          "phrase_id": "h1-3-u6-p001",
+          "question": "Shilin Night Market, which ___ Taipei, has a wide variety of tasty local snacks.",
+          "sentence_chinese": "位於臺北的士林夜市有各式各樣美味的在地小吃。",
+          "options": [
+            "is located in",
+            "is covered with",
+            "consists of",
+            "keeps in shape"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "句子介紹士林夜市位於臺北；be located in 表示「位於……」，which 指單數的 Shilin Night Market，因此用 is located in。"
+        },
+        {
+          "id": "h1-3-u6-cq010",
+          "phrase_id": "h1-3-u6-p002",
+          "question": "The peak of Mount Fuji ___ snow during winter.",
+          "sentence_chinese": "富士山的山頂在冬季覆蓋著白雪。",
+          "options": [
+            "is located in",
+            "keeps in shape",
+            "is interested in",
+            "is covered with"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "富士山頂在冬季覆蓋著雪；be covered with 表示「被……覆蓋」，主詞 The peak 是單數，因此用 is covered with。"
+        },
+        {
+          "id": "h1-3-u6-cq011",
+          "phrase_id": "h1-3-u6-p003",
+          "question": "The board of this company ___ the boss’s relatives and friends.",
+          "sentence_chinese": "這家公司的董事會主要由老闆的親戚和朋友組成。",
+          "options": [
+            "is mostly covered with",
+            "is mostly located in",
+            "consists mostly of",
+            "keeps mostly in shape"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "董事會主要由老闆的親戚和朋友組成；consist of 表示「由……組成」。主詞 The board 是單數，用 consists；mostly 表示「主要地」，保留課本原句 consists mostly of。"
+        },
+        {
+          "id": "h1-3-u6-cq012",
+          "phrase_id": "h1-3-u6-p004",
+          "question": "In an interview, the charming actress told the host how she managed to ___ all those years.",
+          "sentence_chinese": "在一次訪談中，那位迷人的女演員告訴主持人，她那些年來是如何保持身材的。",
+          "options": [
+            "take over",
+            "keep in shape",
+            "fill in",
+            "consist of"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "女演員說明自己多年來如何保持身材；keep in shape 表示「保持良好狀況；保持身材」，managed to 後接原形。"
         }
       ]
     }
