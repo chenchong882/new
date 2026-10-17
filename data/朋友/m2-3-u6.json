@@ -1,0 +1,2131 @@
+{
+  "units": {
+    "m2-3-u6": {
+      "title": "U6",
+      "vocab": [
+        {
+          "word": "airplane (plane)",
+          "part_of_speech": "名",
+          "chinese": "飛機",
+          "sentence": "We went to Japan by airplane.",
+          "sentence_chinese": "我們搭飛機去日本。",
+          "id": "m2-3-u6-v001"
+        },
+        {
+          "word": "bicycle (bike)",
+          "part_of_speech": "名",
+          "chinese": "腳踏車",
+          "sentence": "My sister goes to school by bicycle.",
+          "sentence_chinese": "我妹妹騎腳踏車上學。",
+          "id": "m2-3-u6-v002"
+        },
+        {
+          "word": "truck",
+          "part_of_speech": "名",
+          "chinese": "卡車",
+          "sentence": "The truck is next to the bank.",
+          "sentence_chinese": "那輛卡車在銀行旁邊。",
+          "id": "m2-3-u6-v003"
+        },
+        {
+          "word": "scooter",
+          "part_of_speech": "名",
+          "chinese": "機車",
+          "sentence": "My mom goes to work by scooter.",
+          "sentence_chinese": "我媽媽騎機車上班。",
+          "id": "m2-3-u6-v004"
+        },
+        {
+          "word": "motorcycle",
+          "part_of_speech": "名",
+          "chinese": "重型機車",
+          "sentence": "He rides a motorcycle to the station.",
+          "sentence_chinese": "他騎重型機車去車站。",
+          "id": "m2-3-u6-v005"
+        },
+        {
+          "word": "taxi",
+          "part_of_speech": "名",
+          "chinese": "計程車",
+          "sentence": "We took a taxi to the museum.",
+          "sentence_chinese": "我們搭計程車去博物館。",
+          "id": "m2-3-u6-v006"
+        },
+        {
+          "word": "ship",
+          "part_of_speech": "名",
+          "chinese": "船",
+          "sentence": "They went to the island by ship.",
+          "sentence_chinese": "他們搭船去那座島。",
+          "id": "m2-3-u6-v007"
+        },
+        {
+          "word": "north",
+          "part_of_speech": "名；形；副",
+          "chinese": "北方；北方的；向北方",
+          "sentence": "Go north and turn left at the bank.",
+          "sentence_chinese": "往北走，在銀行左轉。",
+          "id": "m2-3-u6-v008"
+        },
+        {
+          "word": "west",
+          "part_of_speech": "名；形；副",
+          "chinese": "西方；西方的；向西方",
+          "sentence": "Walk west for two blocks.",
+          "sentence_chinese": "往西走兩個街區。",
+          "id": "m2-3-u6-v009"
+        },
+        {
+          "word": "south",
+          "part_of_speech": "名；形；副",
+          "chinese": "南方；南方的；向南方",
+          "sentence": "Drive south along this road.",
+          "sentence_chinese": "沿著這條路往南開。",
+          "id": "m2-3-u6-v010"
+        },
+        {
+          "word": "east",
+          "part_of_speech": "名；形；副",
+          "chinese": "東方；東方的；向東方",
+          "sentence": "Go east and cross the street.",
+          "sentence_chinese": "往東走，再穿越馬路。",
+          "id": "m2-3-u6-v011"
+        },
+        {
+          "word": "drive / drove",
+          "part_of_speech": "動",
+          "chinese": "開車",
+          "sentence": "My dad drove to the station yesterday.",
+          "sentence_chinese": "我爸爸昨天開車去車站。",
+          "id": "m2-3-u6-v012"
+        },
+        {
+          "word": "ride / rode",
+          "part_of_speech": "動",
+          "chinese": "騎；乘坐",
+          "sentence": "She rode a bike to the park.",
+          "sentence_chinese": "她騎腳踏車去公園。",
+          "id": "m2-3-u6-v013"
+        },
+        {
+          "word": "row",
+          "part_of_speech": "動",
+          "chinese": "划船",
+          "sentence": "They rowed a boat to the island.",
+          "sentence_chinese": "他們划船去那座島。",
+          "id": "m2-3-u6-v014"
+        },
+        {
+          "word": "Excuse me",
+          "part_of_speech": "片",
+          "chinese": "不好意思；打擾一下",
+          "sentence": "Excuse me, how can I get there?",
+          "sentence_chinese": "不好意思，我要怎麼到那裡？",
+          "id": "m2-3-u6-v015"
+        },
+        {
+          "word": "sir",
+          "part_of_speech": "名",
+          "chinese": "先生",
+          "sentence": "Excuse me, sir. Where is the station?",
+          "sentence_chinese": "不好意思，先生。車站在哪裡？",
+          "id": "m2-3-u6-v016"
+        },
+        {
+          "word": "turn left",
+          "part_of_speech": "片",
+          "chinese": "左轉",
+          "sentence": "Turn left at the next corner.",
+          "sentence_chinese": "在下一個轉角左轉。",
+          "id": "m2-3-u6-v017"
+        },
+        {
+          "word": "corner",
+          "part_of_speech": "名",
+          "chinese": "角落；轉角",
+          "sentence": "The bank is on the corner.",
+          "sentence_chinese": "銀行在轉角處。",
+          "id": "m2-3-u6-v018"
+        },
+        {
+          "word": "straight",
+          "part_of_speech": "副",
+          "chinese": "直直地",
+          "sentence": "Go straight for three blocks.",
+          "sentence_chinese": "直走三個街區。",
+          "id": "m2-3-u6-v019"
+        },
+        {
+          "word": "block",
+          "part_of_speech": "名",
+          "chinese": "街區",
+          "sentence": "Walk one block and turn right.",
+          "sentence_chinese": "走一個街區，再右轉。",
+          "id": "m2-3-u6-v020"
+        },
+        {
+          "word": "across from",
+          "part_of_speech": "片",
+          "chinese": "在……對面",
+          "sentence": "The museum is across from the library.",
+          "sentence_chinese": "博物館在圖書館對面。",
+          "id": "m2-3-u6-v021"
+        },
+        {
+          "word": "bottom",
+          "part_of_speech": "名",
+          "chinese": "底部",
+          "sentence": "The station is at the bottom of the map.",
+          "sentence_chinese": "車站在地圖下方。",
+          "id": "m2-3-u6-v022"
+        },
+        {
+          "word": "rule",
+          "part_of_speech": "名",
+          "chinese": "規則",
+          "sentence": "Follow this rule when you cross the street.",
+          "sentence_chinese": "過馬路時要遵守這項規則。",
+          "id": "m2-3-u6-v023"
+        },
+        {
+          "word": "broken",
+          "part_of_speech": "形",
+          "chinese": "壞掉的",
+          "sentence": "My bike is broken, so I will take a bus.",
+          "sentence_chinese": "我的腳踏車壞了，所以我會搭公車。",
+          "id": "m2-3-u6-v024"
+        },
+        {
+          "word": "shake hands / shook hands",
+          "part_of_speech": "片",
+          "chinese": "握手",
+          "sentence": "We shook hands in front of the station.",
+          "sentence_chinese": "我們在車站前握手。",
+          "id": "m2-3-u6-v025"
+        },
+        {
+          "word": "favorite",
+          "part_of_speech": "形",
+          "chinese": "最喜愛的",
+          "sentence": "My favorite shop is next to the bank.",
+          "sentence_chinese": "我最喜歡的商店在銀行旁邊。",
+          "id": "m2-3-u6-v026"
+        },
+        {
+          "word": "pocket",
+          "part_of_speech": "名",
+          "chinese": "口袋",
+          "sentence": "Put the map in your pocket.",
+          "sentence_chinese": "把地圖放進你的口袋。",
+          "id": "m2-3-u6-v027"
+        },
+        {
+          "word": "monster",
+          "part_of_speech": "名",
+          "chinese": "怪物",
+          "sentence": "The monster is behind the taxi.",
+          "sentence_chinese": "怪物在計程車後面。",
+          "id": "m2-3-u6-v028"
+        },
+        {
+          "word": "clerk",
+          "part_of_speech": "名",
+          "chinese": "店員",
+          "sentence": "Ask the clerk how to get there.",
+          "sentence_chinese": "問店員要怎麼到那裡。",
+          "id": "m2-3-u6-v029"
+        },
+        {
+          "word": "convenient",
+          "part_of_speech": "形",
+          "chinese": "方便的",
+          "sentence": "It is convenient to go there by metro.",
+          "sentence_chinese": "搭捷運去那裡很方便。",
+          "id": "m2-3-u6-v030"
+        },
+        {
+          "word": "mistake",
+          "part_of_speech": "名",
+          "chinese": "錯誤",
+          "sentence": "I made a mistake and took the wrong bus.",
+          "sentence_chinese": "我弄錯了，搭錯公車。",
+          "id": "m2-3-u6-v031"
+        },
+        {
+          "word": "parking space",
+          "part_of_speech": "名",
+          "chinese": "停車位",
+          "sentence": "There is a parking space behind the hotel.",
+          "sentence_chinese": "旅館後面有一個停車位。",
+          "id": "m2-3-u6-v032"
+        },
+        {
+          "word": "visitor",
+          "part_of_speech": "名",
+          "chinese": "遊客；訪客",
+          "sentence": "The visitor took a bus to the museum.",
+          "sentence_chinese": "那位遊客搭公車去博物館。",
+          "id": "m2-3-u6-v033"
+        },
+        {
+          "word": "cheap",
+          "part_of_speech": "形",
+          "chinese": "便宜的",
+          "sentence": "The bus ticket to the park is cheap.",
+          "sentence_chinese": "到公園的公車票很便宜。",
+          "id": "m2-3-u6-v034"
+        },
+        {
+          "word": "beef",
+          "part_of_speech": "名",
+          "chinese": "牛肉",
+          "sentence": "Walk to the market and buy some beef.",
+          "sentence_chinese": "走到市場，買一些牛肉。",
+          "id": "m2-3-u6-v035"
+        }
+      ],
+      "phrases": [
+        {
+          "id": "m2-3-u6-p001",
+          "phrase": "next to",
+          "chinese": "在……旁邊",
+          "sentence": "The bank is next to the hotel.",
+          "sentence_chinese": "銀行在旅館旁邊。"
+        },
+        {
+          "id": "m2-3-u6-p002",
+          "phrase": "in front of",
+          "chinese": "在……前面",
+          "sentence": "The bus stop is in front of the post office.",
+          "sentence_chinese": "公車站在郵局前面。"
+        },
+        {
+          "id": "m2-3-u6-p003",
+          "phrase": "behind / in back of",
+          "chinese": "在……後面",
+          "sentence": "The post office is behind the bus stop.",
+          "sentence_chinese": "郵局在公車站後面。"
+        },
+        {
+          "id": "m2-3-u6-p004",
+          "phrase": "on the corner of A and B",
+          "chinese": "在 A 和 B 的交叉路口",
+          "sentence": "The coffee shop is on the corner of City Road and First Street.",
+          "sentence_chinese": "咖啡店在 City Road 和 First Street 的交叉路口。"
+        },
+        {
+          "id": "m2-3-u6-p005",
+          "phrase": "between A and B",
+          "chinese": "在 A 和 B 之間",
+          "sentence": "The gym is between a library and a temple.",
+          "sentence_chinese": "體育館在圖書館和寺廟之間。"
+        },
+        {
+          "id": "m2-3-u6-p006",
+          "phrase": "go / walk straight",
+          "chinese": "直走",
+          "sentence": "Go straight for three blocks.",
+          "sentence_chinese": "直走三個街區。"
+        },
+        {
+          "id": "m2-3-u6-p007",
+          "phrase": "walk down / along",
+          "chinese": "沿著……走",
+          "sentence": "Walk along the street for five minutes.",
+          "sentence_chinese": "沿著這條街走五分鐘。"
+        },
+        {
+          "id": "m2-3-u6-p008",
+          "phrase": "walk past",
+          "chinese": "走過……",
+          "sentence": "Walk past the hotel.",
+          "sentence_chinese": "走過那間旅館。"
+        },
+        {
+          "id": "m2-3-u6-p009",
+          "phrase": "turn right / make a right turn",
+          "chinese": "右轉",
+          "sentence": "Make a right turn at the corner.",
+          "sentence_chinese": "在轉角處右轉。"
+        },
+        {
+          "id": "m2-3-u6-p010",
+          "phrase": "cross / go across",
+          "chinese": "穿越……",
+          "sentence": "Cross Ocean Street.",
+          "sentence_chinese": "穿越 Ocean Street。"
+        },
+        {
+          "id": "m2-3-u6-p011",
+          "phrase": "on the right / left",
+          "chinese": "在右邊／左邊",
+          "sentence": "It's on the right.",
+          "sentence_chinese": "它在右邊。"
+        },
+        {
+          "id": "m2-3-u6-p012",
+          "phrase": "on foot",
+          "chinese": "步行",
+          "sentence": "Ann went to the theater on foot yesterday.",
+          "sentence_chinese": "Ann 昨天走路去劇院。"
+        },
+        {
+          "id": "m2-3-u6-p013",
+          "phrase": "get in / out of",
+          "chinese": "上／下車（汽車、計程車）",
+          "sentence": "Get in the taxi at the corner.",
+          "sentence_chinese": "在轉角處上計程車。"
+        },
+        {
+          "id": "m2-3-u6-p014",
+          "phrase": "get on / off",
+          "chinese": "上／下車（公車、火車等）",
+          "sentence": "Get off the bus at the next stop.",
+          "sentence_chinese": "在下一站下公車。"
+        }
+      ],
+      "grammar": {
+        "tips": [
+          {
+            "label": "問位置",
+            "text": "Where + be + 地點？回答用「主詞 + be + 位置片語」。"
+          },
+          {
+            "label": "問怎麼去",
+            "text": "How + do / does / did / can / will + 主詞 + go / get to + 地點？助動詞後用原形動詞。"
+          },
+          {
+            "label": "here / there / home",
+            "text": "這三個字可直接表示地點，go / get 後不用再加 to：get there、go home。"
+          },
+          {
+            "label": "指路",
+            "text": "指路常用原形動詞開頭：Go straight. / Turn left. / Cross the street. 否定用 Don’t + 原形動詞。"
+          },
+          {
+            "label": "交通方式",
+            "text": "go by bus = take a bus；go by bike = ride a bike。by 後不加 a、the 或所有格；步行用 on foot。"
+          },
+          {
+            "label": "上下車",
+            "text": "汽車、計程車用 get in / out of；公車、火車、捷運等用 get on / off。"
+          }
+        ],
+        "notes": [
+          {
+            "title": "位置描述與 Where 問句",
+            "rule": "Where + is / are + 地點？\n主詞 + is / are + 位置片語。",
+            "description": "問「在哪裡」用 Where。單數地點配 is，複數配 are；回答時用 be 動詞連接主詞與位置。常見片語：across from（對面）、next to（旁邊）、in front of（前面）、behind / in back of（後面）。",
+            "examples": [
+              "Where is the post office? — It is next to the bank.（郵局在哪裡？——在銀行旁邊。）",
+              "Where are the taxis? — They are in front of the hotel.（計程車在哪裡？——在旅館前面。）",
+              "The school is across from the church.（學校在教堂對面。）"
+            ]
+          },
+          {
+            "title": "兩個地點之間與交叉路口",
+            "rule": "between A and B\non the corner of A and B",
+            "description": "between A and B 表示在兩個地點之間，兩端用 and 連接。描述兩條路交會處可用 on the corner of，後面列出兩條路名。指示在哪裡轉彎時，常用 at the corner。",
+            "examples": [
+              "The gym is between a library and a temple.（體育館在圖書館和寺廟之間。）",
+              "The coffee shop is on the corner of City Road and First Street.（咖啡店在 City Road 和 First Street 的交叉路口。）",
+              "Turn left at the corner.（在轉角左轉。）"
+            ]
+          },
+          {
+            "title": "How 問路與交通方式",
+            "rule": "How + do / does / did / can / will + 主詞 + go / get to + 地點？",
+            "description": "How 詢問「怎麼去」，回答可以提供路線或交通方式。現在習慣用 do / does；過去用 did；能力或可行方式可用 can；未來可用 will。助動詞後面的動詞用原形，不能再加 -s 或保留過去式。",
+            "examples": [
+              "How does your brother get to school? — He rides a bike.（你哥哥怎麼上學？——他騎腳踏車。）",
+              "How did they go to the museum? — They took a bus.（他們怎麼去博物館的？——搭公車。）",
+              "How can I get to the market? — Go straight for two blocks.（我要怎麼到市場？——直走兩個街區。）"
+            ]
+          },
+          {
+            "title": "get to 與地點副詞",
+            "rule": "get / go to + 地點名詞\nget / go + here / there / home",
+            "description": "school、the station 等地點名詞前通常需要 to。here、there、home 在此是地點副詞，直接放在 go / get 後面，不加 to。here 的用法要配合說話者所在位置，例如 get here、come here。",
+            "examples": [
+              "How can I get to the station?（我要怎麼到車站？）",
+              "How can I get there?（我要怎麼到那裡？）",
+              "She goes home by bus.（她搭公車回家。）",
+              "How did you get here?（你怎麼來這裡的？）"
+            ]
+          },
+          {
+            "title": "祈使句指路",
+            "rule": "原形動詞 + 其他成分。\nDon’t / Do not + 原形動詞。\nLet’s + 原形動詞。",
+            "description": "指路、請求或提醒常用祈使句，省略主詞 you，直接以原形動詞開頭。Please 後也用原形。Don’t 表示不要做某事；Let’s 表示「我們一起……」。兩個動作用 and 連接時，都維持原形。",
+            "examples": [
+              "Go straight for three blocks.（直走三個街區。）",
+              "Please turn left at the traffic lights.（請在紅綠燈處左轉。）",
+              "Don’t cross the street now.（現在不要過馬路。）",
+              "Let’s take a taxi to the museum.（我們搭計程車去博物館吧。）"
+            ]
+          },
+          {
+            "title": "直走、沿路走與走過",
+            "rule": "go / walk straight for + 距離\nwalk down / along + 路名\nwalk past + 地點",
+            "description": "straight 是副詞，可直接修飾 go / walk。for 可接移動的距離或持續時間。down / along 表示沿著路走；past 表示經過某個地點。block 指街區。",
+            "examples": [
+              "Walk along the street for five minutes.（沿著這條街走五分鐘。）",
+              "Walk past the hotel. The bakery is next to it.（走過旅館；麵包店就在它旁邊。）",
+              "Drive straight for two blocks.（直開兩個街區。）"
+            ]
+          },
+          {
+            "title": "轉彎、穿越與左右側",
+            "rule": "turn left / right = make a left / right turn\ncross + 道路 = go across + 道路\nbe on the / your left / right",
+            "description": "turn left / right 中的 turn 是動詞；make a right turn 中的 turn 是名詞，因此有 a。cross 本身是動詞；across 是介系詞，前面需要 go、walk 等動詞。描述位於某人的左右側用 on your left / right。",
+            "examples": [
+              "Make a right turn at the corner.（在轉角右轉。）",
+              "Turn right onto Second Street.（右轉進入 Second Street。）",
+              "Cross Ocean Street. = Go across Ocean Street.（穿越 Ocean Street。）",
+              "The hotel is on your right.（旅館在你的右邊。）"
+            ]
+          },
+          {
+            "title": "by + 交通工具與 on foot",
+            "rule": "主詞 + go / get to + 地點 + by + 單數交通工具\n步行：on foot",
+            "description": "by 用來表達交通方式時，交通工具前不加 a、the、my 等限定詞，也不用複數：by bus、by train、by bike、by taxi、by airplane。步行用 on foot，不能類推成 by foot。",
+            "examples": [
+              "She goes to school by bicycle.（她騎腳踏車上學。）",
+              "We went to the island by ship.（我們搭船去那座島。）",
+              "Ann went to the theater on foot yesterday.（Ann 昨天走路去劇院。）"
+            ]
+          },
+          {
+            "title": "take / ride / drive 的交通句型",
+            "rule": "主詞 + take / ride / drive + a / the / 所有格 + 交通工具 + to + 地點",
+            "description": "take 後可接 bus、taxi、train、plane、ship 等；ride 常接 bike、scooter、motorcycle；drive 表示駕駛。交通工具是動詞受詞時，可數單數名詞通常要有限定詞。捷運常用 take the metro。兩種表達不要混用成 take by bus。drive to + 地點、walk to + 地點也很常用。",
+            "examples": [
+              "David took a bus to the train station.（David 搭公車去火車站。）",
+              "Benson usually rides a bike to school.（Benson 通常騎腳踏車上學。）",
+              "She goes to work by metro. = She takes the metro to work.（她搭捷運上班。）",
+              "We drove to the night market.（我們開車去夜市。）"
+            ]
+          },
+          {
+            "title": "交通句型中的動詞變化",
+            "rule": "習慣：第三人稱單數 + takes / rides / drives\n過去：took / rode / drove / walked\ncan / will / do / does / did 後：原形動詞",
+            "description": "改寫交通方式時，要同時保留原句的人稱與時間。went 改寫為 take 的句型時要用 took；does 或 did 出現後，主要動詞恢復原形。現在進行式用 am / is / are + V-ing。",
+            "examples": [
+              "Erica always goes to school by bicycle. = Erica always rides a bicycle to school.（Erica 總是騎腳踏車上學。）",
+              "They went to the temple by taxi. = They took a taxi to the temple.（他們搭計程車去寺廟。）",
+              "Did your dad drive to work?（你爸爸是開車上班的嗎？）",
+              "He will ride his bike tomorrow.（他明天會騎腳踏車。）"
+            ]
+          },
+          {
+            "title": "上下交通工具",
+            "rule": "汽車、計程車：get in / get out of\n公車、火車、捷運、船、飛機、腳踏車、機車：get on / get off",
+            "description": "選擇上下車的表達時，先看交通工具。小客車與計程車用 get in / out of；公車、捷運等用 get on / off。get 的過去式是 got；在 can、will、should 或祈使句中用原形 get。",
+            "examples": [
+              "Please get in the taxi.（請上計程車。）",
+              "We got out of the car in front of the hotel.（我們在旅館前下車。）",
+              "Get off the bus at the next stop.（在下一站下公車。）",
+              "They got on the train at eight.（他們八點上火車。）"
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "id": "m2-3-u6-q001",
+            "question": "Where ___ the bus stop near the museum?",
+            "options": [
+              "A. are",
+              "B. do",
+              "C. is",
+              "D. does"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "the bus stop 是單數地點，Where 問位置時用 be 動詞 is。"
+          },
+          {
+            "id": "m2-3-u6-q002",
+            "question": "A: ___ is the parking space? B: It is behind the hotel.",
+            "options": [
+              "A. How",
+              "B. When",
+              "C. Where",
+              "D. What"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "回答 behind the hotel 是位置，因此用 Where 問「在哪裡」。"
+          },
+          {
+            "id": "m2-3-u6-q003",
+            "question": "A: ___ can I get to the zoo? B: Walk along this road and turn left.",
+            "options": [
+              "A. Where",
+              "B. How",
+              "C. When",
+              "D. Who"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "回答提供沿路走和左轉的路線，應用 How 問「怎麼去」。"
+          },
+          {
+            "id": "m2-3-u6-q004",
+            "question": "How ___ your sister go to work every morning?",
+            "options": [
+              "A. do",
+              "B. is",
+              "C. are",
+              "D. does"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "every morning 表示習慣，your sister 是第三人稱單數；主要動詞是 go，因此問句用 does。"
+          },
+          {
+            "id": "m2-3-u6-q005",
+            "question": "How ___ the visitors get to the hotel yesterday?",
+            "options": [
+              "A. do",
+              "B. does",
+              "C. are",
+              "D. did"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "yesterday 表示過去；get 是原形，問句以 did + 主詞 + get 表示過去交通方式。"
+          },
+          {
+            "id": "m2-3-u6-q006",
+            "question": "How ___ we get to the library? Is it possible to walk there?",
+            "options": [
+              "A. can",
+              "B. is",
+              "C. are",
+              "D. was"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "詢問可行的前往方式可用 How can we get to...?；be 動詞不能在此直接接原形 get。"
+          },
+          {
+            "id": "m2-3-u6-q007",
+            "question": "Where ___ the two taxis? I cannot see them.",
+            "options": [
+              "A. is",
+              "B. are",
+              "C. do",
+              "D. does"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "the two taxis 是複數，問位置用 Where are；do / does 不能在沒有主要動詞的句子中取代 be。"
+          },
+          {
+            "id": "m2-3-u6-q008",
+            "question": "How can I ___ home from this station?",
+            "options": [
+              "A. get",
+              "B. gets",
+              "C. got",
+              "D. getting"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "can 後接原形 get；home 是地點副詞，直接放在 get 後即可。"
+          },
+          {
+            "id": "m2-3-u6-q009",
+            "question": "How ___ your mother get here every day?",
+            "options": [
+              "A. does",
+              "B. do",
+              "C. is",
+              "D. are"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "your mother 是第三人稱單數，every day 表習慣；用 does 提問，後面的 get 維持原形。"
+          },
+          {
+            "id": "m2-3-u6-q010",
+            "question": "How did you ___ to the airport last night?",
+            "options": [
+              "A. go",
+              "B. went",
+              "C. goes",
+              "D. going"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "did 已標示過去，主要動詞必須恢復原形 go，不能再用 went。"
+          },
+          {
+            "id": "m2-3-u6-q011",
+            "question": "We can ___ to the train station on foot.",
+            "options": [
+              "A. goes",
+              "B. went",
+              "C. going",
+              "D. go"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "can 後用原形 go；on foot 表示步行，不會改變動詞形式。"
+          },
+          {
+            "id": "m2-3-u6-q012",
+            "question": "A: The new shop is near the park. B: How can we ___ there?",
+            "options": [
+              "A. get to",
+              "B. gets",
+              "C. getting",
+              "D. get"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "can 後用原形，there 是地點副詞，get there 中不可多加 to。"
+          },
+          {
+            "id": "m2-3-u6-q013",
+            "question": "After dinner, the visitors will ___ home by taxi.",
+            "options": [
+              "A. go",
+              "B. goes",
+              "C. went",
+              "D. going"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "will 後接原形 go；home 在此作地點副詞，形成 go home。"
+          },
+          {
+            "id": "m2-3-u6-q014",
+            "question": "Where ___ your father's truck yesterday afternoon?",
+            "options": [
+              "A. were",
+              "B. is",
+              "C. was",
+              "D. are"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "yesterday afternoon 是過去時間，truck 是單數；位置問句的 be 動詞用 was。"
+          },
+          {
+            "id": "m2-3-u6-q015",
+            "question": "Where ___ the two bicycles? They are outside right now.",
+            "options": [
+              "A. is",
+              "B. are",
+              "C. was",
+              "D. be"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "two bicycles 是複數，回答 They are 和 right now 表示現在，故用 are。"
+          },
+          {
+            "id": "m2-3-u6-q016",
+            "question": "A: Where is the bakery? B: It ___ across from the market.",
+            "options": [
+              "A. are",
+              "B. is",
+              "C. do",
+              "D. does"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "It 是單數主詞，across from the market 是位置片語，前面需用 be 動詞 is 連接。"
+          },
+          {
+            "id": "m2-3-u6-q017",
+            "question": "A: Where are the parking spaces? B: They ___ behind the bank.",
+            "options": [
+              "A. is",
+              "B. do",
+              "C. are",
+              "D. does"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "They 是複數，描述位置時用 are；do / does 不是此句的連接動詞。"
+          },
+          {
+            "id": "m2-3-u6-q018",
+            "question": "How ___ you and your brother get to the island last weekend?",
+            "options": [
+              "A. do",
+              "B. did",
+              "C. does",
+              "D. are"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "last weekend 是過去時間，問交通方式用 How did + 主詞 + get。"
+          },
+          {
+            "id": "m2-3-u6-q019",
+            "question": "A: Do you go to school by bus? B: Yes, I ___.",
+            "options": [
+              "A. am",
+              "B. can",
+              "C. do",
+              "D. did"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "問句使用現在式助動詞 Do，肯定簡答保留 do：Yes, I do."
+          },
+          {
+            "id": "m2-3-u6-q020",
+            "question": "How does the clerk ___ work every day?",
+            "options": [
+              "A. gets to",
+              "B. get to",
+              "C. got to",
+              "D. getting to"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "does 後須接原形 get；work 在 get to work 這個表達中前面保留 to。"
+          },
+          {
+            "id": "m2-3-u6-q021",
+            "question": "Please ___ across the street when the light turns green.",
+            "options": [
+              "A. walks",
+              "B. walked",
+              "C. walking",
+              "D. walk"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "Please 開頭的祈使句省略主詞 you，以原形 walk 表達指示。"
+          },
+          {
+            "id": "m2-3-u6-q022",
+            "question": "___ left at the next corner, please.",
+            "options": [
+              "A. Turns",
+              "B. Turned",
+              "C. Turn",
+              "D. Turning"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "這是請對方左轉的祈使句，以原形 Turn 開頭。"
+          },
+          {
+            "id": "m2-3-u6-q023",
+            "question": "Please ___ a right turn after you pass the library.",
+            "options": [
+              "A. make",
+              "B. makes",
+              "C. made",
+              "D. making"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "祈使句用原形 make，a right turn 在句中是它的受詞。"
+          },
+          {
+            "id": "m2-3-u6-q024",
+            "question": "Don't ___ the road now. A truck is coming.",
+            "options": [
+              "A. cross",
+              "B. crosses",
+              "C. crossed",
+              "D. crossing"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "否定祈使句是 Don’t + 原形動詞，所以用 cross；後句也說明現在不宜過馬路。"
+          },
+          {
+            "id": "m2-3-u6-q025",
+            "question": "Let's ___ a taxi because your bike is broken.",
+            "options": [
+              "A. takes",
+              "B. take",
+              "C. took",
+              "D. taking"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "Let’s 後接原形動詞 take，表示提議一起搭計程車。"
+          },
+          {
+            "id": "m2-3-u6-q026",
+            "question": "Turn right at the bank and ___ straight for one block.",
+            "options": [
+              "A. goes",
+              "B. went",
+              "C. go",
+              "D. going"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "and 連接兩個指路動作，前面 Turn 是原形，後面也使用原形 go。"
+          },
+          {
+            "id": "m2-3-u6-q027",
+            "question": "Go past the museum, and you will ___ the hotel on your left.",
+            "options": [
+              "A. sees",
+              "B. see",
+              "C. saw",
+              "D. seeing"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "後半句已有 will，後面要接原形 see。"
+          },
+          {
+            "id": "m2-3-u6-q028",
+            "question": "Please ___ along this road until you reach the parking space.",
+            "options": [
+              "A. drive",
+              "B. drives",
+              "C. drove",
+              "D. driving"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "Please 表請求，祈使句用原形 drive，不用第三人稱或過去式。"
+          },
+          {
+            "id": "m2-3-u6-q029",
+            "question": "Do not ___ your car in front of the gate.",
+            "options": [
+              "A. parks",
+              "B. parked",
+              "C. park",
+              "D. parking"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "Do not 後面接原形 park，構成禁止停車的祈使句。"
+          },
+          {
+            "id": "m2-3-u6-q030",
+            "question": "Let's not ___ the street here. There is a crossing near the bank.",
+            "options": [
+              "A. crosses",
+              "B. crossed",
+              "C. crossing",
+              "D. cross"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "Let’s not 後仍接原形 cross，表示提議不要在此過馬路。"
+          },
+          {
+            "id": "m2-3-u6-q031",
+            "question": "My brother usually ___ his bicycle to the library.",
+            "options": [
+              "A. ride",
+              "B. rode",
+              "C. rides",
+              "D. riding"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "usually 表示習慣，My brother 是第三人稱單數，ride 要加 -s 成為 rides。"
+          },
+          {
+            "id": "m2-3-u6-q032",
+            "question": "We ___ a taxi to the airport last night.",
+            "options": [
+              "A. took",
+              "B. take",
+              "C. takes",
+              "D. taking"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "last night 表示過去，take a taxi 的 take 要變成 took。"
+          },
+          {
+            "id": "m2-3-u6-q033",
+            "question": "Will your sister ___ her scooter to work tomorrow?",
+            "options": [
+              "A. rides",
+              "B. rode",
+              "C. riding",
+              "D. ride"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "Will + 主詞 + 原形動詞，故用 ride，不因 your sister 而加 -s。"
+          },
+          {
+            "id": "m2-3-u6-q034",
+            "question": "Dad didn't ___ to the market yesterday because his car was broken.",
+            "options": [
+              "A. drove",
+              "B. drives",
+              "C. driving",
+              "D. drive"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "didn’t 已表示過去否定，後面的動詞用原形 drive，不能再用 drove。"
+          },
+          {
+            "id": "m2-3-u6-q035",
+            "question": "Does the clerk ___ the metro to work every day?",
+            "options": [
+              "A. takes",
+              "B. take",
+              "C. took",
+              "D. taking"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "Does 後的主要動詞恢復原形 take；第三人稱的變化已由 Does 表達。"
+          },
+          {
+            "id": "m2-3-u6-q036",
+            "question": "The two visitors usually ___ a bus to the museum.",
+            "options": [
+              "A. takes",
+              "B. took",
+              "C. take",
+              "D. taking"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "usually 表現在習慣，The two visitors 是複數主詞，因此用原形 take。"
+          },
+          {
+            "id": "m2-3-u6-q037",
+            "question": "Mia ___ her bike to the park yesterday afternoon.",
+            "options": [
+              "A. ride",
+              "B. rides",
+              "C. rode",
+              "D. riding"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "yesterday afternoon 是過去時間，ride 的過去式為 rode。"
+          },
+          {
+            "id": "m2-3-u6-q038",
+            "question": "We will ___ to the beach tomorrow morning.",
+            "options": [
+              "A. drives",
+              "B. drove",
+              "C. driving",
+              "D. drive"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "will 後接原形 drive，tomorrow morning 也提供未來時間。"
+          },
+          {
+            "id": "m2-3-u6-q039",
+            "question": "Look! Mom is ___ her scooter toward the corner.",
+            "options": [
+              "A. ride",
+              "B. rides",
+              "C. riding",
+              "D. rode"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "Look! 提醒正在發生的動作，is 後接 V-ing，形成 is riding。"
+          },
+          {
+            "id": "m2-3-u6-q040",
+            "question": "The children ___ the metro to the zoo yesterday.",
+            "options": [
+              "A. took",
+              "B. take",
+              "C. takes",
+              "D. taking"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "yesterday 提示過去時間，take the metro 要改成 took the metro。"
+          },
+          {
+            "id": "m2-3-u6-q041",
+            "question": "The visitor will go to the station by ___.",
+            "options": [
+              "A. a bus",
+              "B. the bus",
+              "C. buses",
+              "D. bus"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "by 表交通方式時，後面用不加冠詞的單數交通工具 bus。"
+          },
+          {
+            "id": "m2-3-u6-q042",
+            "question": "My favorite way to go to the park is by ___.",
+            "options": [
+              "A. a bike",
+              "B. bike",
+              "C. my bike",
+              "D. bikes"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "by 表交通方式時，不加 a、my 等限定詞，也不用複數，所以選 bike。"
+          },
+          {
+            "id": "m2-3-u6-q043",
+            "question": "The clerk will take ___ to the hotel after work.",
+            "options": [
+              "A. taxi",
+              "B. by taxi",
+              "C. on taxi",
+              "D. a taxi"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "take 後直接接交通工具作受詞；taxi 是可數單數名詞，需要 a 等限定詞，不能把 by taxi 接在 take 後。"
+          },
+          {
+            "id": "m2-3-u6-q044",
+            "question": "My cousin rides ___ to school every morning.",
+            "options": [
+              "A. a bicycle",
+              "B. bicycle",
+              "C. by bicycle",
+              "D. with bicycle"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "rides 後接受詞；單數可數名詞 bicycle 前需要 a，不能混用 by bicycle 的介系詞句型。"
+          },
+          {
+            "id": "m2-3-u6-q045",
+            "question": "We went to the small town by ___ last Sunday.",
+            "options": [
+              "A. a train",
+              "B. train",
+              "C. the train",
+              "D. trains"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "by 用來表示交通方式時，train 前不加冠詞，也不使用複數。"
+          },
+          {
+            "id": "m2-3-u6-q046",
+            "question": "The visitor ___ to the museum on foot last Sunday.",
+            "options": [
+              "A. went",
+              "B. go",
+              "C. goes",
+              "D. going"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "last Sunday 表示過去，go 的過去式是 went；on foot 說明交通方式。"
+          },
+          {
+            "id": "m2-3-u6-q047",
+            "question": "The bus is at the stop. We should ___ it now.",
+            "options": [
+              "A. gets on",
+              "B. get on",
+              "C. got on",
+              "D. getting on"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "should 後接原形動詞，所以上公車使用 get on，不用 gets、got 或 getting。"
+          },
+          {
+            "id": "m2-3-u6-q048",
+            "question": "We ___ off the train at the wrong station yesterday.",
+            "options": [
+              "A. get",
+              "B. gets",
+              "C. getting",
+              "D. got"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "yesterday 表示過去，get off 的 get 要變成 got。"
+          },
+          {
+            "id": "m2-3-u6-q049",
+            "question": "Please ___ out of the taxi on this side.",
+            "options": [
+              "A. get",
+              "B. gets",
+              "C. got",
+              "D. getting"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "Please 開頭的祈使句用原形 get；get out of 表示下計程車。"
+          },
+          {
+            "id": "m2-3-u6-q050",
+            "question": "How ___ Amy and her brother go to school every day?",
+            "options": [
+              "A. does",
+              "B. do",
+              "C. is",
+              "D. was"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "Amy and her brother 是兩個人，every day 表習慣，問句使用 do；does 用於第三人稱單數。"
+          }
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          {
+            "id": "m2-3-u6-sv001",
+            "vocab_id": "m2-3-u6-v001",
+            "sentence": "We went to Japan by airplane.",
+            "sentence_chinese": "我們搭飛機去日本。"
+          },
+          {
+            "id": "m2-3-u6-sv002",
+            "vocab_id": "m2-3-u6-v002",
+            "sentence": "My sister goes to school by bicycle.",
+            "sentence_chinese": "我妹妹騎腳踏車上學。"
+          },
+          {
+            "id": "m2-3-u6-sv003",
+            "vocab_id": "m2-3-u6-v003",
+            "sentence": "The truck is next to the bank.",
+            "sentence_chinese": "那輛卡車在銀行旁邊。"
+          },
+          {
+            "id": "m2-3-u6-sv004",
+            "vocab_id": "m2-3-u6-v004",
+            "sentence": "My mom goes to work by scooter.",
+            "sentence_chinese": "我媽媽騎機車上班。"
+          },
+          {
+            "id": "m2-3-u6-sv005",
+            "vocab_id": "m2-3-u6-v005",
+            "sentence": "He rides a motorcycle to the station.",
+            "sentence_chinese": "他騎重型機車去車站。"
+          },
+          {
+            "id": "m2-3-u6-sv006",
+            "vocab_id": "m2-3-u6-v006",
+            "sentence": "We took a taxi to the museum.",
+            "sentence_chinese": "我們搭計程車去博物館。"
+          },
+          {
+            "id": "m2-3-u6-sv007",
+            "vocab_id": "m2-3-u6-v007",
+            "sentence": "They went to the island by ship.",
+            "sentence_chinese": "他們搭船去那座島。"
+          },
+          {
+            "id": "m2-3-u6-sv008",
+            "vocab_id": "m2-3-u6-v008",
+            "sentence": "Go north and turn left at the bank.",
+            "sentence_chinese": "往北走，在銀行左轉。"
+          },
+          {
+            "id": "m2-3-u6-sv009",
+            "vocab_id": "m2-3-u6-v009",
+            "sentence": "Walk west for two blocks.",
+            "sentence_chinese": "往西走兩個街區。"
+          },
+          {
+            "id": "m2-3-u6-sv010",
+            "vocab_id": "m2-3-u6-v010",
+            "sentence": "Drive south along this road.",
+            "sentence_chinese": "沿著這條路往南開。"
+          },
+          {
+            "id": "m2-3-u6-sv011",
+            "vocab_id": "m2-3-u6-v011",
+            "sentence": "Go east and cross the street.",
+            "sentence_chinese": "往東走，再穿越馬路。"
+          },
+          {
+            "id": "m2-3-u6-sv012",
+            "vocab_id": "m2-3-u6-v012",
+            "sentence": "My dad drove to the station yesterday.",
+            "sentence_chinese": "我爸爸昨天開車去車站。"
+          },
+          {
+            "id": "m2-3-u6-sv013",
+            "vocab_id": "m2-3-u6-v013",
+            "sentence": "She rode a bike to the park.",
+            "sentence_chinese": "她騎腳踏車去公園。"
+          },
+          {
+            "id": "m2-3-u6-sv014",
+            "vocab_id": "m2-3-u6-v014",
+            "sentence": "They rowed a boat to the island.",
+            "sentence_chinese": "他們划船去那座島。"
+          },
+          {
+            "id": "m2-3-u6-sv015",
+            "vocab_id": "m2-3-u6-v015",
+            "sentence": "Excuse me, how can I get there?",
+            "sentence_chinese": "不好意思，我要怎麼到那裡？"
+          },
+          {
+            "id": "m2-3-u6-sv016",
+            "vocab_id": "m2-3-u6-v016",
+            "sentence": "Excuse me, sir. Where is the station?",
+            "sentence_chinese": "不好意思，先生。車站在哪裡？"
+          },
+          {
+            "id": "m2-3-u6-sv017",
+            "vocab_id": "m2-3-u6-v017",
+            "sentence": "Turn left at the next corner.",
+            "sentence_chinese": "在下一個轉角左轉。"
+          },
+          {
+            "id": "m2-3-u6-sv018",
+            "vocab_id": "m2-3-u6-v018",
+            "sentence": "The bank is on the corner.",
+            "sentence_chinese": "銀行在轉角處。"
+          },
+          {
+            "id": "m2-3-u6-sv019",
+            "vocab_id": "m2-3-u6-v019",
+            "sentence": "Go straight for three blocks.",
+            "sentence_chinese": "直走三個街區。"
+          },
+          {
+            "id": "m2-3-u6-sv020",
+            "vocab_id": "m2-3-u6-v020",
+            "sentence": "Walk one block and turn right.",
+            "sentence_chinese": "走一個街區，再右轉。"
+          },
+          {
+            "id": "m2-3-u6-sv021",
+            "vocab_id": "m2-3-u6-v021",
+            "sentence": "The museum is across from the library.",
+            "sentence_chinese": "博物館在圖書館對面。"
+          },
+          {
+            "id": "m2-3-u6-sv022",
+            "vocab_id": "m2-3-u6-v022",
+            "sentence": "The station is at the bottom of the map.",
+            "sentence_chinese": "車站在地圖下方。"
+          },
+          {
+            "id": "m2-3-u6-sv023",
+            "vocab_id": "m2-3-u6-v023",
+            "sentence": "Follow this rule when you cross the street.",
+            "sentence_chinese": "過馬路時要遵守這項規則。"
+          },
+          {
+            "id": "m2-3-u6-sv024",
+            "vocab_id": "m2-3-u6-v024",
+            "sentence": "My bike is broken, so I will take a bus.",
+            "sentence_chinese": "我的腳踏車壞了，所以我會搭公車。"
+          },
+          {
+            "id": "m2-3-u6-sv025",
+            "vocab_id": "m2-3-u6-v025",
+            "sentence": "We shook hands in front of the station.",
+            "sentence_chinese": "我們在車站前握手。"
+          },
+          {
+            "id": "m2-3-u6-sv026",
+            "vocab_id": "m2-3-u6-v026",
+            "sentence": "My favorite shop is next to the bank.",
+            "sentence_chinese": "我最喜歡的商店在銀行旁邊。"
+          },
+          {
+            "id": "m2-3-u6-sv027",
+            "vocab_id": "m2-3-u6-v027",
+            "sentence": "Put the map in your pocket.",
+            "sentence_chinese": "把地圖放進你的口袋。"
+          },
+          {
+            "id": "m2-3-u6-sv028",
+            "vocab_id": "m2-3-u6-v028",
+            "sentence": "The monster is behind the taxi.",
+            "sentence_chinese": "怪物在計程車後面。"
+          },
+          {
+            "id": "m2-3-u6-sv029",
+            "vocab_id": "m2-3-u6-v029",
+            "sentence": "Ask the clerk how to get there.",
+            "sentence_chinese": "問店員要怎麼到那裡。"
+          },
+          {
+            "id": "m2-3-u6-sv030",
+            "vocab_id": "m2-3-u6-v030",
+            "sentence": "It is convenient to go there by metro.",
+            "sentence_chinese": "搭捷運去那裡很方便。"
+          },
+          {
+            "id": "m2-3-u6-sv031",
+            "vocab_id": "m2-3-u6-v031",
+            "sentence": "I made a mistake and took the wrong bus.",
+            "sentence_chinese": "我弄錯了，搭錯公車。"
+          },
+          {
+            "id": "m2-3-u6-sv032",
+            "vocab_id": "m2-3-u6-v032",
+            "sentence": "There is a parking space behind the hotel.",
+            "sentence_chinese": "旅館後面有一個停車位。"
+          },
+          {
+            "id": "m2-3-u6-sv033",
+            "vocab_id": "m2-3-u6-v033",
+            "sentence": "The visitor took a bus to the museum.",
+            "sentence_chinese": "那位遊客搭公車去博物館。"
+          },
+          {
+            "id": "m2-3-u6-sv034",
+            "vocab_id": "m2-3-u6-v034",
+            "sentence": "The bus ticket to the park is cheap.",
+            "sentence_chinese": "到公園的公車票很便宜。"
+          },
+          {
+            "id": "m2-3-u6-sv035",
+            "vocab_id": "m2-3-u6-v035",
+            "sentence": "Walk to the market and buy some beef.",
+            "sentence_chinese": "走到市場，買一些牛肉。"
+          }
+        ],
+        "phrases": [
+          {
+            "id": "m2-3-u6-sp001",
+            "phrase_id": "m2-3-u6-p001",
+            "sentence": "The bank is next to the hotel.",
+            "sentence_chinese": "銀行在旅館旁邊。"
+          },
+          {
+            "id": "m2-3-u6-sp002",
+            "phrase_id": "m2-3-u6-p002",
+            "sentence": "The bus stop is in front of the post office.",
+            "sentence_chinese": "公車站在郵局前面。"
+          },
+          {
+            "id": "m2-3-u6-sp003",
+            "phrase_id": "m2-3-u6-p003",
+            "sentence": "The post office is behind the bus stop.",
+            "sentence_chinese": "郵局在公車站後面。"
+          },
+          {
+            "id": "m2-3-u6-sp004",
+            "phrase_id": "m2-3-u6-p004",
+            "sentence": "The coffee shop is on the corner of City Road and First Street.",
+            "sentence_chinese": "咖啡店在 City Road 和 First Street 的交叉路口。"
+          },
+          {
+            "id": "m2-3-u6-sp005",
+            "phrase_id": "m2-3-u6-p005",
+            "sentence": "The gym is between a library and a temple.",
+            "sentence_chinese": "體育館在圖書館和寺廟之間。"
+          },
+          {
+            "id": "m2-3-u6-sp006",
+            "phrase_id": "m2-3-u6-p006",
+            "sentence": "Go straight for three blocks.",
+            "sentence_chinese": "直走三個街區。"
+          },
+          {
+            "id": "m2-3-u6-sp007",
+            "phrase_id": "m2-3-u6-p007",
+            "sentence": "Walk along the street for five minutes.",
+            "sentence_chinese": "沿著這條街走五分鐘。"
+          },
+          {
+            "id": "m2-3-u6-sp008",
+            "phrase_id": "m2-3-u6-p008",
+            "sentence": "Walk past the hotel.",
+            "sentence_chinese": "走過那間旅館。"
+          },
+          {
+            "id": "m2-3-u6-sp009",
+            "phrase_id": "m2-3-u6-p009",
+            "sentence": "Make a right turn at the corner.",
+            "sentence_chinese": "在轉角處右轉。"
+          },
+          {
+            "id": "m2-3-u6-sp010",
+            "phrase_id": "m2-3-u6-p010",
+            "sentence": "Cross Ocean Street.",
+            "sentence_chinese": "穿越 Ocean Street。"
+          },
+          {
+            "id": "m2-3-u6-sp011",
+            "phrase_id": "m2-3-u6-p011",
+            "sentence": "It's on the right.",
+            "sentence_chinese": "它在右邊。"
+          },
+          {
+            "id": "m2-3-u6-sp012",
+            "phrase_id": "m2-3-u6-p012",
+            "sentence": "Ann went to the theater on foot yesterday.",
+            "sentence_chinese": "Ann 昨天走路去劇院。"
+          },
+          {
+            "id": "m2-3-u6-sp013",
+            "phrase_id": "m2-3-u6-p013",
+            "sentence": "Get in the taxi at the corner.",
+            "sentence_chinese": "在轉角處上計程車。"
+          },
+          {
+            "id": "m2-3-u6-sp014",
+            "phrase_id": "m2-3-u6-p014",
+            "sentence": "Get off the bus at the next stop.",
+            "sentence_chinese": "在下一站下公車。"
+          }
+        ],
+        "grammar": [
+          {
+            "id": "m2-3-u6-sg001",
+            "sentence": "The bookstore is across from the train station.",
+            "sentence_chinese": "書店在火車站對面。"
+          },
+          {
+            "id": "m2-3-u6-sg002",
+            "sentence": "How can I get to the night market?",
+            "sentence_chinese": "我要怎麼到夜市？"
+          },
+          {
+            "id": "m2-3-u6-sg003",
+            "sentence": "Please turn left at the next corner.",
+            "sentence_chinese": "請在下一個轉角左轉。"
+          },
+          {
+            "id": "m2-3-u6-sg004",
+            "sentence": "My sister usually goes to work by scooter.",
+            "sentence_chinese": "我姊姊通常騎機車上班。"
+          },
+          {
+            "id": "m2-3-u6-sg005",
+            "sentence": "The bus stop is in front of the bank.",
+            "sentence_chinese": "公車站在銀行前面。"
+          },
+          {
+            "id": "m2-3-u6-sg006",
+            "sentence": "We took the metro to the museum yesterday.",
+            "sentence_chinese": "我們昨天搭捷運去博物館。"
+          },
+          {
+            "id": "m2-3-u6-sg007",
+            "sentence": "Walk straight for two blocks and turn right.",
+            "sentence_chinese": "直走兩個街區，再右轉。"
+          },
+          {
+            "id": "m2-3-u6-sg008",
+            "sentence": "How did the visitors get to the hotel?",
+            "sentence_chinese": "那些遊客怎麼到旅館的？"
+          },
+          {
+            "id": "m2-3-u6-sg009",
+            "sentence": "The shop is between the bank and the library.",
+            "sentence_chinese": "商店在銀行和圖書館之間。"
+          },
+          {
+            "id": "m2-3-u6-sg010",
+            "sentence": "Please get off the bus at the next stop.",
+            "sentence_chinese": "請在下一站下公車。"
+          },
+          {
+            "id": "m2-3-u6-sg011",
+            "sentence": "My dad drove to the market this morning.",
+            "sentence_chinese": "我爸爸今天早上開車去市場。"
+          },
+          {
+            "id": "m2-3-u6-sg012",
+            "sentence": "Go across the street at the traffic lights.",
+            "sentence_chinese": "在紅綠燈處穿越馬路。"
+          },
+          {
+            "id": "m2-3-u6-sg013",
+            "sentence": "Where is the parking space near the hospital?",
+            "sentence_chinese": "醫院附近的停車位在哪裡？"
+          },
+          {
+            "id": "m2-3-u6-sg014",
+            "sentence": "The clerk walks to work every morning.",
+            "sentence_chinese": "那位店員每天早上走路上班。"
+          },
+          {
+            "id": "m2-3-u6-sg015",
+            "sentence": "Turn right and the hotel is on your left.",
+            "sentence_chinese": "右轉後，旅館就在你的左邊。"
+          },
+          {
+            "id": "m2-3-u6-sg016",
+            "sentence": "Can we get there by bus before noon?",
+            "sentence_chinese": "我們能在中午之前搭公車到那裡嗎？"
+          },
+          {
+            "id": "m2-3-u6-sg017",
+            "sentence": "The bike is behind the small coffee shop.",
+            "sentence_chinese": "腳踏車在那間小咖啡店後面。"
+          },
+          {
+            "id": "m2-3-u6-sg018",
+            "sentence": "Do not cross the street in front of that truck.",
+            "sentence_chinese": "不要在那輛卡車前面過馬路。"
+          },
+          {
+            "id": "m2-3-u6-sg019",
+            "sentence": "She rode her bicycle to the park yesterday.",
+            "sentence_chinese": "她昨天騎腳踏車去公園。"
+          },
+          {
+            "id": "m2-3-u6-sg020",
+            "sentence": "How does your favorite teacher go home?",
+            "sentence_chinese": "你最喜歡的老師怎麼回家？"
+          },
+          {
+            "id": "m2-3-u6-sg021",
+            "sentence": "Make a right turn at the next corner.",
+            "sentence_chinese": "在下一個轉角右轉。"
+          },
+          {
+            "id": "m2-3-u6-sg022",
+            "sentence": "We will go to the island by ship.",
+            "sentence_chinese": "我們會搭船去那座島。"
+          },
+          {
+            "id": "m2-3-u6-sg023",
+            "sentence": "The bank is on the corner of these streets.",
+            "sentence_chinese": "銀行在這幾條街的交叉路口。"
+          },
+          {
+            "id": "m2-3-u6-sg024",
+            "sentence": "Please get in the taxi near the gate.",
+            "sentence_chinese": "請上大門附近的那輛計程車。"
+          },
+          {
+            "id": "m2-3-u6-sg025",
+            "sentence": "Walk along this road and go past the museum.",
+            "sentence_chinese": "沿著這條路走，再走過博物館。"
+          },
+          {
+            "id": "m2-3-u6-sg026",
+            "sentence": "They went to the station on foot yesterday.",
+            "sentence_chinese": "他們昨天走路去車站。"
+          },
+          {
+            "id": "m2-3-u6-sg027",
+            "sentence": "Where are the bicycles outside the store?",
+            "sentence_chinese": "商店外的腳踏車在哪裡？"
+          },
+          {
+            "id": "m2-3-u6-sg028",
+            "sentence": "We got out of the car near the library.",
+            "sentence_chinese": "我們在圖書館附近下車。"
+          },
+          {
+            "id": "m2-3-u6-sg029",
+            "sentence": "Let's take a bus because my bike is broken.",
+            "sentence_chinese": "我的腳踏車壞了，我們搭公車吧。"
+          },
+          {
+            "id": "m2-3-u6-sg030",
+            "sentence": "How will your family get to the airport tomorrow?",
+            "sentence_chinese": "你的家人明天會怎麼去機場？"
+          }
+        ]
+      },
+      "cloze_quiz": [
+        {
+          "id": "m2-3-u6-cq001",
+          "vocab_id": "m2-3-u6-v001",
+          "question": "The ___ flew above the clouds with two hundred people inside.",
+          "options": [
+            "taxi",
+            "truck",
+            "bicycle",
+            "airplane"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "flew above the clouds 表示飛到雲層上方，能載很多人的交通工具是 airplane（飛機）。"
+        },
+        {
+          "id": "m2-3-u6-cq002",
+          "vocab_id": "m2-3-u6-v002",
+          "question": "My ___ has two wheels and pedals, but no engine.",
+          "options": [
+            "taxi",
+            "bicycle",
+            "ship",
+            "truck"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "two wheels、pedals 和 no engine 指有兩輪與踏板、沒有引擎的腳踏車。"
+        },
+        {
+          "id": "m2-3-u6-cq003",
+          "vocab_id": "m2-3-u6-v003",
+          "question": "A ___ is a large road vehicle used to carry heavy things.",
+          "options": [
+            "bicycle",
+            "scooter",
+            "truck",
+            "taxi"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "large road vehicle 與 carry heavy things 表示運載重物的大型道路車輛，即 truck（卡車）。"
+        },
+        {
+          "id": "m2-3-u6-cq004",
+          "vocab_id": "m2-3-u6-v004",
+          "question": "Mom put on her helmet and rode her small ___ to the market.",
+          "options": [
+            "train",
+            "airplane",
+            "ship",
+            "scooter"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "helmet、rode 和 small 提示媽媽騎的是小型機車 scooter。"
+        },
+        {
+          "id": "m2-3-u6-cq005",
+          "vocab_id": "m2-3-u6-v005",
+          "question": "His new ___ has two wheels and a powerful engine. He must wear a helmet when he rides it.",
+          "options": [
+            "truck",
+            "ship",
+            "motorcycle",
+            "bus"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "兩輪、強力引擎，以及騎乘時要戴安全帽，指 motorcycle（重型機車）。"
+        },
+        {
+          "id": "m2-3-u6-cq006",
+          "vocab_id": "m2-3-u6-v006",
+          "question": "We paid the ___ driver after he took our family to the hotel in his yellow car.",
+          "options": [
+            "bicycle",
+            "ship",
+            "airplane",
+            "taxi"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "付費請司機用黃色汽車載一家人到旅館，指搭 taxi（計程車）。"
+        },
+        {
+          "id": "m2-3-u6-cq007",
+          "vocab_id": "m2-3-u6-v007",
+          "question": "The large ___ sailed across the ocean with many passengers.",
+          "options": [
+            "ship",
+            "truck",
+            "taxi",
+            "scooter"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "sailed across the ocean 表示航行過海，符合 ship（船）。"
+        },
+        {
+          "id": "m2-3-u6-cq008",
+          "vocab_id": "m2-3-u6-v008",
+          "question": "On a compass, ___ is the direction opposite south.",
+          "options": [
+            "west",
+            "east",
+            "north",
+            "south"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "指南針上與 south（南方）相反的方向是 north（北方）。"
+        },
+        {
+          "id": "m2-3-u6-cq009",
+          "vocab_id": "m2-3-u6-v009",
+          "question": "The sun goes down in the ___.",
+          "options": [
+            "north",
+            "south",
+            "west",
+            "east"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "太陽從西方落下，west 表示西方。"
+        },
+        {
+          "id": "m2-3-u6-cq010",
+          "vocab_id": "m2-3-u6-v010",
+          "question": "On a compass, ___ is the direction opposite north.",
+          "options": [
+            "west",
+            "south",
+            "east",
+            "north"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "與 north（北方）相反的方向是 south（南方）。"
+        },
+        {
+          "id": "m2-3-u6-cq011",
+          "vocab_id": "m2-3-u6-v011",
+          "question": "We watched the sun come up in the ___.",
+          "options": [
+            "north",
+            "east",
+            "south",
+            "west"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "太陽從東方升起，east 表示東方。"
+        },
+        {
+          "id": "m2-3-u6-cq012",
+          "vocab_id": "m2-3-u6-v012",
+          "question": "Dad ___ the car himself all the way to Tainan yesterday.",
+          "options": [
+            "rode",
+            "drove",
+            "rowed",
+            "flew"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "駕駛汽車用 drive；yesterday 表過去，因此用 drove。"
+        },
+        {
+          "id": "m2-3-u6-cq013",
+          "vocab_id": "m2-3-u6-v013",
+          "question": "Yesterday, Leo ___ his bike along the river.",
+          "options": [
+            "rode",
+            "drove",
+            "rowed",
+            "flew"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "騎腳踏車用 ride，過去式是 rode；drove 指開車，rowed 指划船。"
+        },
+        {
+          "id": "m2-3-u6-cq014",
+          "vocab_id": "m2-3-u6-v014",
+          "question": "We used two oars to ___ the little boat across the lake.",
+          "options": [
+            "row",
+            "drive",
+            "fly",
+            "ride"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "oars 是船槳；使用船槳划小船要用 row。"
+        },
+        {
+          "id": "m2-3-u6-cq015",
+          "vocab_id": "m2-3-u6-v015",
+          "question": "___, sir. Could you tell me where the nearest bank is?",
+          "options": [
+            "Good night",
+            "Welcome back",
+            "Excuse me",
+            "See you later"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "向陌生人問路前先禮貌地打擾對方，使用 Excuse me。"
+        },
+        {
+          "id": "m2-3-u6-cq016",
+          "vocab_id": "m2-3-u6-v016",
+          "question": "The clerk said to the man, \"Good morning, ___. How can I help you?\"",
+          "options": [
+            "madam",
+            "Mom",
+            "sir",
+            "sister"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "對成年男性顧客的禮貌稱呼是 sir（先生）；madam 用來稱呼女性。"
+        },
+        {
+          "id": "m2-3-u6-cq017",
+          "vocab_id": "m2-3-u6-v017",
+          "question": "You are facing north. To face west at the corner, you should ___.",
+          "options": [
+            "turn right",
+            "turn left",
+            "go straight",
+            "turn around"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "面向北方時，左邊是西方，因此要 turn left（左轉）。"
+        },
+        {
+          "id": "m2-3-u6-cq018",
+          "vocab_id": "m2-3-u6-v018",
+          "question": "Wait at the ___ where these two streets meet.",
+          "options": [
+            "bottom",
+            "pocket",
+            "corner",
+            "monster"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "兩條街交會的轉角處是 corner。"
+        },
+        {
+          "id": "m2-3-u6-cq019",
+          "vocab_id": "m2-3-u6-v019",
+          "question": "Do not turn left or right. Keep going ___ ahead.",
+          "options": [
+            "straight",
+            "backward",
+            "left",
+            "right"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "不要左轉或右轉、繼續往前，意思是 straight ahead（一直向前）。"
+        },
+        {
+          "id": "m2-3-u6-cq020",
+          "vocab_id": "m2-3-u6-v020",
+          "question": "One ___ is the distance along a street from one corner to the next.",
+          "options": [
+            "block",
+            "pocket",
+            "rule",
+            "visitor"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "沿街從一個轉角到下一個轉角的距離是一個 block（街區）。"
+        },
+        {
+          "id": "m2-3-u6-cq021",
+          "vocab_id": "m2-3-u6-v021",
+          "question": "The bank is directly ___ the school: they face each other on opposite sides of the road.",
+          "options": [
+            "across from",
+            "next to",
+            "behind",
+            "between"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "face each other 與 opposite sides of the road 表示隔著路面對面，使用 across from。"
+        },
+        {
+          "id": "m2-3-u6-cq022",
+          "vocab_id": "m2-3-u6-v022",
+          "question": "The word is at the ___ of the page, below all the other words.",
+          "options": [
+            "corner",
+            "bottom",
+            "pocket",
+            "rule"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "below all the other words 表示在所有文字下方，也就是頁面底部 bottom。"
+        },
+        {
+          "id": "m2-3-u6-cq023",
+          "vocab_id": "m2-3-u6-v023",
+          "question": "Our class has one important ___: no eating during lessons.",
+          "options": [
+            "mistake",
+            "corner",
+            "visitor",
+            "rule"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "no eating during lessons 是班級規定，rule 表示規則。"
+        },
+        {
+          "id": "m2-3-u6-cq024",
+          "vocab_id": "m2-3-u6-v024",
+          "question": "The bicycle wheel is bent, so the bike is ___ and I cannot ride it.",
+          "options": [
+            "cheap",
+            "convenient",
+            "favorite",
+            "broken"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "車輪彎曲而不能騎，表示腳踏車壞掉了，使用 broken。"
+        },
+        {
+          "id": "m2-3-u6-cq025",
+          "vocab_id": "m2-3-u6-v025",
+          "question": "At their first meeting, the two men smile and politely ___.",
+          "options": [
+            "shake their heads",
+            "shake hands",
+            "close their eyes",
+            "turn their backs"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "初次見面微笑並有禮貌地打招呼，符合 shake hands（握手）。"
+        },
+        {
+          "id": "m2-3-u6-cq026",
+          "vocab_id": "m2-3-u6-v026",
+          "question": "Of all the restaurants, I like this one the most. It is my ___ restaurant.",
+          "options": [
+            "favorite",
+            "broken",
+            "empty",
+            "closed"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "like this one the most 表示最喜歡，所以選 favorite（最喜愛的）。"
+        },
+        {
+          "id": "m2-3-u6-cq027",
+          "vocab_id": "m2-3-u6-v027",
+          "question": "Dad keeps his coins in the ___ of his jeans.",
+          "options": [
+            "pocket",
+            "corner",
+            "block",
+            "rule"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "牛仔褲上可裝零錢的口袋是 pocket。"
+        },
+        {
+          "id": "m2-3-u6-cq028",
+          "vocab_id": "m2-3-u6-v028",
+          "question": "A scary ___ with three heads appeared in the story.",
+          "options": [
+            "clerk",
+            "visitor",
+            "monster",
+            "driver"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "故事裡出現可怕的三頭怪物，使用 monster。"
+        },
+        {
+          "id": "m2-3-u6-cq029",
+          "vocab_id": "m2-3-u6-v029",
+          "question": "The store ___ helped me pay for the beef at the checkout.",
+          "options": [
+            "visitor",
+            "driver",
+            "clerk",
+            "farmer"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "在商店結帳處協助顧客付款的人是 clerk（店員）。"
+        },
+        {
+          "id": "m2-3-u6-cq030",
+          "vocab_id": "m2-3-u6-v030",
+          "question": "The metro station is beside our house, so taking the metro is very ___.",
+          "options": [
+            "expensive",
+            "difficult",
+            "broken",
+            "convenient"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "車站就在家旁邊，搭車很方便，因此選 convenient。"
+        },
+        {
+          "id": "m2-3-u6-cq031",
+          "vocab_id": "m2-3-u6-v031",
+          "question": "I wrote the wrong address on the letter. I made a ___.",
+          "options": [
+            "rule",
+            "corner",
+            "visitor",
+            "mistake"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "寫錯地址就是犯錯；make a mistake 表示犯錯。"
+        },
+        {
+          "id": "m2-3-u6-cq032",
+          "vocab_id": "m2-3-u6-v032",
+          "question": "Dad found an empty ___ and left his car inside its white lines.",
+          "options": [
+            "parking space",
+            "bus stop",
+            "train station",
+            "post office"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "能把汽車停進白線框內的空位是 parking space（停車位）。"
+        },
+        {
+          "id": "m2-3-u6-cq033",
+          "vocab_id": "m2-3-u6-v033",
+          "question": "A person who comes to see a place as a guest is a ___.",
+          "options": [
+            "clerk",
+            "visitor",
+            "driver",
+            "monster"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "來參觀或拜訪某個地方的人稱為 visitor（遊客；訪客）。"
+        },
+        {
+          "id": "m2-3-u6-cq034",
+          "vocab_id": "m2-3-u6-v034",
+          "question": "This ticket costs only ten dollars, much less than the others. It is ___.",
+          "options": [
+            "expensive",
+            "cheap",
+            "broken",
+            "straight"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "票價比其他票低很多，表示 cheap（便宜的）。"
+        },
+        {
+          "id": "m2-3-u6-cq035",
+          "vocab_id": "m2-3-u6-v035",
+          "question": "The meat from cattle is called ___.",
+          "options": [
+            "pork",
+            "chicken",
+            "fish",
+            "beef"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "cattle 指牛；牛肉是 beef，pork 是豬肉，chicken 是雞肉。"
+        }
+      ]
+    }
+  }
+}
