@@ -265,6 +265,21 @@
 
         const shuffleArray = (array) => { if (!array) return []; const newArray = [...array]; for (let i = newArray.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1));[newArray[i], newArray[j]] = [newArray[j], newArray[i]]; } return newArray; };
 
+        // 兩個單字可能同義（例如 if / whether 都是「是否」），不可只用 ID 排除。
+        const selectVocabOptions = (target, pool) => {
+            const normalize = text => String(text || '').trim().toLowerCase().replace(/\s+/g, '');
+            const meanings = item => String(item.chinese || '').replace(/（[^）]*）|\([^)]*\)/g, '').split(/[；;、，,／/]/).map(normalize).filter(Boolean);
+            const selected = [target];
+            for (const candidate of shuffleArray(pool || [])) {
+                if (selected.length === 4) break;
+                const candidateMeanings = meanings(candidate);
+                if (!normalize(candidate.word) || candidateMeanings.length === 0) continue;
+                const overlaps = selected.some(item => item.id === candidate.id || normalize(item.word) === normalize(candidate.word) || meanings(item).some(meaning => candidateMeanings.includes(meaning)));
+                if (!overlaps) selected.push(candidate);
+            }
+            return selected.length === 4 ? shuffleArray(selected) : [];
+        };
+
         // --- GameButton Component ---
         const GameButton = ({ children, onClick, color = "blue", className = "", disabled = false, active = false, autoFocus = false, ...buttonProps }) => {
             const colorStyles = { blue: "bg-sky-400 border-sky-600 text-white hover:bg-sky-300", green: "bg-emerald-400 border-emerald-600 text-white hover:bg-emerald-300", yellow: "bg-yellow-400 border-yellow-600 text-yellow-900 hover:bg-yellow-300", red: "bg-rose-400 border-rose-600 text-white hover:bg-rose-300", purple: "bg-violet-400 border-violet-600 text-white hover:bg-violet-300", orange: "bg-orange-400 border-orange-600 text-white hover:bg-orange-300", white: "bg-white border-slate-200 text-slate-700 hover:bg-slate-50", gray: "bg-slate-200 border-slate-400 text-slate-600 hover:bg-slate-300", active: "bg-yellow-400 border-yellow-600 text-yellow-900 ring-2 ring-yellow-200 ring-offset-2" };
@@ -917,12 +932,15 @@
                 unlockAnswerAudio();
                 const allVocabQuestions = [];
                 data.forEach(target => {
-                    const distractors1 = shuffleArray(data.filter(w => w.id !== target.id)).slice(0, 3);
-                    allVocabQuestions.push({ questionText: target.word, correctId: target.id, correctAnswer: target.chinese, options: shuffleArray([target, ...distractors1]).map(o => ({ id: o.id, text: o.chinese, isCorrect: o.id === target.id })), hint: "請選出中文意思", audio: target.word });
-                    const distractors2 = shuffleArray(data.filter(w => w.id !== target.id)).slice(0, 3);
-                    allVocabQuestions.push({ questionText: target.chinese, correctId: target.id, correctAnswer: target.word, options: shuffleArray([target, ...distractors2]).map(o => ({ id: o.id, text: o.word, isCorrect: o.id === target.id })), hint: "請選出英文單字", audio: target.word });
+                    const choices1 = selectVocabOptions(target, data);
+                    if (choices1.length === 0) return;
+                    allVocabQuestions.push({ questionText: target.word, correctId: target.id, correctAnswer: target.chinese, options: choices1.map(o => ({ id: o.id, text: o.chinese, isCorrect: o.id === target.id })), hint: "請選出中文意思", audio: target.word });
+                    const choices2 = selectVocabOptions(target, data);
+                    if (choices2.length === 0) return;
+                    allVocabQuestions.push({ questionText: target.chinese, correctId: target.id, correctAnswer: target.word, options: choices2.map(o => ({ id: o.id, text: o.word, isCorrect: o.id === target.id })), hint: "請選出英文單字", audio: target.word });
                 });
                 const selectedQuestions = shuffleArray(allVocabQuestions).slice(0, 10);
+                if (selectedQuestions.length === 0) return;
                 setQuizData(selectedQuestions); setCurrentQIndex(0); setScore(0); setHistory([]); setSelectedOption(null); setQuizType('choice'); setStatus('playing'); setTimeLimit(7); setTimeLeft(7); questionStartRef.current = Date.now();
             };
             const startClozeQuiz = () => {
@@ -1192,16 +1210,21 @@
         };
 
         const buildGameQ = (target, pool) => {
-            const showEn = Math.random() > 0.5;
-            const dist = shuffleArray(pool.filter(w => w.id !== target.id)).slice(0, 3);
-            return {
-                word: target.word,
-                chinese: target.chinese,
-                prompt: showEn ? target.chinese : target.word,
-                promptType: showEn ? '選出英文單字' : '選出中文意思',
-                audio: target.word,
-                options: shuffleArray([target, ...dist]).map(o => ({ id: o.id, text: showEn ? o.word : o.chinese, isCorrect: o.id === target.id })),
-            };
+            if (!target) return null;
+            for (const candidate of [target, ...shuffleArray(pool.filter(item => item.id !== target.id))]) {
+                const choices = selectVocabOptions(candidate, pool);
+                if (choices.length === 0) continue;
+                const showEn = Math.random() > 0.5;
+                return {
+                    word: candidate.word,
+                    chinese: candidate.chinese,
+                    prompt: showEn ? candidate.chinese : candidate.word,
+                    promptType: showEn ? '選出英文單字' : '選出中文意思',
+                    audio: candidate.word,
+                    options: choices.map(o => ({ id: o.id, text: showEn ? o.word : o.chinese, isCorrect: o.id === candidate.id })),
+                };
+            }
+            return null;
         };
 
         const LS_GAME = {
@@ -1267,7 +1290,9 @@
 
             const nextQ = useCallback(() => {
                 const t = allWords[Math.floor(Math.random() * allWords.length)];
-                setQuestion(buildGameQ(t, allWords));
+                const nextQuestion = buildGameQ(t, allWords);
+                if (!nextQuestion) { setPhase('idle'); return; }
+                setQuestion(nextQuestion);
                 setSelId(null); setFeedback(null); frozenRef.current = false;
             }, [allWords]);
 
@@ -1482,7 +1507,9 @@
 
             const nextQ = useCallback(() => {
                 const t = allWords[Math.floor(Math.random() * allWords.length)];
-                setQuestion(buildGameQ(t, allWords));
+                const nextQuestion = buildGameQ(t, allWords);
+                if (!nextQuestion) { setPhase('idle'); return; }
+                setQuestion(nextQuestion);
                 setSelId(null); setFeedback(null); frozenRef.current = false;
                 qStartRef.current = Date.now(); setSpeedPct(100);
             }, [allWords]);

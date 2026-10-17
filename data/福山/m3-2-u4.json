@@ -1,0 +1,2053 @@
+{
+  "units": {
+    "m3-2-u4": {
+      "title": "U4",
+      "vocab": [
+        {
+          "id": "m3-2-u4-v001",
+          "word": "gate",
+          "part_of_speech": "名",
+          "chinese": "大門",
+          "sentence": "I'll wait for you in front of the gate.",
+          "sentence_chinese": "我會在大門前等你。"
+        },
+        {
+          "id": "m3-2-u4-v002",
+          "word": "file",
+          "part_of_speech": "名",
+          "chinese": "檔案",
+          "sentence": "You can download the files from this web page.",
+          "sentence_chinese": "你可以從這個網頁下載檔案。"
+        },
+        {
+          "id": "m3-2-u4-v003",
+          "word": "quiz",
+          "part_of_speech": "名",
+          "chinese": "小考",
+          "sentence": "Do you know when the quiz will start?",
+          "sentence_chinese": "你知道小考什麼時候開始嗎？"
+        },
+        {
+          "id": "m3-2-u4-v004",
+          "word": "blackboard",
+          "part_of_speech": "名",
+          "chinese": "黑板",
+          "sentence": "Please tell me what is on the blackboard.",
+          "sentence_chinese": "請告訴我黑板上有什麼。"
+        },
+        {
+          "id": "m3-2-u4-v005",
+          "word": "chalk",
+          "part_of_speech": "名",
+          "chinese": "粉筆",
+          "sentence": "I don't know where the chalk is.",
+          "sentence_chinese": "我不知道粉筆在哪裡。"
+        },
+        {
+          "id": "m3-2-u4-v006",
+          "word": "screen",
+          "part_of_speech": "名",
+          "chinese": "螢幕",
+          "sentence": "Can you tell me why the screen is dark?",
+          "sentence_chinese": "你能告訴我螢幕為什麼是黑的嗎？"
+        },
+        {
+          "id": "m3-2-u4-v007",
+          "word": "error",
+          "part_of_speech": "名",
+          "chinese": "錯誤",
+          "sentence": "Do you know how to fix this error?",
+          "sentence_chinese": "你知道怎麼修正這個錯誤嗎？"
+        },
+        {
+          "id": "m3-2-u4-v008",
+          "word": "button",
+          "part_of_speech": "名",
+          "chinese": "按鈕；鈕扣",
+          "sentence": "I am not sure which button to push.",
+          "sentence_chinese": "我不確定該按哪個按鈕。"
+        },
+        {
+          "id": "m3-2-u4-v009",
+          "word": "enter",
+          "part_of_speech": "動",
+          "chinese": "輸入；進入",
+          "sentence": "Please show me how to enter my name.",
+          "sentence_chinese": "請示範如何輸入我的名字。"
+        },
+        {
+          "id": "m3-2-u4-v010",
+          "word": "wake word",
+          "part_of_speech": "名",
+          "chinese": "喚醒字詞",
+          "sentence": "Can you tell me what the wake word is?",
+          "sentence_chinese": "你能告訴我喚醒字詞是什麼嗎？"
+        },
+        {
+          "id": "m3-2-u4-v011",
+          "word": "whether",
+          "part_of_speech": "連",
+          "chinese": "是否",
+          "sentence": "I don't know whether she will come.",
+          "sentence_chinese": "我不知道她是否會來。"
+        },
+        {
+          "id": "m3-2-u4-v012",
+          "word": "list",
+          "part_of_speech": "名／動",
+          "chinese": "清單；列出",
+          "sentence": "Do you know where my shopping list is?",
+          "sentence_chinese": "你知道我的購物清單在哪裡嗎？"
+        },
+        {
+          "id": "m3-2-u4-v013",
+          "word": "honey",
+          "part_of_speech": "名",
+          "chinese": "親愛的（稱呼語）",
+          "sentence": "Honey, do you know where my keys are?",
+          "sentence_chinese": "親愛的，你知道我的鑰匙在哪裡嗎？"
+        },
+        {
+          "id": "m3-2-u4-v014",
+          "word": "save",
+          "part_of_speech": "動",
+          "chinese": "儲存",
+          "sentence": "Please teach me how to save this file.",
+          "sentence_chinese": "請教我如何儲存這個檔案。"
+        },
+        {
+          "id": "m3-2-u4-v015",
+          "word": "through",
+          "part_of_speech": "介",
+          "chinese": "透過；憑藉",
+          "sentence": "I wonder whether I can buy tickets through this app.",
+          "sentence_chinese": "我想知道是否能透過這個應用程式買票。"
+        },
+        {
+          "id": "m3-2-u4-v016",
+          "word": "if",
+          "part_of_speech": "連",
+          "chinese": "是否",
+          "sentence": "I wonder if the store is open.",
+          "sentence_chinese": "我想知道這家店是否開著。"
+        },
+        {
+          "id": "m3-2-u4-v017",
+          "word": "not... anymore",
+          "part_of_speech": "片",
+          "chinese": "不再……",
+          "sentence": "Do you know why he doesn't live here anymore?",
+          "sentence_chinese": "你知道他為什麼不再住這裡嗎？"
+        },
+        {
+          "id": "m3-2-u4-v018",
+          "word": "voice assistant",
+          "part_of_speech": "名",
+          "chinese": "語音助理",
+          "sentence": "Do you know how to use the voice assistant?",
+          "sentence_chinese": "你知道如何使用語音助理嗎？"
+        },
+        {
+          "id": "m3-2-u4-v019",
+          "word": "machine",
+          "part_of_speech": "名",
+          "chinese": "機器",
+          "sentence": "Can you show me how to use this machine?",
+          "sentence_chinese": "你能示範如何使用這台機器嗎？"
+        },
+        {
+          "id": "m3-2-u4-v020",
+          "word": "dozen",
+          "part_of_speech": "名",
+          "chinese": "（一）打",
+          "sentence": "Do you know whether we need a dozen eggs?",
+          "sentence_chinese": "你知道我們是否需要一打蛋嗎？"
+        },
+        {
+          "id": "m3-2-u4-v021",
+          "word": "boil",
+          "part_of_speech": "動",
+          "chinese": "煮沸",
+          "sentence": "Please show me how to boil water.",
+          "sentence_chinese": "請示範如何把水煮沸。"
+        },
+        {
+          "id": "m3-2-u4-v022",
+          "word": "refrigerator",
+          "part_of_speech": "名",
+          "chinese": "冰箱",
+          "sentence": "Do you know what is in the refrigerator?",
+          "sentence_chinese": "你知道冰箱裡有什麼嗎？"
+        },
+        {
+          "id": "m3-2-u4-v023",
+          "word": "upload",
+          "part_of_speech": "動",
+          "chinese": "上傳",
+          "sentence": "I don't know how to upload the photo.",
+          "sentence_chinese": "我不知道如何上傳這張照片。"
+        },
+        {
+          "id": "m3-2-u4-v024",
+          "word": "e-mail",
+          "part_of_speech": "名",
+          "chinese": "電子郵件",
+          "sentence": "Can you tell me who sent this e-mail?",
+          "sentence_chinese": "你能告訴我誰寄了這封電子郵件嗎？"
+        },
+        {
+          "id": "m3-2-u4-v025",
+          "word": "key",
+          "part_of_speech": "名",
+          "chinese": "鑰匙",
+          "sentence": "I forgot where I put my key.",
+          "sentence_chinese": "我忘了把鑰匙放在哪裡。"
+        },
+        {
+          "id": "m3-2-u4-v026",
+          "word": "the cloud",
+          "part_of_speech": "名",
+          "chinese": "雲端",
+          "sentence": "Please show me how to save photos to the cloud.",
+          "sentence_chinese": "請示範如何把照片存到雲端。"
+        },
+        {
+          "id": "m3-2-u4-v027",
+          "word": "type",
+          "part_of_speech": "動",
+          "chinese": "打字",
+          "sentence": "Do you know how to type your name?",
+          "sentence_chinese": "你知道如何打出你的名字嗎？"
+        },
+        {
+          "id": "m3-2-u4-v028",
+          "word": "rise",
+          "part_of_speech": "名／動",
+          "chinese": "興起；上升",
+          "sentence": "Do you know what time the sun will rise tomorrow?",
+          "sentence_chinese": "你知道明天太陽幾點升起嗎？"
+        },
+        {
+          "id": "m3-2-u4-v029",
+          "word": "collect",
+          "part_of_speech": "動",
+          "chinese": "收集",
+          "sentence": "I wonder why he collects old buttons.",
+          "sentence_chinese": "我想知道他為什麼收集舊鈕扣。"
+        },
+        {
+          "id": "m3-2-u4-v030",
+          "word": "lamp",
+          "part_of_speech": "名",
+          "chinese": "檯燈",
+          "sentence": "Do you know whether this lamp still works?",
+          "sentence_chinese": "你知道這盞檯燈是否還能用嗎？"
+        },
+        {
+          "id": "m3-2-u4-v031",
+          "word": "couch",
+          "part_of_speech": "名",
+          "chinese": "沙發",
+          "sentence": "Please tell me where to put the couch.",
+          "sentence_chinese": "請告訴我該把沙發放在哪裡。"
+        },
+        {
+          "id": "m3-2-u4-v032",
+          "word": "heat",
+          "part_of_speech": "動／名",
+          "chinese": "加熱；熱",
+          "sentence": "I don't know how to heat the soup.",
+          "sentence_chinese": "我不知道如何加熱這碗湯。"
+        },
+        {
+          "id": "m3-2-u4-v033",
+          "word": "cellphone",
+          "part_of_speech": "名",
+          "chinese": "手機",
+          "sentence": "Do you know whose cellphone this is?",
+          "sentence_chinese": "你知道這是誰的手機嗎？"
+        },
+        {
+          "id": "m3-2-u4-v034",
+          "word": "correct",
+          "part_of_speech": "動／形",
+          "chinese": "更正；正確的",
+          "sentence": "Please teach me how to correct this error.",
+          "sentence_chinese": "請教我如何更正這個錯誤。"
+        },
+        {
+          "id": "m3-2-u4-v035",
+          "word": "appear",
+          "part_of_speech": "動",
+          "chinese": "出現",
+          "sentence": "I wonder why this message appears on the screen.",
+          "sentence_chinese": "我想知道這個訊息為什麼出現在螢幕上。"
+        },
+        {
+          "id": "m3-2-u4-v036",
+          "word": "place",
+          "part_of_speech": "動",
+          "chinese": "放置",
+          "sentence": "Please tell me where to place the lamp.",
+          "sentence_chinese": "請告訴我該把檯燈放在哪裡。"
+        },
+        {
+          "id": "m3-2-u4-v037",
+          "word": "fat",
+          "part_of_speech": "名",
+          "chinese": "脂肪",
+          "sentence": "Do you know how much fat is in this food?",
+          "sentence_chinese": "你知道這個食物含多少脂肪嗎？"
+        },
+        {
+          "id": "m3-2-u4-v038",
+          "word": "point",
+          "part_of_speech": "動",
+          "chinese": "對準；指",
+          "sentence": "Please show me where to point the camera.",
+          "sentence_chinese": "請示範該把相機對準哪裡。"
+        }
+      ],
+      "phrases": [],
+      "grammar": {
+        "tips": [
+          {
+            "label": "先主詞，再動詞",
+            "text": "間接問句放進另一個句子後，使用「疑問詞＋主詞＋動詞」：Do you know where the file is?"
+          },
+          {
+            "label": "do／does／did 的處理",
+            "text": "一般肯定間接問句去掉問句用的 do／does／did，動詞恢復人稱與時態：where she lives、what he bought。"
+          },
+          {
+            "label": "who 可能就是主詞",
+            "text": "who 本來就是動作者時，直接接動詞，不用再倒裝：I know who sent the e-mail."
+          },
+          {
+            "label": "疑問詞＋to V",
+            "text": "主詞明確且語意適合時，可用 what／which／where／when／how＋to＋原形動詞：how to upload a file。"
+          },
+          {
+            "label": "是否：whether／if",
+            "text": "Yes/No 問句改成 whether／if＋主詞＋動詞；不定詞前只能用 whether：whether to save it。"
+          },
+          {
+            "label": "標點看最外層",
+            "text": "Do you know ...? 用問號；I don’t know ... . 用句號。不能只看句中有沒有疑問詞。"
+          }
+        ],
+        "notes": [
+          {
+            "title": "間接問句與直述語序",
+            "rule": "主要子句＋疑問詞＋主詞＋動詞",
+            "description": "把問句放進 know、tell、ask、wonder、remember 等後面時，子句採直述語序。含 be 動詞時，主詞放在 be 動詞前；be 動詞仍須配合單複數和時間。句末標點由主要子句決定。",
+            "examples": [
+              "Where is the key? → Do you know where the key is?（你知道鑰匙在哪裡嗎？）",
+              "Why was the screen dark? → I wonder why the screen was dark.（我想知道螢幕當時為什麼是黑的。）",
+              "Where are the lamps? → Please tell me where the lamps are.（請告訴我檯燈在哪裡。）"
+            ]
+          },
+          {
+            "title": "一般動詞：去掉問句助動詞，保留人稱與時態",
+            "rule": "疑問詞＋主詞＋一般現在式／過去式動詞",
+            "description": "一般肯定間接問句不保留直接問句用來倒裝的 do、does、did。does 所表示的第三人稱單數要回到主要動詞；did 所表示的過去時間也要回到主要動詞。不要一律把動詞寫成原形。",
+            "examples": [
+              "Where does Mia save her files? → I know where Mia saves her files.（我知道 Mia 把檔案存在哪裡。）",
+              "What did you type? → Please tell me what you typed.（請告訴我你打了什麼。）",
+              "否定子句仍可能需要助動詞：I know why he does not come here anymore.（我知道他為什麼不再來這裡。）"
+            ]
+          },
+          {
+            "title": "情態助動詞與現在完成式",
+            "rule": "疑問詞＋主詞＋can／should／will＋原形動詞；疑問詞＋主詞＋have／has＋過去分詞",
+            "description": "can、should、will 和完成式的 have／has 不要刪掉，只須放回主詞後面。完成式要留意主詞單複數及過去分詞。how long、so far、yet 等可協助理解時間。",
+            "examples": [
+              "When will you upload the photo? → Tell me when you will upload the photo.（告訴我你何時會上傳照片。）",
+              "How can I fix this error? → Show me how I can fix this error.（示範給我看怎樣修正這個錯誤。）",
+              "How long have you had this cellphone? → I wonder how long you have had this cellphone.（我想知道你這支手機用了多久。）"
+            ]
+          },
+          {
+            "title": "疑問詞本身就是主詞",
+            "rule": "主要子句＋who／which＋名詞＋動詞",
+            "description": "先找出誰在做動作。who 或 which machine 等本來就是主詞時，後面直接接動詞，無須再調整語序。若 who 是受詞，則要保留另外的主詞。主動與被動也要依誰做事、誰受影響判斷。",
+            "examples": [
+              "Who sent the file? → I know who sent the file.（我知道誰寄了檔案。）",
+              "Which machine boils water? → Tell me which machine boils water.（告訴我哪台機器會煮水。）",
+              "I know who helped Ken.（我知道誰幫了 Ken。）／I know who Ken helped.（我知道 Ken 幫了誰。）",
+              "I know who was chosen.（我知道誰被選上了。）"
+            ]
+          },
+          {
+            "title": "wh- 名詞片語",
+            "rule": "what／which／where／when／how＋to＋原形動詞",
+            "description": "主詞明確，且意思是「該做什麼、如何做、在哪裡做」時，可用疑問詞加不定詞。to 後面一定是原形動詞。不是任何間接問句都能這樣簡化；本課不使用 why to V，疑問詞本身是主詞時也不能直接改成這種結構。",
+            "examples": [
+              "Please show me how I can upload a file. = Please show me how to upload a file.（請示範如何上傳檔案。）",
+              "I cannot decide which lamp I should buy. = I cannot decide which lamp to buy.（我無法決定該買哪盞檯燈。）",
+              "I know who should help us.（我知道誰應該幫我們。）此處 who 是主詞，不能改成 who to help us。"
+            ]
+          },
+          {
+            "title": "whether／if 引導是否子句",
+            "rule": "whether／if＋主詞＋動詞（＋or not）",
+            "description": "原問句可以用 Yes 或 No 回答時，改成間接問句須用 whether 或 if 引導，子句仍用直述語序。一般受詞子句中兩者常能互換；or not 在句尾時兩者都可使用。if 在這裡表示「是否」，不是「如果」。",
+            "examples": [
+              "Is the machine working? → I wonder whether the machine is working.（我想知道機器是否正常運作。）",
+              "Did Sam come? → I do not know if Sam came.（我不知道 Sam 是否來過。）",
+              "I wonder whether she will come or not. = I wonder if she will come or not.（我想知道她會不會來。）"
+            ]
+          },
+          {
+            "title": "whether 的特殊位置與選擇問句",
+            "rule": "whether＋to V；whether or not＋主詞＋動詞",
+            "description": "不定詞 to V 前只能用 whether，不能用 if。補充：or not 緊接引導詞時也要用 whether or not；若 or not 放在子句末尾，一般受詞子句可用 whether 或 if。or 也可以連接兩個實際選項，此時不必再加 not。",
+            "examples": [
+              "I cannot decide whether to save the file.（我無法決定是否要儲存檔案。）",
+              "Please check whether or not the shop is open.（請確認店是否開著。）",
+              "Do you know whether she goes by bus or metro?（你知道她搭公車還是捷運嗎？）"
+            ]
+          },
+          {
+            "title": "用上下文選疑問詞",
+            "rule": "what 問內容；who 問人；where 問地點；when 問時間；why 問原因；how 問方式",
+            "description": "除了語序，還要看子句缺少什麼資訊。回答提供地點就用 where，提供原因就用 why；what 可以作子句受詞。how much 問價錢或不可數的量，how many 問可數數量，how often 問頻率，how long 問時間長度。",
+            "examples": [
+              "Tell me what you wrote.（告訴我你寫了什麼。）",
+              "Do you know why the screen is dark? Because the machine is off.（你知道螢幕為什麼黑了嗎？因為機器關著。）",
+              "Can you tell me how much this cellphone costs?（你能告訴我這支手機多少錢嗎？）"
+            ]
+          },
+          {
+            "title": "被動語態放進間接問句",
+            "rule": "疑問詞／whether／if＋主詞＋be 動詞＋過去分詞",
+            "description": "主詞是承受動作的對象時，使用被動語態。改成間接問句後，不要因為調整語序就刪掉 be 動詞，也不要把過去分詞改成原形。",
+            "examples": [
+              "Why was the file deleted? → I wonder why the file was deleted.（我想知道檔案為什麼被刪除。）",
+              "Was the machine made in Taiwan? → I want to know whether the machine was made in Taiwan.（我想知道這台機器是否在臺灣製造。）"
+            ]
+          },
+          {
+            "title": "整個名詞子句作主詞",
+            "rule": "名詞子句＋單數動詞",
+            "description": "間接問句形式的名詞子句也可以放在句首作主詞。此時把整件事視為單數，所以主要子句用 is、has 等單數動詞；不要被子句裡的複數名詞影響。",
+            "examples": [
+              "Where the lamps will be placed is still unknown.（檯燈將放在哪裡仍不清楚。）",
+              "Who took the key is not clear.（誰拿了鑰匙還不清楚。）",
+              "Whether the machine works has not been checked.（機器是否能運作還沒檢查。）"
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "id": "m3-2-u4-q001",
+            "question": "The gate is locked. Do you know where ___?",
+            "options": [
+              "A. the key is",
+              "B. is the key",
+              "C. does the key",
+              "D. the key be"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "know 後的 where 子句使用直述語序「主詞＋be 動詞」，所以填 the key is，不能倒裝成 is the key。"
+          },
+          {
+            "id": "m3-2-u4-q002",
+            "question": "Please tell me why ___. I cannot see anything on it.",
+            "options": [
+              "A. is the screen dark",
+              "B. does the screen dark",
+              "C. the screen dark is",
+              "D. the screen is dark"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "tell me 後的間接問句用 why＋主詞＋be 動詞＋形容詞，因此是 the screen is dark。"
+          },
+          {
+            "id": "m3-2-u4-q003",
+            "question": "A: Whose cellphone is this? B: I don't know whose cellphone ___.",
+            "options": [
+              "A. is this",
+              "B. does this",
+              "C. this is",
+              "D. this be"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "this 是子句主詞。直接問句的 is this 改成間接問句時，要還原為 this is。"
+          },
+          {
+            "id": "m3-2-u4-q004",
+            "question": "Can you tell me where the lamps ___?",
+            "options": [
+              "A. is",
+              "B. be",
+              "C. are",
+              "D. am"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "間接問句中的主詞是複數 the lamps，be 動詞用 are，且放在主詞後面。"
+          },
+          {
+            "id": "m3-2-u4-q005",
+            "question": "I wonder how old this machine ___.",
+            "options": [
+              "A. be",
+              "B. does",
+              "C. is",
+              "D. has"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "how old 後面接主詞 this machine，再接 be 動詞；單數主詞用 is，表示這台機器有多久的歷史。"
+          },
+          {
+            "id": "m3-2-u4-q006",
+            "question": "Do you remember where ___ yesterday?",
+            "options": [
+              "A. was the couch",
+              "B. the couch was",
+              "C. does the couch be",
+              "D. the couch were"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "yesterday 表示過去，單數主詞 the couch 搭配 was；間接問句仍須主詞在前。"
+          },
+          {
+            "id": "m3-2-u4-q007",
+            "question": "Please tell me how often Mia ___ her files. Does she do it every day?",
+            "options": [
+              "A. save",
+              "B. saves",
+              "C. saving",
+              "D. to save"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "Mia 是第三人稱單數；every day 所指的是習慣。間接問句保留一般現在式的人稱變化，所以用 saves。"
+          },
+          {
+            "id": "m3-2-u4-q008",
+            "question": "I don't know where Tom ___ his key last night.",
+            "options": [
+              "A. leave",
+              "B. leaves",
+              "C. leaving",
+              "D. left"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "last night 表示過去，leave 要用過去式 left。間接問句不保留問句用的 did。"
+          },
+          {
+            "id": "m3-2-u4-q009",
+            "question": "Could you tell me why ___ this button yesterday?",
+            "options": [
+              "A. you pushed",
+              "B. did you push",
+              "C. do you push",
+              "D. you push"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "yesterday 表示過去；why 後接主詞 you，再接過去式 pushed，不用 did you push 的倒裝語序。"
+          },
+          {
+            "id": "m3-2-u4-q010",
+            "question": "Do you know what time the store ___ every morning?",
+            "options": [
+              "A. open",
+              "B. opened",
+              "C. opens",
+              "D. opening"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "every morning 表示固定習慣，單數主詞 the store 的一般現在式動詞用 opens。"
+          },
+          {
+            "id": "m3-2-u4-q011",
+            "question": "I wonder how ___ her name on the screen yesterday.",
+            "options": [
+              "A. did she type",
+              "B. does she type",
+              "C. she type",
+              "D. she typed"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "間接問句使用 how＋主詞＋動詞。yesterday 提示過去式，因此是 she typed。"
+          },
+          {
+            "id": "m3-2-u4-q012",
+            "question": "Mom wants to know when ___ the soup.",
+            "options": [
+              "A. will we heat",
+              "B. do we will heat",
+              "C. we will heat",
+              "D. we will heating"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "情態助動詞 will 在間接問句中放在主詞 we 後面，後接原形動詞 heat。"
+          },
+          {
+            "id": "m3-2-u4-q013",
+            "question": "Could you tell me which button ___ to start the machine?",
+            "options": [
+              "A. should I push",
+              "B. I should push",
+              "C. I should pushed",
+              "D. I should pushing"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "間接問句用 I should push，先主詞 I，再接 should＋原形動詞 push。"
+          },
+          {
+            "id": "m3-2-u4-q014",
+            "question": "Nobody knows where ___ the couch tomorrow.",
+            "options": [
+              "A. can they place",
+              "B. they can place",
+              "C. do they can place",
+              "D. they can placed"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "where 後用直述語序 they can place；can 後接原形動詞，不加 do，也不使用 placed。"
+          },
+          {
+            "id": "m3-2-u4-q015",
+            "question": "I want to know how ___ this error.",
+            "options": [
+              "A. can I correct",
+              "B. I can corrected",
+              "C. do I can correct",
+              "D. I can correct"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "how 引導的間接問句須使用主詞 I＋can＋原形動詞 correct，不能將 can 放到 I 前面。"
+          },
+          {
+            "id": "m3-2-u4-q016",
+            "question": "Can you tell me how long ___ this cellphone?",
+            "options": [
+              "A. have you had",
+              "B. you have had",
+              "C. you has had",
+              "D. have had you"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "現在完成式的間接問句用主詞＋have／has＋過去分詞；you 搭配 have，因此是 you have had。"
+          },
+          {
+            "id": "m3-2-u4-q017",
+            "question": "Mom asks whether Nina ___ the e-mail yet.",
+            "options": [
+              "A. have sent",
+              "B. has send",
+              "C. having sent",
+              "D. has sent"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "yet 配合此處語境詢問是否已寄出，使用現在完成式；Nina 是單數，搭配 has＋sent。"
+          },
+          {
+            "id": "m3-2-u4-q018",
+            "question": "Do you know how many coins ___ so far?",
+            "options": [
+              "A. Leo has collected",
+              "B. has Leo collected",
+              "C. Leo have collected",
+              "D. has collected Leo"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "so far 表示到目前為止；現在完成式間接問句用 Leo has collected，主詞先於 has。"
+          },
+          {
+            "id": "m3-2-u4-q019",
+            "question": "I wonder where ___ the file.",
+            "options": [
+              "A. Dad has saved",
+              "B. has Dad saved",
+              "C. Dad have saved",
+              "D. has saved Dad"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "現在完成式的間接問句採主詞 Dad＋has＋saved，不能沿用 has Dad 的問句倒裝。"
+          },
+          {
+            "id": "m3-2-u4-q020",
+            "question": "Someone wrote on the blackboard. Do you know who ___ it?",
+            "options": [
+              "A. did wrote",
+              "B. writing",
+              "C. to write",
+              "D. wrote"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "who 本身就是「寫字的人」，是子句主詞，後面直接接過去式 wrote，不再加助動詞 did。"
+          },
+          {
+            "id": "m3-2-u4-q021",
+            "question": "A: One of these machines makes hot water. B: Can you tell me which machine ___ water?",
+            "options": [
+              "A. boil",
+              "B. boiling",
+              "C. boils",
+              "D. to boil"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "which machine 是子句主詞，視為單數，直接接一般現在式 boils；不需倒裝或改成不定詞。"
+          },
+          {
+            "id": "m3-2-u4-q022",
+            "question": "The file appeared in my e-mail. I wonder who ___ it to me.",
+            "options": [
+              "A. did sent",
+              "B. to send",
+              "C. sending",
+              "D. sent"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "who 是寄件者，也是子句主詞；前句 appeared 提示已發生的事件，因此直接用過去式 sent。"
+          },
+          {
+            "id": "m3-2-u4-q023",
+            "question": "I want to thank the person who helped me. Do you remember who ___?",
+            "options": [
+              "A. I have helped",
+              "B. has helped me",
+              "C. has I helped",
+              "D. have helped me"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "語境要找「曾幫助我的人」，who 是施助者，故用 who has helped me；I have helped 會變成我幫助的人，方向相反。"
+          },
+          {
+            "id": "m3-2-u4-q024",
+            "question": "Someone took my cellphone. Please tell me who ___.",
+            "options": [
+              "A. took it",
+              "B. did took it",
+              "C. it took",
+              "D. to take it"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "who 是拿走手機的人，直接接 took it。it 指手機，應作 took 的受詞，不能把 it 放在動詞前當主詞。"
+          },
+          {
+            "id": "m3-2-u4-q025",
+            "question": "The file is on my computer. Please show me how ___ it to the cloud.",
+            "options": [
+              "A. to upload",
+              "B. upload",
+              "C. uploading",
+              "D. to uploading"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "主詞明確且是在詢問操作方法，可用 how＋to＋原形動詞，因此填 to upload。"
+          },
+          {
+            "id": "m3-2-u4-q026",
+            "question": "We have two lamps, but only one table. I cannot decide which lamp ___.",
+            "options": [
+              "A. keeping",
+              "B. keep",
+              "C. to keep",
+              "D. to keeping"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "which lamp 後可接 to＋原形動詞，表示不知道應保留哪盞燈，因此是 which lamp to keep。"
+          },
+          {
+            "id": "m3-2-u4-q027",
+            "question": "A: The soup is cold. B: Please teach me how ___ it.",
+            "options": [
+              "A. to heat",
+              "B. heating",
+              "C. heat",
+              "D. to heating"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "teach me how to heat 表示教我如何加熱；how 後的名詞片語使用 to＋原形動詞。"
+          },
+          {
+            "id": "m3-2-u4-q028",
+            "question": "Please tell me where ___ this heavy couch.",
+            "options": [
+              "A. place",
+              "B. to place",
+              "C. placing",
+              "D. to placed"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "where to place 表示應放在哪裡；不定詞 to 後要接原形 place。"
+          },
+          {
+            "id": "m3-2-u4-q029",
+            "question": "I have never used a voice assistant. Can you show me how ___ to it?",
+            "options": [
+              "A. talking",
+              "B. talk",
+              "C. to talked",
+              "D. to talk"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "詢問如何對語音助理說話，使用 how to talk；to 後不能接 talked 或 V-ing。"
+          },
+          {
+            "id": "m3-2-u4-q030",
+            "question": "There are five buttons. I don't know which one ___.",
+            "options": [
+              "A. pushing",
+              "B. push",
+              "C. to pushing",
+              "D. to push"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "which one to push 表示不知道該按哪一個；疑問詞片語後接 to＋原形動詞 push。"
+          },
+          {
+            "id": "m3-2-u4-q031",
+            "question": "The quiz begins soon. We must decide when ___.",
+            "options": [
+              "A. start studying",
+              "B. to start studying",
+              "C. starting to study",
+              "D. to starting studying"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "when＋to＋原形動詞可表達決定何時做某事；to 後使用原形 start，所以填 to start studying。"
+          },
+          {
+            "id": "m3-2-u4-q032",
+            "question": "I have an empty shopping list. Please tell me what ___.",
+            "options": [
+              "A. buying",
+              "B. buy",
+              "C. to buy",
+              "D. to bought"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "what to buy 表示該買什麼；主詞明確時可用 what＋to＋原形動詞的名詞片語。"
+          },
+          {
+            "id": "m3-2-u4-q033",
+            "question": "I cannot decide ___ to save this file or delete it.",
+            "options": [
+              "A. whether",
+              "B. if",
+              "C. that",
+              "D. what"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "表示「是否要」且後接 to V 時，只能用 whether，不能用 if；or delete it 提供另一個選項。"
+          },
+          {
+            "id": "m3-2-u4-q034",
+            "question": "A: Could you ask Tina ___ she can lend us her cellphone? B: Sure. I'll ask her for a yes or no.",
+            "options": [
+              "A. what",
+              "B. who",
+              "C. which",
+              "D. if"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "for a yes or no 表示詢問是否願意借手機；she can lend us her cellphone 是完整子句，前面用 if。"
+          },
+          {
+            "id": "m3-2-u4-q035",
+            "question": "We don't know ___ the new machine will work or not.",
+            "options": [
+              "A. what",
+              "B. whether",
+              "C. who",
+              "D. which"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "or not 表示「是否」，後面的 the new machine will work 已是完整子句，使用 whether 引導。"
+          },
+          {
+            "id": "m3-2-u4-q036",
+            "question": "Could you check if ___ in the refrigerator?",
+            "options": [
+              "A. are the eggs",
+              "B. the eggs are",
+              "C. do the eggs",
+              "D. the eggs be"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "if 引導的間接問句也採直述語序；複數主詞 the eggs 放在 are 前面。"
+          },
+          {
+            "id": "m3-2-u4-q037",
+            "question": "I wonder whether Sam ___ to the quiz yesterday.",
+            "options": [
+              "A. came",
+              "B. come",
+              "C. comes",
+              "D. coming"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "yesterday 提示過去時間。whether 子句中的 come 要改成過去式 came，不能因為是間接問句就忽略時態。"
+          },
+          {
+            "id": "m3-2-u4-q038",
+            "question": "Do you know whether ___ the file tomorrow?",
+            "options": [
+              "A. will May upload",
+              "B. does May will upload",
+              "C. May will upload",
+              "D. May will uploading"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "tomorrow 提示未來；whether 後使用主詞 May＋will＋原形動詞 upload，不使用倒裝。"
+          },
+          {
+            "id": "m3-2-u4-q039",
+            "question": "Ken has not answered my message. I wonder ___ he has read it.",
+            "options": [
+              "A. who",
+              "B. if",
+              "C. what",
+              "D. which"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "想知道 Ken 是否讀過訊息，使用 if。he has read it 結構完整，不缺人或事物的受詞。"
+          },
+          {
+            "id": "m3-2-u4-q040",
+            "question": "Please find out ___ or not the shop sells lamps.",
+            "options": [
+              "A. whether",
+              "B. if",
+              "C. what",
+              "D. that"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "or not 緊接引導詞時，使用 whether or not；if 不能直接接 or not。"
+          },
+          {
+            "id": "m3-2-u4-q041",
+            "question": "I cannot decide whether ___ this machine today.",
+            "options": [
+              "A. to buy",
+              "B. buying",
+              "C. buy",
+              "D. to buying"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "whether 後可以接 to＋原形動詞，表示是否要購買，因此填 to buy。"
+          },
+          {
+            "id": "m3-2-u4-q042",
+            "question": "I want to know whether this machine ___ in Taiwan.",
+            "options": [
+              "A. made",
+              "B. was made",
+              "C. was making",
+              "D. has made"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "機器是「被製造」的對象，使用被動語態 be＋過去分詞，所以是 was made；其餘選項都是主動結構。"
+          },
+          {
+            "id": "m3-2-u4-q043",
+            "question": "A: Do you know ___ the file is? B: Yes. It is on my desktop.",
+            "options": [
+              "A. when",
+              "B. why",
+              "C. where",
+              "D. whether"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "回答 on my desktop 提供位置，因此用 where；when 問時間，why 問原因，whether 問是否。"
+          },
+          {
+            "id": "m3-2-u4-q044",
+            "question": "A: Can you tell me ___ the quiz starts? B: At nine.",
+            "options": [
+              "A. where",
+              "B. who",
+              "C. when",
+              "D. whether"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "At nine 回答時間，所以用 when 引導間接問句，後面維持 the quiz starts 的直述語序。"
+          },
+          {
+            "id": "m3-2-u4-q045",
+            "question": "A: Do you know ___ the screen is black? B: Because the machine is off.",
+            "options": [
+              "A. why",
+              "B. where",
+              "C. when",
+              "D. whether"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "Because 引導的回答提供原因，所以空格用 why；子句語序仍是 the screen is black。"
+          },
+          {
+            "id": "m3-2-u4-q046",
+            "question": "A: Please tell me ___ you wrote in the e-mail. B: I wrote my new address.",
+            "options": [
+              "A. where",
+              "B. when",
+              "C. what",
+              "D. whether"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "回答提供寫下的「內容」。wrote 後缺受詞，使用 what；where、when 是地點或時間，whether 表是否。"
+          },
+          {
+            "id": "m3-2-u4-q047",
+            "question": "A: Can you tell me ___ the new cellphone costs? B: Ten thousand dollars.",
+            "options": [
+              "A. how many",
+              "B. how often",
+              "C. how long",
+              "D. how much"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "Ten thousand dollars 是價錢，應問 how much；how many 問可數數量，how often 問頻率，how long 問時間長度。"
+          },
+          {
+            "id": "m3-2-u4-q048",
+            "question": "Where we will place the couch ___ still a question.",
+            "options": [
+              "A. are",
+              "B. be",
+              "C. have",
+              "D. is"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "整個 Where we will place the couch 子句作主詞，視為單數，後面用 is。"
+          },
+          {
+            "id": "m3-2-u4-q049",
+            "question": "Who took the key ___ not clear yet.",
+            "options": [
+              "A. is",
+              "B. are",
+              "C. do",
+              "D. have"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "主詞是整個 Who took the key 子句，意思是「誰拿走鑰匙這件事」，視為單數，使用 is。"
+          },
+          {
+            "id": "m3-2-u4-q050",
+            "question": "Whether the machine works ___ not been checked yet.",
+            "options": [
+              "A. have",
+              "B. are",
+              "C. has",
+              "D. do"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "整個 Whether the machine works 子句作主詞，視為單數；搭配 not been checked yet，使用 has 形成現在完成式被動。"
+          }
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          {
+            "id": "m3-2-u4-sv001",
+            "vocab_id": "m3-2-u4-v001",
+            "sentence": "I'll wait for you in front of the gate.",
+            "sentence_chinese": "我會在大門前等你。"
+          },
+          {
+            "id": "m3-2-u4-sv002",
+            "vocab_id": "m3-2-u4-v002",
+            "sentence": "You can download the files from this web page.",
+            "sentence_chinese": "你可以從這個網頁下載檔案。"
+          },
+          {
+            "id": "m3-2-u4-sv003",
+            "vocab_id": "m3-2-u4-v003",
+            "sentence": "Do you know when the quiz will start?",
+            "sentence_chinese": "你知道小考什麼時候開始嗎？"
+          },
+          {
+            "id": "m3-2-u4-sv004",
+            "vocab_id": "m3-2-u4-v004",
+            "sentence": "Please tell me what is on the blackboard.",
+            "sentence_chinese": "請告訴我黑板上有什麼。"
+          },
+          {
+            "id": "m3-2-u4-sv005",
+            "vocab_id": "m3-2-u4-v005",
+            "sentence": "I don't know where the chalk is.",
+            "sentence_chinese": "我不知道粉筆在哪裡。"
+          },
+          {
+            "id": "m3-2-u4-sv006",
+            "vocab_id": "m3-2-u4-v006",
+            "sentence": "Can you tell me why the screen is dark?",
+            "sentence_chinese": "你能告訴我螢幕為什麼是黑的嗎？"
+          },
+          {
+            "id": "m3-2-u4-sv007",
+            "vocab_id": "m3-2-u4-v007",
+            "sentence": "Do you know how to fix this error?",
+            "sentence_chinese": "你知道怎麼修正這個錯誤嗎？"
+          },
+          {
+            "id": "m3-2-u4-sv008",
+            "vocab_id": "m3-2-u4-v008",
+            "sentence": "I am not sure which button to push.",
+            "sentence_chinese": "我不確定該按哪個按鈕。"
+          },
+          {
+            "id": "m3-2-u4-sv009",
+            "vocab_id": "m3-2-u4-v009",
+            "sentence": "Please show me how to enter my name.",
+            "sentence_chinese": "請示範如何輸入我的名字。"
+          },
+          {
+            "id": "m3-2-u4-sv010",
+            "vocab_id": "m3-2-u4-v010",
+            "sentence": "Can you tell me what the wake word is?",
+            "sentence_chinese": "你能告訴我喚醒字詞是什麼嗎？"
+          },
+          {
+            "id": "m3-2-u4-sv011",
+            "vocab_id": "m3-2-u4-v011",
+            "sentence": "I don't know whether she will come.",
+            "sentence_chinese": "我不知道她是否會來。"
+          },
+          {
+            "id": "m3-2-u4-sv012",
+            "vocab_id": "m3-2-u4-v012",
+            "sentence": "Do you know where my shopping list is?",
+            "sentence_chinese": "你知道我的購物清單在哪裡嗎？"
+          },
+          {
+            "id": "m3-2-u4-sv013",
+            "vocab_id": "m3-2-u4-v013",
+            "sentence": "Honey, do you know where my keys are?",
+            "sentence_chinese": "親愛的，你知道我的鑰匙在哪裡嗎？"
+          },
+          {
+            "id": "m3-2-u4-sv014",
+            "vocab_id": "m3-2-u4-v014",
+            "sentence": "Please teach me how to save this file.",
+            "sentence_chinese": "請教我如何儲存這個檔案。"
+          },
+          {
+            "id": "m3-2-u4-sv015",
+            "vocab_id": "m3-2-u4-v015",
+            "sentence": "I wonder whether I can buy tickets through this app.",
+            "sentence_chinese": "我想知道是否能透過這個應用程式買票。"
+          },
+          {
+            "id": "m3-2-u4-sv016",
+            "vocab_id": "m3-2-u4-v016",
+            "sentence": "I wonder if the store is open.",
+            "sentence_chinese": "我想知道這家店是否開著。"
+          },
+          {
+            "id": "m3-2-u4-sv017",
+            "vocab_id": "m3-2-u4-v017",
+            "sentence": "Do you know why he doesn't live here anymore?",
+            "sentence_chinese": "你知道他為什麼不再住這裡嗎？"
+          },
+          {
+            "id": "m3-2-u4-sv018",
+            "vocab_id": "m3-2-u4-v018",
+            "sentence": "Do you know how to use the voice assistant?",
+            "sentence_chinese": "你知道如何使用語音助理嗎？"
+          },
+          {
+            "id": "m3-2-u4-sv019",
+            "vocab_id": "m3-2-u4-v019",
+            "sentence": "Can you show me how to use this machine?",
+            "sentence_chinese": "你能示範如何使用這台機器嗎？"
+          },
+          {
+            "id": "m3-2-u4-sv020",
+            "vocab_id": "m3-2-u4-v020",
+            "sentence": "Do you know whether we need a dozen eggs?",
+            "sentence_chinese": "你知道我們是否需要一打蛋嗎？"
+          },
+          {
+            "id": "m3-2-u4-sv021",
+            "vocab_id": "m3-2-u4-v021",
+            "sentence": "Please show me how to boil water.",
+            "sentence_chinese": "請示範如何把水煮沸。"
+          },
+          {
+            "id": "m3-2-u4-sv022",
+            "vocab_id": "m3-2-u4-v022",
+            "sentence": "Do you know what is in the refrigerator?",
+            "sentence_chinese": "你知道冰箱裡有什麼嗎？"
+          },
+          {
+            "id": "m3-2-u4-sv023",
+            "vocab_id": "m3-2-u4-v023",
+            "sentence": "I don't know how to upload the photo.",
+            "sentence_chinese": "我不知道如何上傳這張照片。"
+          },
+          {
+            "id": "m3-2-u4-sv024",
+            "vocab_id": "m3-2-u4-v024",
+            "sentence": "Can you tell me who sent this e-mail?",
+            "sentence_chinese": "你能告訴我誰寄了這封電子郵件嗎？"
+          },
+          {
+            "id": "m3-2-u4-sv025",
+            "vocab_id": "m3-2-u4-v025",
+            "sentence": "I forgot where I put my key.",
+            "sentence_chinese": "我忘了把鑰匙放在哪裡。"
+          },
+          {
+            "id": "m3-2-u4-sv026",
+            "vocab_id": "m3-2-u4-v026",
+            "sentence": "Please show me how to save photos to the cloud.",
+            "sentence_chinese": "請示範如何把照片存到雲端。"
+          },
+          {
+            "id": "m3-2-u4-sv027",
+            "vocab_id": "m3-2-u4-v027",
+            "sentence": "Do you know how to type your name?",
+            "sentence_chinese": "你知道如何打出你的名字嗎？"
+          },
+          {
+            "id": "m3-2-u4-sv028",
+            "vocab_id": "m3-2-u4-v028",
+            "sentence": "Do you know what time the sun will rise tomorrow?",
+            "sentence_chinese": "你知道明天太陽幾點升起嗎？"
+          },
+          {
+            "id": "m3-2-u4-sv029",
+            "vocab_id": "m3-2-u4-v029",
+            "sentence": "I wonder why he collects old buttons.",
+            "sentence_chinese": "我想知道他為什麼收集舊鈕扣。"
+          },
+          {
+            "id": "m3-2-u4-sv030",
+            "vocab_id": "m3-2-u4-v030",
+            "sentence": "Do you know whether this lamp still works?",
+            "sentence_chinese": "你知道這盞檯燈是否還能用嗎？"
+          },
+          {
+            "id": "m3-2-u4-sv031",
+            "vocab_id": "m3-2-u4-v031",
+            "sentence": "Please tell me where to put the couch.",
+            "sentence_chinese": "請告訴我該把沙發放在哪裡。"
+          },
+          {
+            "id": "m3-2-u4-sv032",
+            "vocab_id": "m3-2-u4-v032",
+            "sentence": "I don't know how to heat the soup.",
+            "sentence_chinese": "我不知道如何加熱這碗湯。"
+          },
+          {
+            "id": "m3-2-u4-sv033",
+            "vocab_id": "m3-2-u4-v033",
+            "sentence": "Do you know whose cellphone this is?",
+            "sentence_chinese": "你知道這是誰的手機嗎？"
+          },
+          {
+            "id": "m3-2-u4-sv034",
+            "vocab_id": "m3-2-u4-v034",
+            "sentence": "Please teach me how to correct this error.",
+            "sentence_chinese": "請教我如何更正這個錯誤。"
+          },
+          {
+            "id": "m3-2-u4-sv035",
+            "vocab_id": "m3-2-u4-v035",
+            "sentence": "I wonder why this message appears on the screen.",
+            "sentence_chinese": "我想知道這個訊息為什麼出現在螢幕上。"
+          },
+          {
+            "id": "m3-2-u4-sv036",
+            "vocab_id": "m3-2-u4-v036",
+            "sentence": "Please tell me where to place the lamp.",
+            "sentence_chinese": "請告訴我該把檯燈放在哪裡。"
+          },
+          {
+            "id": "m3-2-u4-sv037",
+            "vocab_id": "m3-2-u4-v037",
+            "sentence": "Do you know how much fat is in this food?",
+            "sentence_chinese": "你知道這個食物含多少脂肪嗎？"
+          },
+          {
+            "id": "m3-2-u4-sv038",
+            "vocab_id": "m3-2-u4-v038",
+            "sentence": "Please show me where to point the camera.",
+            "sentence_chinese": "請示範該把相機對準哪裡。"
+          }
+        ],
+        "phrases": [],
+        "grammar": [
+          {
+            "id": "m3-2-u4-sg001",
+            "sentence": "Do you know where the gate is?",
+            "sentence_chinese": "你知道大門在哪裡嗎？"
+          },
+          {
+            "id": "m3-2-u4-sg002",
+            "sentence": "Please tell me which file to open.",
+            "sentence_chinese": "請告訴我該開啟哪個檔案。"
+          },
+          {
+            "id": "m3-2-u4-sg003",
+            "sentence": "I wonder whether the machine still works.",
+            "sentence_chinese": "我想知道這台機器是否還能運作。"
+          },
+          {
+            "id": "m3-2-u4-sg004",
+            "sentence": "Can you show me how to save this?",
+            "sentence_chinese": "你能示範如何儲存這個嗎？"
+          },
+          {
+            "id": "m3-2-u4-sg005",
+            "sentence": "Nobody knows who broke the blackboard yesterday.",
+            "sentence_chinese": "沒有人知道昨天誰弄壞了黑板。"
+          },
+          {
+            "id": "m3-2-u4-sg006",
+            "sentence": "We cannot decide where to place the couch.",
+            "sentence_chinese": "我們無法決定該把沙發放在哪裡。"
+          },
+          {
+            "id": "m3-2-u4-sg007",
+            "sentence": "Mom asked me why the screen was dark.",
+            "sentence_chinese": "媽媽問我螢幕為什麼是黑的。"
+          },
+          {
+            "id": "m3-2-u4-sg008",
+            "sentence": "I don't know when the quiz will start.",
+            "sentence_chinese": "我不知道小考什麼時候開始。"
+          },
+          {
+            "id": "m3-2-u4-sg009",
+            "sentence": "Please check if the eggs are fresh.",
+            "sentence_chinese": "請檢查這些蛋是否新鮮。"
+          },
+          {
+            "id": "m3-2-u4-sg010",
+            "sentence": "Dad knows how to correct this error.",
+            "sentence_chinese": "爸爸知道如何更正這個錯誤。"
+          },
+          {
+            "id": "m3-2-u4-sg011",
+            "sentence": "Tell me whose cellphone this is.",
+            "sentence_chinese": "告訴我這是誰的手機。"
+          },
+          {
+            "id": "m3-2-u4-sg012",
+            "sentence": "I wonder why she collects old keys.",
+            "sentence_chinese": "我想知道她為什麼收集舊鑰匙。"
+          },
+          {
+            "id": "m3-2-u4-sg013",
+            "sentence": "Do you remember who sent this e-mail?",
+            "sentence_chinese": "你記得誰寄了這封電子郵件嗎？"
+          },
+          {
+            "id": "m3-2-u4-sg014",
+            "sentence": "We haven't decided which lamp to buy.",
+            "sentence_chinese": "我們還沒決定該買哪盞檯燈。"
+          },
+          {
+            "id": "m3-2-u4-sg015",
+            "sentence": "Can you explain how the voice assistant works?",
+            "sentence_chinese": "你能解釋語音助理如何運作嗎？"
+          },
+          {
+            "id": "m3-2-u4-sg016",
+            "sentence": "I am not sure whether to press this button.",
+            "sentence_chinese": "我不確定是否該按這個按鈕。"
+          },
+          {
+            "id": "m3-2-u4-sg017",
+            "sentence": "Please tell me how long you have waited.",
+            "sentence_chinese": "請告訴我你等了多久。"
+          },
+          {
+            "id": "m3-2-u4-sg018",
+            "sentence": "Nobody knows where he saved the file.",
+            "sentence_chinese": "沒有人知道他把檔案存在哪裡。"
+          },
+          {
+            "id": "m3-2-u4-sg019",
+            "sentence": "She asked whether I could help her.",
+            "sentence_chinese": "她問我是否能幫她。"
+          },
+          {
+            "id": "m3-2-u4-sg020",
+            "sentence": "Do you know what is inside the refrigerator?",
+            "sentence_chinese": "你知道冰箱裡有什麼嗎？"
+          },
+          {
+            "id": "m3-2-u4-sg021",
+            "sentence": "I cannot remember which machine boils water.",
+            "sentence_chinese": "我不記得哪台機器會煮水。"
+          },
+          {
+            "id": "m3-2-u4-sg022",
+            "sentence": "Tell me whether this list is correct.",
+            "sentence_chinese": "告訴我這份清單是否正確。"
+          },
+          {
+            "id": "m3-2-u4-sg023",
+            "sentence": "We want to learn how to type faster.",
+            "sentence_chinese": "我們想學如何打字打得更快。"
+          },
+          {
+            "id": "m3-2-u4-sg024",
+            "sentence": "I wonder whether he has uploaded the photo.",
+            "sentence_chinese": "我想知道他是否已經上傳照片。"
+          },
+          {
+            "id": "m3-2-u4-sg025",
+            "sentence": "Please show me where to point the camera.",
+            "sentence_chinese": "請示範該把相機對準哪裡。"
+          },
+          {
+            "id": "m3-2-u4-sg026",
+            "sentence": "Who took my key is still unknown.",
+            "sentence_chinese": "誰拿了我的鑰匙仍然不清楚。"
+          },
+          {
+            "id": "m3-2-u4-sg027",
+            "sentence": "I know why he doesn't come here anymore.",
+            "sentence_chinese": "我知道他為什麼不再來這裡。"
+          },
+          {
+            "id": "m3-2-u4-sg028",
+            "sentence": "Mom asked what I wanted for dinner.",
+            "sentence_chinese": "媽媽問我晚餐想吃什麼。"
+          },
+          {
+            "id": "m3-2-u4-sg029",
+            "sentence": "Please tell me when the sun will rise.",
+            "sentence_chinese": "請告訴我太陽什麼時候會升起。"
+          },
+          {
+            "id": "m3-2-u4-sg030",
+            "sentence": "Whether the soup is hot is not clear.",
+            "sentence_chinese": "湯是否是熱的還不清楚。"
+          }
+        ]
+      },
+      "cloze_quiz": [
+        {
+          "id": "m3-2-u4-cq001",
+          "vocab_id": "m3-2-u4-v001",
+          "question": "The school fence has a large ___ that students walk through every morning.",
+          "sentence_chinese": "學校圍牆有一道大門，學生每天早上從那裡進出。",
+          "options": [
+            "screen",
+            "couch",
+            "gate",
+            "blackboard"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "gate 是大門；圍牆上供人通過的出入口是大門。"
+        },
+        {
+          "id": "m3-2-u4-cq002",
+          "vocab_id": "m3-2-u4-v002",
+          "question": "The report is a computer ___, so I can copy it to a USB drive.",
+          "sentence_chinese": "這份報告是電腦檔案，所以我可以把它複製到隨身碟。",
+          "options": [
+            "button",
+            "file",
+            "lamp",
+            "key"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "file 是檔案；能複製到隨身碟的電腦報告是檔案。"
+        },
+        {
+          "id": "m3-2-u4-cq003",
+          "vocab_id": "m3-2-u4-v003",
+          "question": "We answered five questions in a short ___, and the teacher gave us our scores.",
+          "sentence_chinese": "我們在一次簡短的小考中回答了五個問題，老師給了我們分數。",
+          "options": [
+            "meal",
+            "trip",
+            "quiz",
+            "break"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "quiz 是小考；回答題目並取得分數的課堂活動是小考。"
+        },
+        {
+          "id": "m3-2-u4-cq004",
+          "vocab_id": "m3-2-u4-v004",
+          "question": "The teacher writes with chalk on the ___ at the front of the classroom.",
+          "sentence_chinese": "老師用粉筆在教室前方的黑板上寫字。",
+          "options": [
+            "blackboard",
+            "curtain",
+            "window",
+            "door"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "blackboard 是黑板；教室裡供老師用粉筆書寫的板子是黑板。"
+        },
+        {
+          "id": "m3-2-u4-cq005",
+          "vocab_id": "m3-2-u4-v005",
+          "question": "The teacher picked up a piece of white ___ to write on the blackboard.",
+          "sentence_chinese": "老師拿起一支白色粉筆，在黑板上寫字。",
+          "options": [
+            "chalk",
+            "paper",
+            "glass",
+            "wood"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "chalk 是粉筆，常用 a piece of chalk 表示一支粉筆，用來在黑板上寫字。"
+        },
+        {
+          "id": "m3-2-u4-cq006",
+          "vocab_id": "m3-2-u4-v006",
+          "question": "The picture on my cellphone's ___ is too dark to see.",
+          "sentence_chinese": "我手機螢幕上的圖片太暗，看不清楚。",
+          "options": [
+            "screen",
+            "button",
+            "case",
+            "battery"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "screen 是螢幕；手機用來顯示圖片的部分是螢幕。"
+        },
+        {
+          "id": "m3-2-u4-cq007",
+          "vocab_id": "m3-2-u4-v007",
+          "question": "I typed 18 instead of 81. Please correct this ___.",
+          "sentence_chinese": "我把 81 打成 18，請更正這個錯誤。",
+          "options": [
+            "machine",
+            "error",
+            "couch",
+            "lamp"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "error 是錯誤；把數字打錯是一個需要更正的錯誤。"
+        },
+        {
+          "id": "m3-2-u4-cq008",
+          "vocab_id": "m3-2-u4-v008",
+          "question": "To turn on the fan, press the green ___ on the front.",
+          "sentence_chinese": "要開啟電風扇，請按前方的綠色按鈕。",
+          "options": [
+            "blade",
+            "cord",
+            "cover",
+            "button"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "button 是按鈕；press 和 turn on 提示要按控制開關的按鈕，不是扇葉、電線或外蓋。"
+        },
+        {
+          "id": "m3-2-u4-cq009",
+          "vocab_id": "m3-2-u4-v009",
+          "question": "Before the website lets you log in, you must ___ your password in this box.",
+          "sentence_chinese": "網站讓你登入前，你必須在這個欄位輸入密碼。",
+          "options": [
+            "collect",
+            "heat",
+            "enter",
+            "boil"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "enter 在此是輸入；登入時需在欄位中輸入密碼。"
+        },
+        {
+          "id": "m3-2-u4-cq010",
+          "vocab_id": "m3-2-u4-v010",
+          "question": "The phrase 'Hey, Helper' is the ___ that makes the voice assistant start listening.",
+          "sentence_chinese": "Hey, Helper 這個詞語是讓語音助理開始聆聽的喚醒字詞。",
+          "options": [
+            "file name",
+            "wake word",
+            "e-mail address",
+            "phone number"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "wake word 是喚醒字詞，用來啟動語音助理的聆聽功能；不是檔名、電子郵件地址或電話號碼。"
+        },
+        {
+          "id": "m3-2-u4-cq011",
+          "vocab_id": "m3-2-u4-v011",
+          "question": "I cannot decide ___ to keep this old machine or sell it.",
+          "sentence_chinese": "我無法決定要保留這台舊機器，還是把它賣掉。",
+          "options": [
+            "whether",
+            "if",
+            "because",
+            "that"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "whether 表是否；後接 to keep 時只能用 whether，不能用 if。"
+        },
+        {
+          "id": "m3-2-u4-cq012",
+          "vocab_id": "m3-2-u4-v012",
+          "question": "I wrote milk, eggs, and bread on my shopping ___ so I wouldn't forget them.",
+          "sentence_chinese": "我把牛奶、雞蛋和麵包寫在購物清單上，免得忘記。",
+          "options": [
+            "gate",
+            "lamp",
+            "couch",
+            "list"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "list 是清單；把要買的東西逐項寫下來，就是購物清單。"
+        },
+        {
+          "id": "m3-2-u4-cq013",
+          "vocab_id": "m3-2-u4-v013",
+          "question": "Dad called Mom by a loving name and said, '___, I missed you.'",
+          "sentence_chinese": "爸爸親暱地稱呼媽媽，說：「親愛的，我很想你。」",
+          "options": [
+            "Honey",
+            "Officer",
+            "Customer",
+            "Stranger"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "honey 在本課是對親近之人的稱呼「親愛的」；句中的 loving name 提示親暱稱呼。"
+        },
+        {
+          "id": "m3-2-u4-cq014",
+          "vocab_id": "m3-2-u4-v014",
+          "question": "To keep the new file on your computer, remember to ___ it before closing the program.",
+          "sentence_chinese": "為了把新檔案保留在電腦裡，關閉程式前記得儲存它。",
+          "options": [
+            "delete",
+            "save",
+            "open",
+            "rename"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "save 是儲存；要把新檔案保留下來必須儲存，刪除、開啟或重新命名都不等於儲存。"
+        },
+        {
+          "id": "m3-2-u4-cq015",
+          "vocab_id": "m3-2-u4-v015",
+          "question": "You can buy tickets ___ this app without going to the station.",
+          "sentence_chinese": "你可以透過這個應用程式買票，不必去車站。",
+          "options": [
+            "under",
+            "beside",
+            "through",
+            "against"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "through 在此表示透過某種管道；購票的管道是這個應用程式。"
+        },
+        {
+          "id": "m3-2-u4-cq016",
+          "vocab_id": "m3-2-u4-v016",
+          "question": "Please ask her ___ she wants tea. I need a yes or no.",
+          "sentence_chinese": "請問她是否想喝茶，我需要一個肯定或否定的回答。",
+          "options": [
+            "because",
+            "although",
+            "if",
+            "until"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "if 在這裡是是否；a yes or no 顯示要確認她想不想喝茶，不是在說原因、讓步或截止時間。"
+        },
+        {
+          "id": "m3-2-u4-cq017",
+          "vocab_id": "m3-2-u4-v017",
+          "question": "I stopped playing this game last year. I ___.",
+          "sentence_chinese": "我去年就停止玩這個遊戲了，現在不再玩。",
+          "options": [
+            "do not play it anymore",
+            "still play it every day",
+            "play it every morning",
+            "keep playing it each night"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "not... anymore 表示不再；stopped playing last year 提示已經停止，不能選仍然每天或每晚玩的選項。"
+        },
+        {
+          "id": "m3-2-u4-cq018",
+          "vocab_id": "m3-2-u4-v018",
+          "question": "I spoke to the ___, and it answered my question aloud without anyone typing.",
+          "sentence_chinese": "我對語音助理說話，它直接用聲音回答問題，沒有人打字。",
+          "options": [
+            "voice assistant",
+            "battery charger",
+            "screen cover",
+            "computer mouse"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "voice assistant 是語音助理，能接收口頭指令並以語音回應；充電器、螢幕保護蓋和滑鼠不能這樣回答問題。"
+        },
+        {
+          "id": "m3-2-u4-cq019",
+          "vocab_id": "m3-2-u4-v019",
+          "question": "The factory uses a large ___ to cut wood automatically.",
+          "sentence_chinese": "工廠使用一台大型機器自動切割木材。",
+          "options": [
+            "ladder",
+            "shelf",
+            "box",
+            "machine"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "machine 是機器；能自動切割木材的是機器，其他選項沒有這種功能。"
+        },
+        {
+          "id": "m3-2-u4-cq020",
+          "vocab_id": "m3-2-u4-v020",
+          "question": "There are twelve eggs in the box. That is one ___.",
+          "sentence_chinese": "盒子裡有十二顆蛋，也就是一打。",
+          "options": [
+            "pair",
+            "dozen",
+            "half",
+            "hundred"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "dozen 表示一打，也就是十二個；pair 是一對，half 是一半，hundred 是一百。"
+        },
+        {
+          "id": "m3-2-u4-cq021",
+          "vocab_id": "m3-2-u4-v021",
+          "question": "Please ___ the water until you see large bubbles rising to the top.",
+          "sentence_chinese": "請把水煮沸，直到看見大氣泡往上冒。",
+          "options": [
+            "cool",
+            "freeze",
+            "boil",
+            "dry"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "boil 是煮沸；水中不斷出現往上冒的大氣泡是煮沸的線索。"
+        },
+        {
+          "id": "m3-2-u4-cq022",
+          "vocab_id": "m3-2-u4-v022",
+          "question": "Put the milk in the ___ to keep it cold.",
+          "sentence_chinese": "把牛奶放進冰箱，讓它保持冰涼。",
+          "options": [
+            "refrigerator",
+            "oven",
+            "drawer",
+            "cupboard"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "refrigerator 是冰箱；keep it cold 提示需要冷藏，烤箱、抽屜和櫥櫃都不是冷藏設備。"
+        },
+        {
+          "id": "m3-2-u4-cq023",
+          "vocab_id": "m3-2-u4-v023",
+          "question": "To share the photo online, ___ it from your cellphone to the website.",
+          "sentence_chinese": "要在線上分享照片，請把它從手機上傳到網站。",
+          "options": [
+            "upload",
+            "download",
+            "delete",
+            "print"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "upload 是上傳，方向是從自己的裝置傳到網站；download 是從網路下載到裝置，方向相反。"
+        },
+        {
+          "id": "m3-2-u4-cq024",
+          "vocab_id": "m3-2-u4-v024",
+          "question": "I sent you an ___ from my computer; check your inbox.",
+          "sentence_chinese": "我從電腦寄了一封電子郵件給你，請查看收件匣。",
+          "options": [
+            "alarm",
+            "engine",
+            "umbrella",
+            "e-mail"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "e-mail 是電子郵件；sent 和 inbox（收件匣）提示寄送的是郵件。"
+        },
+        {
+          "id": "m3-2-u4-cq025",
+          "vocab_id": "m3-2-u4-v025",
+          "question": "The door is locked. Use this ___ to unlock it.",
+          "sentence_chinese": "門鎖住了，用這把鑰匙把它打開。",
+          "options": [
+            "chalk",
+            "key",
+            "lamp",
+            "list"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "key 是鑰匙；locked 和 unlock 提示要用鑰匙開鎖。"
+        },
+        {
+          "id": "m3-2-u4-cq026",
+          "vocab_id": "m3-2-u4-v026",
+          "question": "I saved my photos to ___, so I can see them online from another computer.",
+          "sentence_chinese": "我把照片存到雲端，所以可以用另一台電腦上網查看。",
+          "options": [
+            "the couch",
+            "the blackboard",
+            "the refrigerator",
+            "the cloud"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "the cloud 是雲端；能透過網路從不同電腦查看資料，表示資料存放在雲端。"
+        },
+        {
+          "id": "m3-2-u4-cq027",
+          "vocab_id": "m3-2-u4-v027",
+          "question": "Please ___ your name using the letters on the keyboard.",
+          "sentence_chinese": "請使用鍵盤上的字母打出你的名字。",
+          "options": [
+            "boil",
+            "collect",
+            "heat",
+            "type"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "type 是打字；using the letters on the keyboard 提示用鍵盤輸入文字。"
+        },
+        {
+          "id": "m3-2-u4-cq028",
+          "vocab_id": "m3-2-u4-v028",
+          "question": "The sun will ___ in the east tomorrow morning.",
+          "sentence_chinese": "太陽明天早上會從東方升起。",
+          "options": [
+            "fall",
+            "rise",
+            "set",
+            "disappear"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "rise 是上升、升起；morning 和 in the east 提示日出，set 則是落下。"
+        },
+        {
+          "id": "m3-2-u4-cq029",
+          "vocab_id": "m3-2-u4-v029",
+          "question": "Every time I visit a new city, I buy a postcard. I ___ postcards as a hobby.",
+          "sentence_chinese": "每次到一個新的城市，我都買一張明信片，收集明信片是我的嗜好。",
+          "options": [
+            "throw away",
+            "break",
+            "collect",
+            "repair"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "collect 是收集；到不同城市購買並留存明信片，表示以收集明信片為嗜好。"
+        },
+        {
+          "id": "m3-2-u4-cq030",
+          "vocab_id": "m3-2-u4-v030",
+          "question": "I turned on the ___ beside my bed so I could read at night.",
+          "sentence_chinese": "我打開床邊的檯燈，好在晚上看書。",
+          "options": [
+            "couch",
+            "gate",
+            "desk",
+            "lamp"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "lamp 是檯燈；turned on 和 read at night 提示需要提供光線的檯燈。"
+        },
+        {
+          "id": "m3-2-u4-cq031",
+          "vocab_id": "m3-2-u4-v031",
+          "question": "The ___ in our living room is a long, soft seat for several people.",
+          "sentence_chinese": "客廳裡的沙發是一張可以坐好幾個人的柔軟長椅。",
+          "options": [
+            "drawer",
+            "lamp",
+            "couch",
+            "gate"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "couch 是沙發；long, soft seat for several people 描述的是供多人坐的沙發。"
+        },
+        {
+          "id": "m3-2-u4-cq032",
+          "vocab_id": "m3-2-u4-v032",
+          "question": "The soup is cold. Please ___ it on the stove for a minute.",
+          "sentence_chinese": "湯冷了，請放在爐子上加熱一分鐘。",
+          "options": [
+            "heat",
+            "freeze",
+            "cool",
+            "chill"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "heat 是加熱；湯冷了而且放上爐子，目的是提高溫度，其他選項都表示降溫或冷凍。"
+        },
+        {
+          "id": "m3-2-u4-cq033",
+          "vocab_id": "m3-2-u4-v033",
+          "question": "I use my ___ to make calls when I am away from home.",
+          "sentence_chinese": "出門在外時，我用手機打電話。",
+          "options": [
+            "keyboard",
+            "printer",
+            "monitor",
+            "cellphone"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "cellphone 是手機；可以隨身攜帶並用來撥打電話。"
+        },
+        {
+          "id": "m3-2-u4-cq034",
+          "vocab_id": "m3-2-u4-v034",
+          "question": "The answer is wrong. Please ___ it before handing in your paper.",
+          "sentence_chinese": "這個答案錯了，交卷前請把它更正。",
+          "options": [
+            "collect",
+            "heat",
+            "correct",
+            "boil"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "correct 在此是動詞「更正」；答案有錯，需要先修正再交卷。"
+        },
+        {
+          "id": "m3-2-u4-cq035",
+          "vocab_id": "m3-2-u4-v035",
+          "question": "When you turn on the screen, a welcome message will ___ and become visible.",
+          "sentence_chinese": "打開螢幕時，歡迎訊息就會出現，讓你看見。",
+          "options": [
+            "sleep",
+            "eat",
+            "listen",
+            "appear"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "appear 是出現；become visible 表示變得看得見，與出現的意思相符。"
+        },
+        {
+          "id": "m3-2-u4-cq036",
+          "vocab_id": "m3-2-u4-v036",
+          "question": "Please ___ the lamp on the desk; don't leave it on the floor.",
+          "sentence_chinese": "請把檯燈放在書桌上，不要留在地板上。",
+          "options": [
+            "heat",
+            "place",
+            "collect",
+            "boil"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "place 在本課是動詞「放置」；on the desk 和 don't leave it on the floor 提示把物品放到指定位置。"
+        },
+        {
+          "id": "m3-2-u4-cq037",
+          "vocab_id": "m3-2-u4-v037",
+          "question": "This food contains too much ___, so it is very oily.",
+          "sentence_chinese": "這個食物含有太多脂肪，所以很油膩。",
+          "options": [
+            "salt",
+            "fat",
+            "sugar",
+            "water"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "fat 在本課是名詞「脂肪」；very oily 表示油膩，與脂肪多有關。"
+        },
+        {
+          "id": "m3-2-u4-cq038",
+          "vocab_id": "m3-2-u4-v038",
+          "question": "Please ___ the camera at the bird before taking a picture.",
+          "sentence_chinese": "拍照前，請把相機對準那隻鳥。",
+          "options": [
+            "print",
+            "type",
+            "point",
+            "boil"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "point 在此是對準；point the camera at... 表示把相機朝向要拍攝的對象。"
+        }
+      ]
+    }
+  }
+}
