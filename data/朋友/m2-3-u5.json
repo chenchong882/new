@@ -1,0 +1,2245 @@
+{
+  "units": {
+    "m2-3-u5": {
+      "title": "U5",
+      "vocab": [
+        {
+          "id": "m2-3-u5-v001",
+          "word": "temple",
+          "part_of_speech": "名",
+          "chinese": "寺廟",
+          "sentence": "We will visit the temple tomorrow.",
+          "sentence_chinese": "我們明天會參觀那座寺廟。"
+        },
+        {
+          "id": "m2-3-u5-v002",
+          "word": "supermarket",
+          "part_of_speech": "名",
+          "chinese": "超級市場",
+          "sentence": "Mom will buy some milk at the supermarket.",
+          "sentence_chinese": "媽媽會去超級市場買一些牛奶。"
+        },
+        {
+          "id": "m2-3-u5-v003",
+          "word": "restaurant",
+          "part_of_speech": "名",
+          "chinese": "餐廳",
+          "sentence": "We are going to eat at this restaurant.",
+          "sentence_chinese": "我們打算在這間餐廳用餐。"
+        },
+        {
+          "id": "m2-3-u5-v004",
+          "word": "bank",
+          "part_of_speech": "名",
+          "chinese": "銀行",
+          "sentence": "Dad will go to the bank after lunch.",
+          "sentence_chinese": "爸爸午餐後會去銀行。"
+        },
+        {
+          "id": "m2-3-u5-v005",
+          "word": "church",
+          "part_of_speech": "名",
+          "chinese": "教堂",
+          "sentence": "It takes ten minutes to walk to the church.",
+          "sentence_chinese": "走路到教堂需要 10 分鐘。"
+        },
+        {
+          "id": "m2-3-u5-v006",
+          "word": "bakery",
+          "part_of_speech": "名",
+          "chinese": "麵包店",
+          "sentence": "The bakery will open at seven tomorrow morning.",
+          "sentence_chinese": "那間麵包店明天早上 7 點會開門。"
+        },
+        {
+          "id": "m2-3-u5-v007",
+          "word": "bridge",
+          "part_of_speech": "名",
+          "chinese": "橋",
+          "sentence": "We will cross the bridge on foot.",
+          "sentence_chinese": "我們會走路過橋。"
+        },
+        {
+          "id": "m2-3-u5-v008",
+          "word": "hotel",
+          "part_of_speech": "名",
+          "chinese": "飯店",
+          "sentence": "We will stay at this hotel for two nights.",
+          "sentence_chinese": "我們會在這間飯店住 2 晚。"
+        },
+        {
+          "id": "m2-3-u5-v009",
+          "word": "department store",
+          "part_of_speech": "名",
+          "chinese": "百貨公司",
+          "sentence": "She spent two hours shopping at the department store.",
+          "sentence_chinese": "她花了 2 小時在百貨公司購物。"
+        },
+        {
+          "id": "m2-3-u5-v010",
+          "word": "metro station",
+          "part_of_speech": "名",
+          "chinese": "捷運站",
+          "sentence": "There will be a metro station near our school.",
+          "sentence_chinese": "我們學校附近將會有一座捷運站。"
+        },
+        {
+          "id": "m2-3-u5-v011",
+          "word": "bookstore",
+          "part_of_speech": "名",
+          "chinese": "書店",
+          "sentence": "I am going to visit the bookstore after school.",
+          "sentence_chinese": "我打算放學後去書店。"
+        },
+        {
+          "id": "m2-3-u5-v012",
+          "word": "post office",
+          "part_of_speech": "名",
+          "chinese": "郵局",
+          "sentence": "He will send the letter at the post office.",
+          "sentence_chinese": "他會去郵局寄那封信。"
+        },
+        {
+          "id": "m2-3-u5-v013",
+          "word": "flower shop",
+          "part_of_speech": "名",
+          "chinese": "花店",
+          "sentence": "I will buy some roses at the flower shop.",
+          "sentence_chinese": "我會去花店買一些玫瑰。"
+        },
+        {
+          "id": "m2-3-u5-v014",
+          "word": "trip",
+          "part_of_speech": "名",
+          "chinese": "旅行",
+          "sentence": "Our trip will begin next Monday.",
+          "sentence_chinese": "我們的旅行將在下週一開始。"
+        },
+        {
+          "id": "m2-3-u5-v015",
+          "word": "during",
+          "part_of_speech": "介",
+          "chinese": "在……期間",
+          "sentence": "We will visit our grandparents during the vacation.",
+          "sentence_chinese": "我們會在假期期間探望祖父母。"
+        },
+        {
+          "id": "m2-3-u5-v016",
+          "word": "vacation",
+          "part_of_speech": "名",
+          "chinese": "假期",
+          "sentence": "Where will you go on vacation this summer?",
+          "sentence_chinese": "你今年暑假會去哪裡度假？"
+        },
+        {
+          "id": "m2-3-u5-v017",
+          "word": "will",
+          "part_of_speech": "助",
+          "chinese": "將",
+          "sentence": "I will call you when I get home.",
+          "sentence_chinese": "我到家時會打電話給你。"
+        },
+        {
+          "id": "m2-3-u5-v018",
+          "word": "own",
+          "part_of_speech": "代；形；動",
+          "chinese": "自己的；擁有",
+          "sentence": "She will have her own room next year.",
+          "sentence_chinese": "她明年會有自己的房間。"
+        },
+        {
+          "id": "m2-3-u5-v019",
+          "word": "local",
+          "part_of_speech": "形",
+          "chinese": "當地的",
+          "sentence": "We are going to try some local food.",
+          "sentence_chinese": "我們打算品嚐一些當地食物。"
+        },
+        {
+          "id": "m2-3-u5-v020",
+          "word": "tour",
+          "part_of_speech": "名",
+          "chinese": "旅遊行程",
+          "sentence": "The tour will take about three hours.",
+          "sentence_chinese": "這趟旅遊行程將花費大約 3 小時。"
+        },
+        {
+          "id": "m2-3-u5-v021",
+          "word": "spend",
+          "part_of_speech": "動",
+          "chinese": "花費（金錢；時間）",
+          "sentence": "We spent an hour walking around the market.",
+          "sentence_chinese": "我們花了 1 小時逛市場。"
+        },
+        {
+          "id": "m2-3-u5-v022",
+          "word": "thousand",
+          "part_of_speech": "名",
+          "chinese": "千",
+          "sentence": "The boat cost him three thousand dollars.",
+          "sentence_chinese": "那艘小船花了他 3 千元。"
+        },
+        {
+          "id": "m2-3-u5-v023",
+          "word": "each",
+          "part_of_speech": "形；代",
+          "chinese": "每個（的）",
+          "sentence": "Each student will pay fifty dollars for the trip.",
+          "sentence_chinese": "每位學生都將為這趟旅行支付 50 元。"
+        },
+        {
+          "id": "m2-3-u5-v024",
+          "word": "pay",
+          "part_of_speech": "動",
+          "chinese": "付錢",
+          "sentence": "I paid two hundred dollars for this bag.",
+          "sentence_chinese": "我花了 200 元買這個袋子。"
+        },
+        {
+          "id": "m2-3-u5-v025",
+          "word": "tomorrow",
+          "part_of_speech": "副；名",
+          "chinese": "明天",
+          "sentence": "Are you going to leave for Taipei tomorrow?",
+          "sentence_chinese": "你明天打算前往臺北嗎？"
+        },
+        {
+          "id": "m2-3-u5-v026",
+          "word": "almost",
+          "part_of_speech": "副",
+          "chinese": "幾乎",
+          "sentence": "It took us almost an hour to get there.",
+          "sentence_chinese": "我們花了將近 1 小時到那裡。"
+        },
+        {
+          "id": "m2-3-u5-v027",
+          "word": "decide",
+          "part_of_speech": "動",
+          "chinese": "決定",
+          "sentence": "We will decide where to eat after the tour.",
+          "sentence_chinese": "我們會在行程結束後決定去哪裡吃飯。"
+        },
+        {
+          "id": "m2-3-u5-v028",
+          "word": "cost",
+          "part_of_speech": "動",
+          "chinese": "花費（金錢）",
+          "sentence": "This meal cost us five hundred dollars.",
+          "sentence_chinese": "這頓飯花了我們 500 元。"
+        },
+        {
+          "id": "m2-3-u5-v029",
+          "word": "fan",
+          "part_of_speech": "名",
+          "chinese": "……迷；電扇",
+          "sentence": "This fan will keep the room cool.",
+          "sentence_chinese": "這台電扇會讓房間保持涼爽。"
+        },
+        {
+          "id": "m2-3-u5-v030",
+          "word": "leave for",
+          "part_of_speech": "片",
+          "chinese": "前往",
+          "sentence": "They will leave for Bangkok next week.",
+          "sentence_chinese": "他們下週將前往曼谷。"
+        },
+        {
+          "id": "m2-3-u5-v031",
+          "word": "vendor",
+          "part_of_speech": "名",
+          "chinese": "攤販",
+          "sentence": "The vendor will sell fruit at the market tomorrow.",
+          "sentence_chinese": "那位攤販明天會在市場賣水果。"
+        },
+        {
+          "id": "m2-3-u5-v032",
+          "word": "quick",
+          "part_of_speech": "形",
+          "chinese": "迅速的",
+          "sentence": "We will have a quick meal before the trip.",
+          "sentence_chinese": "我們會在旅行前快速吃一餐。"
+        },
+        {
+          "id": "m2-3-u5-v033",
+          "word": "stall",
+          "part_of_speech": "名",
+          "chinese": "攤位",
+          "sentence": "The vendor is going to open a new stall.",
+          "sentence_chinese": "那位攤販打算開一個新攤位。"
+        },
+        {
+          "id": "m2-3-u5-v034",
+          "word": "careful",
+          "part_of_speech": "形",
+          "chinese": "小心的",
+          "sentence": "I will be careful when I cross the road.",
+          "sentence_chinese": "我過馬路時會小心。"
+        },
+        {
+          "id": "m2-3-u5-v035",
+          "word": "boat",
+          "part_of_speech": "名",
+          "chinese": "小船",
+          "sentence": "It will take an hour to get there by boat.",
+          "sentence_chinese": "搭船到那裡將需要 1 小時。"
+        },
+        {
+          "id": "m2-3-u5-v036",
+          "word": "sell",
+          "part_of_speech": "動",
+          "chinese": "賣；出售",
+          "sentence": "They are going to sell their old boat.",
+          "sentence_chinese": "他們打算賣掉舊船。"
+        },
+        {
+          "id": "m2-3-u5-v037",
+          "word": "low",
+          "part_of_speech": "形",
+          "chinese": "低的；矮的",
+          "sentence": "We will sit on the low wall near the bridge.",
+          "sentence_chinese": "我們會坐在橋邊的矮牆上。"
+        },
+        {
+          "id": "m2-3-u5-v038",
+          "word": "price",
+          "part_of_speech": "名",
+          "chinese": "價格；代價",
+          "sentence": "The price of this fan will go up next month.",
+          "sentence_chinese": "這台電扇的價格下個月會上漲。"
+        },
+        {
+          "id": "m2-3-u5-v039",
+          "word": "remember",
+          "part_of_speech": "動",
+          "chinese": "記得",
+          "sentence": "I will remember to bring enough money.",
+          "sentence_chinese": "我會記得帶足夠的錢。"
+        },
+        {
+          "id": "m2-3-u5-v040",
+          "word": "cash",
+          "part_of_speech": "名",
+          "chinese": "現金",
+          "sentence": "Will you pay in cash at the hotel?",
+          "sentence_chinese": "你會在飯店用現金付款嗎？"
+        },
+        {
+          "id": "m2-3-u5-v041",
+          "word": "wonderful",
+          "part_of_speech": "形",
+          "chinese": "美好的",
+          "sentence": "We are going to have a wonderful vacation.",
+          "sentence_chinese": "我們將會度過一個美好的假期。"
+        }
+      ],
+      "phrases": [
+        {
+          "id": "m2-3-u5-p001",
+          "phrase": "take a trip",
+          "chinese": "去旅行",
+          "sentence": "I plan to take a trip to the mountains.",
+          "sentence_chinese": "我計畫去山區旅行。"
+        },
+        {
+          "id": "m2-3-u5-p002",
+          "phrase": "on one's own",
+          "chinese": "獨自地",
+          "sentence": "Eddie decided to start a business on his own.",
+          "sentence_chinese": "Eddie 決定獨自創業。"
+        },
+        {
+          "id": "m2-3-u5-p003",
+          "phrase": "good job",
+          "chinese": "做得好",
+          "sentence": "Sammy did a good job on the presentation.",
+          "sentence_chinese": "Sammy 在報告中做得很好。"
+        },
+        {
+          "id": "m2-3-u5-p004",
+          "phrase": "Same here!",
+          "chinese": "我也是！",
+          "sentence": "Same here! It's my favorite food, too!",
+          "sentence_chinese": "我也是！它也是我最喜愛的食物！"
+        },
+        {
+          "id": "m2-3-u5-p005",
+          "phrase": "leave for",
+          "chinese": "前往",
+          "sentence": "We must leave for the airport early to catch the morning flight.",
+          "sentence_chinese": "我們必須早點前往機場，以便趕上早班機。"
+        },
+        {
+          "id": "m2-3-u5-p006",
+          "phrase": "cost an arm and a leg",
+          "chinese": "極其昂貴",
+          "sentence": "The vacation package costs an arm and a leg.",
+          "sentence_chinese": "這個度假套裝行程極其昂貴。"
+        },
+        {
+          "id": "m2-3-u5-p007",
+          "phrase": "take one's time",
+          "chinese": "慢慢來",
+          "sentence": "Take your time and finish the project carefully.",
+          "sentence_chinese": "慢慢來，並仔細地完成這個專案計畫。"
+        },
+        {
+          "id": "m2-3-u5-p008",
+          "phrase": "pay in cash",
+          "chinese": "支付現金",
+          "sentence": "Dave paid for the car repairs in cash.",
+          "sentence_chinese": "Dave 用現金支付了修理汽車的費用。"
+        }
+      ],
+      "grammar": {
+        "tips": [
+          {
+            "label": "will 後接原形",
+            "text": "will／won't + 原形動詞；若後面是形容詞或名詞，用 will be。"
+          },
+          {
+            "label": "be going to 要配主詞",
+            "text": "I am；he／she／it is；you／we／they are。going to 後面接原形動詞，簡答保留 be。"
+          },
+          {
+            "label": "未來式的兩個提醒",
+            "text": "「將會有」用 There will be；when、before、after 表未來時間時，子句用現在式。"
+          },
+          {
+            "label": "先看誰花費、花什麼",
+            "text": "人花時間或錢用 spend；人付款用 pay；物品花多少錢用 cost；事情花多少時間用 take。"
+          },
+          {
+            "label": "動作接法",
+            "text": "spend + 時間／金錢 + V-ing；It takes + 人 + 時間 + to V；It costs + 人 + 金錢 + to V。"
+          },
+          {
+            "label": "問金錢、問多久",
+            "text": "How much 問金額；How long 問時間長度。do／does／did／will 後面的動詞都用原形。"
+          }
+        ],
+        "notes": [
+          {
+            "title": "will：肯定、否定與 be",
+            "rule": "主詞 + will／will not（won't）+ 原形動詞；主詞 + will be + 名詞／形容詞",
+            "description": "will 不隨主詞的人稱或單複數改變。一般動詞直接用原形；若描述身分或狀態，仍須補上 be。不能寫 will goes、will is 或 will happy。will 的否定是 will not，可縮寫為 won't。字詞表的 would 是 will 的過去式，本課先練習 will 的未來表達。",
+            "examples": [
+              "We will visit the temple tomorrow.",
+              "She won't sell her boat.",
+              "The trip will be wonderful."
+            ]
+          },
+          {
+            "title": "will：問句、簡答與省略句",
+            "rule": "Will + 主詞 + 原形動詞？／Wh- + will + 主詞 + 原形動詞？",
+            "description": "問句將 will 放到主詞前；不另加 do／does。肯定簡答用 Yes, 主詞 + will.；否定簡答用 No, 主詞 + won't.。簡答末尾的肯定 will 不縮成 I'll。避免重複動作時，可保留 will 代替前面提過的內容。",
+            "examples": [
+              "Will you pay in cash? Yes, I will.",
+              "Will he visit the bank? No, he won't.",
+              "Dad will take a trip, and Mom will, too."
+            ]
+          },
+          {
+            "title": "be going to：未來計畫",
+            "rule": "主詞 + am／is／are +（not）going to + 原形動詞",
+            "description": "I 用 am；he、she、it 及單數名詞用 is；you、we、they 及複數名詞用 are。否定在 be 後加 not，問句將 be 移到主詞前。簡答保留 be，不改成 will 或 do。省略重複內容時，be 也要跟著新的主詞變化。",
+            "examples": [
+              "They are going to try local food.",
+              "Is she going to stay here? No, she isn't.",
+              "Ben is going to buy flowers, and I am, too."
+            ]
+          },
+          {
+            "title": "未來問句的疑問詞",
+            "rule": "Where 問地點；When 問時間；Who 問人物；How 問方式；How long 問多久",
+            "description": "先看回答提供哪一類資訊，再選疑問詞。How long 對應持續時間，例如 for three nights；When 對應出發或開始的時間，例如 tomorrow morning。How much 則對應金額。",
+            "examples": [
+              "Where will you stay? At a hotel.",
+              "How are you going to get there? By bus.",
+              "How long will you stay? For three nights."
+            ]
+          },
+          {
+            "title": "未來時間詞與 will／be going to",
+            "rule": "tomorrow；next + 時間；in + 一段時間；tonight；soon",
+            "description": "in an hour 用於這類未來語境時表示一小時後。this morning 等時間詞不一定表示未來，須依事件發生時間判斷。will 常表當下決定、承諾或預測；be going to 常表事先計畫或有跡象的預測。兩者在許多情況下都合理，不能只看到 tomorrow 就認定只能使用其中一種。",
+            "examples": [
+              "I will call you in an hour.",
+              "We are going to leave next Monday.",
+              "The bag looks useful. I'll buy it."
+            ]
+          },
+          {
+            "title": "現在進行式也能表已安排的未來",
+            "rule": "主詞 + am／is／are + V-ing + 未來時間",
+            "description": "go、come、leave、stay、arrive 等動詞，可用現在進行式描述已安排的未來活動。句型仍需完整的 be + V-ing。be going to + 地點中的 going 是「去」；be going to + 原形動詞則是未來句型，要看 to 後面接的是地點還是動作。",
+            "examples": [
+              "Our tickets are booked. We are leaving tomorrow.",
+              "My daughter is coming back next week.",
+              "We are going to the bank this afternoon."
+            ]
+          },
+          {
+            "title": "存在句的未來式",
+            "rule": "There will be + 名詞；There is／are going to be + 名詞",
+            "description": "表達「將會有」時，保留 there be 的 be，不改用 have。使用 will 時，後面固定是 be；使用 be going to 時，第一個 be 依後方名詞單複數選 is 或 are，最後的 be 仍是原形。",
+            "examples": [
+              "There will be a new bridge here.",
+              "There is going to be a bakery near the bank.",
+              "There are going to be two hotels in town."
+            ]
+          },
+          {
+            "title": "when、before、after 的未來時間子句",
+            "rule": "主句用未來式；when／before／after + 主詞 + 現在式動詞",
+            "description": "當這些連接詞引導未來時間副詞子句時，用現在式表達未來，不在子句中加 will。主詞是第三人稱單數時，動詞仍要加 s。這個規則針對時間子句；When will you leave? 是直接問句，仍可用 will。",
+            "examples": [
+              "I will call you when I arrive.",
+              "We will eat before the tour starts.",
+              "After he gets home, he will count the money."
+            ]
+          },
+          {
+            "title": "cost：物品或事情花費金錢",
+            "rule": "物 + cost(s) +（人）+ 金錢；It costs／cost +（人）+ 金錢 + to V",
+            "description": "談價錢時，以物品作主詞，或用 It costs ... to V 表達做一件事的費用。現在式單數用 costs、複數用 cost；過去式仍是 cost，不是 costed。金額前面的人可以省略；若用代名詞則用 me、him、us 等受格。",
+            "examples": [
+              "This fan costs two hundred dollars.",
+              "These flowers cost fifty dollars.",
+              "It cost us a thousand dollars to fix the boat."
+            ]
+          },
+          {
+            "title": "spend：人花時間或金錢",
+            "rule": "人 + spend(s)／spent + 時間／金錢 + V-ing；人 + spend(s)／spent + 時間／金錢 + on + 名詞",
+            "description": "spend 的主詞是人。後面接動作時用 V-ing；接事物時可用 on + 名詞。不要套用 take 的 to V。過去式是 spent；現在式的第三人稱單數用 spends。",
+            "examples": [
+              "I spent an hour choosing a gift.",
+              "She spends a hundred dollars on lunch every day.",
+              "We spent five hundred dollars buying local food."
+            ]
+          },
+          {
+            "title": "pay：人付款",
+            "rule": "人 + pay(s)／paid + 金錢 + for + 物；人 + pay(s)／paid + 帳單",
+            "description": "pay 的主詞是付款的人；過去式是 paid。買某物花多少錢，用 pay + 金額 + for + 物。也可省略金額說 pay for the meal；繳帳單可直接說 pay the bill。pay in cash 表示用現金付款。",
+            "examples": [
+              "She paid three hundred dollars for the fan.",
+              "I will pay for the meal.",
+              "He pays the phone bill every month."
+            ]
+          },
+          {
+            "title": "take：事情花費時間",
+            "rule": "It takes／took +（人）+ 時間 + to V；事情／V-ing + takes／took +（人）+ 時間",
+            "description": "take 在本課表示花費時間。It 句型的動作接 to V；也可將動名詞片語放在句首，整件事視為單數。過去式是 took。表示花時間的人放在 take 後，代名詞用受格。",
+            "examples": [
+              "It takes us ten minutes to walk there.",
+              "Cleaning the stall takes him half an hour.",
+              "The tour took three hours."
+            ]
+          },
+          {
+            "title": "How much、How long 與助動詞",
+            "rule": "How much + do／does／did + 人 + pay／spend…？；How much + do／does／did + 物 + cost？；How long + does／did + it + take…？",
+            "description": "問金額用 How much，問時間長度用 How long。問句的助動詞依主詞與時態選擇；有 do、does、did 或 will，後面的主要動詞就用原形。常見錯誤包括 did paid、does costs、did took。",
+            "examples": [
+              "How much did you pay for the flowers?",
+              "How much do these bags cost?",
+              "How long does it take to reach the church?"
+            ]
+          },
+          {
+            "title": "花費句型的同義轉換",
+            "rule": "人 + spend + 時間 + V-ing ↔ It takes + 人 + 時間 + to V；物 cost 金額 ↔ 人 spend 金額 on 物 ↔ 人 pay 金額 for 物",
+            "description": "轉換時先確認花的是時間還是金錢，再調整主詞與後面動作的形式。做事的人、金額或時間、時態都要保持相同。spend 接 V-ing；It takes／costs 接 to V；pay 常搭配 for + 物。",
+            "examples": [
+              "We spent twenty minutes walking home. = It took us twenty minutes to walk home.",
+              "The fan cost me three hundred dollars. = I spent three hundred dollars on the fan.",
+              "I spent three hundred dollars on the fan. = I paid three hundred dollars for the fan."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "id": "m2-3-u5-q001",
+            "question": "Our class will ___ the temple next Friday.",
+            "options": [
+              "A. visits",
+              "B. visited",
+              "C. visit",
+              "D. visiting"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "will 是助動詞，後面用原形動詞 visit；即使主詞是單數，也不加 s。"
+          },
+          {
+            "id": "m2-3-u5-q002",
+            "question": "Don't wait for Ben at the bakery. He won't ___ here tomorrow.",
+            "options": [
+              "A. is",
+              "B. was",
+              "C. be",
+              "D. being"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "won't 是 will not 的縮寫，後接原形動詞；be 的原形就是 be。"
+          },
+          {
+            "id": "m2-3-u5-q003",
+            "question": "Mom ___ going to buy some flowers tomorrow.",
+            "options": [
+              "A. am",
+              "B. are",
+              "C. be",
+              "D. is"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "be going to 句型中的 be 要配合主詞。Mom 是第三人稱單數，所以用 is。"
+          },
+          {
+            "id": "m2-3-u5-q004",
+            "question": "My cousins ___ going to stay at a hotel next week.",
+            "options": [
+              "A. are",
+              "B. is",
+              "C. am",
+              "D. be"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "My cousins 是複數，be going to 的 be 要用 are。"
+          },
+          {
+            "id": "m2-3-u5-q005",
+            "question": "We are going to ___ some local food on our trip.",
+            "options": [
+              "A. tries",
+              "B. tried",
+              "C. try",
+              "D. trying"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "are going to 表未來計畫，to 後接原形動詞 try。"
+          },
+          {
+            "id": "m2-3-u5-q006",
+            "question": "I am not ___ to sell my old bike next month.",
+            "options": [
+              "A. go",
+              "B. going",
+              "C. goes",
+              "D. went"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "完整的否定句型是 am not going to + 原形動詞，所以空格填 going。"
+          },
+          {
+            "id": "m2-3-u5-q007",
+            "question": "A: Will you take a trip during the vacation? B: Yes, I ___.",
+            "options": [
+              "A. do",
+              "B. am",
+              "C. was",
+              "D. will"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "問句用 Will，肯定簡答也用 will：Yes, I will.，不改用 do 或 be。"
+          },
+          {
+            "id": "m2-3-u5-q008",
+            "question": "A: Will the vendor open his stall tomorrow? B: No, he ___.",
+            "options": [
+              "A. won't",
+              "B. isn't",
+              "C. doesn't",
+              "D. wasn't"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "Will 開頭的問句，否定簡答是 No, he won't.；won't 等於 will not。"
+          },
+          {
+            "id": "m2-3-u5-q009",
+            "question": "A: Are your parents going to visit the church? B: Yes, they ___.",
+            "options": [
+              "A. is",
+              "B. am",
+              "C. were",
+              "D. are"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "問句用 Are ... going to，簡答保留 be 動詞；they 是複數，所以回答 Yes, they are.。"
+          },
+          {
+            "id": "m2-3-u5-q010",
+            "question": "A: Is Rita going to pay in cash? B: No, she ___.",
+            "options": [
+              "A. aren't",
+              "B. isn't",
+              "C. am not",
+              "D. wasn't"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "Is ... going to 的否定簡答用 isn't；she 對應 is，時態維持現在。"
+          },
+          {
+            "id": "m2-3-u5-q011",
+            "question": "A: ___ will you stay during the trip? B: At a hotel near the bank.",
+            "options": [
+              "A. Where",
+              "B. When",
+              "C. What",
+              "D. Whose"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "回答 At a hotel near the bank. 是地點，因此用 Where 問住在哪裡。"
+          },
+          {
+            "id": "m2-3-u5-q012",
+            "question": "A: ___ will the tour begin? B: At nine tomorrow morning.",
+            "options": [
+              "A. Where",
+              "B. Who",
+              "C. When",
+              "D. How"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "At nine tomorrow morning. 回答時間，所以用 When；不是問地點、人物或方式。"
+          },
+          {
+            "id": "m2-3-u5-q013",
+            "question": "A: ___ will we stay in Bangkok? B: For three nights.",
+            "options": [
+              "A. How much",
+              "B. How long",
+              "C. How many",
+              "D. How often"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "For three nights. 表示停留的時間長度，因此用 How long；How often 問頻率。"
+          },
+          {
+            "id": "m2-3-u5-q014",
+            "question": "A: ___ are you going to get to the bank? B: By bus.",
+            "options": [
+              "A. What",
+              "B. Who",
+              "C. When",
+              "D. How"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "By bus. 說明交通方式，因此疑問詞用 How，詢問要如何到銀行。"
+          },
+          {
+            "id": "m2-3-u5-q015",
+            "question": "A: ___ is going to sell the boat? B: My uncle is.",
+            "options": [
+              "A. Who",
+              "B. Where",
+              "C. When",
+              "D. Why"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "My uncle is. 指出做這件事的人，因此用 Who 當疑問主詞。"
+          },
+          {
+            "id": "m2-3-u5-q016",
+            "question": "Dad will visit the flower shop later, and Mom ___, too.",
+            "options": [
+              "A. does",
+              "B. will",
+              "C. is",
+              "D. was"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "後半句省略重複的 visit the flower shop later，保留與前句相同的助動詞 will。"
+          },
+          {
+            "id": "m2-3-u5-q017",
+            "question": "Lily is going to buy a fan, and I ___, too.",
+            "options": [
+              "A. is",
+              "B. are",
+              "C. am",
+              "D. do"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "後半句省略 going to buy a fan，保留 be 動詞；主詞 I 要搭配 am。"
+          },
+          {
+            "id": "m2-3-u5-q018",
+            "question": "The vendor will ___ careful when he packs the eggs.",
+            "options": [
+              "A. is",
+              "B. being",
+              "C. been",
+              "D. be"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "careful 是形容詞，前面需要 be 動詞；will 後面用原形 be。"
+          },
+          {
+            "id": "m2-3-u5-q019",
+            "question": "There will ___ a new bookstore near the bridge.",
+            "options": [
+              "A. be",
+              "B. have",
+              "C. has",
+              "D. is"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "表示「將會有」用 There will be，存在句不能把 be 換成 have；will 後也不能用 is。"
+          },
+          {
+            "id": "m2-3-u5-q020",
+            "question": "There ___ going to be a new hotel in town.",
+            "options": [
+              "A. are",
+              "B. is",
+              "C. am",
+              "D. be"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "There is going to be 後接單數名詞 a new hotel，所以第一個 be 用 is。"
+          },
+          {
+            "id": "m2-3-u5-q021",
+            "question": "There ___ going to be two flower shops here next year.",
+            "options": [
+              "A. is",
+              "B. am",
+              "C. are",
+              "D. be"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "後面的 two flower shops 是複數，因此用 There are going to be。"
+          },
+          {
+            "id": "m2-3-u5-q022",
+            "question": "The tickets are booked. My parents are ___ for Taipei tomorrow.",
+            "options": [
+              "A. leaving",
+              "B. leave",
+              "C. leaves",
+              "D. left"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "機票已訂好，表示已安排的未來行程；句中已有 are，後面用 leaving 構成現在進行式。"
+          },
+          {
+            "id": "m2-3-u5-q023",
+            "question": "I'll buy some bread before the bakery ___ at six tonight.",
+            "options": [
+              "A. will close",
+              "B. closed",
+              "C. closing",
+              "D. closes"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "主句 I'll buy 表未來；before 引導的未來時間子句用現在式。the bakery 是單數，所以用 closes。"
+          },
+          {
+            "id": "m2-3-u5-q024",
+            "question": "After Jay ___ home tomorrow, he will count his cash.",
+            "options": [
+              "A. gets",
+              "B. will get",
+              "C. got",
+              "D. getting"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "after 引導未來時間子句，動詞用現在式，不用 will；Jay 是單數，填 gets。"
+          },
+          {
+            "id": "m2-3-u5-q025",
+            "question": "When we ___ at the metro station tonight, we will call you.",
+            "options": [
+              "A. will arrive",
+              "B. arrived",
+              "C. arrive",
+              "D. arriving"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "when 引導的未來時間子句用現在式；主詞 we 搭配 arrive，不在子句中加 will。"
+          },
+          {
+            "id": "m2-3-u5-q026",
+            "question": "The bank will open after the manager ___ tomorrow morning.",
+            "options": [
+              "A. will arrive",
+              "B. arrived",
+              "C. arriving",
+              "D. arrives"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "after 子句用現在式表未來；the manager 是第三人稱單數，因此用 arrives。"
+          },
+          {
+            "id": "m2-3-u5-q027",
+            "question": "The toy boat ___ me eighty dollars yesterday.",
+            "options": [
+              "A. paid",
+              "B. spent",
+              "C. took",
+              "D. cost"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "主詞 The toy boat 是物品，後面是金額，用 cost；yesterday 表過去，而 cost 的過去式仍是 cost。"
+          },
+          {
+            "id": "m2-3-u5-q028",
+            "question": "The vendor ___ three hundred dollars for a new fan yesterday.",
+            "options": [
+              "A. pay",
+              "B. paid",
+              "C. pays",
+              "D. paying"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "人 + pay + 金額 + for + 物；yesterday 表過去，pay 要改成 paid。"
+          },
+          {
+            "id": "m2-3-u5-q029",
+            "question": "I spent two hundred dollars ___ flowers for my mother.",
+            "options": [
+              "A. buy",
+              "B. bought",
+              "C. to buy",
+              "D. buying"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "人 + spent + 金錢後接動作時，要用 V-ing，因此是 buying，不能用 to buy。"
+          },
+          {
+            "id": "m2-3-u5-q030",
+            "question": "It cost us a thousand dollars ___ a night at the hotel.",
+            "options": [
+              "A. spend",
+              "B. spent",
+              "C. to spend",
+              "D. spending"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "句型是 It cost + 人 + 金額 + to V；空格要用不定詞 to spend。"
+          },
+          {
+            "id": "m2-3-u5-q031",
+            "question": "This small fan usually ___ two hundred dollars.",
+            "options": [
+              "A. costed",
+              "B. costing",
+              "C. to cost",
+              "D. costs"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "This small fan 是單數主詞，usually 表示一般情況；現在式 cost 要加 s，成為 costs。"
+          },
+          {
+            "id": "m2-3-u5-q032",
+            "question": "At our hotel, each guest ___ one hundred dollars on lunch every day.",
+            "options": [
+              "A. spend",
+              "B. spending",
+              "C. spends",
+              "D. to spend"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "each guest 表示每一位客人，視為單數；every day 表現在習慣，所以用 spends。"
+          },
+          {
+            "id": "m2-3-u5-q033",
+            "question": "How much did you ___ for these shoes last night?",
+            "options": [
+              "A. pay",
+              "B. paid",
+              "C. pays",
+              "D. paying"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "問句中的 did 已表示過去，後面的主要動詞要恢復原形 pay，不再用 paid。"
+          },
+          {
+            "id": "m2-3-u5-q034",
+            "question": "A: ___ did the meal cost you? B: Six hundred dollars.",
+            "options": [
+              "A. How long",
+              "B. How much",
+              "C. How many",
+              "D. How often"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "回答是金額 six hundred dollars，因此用 How much 問花多少錢。"
+          },
+          {
+            "id": "m2-3-u5-q035",
+            "question": "A: One book costs ninety dollars. How much will two books ___? B: One hundred and eighty dollars.",
+            "options": [
+              "A. costs",
+              "B. cost",
+              "C. costing",
+              "D. costed"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "空格前已有助動詞 will，所以用原形 cost；不能加 s，也不能寫成 costed。"
+          },
+          {
+            "id": "m2-3-u5-q036",
+            "question": "We will ___ three hundred dollars on local food tomorrow.",
+            "options": [
+              "A. spends",
+              "B. spent",
+              "C. spend",
+              "D. spending"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "人 + spend + 金額 + on + 事物；will 後接原形動詞 spend。"
+          },
+          {
+            "id": "m2-3-u5-q037",
+            "question": "These toy boats ___ forty dollars each.",
+            "options": [
+              "A. costs",
+              "B. costing",
+              "C. cost",
+              "D. to cost"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "These toy boats 是複數主詞，表示售價用現在式 cost；不能用單數形式 costs。"
+          },
+          {
+            "id": "m2-3-u5-q038",
+            "question": "After buying the gift, she had no money left. She ___ all her cash on it.",
+            "options": [
+              "A. paid",
+              "B. spent",
+              "C. cost",
+              "D. took"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "主詞 She 是人，後面是金錢及 on it，符合人 + spent + 金錢 + on + 物的句型。"
+          },
+          {
+            "id": "m2-3-u5-q039",
+            "question": "It took us twenty minutes ___ the bridge.",
+            "options": [
+              "A. cross",
+              "B. crossed",
+              "C. to cross",
+              "D. crossing"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "句型是 It took + 人 + 時間 + to V，因此填 to cross；不使用 spend 句型的 V-ing。"
+          },
+          {
+            "id": "m2-3-u5-q040",
+            "question": "We spent an hour ___ the local market.",
+            "options": [
+              "A. visit",
+              "B. to visit",
+              "C. visiting",
+              "D. visited"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "spend + 時間後接動作時用 V-ing，因此是 visiting。"
+          },
+          {
+            "id": "m2-3-u5-q041",
+            "question": "A: ___ does it take to reach the hotel? B: About fifteen minutes.",
+            "options": [
+              "A. How much",
+              "B. How many",
+              "C. How old",
+              "D. How long"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "fifteen minutes 是時間長度，所以用 How long；不是問金額、數量或年齡。"
+          },
+          {
+            "id": "m2-3-u5-q042",
+            "question": "Cleaning the stall ___ him thirty minutes every evening.",
+            "options": [
+              "A. takes",
+              "B. take",
+              "C. taking",
+              "D. to take"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "動名詞片語 Cleaning the stall 作主詞，整件事視為單數；現在式用 takes。"
+          },
+          {
+            "id": "m2-3-u5-q043",
+            "question": "It will take ___ two hours to reach the church.",
+            "options": [
+              "A. we",
+              "B. us",
+              "C. our",
+              "D. ours"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "在 take 後表示花費時間的人，要用受格代名詞 us；we 是主格，our／ours 表所有關係。"
+          },
+          {
+            "id": "m2-3-u5-q044",
+            "question": "How long did you ___ waiting at the bank?",
+            "options": [
+              "A. spent",
+              "B. spend",
+              "C. spends",
+              "D. spending"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "did 後面的主要動詞用原形 spend；waiting 則是 spend 句型所接的 V-ing。"
+          },
+          {
+            "id": "m2-3-u5-q045",
+            "question": "It will ___ ten minutes to walk to the bakery.",
+            "options": [
+              "A. take",
+              "B. takes",
+              "C. took",
+              "D. taking"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "It will take + 時間 + to V 表未來花多少時間；will 後面的 take 用原形。"
+          },
+          {
+            "id": "m2-3-u5-q046",
+            "question": "Mia ___ twenty minutes reading the tour plan last night.",
+            "options": [
+              "A. spent",
+              "B. cost",
+              "C. took",
+              "D. paid"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "Mia 是人，後面是時間及 reading，符合 spent + 時間 + V-ing；last night 要用過去式。"
+          },
+          {
+            "id": "m2-3-u5-q047",
+            "question": "It ___ me thirty minutes to reach the flower shop yesterday.",
+            "options": [
+              "A. takes",
+              "B. took",
+              "C. take",
+              "D. taking"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "yesterday 表過去；It take + 人 + 時間 + to V 中的 take 應改成過去式 took。"
+          },
+          {
+            "id": "m2-3-u5-q048",
+            "question": "Dad spends ten minutes ___ prices before he buys anything.",
+            "options": [
+              "A. checking",
+              "B. check",
+              "C. to check",
+              "D. checked"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "spends + 時間後面的動作要用 V-ing，因此填 checking。"
+          },
+          {
+            "id": "m2-3-u5-q049",
+            "question": "Does it ___ long to get to the metro station?",
+            "options": [
+              "A. take",
+              "B. takes",
+              "C. took",
+              "D. taking"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "問句已有 Does，主要動詞須用原形 take，不再加 s；此處詢問花費時間。"
+          },
+          {
+            "id": "m2-3-u5-q050",
+            "question": "A: I spent half an hour fixing the fan. B: So it took you half an hour ___ it?",
+            "options": [
+              "A. fix",
+              "B. fixed",
+              "C. fixing",
+              "D. to fix"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "同義轉換時，spent + 時間 + fixing 要改成 It took + 人 + 時間 + to fix。"
+          }
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          {
+            "id": "m2-3-u5-sv001",
+            "vocab_id": "m2-3-u5-v001",
+            "sentence": "We will visit the temple tomorrow.",
+            "sentence_chinese": "我們明天會參觀那座寺廟。"
+          },
+          {
+            "id": "m2-3-u5-sv002",
+            "vocab_id": "m2-3-u5-v002",
+            "sentence": "Mom will buy some milk at the supermarket.",
+            "sentence_chinese": "媽媽會去超級市場買一些牛奶。"
+          },
+          {
+            "id": "m2-3-u5-sv003",
+            "vocab_id": "m2-3-u5-v003",
+            "sentence": "We are going to eat at this restaurant.",
+            "sentence_chinese": "我們打算在這間餐廳用餐。"
+          },
+          {
+            "id": "m2-3-u5-sv004",
+            "vocab_id": "m2-3-u5-v004",
+            "sentence": "Dad will go to the bank after lunch.",
+            "sentence_chinese": "爸爸午餐後會去銀行。"
+          },
+          {
+            "id": "m2-3-u5-sv005",
+            "vocab_id": "m2-3-u5-v005",
+            "sentence": "It takes ten minutes to walk to the church.",
+            "sentence_chinese": "走路到教堂需要 10 分鐘。"
+          },
+          {
+            "id": "m2-3-u5-sv006",
+            "vocab_id": "m2-3-u5-v006",
+            "sentence": "The bakery will open at seven tomorrow morning.",
+            "sentence_chinese": "那間麵包店明天早上 7 點會開門。"
+          },
+          {
+            "id": "m2-3-u5-sv007",
+            "vocab_id": "m2-3-u5-v007",
+            "sentence": "We will cross the bridge on foot.",
+            "sentence_chinese": "我們會走路過橋。"
+          },
+          {
+            "id": "m2-3-u5-sv008",
+            "vocab_id": "m2-3-u5-v008",
+            "sentence": "We will stay at this hotel for two nights.",
+            "sentence_chinese": "我們會在這間飯店住 2 晚。"
+          },
+          {
+            "id": "m2-3-u5-sv009",
+            "vocab_id": "m2-3-u5-v009",
+            "sentence": "She spent two hours shopping at the department store.",
+            "sentence_chinese": "她花了 2 小時在百貨公司購物。"
+          },
+          {
+            "id": "m2-3-u5-sv010",
+            "vocab_id": "m2-3-u5-v010",
+            "sentence": "There will be a metro station near our school.",
+            "sentence_chinese": "我們學校附近將會有一座捷運站。"
+          },
+          {
+            "id": "m2-3-u5-sv011",
+            "vocab_id": "m2-3-u5-v011",
+            "sentence": "I am going to visit the bookstore after school.",
+            "sentence_chinese": "我打算放學後去書店。"
+          },
+          {
+            "id": "m2-3-u5-sv012",
+            "vocab_id": "m2-3-u5-v012",
+            "sentence": "He will send the letter at the post office.",
+            "sentence_chinese": "他會去郵局寄那封信。"
+          },
+          {
+            "id": "m2-3-u5-sv013",
+            "vocab_id": "m2-3-u5-v013",
+            "sentence": "I will buy some roses at the flower shop.",
+            "sentence_chinese": "我會去花店買一些玫瑰。"
+          },
+          {
+            "id": "m2-3-u5-sv014",
+            "vocab_id": "m2-3-u5-v014",
+            "sentence": "Our trip will begin next Monday.",
+            "sentence_chinese": "我們的旅行將在下週一開始。"
+          },
+          {
+            "id": "m2-3-u5-sv015",
+            "vocab_id": "m2-3-u5-v015",
+            "sentence": "We will visit our grandparents during the vacation.",
+            "sentence_chinese": "我們會在假期期間探望祖父母。"
+          },
+          {
+            "id": "m2-3-u5-sv016",
+            "vocab_id": "m2-3-u5-v016",
+            "sentence": "Where will you go on vacation this summer?",
+            "sentence_chinese": "你今年暑假會去哪裡度假？"
+          },
+          {
+            "id": "m2-3-u5-sv017",
+            "vocab_id": "m2-3-u5-v017",
+            "sentence": "I will call you when I get home.",
+            "sentence_chinese": "我到家時會打電話給你。"
+          },
+          {
+            "id": "m2-3-u5-sv018",
+            "vocab_id": "m2-3-u5-v018",
+            "sentence": "She will have her own room next year.",
+            "sentence_chinese": "她明年會有自己的房間。"
+          },
+          {
+            "id": "m2-3-u5-sv019",
+            "vocab_id": "m2-3-u5-v019",
+            "sentence": "We are going to try some local food.",
+            "sentence_chinese": "我們打算品嚐一些當地食物。"
+          },
+          {
+            "id": "m2-3-u5-sv020",
+            "vocab_id": "m2-3-u5-v020",
+            "sentence": "The tour will take about three hours.",
+            "sentence_chinese": "這趟旅遊行程將花費大約 3 小時。"
+          },
+          {
+            "id": "m2-3-u5-sv021",
+            "vocab_id": "m2-3-u5-v021",
+            "sentence": "We spent an hour walking around the market.",
+            "sentence_chinese": "我們花了 1 小時逛市場。"
+          },
+          {
+            "id": "m2-3-u5-sv022",
+            "vocab_id": "m2-3-u5-v022",
+            "sentence": "The boat cost him three thousand dollars.",
+            "sentence_chinese": "那艘小船花了他 3 千元。"
+          },
+          {
+            "id": "m2-3-u5-sv023",
+            "vocab_id": "m2-3-u5-v023",
+            "sentence": "Each student will pay fifty dollars for the trip.",
+            "sentence_chinese": "每位學生都將為這趟旅行支付 50 元。"
+          },
+          {
+            "id": "m2-3-u5-sv024",
+            "vocab_id": "m2-3-u5-v024",
+            "sentence": "I paid two hundred dollars for this bag.",
+            "sentence_chinese": "我花了 200 元買這個袋子。"
+          },
+          {
+            "id": "m2-3-u5-sv025",
+            "vocab_id": "m2-3-u5-v025",
+            "sentence": "Are you going to leave for Taipei tomorrow?",
+            "sentence_chinese": "你明天打算前往臺北嗎？"
+          },
+          {
+            "id": "m2-3-u5-sv026",
+            "vocab_id": "m2-3-u5-v026",
+            "sentence": "It took us almost an hour to get there.",
+            "sentence_chinese": "我們花了將近 1 小時到那裡。"
+          },
+          {
+            "id": "m2-3-u5-sv027",
+            "vocab_id": "m2-3-u5-v027",
+            "sentence": "We will decide where to eat after the tour.",
+            "sentence_chinese": "我們會在行程結束後決定去哪裡吃飯。"
+          },
+          {
+            "id": "m2-3-u5-sv028",
+            "vocab_id": "m2-3-u5-v028",
+            "sentence": "This meal cost us five hundred dollars.",
+            "sentence_chinese": "這頓飯花了我們 500 元。"
+          },
+          {
+            "id": "m2-3-u5-sv029",
+            "vocab_id": "m2-3-u5-v029",
+            "sentence": "This fan will keep the room cool.",
+            "sentence_chinese": "這台電扇會讓房間保持涼爽。"
+          },
+          {
+            "id": "m2-3-u5-sv030",
+            "vocab_id": "m2-3-u5-v030",
+            "sentence": "They will leave for Bangkok next week.",
+            "sentence_chinese": "他們下週將前往曼谷。"
+          },
+          {
+            "id": "m2-3-u5-sv031",
+            "vocab_id": "m2-3-u5-v031",
+            "sentence": "The vendor will sell fruit at the market tomorrow.",
+            "sentence_chinese": "那位攤販明天會在市場賣水果。"
+          },
+          {
+            "id": "m2-3-u5-sv032",
+            "vocab_id": "m2-3-u5-v032",
+            "sentence": "We will have a quick meal before the trip.",
+            "sentence_chinese": "我們會在旅行前快速吃一餐。"
+          },
+          {
+            "id": "m2-3-u5-sv033",
+            "vocab_id": "m2-3-u5-v033",
+            "sentence": "The vendor is going to open a new stall.",
+            "sentence_chinese": "那位攤販打算開一個新攤位。"
+          },
+          {
+            "id": "m2-3-u5-sv034",
+            "vocab_id": "m2-3-u5-v034",
+            "sentence": "I will be careful when I cross the road.",
+            "sentence_chinese": "我過馬路時會小心。"
+          },
+          {
+            "id": "m2-3-u5-sv035",
+            "vocab_id": "m2-3-u5-v035",
+            "sentence": "It will take an hour to get there by boat.",
+            "sentence_chinese": "搭船到那裡將需要 1 小時。"
+          },
+          {
+            "id": "m2-3-u5-sv036",
+            "vocab_id": "m2-3-u5-v036",
+            "sentence": "They are going to sell their old boat.",
+            "sentence_chinese": "他們打算賣掉舊船。"
+          },
+          {
+            "id": "m2-3-u5-sv037",
+            "vocab_id": "m2-3-u5-v037",
+            "sentence": "We will sit on the low wall near the bridge.",
+            "sentence_chinese": "我們會坐在橋邊的矮牆上。"
+          },
+          {
+            "id": "m2-3-u5-sv038",
+            "vocab_id": "m2-3-u5-v038",
+            "sentence": "The price of this fan will go up next month.",
+            "sentence_chinese": "這台電扇的價格下個月會上漲。"
+          },
+          {
+            "id": "m2-3-u5-sv039",
+            "vocab_id": "m2-3-u5-v039",
+            "sentence": "I will remember to bring enough money.",
+            "sentence_chinese": "我會記得帶足夠的錢。"
+          },
+          {
+            "id": "m2-3-u5-sv040",
+            "vocab_id": "m2-3-u5-v040",
+            "sentence": "Will you pay in cash at the hotel?",
+            "sentence_chinese": "你會在飯店用現金付款嗎？"
+          },
+          {
+            "id": "m2-3-u5-sv041",
+            "vocab_id": "m2-3-u5-v041",
+            "sentence": "We are going to have a wonderful vacation.",
+            "sentence_chinese": "我們將會度過一個美好的假期。"
+          }
+        ],
+        "phrases": [
+          {
+            "id": "m2-3-u5-sp001",
+            "phrase_id": "m2-3-u5-p001",
+            "sentence": "I plan to take a trip to the mountains.",
+            "sentence_chinese": "我計畫去山區旅行。"
+          },
+          {
+            "id": "m2-3-u5-sp002",
+            "phrase_id": "m2-3-u5-p002",
+            "sentence": "Eddie decided to start a business on his own.",
+            "sentence_chinese": "Eddie 決定獨自創業。"
+          },
+          {
+            "id": "m2-3-u5-sp003",
+            "phrase_id": "m2-3-u5-p003",
+            "sentence": "Sammy did a good job on the presentation.",
+            "sentence_chinese": "Sammy 在報告中做得很好。"
+          },
+          {
+            "id": "m2-3-u5-sp004",
+            "phrase_id": "m2-3-u5-p004",
+            "sentence": "Same here! It's my favorite food, too!",
+            "sentence_chinese": "我也是！它也是我最喜愛的食物！"
+          },
+          {
+            "id": "m2-3-u5-sp005",
+            "phrase_id": "m2-3-u5-p005",
+            "sentence": "We must leave for the airport early to catch the morning flight.",
+            "sentence_chinese": "我們必須早點前往機場，以便趕上早班機。"
+          },
+          {
+            "id": "m2-3-u5-sp006",
+            "phrase_id": "m2-3-u5-p006",
+            "sentence": "The vacation package costs an arm and a leg.",
+            "sentence_chinese": "這個度假套裝行程極其昂貴。"
+          },
+          {
+            "id": "m2-3-u5-sp007",
+            "phrase_id": "m2-3-u5-p007",
+            "sentence": "Take your time and finish the project carefully.",
+            "sentence_chinese": "慢慢來，並仔細地完成這個專案計畫。"
+          },
+          {
+            "id": "m2-3-u5-sp008",
+            "phrase_id": "m2-3-u5-p008",
+            "sentence": "Dave paid for the car repairs in cash.",
+            "sentence_chinese": "Dave 用現金支付了修理汽車的費用。"
+          }
+        ],
+        "grammar": [
+          {
+            "id": "m2-3-u5-sg001",
+            "sentence": "We will visit the temple after lunch.",
+            "sentence_chinese": "我們午餐後會參觀那座寺廟。"
+          },
+          {
+            "id": "m2-3-u5-sg002",
+            "sentence": "The boat cost me three thousand dollars.",
+            "sentence_chinese": "那艘小船花了我 3 千元。"
+          },
+          {
+            "id": "m2-3-u5-sg003",
+            "sentence": "Are you going to stay at this hotel?",
+            "sentence_chinese": "你打算住在這間飯店嗎？"
+          },
+          {
+            "id": "m2-3-u5-sg004",
+            "sentence": "It takes ten minutes to walk there.",
+            "sentence_chinese": "走路到那裡需要 10 分鐘。"
+          },
+          {
+            "id": "m2-3-u5-sg005",
+            "sentence": "There will be a bookstore near the bank.",
+            "sentence_chinese": "銀行附近將會有一間書店。"
+          },
+          {
+            "id": "m2-3-u5-sg006",
+            "sentence": "She spent an hour choosing a birthday gift.",
+            "sentence_chinese": "她花了 1 小時挑選生日禮物。"
+          },
+          {
+            "id": "m2-3-u5-sg007",
+            "sentence": "I will call you when I get home.",
+            "sentence_chinese": "我到家時會打電話給你。"
+          },
+          {
+            "id": "m2-3-u5-sg008",
+            "sentence": "How much did you pay for the fan?",
+            "sentence_chinese": "你買這台電扇花了多少錢？"
+          },
+          {
+            "id": "m2-3-u5-sg009",
+            "sentence": "They are leaving for Taipei tomorrow morning.",
+            "sentence_chinese": "他們明天早上將前往臺北。"
+          },
+          {
+            "id": "m2-3-u5-sg010",
+            "sentence": "He is not going to sell his boat.",
+            "sentence_chinese": "他不打算賣掉他的小船。"
+          },
+          {
+            "id": "m2-3-u5-sg011",
+            "sentence": "We paid two hundred dollars for the flowers.",
+            "sentence_chinese": "我們花了 200 元買那些花。"
+          },
+          {
+            "id": "m2-3-u5-sg012",
+            "sentence": "There are going to be two new restaurants.",
+            "sentence_chinese": "將會有 2 間新餐廳。"
+          },
+          {
+            "id": "m2-3-u5-sg013",
+            "sentence": "How long does it take to reach the bridge?",
+            "sentence_chinese": "到那座橋需要多久？"
+          },
+          {
+            "id": "m2-3-u5-sg014",
+            "sentence": "She will buy bread before the bakery closes.",
+            "sentence_chinese": "她會在麵包店打烊前買麵包。"
+          },
+          {
+            "id": "m2-3-u5-sg015",
+            "sentence": "The vendor spent an hour cleaning his stall.",
+            "sentence_chinese": "那位攤販花了 1 小時清理攤位。"
+          },
+          {
+            "id": "m2-3-u5-sg016",
+            "sentence": "Will you take a trip during the vacation?",
+            "sentence_chinese": "你會在假期期間去旅行嗎？"
+          },
+          {
+            "id": "m2-3-u5-sg017",
+            "sentence": "These bags cost fifty dollars each.",
+            "sentence_chinese": "這些袋子每個要 50 元。"
+          },
+          {
+            "id": "m2-3-u5-sg018",
+            "sentence": "I am going to pay in cash.",
+            "sentence_chinese": "我打算用現金付款。"
+          },
+          {
+            "id": "m2-3-u5-sg019",
+            "sentence": "Walking to the post office takes ten minutes.",
+            "sentence_chinese": "走路到郵局需要 10 分鐘。"
+          },
+          {
+            "id": "m2-3-u5-sg020",
+            "sentence": "When will the tour begin tomorrow morning?",
+            "sentence_chinese": "這趟旅遊行程明天早上幾點開始？"
+          },
+          {
+            "id": "m2-3-u5-sg021",
+            "sentence": "We spent five hundred dollars buying local food.",
+            "sentence_chinese": "我們花了 500 元買當地食物。"
+          },
+          {
+            "id": "m2-3-u5-sg022",
+            "sentence": "They will leave after the rain stops.",
+            "sentence_chinese": "雨停後他們就會離開。"
+          },
+          {
+            "id": "m2-3-u5-sg023",
+            "sentence": "It took us twenty minutes to get home.",
+            "sentence_chinese": "我們花了 20 分鐘到家。"
+          },
+          {
+            "id": "m2-3-u5-sg024",
+            "sentence": "My parents are going to visit the church.",
+            "sentence_chinese": "我的父母打算參觀那座教堂。"
+          },
+          {
+            "id": "m2-3-u5-sg025",
+            "sentence": "How much does this small fan cost?",
+            "sentence_chinese": "這台小電扇多少錢？"
+          },
+          {
+            "id": "m2-3-u5-sg026",
+            "sentence": "She will be careful on the boat.",
+            "sentence_chinese": "她在船上會小心。"
+          },
+          {
+            "id": "m2-3-u5-sg027",
+            "sentence": "He spends an hour reading every night.",
+            "sentence_chinese": "他每晚花 1 小時閱讀。"
+          },
+          {
+            "id": "m2-3-u5-sg028",
+            "sentence": "Where are you going to stay tonight?",
+            "sentence_chinese": "你今晚打算住在哪裡？"
+          },
+          {
+            "id": "m2-3-u5-sg029",
+            "sentence": "It cost him a thousand dollars to fix the bike.",
+            "sentence_chinese": "他花了 1 千元修理腳踏車。"
+          },
+          {
+            "id": "m2-3-u5-sg030",
+            "sentence": "The children will not cross the bridge alone.",
+            "sentence_chinese": "孩子們不會獨自過橋。"
+          }
+        ]
+      },
+      "cloze_quiz": [
+        {
+          "id": "m2-3-u5-cq001",
+          "vocab_id": "m2-3-u5-v001",
+          "question": "Visitors pray to the gods at this old ___.",
+          "options": [
+            "bank",
+            "bakery",
+            "temple",
+            "bookstore"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "pray to the gods 是向神明祈禱；temple 指寺廟。"
+        },
+        {
+          "id": "m2-3-u5-cq002",
+          "vocab_id": "m2-3-u5-v002",
+          "question": "We need milk, eggs, and rice. Let's buy them at the ___.",
+          "options": [
+            "church",
+            "post office",
+            "flower shop",
+            "supermarket"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "milk、eggs、rice 是食物與日用品；supermarket 是可一次購買這些東西的超級市場。"
+        },
+        {
+          "id": "m2-3-u5-cq003",
+          "vocab_id": "m2-3-u5-v003",
+          "question": "The waiter showed us to a table in the ___.",
+          "options": [
+            "bank",
+            "post office",
+            "restaurant",
+            "metro station"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "waiter 和 table 是用餐線索；restaurant 是餐廳。"
+        },
+        {
+          "id": "m2-3-u5-cq004",
+          "vocab_id": "m2-3-u5-v004",
+          "question": "I need to take some money out of my account at the ___.",
+          "options": [
+            "bank",
+            "bakery",
+            "temple",
+            "bookstore"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "money、account 表示從帳戶領錢；bank 是銀行。"
+        },
+        {
+          "id": "m2-3-u5-cq005",
+          "vocab_id": "m2-3-u5-v005",
+          "question": "The family goes to the ___ to listen to the pastor every Sunday.",
+          "options": [
+            "bank",
+            "church",
+            "flower shop",
+            "supermarket"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "pastor 是牧師；到 church（教堂）聽牧師講道。"
+        },
+        {
+          "id": "m2-3-u5-cq006",
+          "vocab_id": "m2-3-u5-v006",
+          "question": "The smell of fresh bread comes from the ___ across the street.",
+          "options": [
+            "bank",
+            "post office",
+            "bakery",
+            "metro station"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "fresh bread 是剛出爐的麵包；bakery 是麵包店。"
+        },
+        {
+          "id": "m2-3-u5-cq007",
+          "vocab_id": "m2-3-u5-v007",
+          "question": "The river is too deep to walk through, so we will cross the ___.",
+          "options": [
+            "stall",
+            "hotel",
+            "bank",
+            "bridge"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "cross 和 river 是線索；bridge 是讓人跨越河流的橋。"
+        },
+        {
+          "id": "m2-3-u5-cq008",
+          "vocab_id": "m2-3-u5-v008",
+          "question": "We booked a room for two nights at a ___ near the airport.",
+          "options": [
+            "bakery",
+            "church",
+            "hotel",
+            "flower shop"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "booked a room、two nights 表示訂房住宿；hotel 是飯店。"
+        },
+        {
+          "id": "m2-3-u5-cq009",
+          "vocab_id": "m2-3-u5-v009",
+          "question": "The first floor of this ___ sells bags, and the fifth floor sells beds.",
+          "options": [
+            "post office",
+            "department store",
+            "flower shop",
+            "metro station"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "不同樓層販售包包、床等不同商品，是 department store（百貨公司）的情境。"
+        },
+        {
+          "id": "m2-3-u5-cq010",
+          "vocab_id": "m2-3-u5-v010",
+          "question": "We are waiting for the next metro train inside the ___.",
+          "options": [
+            "metro station",
+            "bookstore",
+            "bakery",
+            "post office"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "metro train 是捷運列車；等車的地點是 metro station（捷運站）。"
+        },
+        {
+          "id": "m2-3-u5-cq011",
+          "vocab_id": "m2-3-u5-v011",
+          "question": "This ___ sells only new and used books.",
+          "options": [
+            "bakery",
+            "bookstore",
+            "flower shop",
+            "hotel"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "new and used books 指新書與二手書；bookstore 是書店。"
+        },
+        {
+          "id": "m2-3-u5-cq012",
+          "vocab_id": "m2-3-u5-v012",
+          "question": "Please buy some stamps and mail this letter at the ___.",
+          "options": [
+            "bank",
+            "church",
+            "post office",
+            "bakery"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "stamps 和 mail this letter 是郵寄線索；post office 是郵局。"
+        },
+        {
+          "id": "m2-3-u5-cq013",
+          "vocab_id": "m2-3-u5-v013",
+          "question": "They sell fresh roses and lilies at the ___.",
+          "options": [
+            "bank",
+            "flower shop",
+            "bookstore",
+            "post office"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "roses 和 lilies 都是花；flower shop 是花店。"
+        },
+        {
+          "id": "m2-3-u5-cq014",
+          "vocab_id": "m2-3-u5-v014",
+          "question": "Our school ___ to the zoo starts at eight tomorrow morning.",
+          "options": [
+            "price",
+            "fan",
+            "cash",
+            "trip"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "to the zoo、starts at eight 描述去動物園的行程；trip 是旅行。"
+        },
+        {
+          "id": "m2-3-u5-cq015",
+          "vocab_id": "m2-3-u5-v015",
+          "question": "Please turn off your phone ___ the movie.",
+          "options": [
+            "between",
+            "under",
+            "during",
+            "from"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "句意是電影播放期間關掉手機；during 表示在某段時間期間。"
+        },
+        {
+          "id": "m2-3-u5-cq016",
+          "vocab_id": "m2-3-u5-v016",
+          "question": "School is closed for two weeks, so we can take a family ___.",
+          "options": [
+            "price",
+            "bridge",
+            "vacation",
+            "stall"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "學校放假 2 週，可以安排全家度假；vacation 是假期。"
+        },
+        {
+          "id": "m2-3-u5-cq017",
+          "vocab_id": "m2-3-u5-v017",
+          "question": "A: Will Dad come to the concert tomorrow? B: Yes, he ___.",
+          "options": [
+            "will",
+            "was",
+            "does",
+            "is"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "Will 開頭的問句用 will 簡答；will 表示將、會。"
+        },
+        {
+          "id": "m2-3-u5-cq018",
+          "vocab_id": "m2-3-u5-v018",
+          "question": "This is my ___ room. I don't have to share it with anyone.",
+          "options": [
+            "local",
+            "quick",
+            "own",
+            "low"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "不必與別人共用，表示是自己的房間；own 是自己的。"
+        },
+        {
+          "id": "m2-3-u5-cq019",
+          "vocab_id": "m2-3-u5-v019",
+          "question": "Ask a ___ person for directions; people who live here know the streets well.",
+          "options": [
+            "quick",
+            "low",
+            "local",
+            "wonderful"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "people who live here 指住在這裡的人；local 是當地的。"
+        },
+        {
+          "id": "m2-3-u5-cq020",
+          "vocab_id": "m2-3-u5-v020",
+          "question": "The guide will lead our ___ of the city this afternoon.",
+          "options": [
+            "cash",
+            "price",
+            "fan",
+            "tour"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "guide 帶領大家遊覽城市；tour 是旅遊行程。"
+        },
+        {
+          "id": "m2-3-u5-cq021",
+          "vocab_id": "m2-3-u5-v021",
+          "question": "We want to ___ less money buying snacks this month.",
+          "options": [
+            "pay",
+            "take",
+            "cost",
+            "spend"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "人 + spend + 金錢 + V-ing 表示花錢做某事；spend 是花費。"
+        },
+        {
+          "id": "m2-3-u5-cq022",
+          "vocab_id": "m2-3-u5-v022",
+          "question": "Nine hundred plus one hundred is one ___.",
+          "options": [
+            "thousand",
+            "hundred",
+            "million",
+            "dollar"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "900 加 100 等於 1,000；thousand 表示千。"
+        },
+        {
+          "id": "m2-3-u5-cq023",
+          "vocab_id": "m2-3-u5-v023",
+          "question": "There are four children and four gifts. Give one gift to ___ child.",
+          "options": [
+            "each",
+            "both",
+            "many",
+            "all"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "4 位孩子各得到 1 份禮物；each 表示每一個，後接單數 child。"
+        },
+        {
+          "id": "m2-3-u5-cq024",
+          "vocab_id": "m2-3-u5-v024",
+          "question": "You must ___ for the tickets before you enter the theater.",
+          "options": [
+            "pay",
+            "sell",
+            "spend",
+            "cost"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "pay for 表示付錢購買；進場前要先付票錢。"
+        },
+        {
+          "id": "m2-3-u5-cq025",
+          "vocab_id": "m2-3-u5-v025",
+          "question": "Today is Monday. We will have our Tuesday meeting ___.",
+          "options": [
+            "yesterday",
+            "tomorrow",
+            "tonight",
+            "today"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "今天星期一，星期二就是明天；tomorrow 是明天。"
+        },
+        {
+          "id": "m2-3-u5-cq026",
+          "vocab_id": "m2-3-u5-v026",
+          "question": "Ninety-nine of the hundred seats are full, so the bus is ___ full.",
+          "options": [
+            "completely",
+            "almost",
+            "totally",
+            "half"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "100 個座位已有 99 個坐滿，表示幾乎全滿；almost 是幾乎，不是完全或一半。"
+        },
+        {
+          "id": "m2-3-u5-cq027",
+          "vocab_id": "m2-3-u5-v027",
+          "question": "We must ___ which hotel to book before we buy the tickets.",
+          "options": [
+            "sell",
+            "cross",
+            "pay",
+            "decide"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "which hotel to book 表示要選訂哪家飯店；decide 是決定。"
+        },
+        {
+          "id": "m2-3-u5-cq028",
+          "vocab_id": "m2-3-u5-v028",
+          "question": "How much does that camera ___?",
+          "options": [
+            "pay",
+            "spend",
+            "sell",
+            "cost"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "詢問相機的價格，物作主詞用 cost，表示花費金錢。"
+        },
+        {
+          "id": "m2-3-u5-cq029",
+          "vocab_id": "m2-3-u5-v029",
+          "question": "It's hot in here. Please turn on the ___.",
+          "options": [
+            "fan",
+            "boat",
+            "bridge",
+            "stall"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "天氣熱、turn on 是打開電器；fan 在這裡是電扇。"
+        },
+        {
+          "id": "m2-3-u5-cq030",
+          "vocab_id": "m2-3-u5-v030",
+          "question": "They will ___ Kaohsiung tomorrow and arrive there before lunch.",
+          "options": [
+            "look after",
+            "leave for",
+            "give up",
+            "pay for"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "arrive there before lunch 表示要前往高雄；leave for 是前往。"
+        },
+        {
+          "id": "m2-3-u5-cq031",
+          "vocab_id": "m2-3-u5-v031",
+          "question": "Selling fruit from a market stall is his job. He is a ___.",
+          "options": [
+            "vendor",
+            "visitor",
+            "customer",
+            "tourist"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "工作是在市場擺攤賣水果，職業是 vendor（攤販）；其他選項指訪客、顧客或遊客。"
+        },
+        {
+          "id": "m2-3-u5-cq032",
+          "vocab_id": "m2-3-u5-v032",
+          "question": "We have only five minutes for lunch, so we need a ___ meal.",
+          "options": [
+            "low",
+            "local",
+            "rich",
+            "quick"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "只有 5 分鐘吃午餐，表示需要迅速用餐；quick 是迅速的。"
+        },
+        {
+          "id": "m2-3-u5-cq033",
+          "vocab_id": "m2-3-u5-v033",
+          "question": "We bought noodles from a small ___ at the night market.",
+          "options": [
+            "bridge",
+            "bank",
+            "stall",
+            "church"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "夜市裡賣麵的小店位是 stall（攤位）。"
+        },
+        {
+          "id": "m2-3-u5-cq034",
+          "vocab_id": "m2-3-u5-v034",
+          "question": "The glass is easy to break. Please be ___ with it.",
+          "options": [
+            "low",
+            "careful",
+            "quick",
+            "local"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "玻璃容易破，要小心拿；careful 是小心的。"
+        },
+        {
+          "id": "m2-3-u5-cq035",
+          "vocab_id": "m2-3-u5-v035",
+          "question": "We crossed the lake in a small ___.",
+          "options": [
+            "boat",
+            "stall",
+            "bank",
+            "fan"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "crossed the lake 表示穿越湖面；boat 是小船。"
+        },
+        {
+          "id": "m2-3-u5-cq036",
+          "vocab_id": "m2-3-u5-v036",
+          "question": "They plan to ___ their old car for fifty thousand dollars.",
+          "options": [
+            "pay",
+            "sell",
+            "remember",
+            "spend"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "以 5 萬元賣出舊車，動詞用 sell，表示賣、出售。"
+        },
+        {
+          "id": "m2-3-u5-cq037",
+          "vocab_id": "m2-3-u5-v037",
+          "question": "The shelf is so ___ that even a small child can reach it.",
+          "options": [
+            "low",
+            "expensive",
+            "quick",
+            "local"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "連小孩都碰得到，表示架子很低；low 是低的。"
+        },
+        {
+          "id": "m2-3-u5-cq038",
+          "vocab_id": "m2-3-u5-v038",
+          "question": "The ___ on this bag's tag is NT$300.",
+          "options": [
+            "price",
+            "trip",
+            "cash",
+            "vacation"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "tag 上的 NT$300 是商品標價；price 是價格。"
+        },
+        {
+          "id": "m2-3-u5-cq039",
+          "vocab_id": "m2-3-u5-v039",
+          "question": "Please ___ to bring your passport to the airport.",
+          "options": [
+            "sell",
+            "spend",
+            "cost",
+            "remember"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "句意是提醒對方帶護照；remember to do something 表示記得去做某事。"
+        },
+        {
+          "id": "m2-3-u5-cq040",
+          "vocab_id": "m2-3-u5-v040",
+          "question": "The shop doesn't take cards, so please bring enough ___.",
+          "options": [
+            "fans",
+            "boats",
+            "stamps",
+            "cash"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "店家不收卡片付款，因此要帶現金；cash 是現金。"
+        },
+        {
+          "id": "m2-3-u5-cq041",
+          "vocab_id": "m2-3-u5-v041",
+          "question": "We had a ___ day at the beach; everyone enjoyed it.",
+          "options": [
+            "low",
+            "wonderful",
+            "local",
+            "careful"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "everyone enjoyed it 表示大家都很開心；wonderful 是美好的。"
+        }
+      ]
+    }
+  }
+}
