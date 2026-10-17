@@ -1,0 +1,2262 @@
+{
+  "units": {
+    "m3-2-u3": {
+      "title": "U3",
+      "vocab": [
+        {
+          "id": "m3-2-u3-v001",
+          "word": "senior center",
+          "part_of_speech": "名",
+          "chinese": "樂齡中心",
+          "sentence": "The senior center is cleaned every day.",
+          "sentence_chinese": "這間樂齡中心每天都有人打掃。"
+        },
+        {
+          "id": "m3-2-u3-v002",
+          "word": "pleasure",
+          "part_of_speech": "名",
+          "chinese": "愉快；榮幸",
+          "sentence": "It is a pleasure to be invited.",
+          "sentence_chinese": "受邀讓人感到榮幸。"
+        },
+        {
+          "id": "m3-2-u3-v003",
+          "word": "attack",
+          "part_of_speech": "名／動",
+          "chinese": "攻擊",
+          "sentence": "The man was attacked by a dog.",
+          "sentence_chinese": "那名男子被一隻狗攻擊。"
+        },
+        {
+          "id": "m3-2-u3-v004",
+          "word": "toe",
+          "part_of_speech": "名",
+          "chinese": "腳趾",
+          "sentence": "His toe was hurt in the game.",
+          "sentence_chinese": "他的腳趾在比賽中受傷了。"
+        },
+        {
+          "id": "m3-2-u3-v005",
+          "word": "bridge",
+          "part_of_speech": "名",
+          "chinese": "橋",
+          "sentence": "The bridge was built ten years ago.",
+          "sentence_chinese": "這座橋建於十年前。"
+        },
+        {
+          "id": "m3-2-u3-v006",
+          "word": "drop",
+          "part_of_speech": "動",
+          "chinese": "（使）落下；丟下",
+          "sentence": "The glass was dropped on the floor.",
+          "sentence_chinese": "那個玻璃杯被弄掉到地板上。"
+        },
+        {
+          "id": "m3-2-u3-v007",
+          "word": "smoke",
+          "part_of_speech": "名／動",
+          "chinese": "煙霧；抽菸",
+          "sentence": "Smoke was seen near the bridge.",
+          "sentence_chinese": "有人看見橋附近有煙霧。"
+        },
+        {
+          "id": "m3-2-u3-v008",
+          "word": "puppy",
+          "part_of_speech": "名",
+          "chinese": "幼犬",
+          "sentence": "The puppy was saved by a boy.",
+          "sentence_chinese": "那隻幼犬被一個男孩救了。"
+        },
+        {
+          "id": "m3-2-u3-v009",
+          "word": "middle",
+          "part_of_speech": "名",
+          "chinese": "中間",
+          "sentence": "A table was put in the middle of the room.",
+          "sentence_chinese": "有人把一張桌子放在房間中央。"
+        },
+        {
+          "id": "m3-2-u3-v010",
+          "word": "carry",
+          "part_of_speech": "動",
+          "chinese": "攜帶",
+          "sentence": "These bags must be carried carefully.",
+          "sentence_chinese": "這些袋子必須小心搬運。"
+        },
+        {
+          "id": "m3-2-u3-v011",
+          "word": "note",
+          "part_of_speech": "名",
+          "chinese": "紙條",
+          "sentence": "A note was left on my desk.",
+          "sentence_chinese": "有人在我的桌上留了一張紙條。"
+        },
+        {
+          "id": "m3-2-u3-v012",
+          "word": "wallet",
+          "part_of_speech": "名",
+          "chinese": "錢包",
+          "sentence": "My wallet was found under the bench.",
+          "sentence_chinese": "我的錢包在長椅底下被找到了。"
+        },
+        {
+          "id": "m3-2-u3-v013",
+          "word": "pocket",
+          "part_of_speech": "名",
+          "chinese": "口袋",
+          "sentence": "The key was put in his pocket.",
+          "sentence_chinese": "那把鑰匙被放進他的口袋裡。"
+        },
+        {
+          "id": "m3-2-u3-v014",
+          "word": "pray",
+          "part_of_speech": "動",
+          "chinese": "祈求；祈禱",
+          "sentence": "We prayed that the puppy would be saved.",
+          "sentence_chinese": "我們祈禱那隻幼犬會獲救。"
+        },
+        {
+          "id": "m3-2-u3-v015",
+          "word": "blow up",
+          "part_of_speech": "片",
+          "chinese": "爆炸",
+          "sentence": "The old bridge was blown up.",
+          "sentence_chinese": "那座舊橋被炸毀了。"
+        },
+        {
+          "id": "m3-2-u3-v016",
+          "word": "lie",
+          "part_of_speech": "動",
+          "chinese": "躺；臥",
+          "sentence": "The puppy was seen lying on the grass.",
+          "sentence_chinese": "有人看見那隻幼犬躺在草地上。"
+        },
+        {
+          "id": "m3-2-u3-v017",
+          "word": "in time",
+          "part_of_speech": "片",
+          "chinese": "及時",
+          "sentence": "The boy was saved in time.",
+          "sentence_chinese": "那個男孩及時獲救了。"
+        },
+        {
+          "id": "m3-2-u3-v018",
+          "word": "area",
+          "part_of_speech": "名",
+          "chinese": "區域",
+          "sentence": "This area must be kept clean.",
+          "sentence_chinese": "這個區域必須保持乾淨。"
+        },
+        {
+          "id": "m3-2-u3-v019",
+          "word": "glue",
+          "part_of_speech": "名",
+          "chinese": "膠水",
+          "sentence": "The glue was used to fix the toy.",
+          "sentence_chinese": "有人用這些膠水修理玩具。"
+        },
+        {
+          "id": "m3-2-u3-v020",
+          "word": "paste",
+          "part_of_speech": "動",
+          "chinese": "黏貼",
+          "sentence": "The photos were pasted on the wall.",
+          "sentence_chinese": "那些照片被貼在牆上。"
+        },
+        {
+          "id": "m3-2-u3-v021",
+          "word": "yard",
+          "part_of_speech": "名",
+          "chinese": "庭院",
+          "sentence": "The yard has already been cleaned.",
+          "sentence_chinese": "庭院已經打掃好了。"
+        },
+        {
+          "id": "m3-2-u3-v022",
+          "word": "pipe",
+          "part_of_speech": "名",
+          "chinese": "水管",
+          "sentence": "The broken pipe will be fixed tomorrow.",
+          "sentence_chinese": "那根壞掉的水管明天會有人修理。"
+        },
+        {
+          "id": "m3-2-u3-v023",
+          "word": "bench",
+          "part_of_speech": "名",
+          "chinese": "長凳；長椅",
+          "sentence": "The bench is being painted now.",
+          "sentence_chinese": "這張長椅現在正在上漆。"
+        },
+        {
+          "id": "m3-2-u3-v024",
+          "word": "badminton",
+          "part_of_speech": "名",
+          "chinese": "羽毛球",
+          "sentence": "Badminton is played in our school every Friday.",
+          "sentence_chinese": "我們學校每星期五都有人打羽毛球。"
+        },
+        {
+          "id": "m3-2-u3-v025",
+          "word": "tennis",
+          "part_of_speech": "名",
+          "chinese": "網球",
+          "sentence": "Tennis can be played here after school.",
+          "sentence_chinese": "放學後可以在這裡打網球。"
+        },
+        {
+          "id": "m3-2-u3-v026",
+          "word": "slide",
+          "part_of_speech": "名",
+          "chinese": "滑梯",
+          "sentence": "The slide must be checked before use.",
+          "sentence_chinese": "這座滑梯使用前必須檢查。"
+        },
+        {
+          "id": "m3-2-u3-v027",
+          "word": "seesaw",
+          "part_of_speech": "名",
+          "chinese": "翹翹板",
+          "sentence": "The seesaw was fixed yesterday.",
+          "sentence_chinese": "這座翹翹板昨天修好了。"
+        },
+        {
+          "id": "m3-2-u3-v028",
+          "word": "swing",
+          "part_of_speech": "名",
+          "chinese": "鞦韆",
+          "sentence": "The swing has been used by many children.",
+          "sentence_chinese": "這座鞦韆已經有很多小朋友使用過。"
+        },
+        {
+          "id": "m3-2-u3-v029",
+          "word": "tool",
+          "part_of_speech": "名",
+          "chinese": "工具",
+          "sentence": "These tools should be kept in the box.",
+          "sentence_chinese": "這些工具應該放在箱子裡。"
+        },
+        {
+          "id": "m3-2-u3-v030",
+          "word": "pot",
+          "part_of_speech": "名",
+          "chinese": "盆；鍋",
+          "sentence": "The pot was washed after dinner.",
+          "sentence_chinese": "晚餐後，鍋子被洗乾淨了。"
+        },
+        {
+          "id": "m3-2-u3-v031",
+          "word": "seed",
+          "part_of_speech": "名",
+          "chinese": "種子",
+          "sentence": "The seeds were planted in the yard.",
+          "sentence_chinese": "這些種子被種在庭院裡。"
+        },
+        {
+          "id": "m3-2-u3-v032",
+          "word": "basket",
+          "part_of_speech": "名",
+          "chinese": "籃子",
+          "sentence": "The basket is filled with fruit.",
+          "sentence_chinese": "籃子裡裝滿了水果。"
+        },
+        {
+          "id": "m3-2-u3-v033",
+          "word": "bake",
+          "part_of_speech": "動",
+          "chinese": "烘焙",
+          "sentence": "The cookies were baked by my sister.",
+          "sentence_chinese": "這些餅乾是我姊姊烤的。"
+        },
+        {
+          "id": "m3-2-u3-v034",
+          "word": "pack",
+          "part_of_speech": "名",
+          "chinese": "（一）副；包",
+          "sentence": "A pack of cards was found in the box.",
+          "sentence_chinese": "有人在箱子裡找到一副紙牌。"
+        },
+        {
+          "id": "m3-2-u3-v035",
+          "word": "fan",
+          "part_of_speech": "名",
+          "chinese": "風扇",
+          "sentence": "The fan has not been turned on yet.",
+          "sentence_chinese": "這台風扇還沒開。"
+        },
+        {
+          "id": "m3-2-u3-v036",
+          "word": "notice",
+          "part_of_speech": "動／名",
+          "chinese": "注意到；告示",
+          "sentence": "A notice was put on the door.",
+          "sentence_chinese": "門上貼了一張告示。"
+        },
+        {
+          "id": "m3-2-u3-v037",
+          "word": "gas",
+          "part_of_speech": "名",
+          "chinese": "（化學、天然）氣體；汽油",
+          "sentence": "Gas is used for cooking in this house.",
+          "sentence_chinese": "這個家用瓦斯煮飯。"
+        },
+        {
+          "id": "m3-2-u3-v038",
+          "word": "modern",
+          "part_of_speech": "形",
+          "chinese": "現代的",
+          "sentence": "A modern school will be built here.",
+          "sentence_chinese": "這裡將興建一所現代化的學校。"
+        },
+        {
+          "id": "m3-2-u3-v039",
+          "word": "program",
+          "part_of_speech": "名",
+          "chinese": "計畫；節目",
+          "sentence": "The program has been watched by many students.",
+          "sentence_chinese": "很多學生已經看過這個節目。"
+        },
+        {
+          "id": "m3-2-u3-v040",
+          "word": "side",
+          "part_of_speech": "名",
+          "chinese": "側邊；面",
+          "sentence": "The other side of the wall was painted blue.",
+          "sentence_chinese": "牆的另一面被漆成藍色。"
+        },
+        {
+          "id": "m3-2-u3-v041",
+          "word": "somewhere",
+          "part_of_speech": "副",
+          "chinese": "在某處",
+          "sentence": "The wallet was left somewhere in the house.",
+          "sentence_chinese": "錢包被遺留在屋內某處。"
+        },
+        {
+          "id": "m3-2-u3-v042",
+          "word": "missing",
+          "part_of_speech": "形",
+          "chinese": "失蹤的；找不到的",
+          "sentence": "The missing puppy has been found.",
+          "sentence_chinese": "那隻失蹤的幼犬已經找到了。"
+        },
+        {
+          "id": "m3-2-u3-v043",
+          "word": "cheer... up",
+          "part_of_speech": "片",
+          "chinese": "使⋯振作起來",
+          "sentence": "The boy was cheered up by his friends.",
+          "sentence_chinese": "那個男孩在朋友的鼓勵下振作起來。"
+        }
+      ],
+      "phrases": [
+        {
+          "id": "m3-2-u3-p001",
+          "phrase": "blow up",
+          "chinese": "爆炸",
+          "sentence": "The old bridge was blown up.",
+          "sentence_chinese": "那座舊橋被炸毀了。"
+        },
+        {
+          "id": "m3-2-u3-p002",
+          "phrase": "in time",
+          "chinese": "及時",
+          "sentence": "The boy was saved in time.",
+          "sentence_chinese": "那個男孩及時獲救了。"
+        },
+        {
+          "id": "m3-2-u3-p003",
+          "phrase": "cheer... up",
+          "chinese": "使⋯振作起來",
+          "sentence": "The boy was cheered up by his friends.",
+          "sentence_chinese": "那個男孩在朋友的鼓勵下振作起來。"
+        }
+      ],
+      "grammar": {
+        "tips": [
+          {
+            "label": "先看誰做動作",
+            "text": "主詞做動作用主動；主詞承受動作用被動。被動的核心是 be + 過去分詞。"
+          },
+          {
+            "label": "簡單式",
+            "text": "現在：am/is/are + 過去分詞；過去：was/were + 過去分詞。be 要配合主詞單複數。"
+          },
+          {
+            "label": "情態與未來",
+            "text": "can/must/should/will + be + 過去分詞；be going to be + 過去分詞。"
+          },
+          {
+            "label": "完成與進行",
+            "text": "have/has been + 過去分詞表示已經或持續至今；be being + 過去分詞表示正在被做。"
+          },
+          {
+            "label": "問句與否定",
+            "text": "把第一個 be 或助動詞移到主詞前形成 Yes/No 問句；否定在第一個 be 或助動詞後加 not。"
+          },
+          {
+            "label": "特殊結構",
+            "text": "be made to V；be seen/heard to V 或 V-ing；to be + 過去分詞；being + 過去分詞。"
+          }
+        ],
+        "notes": [
+          {
+            "title": "主動與被動：先找出動作的承受者",
+            "rule": "主動：動作者 + 動詞 + 受詞\n被動：原受詞 + be + 過去分詞（+ by + 動作者）",
+            "description": "把原句受詞移到主詞位置，再依時態與新主詞決定 be。by 後用受格代名詞，如 me、him、her、us、them。動作者不明、不重要或泛指一般人時，常省略 by 片語。",
+            "examples": [
+              "A volunteer saved the puppy. → The puppy was saved by a volunteer.（一位志工救了幼犬。）",
+              "We cleaned the yard. → The yard was cleaned by us.（庭院是我們打掃的。）",
+              "English is spoken here.（這裡有人說英語。）"
+            ]
+          },
+          {
+            "title": "簡單式被動與過去分詞",
+            "rule": "現在：am/is/are + 過去分詞\n過去：was/were + 過去分詞",
+            "description": "現在的習慣可搭配 every day 等時間詞；過去事件常搭配 yesterday、last night 等。be 要配合單複數。過去分詞不一定等於過去式：write–wrote–written、see–saw–seen、choose–chose–chosen、give–gave–given、blow–blew–blown；hit–hit–hit、put–put–put 則不變。",
+            "examples": [
+              "The baskets are washed every day.（這些籃子每天都會清洗。）",
+              "The old bridge was built in 1990.（這座舊橋建於 1990 年。）",
+              "The photos were pasted on the wall yesterday.（昨天有人把照片貼在牆上。）"
+            ]
+          },
+          {
+            "title": "簡單式被動的否定、問句與答句",
+            "rule": "否定：主詞 + be not + 過去分詞\n問句：Be + 主詞 + 過去分詞…？",
+            "description": "被動句已有 be，不再加 do/does/did。簡答使用與問句相符的 be，詳答則保留過去分詞與其他必要資訊。疑問詞 When、Where 等放在 be 問句前。",
+            "examples": [
+              "The fan was not turned on.（風扇沒有被打開。）",
+              "Were the seeds planted yesterday? Yes, they were.（種子昨天種下了嗎？是的。）",
+              "Is the yard cleaned every week? Yes, it is cleaned every week.（庭院每週都打掃嗎？是的，每週都打掃。）",
+              "When was this bridge built?（這座橋是什麼時候建造的？）"
+            ]
+          },
+          {
+            "title": "情態助動詞的被動",
+            "rule": "主詞 + can/could/must/should/will… + be + 過去分詞",
+            "description": "情態助動詞後的 be 維持原形，不因單複數改成 is 或 are。否定把 not 加在助動詞後；問句將助動詞前置。must not 表示禁止，cannot 表示不能。",
+            "examples": [
+              "The tools must be kept dry.（工具必須保持乾燥。）",
+              "The broken swing must not be used.（不可以使用壞掉的鞦韆。）",
+              "Can this pipe be fixed? Yes, it can.（這根水管能修好嗎？可以。）"
+            ]
+          },
+          {
+            "title": "兩種未來式被動",
+            "rule": "will be + 過去分詞\nam/is/are going to be + 過去分詞",
+            "description": "主詞承受將來的動作。will 後直接接 be；going to 前的 be 配合主詞，後面的 be 仍是原形。不要漏掉第二個 be。",
+            "examples": [
+              "The bench will be moved tomorrow.（長椅明天會被搬走。）",
+              "These slides are going to be checked next week.（這些滑梯下週將接受檢查。）",
+              "Will the basket be sent today? No, it will not.（籃子今天會寄出嗎？不會。）"
+            ]
+          },
+          {
+            "title": "現在完成式被動",
+            "rule": "have/has + been + 過去分詞\n否定：have/has not/never been + 過去分詞",
+            "description": "表示動作已完成、發生過，或狀況持續至今。單數第三人稱用 has，其他常用 have。since 接起點，for 接一段時間；already、yet、ever、never、次數也常出現。been 是 be 的過去分詞，不能漏掉。",
+            "examples": [
+              "The missing wallet has been found.（遺失的錢包已經找到了。）",
+              "These tools have never been used.（這些工具從未使用過。）",
+              "Has the pipe been fixed yet? No, it has not.（水管修好了嗎？還沒有。）",
+              "The bridge has been closed for two days.（這座橋已經封閉兩天了。）"
+            ]
+          },
+          {
+            "title": "進行式被動：being 與 been 不同",
+            "rule": "現在：am/is/are being + 過去分詞\n過去：was/were being + 過去分詞",
+            "description": "描述某個時間點正在被進行的動作。現在常見 now、at the moment；過去可配合另一件過去發生的事。being 用在進行式，been 用在完成式。判斷時也要看整個情境，不能只靠單一時間詞。",
+            "examples": [
+              "The yard is being cleaned now.（庭院現在正在打掃。）",
+              "The swings were being painted when we arrived.（我們到達時，鞦韆正在上漆。）",
+              "The bench has been painted.（長椅已經漆好了。）"
+            ]
+          },
+          {
+            "title": "被動不定詞與被動動名詞",
+            "rule": "不定詞被動：to be + 過去分詞\n動名詞被動：being + 過去分詞",
+            "description": "want、hope、need 等結構可接被動不定詞；enjoy 後與介系詞 without 後用動名詞。主詞是動作的承受者時，選被動形式。need doing 也可表達需要被處理，本課先練習 need to be done。",
+            "examples": [
+              "The basket needs to be washed.（籃子需要清洗。）",
+              "She hopes to be chosen for the team.（她希望被選入隊伍。）",
+              "He enjoys being invited to parties.（他喜歡受邀參加派對。）",
+              "She left without being noticed.（她離開時沒被人注意到。）"
+            ]
+          },
+          {
+            "title": "感官動詞與被動",
+            "rule": "主動：see/hear + 人 + 原形動詞／V-ing\n被動：人 + be seen/heard + to V／V-ing",
+            "description": "主動感官句接原形動詞，改被動時要補 to；原句接 V-ing，改被動仍保留 V-ing。原形通常著重整個動作，V-ing 著重進行中的動作。兩者有時都能成立，因此做題時須依選項與語境判斷。",
+            "examples": [
+              "We saw the boy run away. → The boy was seen to run away.（有人看到男孩跑走。）",
+              "We heard the girl singing. → The girl was heard singing.（有人聽到女孩正在唱歌。）",
+              "I saw the puppy fed by a volunteer.（我看到幼犬被志工餵食。）see + 受詞 + 過去分詞表示受詞承受動作。"
+            ]
+          },
+          {
+            "title": "使役 make 與 have 的相關結構",
+            "rule": "主動：make + 人 + 原形動詞\n被動：人 + be made + to V\nhave + 物 + 過去分詞",
+            "description": "make 表示叫某人做事；改被動時，後面的動詞要補 to。have + 物 + 過去分詞表示安排某物被處理，並不表示主詞親自完成動作。",
+            "examples": [
+              "The teacher made us clean the yard.（老師叫我們打掃庭院。）",
+              "We were made to clean the yard.（我們被要求打掃庭院。）",
+              "Dad had the broken fan fixed.（爸爸請人修好了壞掉的風扇。）"
+            ]
+          },
+          {
+            "title": "授與動詞的兩種被動",
+            "rule": "人 + be given + 物\n物 + be given + to + 人",
+            "description": "give 後可以有兩個受詞，因此可以選人或物當被動句的主詞。以物為主詞時保留 to。不同動詞搭配的介系詞可能不同，不能把所有授與動詞一律套用 to。",
+            "examples": [
+              "The coach gave the children new rackets.（教練給孩子們新的球拍。）",
+              "The children were given new rackets by the coach.（孩子們獲得教練送的新球拍。）",
+              "New rackets were given to the children by the coach.（新球拍被教練送給孩子們。）"
+            ]
+          },
+          {
+            "title": "口語 get 被動與片語保留",
+            "rule": "get/got + 過去分詞\n片語動詞改被動時，保留原本必要的介系詞或副詞",
+            "description": "口語常用 get + 過去分詞表達遭遇或變化，例如 got hurt、got broken。take care of、laugh at 等片語改被動時，of、at 不能消失。這些用法作為補充說明，練習重點仍是被動動詞結構。",
+            "examples": [
+              "The window got broken during the game.（比賽時窗戶被打破了。）",
+              "The puppy will be taken care of by my sister.（我的姊姊會照顧幼犬。）",
+              "The old bridge was blown up.（舊橋被炸毀了。）blow up 的過去分詞形式為 blown up。"
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "id": "m3-2-u3-q001",
+            "question": "Every morning, the floor of the senior center ___ before the doors open.",
+            "options": [
+              "A. cleans",
+              "B. is cleaning",
+              "C. clean",
+              "D. is cleaned"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "Every morning 表示習慣；floor 是被打掃的單數主詞，用 is cleaned。"
+          },
+          {
+            "id": "m3-2-u3-q002",
+            "question": "Many trees ___ near the bridge by our class last Saturday.",
+            "options": [
+              "A. was planted",
+              "B. planted",
+              "C. are planting",
+              "D. were planted"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "last Saturday 是過去時間；trees 是複數且承受種植動作，因此用 were planted。"
+          },
+          {
+            "id": "m3-2-u3-q003",
+            "question": "This wallet ___ of leather.",
+            "options": [
+              "A. is made",
+              "B. made",
+              "C. makes",
+              "D. is making"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "wallet 是由皮革製成的物品，須有被動結構 is made；不能只放過去分詞 made。"
+          },
+          {
+            "id": "m3-2-u3-q004",
+            "question": "A: Did the workers repair both swings yesterday? B: Yes. Both swings ___ before noon.",
+            "options": [
+              "A. were repaired",
+              "B. was repaired",
+              "C. repair",
+              "D. are repairing"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "對話談 yesterday 的修理結果；both swings 為複數且被修理，用 were repaired。"
+          },
+          {
+            "id": "m3-2-u3-q005",
+            "question": "The puppy ___ by a passing car last night, but it is safe now.",
+            "options": [
+              "A. was hit",
+              "B. hits",
+              "C. was hitting",
+              "D. has hit"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "last night 表示過去；puppy 是被車撞的，用 was hit。hit 的過去分詞仍是 hit。"
+          },
+          {
+            "id": "m3-2-u3-q006",
+            "question": "A: ___ the cookies baked by your brother yesterday? B: Yes, they were.",
+            "options": [
+              "A. Was",
+              "B. Were",
+              "C. Did",
+              "D. Have"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "cookies 為複數，yesterday 表過去；被動問句把 were 放到主詞前，不加 did。"
+          },
+          {
+            "id": "m3-2-u3-q007",
+            "question": "A: Is fresh bread baked here every morning? B: Yes, it ___.",
+            "options": [
+              "A. does",
+              "B. is",
+              "C. has",
+              "D. bakes"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "問句以 Is 開頭，簡答沿用 be：Yes, it is.，不改用 does。"
+          },
+          {
+            "id": "m3-2-u3-q008",
+            "question": "The seeds were ___ in the yard by the children.",
+            "options": [
+              "A. plant",
+              "B. planted",
+              "C. planting",
+              "D. plants"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "seeds 被孩子們種下；were 後接過去分詞 planted，形成被動。"
+          },
+          {
+            "id": "m3-2-u3-q009",
+            "question": "The smoke ___ by everyone in the room a few minutes ago.",
+            "options": [
+              "A. noticed",
+              "B. is noticing",
+              "C. has noticed",
+              "D. was noticed"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "a few minutes ago 指過去；smoke 是不可數名詞且被注意到，用 was noticed。"
+          },
+          {
+            "id": "m3-2-u3-q010",
+            "question": "A: Was the missing wallet found? B: No, it ___.",
+            "options": [
+              "A. wasn't",
+              "B. weren't",
+              "C. didn't",
+              "D. hasn't"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "問句用 Was，主詞 wallet 對應 it；否定簡答為 No, it wasn’t.。"
+          },
+          {
+            "id": "m3-2-u3-q011",
+            "question": "The tools must ___ in a dry place after use.",
+            "options": [
+              "A. keep",
+              "B. be keeping",
+              "C. be kept",
+              "D. have kept"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "tools 是被保管的物品；must 後接 be + 過去分詞 kept。"
+          },
+          {
+            "id": "m3-2-u3-q012",
+            "question": "These young puppies cannot ___ outside on a cold night.",
+            "options": [
+              "A. leave",
+              "B. be leaving",
+              "C. be left",
+              "D. to leave"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "puppies 是被留在外面的對象；cannot + be + left，不能在 can 後加 to。"
+          },
+          {
+            "id": "m3-2-u3-q013",
+            "question": "The broken pipe should ___ before we turn on the water.",
+            "options": [
+              "A. fix",
+              "B. be fixed",
+              "C. to fix",
+              "D. be fixing"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "pipe 需要被修理；should 後用 be fixed，不是主動的 fix 或 be fixing。"
+          },
+          {
+            "id": "m3-2-u3-q014",
+            "question": "A: Can this glue be used on wood? B: Yes, it ___.",
+            "options": [
+              "A. is",
+              "B. can",
+              "C. does",
+              "D. has"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "問句的助動詞是 Can，肯定簡答也使用 can。"
+          },
+          {
+            "id": "m3-2-u3-q015",
+            "question": "The baskets will ___ to the senior center tomorrow.",
+            "options": [
+              "A. send",
+              "B. be sending",
+              "C. to send",
+              "D. be sent"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "tomorrow 表將來，baskets 承受寄送動作；will 後接 be sent。"
+          },
+          {
+            "id": "m3-2-u3-q016",
+            "question": "A: Will the tennis court be cleaned today? B: No, it ___.",
+            "options": [
+              "A. won't",
+              "B. isn't",
+              "C. doesn't",
+              "D. hasn't"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "問句用 Will，否定簡答用 will not 的縮寫 won’t。"
+          },
+          {
+            "id": "m3-2-u3-q017",
+            "question": "Please stay behind the fence. The old building is going to ___ next week.",
+            "options": [
+              "A. pull down",
+              "B. be pulling down",
+              "C. pulling down",
+              "D. be pulled down"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "建築物是被拆除的；is going to 後接 be + 過去分詞，形成未來被動。"
+          },
+          {
+            "id": "m3-2-u3-q018",
+            "question": "The two benches ___ going to be moved into the yard.",
+            "options": [
+              "A. is",
+              "B. are",
+              "C. be",
+              "D. was"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "two benches 是複數主詞；going to 前的 be 用 are，後面的 be moved 保持不變。"
+          },
+          {
+            "id": "m3-2-u3-q019",
+            "question": "A new swing is going to be ___ for the children.",
+            "options": [
+              "A. build",
+              "B. built",
+              "C. building",
+              "D. builds"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "is going to be 後需要過去分詞；build 的過去分詞是 built。"
+          },
+          {
+            "id": "m3-2-u3-q020",
+            "question": "All the bags ___ checked already, so we can leave now.",
+            "options": [
+              "A. has been",
+              "B. have",
+              "C. having",
+              "D. have been"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "already 與可以離開的結果表示檢查已完成；bags 為複數，用 have been checked。"
+          },
+          {
+            "id": "m3-2-u3-q021",
+            "question": "The missing puppy ___ been found, and its owner is very happy.",
+            "options": [
+              "A. have",
+              "B. has",
+              "C. is",
+              "D. does"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "puppy 是單數第三人稱；現在完成式被動為 has been found。"
+          },
+          {
+            "id": "m3-2-u3-q022",
+            "question": "This pot has never ___ used. It is still new.",
+            "options": [
+              "A. be",
+              "B. being",
+              "C. been",
+              "D. was"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "現在完成式被動需要 has + been + 過去分詞；never 放在 has 與 been 之間。"
+          },
+          {
+            "id": "m3-2-u3-q023",
+            "question": "A: Have the seeds been watered yet? B: No, they ___.",
+            "options": [
+              "A. hasn't",
+              "B. weren't",
+              "C. haven't",
+              "D. don't"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "問句以 Have 開頭，seeds 為複數；否定簡答用 they haven’t。"
+          },
+          {
+            "id": "m3-2-u3-q024",
+            "question": "___ the fan been repaired yet? It still makes a loud noise.",
+            "options": [
+              "A. Has",
+              "B. Have",
+              "C. Is",
+              "D. Did"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "been repaired 與 yet 對應現在完成式被動；fan 是單數，因此用 Has 前置成問句。"
+          },
+          {
+            "id": "m3-2-u3-q025",
+            "question": "The bridge has been ___ by many visitors this year.",
+            "options": [
+              "A. photograph",
+              "B. photographing",
+              "C. photographed",
+              "D. photographs"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "has been 後接過去分詞，表示橋已被許多遊客拍攝；因此用 photographed。"
+          },
+          {
+            "id": "m3-2-u3-q026",
+            "question": "Listen! A new song is ___ sung in the next room.",
+            "options": [
+              "A. being",
+              "B. been",
+              "C. be",
+              "D. was"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "Listen 提示正在發生；is being sung 是現在進行式被動，been 用於完成式。"
+          },
+          {
+            "id": "m3-2-u3-q027",
+            "question": "Workers are fixing the road right now. It ___ repaired at the moment.",
+            "options": [
+              "A. is being",
+              "B. has",
+              "C. is been",
+              "D. does"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "前句明說工人正在修路；road 承受修理動作，用 is being repaired。"
+          },
+          {
+            "id": "m3-2-u3-q028",
+            "question": "The wall was being ___ when we arrived at the senior center.",
+            "options": [
+              "A. paint",
+              "B. painting",
+              "C. painted",
+              "D. paints"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "was being 後仍須接過去分詞 painted，表示到達時牆正在上漆。"
+          },
+          {
+            "id": "m3-2-u3-q029",
+            "question": "A: Is the bench being painted now? B: Yes, it ___.",
+            "options": [
+              "A. does",
+              "B. is",
+              "C. has",
+              "D. was"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "現在進行式被動問句以 Is 開頭，肯定簡答保留 is。"
+          },
+          {
+            "id": "m3-2-u3-q030",
+            "question": "When I came in, the seeds ___ being put into small bags.",
+            "options": [
+              "A. were",
+              "B. was",
+              "C. have",
+              "D. be"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "came in 表示過去的時點；seeds 為複數，過去進行式被動用 were being put。"
+          },
+          {
+            "id": "m3-2-u3-q031",
+            "question": "The dirty basket needs ___ before we put fruit in it.",
+            "options": [
+              "A. to wash",
+              "B. to be washed",
+              "C. be washing",
+              "D. to washing"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "basket 是需要被洗的物品；need to be + 過去分詞，選 to be washed。"
+          },
+          {
+            "id": "m3-2-u3-q032",
+            "question": "The little boy hopes ___ for the school tennis team.",
+            "options": [
+              "A. to choose",
+              "B. be choosing",
+              "C. to be chosen",
+              "D. to choosing"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "男孩希望被選進校隊；hope 後用 to V，此處用被動不定詞 to be chosen。"
+          },
+          {
+            "id": "m3-2-u3-q033",
+            "question": "She doesn't enjoy ___ about her missing wallet again and again.",
+            "options": [
+              "A. be asked",
+              "B. being asked",
+              "C. been asked",
+              "D. to asking"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "enjoy 後接動名詞；她是被反覆詢問的人，因此用 being asked。"
+          },
+          {
+            "id": "m3-2-u3-q034",
+            "question": "The man walked out without ___ by anyone.",
+            "options": [
+              "A. been noticed",
+              "B. to be noticed",
+              "C. being noticed",
+              "D. notice"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "without 是介系詞，後接動名詞；男子沒被人注意，用 being noticed。"
+          },
+          {
+            "id": "m3-2-u3-q035",
+            "question": "The glass needs to be ___ before we add hot water.",
+            "options": [
+              "A. check",
+              "B. checking",
+              "C. checked",
+              "D. checks"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "to be 後接過去分詞 checked，表示玻璃杯需要被檢查。"
+          },
+          {
+            "id": "m3-2-u3-q036",
+            "question": "The boy was seen ___ across the bridge with his dog.",
+            "options": [
+              "A. run",
+              "B. ran",
+              "C. runs",
+              "D. running"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "感官動詞改被動可保留 V-ing；選項中只有 running 符合。若使用 run，前面必須有 to。"
+          },
+          {
+            "id": "m3-2-u3-q037",
+            "question": "The puppy was heard ___ in the yard last night.",
+            "options": [
+              "A. bark",
+              "B. to bark",
+              "C. barked",
+              "D. barks"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "感官動詞主動句接原形動詞，改成 was heard 的被動時需補 to，因此選 to bark。"
+          },
+          {
+            "id": "m3-2-u3-q038",
+            "question": "I saw the hungry puppy ___ a bowl of milk by a volunteer.",
+            "options": [
+              "A. given",
+              "B. give",
+              "C. giving",
+              "D. gives"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "幼犬是被給牛奶的對象，志工是動作者；see + 受詞 + 過去分詞，選 given。"
+          },
+          {
+            "id": "m3-2-u3-q039",
+            "question": "During the game, the students were made ___ behind the line.",
+            "options": [
+              "A. to stand",
+              "B. stand",
+              "C. stood",
+              "D. standing"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "make 的被動結構是 be made to V；were made 後要用 to stand。"
+          },
+          {
+            "id": "m3-2-u3-q040",
+            "question": "Before our trip, Dad had the car ___ by a mechanic.",
+            "options": [
+              "A. check",
+              "B. checking",
+              "C. checked",
+              "D. checks"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "car 是被技師檢查的物品；have + 物 + 過去分詞，用 checked。"
+          },
+          {
+            "id": "m3-2-u3-q041",
+            "question": "Mother made us ___ the empty pots inside before the storm.",
+            "options": [
+              "A. to carry",
+              "B. carried",
+              "C. carrying",
+              "D. carry"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "這是主動使役句 make + 人 + 原形動詞，所以用 carry；只有 be made 的被動才補 to。"
+          },
+          {
+            "id": "m3-2-u3-q042",
+            "question": "The window got ___ when a ball hit it.",
+            "options": [
+              "A. broken",
+              "B. break",
+              "C. broke",
+              "D. breaking"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "got + 過去分詞可以表示口語被動；break 的過去分詞是 broken，broke 是過去式。"
+          },
+          {
+            "id": "m3-2-u3-q043",
+            "question": "A free lunch ___ to each person at the senior center yesterday.",
+            "options": [
+              "A. gave",
+              "B. was giving",
+              "C. has given",
+              "D. was given"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "lunch 是被提供的單數主詞，yesterday 表過去；用 was given，後面保留 to each person。"
+          },
+          {
+            "id": "m3-2-u3-q044",
+            "question": "Several children ___ new tennis rackets by the coach last week.",
+            "options": [
+              "A. was given",
+              "B. gave",
+              "C. giving",
+              "D. were given"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "children 是複數且接受球拍；last week 表過去，因此用 were given。"
+          },
+          {
+            "id": "m3-2-u3-q045",
+            "question": "The children gave some seeds to the old man. Some seeds ___ to him.",
+            "options": [
+              "A. was given",
+              "B. were given",
+              "C. gave",
+              "D. were giving"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "前句說孩子把種子給老人；後句以複數 seeds 為主詞，轉成 were given。"
+          },
+          {
+            "id": "m3-2-u3-q046",
+            "question": "As part of their weekly routine, volunteers ___ meals at the senior center every Sunday.",
+            "options": [
+              "A. cooks",
+              "B. are cooked",
+              "C. cook",
+              "D. cooking"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "volunteers 是煮飯的動作者，且為複數；習慣性的主動現在式用 cook，不用被動 are cooked。"
+          },
+          {
+            "id": "m3-2-u3-q047",
+            "question": "Meals ___ by the volunteers every Sunday.",
+            "options": [
+              "A. cook",
+              "B. is cooked",
+              "C. cooking",
+              "D. are cooked"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "meals 是被煮的複數主詞；every Sunday 表習慣，用 are cooked。"
+          },
+          {
+            "id": "m3-2-u3-q048",
+            "question": "A: What happened to your toe? B: It ___ by a heavy pot that fell from the table this morning.",
+            "options": [
+              "A. hurt",
+              "B. was hurting",
+              "C. has hurt",
+              "D. was hurt"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "it 指腳趾，是被掉落的鍋子弄傷的；描述過去事故，用 was hurt。"
+          },
+          {
+            "id": "m3-2-u3-q049",
+            "question": "The heavy rain ___ the old bridge last night.",
+            "options": [
+              "A. damaged",
+              "B. was damaged",
+              "C. were damaged",
+              "D. damaging"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "rain 是造成損害的動作者，bridge 是受詞；last night 用主動過去式 damaged。"
+          },
+          {
+            "id": "m3-2-u3-q050",
+            "question": "The note was ___ on the back of an old card.",
+            "options": [
+              "A. write",
+              "B. wrote",
+              "C. written",
+              "D. writing"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "note 是被寫下的；was 後需要 write 的過去分詞 written，不是過去式 wrote。"
+          }
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          {
+            "id": "m3-2-u3-sv001",
+            "vocab_id": "m3-2-u3-v001",
+            "sentence": "The senior center is cleaned every day.",
+            "sentence_chinese": "這間樂齡中心每天都有人打掃。"
+          },
+          {
+            "id": "m3-2-u3-sv002",
+            "vocab_id": "m3-2-u3-v002",
+            "sentence": "It is a pleasure to be invited.",
+            "sentence_chinese": "受邀讓人感到榮幸。"
+          },
+          {
+            "id": "m3-2-u3-sv003",
+            "vocab_id": "m3-2-u3-v003",
+            "sentence": "The man was attacked by a dog.",
+            "sentence_chinese": "那名男子被一隻狗攻擊。"
+          },
+          {
+            "id": "m3-2-u3-sv004",
+            "vocab_id": "m3-2-u3-v004",
+            "sentence": "His toe was hurt in the game.",
+            "sentence_chinese": "他的腳趾在比賽中受傷了。"
+          },
+          {
+            "id": "m3-2-u3-sv005",
+            "vocab_id": "m3-2-u3-v005",
+            "sentence": "The bridge was built ten years ago.",
+            "sentence_chinese": "這座橋建於十年前。"
+          },
+          {
+            "id": "m3-2-u3-sv006",
+            "vocab_id": "m3-2-u3-v006",
+            "sentence": "The glass was dropped on the floor.",
+            "sentence_chinese": "那個玻璃杯被弄掉到地板上。"
+          },
+          {
+            "id": "m3-2-u3-sv007",
+            "vocab_id": "m3-2-u3-v007",
+            "sentence": "Smoke was seen near the bridge.",
+            "sentence_chinese": "有人看見橋附近有煙霧。"
+          },
+          {
+            "id": "m3-2-u3-sv008",
+            "vocab_id": "m3-2-u3-v008",
+            "sentence": "The puppy was saved by a boy.",
+            "sentence_chinese": "那隻幼犬被一個男孩救了。"
+          },
+          {
+            "id": "m3-2-u3-sv009",
+            "vocab_id": "m3-2-u3-v009",
+            "sentence": "A table was put in the middle of the room.",
+            "sentence_chinese": "有人把一張桌子放在房間中央。"
+          },
+          {
+            "id": "m3-2-u3-sv010",
+            "vocab_id": "m3-2-u3-v010",
+            "sentence": "These bags must be carried carefully.",
+            "sentence_chinese": "這些袋子必須小心搬運。"
+          },
+          {
+            "id": "m3-2-u3-sv011",
+            "vocab_id": "m3-2-u3-v011",
+            "sentence": "A note was left on my desk.",
+            "sentence_chinese": "有人在我的桌上留了一張紙條。"
+          },
+          {
+            "id": "m3-2-u3-sv012",
+            "vocab_id": "m3-2-u3-v012",
+            "sentence": "My wallet was found under the bench.",
+            "sentence_chinese": "我的錢包在長椅底下被找到了。"
+          },
+          {
+            "id": "m3-2-u3-sv013",
+            "vocab_id": "m3-2-u3-v013",
+            "sentence": "The key was put in his pocket.",
+            "sentence_chinese": "那把鑰匙被放進他的口袋裡。"
+          },
+          {
+            "id": "m3-2-u3-sv014",
+            "vocab_id": "m3-2-u3-v014",
+            "sentence": "We prayed that the puppy would be saved.",
+            "sentence_chinese": "我們祈禱那隻幼犬會獲救。"
+          },
+          {
+            "id": "m3-2-u3-sv015",
+            "vocab_id": "m3-2-u3-v015",
+            "sentence": "The old bridge was blown up.",
+            "sentence_chinese": "那座舊橋被炸毀了。"
+          },
+          {
+            "id": "m3-2-u3-sv016",
+            "vocab_id": "m3-2-u3-v016",
+            "sentence": "The puppy was seen lying on the grass.",
+            "sentence_chinese": "有人看見那隻幼犬躺在草地上。"
+          },
+          {
+            "id": "m3-2-u3-sv017",
+            "vocab_id": "m3-2-u3-v017",
+            "sentence": "The boy was saved in time.",
+            "sentence_chinese": "那個男孩及時獲救了。"
+          },
+          {
+            "id": "m3-2-u3-sv018",
+            "vocab_id": "m3-2-u3-v018",
+            "sentence": "This area must be kept clean.",
+            "sentence_chinese": "這個區域必須保持乾淨。"
+          },
+          {
+            "id": "m3-2-u3-sv019",
+            "vocab_id": "m3-2-u3-v019",
+            "sentence": "The glue was used to fix the toy.",
+            "sentence_chinese": "有人用這些膠水修理玩具。"
+          },
+          {
+            "id": "m3-2-u3-sv020",
+            "vocab_id": "m3-2-u3-v020",
+            "sentence": "The photos were pasted on the wall.",
+            "sentence_chinese": "那些照片被貼在牆上。"
+          },
+          {
+            "id": "m3-2-u3-sv021",
+            "vocab_id": "m3-2-u3-v021",
+            "sentence": "The yard has already been cleaned.",
+            "sentence_chinese": "庭院已經打掃好了。"
+          },
+          {
+            "id": "m3-2-u3-sv022",
+            "vocab_id": "m3-2-u3-v022",
+            "sentence": "The broken pipe will be fixed tomorrow.",
+            "sentence_chinese": "那根壞掉的水管明天會有人修理。"
+          },
+          {
+            "id": "m3-2-u3-sv023",
+            "vocab_id": "m3-2-u3-v023",
+            "sentence": "The bench is being painted now.",
+            "sentence_chinese": "這張長椅現在正在上漆。"
+          },
+          {
+            "id": "m3-2-u3-sv024",
+            "vocab_id": "m3-2-u3-v024",
+            "sentence": "Badminton is played in our school every Friday.",
+            "sentence_chinese": "我們學校每星期五都有人打羽毛球。"
+          },
+          {
+            "id": "m3-2-u3-sv025",
+            "vocab_id": "m3-2-u3-v025",
+            "sentence": "Tennis can be played here after school.",
+            "sentence_chinese": "放學後可以在這裡打網球。"
+          },
+          {
+            "id": "m3-2-u3-sv026",
+            "vocab_id": "m3-2-u3-v026",
+            "sentence": "The slide must be checked before use.",
+            "sentence_chinese": "這座滑梯使用前必須檢查。"
+          },
+          {
+            "id": "m3-2-u3-sv027",
+            "vocab_id": "m3-2-u3-v027",
+            "sentence": "The seesaw was fixed yesterday.",
+            "sentence_chinese": "這座翹翹板昨天修好了。"
+          },
+          {
+            "id": "m3-2-u3-sv028",
+            "vocab_id": "m3-2-u3-v028",
+            "sentence": "The swing has been used by many children.",
+            "sentence_chinese": "這座鞦韆已經有很多小朋友使用過。"
+          },
+          {
+            "id": "m3-2-u3-sv029",
+            "vocab_id": "m3-2-u3-v029",
+            "sentence": "These tools should be kept in the box.",
+            "sentence_chinese": "這些工具應該放在箱子裡。"
+          },
+          {
+            "id": "m3-2-u3-sv030",
+            "vocab_id": "m3-2-u3-v030",
+            "sentence": "The pot was washed after dinner.",
+            "sentence_chinese": "晚餐後，鍋子被洗乾淨了。"
+          },
+          {
+            "id": "m3-2-u3-sv031",
+            "vocab_id": "m3-2-u3-v031",
+            "sentence": "The seeds were planted in the yard.",
+            "sentence_chinese": "這些種子被種在庭院裡。"
+          },
+          {
+            "id": "m3-2-u3-sv032",
+            "vocab_id": "m3-2-u3-v032",
+            "sentence": "The basket is filled with fruit.",
+            "sentence_chinese": "籃子裡裝滿了水果。"
+          },
+          {
+            "id": "m3-2-u3-sv033",
+            "vocab_id": "m3-2-u3-v033",
+            "sentence": "The cookies were baked by my sister.",
+            "sentence_chinese": "這些餅乾是我姊姊烤的。"
+          },
+          {
+            "id": "m3-2-u3-sv034",
+            "vocab_id": "m3-2-u3-v034",
+            "sentence": "A pack of cards was found in the box.",
+            "sentence_chinese": "有人在箱子裡找到一副紙牌。"
+          },
+          {
+            "id": "m3-2-u3-sv035",
+            "vocab_id": "m3-2-u3-v035",
+            "sentence": "The fan has not been turned on yet.",
+            "sentence_chinese": "這台風扇還沒開。"
+          },
+          {
+            "id": "m3-2-u3-sv036",
+            "vocab_id": "m3-2-u3-v036",
+            "sentence": "A notice was put on the door.",
+            "sentence_chinese": "門上貼了一張告示。"
+          },
+          {
+            "id": "m3-2-u3-sv037",
+            "vocab_id": "m3-2-u3-v037",
+            "sentence": "Gas is used for cooking in this house.",
+            "sentence_chinese": "這個家用瓦斯煮飯。"
+          },
+          {
+            "id": "m3-2-u3-sv038",
+            "vocab_id": "m3-2-u3-v038",
+            "sentence": "A modern school will be built here.",
+            "sentence_chinese": "這裡將興建一所現代化的學校。"
+          },
+          {
+            "id": "m3-2-u3-sv039",
+            "vocab_id": "m3-2-u3-v039",
+            "sentence": "The program has been watched by many students.",
+            "sentence_chinese": "很多學生已經看過這個節目。"
+          },
+          {
+            "id": "m3-2-u3-sv040",
+            "vocab_id": "m3-2-u3-v040",
+            "sentence": "The other side of the wall was painted blue.",
+            "sentence_chinese": "牆的另一面被漆成藍色。"
+          },
+          {
+            "id": "m3-2-u3-sv041",
+            "vocab_id": "m3-2-u3-v041",
+            "sentence": "The wallet was left somewhere in the house.",
+            "sentence_chinese": "錢包被遺留在屋內某處。"
+          },
+          {
+            "id": "m3-2-u3-sv042",
+            "vocab_id": "m3-2-u3-v042",
+            "sentence": "The missing puppy has been found.",
+            "sentence_chinese": "那隻失蹤的幼犬已經找到了。"
+          },
+          {
+            "id": "m3-2-u3-sv043",
+            "vocab_id": "m3-2-u3-v043",
+            "sentence": "The boy was cheered up by his friends.",
+            "sentence_chinese": "那個男孩在朋友的鼓勵下振作起來。"
+          }
+        ],
+        "phrases": [
+          {
+            "id": "m3-2-u3-sp001",
+            "phrase_id": "m3-2-u3-p001",
+            "sentence": "The old bridge was blown up.",
+            "sentence_chinese": "那座舊橋被炸毀了。"
+          },
+          {
+            "id": "m3-2-u3-sp002",
+            "phrase_id": "m3-2-u3-p002",
+            "sentence": "The boy was saved in time.",
+            "sentence_chinese": "那個男孩及時獲救了。"
+          },
+          {
+            "id": "m3-2-u3-sp003",
+            "phrase_id": "m3-2-u3-p003",
+            "sentence": "The boy was cheered up by his friends.",
+            "sentence_chinese": "那個男孩在朋友的鼓勵下振作起來。"
+          }
+        ],
+        "grammar": [
+          {
+            "id": "m3-2-u3-sg001",
+            "sentence": "The old bridge was repaired after the storm.",
+            "sentence_chinese": "那座舊橋在暴風雨後修好了。"
+          },
+          {
+            "id": "m3-2-u3-sg002",
+            "sentence": "These seeds are planted in small pots every spring.",
+            "sentence_chinese": "這些種子每年春天都種在小盆子裡。"
+          },
+          {
+            "id": "m3-2-u3-sg003",
+            "sentence": "Was your wallet found near the senior center?",
+            "sentence_chinese": "你的錢包是在樂齡中心附近找到的嗎？"
+          },
+          {
+            "id": "m3-2-u3-sg004",
+            "sentence": "The heavy bench must be carried by two people.",
+            "sentence_chinese": "這張沉重的長椅必須由兩個人搬運。"
+          },
+          {
+            "id": "m3-2-u3-sg005",
+            "sentence": "Our missing puppy has finally been found.",
+            "sentence_chinese": "我們失蹤的幼犬終於找到了。"
+          },
+          {
+            "id": "m3-2-u3-sg006",
+            "sentence": "The broken pipe is being fixed right now.",
+            "sentence_chinese": "壞掉的水管現在正在修理。"
+          },
+          {
+            "id": "m3-2-u3-sg007",
+            "sentence": "A note was not left in my pocket.",
+            "sentence_chinese": "我的口袋裡沒有被留下紙條。"
+          },
+          {
+            "id": "m3-2-u3-sg008",
+            "sentence": "Can these photos be pasted on the wall?",
+            "sentence_chinese": "這些照片可以貼在牆上嗎？"
+          },
+          {
+            "id": "m3-2-u3-sg009",
+            "sentence": "The yard has not been cleaned yet.",
+            "sentence_chinese": "庭院還沒打掃。"
+          },
+          {
+            "id": "m3-2-u3-sg010",
+            "sentence": "We were made to move the heavy tools.",
+            "sentence_chinese": "我們被要求搬動那些沉重的工具。"
+          },
+          {
+            "id": "m3-2-u3-sg011",
+            "sentence": "The boy was seen to climb over the wall.",
+            "sentence_chinese": "有人看見那個男孩爬過牆。"
+          },
+          {
+            "id": "m3-2-u3-sg012",
+            "sentence": "The windows need to be washed before the party.",
+            "sentence_chinese": "窗戶需要在派對前清洗。"
+          },
+          {
+            "id": "m3-2-u3-sg013",
+            "sentence": "The puppies are being fed by the children.",
+            "sentence_chinese": "孩子們正在餵幼犬。"
+          },
+          {
+            "id": "m3-2-u3-sg014",
+            "sentence": "The seeds will be put in this basket.",
+            "sentence_chinese": "種子將被放進這個籃子裡。"
+          },
+          {
+            "id": "m3-2-u3-sg015",
+            "sentence": "Has the new fan been tested yet?",
+            "sentence_chinese": "新風扇已經測試過了嗎？"
+          },
+          {
+            "id": "m3-2-u3-sg016",
+            "sentence": "The little girl was heard singing in the yard.",
+            "sentence_chinese": "有人聽到小女孩在庭院裡唱歌。"
+          },
+          {
+            "id": "m3-2-u3-sg017",
+            "sentence": "Our dog was given some food by the boy.",
+            "sentence_chinese": "那個男孩給了我們的狗一些食物。"
+          },
+          {
+            "id": "m3-2-u3-sg018",
+            "sentence": "She enjoys being invited to play badminton with friends.",
+            "sentence_chinese": "她喜歡受邀和朋友一起打羽毛球。"
+          },
+          {
+            "id": "m3-2-u3-sg019",
+            "sentence": "This modern building was built by local workers.",
+            "sentence_chinese": "這棟現代化建築是當地工人蓋的。"
+          },
+          {
+            "id": "m3-2-u3-sg020",
+            "sentence": "The slide is going to be painted tomorrow.",
+            "sentence_chinese": "這座滑梯明天將會上漆。"
+          },
+          {
+            "id": "m3-2-u3-sg021",
+            "sentence": "These tools have never been used before.",
+            "sentence_chinese": "這些工具以前從未被使用過。"
+          },
+          {
+            "id": "m3-2-u3-sg022",
+            "sentence": "I had my old tennis racket repaired yesterday.",
+            "sentence_chinese": "我昨天請人修好了舊網球拍。"
+          },
+          {
+            "id": "m3-2-u3-sg023",
+            "sentence": "The puppy was not hurt in the attack.",
+            "sentence_chinese": "那隻幼犬沒有在這次攻擊中受傷。"
+          },
+          {
+            "id": "m3-2-u3-sg024",
+            "sentence": "Are these cookies baked here every morning?",
+            "sentence_chinese": "這些餅乾每天早上都在這裡烘烤嗎？"
+          },
+          {
+            "id": "m3-2-u3-sg025",
+            "sentence": "The old pot can be used to hold seeds.",
+            "sentence_chinese": "這個舊盆子可以用來裝種子。"
+          },
+          {
+            "id": "m3-2-u3-sg026",
+            "sentence": "He left without being noticed by the teacher.",
+            "sentence_chinese": "他離開時沒有被老師注意到。"
+          },
+          {
+            "id": "m3-2-u3-sg027",
+            "sentence": "A warm meal was given to each guest.",
+            "sentence_chinese": "每位客人都得到了一份熱騰騰的餐點。"
+          },
+          {
+            "id": "m3-2-u3-sg028",
+            "sentence": "The bridge was being checked when we arrived.",
+            "sentence_chinese": "我們到達時，那座橋正在接受檢查。"
+          },
+          {
+            "id": "m3-2-u3-sg029",
+            "sentence": "The missing wallet should be returned to its owner.",
+            "sentence_chinese": "那個遺失的錢包應該歸還給失主。"
+          },
+          {
+            "id": "m3-2-u3-sg030",
+            "sentence": "Several windows got broken during the storm last night.",
+            "sentence_chinese": "昨晚暴風雨期間有幾扇窗戶被打破了。"
+          }
+        ]
+      },
+      "cloze_quiz": [
+        {
+          "id": "m3-2-u3-cq001",
+          "question": "This place offers meals and classes especially for older adults. It is a ___.",
+          "options": [
+            "police station",
+            "train station",
+            "post office",
+            "senior center"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "提供長者餐點和課程的地方是 senior center（樂齡中心）。",
+          "vocab_id": "m3-2-u3-v001",
+          "sentence_chinese": "這個地方特別為長者提供餐點與課程，是一間樂齡中心。"
+        },
+        {
+          "id": "m3-2-u3-cq002",
+          "question": "It is a great ___ to work with you. I really enjoy our time together.",
+          "options": [
+            "pleasure",
+            "danger",
+            "problem",
+            "mistake"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "後句說很享受相處時間，因此是 pleasure（愉快；榮幸），不是危險、問題或錯誤。",
+          "vocab_id": "m3-2-u3-v002",
+          "sentence_chinese": "能和你一起工作讓人很愉快。我很享受我們共處的時間。"
+        },
+        {
+          "id": "m3-2-u3-cq003",
+          "question": "The dog may ___ if someone tries to hurt its puppies.",
+          "options": [
+            "attack",
+            "bake",
+            "paste",
+            "pack"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "有人想傷害幼犬時，母狗可能會 attack（攻擊）來保護牠們。",
+          "vocab_id": "m3-2-u3-v003",
+          "sentence_chinese": "如果有人試圖傷害牠的幼犬，這隻狗可能會攻擊。"
+        },
+        {
+          "id": "m3-2-u3-cq004",
+          "question": "A shoe that is too tight can hurt the big ___ on your foot.",
+          "options": [
+            "toe",
+            "ear",
+            "knee",
+            "hand"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "foot 上、會被鞋子壓到的是 toe（腳趾）。",
+          "vocab_id": "m3-2-u3-v004",
+          "sentence_chinese": "太緊的鞋子可能會傷到你腳上的大拇趾。"
+        },
+        {
+          "id": "m3-2-u3-cq005",
+          "question": "The river is too deep to walk across, so we use the ___ to reach the other side.",
+          "options": [
+            "bench",
+            "pocket",
+            "bridge",
+            "fan"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "用來跨越河流、抵達對岸的是 bridge（橋）。",
+          "vocab_id": "m3-2-u3-v005",
+          "sentence_chinese": "河水太深，無法徒步涉過，所以我們利用橋到對岸。"
+        },
+        {
+          "id": "m3-2-u3-cq006",
+          "question": "Please don't ___ the bowl. It may break when it hits the floor.",
+          "options": [
+            "fill",
+            "drop",
+            "wash",
+            "paint"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "後句提到碗落地可能破掉，因此前句要提醒不要 drop（使落下；丟下）。",
+          "vocab_id": "m3-2-u3-v006",
+          "sentence_chinese": "請不要把碗弄掉，它撞到地板時可能會破。"
+        },
+        {
+          "id": "m3-2-u3-cq007",
+          "question": "Black ___ rose from the fire and made it hard to see.",
+          "options": [
+            "smoke",
+            "glue",
+            "sand",
+            "snow"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "從火中升起、遮住視線的是 smoke（煙霧）。",
+          "vocab_id": "m3-2-u3-v007",
+          "sentence_chinese": "黑煙從火中升起，讓人難以看清楚。"
+        },
+        {
+          "id": "m3-2-u3-cq008",
+          "question": "Our dog gave birth last month. This little ___ is only four weeks old.",
+          "options": [
+            "kitten",
+            "lamb",
+            "puppy",
+            "duckling"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "前句說狗生了寶寶，狗的幼獸叫 puppy（幼犬），不是其他動物的寶寶。",
+          "vocab_id": "m3-2-u3-v008",
+          "sentence_chinese": "我們的狗上個月生了寶寶，這隻幼犬只有四週大。"
+        },
+        {
+          "id": "m3-2-u3-cq009",
+          "question": "There are five chairs in a row. The third chair is in the ___.",
+          "options": [
+            "front",
+            "middle",
+            "back",
+            "corner"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "五張椅子排成一列，第三張在 middle（中間）。",
+          "vocab_id": "m3-2-u3-v009",
+          "sentence_chinese": "五張椅子排成一列，第三張在中間。"
+        },
+        {
+          "id": "m3-2-u3-cq010",
+          "question": "This box is too heavy for the child to ___. Can you lift it for him?",
+          "options": [
+            "open",
+            "close",
+            "paint",
+            "carry"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "heavy 與 lift 提示搬運重量的問題，因此用 carry（攜帶；搬運）。",
+          "vocab_id": "m3-2-u3-v010",
+          "sentence_chinese": "這個箱子太重，小孩搬不動。你能幫他提起來嗎？"
+        },
+        {
+          "id": "m3-2-u3-cq011",
+          "question": "I wrote \"Back at six\" on a small piece of paper and left the ___ on the table.",
+          "options": [
+            "wallet",
+            "tool",
+            "note",
+            "seed"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "寫著簡短訊息的小紙片是 note（紙條）。",
+          "vocab_id": "m3-2-u3-v011",
+          "sentence_chinese": "我在一張小紙片上寫「六點回來」，並把紙條放在桌上。"
+        },
+        {
+          "id": "m3-2-u3-cq012",
+          "question": "I keep my money and bank cards in a small leather ___.",
+          "options": [
+            "pipe",
+            "tool",
+            "wallet",
+            "pot"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "用來放錢與銀行卡的小皮件是 wallet（錢包）。",
+          "vocab_id": "m3-2-u3-v012",
+          "sentence_chinese": "我把錢和銀行卡放在一個小皮錢包裡。"
+        },
+        {
+          "id": "m3-2-u3-cq013",
+          "question": "He put the coin into the small ___ on the front of his shirt.",
+          "options": [
+            "yard",
+            "pocket",
+            "bench",
+            "bridge"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "襯衫前面可以放硬幣的小袋子是 pocket（口袋）。",
+          "vocab_id": "m3-2-u3-v013",
+          "sentence_chinese": "他把硬幣放進襯衫前面的小口袋。"
+        },
+        {
+          "id": "m3-2-u3-cq014",
+          "question": "When their child was sick, the parents went to church to ___ for her.",
+          "options": [
+            "bake",
+            "paste",
+            "pray",
+            "pack"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "孩子生病時父母到教堂為她 pray（祈禱）。",
+          "vocab_id": "m3-2-u3-v014",
+          "sentence_chinese": "孩子生病時，父母到教堂為她祈禱。"
+        },
+        {
+          "id": "m3-2-u3-cq015",
+          "question": "Stay away from that bomb. It could ___ at any moment.",
+          "options": [
+            "blow up",
+            "lie down",
+            "cheer up",
+            "check in"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "炸彈可能隨時 blow up（爆炸），所以要遠離。",
+          "vocab_id": "m3-2-u3-v015",
+          "sentence_chinese": "遠離那顆炸彈，它隨時可能爆炸。"
+        },
+        {
+          "id": "m3-2-u3-cq016",
+          "question": "You look tired. You can ___ down on this bed for a while.",
+          "options": [
+            "stand",
+            "jump",
+            "walk",
+            "lie"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "疲倦時可以在床上 lie down（躺下）休息；lie 在本課是躺、臥。",
+          "vocab_id": "m3-2-u3-v016",
+          "sentence_chinese": "你看起來很累，可以在這張床上躺一會兒。"
+        },
+        {
+          "id": "m3-2-u3-cq017",
+          "question": "We saved the puppy ___. A few more seconds in the water would have killed it.",
+          "options": [
+            "too late",
+            "at birth",
+            "in time",
+            "from now on"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "再晚幾秒幼犬就可能死亡，可見救援是 in time（及時）。",
+          "vocab_id": "m3-2-u3-v017",
+          "sentence_chinese": "我們及時救了幼犬；牠再多待在水中幾秒鐘就可能死去。"
+        },
+        {
+          "id": "m3-2-u3-cq018",
+          "question": "Only workers may enter this ___. Everyone else must stay outside the fence.",
+          "options": [
+            "pleasure",
+            "seed",
+            "area",
+            "note"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "有圍欄並限制進入的範圍是 area（區域）。",
+          "vocab_id": "m3-2-u3-v018",
+          "sentence_chinese": "只有工人可以進入這個區域，其他人必須留在圍欄外。"
+        },
+        {
+          "id": "m3-2-u3-cq019",
+          "question": "The paper pieces won't stick together. Please bring some ___.",
+          "options": [
+            "gas",
+            "smoke",
+            "glue",
+            "rain"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "要把紙片黏在一起，需要 glue（膠水）。",
+          "vocab_id": "m3-2-u3-v019",
+          "sentence_chinese": "這些紙片黏不起來，請拿一些膠水過來。"
+        },
+        {
+          "id": "m3-2-u3-cq020",
+          "question": "Let's ___ these paper stars onto the card with glue.",
+          "options": [
+            "drop",
+            "notice",
+            "carry",
+            "paste"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "with glue 和 onto the card 表示把紙星星 paste（黏貼）在卡片上。",
+          "vocab_id": "m3-2-u3-v020",
+          "sentence_chinese": "我們用膠水把這些紙星星貼到卡片上吧。"
+        },
+        {
+          "id": "m3-2-u3-cq021",
+          "question": "The children are playing in the fenced ___ behind our house.",
+          "options": [
+            "roof",
+            "ceiling",
+            "pocket",
+            "yard"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "房子後方有圍欄、可以玩耍的戶外空間是 yard（庭院）。",
+          "vocab_id": "m3-2-u3-v021",
+          "sentence_chinese": "孩子們正在我們家後方有圍欄的庭院裡玩耍。"
+        },
+        {
+          "id": "m3-2-u3-cq022",
+          "question": "This ___ carries water from the street into our house.",
+          "options": [
+            "bench",
+            "fan",
+            "basket",
+            "pipe"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "把水從街道輸送進屋內的是 pipe（水管）。",
+          "vocab_id": "m3-2-u3-v022",
+          "sentence_chinese": "這根水管把水從街道輸送進我們家。"
+        },
+        {
+          "id": "m3-2-u3-cq023",
+          "question": "The long ___ has a flat seat and a back, so three people can sit on it.",
+          "options": [
+            "pot",
+            "bench",
+            "pipe",
+            "fan"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "有椅面和椅背、能讓三個人一起坐的長椅是 bench。",
+          "vocab_id": "m3-2-u3-v023",
+          "sentence_chinese": "這張長椅有平坦的椅面和椅背，能讓三個人坐在上面。"
+        },
+        {
+          "id": "m3-2-u3-cq024",
+          "question": "They hit a shuttlecock over a net while playing ___.",
+          "options": [
+            "tennis",
+            "basketball",
+            "soccer",
+            "badminton"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "shuttlecock 指羽毛球；用球拍把它打過網是 badminton。",
+          "vocab_id": "m3-2-u3-v024",
+          "sentence_chinese": "他們打羽毛球時，把羽毛球擊過球網。"
+        },
+        {
+          "id": "m3-2-u3-cq025",
+          "question": "The players use rackets to hit a yellow ball over a net in ___.",
+          "options": [
+            "badminton",
+            "tennis",
+            "baseball",
+            "swimming"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "用球拍將黃色球擊過網的運動是 tennis（網球）。",
+          "vocab_id": "m3-2-u3-v025",
+          "sentence_chinese": "網球選手用球拍把黃色的球打過球網。"
+        },
+        {
+          "id": "m3-2-u3-cq026",
+          "question": "The child climbed up the steps and slid down the ___.",
+          "options": [
+            "bench",
+            "slide",
+            "swing",
+            "seesaw"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "先爬階梯、再往下滑的遊樂設施是 slide（滑梯）。",
+          "vocab_id": "m3-2-u3-v026",
+          "sentence_chinese": "那個孩子爬上階梯，再沿著滑梯滑下來。"
+        },
+        {
+          "id": "m3-2-u3-cq027",
+          "question": "Two children sat at opposite ends of the ___. As one went up, the other went down.",
+          "options": [
+            "bench",
+            "slide",
+            "seesaw",
+            "basket"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "兩端的孩子一上一下，是 seesaw（翹翹板）的玩法。",
+          "vocab_id": "m3-2-u3-v027",
+          "sentence_chinese": "兩個孩子坐在翹翹板的兩端，一個上升時，另一個就下降。"
+        },
+        {
+          "id": "m3-2-u3-cq028",
+          "question": "She sat on the seat hanging from two ropes and moved back and forth on the ___.",
+          "options": [
+            "bench",
+            "swing",
+            "seesaw",
+            "slide"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "由繩索吊起座位、能前後擺動的設施是 swing（鞦韆）。",
+          "vocab_id": "m3-2-u3-v028",
+          "sentence_chinese": "她坐在由兩條繩子吊起的座位上，盪著鞦韆前後擺動。"
+        },
+        {
+          "id": "m3-2-u3-cq029",
+          "question": "A hammer is a useful ___ for fixing a chair.",
+          "options": [
+            "seed",
+            "tool",
+            "program",
+            "pleasure"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "槌子是修理東西用的 tool（工具）。",
+          "vocab_id": "m3-2-u3-v029",
+          "sentence_chinese": "槌子是修理椅子時很好用的工具。"
+        },
+        {
+          "id": "m3-2-u3-cq030",
+          "question": "Mom is cooking soup in a large ___ on the stove.",
+          "options": [
+            "basket",
+            "pot",
+            "fan",
+            "wallet"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "在爐子上煮湯用的容器是 pot（鍋）。",
+          "vocab_id": "m3-2-u3-v030",
+          "sentence_chinese": "媽媽正在用爐子上的大鍋子煮湯。"
+        },
+        {
+          "id": "m3-2-u3-cq031",
+          "question": "Put this tiny ___ in the soil and water it. It may grow into a tree.",
+          "options": [
+            "seed",
+            "stone",
+            "coin",
+            "button"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "種進土裡、澆水後可能長成樹的是 seed（種子）。",
+          "vocab_id": "m3-2-u3-v031",
+          "sentence_chinese": "把這顆小種子放進土裡並澆水，它可能長成一棵樹。"
+        },
+        {
+          "id": "m3-2-u3-cq032",
+          "question": "She put the picked apples in a ___ with a handle and carried them home.",
+          "options": [
+            "pipe",
+            "fan",
+            "slide",
+            "basket"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "有提把、能裝採下來的蘋果並帶回家的是 basket（籃子）。",
+          "vocab_id": "m3-2-u3-v032",
+          "sentence_chinese": "她把摘下的蘋果放進有提把的籃子，再帶回家。"
+        },
+        {
+          "id": "m3-2-u3-cq033",
+          "question": "Mix the flour, eggs, and sugar, then ___ the cake in the oven.",
+          "options": [
+            "bake",
+            "carry",
+            "paste",
+            "notice"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "把蛋糕放進烤箱烘烤用 bake（烘焙）。",
+          "vocab_id": "m3-2-u3-v033",
+          "sentence_chinese": "混合麵粉、蛋和糖，再把蛋糕放進烤箱烘烤。"
+        },
+        {
+          "id": "m3-2-u3-cq034",
+          "question": "We need a ___ of cards to play this game.",
+          "options": [
+            "pair",
+            "slice",
+            "bottle",
+            "pack"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "a pack of cards 是一副紙牌；pack 在本課作名詞，表示一副或一包。",
+          "vocab_id": "m3-2-u3-v034",
+          "sentence_chinese": "玩這個遊戲需要一副紙牌。"
+        },
+        {
+          "id": "m3-2-u3-cq035",
+          "question": "It is hot, so turn on the electric ___ to move the air around.",
+          "options": [
+            "clock",
+            "oven",
+            "radio",
+            "fan"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "用來送風、讓空氣流動的是 fan（風扇）。",
+          "vocab_id": "m3-2-u3-v035",
+          "sentence_chinese": "天氣很熱，打開電風扇讓空氣流動吧。"
+        },
+        {
+          "id": "m3-2-u3-cq036",
+          "question": "Did you ___ that the door was open? I thought it was closed.",
+          "options": [
+            "notice",
+            "bake",
+            "pray",
+            "pack"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "注意到門開著用 notice；本題考它的動詞義「注意到」。",
+          "vocab_id": "m3-2-u3-v036",
+          "sentence_chinese": "你有注意到門開著嗎？我以為門關了。"
+        },
+        {
+          "id": "m3-2-u3-cq037",
+          "question": "This car runs on ___, so we must stop at a gas station before the tank is empty.",
+          "options": [
+            "glue",
+            "gas",
+            "juice",
+            "soup"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "車子使用的燃料、能在加油站補充的是 gas（汽油）。",
+          "vocab_id": "m3-2-u3-v037",
+          "sentence_chinese": "這輛車使用汽油，因此油箱空掉前我們得去加油站。"
+        },
+        {
+          "id": "m3-2-u3-cq038",
+          "question": "We replaced the old machines with ___ ones that use the latest technology.",
+          "options": [
+            "ancient",
+            "broken",
+            "modern",
+            "missing"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "使用最新科技的新機器是 modern（現代的），與 old machines 形成對比。",
+          "vocab_id": "m3-2-u3-v038",
+          "sentence_chinese": "我們用採用最新科技的現代機器替換了舊機器。"
+        },
+        {
+          "id": "m3-2-u3-cq039",
+          "question": "My favorite TV ___ is on at eight, so I'll watch it after dinner.",
+          "options": [
+            "seed",
+            "program",
+            "wallet",
+            "pipe"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "固定時間在電視播出的內容是 program（節目）。",
+          "vocab_id": "m3-2-u3-v039",
+          "sentence_chinese": "我最喜歡的電視節目八點播出，所以我會在晚餐後看。"
+        },
+        {
+          "id": "m3-2-u3-cq040",
+          "question": "Write your name on one ___ of the paper and draw a picture on the other.",
+          "options": [
+            "side",
+            "pack",
+            "gas",
+            "tool"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "紙張的一面用 side；另一面是 the other side。",
+          "vocab_id": "m3-2-u3-v040",
+          "sentence_chinese": "在紙的一面寫名字，另一面畫圖。"
+        },
+        {
+          "id": "m3-2-u3-cq041",
+          "question": "I know my glasses are ___ in this room, but I don't know exactly where.",
+          "options": [
+            "somewhere",
+            "nowhere",
+            "everywhere",
+            "anywhere"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "知道眼鏡在房內、但位置不明，用 somewhere（在某處）。nowhere 是無處，everywhere 是到處。",
+          "vocab_id": "m3-2-u3-v041",
+          "sentence_chinese": "我知道眼鏡在房間的某個地方，但不知道確切位置。"
+        },
+        {
+          "id": "m3-2-u3-cq042",
+          "question": "Our puppy is ___. We've looked all over the house but can't find it.",
+          "options": [
+            "modern",
+            "round",
+            "missing",
+            "empty"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "到處找卻找不到幼犬，表示牠 missing（失蹤的；找不到的）。",
+          "vocab_id": "m3-2-u3-v042",
+          "sentence_chinese": "我們的幼犬不見了。我們找遍整間屋子，還是找不到牠。"
+        },
+        {
+          "id": "m3-2-u3-cq043",
+          "question": "We hope these funny pictures will ___ our sad friend.",
+          "options": [
+            "cheer up",
+            "hand in",
+            "take off",
+            "put out"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "有趣的圖片希望讓傷心的朋友振作，使用 cheer up（使⋯振作起來）。",
+          "vocab_id": "m3-2-u3-v043",
+          "sentence_chinese": "我們希望這些有趣的圖片能讓傷心的朋友振作。"
+        }
+      ]
+    }
+  }
+}
