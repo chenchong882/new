@@ -5,1109 +5,1144 @@
       "vocab": [
         {
           "id": "m1-2-u3-v001",
-          "word": "chicken",
-          "chinese": "雞；雞肉",
-          "sentence": "The chickens were eating when I saw them.",
-          "sentence_chinese": "我看到那些雞時，牠們正在吃東西。",
-          "part_of_speech": "名"
+          "word": "living room",
+          "part_of_speech": "名",
+          "chinese": "客廳",
+          "sentence": "Dad is in the living room.",
+          "sentence_chinese": "爸爸在客廳裡。"
         },
         {
           "id": "m1-2-u3-v002",
-          "word": "ant",
-          "chinese": "螞蟻",
-          "sentence": "An ant was walking on the rock then.",
-          "sentence_chinese": "當時一隻螞蟻正在岩石上爬行。",
-          "part_of_speech": "名"
+          "word": "bedroom",
+          "part_of_speech": "名",
+          "chinese": "臥室",
+          "sentence": "My smartphone is in my bedroom.",
+          "sentence_chinese": "我的智慧型手機在我的臥室裡。"
         },
         {
           "id": "m1-2-u3-v003",
-          "word": "ugly",
-          "chinese": "醜陋的",
-          "sentence": "The ugly duck was swimming in the pool then.",
-          "sentence_chinese": "當時那隻醜小鴨正在水池裡游泳。",
-          "part_of_speech": "形"
+          "word": "bathroom",
+          "part_of_speech": "名",
+          "chinese": "浴室",
+          "sentence": "Is your brother in the bathroom?",
+          "sentence_chinese": "你弟弟在浴室裡嗎？"
         },
         {
           "id": "m1-2-u3-v004",
-          "word": "duck",
-          "chinese": "鴨子",
-          "sentence": "The ducks were swimming when we got there.",
-          "sentence_chinese": "我們到那裡時，那些鴨子正在游泳。",
-          "part_of_speech": "名"
+          "word": "dining room",
+          "part_of_speech": "名",
+          "chinese": "飯廳",
+          "sentence": "The chairs are in the dining room.",
+          "sentence_chinese": "那些椅子在飯廳裡。"
         },
         {
           "id": "m1-2-u3-v005",
-          "word": "goose",
-          "chinese": "鵝",
-          "sentence": "The goose was eating when the boy came.",
-          "sentence_chinese": "男孩來的時候，那隻鵝正在吃東西。",
-          "part_of_speech": "名"
+          "word": "behind",
+          "part_of_speech": "介",
+          "chinese": "在……後面",
+          "sentence": "The cat is behind the door.",
+          "sentence_chinese": "那隻貓在門後面。"
         },
         {
           "id": "m1-2-u3-v006",
-          "word": "frog",
-          "chinese": "青蛙",
-          "sentence": "A frog was sitting on the rock then.",
-          "sentence_chinese": "當時一隻青蛙正坐在岩石上。",
-          "part_of_speech": "名"
+          "word": "in front of",
+          "part_of_speech": "介",
+          "chinese": "在……前面",
+          "sentence": "The dog is in front of the house.",
+          "sentence_chinese": "那隻狗在房子前面。"
         },
         {
           "id": "m1-2-u3-v007",
-          "word": "cow",
-          "chinese": "母牛",
-          "sentence": "The cow was drinking water at that time.",
-          "sentence_chinese": "那時那隻母牛正在喝水。",
-          "part_of_speech": "名"
+          "word": "between",
+          "part_of_speech": "介",
+          "chinese": "在……中間",
+          "sentence": "The desk is between the two beds.",
+          "sentence_chinese": "書桌在那兩張床中間。"
         },
         {
           "id": "m1-2-u3-v008",
-          "word": "map",
-          "chinese": "地圖",
-          "sentence": "We checked the map before we left home.",
-          "sentence_chinese": "我們離家前先查看了地圖。",
-          "part_of_speech": "名"
+          "word": "next to",
+          "part_of_speech": "介",
+          "chinese": "在……旁邊",
+          "sentence": "My bedroom is next to the bathroom.",
+          "sentence_chinese": "我的臥室在浴室旁邊。"
         },
         {
           "id": "m1-2-u3-v009",
-          "word": "beginning",
-          "chinese": "開頭",
-          "sentence": "We were laughing at the beginning of the story.",
-          "sentence_chinese": "故事一開始時，我們正在笑。",
-          "part_of_speech": "名"
+          "word": "near",
+          "part_of_speech": "介",
+          "chinese": "在……附近",
+          "sentence": "Our house is near the school.",
+          "sentence_chinese": "我們的房子在學校附近。"
         },
         {
           "id": "m1-2-u3-v010",
-          "word": "middle",
-          "chinese": "中間；中間的",
-          "sentence": "He was standing in the middle of the room.",
-          "sentence_chinese": "他當時正站在房間中央。",
-          "part_of_speech": "名／形"
+          "word": "please",
+          "part_of_speech": "感",
+          "chinese": "請",
+          "sentence": "Please open the door for me.",
+          "sentence_chinese": "請幫我開門。"
         },
         {
           "id": "m1-2-u3-v011",
-          "word": "quarter",
-          "chinese": "十五分鐘；四分之一",
-          "sentence": "We left home at a quarter past seven.",
-          "sentence_chinese": "我們在七點十五分離開家。",
-          "part_of_speech": "名"
+          "word": "house",
+          "part_of_speech": "名",
+          "chinese": "房子",
+          "sentence": "Is your house near the park?",
+          "sentence_chinese": "你的房子在公園附近嗎？"
         },
         {
           "id": "m1-2-u3-v012",
-          "word": "along",
-          "chinese": "沿著",
-          "sentence": "We were walking along the river at five yesterday.",
-          "sentence_chinese": "昨天五點時，我們正沿著河邊走。",
-          "part_of_speech": "介"
+          "word": "quiet",
+          "part_of_speech": "形",
+          "chinese": "安靜的",
+          "sentence": "Please be quiet in the bedroom.",
+          "sentence_chinese": "請在臥室裡保持安靜。"
         },
         {
           "id": "m1-2-u3-v013",
-          "word": "clear",
-          "chinese": "晴朗的；清楚的",
-          "sentence": "The sky was clear when we left home.",
-          "sentence_chinese": "我們離家時，天空很晴朗。",
-          "part_of_speech": "形"
+          "word": "style",
+          "part_of_speech": "名",
+          "chinese": "風格；款式",
+          "sentence": "Let's choose a style for our room.",
+          "sentence_chinese": "我們一起為房間選一種風格吧。"
         },
         {
           "id": "m1-2-u3-v014",
-          "word": "pass",
-          "chinese": "經過；通過",
-          "sentence": "We saw a cow when we passed the farm.",
-          "sentence_chinese": "我們經過農場時看到一隻母牛。",
-          "part_of_speech": "動"
+          "word": "idea",
+          "part_of_speech": "名",
+          "chinese": "想法；點子",
+          "sentence": "Please share your idea with us.",
+          "sentence_chinese": "請和我們分享你的點子。"
         },
         {
           "id": "m1-2-u3-v015",
-          "word": "forest",
-          "chinese": "森林",
-          "sentence": "They were walking in the forest at that time.",
-          "sentence_chinese": "那時他們正在森林裡走路。",
-          "part_of_speech": "名"
+          "word": "let's",
+          "part_of_speech": "片",
+          "chinese": "我們一起……吧",
+          "sentence": "Let's look at these photos together.",
+          "sentence_chinese": "我們一起看這些照片吧。"
         },
         {
           "id": "m1-2-u3-v016",
-          "word": "dry",
-          "chinese": "乾燥的；（使）變乾",
-          "sentence": "The clothes were dry when I got home.",
-          "sentence_chinese": "我到家時，衣服已經乾了。",
-          "part_of_speech": "形／動"
+          "word": "get",
+          "part_of_speech": "動",
+          "chinese": "獲得",
+          "sentence": "Let's get some ideas from this photo.",
+          "sentence_chinese": "我們一起從這張照片獲得一些點子吧。"
         },
         {
           "id": "m1-2-u3-v017",
-          "word": "something",
-          "chinese": "某物；某事",
-          "sentence": "Something was moving in the jar at that time.",
-          "sentence_chinese": "那時有個東西正在罐子裡動。",
-          "part_of_speech": "代"
+          "word": "some",
+          "part_of_speech": "形／代",
+          "chinese": "一些的；一些",
+          "sentence": "Please put some books on the desk.",
+          "sentence_chinese": "請放一些書在書桌上。"
         },
         {
           "id": "m1-2-u3-v018",
-          "word": "jar",
-          "chinese": "罐子",
-          "sentence": "She washed the jar before she used it.",
-          "sentence_chinese": "她使用罐子前先把它洗乾淨。",
-          "part_of_speech": "名"
+          "word": "tool",
+          "part_of_speech": "名",
+          "chinese": "工具",
+          "sentence": "The tools are in the box.",
+          "sentence_chinese": "那些工具在箱子裡。"
         },
         {
           "id": "m1-2-u3-v019",
-          "word": "beak",
-          "chinese": "鳥嘴",
-          "sentence": "The duck was cleaning its beak at that time.",
-          "sentence_chinese": "那時那隻鴨子正在清理牠的嘴。",
-          "part_of_speech": "名"
+          "word": "smartphone",
+          "part_of_speech": "名",
+          "chinese": "智慧型手機",
+          "sentence": "Please put your smartphone on the desk.",
+          "sentence_chinese": "請把你的智慧型手機放在書桌上。"
         },
         {
           "id": "m1-2-u3-v020",
-          "word": "reach",
-          "chinese": "達到；伸出手臂（拿）",
-          "sentence": "We reached the pool before it got dark.",
-          "sentence_chinese": "我們在天黑前到達水池邊。",
-          "part_of_speech": "動"
+          "word": "step",
+          "part_of_speech": "名",
+          "chinese": "步驟；一步",
+          "sentence": "Please read the first step with me.",
+          "sentence_chinese": "請和我一起讀第一個步驟。"
         },
         {
           "id": "m1-2-u3-v021",
-          "word": "rock",
-          "chinese": "岩石；搖動",
-          "sentence": "The bird was standing on a rock then.",
-          "sentence_chinese": "當時那隻鳥正站在一塊岩石上。",
-          "part_of_speech": "名／動"
+          "word": "upload",
+          "part_of_speech": "動",
+          "chinese": "上傳",
+          "sentence": "Please upload a photo of your bedroom.",
+          "sentence_chinese": "請上傳一張你臥室的照片。"
         },
         {
           "id": "m1-2-u3-v022",
-          "word": "fly",
-          "chinese": "飛行；駕駛（飛機）",
-          "sentence": "A bird was flying over the forest then.",
-          "sentence_chinese": "當時一隻鳥正飛過森林上空。",
-          "part_of_speech": "動"
+          "word": "photo",
+          "part_of_speech": "名",
+          "chinese": "相片",
+          "sentence": "Where are the photos of our house?",
+          "sentence_chinese": "我們房子的照片在哪裡？"
         },
         {
           "id": "m1-2-u3-v023",
-          "word": "back",
-          "chinese": "回原處；背；後面（的）",
-          "sentence": "He came back after he finished his work.",
-          "sentence_chinese": "他做完工作後回來了。",
-          "part_of_speech": "副／名／形"
+          "word": "choose",
+          "part_of_speech": "動",
+          "chinese": "選擇",
+          "sentence": "Let's choose a photo for the wall.",
+          "sentence_chinese": "我們一起選一張照片放在牆上吧。"
         },
         {
           "id": "m1-2-u3-v024",
-          "word": "drop",
-          "chinese": "丟下；落下",
-          "sentence": "She dropped the jar when she saw the frog.",
-          "sentence_chinese": "她看到青蛙時，手中的罐子掉了下來。",
-          "part_of_speech": "動"
+          "word": "type",
+          "part_of_speech": "名",
+          "chinese": "種類",
+          "sentence": "Please choose a type of chair.",
+          "sentence_chinese": "請選擇一種椅子。"
         },
         {
           "id": "m1-2-u3-v025",
-          "word": "into",
-          "chinese": "到……裡面；進入",
-          "sentence": "He looked into the jar before he moved it.",
-          "sentence_chinese": "他移動罐子前先往裡面看。",
-          "part_of_speech": "介"
+          "word": "theme",
+          "part_of_speech": "名",
+          "chinese": "主題",
+          "sentence": "Let's choose a theme for the room.",
+          "sentence_chinese": "我們一起為房間選一個主題吧。"
         },
         {
           "id": "m1-2-u3-v026",
-          "word": "finally",
-          "chinese": "最後",
-          "sentence": "We finally reached the pool before it got dark.",
-          "sentence_chinese": "我們終於在天黑前到達水池邊。",
-          "part_of_speech": "副"
+          "word": "wait",
+          "part_of_speech": "動",
+          "chinese": "等待",
+          "sentence": "Please wait for me near the door.",
+          "sentence_chinese": "請在門附近等我。"
         },
         {
           "id": "m1-2-u3-v027",
-          "word": "top",
-          "chinese": "頂端；最好的",
-          "sentence": "We rested after we reached the top of the hill.",
-          "sentence_chinese": "我們到達山丘頂端後休息了一下。",
-          "part_of_speech": "名／形"
+          "word": "expensive",
+          "part_of_speech": "形",
+          "chinese": "昂貴的",
+          "sentence": "Don't buy that expensive smartphone.",
+          "sentence_chinese": "不要買那支昂貴的智慧型手機。"
         },
         {
           "id": "m1-2-u3-v028",
-          "word": "past",
-          "chinese": "經過；過去",
-          "sentence": "They were eating lunch at half past twelve.",
-          "sentence_chinese": "十二點半時，他們正在吃午餐。",
-          "part_of_speech": "介／名"
+          "word": "with",
+          "part_of_speech": "介",
+          "chinese": "對……來說；和",
+          "sentence": "Let's look at the photos with Mom.",
+          "sentence_chinese": "我們和媽媽一起看照片吧。"
         },
         {
           "id": "m1-2-u3-v029",
-          "word": "finish",
-          "chinese": "完成；結束",
-          "sentence": "I finished my homework before I watched TV.",
-          "sentence_chinese": "我看電視前先完成了作業。",
-          "part_of_speech": "動"
+          "word": "question",
+          "part_of_speech": "名",
+          "chinese": "問題",
+          "sentence": "Please read the question to me.",
+          "sentence_chinese": "請把題目讀給我聽。"
         },
         {
           "id": "m1-2-u3-v030",
-          "word": "anything",
-          "chinese": "任何事物",
-          "sentence": "Did you eat anything before you went swimming?",
-          "sentence_chinese": "你去游泳前有吃任何東西嗎？",
-          "part_of_speech": "代"
+          "word": "I see.",
+          "part_of_speech": "片",
+          "chinese": "我了解了。",
+          "sentence": "I see. Let's try it now.",
+          "sentence_chinese": "我了解了。我們現在試試看吧。"
         },
         {
           "id": "m1-2-u3-v031",
-          "word": "shout",
-          "chinese": "喊叫",
-          "sentence": "The boys were shouting when the teacher came in.",
-          "sentence_chinese": "老師進來時，那些男孩正在喊叫。",
-          "part_of_speech": "動"
+          "word": "soft",
+          "part_of_speech": "形",
+          "chinese": "柔軟的",
+          "sentence": "The soft blanket is on my bed.",
+          "sentence_chinese": "那條柔軟的毛毯在我的床上。"
         },
         {
           "id": "m1-2-u3-v032",
-          "word": "joy",
-          "chinese": "喜悅",
-          "sentence": "She shouted with joy when she saw her dog.",
-          "sentence_chinese": "她看到自己的狗時高興得叫了出來。",
-          "part_of_speech": "名"
+          "word": "hard",
+          "part_of_speech": "形",
+          "chinese": "硬的",
+          "sentence": "Don't sit on that hard chair.",
+          "sentence_chinese": "不要坐在那張硬椅子上。"
         },
         {
           "id": "m1-2-u3-v033",
-          "word": "pool",
-          "chinese": "水池；游泳池",
-          "sentence": "We were swimming in the pool at four yesterday.",
-          "sentence_chinese": "昨天四點時，我們正在游泳池裡游泳。",
-          "part_of_speech": "名"
+          "word": "in fact",
+          "part_of_speech": "片",
+          "chinese": "事實上",
+          "sentence": "In fact, my bedroom is next to hers.",
+          "sentence_chinese": "事實上，我的臥室就在她的臥室旁邊。"
         },
         {
           "id": "m1-2-u3-v034",
-          "word": "when",
-          "chinese": "當……時",
-          "sentence": "I was reading when my brother came home.",
-          "sentence_chinese": "我弟弟回家時，我正在看書。",
-          "part_of_speech": "連"
+          "word": "around",
+          "part_of_speech": "介／副",
+          "chinese": "圍繞；到處",
+          "sentence": "Let's sit around the dining room table.",
+          "sentence_chinese": "我們一起圍著飯廳的桌子坐吧。"
         },
         {
           "id": "m1-2-u3-v035",
-          "word": "close",
-          "chinese": "接近地",
-          "sentence": "The duck came close when I sat down.",
-          "sentence_chinese": "我坐下時，那隻鴨子靠近了。",
-          "part_of_speech": "副"
+          "word": "world",
+          "part_of_speech": "名",
+          "chinese": "世界",
+          "sentence": "Let's look at houses around the world.",
+          "sentence_chinese": "我們一起看看世界各地的房子吧。"
+        },
+        {
+          "id": "m1-2-u3-v036",
+          "word": "kitchen",
+          "part_of_speech": "名",
+          "chinese": "廚房",
+          "sentence": "Mom and Dad are in the kitchen.",
+          "sentence_chinese": "媽媽和爸爸在廚房裡。"
+        },
+        {
+          "id": "m1-2-u3-v037",
+          "word": "beside",
+          "part_of_speech": "介",
+          "chinese": "在……旁邊",
+          "sentence": "The chair is beside the bed.",
+          "sentence_chinese": "那張椅子在床旁邊。"
+        },
+        {
+          "id": "m1-2-u3-v038",
+          "word": "ice",
+          "part_of_speech": "名",
+          "chinese": "冰",
+          "sentence": "Please put some ice in my water.",
+          "sentence_chinese": "請在我的水裡加一些冰塊。"
+        },
+        {
+          "id": "m1-2-u3-v039",
+          "word": "inside",
+          "part_of_speech": "介／副",
+          "chinese": "在……裡面；在室內",
+          "sentence": "Let's go inside the house now.",
+          "sentence_chinese": "我們現在一起進屋裡吧。"
+        },
+        {
+          "id": "m1-2-u3-v040",
+          "word": "blanket",
+          "part_of_speech": "名",
+          "chinese": "毛毯",
+          "sentence": "Please put the blanket on the bed.",
+          "sentence_chinese": "請把毛毯放在床上。"
         }
       ],
       "phrases": [
         {
           "id": "m1-2-u3-p001",
-          "phrase": "pick up",
-          "chinese": "撿起",
-          "sentence": "She picked up the map before she left.",
-          "sentence_chinese": "她離開前撿起了地圖。"
+          "phrase": "come in",
+          "chinese": "進入",
+          "sentence": "Please come in and sit down.",
+          "sentence_chinese": "請進來坐下。"
         },
         {
           "id": "m1-2-u3-p002",
-          "phrase": "Good job!",
-          "chinese": "做得好！",
-          "sentence": "Mom said, “Good job!” after I cleaned the room.",
-          "sentence_chinese": "我打掃完房間後，媽媽說：「做得好！」"
+          "phrase": "I see.",
+          "chinese": "我了解了。",
+          "sentence": "A: You can open the door like this. B: OK, I see.",
+          "sentence_chinese": "甲：你可以像這樣開門。乙：好的，我了解了。"
         },
         {
           "id": "m1-2-u3-p003",
-          "phrase": "be proud of",
-          "chinese": "以……為榮",
-          "sentence": "Dad was proud of me when I won.",
-          "sentence_chinese": "我獲勝時，爸爸以我為榮。"
+          "phrase": "Great idea!",
+          "chinese": "好主意！",
+          "sentence": "A: How about eating out tonight? B: Great idea!",
+          "sentence_chinese": "甲：今晚出去吃如何？乙：好主意！"
         },
         {
           "id": "m1-2-u3-p004",
-          "phrase": "back and forth",
-          "chinese": "來回地",
-          "sentence": "The boy was walking back and forth then.",
-          "sentence_chinese": "當時那個男孩正在來回走動。"
+          "phrase": "get... from...",
+          "chinese": "從……得到……",
+          "sentence": "Let's get some ideas from these photos.",
+          "sentence_chinese": "我們一起從這些照片獲得一些點子吧。"
+        },
+        {
+          "id": "m1-2-u3-p005",
+          "phrase": "look at...",
+          "chinese": "看……",
+          "sentence": "Look at the photo on the wall.",
+          "sentence_chinese": "看看牆上的那張照片。"
+        },
+        {
+          "id": "m1-2-u3-p006",
+          "phrase": "be OK with...",
+          "chinese": "某人對某事沒問題",
+          "sentence": "I'm OK with eating dinner with Vicky tonight.",
+          "sentence_chinese": "今晚和 Vicky 共進晚餐對我來說沒問題。"
+        },
+        {
+          "id": "m1-2-u3-p007",
+          "phrase": "in fact",
+          "chinese": "事實上",
+          "sentence": "In fact, the tools are in the kitchen.",
+          "sentence_chinese": "事實上，那些工具在廚房裡。"
+        },
+        {
+          "id": "m1-2-u3-p008",
+          "phrase": "around the world",
+          "chinese": "世界各地",
+          "sentence": "Let's look at houses around the world.",
+          "sentence_chinese": "我們一起看看世界各地的房子吧。"
         }
       ],
       "grammar": {
         "tips": [
           {
-            "label": "當……時",
-            "text": "when 連接兩件事；放句首時，子句後加逗號。"
+            "label": "位置問句",
+            "text": "Where + am/is/are + 主詞？依主詞選 be 動詞，回答地點。"
           },
           {
-            "label": "先後順序",
-            "text": "A before B：A 先、B 後；A after B：B 先、A 後。"
+            "label": "位置與簡答",
+            "text": "主詞 + be + 地方介系詞 + 名詞。Yes/No 簡答使用代名詞；肯定簡答結尾不縮寫。"
           },
           {
-            "label": "過去正在做",
-            "text": "I／he／she／it 用 was＋V-ing；you／we／they 用 were＋V-ing。"
+            "label": "請求與禁止",
+            "text": "祈使句用原形動詞開頭；否定用 Don’t + 原形動詞。形容詞前要有 be。"
           },
           {
-            "label": "否定與問句",
-            "text": "否定在 was／were 後加 not；問句把 was／were 移到主詞前。"
+            "label": "一起做事",
+            "text": "Let’s + 原形動詞；不要一起做某事用 Let’s not + 原形動詞。"
           },
           {
-            "label": "過去事件的背景",
-            "text": "I was reading when Dad came home.：爸爸回家時，我正在閱讀。"
-          },
-          {
-            "label": "未來時間子句",
-            "text": "when／before／after 引導的未來時間子句用現在式，主句可以用 will。"
-          },
-          {
-            "label": "時間逆讀",
-            "text": "先說分鐘再說鐘點：7:15 是 a quarter past seven；7:45 是 a quarter to eight。"
+            "label": "受格",
+            "text": "動詞或介系詞後用 me、you、him、her、it、us、them。"
           }
         ],
         "notes": [
           {
-            "title": "when 的位置與意思",
-            "rule": "When＋主詞＋動詞, 主詞＋動詞.",
-            "description": "when 表示「當……時」，連接兩件事。時間子句放句首時，後面加逗號；放主句後面通常不加逗號。先找每一個子句的主詞和動詞，不要只看到 when 就固定選某一種時態。",
+            "title": "地方介系詞與位置",
+            "rule": "主詞 + be 動詞 + 地方介系詞 + 名詞／受格代名詞",
+            "description": "in 表示在內部；on 表示在表面上且有接觸；under 表示在下方；above 表示在上方但沒有接觸。near 是附近，next to／beside 是旁邊；between A and B 表示在 A 與 B 中間。behind／in back of 是後面；at 指某個地點。介系詞後若用代名詞，要用受格。",
             "examples": [
-              "When the duck came close, the boy smiled.（鴨子靠近時，男孩笑了。）",
-              "The boy smiled when the duck came close.（男孩在鴨子靠近時笑了。）"
+              "The blanket is on the bed.（毛毯在床上。）",
+              "The chair is between the desk and the bed.（椅子在書桌與床中間。）",
+              "The kitchen is next to the dining room.（廚房在飯廳旁邊。）",
+              "Please stand beside me.（請站在我旁邊。）"
             ]
           },
           {
-            "title": "when 與習慣、過去事件",
-            "rule": "習慣：現在式；過去事件：依情境使用過去式或過去進行式。",
-            "description": "習慣性的事情可用現在式，第三人稱單數要注意動詞變化。描述已發生的事件時依時間線索用過去式；描述當時正在進行的動作時用過去進行式。",
+            "title": "外部前方與內部前方",
+            "rule": "in front of（外部前方）／in the front of（內部前方）",
+            "description": "in front of the classroom 表示在教室外的前方；in the front of the classroom 表示在教室裡靠前方的位置。in back of 與 in the back of 也有相同的內外區別。",
             "examples": [
-              "When the cow feels thirsty, it drinks water.（母牛口渴時會喝水。）",
-              "When I passed the forest yesterday, I saw a goose.（昨天經過森林時，我看到一隻鵝。）"
+              "The dog is in front of the car.（狗在車子外面的前方。）",
+              "The driver is in the front of the car.（駕駛在車內的前方。）"
             ]
           },
           {
-            "title": "before／after 與先後順序",
-            "rule": "A before B＝B after A。",
-            "description": "before 表示「在……之前」，after 表示「在……之後」。不要把句子前後位置直接當成事件順序；要看連接詞。改寫時必須保留原來的先後關係。",
+            "title": "Where 位置問答",
+            "rule": "Where + be 動詞 + 主詞？",
+            "description": "I 用 am，單數人事物用 is，you 與複數用 are。Where 問位置，要直接回答地點，不用 Yes 或 No。Where is 可縮寫為 Where’s；本課書面練習保留 Where are 的完整形式。here／there 是地方副詞，前面不加 in、on、at；go home、get home 也不加介系詞，be at home 則可用 at。",
             "examples": [
-              "We checked the map before we entered the forest.（我們先看地圖，再進森林。）",
-              "We entered the forest after we checked the map.（我們看完地圖後進森林。）"
+              "Where is your smartphone? It is on the desk.（你的智慧型手機在哪裡？它在書桌上。）",
+              "Where are the tools? They are in the kitchen.（工具在哪裡？它們在廚房裡。）",
+              "Where am I?（我在哪裡？）",
+              "Your blanket is here.（你的毛毯在這裡。）"
             ]
           },
           {
-            "title": "時間連接詞後面接完整子句",
-            "rule": "before／after＋主詞＋動詞；before／after＋名詞。",
-            "description": "before 和 after 可作連接詞，後接有主詞和動詞的子句；也可作介系詞，後接名詞。名詞前不必另外補一個主詞與動詞。",
+            "title": "位置的 Yes／No 問答",
+            "rule": "Be 動詞 + 主詞 + 地點？／Yes, 代名詞 + be.／No, 代名詞 + be + not.",
+            "description": "把直述句的 be 動詞移到主詞前，就形成 Yes／No 問句。簡答用對應的代名詞。回答 Are you…? 時，若是問自己一個人，回答 Yes, I am.；若問包含自己的多人，回答 Yes, we are.。肯定簡答結尾不能縮寫為 Yes, I’m. 或 Yes, they’re.。",
             "examples": [
-              "Wash your hands before you eat dinner.（吃晚餐前洗手。）",
-              "Wash your hands before dinner.（晚餐前洗手。）"
+              "Is the photo on the wall? Yes, it is.（照片在牆上嗎？是的。）",
+              "Are your parents in the house? No, they aren’t.（你父母在房子裡嗎？不在。）",
+              "Are you in the bathroom? Yes, I am.（你在浴室裡嗎？是的。）"
             ]
           },
           {
-            "title": "未來的時間子句",
-            "rule": "When／Before／After＋現在式, 主詞＋will＋原形動詞.",
-            "description": "談未來時，when／before／after 引導的時間子句通常用現在式，不用 will。第三人稱單數仍要加 -s 或 -es。主句也可以是祈使句。這條規則適用於時間子句；詢問未來時間的 When will you come back? 是直接問句，仍可用 will。",
+            "title": "肯定與否定祈使句",
+            "rule": "原形動詞…／Don’t + 原形動詞…／（Don’t）be + 形容詞",
+            "description": "祈使句通常省略主詞 you，直接用原形動詞表示請求、命令或提醒。稱呼某人的名字不會讓動詞加 s。please 放句首時後面不直接加逗點；放句尾時前面加逗點。稱呼語放句首或句尾都要用逗點隔開。Always／Never 後也接原形動詞；Never 本身已是否定，不再加 don’t。",
             "examples": [
-              "When Dad comes back tomorrow, we will show him the map.（爸爸明天回來時，我們會給他看地圖。）",
-              "Call me after you reach the pool tomorrow.（明天到游泳池後打電話給我。）"
+              "Please upload a photo, Nancy.（Nancy，請上傳一張照片。）",
+              "Nancy, please don’t upload this photo.（Nancy，請不要上傳這張照片。）",
+              "Be quiet, please.（請安靜。）",
+              "Don’t be late.（不要遲到。）",
+              "Always be nice to others.（要一直友善待人。）",
+              "Never run in the kitchen.（絕對不要在廚房裡跑。）"
             ]
           },
           {
-            "title": "過去進行式的肯定句",
-            "rule": "主詞＋was／were＋V-ing。",
-            "description": "表示過去某個時間正在發生的動作。I、he、she、it 或單數名詞用 was；you、we、they 或複數名詞用 were。常見線索有 at eight last night、then、at that time。yesterday 也能和過去進行式搭配，不能只因為沒有鐘點就判為錯誤。",
+            "title": "Let’s 提議句",
+            "rule": "Let’s + 原形動詞／Let’s not + 原形動詞",
+            "description": "Let’s 是 let us 的縮寫，表示「我們一起……吧」。否定時把 not 放在 Let’s 後面，不用 Let’s don’t。let 後面若接人稱代名詞，要用受格，再接原形動詞。接受提議可說 Great idea!、OK.、Sounds great. 等。",
             "examples": [
-              "The goose was swimming at five yesterday.（昨天五點時，那隻鵝正在游泳。）",
-              "The ants were moving along the wall then.（當時那些螞蟻正沿著牆壁爬。）"
+              "Let’s choose a theme for the room.（我們一起為房間選一個主題吧。）",
+              "Let’s not buy that expensive chair.（我們不要買那張昂貴的椅子吧。）",
+              "Let him come in.（讓他進來。）"
             ]
           },
           {
-            "title": "V-ing 的變化",
-            "rule": "一般加 -ing；不發音的 e 去掉再加 -ing；部分字尾要雙寫。",
-            "description": "read → reading、fly → flying；make → making、write → writing；run → running、swim → swimming、drop → dropping。過去進行式要用 V-ing，不能用過去式或原形代替。",
+            "title": "主格、所有格與受格",
+            "rule": "主格作主詞；所有格放名詞前；受格放動詞或介系詞後",
+            "description": "對照：I／my／me；you／your／you；he／his／him；she／her／her；it／its／it；we／our／us；they／their／them。先判斷空格在句子中的位置。her 可作所有格或受格，必須看後面有沒有名詞。",
             "examples": [
-              "The bird was flying over the pool.（那隻鳥當時正飛過水池上空。）",
-              "The boy was dropping rocks into the jar.（男孩當時正把石頭丟進罐子裡。）"
+              "She is in the living room.（她在客廳裡。）",
+              "Her smartphone is on the desk.（她的智慧型手機在書桌上。）",
+              "Please help her.（請幫助她。）",
+              "Please look at them.（請看他們。）"
             ]
           },
           {
-            "title": "否定句與 Yes／No 問句",
-            "rule": "主詞＋wasn’t／weren’t＋V-ing；Was／Were＋主詞＋V-ing?",
-            "description": "否定時在 was／were 後加 not，不加 didn’t。問句把 was／were 移到主詞前，後面的動詞仍用 V-ing。簡答沿用 was／were，並注意人稱轉換：Were you…? → Yes, I was.",
+            "title": "課本補充的地方用法",
+            "rule": "in the tree／on the tree；in bed／on the bed；on TV／on the TV",
+            "description": "樹本身長出的花果等用 on the tree；鳥等非樹本身的東西在枝葉間常用 in the tree。in bed 強調躺床休息或睡覺，on the bed 指在床的表面。on TV 指電視節目裡，on the TV 指實體電視機上。at the desk／at the door 指書桌旁或門口的位置。",
             "examples": [
-              "She wasn’t shouting; she was singing.（她當時不是在喊叫，而是在唱歌。）",
-              "Were you looking for the map? Yes, I was.（你當時在找地圖嗎？是的。）",
-              "Were the ducks sleeping? No, they weren’t.（鴨子當時在睡覺嗎？不，牠們沒有。）"
-            ]
-          },
-          {
-            "title": "Wh- 問句",
-            "rule": "疑問詞＋was／were＋主詞＋V-ing?",
-            "description": "What 問做什麼，Where 問地點，When 問時間。Who 作主詞時，不再另外放一個主詞；本課以單數的 Who was…? 為例。回答要符合問句所問的內容與時間。",
-            "examples": [
-              "What were you doing at nine last night?（昨晚九點你正在做什麼？）",
-              "Where was the frog hiding? Under a rock.（青蛙當時躲在哪裡？石頭下面。）",
-              "Who was shouting then? My brother.（那時誰在喊叫？我弟弟。）"
-            ]
-          },
-          {
-            "title": "when 搭配過去進行式",
-            "rule": "主詞＋was／were＋V-ing＋when＋主詞＋過去式。",
-            "description": "用過去進行式描述事件發生時正在進行的背景動作，另一個過去事件常用簡單過去式。when 本身不強制兩邊各用哪一種時態；要看句子是在說持續中的背景，還是先後完成的事件。",
-            "examples": [
-              "I was checking the map when the bus arrived.（公車到站時，我正在看地圖。）",
-              "When the jar fell, the girl was washing her hands.（罐子掉下來時，女孩正在洗手。）"
-            ]
-          },
-          {
-            "title": "時間逆讀法",
-            "rule": "1–30 分：分鐘＋past／after＋鐘點；31–59 分：差幾分鐘＋to＋下一個鐘點。",
-            "description": "15 分鐘可說 a quarter，30 分鐘可說 half。7:15＝a quarter past seven；7:30＝half past seven；7:45＝a quarter to eight。to 後面要用下一個鐘點。逆讀法後不加 o’clock；o’clock 用於整點。詢問現在幾點用 What time is it?；詢問活動時間通常用 at＋時間。",
-            "examples": [
-              "It is ten past six.（現在是六點十分。）",
-              "The game starts at twenty to nine.（比賽在八點四十分開始。）",
-              "It is eight o’clock.（現在是八點整。）"
-            ]
-          },
-          {
-            "title": "本課單字變化提醒",
-            "rule": "goose → geese；fly → flew。",
-            "description": "goose 的複數是 geese；fly 的過去式是 flew，V-ing 是 flying。這些變化保留在同一個單字的說明中，不另外列為新單字。close 在本課是副詞「接近地」，不要和動詞「關閉」的用法混淆。",
-            "examples": [
-              "One goose was swimming, and two geese were eating.（一隻鵝正在游泳，兩隻鵝正在吃東西。）",
-              "The bird flew away after it drank some water.（那隻鳥喝水後飛走了。）"
+              "The bird is in the tree.（鳥在樹上。）",
+              "The apples are on the tree.（蘋果長在樹上。）",
+              "Dad is in bed.（爸爸躺在床上休息。）",
+              "The photo is on the TV.（照片放在電視機上。）"
             ]
           }
         ],
         "quiz": [
           {
             "id": "m1-2-u3-q001",
-            "question": "The frog ___ hiding under a rock at six yesterday evening.",
+            "question": "A: ___ is your new smartphone? B: It is on the dining room table.",
             "options": [
-              "A. are",
-              "B. were",
-              "C. is",
-              "D. was"
+              "A. Where",
+              "B. Who",
+              "C. How",
+              "D. What"
             ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "at six yesterday evening 是過去時間，主詞 The frog 是單數，用 was＋hiding。"
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "回答 on the dining room table 是地點，所以用 Where 問位置。Who 問人、How 問狀況、What 問事物。"
           },
           {
             "id": "m1-2-u3-q002",
-            "question": "The ducks ___ swimming in the pool at that time yesterday.",
+            "question": "Where ___ the soft blanket for the baby?",
             "options": [
-              "A. were",
-              "B. was",
+              "A. is",
+              "B. am",
               "C. are",
-              "D. is"
+              "D. be"
             ],
             "answer": "A",
             "answer_index": 0,
-            "hint": "at that time yesterday 指昨天那時；複數主詞 The ducks 用 were＋swimming。"
+            "hint": "主詞 the soft blanket 是單數，Where 後用 is。"
           },
           {
             "id": "m1-2-u3-q003",
-            "question": "At seven last night, I was ___ the map for our trip.",
+            "question": "A: Where ___ your parents? B: In the kitchen.",
             "options": [
-              "A. checked",
-              "B. checking",
-              "C. check",
-              "D. checks"
+              "A. are",
+              "B. is",
+              "C. am",
+              "D. be"
             ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "was 後面接 V-ing 構成過去進行式，因此用 checking。"
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "your parents 是複數主詞，be 動詞用 are。"
           },
           {
             "id": "m1-2-u3-q004",
-            "question": "A bird was ___ over the forest when we saw it.",
+            "question": "I cannot see anything in this dark room. Where ___ I?",
             "options": [
-              "A. flew",
-              "B. flying",
-              "C. flies",
-              "D. fly"
+              "A. is",
+              "B. are",
+              "C. am",
+              "D. be"
             ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "was 後要接 V-ing；fly 的 V-ing 是 flying，flew 是簡單過去式。"
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "問句中的主詞是 I，be 動詞仍用 am。"
           },
           {
             "id": "m1-2-u3-q005",
-            "question": "The boy was ___ rocks into a jar when I walked past.",
+            "question": "A: ___ your brother? B: He is in the bathroom.",
             "options": [
-              "A. dropped",
-              "B. drop",
-              "C. drops",
-              "D. dropping"
+              "A. Where",
+              "B. Where's",
+              "C. Where are",
+              "D. Where am"
             ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "was＋V-ing 表當時正在進行的動作；drop 要雙寫 p 再加 -ing，成為 dropping。"
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "your brother 是單數，問位置用 Where is，縮寫為 Where’s。單用 Where 會缺 be 動詞。"
           },
           {
             "id": "m1-2-u3-q006",
-            "question": "At nine last night, Mom ___ making chicken soup in the kitchen.",
+            "question": "A: Where are my photos? B: ___ are beside your smartphone.",
             "options": [
-              "A. were",
-              "B. are",
-              "C. is",
-              "D. was"
+              "A. It",
+              "B. He",
+              "C. She",
+              "D. They"
             ],
             "answer": "D",
             "answer_index": 3,
-            "hint": "at nine last night 是過去時間，單數主詞 Mom 用 was making。"
+            "hint": "my photos 是複數物品，回答用複數代名詞 They。"
           },
           {
             "id": "m1-2-u3-q007",
-            "question": "We ___ walking along the river at four yesterday afternoon.",
+            "question": "A: Where is the new tool? B: ___ is in that box.",
             "options": [
-              "A. are",
-              "B. was",
-              "C. is",
-              "D. were"
+              "A. They",
+              "B. We",
+              "C. It",
+              "D. You"
             ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "at four yesterday afternoon 指過去某時，We 用 were＋walking。"
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "the new tool 是單數物品，用 It 回答。"
           },
           {
             "id": "m1-2-u3-q008",
-            "question": "The cows were ___ water when the farmer came back.",
+            "question": "A: Where are you, Dad? B: I am ___, beside you.",
             "options": [
-              "A. drinks",
-              "B. drinking",
-              "C. drink",
-              "D. drank"
+              "A. at here",
+              "B. here",
+              "C. to here",
+              "D. on here"
             ],
             "answer": "B",
             "answer_index": 1,
-            "hint": "were 後接 V-ing；drink 的 V-ing 是 drinking，不是過去式 drank。"
+            "hint": "here 本身是地方副詞，直接接在 am 後面，不再加 at、to 或 on。"
           },
           {
             "id": "m1-2-u3-q009",
-            "question": "I ___ looking for my map at ten last night.",
+            "question": "___ your sister in the living room now?",
             "options": [
-              "A. are",
-              "B. am",
-              "C. was",
-              "D. were"
+              "A. Are",
+              "B. Is",
+              "C. Am",
+              "D. Be"
             ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "I 在過去進行式中搭配 was；at ten last night 排除現在式。"
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "your sister 是單數，位置問句把 Is 放到主詞前。"
           },
           {
             "id": "m1-2-u3-q010",
-            "question": "Something ___ moving inside the jar when I picked it up.",
+            "question": "___ the tools in the kitchen cabinet?",
             "options": [
-              "A. was",
-              "B. are",
-              "C. were",
-              "D. is"
+              "A. Is",
+              "B. Am",
+              "C. Be",
+              "D. Are"
             ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "Something 當單數主詞，picked it up 表過去事件，因此用 was moving。"
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "the tools 是複數主詞，問句開頭用 Are。"
           },
           {
             "id": "m1-2-u3-q011",
-            "question": "The children ___ sleeping at eight last night. They were still playing.",
+            "question": "A: Are you in the dining room, Ben? B: Yes, I ___.",
             "options": [
-              "A. weren’t",
-              "B. wasn’t",
-              "C. isn’t",
-              "D. aren’t"
+              "A. are",
+              "B. is",
+              "C. am",
+              "D. be"
             ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "They were still playing 說明當時沒有在睡覺；複數主詞搭配 weren’t sleeping。"
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "問 Ben 本人，回答主詞用 I，因此用 am。"
           },
           {
             "id": "m1-2-u3-q012",
-            "question": "I ___ watching TV when you called. I was doing my homework.",
+            "question": "A: Is your smartphone in your bag? B: Yes, ___.",
             "options": [
-              "A. weren’t",
-              "B. am not",
-              "C. wasn’t",
-              "D. don’t"
+              "A. it's",
+              "B. they are",
+              "C. it is",
+              "D. it isn't"
             ],
             "answer": "C",
             "answer_index": 2,
-            "hint": "I was doing my homework 表示當時沒有看電視；I 的過去進行式否定用 wasn’t watching。"
+            "hint": "smartphone 是單數物品，用 it；肯定簡答結尾不能縮寫成 it’s，且 Yes 不能接否定答句。"
           },
           {
             "id": "m1-2-u3-q013",
-            "question": "___ the goose eating when you took this photo yesterday?",
+            "question": "A: Are the photos on the wall? B: No, they ___. They are on the desk.",
             "options": [
-              "A. Were",
-              "B. Does",
-              "C. Is",
-              "D. Was"
+              "A. are",
+              "B. isn't",
+              "C. aren't",
+              "D. am not"
             ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "問過去正在做的事，把 was 放在單數主詞 the goose 前，後面保留 eating。"
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "No 表示否定；主詞 they 是複數，所以用 aren’t。"
           },
           {
             "id": "m1-2-u3-q014",
-            "question": "___ you and Ben looking for the pool at five yesterday?",
+            "question": "A: Is your mother in the kitchen? B: No, she ___. She is in the bedroom.",
             "options": [
-              "A. Are",
-              "B. Did",
-              "C. Were",
-              "D. Was"
+              "A. is",
+              "B. isn't",
+              "C. aren't",
+              "D. am not"
             ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "you and Ben 是複數主詞，問過去進行中的動作用 Were＋主詞＋looking。"
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "主詞 she 用 is；No 的否定簡答用 isn’t。"
           },
           {
             "id": "m1-2-u3-q015",
-            "question": "A: Was the ant carrying food when you saw it? B: Yes, it ___.",
+            "question": "A: Are you and your sister in the house? B: Yes, ___ are.",
             "options": [
-              "A. did",
-              "B. were",
-              "C. was",
-              "D. is"
+              "A. I",
+              "B. she",
+              "C. we",
+              "D. he"
             ],
             "answer": "C",
             "answer_index": 2,
-            "hint": "Was the ant carrying…? 的肯定簡答用 Yes, it was.，沿用 was。"
+            "hint": "問句包含回答者和妹妹兩人，回答用複數主詞 we。"
           },
           {
             "id": "m1-2-u3-q016",
-            "question": "A: Were the ducks sleeping then? B: No, they ___. They were swimming.",
+            "question": "A: Is that your bedroom? B: Yes, it ___.",
             "options": [
-              "A. weren’t",
-              "B. aren’t",
-              "C. wasn’t",
-              "D. didn’t"
+              "A. are",
+              "B. am",
+              "C. be",
+              "D. is"
             ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "Were…? 的否定簡答是 No, they weren’t.；後句 swimming 也說明沒有在睡。"
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "簡答主詞 it 是第三人稱單數，be 動詞用 is。"
           },
           {
             "id": "m1-2-u3-q017",
-            "question": "A: ___ were you doing at the pool at four yesterday? B: I was swimming.",
+            "question": "Please ___ a photo of your dining room, Amy.",
             "options": [
-              "A. What",
-              "B. Where",
-              "C. Who",
-              "D. When"
+              "A. upload",
+              "B. uploads",
+              "C. uploading",
+              "D. to upload"
             ],
             "answer": "A",
             "answer_index": 0,
-            "hint": "回答 I was swimming 說明當時做的事，因此問 What were you doing…?。"
+            "hint": "please 開頭的祈使句用原形 upload；Amy 是稱呼語，不使動詞加 s。"
           },
           {
             "id": "m1-2-u3-q018",
-            "question": "A: ___ was the frog hiding when you found it? B: Under a rock.",
+            "question": "Ben, ___ quiet in the baby's bedroom, please.",
             "options": [
-              "A. Who",
-              "B. What",
-              "C. Where",
-              "D. When"
+              "A. be",
+              "B. is",
+              "C. are",
+              "D. being"
             ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "Under a rock 是地點，應用 Where 詢問躲藏的位置。"
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "quiet 是形容詞，祈使句要用原形 be 接 quiet。"
           },
           {
             "id": "m1-2-u3-q019",
-            "question": "A: Who ___ shouting outside at midnight last night? B: My brother.",
+            "question": "Please don't ___ on that hard chair.",
             "options": [
-              "A. is",
-              "B. was",
-              "C. did",
-              "D. were"
+              "A. sits",
+              "B. sit",
+              "C. sitting",
+              "D. to sit"
             ],
             "answer": "B",
             "answer_index": 1,
-            "hint": "Who 作主詞，回答是單數 My brother；過去進行式用 Who was shouting…?。"
+            "hint": "否定祈使句用 don’t + 原形動詞 sit。"
           },
           {
             "id": "m1-2-u3-q020",
-            "question": "A: Were you walking back and forth when I arrived? B: Yes, I ___.",
+            "question": "The baby is sleeping. ___ make noise near her bed.",
             "options": [
-              "A. was",
-              "B. did",
-              "C. am",
-              "D. were"
+              "A. Don't",
+              "B. Not",
+              "C. No",
+              "D. Aren't"
             ],
             "answer": "A",
             "answer_index": 0,
-            "hint": "問句的 you 在回答時改成 I；I 搭配 was，所以答 Yes, I was.。"
+            "hint": "要禁止某個動作，使用 Don’t + 原形 make，不能單獨用 No 或 Not 代替。"
           },
           {
             "id": "m1-2-u3-q021",
-            "question": "Mia washed the jar at two and filled it at three. She washed it ___ she filled it.",
+            "question": "Don't ___ late for dinner, Tom.",
             "options": [
-              "A. before",
-              "B. because",
-              "C. after",
-              "D. until"
+              "A. is",
+              "B. be",
+              "C. are",
+              "D. being"
             ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "兩點洗、三點裝入東西，洗在先，故用 before；after 會顛倒順序，until／because 不表示這個先後關係。"
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "late 是形容詞，don’t 後要接原形 be，再接 late。"
           },
           {
             "id": "m1-2-u3-q022",
-            "question": "The rain stopped at four. We left home at five. We left ___ the rain stopped.",
+            "question": "Nancy, please ___ a soft blanket for the baby.",
             "options": [
-              "A. until",
-              "B. after",
-              "C. because of",
-              "D. before"
+              "A. chooses",
+              "B. choosing",
+              "C. choose",
+              "D. to choose"
             ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "五點出門晚於四點雨停，用 after；because of 後不能直接接 the rain stopped 這個完整子句。"
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "Nancy 是稱呼語；please 後的祈使句用原形 choose。"
           },
           {
             "id": "m1-2-u3-q023",
-            "question": "First, Leo picked up the map. Next, he put it in his bag. He put it away ___ he picked it up.",
+            "question": "___ play with tools in the kitchen; you may get hurt.",
             "options": [
-              "A. after",
-              "B. before",
-              "C. until",
-              "D. during"
+              "A. Not",
+              "B. No",
+              "C. Never",
+              "D. Isn't"
             ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "先撿起、再收好，收好發生在撿起之後，用 after；during 不能直接接完整子句。"
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "Never 可直接接原形 play，表示絕對不要；其他選項不能形成此處的否定祈使句。"
           },
           {
             "id": "m1-2-u3-q024",
-            "question": "We reached the top at ten and ate lunch at twelve. We reached the top ___ we ate lunch.",
+            "question": "Always ___ kind to your little brother.",
             "options": [
-              "A. until",
-              "B. because",
-              "C. before",
-              "D. after"
+              "A. be",
+              "B. is",
+              "C. are",
+              "D. being"
             ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "十點到頂端、十二點吃午餐，到頂端在先，用 before。其他選項無法表達題幹指定的先後關係。"
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "Always 開頭的祈使句仍用原形；kind 是形容詞，所以用 be。"
           },
           {
             "id": "m1-2-u3-q025",
-            "question": "Jen fed the chickens first and then cleaned their house. ___ Jen fed the chickens, she cleaned their house.",
+            "question": "Tom, ___ run inside the house. Please walk.",
             "options": [
-              "A. Until",
-              "B. Before",
-              "C. After",
-              "D. During"
+              "A. please don't",
+              "B. please not",
+              "C. please no",
+              "D. don't please to"
             ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "先餵雞再打掃，主句的打掃發生在餵雞之後，所以句首用 After 引導餵雞這件事。"
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "稱呼語後用 please don’t + 原形動詞表示禁止，not 或 no 不能單獨代替 don’t。"
           },
           {
             "id": "m1-2-u3-q026",
-            "question": "The children put on their shoes first and then went outside. ___ they went outside, they put on their shoes.",
+            "question": "___ the question before you choose an answer, please.",
             "options": [
-              "A. Until",
-              "B. After",
-              "C. During",
-              "D. Before"
+              "A. Reads",
+              "B. Reading",
+              "C. To read",
+              "D. Read"
             ],
             "answer": "D",
             "answer_index": 3,
-            "hint": "先穿鞋再出門，穿鞋在出門之前，用 Before they went outside。"
+            "hint": "本句是祈使句，句首用原形 Read；句尾的 please 前有逗點。"
           },
           {
             "id": "m1-2-u3-q027",
-            "question": "Nina finished her homework at six yesterday. After that, she ___ to the pool.",
+            "question": "This is our first step. Please ___ for the photo to appear.",
             "options": [
-              "A. walked",
-              "B. walk",
-              "C. walking",
-              "D. walks"
+              "A. wait",
+              "B. waits",
+              "C. waiting",
+              "D. to wait"
             ],
             "answer": "A",
             "answer_index": 0,
-            "hint": "at six yesterday 指過去；接著走去游泳池也是過去事件，用 walked。walking 單獨不能作完整謂語。"
+            "hint": "please 後接祈使句的原形 wait，不能用第三人稱單數、動名詞或不定詞。"
           },
           {
             "id": "m1-2-u3-q028",
-            "question": "Before Tom ___ the jar yesterday, he washed it carefully.",
+            "question": "___ be angry with your sister, please.",
             "options": [
-              "A. uses",
-              "B. used",
-              "C. using",
-              "D. use"
+              "A. Doesn't",
+              "B. Not",
+              "C. Don't",
+              "D. No"
             ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "yesterday 與 washed 表過去事件；使用罐子用過去式 used，using 不能單獨作此子句的謂語。"
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "否定祈使句用 Don’t be + 形容詞 angry；Doesn’t 不能作此處的祈使句開頭。"
           },
           {
             "id": "m1-2-u3-q029",
-            "question": "Every morning, the farmer checks the water before he ___ the cows.",
+            "question": "Let's ___ some ideas from these photos.",
             "options": [
-              "A. feeding",
-              "B. feeds",
-              "C. feed",
-              "D. fed"
+              "A. gets",
+              "B. getting",
+              "C. to get",
+              "D. get"
             ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "Every morning 與 checks 表習慣；before 子句主詞 he 是第三人稱單數，動詞用 feeds。"
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "Let’s 後接原形動詞 get，表示提議一起獲得點子。"
           },
           {
             "id": "m1-2-u3-q030",
-            "question": "The children always wash their hands after they ___ the animals.",
+            "question": "Let's ___ buy that expensive table. We don't have enough money.",
             "options": [
-              "A. touches",
-              "B. touch",
-              "C. touching",
-              "D. touched"
+              "A. don't",
+              "B. no",
+              "C. isn't",
+              "D. not"
             ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "always wash 表現在的習慣；they 搭配現在式 touch，不加 -s。"
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "Let’s 的否定形式是 Let’s not + 原形動詞；後句說錢不夠，符合否定提議。"
           },
           {
             "id": "m1-2-u3-q031",
-            "question": "The goose is quiet before it sees the farmer with food. It starts making loud sounds ___ it sees him.",
+            "question": "Let's ___ quiet. Dad is sleeping.",
             "options": [
-              "A. but",
-              "B. until",
-              "C. so",
-              "D. when"
+              "A. is",
+              "B. are",
+              "C. being",
+              "D. be"
             ],
             "answer": "D",
             "answer_index": 3,
-            "hint": "看見拿著食物的農夫之前很安靜，看見他時才開始叫，用 when 表當下的時間關係；until 表持續到某時，so／but 表結果或轉折，都不符合這個前後描述。"
+            "hint": "Let’s 後用原形動詞；quiet 是形容詞，因此要用 be。"
           },
           {
             "id": "m1-2-u3-q032",
-            "question": "When Dad ___ back tomorrow, we will show him our new map.",
+            "question": "Let's not ___ our smartphones during dinner.",
             "options": [
-              "A. comes",
-              "B. coming",
-              "C. will come",
-              "D. came"
+              "A. uses",
+              "B. use",
+              "C. using",
+              "D. to use"
             ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "tomorrow 表未來，但 when 引導的時間子句用現在式；Dad 是第三人稱單數，用 comes。"
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "Let’s not 後仍然接原形動詞 use。"
           },
           {
             "id": "m1-2-u3-q033",
-            "question": "I will call you after I ___ the forest tomorrow morning.",
+            "question": "Let ___ help you carry that hard chair.",
             "options": [
-              "A. will leave",
-              "B. leave",
-              "C. leaving",
-              "D. left"
+              "A. we",
+              "B. our",
+              "C. ours",
+              "D. us"
             ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "after 引導未來時間子句，使用現在式 leave；will 放在主句，不放在這個時間子句。"
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "let 是動詞，後面的人稱代名詞要用受格 us，再接原形 help。"
           },
           {
             "id": "m1-2-u3-q034",
-            "question": "Before the game ___ tomorrow, we will check the pool.",
+            "question": "Let her ___ a theme for her bedroom.",
             "options": [
-              "A. started",
-              "B. starting",
-              "C. starts",
-              "D. will start"
+              "A. chooses",
+              "B. choosing",
+              "C. to choose",
+              "D. choose"
             ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "before 引導未來時間子句，用現在式；單數主詞 the game 搭配 starts。"
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "let + 受格 + 原形動詞；即使受格是 her，choose 也不加 s。"
           },
           {
             "id": "m1-2-u3-q035",
-            "question": "When my sister feels sad, she usually ___ along the river.",
+            "question": "___ take a photo of our new kitchen together.",
             "options": [
-              "A. walk",
-              "B. walking",
-              "C. walked",
-              "D. walks"
+              "A. Let's",
+              "B. Lets",
+              "C. Let",
+              "D. Let not"
             ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "usually 表習慣，單數主詞 she 的現在式動詞用 walks。"
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "提議我們一起做某事用 Let’s，這是 let us 的縮寫；Lets 沒有撇號不是相同句型。"
           },
           {
             "id": "m1-2-u3-q036",
-            "question": "When the children ___ thirsty, they always ask for water.",
+            "question": "Let's not ___ the blanket on the wet floor.",
             "options": [
-              "A. feel",
-              "B. feeling",
-              "C. felt",
-              "D. feels"
+              "A. puts",
+              "B. put",
+              "C. putting",
+              "D. to put"
             ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "always ask 表現在習慣，複數主詞 the children 用 feel。"
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "Let’s not 後接原形 put，不能加 s、ing 或 to。"
           },
           {
             "id": "m1-2-u3-q037",
-            "question": "Please ___ me when you get to the pool tomorrow.",
+            "question": "I am behind you. Please wait for ___.",
             "options": [
-              "A. call",
-              "B. calling",
-              "C. calls",
-              "D. called"
+              "A. I",
+              "B. me",
+              "C. my",
+              "D. mine"
             ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "Please 開頭的祈使句用原形動詞 call；when 子句說明打電話的時間。"
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "for 是介系詞，後面接 I 的受格 me；my、mine 是所有格相關形式。"
           },
           {
             "id": "m1-2-u3-q038",
-            "question": "A: ___ will you come back from the forest? B: At four tomorrow afternoon.",
+            "question": "These are my parents. Please sit with ___.",
             "options": [
-              "A. Who",
-              "B. What",
-              "C. Where",
-              "D. When"
+              "A. they",
+              "B. them",
+              "C. their",
+              "D. theirs"
             ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "回答是時間，用 When；這是直接問句 When will you…?，不是 when 引導的時間子句。"
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "with 是介系詞，後面用複數人稱代名詞的受格 them。"
           },
           {
             "id": "m1-2-u3-q039",
-            "question": "When I ___ the farm yesterday, a cow was drinking water.",
+            "question": "That girl is my sister. Please help ___ upload the photo.",
             "options": [
-              "A. passing",
-              "B. passed",
-              "C. passes",
-              "D. pass"
+              "A. she",
+              "B. hers",
+              "C. he",
+              "D. her"
             ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "yesterday 指過去；when 子句需要完整動詞，用 passed 表經過農場這件過去的事。"
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "help 是動詞，後接受格；前文 girl、sister 指女性，因此用 her。"
           },
           {
             "id": "m1-2-u3-q040",
-            "question": "We were watching the frogs when Dad ___ us from the house last night.",
+            "question": "This is my brother. Please tell ___ about our new room.",
             "options": [
-              "A. calls",
-              "B. calling",
-              "C. called",
-              "D. call"
+              "A. he",
+              "B. his",
+              "C. him",
+              "D. himself"
             ],
             "answer": "C",
             "answer_index": 2,
-            "hint": "last night 與 were watching 都指過去；when 子句用 called 表爸爸叫我們的事件。"
+            "hint": "tell 是動詞，表示告訴哥哥時，後面接受格 him；he 是主格，his 是所有格，himself 不對應祈使句省略的主詞 you。"
           },
           {
             "id": "m1-2-u3-q041",
-            "question": "A: What was Amy doing when the jar fell? B: She ___ her hands.",
+            "question": "We are in the dining room. Please bring the photos to ___.",
             "options": [
-              "A. is washing",
-              "B. was washing",
-              "C. washing",
-              "D. washes"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "問句 What was Amy doing…? 要回答當時進行中的動作；She was washing her hands 符合過去時間和進行式。"
-          },
-          {
-            "id": "m1-2-u3-q042",
-            "question": "A: What were the birds doing when you looked up? B: They ___ over the forest.",
-            "options": [
-              "A. flying",
-              "B. were flying",
-              "C. was flying",
-              "D. are flying"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "問句問過去正在做的事，複數主詞 They 用 were flying；flying 單獨缺 be 動詞。"
-          },
-          {
-            "id": "m1-2-u3-q043",
-            "question": "A: It is 7:15 now. How do we say that? B: It is ___ seven.",
-            "options": [
-              "A. half past",
-              "B. a quarter past",
-              "C. twenty to",
-              "D. a quarter to"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "7:15 是七點過十五分鐘，即 a quarter past seven；to 表差幾分鐘到下一個鐘點。"
-          },
-          {
-            "id": "m1-2-u3-q044",
-            "question": "The clock shows 8:45. It is ___.",
-            "options": [
-              "A. half past eight",
-              "B. a quarter to eight",
-              "C. a quarter past nine",
-              "D. a quarter to nine"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "8:45 距離九點還差十五分鐘，是 a quarter to nine；to 後用下一個鐘點。"
-          },
-          {
-            "id": "m1-2-u3-q045",
-            "question": "The pool opens at 6:30 in the morning. It opens at ___.",
-            "options": [
-              "A. half past seven",
-              "B. a quarter past six",
-              "C. half past six",
-              "D. a quarter to seven"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "6:30 是六點過三十分鐘，half past six；half 表半小時。"
-          },
-          {
-            "id": "m1-2-u3-q046",
-            "question": "It is 9:20 now. It is ___ nine.",
-            "options": [
-              "A. a quarter past",
-              "B. twenty to",
-              "C. twenty past",
-              "D. half past"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "9:20 是九點過二十分鐘，用 twenty past nine；twenty to nine 則是 8:40。"
-          },
-          {
-            "id": "m1-2-u3-q047",
-            "question": "We will leave at 10:50. That is ___.",
-            "options": [
-              "A. ten to eleven",
-              "B. ten to ten",
-              "C. ten past eleven",
-              "D. ten past ten"
+              "A. us",
+              "B. we",
+              "C. our",
+              "D. ours"
             ],
             "answer": "A",
             "answer_index": 0,
-            "hint": "10:50 距離十一點差十分鐘，用 ten to eleven，鐘點要往下一小時算。"
+            "hint": "介系詞 to 後用 we 的受格 us，指說話者這一群人。"
           },
           {
-            "id": "m1-2-u3-q048",
-            "question": "A: It is 2:30 now. When does the bus leave? B: In fifteen minutes, at ___ three.",
+            "id": "m1-2-u3-q042",
+            "question": "This is my new blanket. Please put ___ on the bed.",
             "options": [
-              "A. twenty to",
-              "B. a quarter past",
-              "C. half past",
-              "D. a quarter to"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "2:30 加十五分鐘是 2:45，即 a quarter to three。先計算實際時間，再用逆讀法。"
-          },
-          {
-            "id": "m1-2-u3-q049",
-            "question": "A: Is it five to six? B: No, it is five ___ six. The clock shows 6:05.",
-            "options": [
-              "A. before",
-              "B. until",
-              "C. to",
-              "D. past"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "6:05 是六點過五分鐘，five past six；five to six 是 5:55。此題考時間逆讀的方向。"
-          },
-          {
-            "id": "m1-2-u3-q050",
-            "question": "The map lesson begins at 4:40. It begins at ___.",
-            "options": [
-              "A. half past four",
-              "B. twenty to four",
-              "C. twenty to five",
-              "D. twenty past five"
+              "A. its",
+              "B. it's",
+              "C. it",
+              "D. itself"
             ],
             "answer": "C",
             "answer_index": 2,
-            "hint": "4:40 距離五點還差二十分鐘，用 twenty to five；to 後用下一個鐘點。"
+            "hint": "put 後需要表示毛毯的受格 it；its 是所有格、it’s 是 it is 縮寫，itself 不符合這個祈使句的主詞。"
+          },
+          {
+            "id": "m1-2-u3-q043",
+            "question": "___ bedroom is next to the kitchen. She likes it very much.",
+            "options": [
+              "A. She",
+              "B. Her",
+              "C. Hers",
+              "D. Herself"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "空格後有名詞 bedroom，表示她的臥室，要用所有格 Her。"
+          },
+          {
+            "id": "m1-2-u3-q044",
+            "question": "The children are in the living room. ___ are waiting for us.",
+            "options": [
+              "A. They",
+              "B. Them",
+              "C. Their",
+              "D. Themselves"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "空格在 are 前，作句子的主詞，要用主格 They，指前句的 children。受格、所有格及單獨的反身代名詞都不適合。"
+          },
+          {
+            "id": "m1-2-u3-q045",
+            "question": "The blanket is touching the top of the bed. It is ___ the bed.",
+            "options": [
+              "A. under",
+              "B. between",
+              "C. on",
+              "D. in"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "touching the top 指接觸床的上表面，用 on；under 是下方、between 是中間、in 是內部。"
+          },
+          {
+            "id": "m1-2-u3-q046",
+            "question": "The smartphone is inside the closed box. It is ___ the box.",
+            "options": [
+              "A. on",
+              "B. under",
+              "C. in",
+              "D. above"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "inside the closed box 已明確指出在箱子內部，地方介系詞用 in。"
+          },
+          {
+            "id": "m1-2-u3-q047",
+            "question": "The chair is between the desk ___ the bed.",
+            "options": [
+              "A. and",
+              "B. or",
+              "C. but",
+              "D. so"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "表示在兩個事物之間，用 between A and B；此句用 and 連接兩個位置。"
+          },
+          {
+            "id": "m1-2-u3-q048",
+            "question": "The bathroom and the kitchen ___ next to each other.",
+            "options": [
+              "A. is",
+              "B. am",
+              "C. be",
+              "D. are"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "the bathroom and the kitchen 是以 and 連接的兩個房間，屬複數主詞，所以用 are。"
+          },
+          {
+            "id": "m1-2-u3-q049",
+            "question": "The boy is outside the classroom, facing its door. He is ___ the classroom.",
+            "options": [
+              "A. in the front of",
+              "B. inside",
+              "C. between",
+              "D. in front of"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "outside 且面向門指出在教室外的前方，用 in front of；in the front of 是內部前方，inside 與 outside 相反。"
+          },
+          {
+            "id": "m1-2-u3-q050",
+            "question": "The lamp hangs over the table without touching it. It is ___ the table.",
+            "options": [
+              "A. on",
+              "B. above",
+              "C. under",
+              "D. in"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "over 且 without touching 指在上方且無接觸，用 above；on 需要接觸，under 與 in 的位置不同。"
           }
         ]
       },
@@ -1116,673 +1151,1007 @@
           {
             "id": "m1-2-u3-sv001",
             "vocab_id": "m1-2-u3-v001",
-            "sentence": "The chickens were eating when I saw them.",
-            "sentence_chinese": "我看到那些雞時，牠們正在吃東西。"
+            "sentence": "Dad is in the living room.",
+            "sentence_chinese": "爸爸在客廳裡。"
           },
           {
             "id": "m1-2-u3-sv002",
             "vocab_id": "m1-2-u3-v002",
-            "sentence": "An ant was walking on the rock then.",
-            "sentence_chinese": "當時一隻螞蟻正在岩石上爬行。"
+            "sentence": "My smartphone is in my bedroom.",
+            "sentence_chinese": "我的智慧型手機在我的臥室裡。"
           },
           {
             "id": "m1-2-u3-sv003",
             "vocab_id": "m1-2-u3-v003",
-            "sentence": "The ugly duck was swimming in the pool then.",
-            "sentence_chinese": "當時那隻醜小鴨正在水池裡游泳。"
+            "sentence": "Is your brother in the bathroom?",
+            "sentence_chinese": "你弟弟在浴室裡嗎？"
           },
           {
             "id": "m1-2-u3-sv004",
             "vocab_id": "m1-2-u3-v004",
-            "sentence": "The ducks were swimming when we got there.",
-            "sentence_chinese": "我們到那裡時，那些鴨子正在游泳。"
+            "sentence": "The chairs are in the dining room.",
+            "sentence_chinese": "那些椅子在飯廳裡。"
           },
           {
             "id": "m1-2-u3-sv005",
             "vocab_id": "m1-2-u3-v005",
-            "sentence": "The goose was eating when the boy came.",
-            "sentence_chinese": "男孩來的時候，那隻鵝正在吃東西。"
+            "sentence": "The cat is behind the door.",
+            "sentence_chinese": "那隻貓在門後面。"
           },
           {
             "id": "m1-2-u3-sv006",
             "vocab_id": "m1-2-u3-v006",
-            "sentence": "A frog was sitting on the rock then.",
-            "sentence_chinese": "當時一隻青蛙正坐在岩石上。"
+            "sentence": "The dog is in front of the house.",
+            "sentence_chinese": "那隻狗在房子前面。"
           },
           {
             "id": "m1-2-u3-sv007",
             "vocab_id": "m1-2-u3-v007",
-            "sentence": "The cow was drinking water at that time.",
-            "sentence_chinese": "那時那隻母牛正在喝水。"
+            "sentence": "The desk is between the two beds.",
+            "sentence_chinese": "書桌在那兩張床中間。"
           },
           {
             "id": "m1-2-u3-sv008",
             "vocab_id": "m1-2-u3-v008",
-            "sentence": "We checked the map before we left home.",
-            "sentence_chinese": "我們離家前先查看了地圖。"
+            "sentence": "My bedroom is next to the bathroom.",
+            "sentence_chinese": "我的臥室在浴室旁邊。"
           },
           {
             "id": "m1-2-u3-sv009",
             "vocab_id": "m1-2-u3-v009",
-            "sentence": "We were laughing at the beginning of the story.",
-            "sentence_chinese": "故事一開始時，我們正在笑。"
+            "sentence": "Our house is near the school.",
+            "sentence_chinese": "我們的房子在學校附近。"
           },
           {
             "id": "m1-2-u3-sv010",
             "vocab_id": "m1-2-u3-v010",
-            "sentence": "He was standing in the middle of the room.",
-            "sentence_chinese": "他當時正站在房間中央。"
+            "sentence": "Please open the door for me.",
+            "sentence_chinese": "請幫我開門。"
           },
           {
             "id": "m1-2-u3-sv011",
             "vocab_id": "m1-2-u3-v011",
-            "sentence": "We left home at a quarter past seven.",
-            "sentence_chinese": "我們在七點十五分離開家。"
+            "sentence": "Is your house near the park?",
+            "sentence_chinese": "你的房子在公園附近嗎？"
           },
           {
             "id": "m1-2-u3-sv012",
             "vocab_id": "m1-2-u3-v012",
-            "sentence": "We were walking along the river at five yesterday.",
-            "sentence_chinese": "昨天五點時，我們正沿著河邊走。"
+            "sentence": "Please be quiet in the bedroom.",
+            "sentence_chinese": "請在臥室裡保持安靜。"
           },
           {
             "id": "m1-2-u3-sv013",
             "vocab_id": "m1-2-u3-v013",
-            "sentence": "The sky was clear when we left home.",
-            "sentence_chinese": "我們離家時，天空很晴朗。"
+            "sentence": "Let's choose a style for our room.",
+            "sentence_chinese": "我們一起為房間選一種風格吧。"
           },
           {
             "id": "m1-2-u3-sv014",
             "vocab_id": "m1-2-u3-v014",
-            "sentence": "We saw a cow when we passed the farm.",
-            "sentence_chinese": "我們經過農場時看到一隻母牛。"
+            "sentence": "Please share your idea with us.",
+            "sentence_chinese": "請和我們分享你的點子。"
           },
           {
             "id": "m1-2-u3-sv015",
             "vocab_id": "m1-2-u3-v015",
-            "sentence": "They were walking in the forest at that time.",
-            "sentence_chinese": "那時他們正在森林裡走路。"
+            "sentence": "Let's look at these photos together.",
+            "sentence_chinese": "我們一起看這些照片吧。"
           },
           {
             "id": "m1-2-u3-sv016",
             "vocab_id": "m1-2-u3-v016",
-            "sentence": "The clothes were dry when I got home.",
-            "sentence_chinese": "我到家時，衣服已經乾了。"
+            "sentence": "Let's get some ideas from this photo.",
+            "sentence_chinese": "我們一起從這張照片獲得一些點子吧。"
           },
           {
             "id": "m1-2-u3-sv017",
             "vocab_id": "m1-2-u3-v017",
-            "sentence": "Something was moving in the jar at that time.",
-            "sentence_chinese": "那時有個東西正在罐子裡動。"
+            "sentence": "Please put some books on the desk.",
+            "sentence_chinese": "請放一些書在書桌上。"
           },
           {
             "id": "m1-2-u3-sv018",
             "vocab_id": "m1-2-u3-v018",
-            "sentence": "She washed the jar before she used it.",
-            "sentence_chinese": "她使用罐子前先把它洗乾淨。"
+            "sentence": "The tools are in the box.",
+            "sentence_chinese": "那些工具在箱子裡。"
           },
           {
             "id": "m1-2-u3-sv019",
             "vocab_id": "m1-2-u3-v019",
-            "sentence": "The duck was cleaning its beak at that time.",
-            "sentence_chinese": "那時那隻鴨子正在清理牠的嘴。"
+            "sentence": "Please put your smartphone on the desk.",
+            "sentence_chinese": "請把你的智慧型手機放在書桌上。"
           },
           {
             "id": "m1-2-u3-sv020",
             "vocab_id": "m1-2-u3-v020",
-            "sentence": "We reached the pool before it got dark.",
-            "sentence_chinese": "我們在天黑前到達水池邊。"
+            "sentence": "Please read the first step with me.",
+            "sentence_chinese": "請和我一起讀第一個步驟。"
           },
           {
             "id": "m1-2-u3-sv021",
             "vocab_id": "m1-2-u3-v021",
-            "sentence": "The bird was standing on a rock then.",
-            "sentence_chinese": "當時那隻鳥正站在一塊岩石上。"
+            "sentence": "Please upload a photo of your bedroom.",
+            "sentence_chinese": "請上傳一張你臥室的照片。"
           },
           {
             "id": "m1-2-u3-sv022",
             "vocab_id": "m1-2-u3-v022",
-            "sentence": "A bird was flying over the forest then.",
-            "sentence_chinese": "當時一隻鳥正飛過森林上空。"
+            "sentence": "Where are the photos of our house?",
+            "sentence_chinese": "我們房子的照片在哪裡？"
           },
           {
             "id": "m1-2-u3-sv023",
             "vocab_id": "m1-2-u3-v023",
-            "sentence": "He came back after he finished his work.",
-            "sentence_chinese": "他做完工作後回來了。"
+            "sentence": "Let's choose a photo for the wall.",
+            "sentence_chinese": "我們一起選一張照片放在牆上吧。"
           },
           {
             "id": "m1-2-u3-sv024",
             "vocab_id": "m1-2-u3-v024",
-            "sentence": "She dropped the jar when she saw the frog.",
-            "sentence_chinese": "她看到青蛙時，手中的罐子掉了下來。"
+            "sentence": "Please choose a type of chair.",
+            "sentence_chinese": "請選擇一種椅子。"
           },
           {
             "id": "m1-2-u3-sv025",
             "vocab_id": "m1-2-u3-v025",
-            "sentence": "He looked into the jar before he moved it.",
-            "sentence_chinese": "他移動罐子前先往裡面看。"
+            "sentence": "Let's choose a theme for the room.",
+            "sentence_chinese": "我們一起為房間選一個主題吧。"
           },
           {
             "id": "m1-2-u3-sv026",
             "vocab_id": "m1-2-u3-v026",
-            "sentence": "We finally reached the pool before it got dark.",
-            "sentence_chinese": "我們終於在天黑前到達水池邊。"
+            "sentence": "Please wait for me near the door.",
+            "sentence_chinese": "請在門附近等我。"
           },
           {
             "id": "m1-2-u3-sv027",
             "vocab_id": "m1-2-u3-v027",
-            "sentence": "We rested after we reached the top of the hill.",
-            "sentence_chinese": "我們到達山丘頂端後休息了一下。"
+            "sentence": "Don't buy that expensive smartphone.",
+            "sentence_chinese": "不要買那支昂貴的智慧型手機。"
           },
           {
             "id": "m1-2-u3-sv028",
             "vocab_id": "m1-2-u3-v028",
-            "sentence": "They were eating lunch at half past twelve.",
-            "sentence_chinese": "十二點半時，他們正在吃午餐。"
+            "sentence": "Let's look at the photos with Mom.",
+            "sentence_chinese": "我們和媽媽一起看照片吧。"
           },
           {
             "id": "m1-2-u3-sv029",
             "vocab_id": "m1-2-u3-v029",
-            "sentence": "I finished my homework before I watched TV.",
-            "sentence_chinese": "我看電視前先完成了作業。"
+            "sentence": "Please read the question to me.",
+            "sentence_chinese": "請把題目讀給我聽。"
           },
           {
             "id": "m1-2-u3-sv030",
             "vocab_id": "m1-2-u3-v030",
-            "sentence": "Did you eat anything before you went swimming?",
-            "sentence_chinese": "你去游泳前有吃任何東西嗎？"
+            "sentence": "I see. Let's try it now.",
+            "sentence_chinese": "我了解了。我們現在試試看吧。"
           },
           {
             "id": "m1-2-u3-sv031",
             "vocab_id": "m1-2-u3-v031",
-            "sentence": "The boys were shouting when the teacher came in.",
-            "sentence_chinese": "老師進來時，那些男孩正在喊叫。"
+            "sentence": "The soft blanket is on my bed.",
+            "sentence_chinese": "那條柔軟的毛毯在我的床上。"
           },
           {
             "id": "m1-2-u3-sv032",
             "vocab_id": "m1-2-u3-v032",
-            "sentence": "She shouted with joy when she saw her dog.",
-            "sentence_chinese": "她看到自己的狗時高興得叫了出來。"
+            "sentence": "Don't sit on that hard chair.",
+            "sentence_chinese": "不要坐在那張硬椅子上。"
           },
           {
             "id": "m1-2-u3-sv033",
             "vocab_id": "m1-2-u3-v033",
-            "sentence": "We were swimming in the pool at four yesterday.",
-            "sentence_chinese": "昨天四點時，我們正在游泳池裡游泳。"
+            "sentence": "In fact, my bedroom is next to hers.",
+            "sentence_chinese": "事實上，我的臥室就在她的臥室旁邊。"
           },
           {
             "id": "m1-2-u3-sv034",
             "vocab_id": "m1-2-u3-v034",
-            "sentence": "I was reading when my brother came home.",
-            "sentence_chinese": "我弟弟回家時，我正在看書。"
+            "sentence": "Let's sit around the dining room table.",
+            "sentence_chinese": "我們一起圍著飯廳的桌子坐吧。"
           },
           {
             "id": "m1-2-u3-sv035",
             "vocab_id": "m1-2-u3-v035",
-            "sentence": "The duck came close when I sat down.",
-            "sentence_chinese": "我坐下時，那隻鴨子靠近了。"
+            "sentence": "Let's look at houses around the world.",
+            "sentence_chinese": "我們一起看看世界各地的房子吧。"
+          },
+          {
+            "id": "m1-2-u3-sv036",
+            "vocab_id": "m1-2-u3-v036",
+            "sentence": "Mom and Dad are in the kitchen.",
+            "sentence_chinese": "媽媽和爸爸在廚房裡。"
+          },
+          {
+            "id": "m1-2-u3-sv037",
+            "vocab_id": "m1-2-u3-v037",
+            "sentence": "The chair is beside the bed.",
+            "sentence_chinese": "那張椅子在床旁邊。"
+          },
+          {
+            "id": "m1-2-u3-sv038",
+            "vocab_id": "m1-2-u3-v038",
+            "sentence": "Please put some ice in my water.",
+            "sentence_chinese": "請在我的水裡加一些冰塊。"
+          },
+          {
+            "id": "m1-2-u3-sv039",
+            "vocab_id": "m1-2-u3-v039",
+            "sentence": "Let's go inside the house now.",
+            "sentence_chinese": "我們現在一起進屋裡吧。"
+          },
+          {
+            "id": "m1-2-u3-sv040",
+            "vocab_id": "m1-2-u3-v040",
+            "sentence": "Please put the blanket on the bed.",
+            "sentence_chinese": "請把毛毯放在床上。"
           }
         ],
         "phrases": [
           {
             "id": "m1-2-u3-sp001",
             "phrase_id": "m1-2-u3-p001",
-            "sentence": "She picked up the map before she left.",
-            "sentence_chinese": "她離開前撿起了地圖。"
+            "sentence": "Please come in and sit down.",
+            "sentence_chinese": "請進來坐下。"
           },
           {
             "id": "m1-2-u3-sp002",
             "phrase_id": "m1-2-u3-p002",
-            "sentence": "Mom said, “Good job!” after I cleaned the room.",
-            "sentence_chinese": "我打掃完房間後，媽媽說：「做得好！」"
+            "sentence": "A: You can open the door like this. B: OK, I see.",
+            "sentence_chinese": "甲：你可以像這樣開門。乙：好的，我了解了。"
           },
           {
             "id": "m1-2-u3-sp003",
             "phrase_id": "m1-2-u3-p003",
-            "sentence": "Dad was proud of me when I won.",
-            "sentence_chinese": "我獲勝時，爸爸以我為榮。"
+            "sentence": "A: How about eating out tonight? B: Great idea!",
+            "sentence_chinese": "甲：今晚出去吃如何？乙：好主意！"
           },
           {
             "id": "m1-2-u3-sp004",
             "phrase_id": "m1-2-u3-p004",
-            "sentence": "The boy was walking back and forth then.",
-            "sentence_chinese": "當時那個男孩正在來回走動。"
+            "sentence": "Let's get some ideas from these photos.",
+            "sentence_chinese": "我們一起從這些照片獲得一些點子吧。"
+          },
+          {
+            "id": "m1-2-u3-sp005",
+            "phrase_id": "m1-2-u3-p005",
+            "sentence": "Look at the photo on the wall.",
+            "sentence_chinese": "看看牆上的那張照片。"
+          },
+          {
+            "id": "m1-2-u3-sp006",
+            "phrase_id": "m1-2-u3-p006",
+            "sentence": "I'm OK with eating dinner with Vicky tonight.",
+            "sentence_chinese": "今晚和 Vicky 共進晚餐對我來說沒問題。"
+          },
+          {
+            "id": "m1-2-u3-sp007",
+            "phrase_id": "m1-2-u3-p007",
+            "sentence": "In fact, the tools are in the kitchen.",
+            "sentence_chinese": "事實上，那些工具在廚房裡。"
+          },
+          {
+            "id": "m1-2-u3-sp008",
+            "phrase_id": "m1-2-u3-p008",
+            "sentence": "Let's look at houses around the world.",
+            "sentence_chinese": "我們一起看看世界各地的房子吧。"
           }
         ],
         "grammar": [
           {
             "id": "m1-2-u3-sg001",
-            "sentence": "The ugly duck was swimming near the bridge.",
-            "sentence_chinese": "那隻醜小鴨當時正在橋附近游泳。"
+            "sentence": "Where is the smartphone in this photo?",
+            "sentence_chinese": "這張照片裡的智慧型手機在哪裡？"
           },
           {
             "id": "m1-2-u3-sg002",
-            "sentence": "Were you checking the map at that time?",
-            "sentence_chinese": "你那時正在查看地圖嗎？"
+            "sentence": "Please put the soft blanket on my bed.",
+            "sentence_chinese": "請把那條柔軟的毛毯放在我的床上。"
           },
           {
             "id": "m1-2-u3-sg003",
-            "sentence": "We washed the jar before we used it.",
-            "sentence_chinese": "我們使用罐子前先把它洗乾淨。"
+            "sentence": "Let's choose a theme for our living room.",
+            "sentence_chinese": "我們一起為客廳選一個主題吧。"
           },
           {
             "id": "m1-2-u3-sg004",
-            "sentence": "The ant was carrying food along the wall.",
-            "sentence_chinese": "那隻螞蟻當時正沿著牆壁搬食物。"
+            "sentence": "The kitchen is between the two bedrooms.",
+            "sentence_chinese": "廚房在那兩間臥室中間。"
           },
           {
             "id": "m1-2-u3-sg005",
-            "sentence": "It was a quarter to eight then.",
-            "sentence_chinese": "當時是七點四十五分。"
+            "sentence": "Don't use your smartphone at the dining table.",
+            "sentence_chinese": "不要在餐桌旁使用智慧型手機。"
           },
           {
             "id": "m1-2-u3-sg006",
-            "sentence": "What were the children doing near the pool?",
-            "sentence_chinese": "那些孩子當時正在水池附近做什麼？"
+            "sentence": "Are your parents in the dining room now?",
+            "sentence_chinese": "你的父母現在在飯廳裡嗎？"
           },
           {
             "id": "m1-2-u3-sg007",
-            "sentence": "After the rain stopped, we entered the forest.",
-            "sentence_chinese": "雨停了之後，我們進入森林。"
+            "sentence": "Please share your new idea with us.",
+            "sentence_chinese": "請和我們分享你的新點子。"
           },
           {
             "id": "m1-2-u3-sg008",
-            "sentence": "The goose was not sleeping at that time.",
-            "sentence_chinese": "那隻鵝那時沒有在睡覺。"
+            "sentence": "Let's not buy that expensive tool today.",
+            "sentence_chinese": "我們今天不要買那件昂貴的工具吧。"
           },
           {
             "id": "m1-2-u3-sg009",
-            "sentence": "When Dad arrives tomorrow, we will leave together.",
-            "sentence_chinese": "爸爸明天抵達時，我們會一起離開。"
+            "sentence": "My brother is behind the kitchen door.",
+            "sentence_chinese": "我弟弟在廚房門後面。"
           },
           {
             "id": "m1-2-u3-sg010",
-            "sentence": "They were picking up rocks when I arrived.",
-            "sentence_chinese": "我抵達時，他們正在撿石頭。"
+            "sentence": "Where are the photos of your new house?",
+            "sentence_chinese": "你新房子的照片在哪裡？"
           },
           {
             "id": "m1-2-u3-sg011",
-            "sentence": "She finished her work before she went swimming.",
-            "sentence_chinese": "她去游泳前先完成了工作。"
+            "sentence": "Always be quiet in the baby's bedroom.",
+            "sentence_chinese": "在寶寶的臥室裡要一直保持安靜。"
           },
           {
             "id": "m1-2-u3-sg012",
-            "sentence": "Who was shouting in the middle of the night?",
-            "sentence_chinese": "半夜時誰在喊叫？"
+            "sentence": "Please let me choose the next photo.",
+            "sentence_chinese": "請讓我選下一張照片。"
           },
           {
             "id": "m1-2-u3-sg013",
-            "sentence": "The farmer was feeding the cows at noon.",
-            "sentence_chinese": "中午時，那位農夫正在餵母牛。"
+            "sentence": "The hard chair is beside the bed.",
+            "sentence_chinese": "那張硬椅子在床旁邊。"
           },
           {
             "id": "m1-2-u3-sg014",
-            "sentence": "Our bus leaves at twenty to seven.",
-            "sentence_chinese": "我們的公車在六點四十分發車。"
+            "sentence": "Is the soft blanket inside that box?",
+            "sentence_chinese": "那條柔軟的毛毯在那個箱子裡嗎？"
           },
           {
             "id": "m1-2-u3-sg015",
-            "sentence": "The bird flew away after it drank water.",
-            "sentence_chinese": "那隻鳥喝水後飛走了。"
+            "sentence": "Let's get some ideas from this photo.",
+            "sentence_chinese": "我們一起從這張照片獲得一些點子吧。"
           },
           {
             "id": "m1-2-u3-sg016",
-            "sentence": "I was reading when something hit the window.",
-            "sentence_chinese": "有個東西撞上窗戶時，我正在看書。"
+            "sentence": "Please don't upload these photos, my friends.",
+            "sentence_chinese": "朋友們，請不要上傳這些照片。"
           },
           {
             "id": "m1-2-u3-sg017",
-            "sentence": "Were the frogs hiding under those rocks then?",
-            "sentence_chinese": "那些青蛙當時正躲在那些岩石下面嗎？"
+            "sentence": "Your smartphone is here on my desk.",
+            "sentence_chinese": "你的智慧型手機就在這裡，在我的書桌上。"
           },
           {
             "id": "m1-2-u3-sg018",
-            "sentence": "Wash your hands before you eat the chicken.",
-            "sentence_chinese": "吃雞肉前先洗手。"
+            "sentence": "The bathroom and the kitchen are near each other.",
+            "sentence_chinese": "浴室和廚房彼此很靠近。"
           },
           {
             "id": "m1-2-u3-sg019",
-            "sentence": "When the chickens feel hungry, they make loud sounds.",
-            "sentence_chinese": "那些雞餓的時候會發出很大的聲音。"
+            "sentence": "Please wait for them in the living room.",
+            "sentence_chinese": "請在客廳裡等他們。"
           },
           {
             "id": "m1-2-u3-sg020",
-            "sentence": "The boy was not walking back and forth.",
-            "sentence_chinese": "那個男孩當時沒有在來回走動。"
+            "sentence": "Let's not put the tools on the bed.",
+            "sentence_chinese": "我們不要把工具放在床上吧。"
           },
           {
             "id": "m1-2-u3-sg021",
-            "sentence": "The game began at a quarter past three.",
-            "sentence_chinese": "比賽在三點十五分開始。"
+            "sentence": "Are these your photos of the kitchen?",
+            "sentence_chinese": "這些是你的廚房照片嗎？"
           },
           {
             "id": "m1-2-u3-sg022",
-            "sentence": "After we reached the top, we took photos.",
-            "sentence_chinese": "我們到達頂端後拍了照片。"
+            "sentence": "Never run around the dining room table.",
+            "sentence_chinese": "絕對不要繞著飯廳的桌子跑。"
           },
           {
             "id": "m1-2-u3-sg023",
-            "sentence": "Where was your brother standing when you waved?",
-            "sentence_chinese": "你揮手時，你哥哥正站在哪裡？"
+            "sentence": "Please look at the first step with me.",
+            "sentence_chinese": "請和我一起看第一個步驟。"
           },
           {
             "id": "m1-2-u3-sg024",
-            "sentence": "The girl was dropping stones into the jar.",
-            "sentence_chinese": "那個女孩當時正在把石頭丟進罐子裡。"
+            "sentence": "Her new house is next to ours.",
+            "sentence_chinese": "她的新房子在我們的房子旁邊。"
           },
           {
             "id": "m1-2-u3-sg025",
-            "sentence": "Please call me when you get back tomorrow.",
-            "sentence_chinese": "你明天回來時，請打電話給我。"
+            "sentence": "Let's choose some soft blankets for them.",
+            "sentence_chinese": "我們一起為他們挑選一些柔軟的毛毯吧。"
           },
           {
             "id": "m1-2-u3-sg026",
-            "sentence": "She shouted with joy when she saw the gift.",
-            "sentence_chinese": "她看到禮物時高興得叫了出來。"
+            "sentence": "Where is your brother's new bedroom, Amy?",
+            "sentence_chinese": "Amy，你哥哥的新臥室在哪裡？"
           },
           {
             "id": "m1-2-u3-sg027",
-            "sentence": "The pool closes at half past six.",
-            "sentence_chinese": "游泳池在六點半關閉。"
+            "sentence": "Please be nice to your little sister.",
+            "sentence_chinese": "請友善地對待你的小妹妹。"
           },
           {
             "id": "m1-2-u3-sg028",
-            "sentence": "We will eat after we finish the game.",
-            "sentence_chinese": "我們完成遊戲後會吃東西。"
+            "sentence": "The lamp is above the hard chair.",
+            "sentence_chinese": "那盞燈在那張硬椅子的上方。"
           },
           {
             "id": "m1-2-u3-sg029",
-            "sentence": "I was cleaning when Mom said good job.",
-            "sentence_chinese": "媽媽說做得好時，我正在打掃。"
+            "sentence": "Let's look at houses around the world.",
+            "sentence_chinese": "我們一起看看世界各地的房子吧。"
           },
           {
             "id": "m1-2-u3-sg030",
-            "sentence": "Was the bird cleaning its beak at that time?",
-            "sentence_chinese": "那隻鳥那時正在清理牠的嘴嗎？"
+            "sentence": "Don't leave the ice on the floor.",
+            "sentence_chinese": "不要把冰塊留在地板上。"
           }
         ]
       },
       "cloze_quiz": [
         {
           "id": "m1-2-u3-cq001",
-          "vocab_id": "m1-2-u3-v008",
-          "question": "We cannot find the river. Let us use this ___ to see where it is.",
+          "vocab_id": "m1-2-u3-v001",
+          "question": "After dinner, we watch TV on the sofa in the ___. This room has no beds, shower, or cooking stove.",
           "options": [
-            "beak",
-            "cow",
-            "map",
-            "jar"
+            "living room",
+            "bedroom",
+            "bathroom",
+            "kitchen"
           ],
-          "answer": "C",
-          "answer_index": 2,
-          "hint": "要找河流的位置，需要查看地圖 map；其他選項是罐子、鳥嘴、母牛。"
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "sofa、watch TV，加上沒有床、淋浴或爐灶，指出客廳 living room。 bedroom 是臥室，與沒有床不合；bathroom 是浴室，與沒有淋浴及客廳活動不合；kitchen 是廚房，與沒有爐灶不合。"
         },
         {
           "id": "m1-2-u3-cq002",
           "vocab_id": "m1-2-u3-v002",
-          "question": "A tiny ___ with six legs is carrying food to its nest on the ground.",
+          "question": "My ___ is the room where I sleep every night. My bed is in it.",
           "options": [
-            "ant",
-            "duck",
-            "frog",
-            "cow"
+            "bathroom",
+            "kitchen",
+            "dining room",
+            "bedroom"
           ],
-          "answer": "A",
-          "answer_index": 0,
-          "hint": "tiny、six legs 和搬食物回巢指出是螞蟻 ant；其餘動物沒有六隻腳。"
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "sleep every night、My bed 明確指出睡覺的臥室 bedroom。 bathroom 是浴室；kitchen 是廚房；dining room 是飯廳，都不是題幹指定的睡眠房間。"
         },
         {
           "id": "m1-2-u3-cq003",
-          "vocab_id": "m1-2-u3-v005",
-          "question": "The white ___ has feathers, a long neck, and two feet. It is eating grass.",
+          "vocab_id": "m1-2-u3-v003",
+          "question": "There is a toilet, a sink, and a shower in our ___.",
           "options": [
-            "cow",
-            "frog",
-            "ant",
-            "goose"
+            "bedroom",
+            "dining room",
+            "bathroom",
+            "living room"
           ],
-          "answer": "D",
-          "answer_index": 3,
-          "hint": "有羽毛、長脖子和兩隻腳的是鵝 goose；其他選項沒有羽毛。"
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "toilet、sink、shower 的組合指出浴室 bathroom。 bedroom 是睡覺的房間；dining room 是用餐的房間；living room 是客廳，均不符合這組衛浴設備。"
         },
         {
           "id": "m1-2-u3-cq004",
-          "vocab_id": "m1-2-u3-v019",
-          "question": "The bird holds a small fish in its ___ before eating it.",
+          "vocab_id": "m1-2-u3-v004",
+          "question": "We keep our large eating table in the ___. It is a separate room just for family meals, with no stove or bed.",
           "options": [
-            "foot",
-            "beak",
-            "wing",
-            "tail"
+            "kitchen",
+            "dining room",
+            "bedroom",
+            "bathroom"
           ],
           "answer": "B",
           "answer_index": 1,
-          "hint": "鳥吃魚前用鳥嘴 beak 銜住魚；wing、foot、tail 分別是翅膀、腳和尾巴，這裡用 in its beak。"
+          "hint": "separate room just for family meals 指專門用餐的飯廳 dining room。 kitchen 主要用來烹飪且此處排除爐灶；bedroom 與 bathroom 分別為臥室、浴室，不是專門的用餐空間。"
         },
         {
           "id": "m1-2-u3-cq005",
-          "vocab_id": "m1-2-u3-v018",
-          "question": "We keep the jam in a glass ___ with a lid.",
+          "vocab_id": "m1-2-u3-v005",
+          "question": "We are all facing north in one straight line. I am first, and Ben is second. Ben is ___ me.",
           "options": [
-            "rock",
-            "jar",
-            "pool",
-            "map"
+            "behind",
+            "in front of",
+            "above",
+            "inside"
           ],
-          "answer": "B",
-          "answer_index": 1,
-          "hint": "裝果醬、有蓋子的玻璃容器是罐子 jar；地圖、岩石和水池不符合。"
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "同一直線、同向北方，我第一、Ben 第二，所以 Ben 在我後面 behind。 in front of 是前面，與順序相反；above 是上方；inside 是內部，都不是此處的前後位置。"
         },
         {
           "id": "m1-2-u3-cq006",
-          "vocab_id": "m1-2-u3-v015",
-          "question": "The ___ is full of tall trees, and many wild animals live there.",
+          "vocab_id": "m1-2-u3-v006",
+          "question": "We are facing north in one straight line. Anna is first, and I am second. Anna is ___ me.",
           "options": [
-            "bedroom",
-            "classroom",
-            "kitchen",
-            "forest"
+            "behind",
+            "under",
+            "inside",
+            "in front of"
           ],
           "answer": "D",
           "answer_index": 3,
-          "hint": "有很多高樹、野生動物居住的地方是森林 forest；其餘是室內房間。"
+          "hint": "同方向的隊伍中 Anna 在第一個、我在第二個，所以她在我前面 in front of。 behind 與先後順序相反；under 是下方；inside 是內部，都不合隊伍的位置。"
         },
         {
           "id": "m1-2-u3-cq007",
-          "vocab_id": "m1-2-u3-v011",
-          "question": "There are four equal pieces of cake. Each piece is a ___ of the whole cake.",
+          "vocab_id": "m1-2-u3-v007",
+          "question": "There are three seats in a row: Amy's, mine, and Ben's. My seat is ___ Amy's and Ben's.",
           "options": [
-            "quarter",
-            "half",
-            "third",
-            "tenth"
+            "behind",
+            "above",
+            "between",
+            "under"
           ],
-          "answer": "A",
-          "answer_index": 0,
-          "hint": "平均分成四份，每份是四分之一 quarter；half、third、tenth 是二分之一、三分之一、十分之一。"
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "座位依 Amy、我、Ben 排列，mine 在另外兩個中間，用 between。 behind、above、under 分別表示後方、上方、下方，無法表達題幹的一列座位關係，也不能以此結構連接兩端。"
         },
         {
           "id": "m1-2-u3-cq008",
-          "vocab_id": "m1-2-u3-v009",
-          "question": "Please read from the ___ of the story, starting with the very first word.",
+          "vocab_id": "m1-2-u3-v008",
+          "question": "Our bedrooms share a wall. My room is right ___ my sister's room.",
           "options": [
-            "title",
-            "end",
-            "beginning",
-            "middle"
+            "inside",
+            "next to",
+            "above",
+            "under"
           ],
-          "answer": "C",
-          "answer_index": 2,
-          "hint": "starting with the very first word 表示從故事開頭 beginning 讀起；不是中間、結尾或標題。"
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "share a wall、right 表示兩間房緊鄰，用 next to。 inside 表示一間包含在另一間內；above、under 表示上下樓層，與共用側牆的相鄰房間不合。"
         },
         {
           "id": "m1-2-u3-cq009",
-          "vocab_id": "m1-2-u3-v010",
-          "question": "There are five chairs in a row. The third chair is in the ___.",
+          "vocab_id": "m1-2-u3-v009",
+          "question": "The park is ___ our house, only a one-minute walk away.",
           "options": [
-            "forest",
-            "jar",
-            "sky",
-            "middle"
+            "near",
+            "inside",
+            "above",
+            "under"
           ],
-          "answer": "D",
-          "answer_index": 3,
-          "hint": "五張椅子排成一列，第三張位於中間 middle；其餘選項都不是排列中的位置。"
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "only a one-minute walk away 表示公園離家很近，用 near。 inside、above、under 分別表示房子內部、上方、下方，無法表達步行一分鐘可達的鄰近地點。"
         },
         {
           "id": "m1-2-u3-cq010",
-          "vocab_id": "m1-2-u3-v027",
-          "question": "We climbed all the way up the hill and stopped at its highest point, the ___.",
+          "vocab_id": "m1-2-u3-v010",
+          "question": "The sign says, \"___ close the door.\" The first word makes the request more polite.",
           "options": [
-            "bottom",
-            "middle",
-            "top",
-            "side"
+            "Never",
+            "Always",
+            "Don't",
+            "please"
           ],
-          "answer": "C",
-          "answer_index": 2,
-          "hint": "highest point 指最高處，也就是頂端 top；bottom、middle、side 是底部、中間和側邊。"
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "makes the request more polite 明確要求表示「請」的 please。 Never 與 Don't 會否定關門；Always 表示總是，並非題幹所問的禮貌請求詞。"
         },
         {
           "id": "m1-2-u3-cq011",
-          "vocab_id": "m1-2-u3-v032",
-          "question": "There was great ___ in her voice when she heard that she had won first prize.",
+          "vocab_id": "m1-2-u3-v011",
+          "question": "Our ___ is a building with a roof, three bedrooms, a kitchen, and a bathroom.",
           "options": [
-            "joy",
-            "fear",
-            "sadness",
-            "anger"
+            "blanket",
+            "smartphone",
+            "house",
+            "photo"
           ],
-          "answer": "A",
-          "answer_index": 0,
-          "hint": "得知拿到第一名，聲音中流露喜悅 joy；其他選項是恐懼、憤怒和悲傷。"
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "building、roof 與多個房間指出房子 house。 blanket 是毛毯；smartphone 是手機；photo 是照片，都不是題幹描述的建築物。"
         },
         {
           "id": "m1-2-u3-cq012",
-          "vocab_id": "m1-2-u3-v003",
-          "question": "The shoes look so ___ to me. I think their shape and colors are terrible.",
+          "vocab_id": "m1-2-u3-v012",
+          "question": "The baby is sleeping. Please be ___; don't make any noise.",
           "options": [
-            "pretty",
-            "ugly",
-            "beautiful",
-            "lovely"
+            "loud",
+            "quiet",
+            "noisy",
+            "talkative"
           ],
           "answer": "B",
           "answer_index": 1,
-          "hint": "覺得形狀和顏色很糟，表示認為鞋子醜陋 ugly；另外三項都是正面描述，均不符合 terrible。"
+          "hint": "don't make any noise 明確要求保持安靜 quiet。 loud 和 noisy 都表示有聲音，與要求相反；talkative 是多話的，與不要發出聲音的要求不合。"
         },
         {
           "id": "m1-2-u3-cq013",
-          "vocab_id": "m1-2-u3-v016",
-          "question": "The towel was wet this morning, but there is no water in it now. It is ___.",
+          "vocab_id": "m1-2-u3-v013",
+          "question": "These chairs are all made of wood, but they have different shapes and colors. I like this simple ___ best.",
           "options": [
-            "dry",
-            "wet",
-            "thirsty",
-            "hungry"
+            "style",
+            "price",
+            "weight",
+            "size"
           ],
           "answer": "A",
           "answer_index": 0,
-          "hint": "原本濕、現在沒有水分，表示已經乾燥 dry；wet 相反，hungry 和 thirsty 不適合形容毛巾。"
+          "hint": "相同木材但 shapes and colors 不同，simple 描述設計風格 style。 price 是價格，weight 是重量，size 是尺寸；simple 在此不描述這些量值，也不符合形狀與配色的設計線索。"
         },
         {
           "id": "m1-2-u3-cq014",
-          "vocab_id": "m1-2-u3-v013",
-          "question": "There are no clouds in the sky today. The sky is ___.",
+          "vocab_id": "m1-2-u3-v014",
+          "question": "\"Let's move the table next to the window.\" \"That's a good ___! Let's try it.\"",
           "options": [
-            "snowy",
-            "cloudy",
-            "clear",
-            "rainy"
+            "blanket",
+            "kitchen",
+            "tool",
+            "idea"
           ],
-          "answer": "C",
-          "answer_index": 2,
-          "hint": "no clouds 表示天空晴朗 clear；其他選項分別指多雲、下雨和下雪。"
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "前句提出移動桌子的建議，回應這是好點子 idea。 blanket 是物品、kitchen 是房間、tool 是工具，均不能指前句提出的做法。"
         },
         {
           "id": "m1-2-u3-cq015",
-          "vocab_id": "m1-2-u3-v020",
-          "question": "The cookie is too high on the shelf. The little boy cannot ___ it with his hand.",
+          "vocab_id": "m1-2-u3-v015",
+          "question": "We both want to see the new room. Come on, ___ go inside together!",
           "options": [
-            "hear",
-            "drink",
-            "smell",
-            "reach"
-          ],
-          "answer": "D",
-          "answer_index": 3,
-          "hint": "too high 與 with his hand 表示手伸不到餅乾，用 reach；hear、smell、drink 不符合伸手拿的意思。"
-        },
-        {
-          "id": "m1-2-u3-cq016",
-          "vocab_id": "m1-2-u3-v029",
-          "question": "Only one question is left. I can ___ my homework in two minutes.",
-          "options": [
-            "start",
-            "finish",
-            "lose",
-            "forget"
-          ],
-          "answer": "B",
-          "answer_index": 1,
-          "hint": "只剩一題、再兩分鐘即可完成作業，用 finish；start、forget、lose 不符合快做完的情境。"
-        },
-        {
-          "id": "m1-2-u3-cq017",
-          "vocab_id": "m1-2-u3-v031",
-          "question": "The music is very loud, so you need to ___ for me to hear you.",
-          "options": [
-            "swim",
-            "shout",
-            "sleep",
-            "whisper"
-          ],
-          "answer": "B",
-          "answer_index": 1,
-          "hint": "音樂很大聲，需要大聲喊叫 shout 才能被聽見；whisper 是低聲說話，另外兩項與說話無關。"
-        },
-        {
-          "id": "m1-2-u3-cq018",
-          "vocab_id": "m1-2-u3-v024",
-          "question": "Hold the glass tightly. If you ___ it, it may fall to the floor and break.",
-          "options": [
-            "wash",
-            "hold",
-            "drop",
-            "fill"
+            "don't",
+            "never",
+            "let's",
+            "not"
           ],
           "answer": "C",
           "answer_index": 2,
-          "hint": "玻璃杯會掉到地上摔破，對應失手讓它落下 drop；wash、fill、hold 沒有落下的意思。"
+          "hint": "We both want to、together 表示提議一起進去，用 let's。 don't、never、not 都是否定形式，與兩人都想進去的情境相反；not 也不能獨立形成此祈使句。"
         },
         {
-          "id": "m1-2-u3-cq019",
-          "vocab_id": "m1-2-u3-v023",
-          "question": "The boy lay flat on his ___ with his face toward the sky.",
+          "id": "m1-2-u3-cq016",
+          "vocab_id": "m1-2-u3-v016",
+          "question": "On my birthday, I ___ a card from Grandma in the mail every year.",
           "options": [
-            "face",
-            "stomach",
-            "feet",
-            "back"
+            "sleep",
+            "get",
+            "wait",
+            "stand"
           ],
-          "answer": "D",
-          "answer_index": 3,
-          "hint": "臉朝天空平躺，表示背部 back 貼著地面；stomach、face、feet 都不符合這個姿勢。"
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "a card from Grandma in the mail 表示收到、獲得卡片，用 get。 sleep、wait、stand 不可直接以 a card 作此處的受詞，也沒有收到卡片的意思。"
         },
         {
-          "id": "m1-2-u3-cq020",
-          "vocab_id": "m1-2-u3-v026",
-          "question": "We tried ten times without success. On our eleventh try, we ___ opened the box.",
+          "id": "m1-2-u3-cq017",
+          "vocab_id": "m1-2-u3-v017",
+          "question": "There are ten photos. I only need three. Please give me ___ of them, not all of them.",
           "options": [
-            "finally",
-            "never",
-            "seldom",
-            "rarely"
+            "some",
+            "all",
+            "none",
+            "each"
           ],
           "answer": "A",
           "answer_index": 0,
-          "hint": "失敗十次後第十一次終於成功，用 finally；never、rarely、seldom 表示從未或很少，與這次成功的敘述不符。"
+          "hint": "只需要十張中的三張，要求一部分，用 some。 all 表全部，與 not all 矛盾；none 表零張，與三張矛盾；each 表每一張，也不合只要一部分。"
+        },
+        {
+          "id": "m1-2-u3-cq018",
+          "vocab_id": "m1-2-u3-v018",
+          "question": "A hammer is a ___ that helps us hit nails into wood.",
+          "options": [
+            "theme",
+            "blanket",
+            "question",
+            "tool"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "hammer、helps us hit nails 表示做事用的工具 tool。 theme 是主題；blanket 是毛毯；question 是問題，均不是鐵鎚所屬的物品類別。"
+        },
+        {
+          "id": "m1-2-u3-cq019",
+          "vocab_id": "m1-2-u3-v019",
+          "question": "My ___ fits in my pocket. I use its touch screen to make calls, take photos, and go online.",
+          "options": [
+            "blanket",
+            "chair",
+            "smartphone",
+            "ice"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "口袋大小、觸控螢幕、打電話、拍照及上網，指出智慧型手機 smartphone。 blanket、chair、ice 都沒有觸控螢幕，也不能打電話與上網。"
+        },
+        {
+          "id": "m1-2-u3-cq020",
+          "vocab_id": "m1-2-u3-v020",
+          "question": "The instructions have three parts to follow in order. \"Upload a photo\" is the first ___.",
+          "options": [
+            "room",
+            "step",
+            "blanket",
+            "theme"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "instructions、follow in order、first 表示操作程序中的第一步 step。 room 是房間；blanket 是毛毯；theme 是主題，均不是操作流程的單一步驟。"
+        },
+        {
+          "id": "m1-2-u3-cq021",
+          "vocab_id": "m1-2-u3-v021",
+          "question": "To send this photo from your smartphone to the website, press this button to ___ it.",
+          "options": [
+            "upload",
+            "download",
+            "delete",
+            "print"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "from your smartphone to the website 是從裝置傳到網站，表示上傳 upload。 download 是從網路下載到裝置，方向相反；delete 是刪除；print 是列印，都不是傳到網站。"
+        },
+        {
+          "id": "m1-2-u3-cq022",
+          "vocab_id": "m1-2-u3-v022",
+          "question": "I used my smartphone camera to take this ___ of our new kitchen.",
+          "options": [
+            "blanket",
+            "tool",
+            "ice",
+            "photo"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "camera、take、of our new kitchen 指用相機拍下廚房的照片 photo。 blanket 是毛毯、tool 是工具、ice 是冰，不能作為相機拍攝後產生的影像。"
+        },
+        {
+          "id": "m1-2-u3-cq023",
+          "vocab_id": "m1-2-u3-v023",
+          "question": "Which color do you prefer? You must ___ between blue and green; you can only have one.",
+          "options": [
+            "wait",
+            "sleep",
+            "choose",
+            "stand"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "Which color do you prefer、only have one 要求在兩種顏色中選擇，用 choose。 wait 是等待；sleep 是睡覺；stand 是站立，都不能表示選取偏好的顏色。"
+        },
+        {
+          "id": "m1-2-u3-cq024",
+          "vocab_id": "m1-2-u3-v024",
+          "question": "\"What ___ of animal is that?\" \"It's a bird, not a fish.\"",
+          "options": [
+            "price",
+            "type",
+            "color",
+            "size"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "回答 bird、not a fish 是動物的種類分類，所以問 type。 price 問價格；color 問顏色；size 問大小，均不能用 bird 或 fish 回答。"
+        },
+        {
+          "id": "m1-2-u3-cq025",
+          "vocab_id": "m1-2-u3-v025",
+          "question": "Our party has an ocean ___. The games, food, and decorations are all about the sea.",
+          "options": [
+            "theme",
+            "price",
+            "question",
+            "step"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "遊戲、食物與裝飾都圍繞海洋，表示共同的主題 theme。 price 是價格；question 是問題；step 是步驟，不能表示貫穿活動內容的主題。"
+        },
+        {
+          "id": "m1-2-u3-cq026",
+          "vocab_id": "m1-2-u3-v026",
+          "question": "The store is closed until nine. It is only eight fifty, so we must ___ ten minutes before we can enter.",
+          "options": [
+            "upload",
+            "choose",
+            "get",
+            "wait"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "商店尚未開門，要到九點才能進去，所以需要等待 wait 十分鐘。 upload 是上傳；choose 是選擇；get 是獲得，在此均不能表示商店開門前等候的行為。"
+        },
+        {
+          "id": "m1-2-u3-cq027",
+          "vocab_id": "m1-2-u3-v027",
+          "question": "This chair costs more money than any other chair in the shop. It is very ___.",
+          "options": [
+            "cheap",
+            "free",
+            "expensive",
+            "inexpensive"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "costs more money than any other chair 明確表示價格昂貴 expensive。 cheap 與 inexpensive 都表示便宜；free 表示免費，三者都與店內價格最高的線索矛盾。"
+        },
+        {
+          "id": "m1-2-u3-cq028",
+          "vocab_id": "m1-2-u3-v028",
+          "question": "My sister and I are going together. I am going ___ her, not alone.",
+          "options": [
+            "without",
+            "with",
+            "under",
+            "inside"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "going together、not alone 表示和她一起，用 with。 without 表示沒有她，與 together 相反；under、inside 是空間位置，不表示同行。"
+        },
+        {
+          "id": "m1-2-u3-cq029",
+          "vocab_id": "m1-2-u3-v029",
+          "question": "The teacher asked us a ___: \"Where is the kitchen?\" We must answer it.",
+          "options": [
+            "question",
+            "blanket",
+            "photo",
+            "tool"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "asked、問句 Where is the kitchen、answer 指需要回答的問題 question。 blanket、photo、tool 都是物品，不是 asked 與 answer 所指的問題。"
+        },
+        {
+          "id": "m1-2-u3-cq030",
+          "vocab_id": "m1-2-u3-v030",
+          "question": "A: This button sends your photo to the website. B: ___ Now I understand how it works.",
+          "options": [
+            "I'm still confused.",
+            "I don't understand.",
+            "I have no idea.",
+            "I see."
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "Now I understand 表示聽懂了，用 I see.。 其他三個選項都表示仍然困惑或不知道，與後面的 Now I understand 直接矛盾。"
+        },
+        {
+          "id": "m1-2-u3-cq031",
+          "vocab_id": "m1-2-u3-v031",
+          "question": "This pillow feels ___, the opposite of hard; it bends easily when I press it.",
+          "options": [
+            "hard",
+            "sharp",
+            "soft",
+            "noisy"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "the opposite of hard 明確表示硬的相反，也就是柔軟 soft；容易壓彎也呼應此線索。 hard 不是自己的反義字；sharp 是尖銳；noisy 是吵鬧，後兩者都不是 hard 的反義字。"
+        },
+        {
+          "id": "m1-2-u3-cq032",
+          "vocab_id": "m1-2-u3-v032",
+          "question": "This stone is ___; I cannot bend it or press a hole in it with my fingers.",
+          "options": [
+            "soft",
+            "hard",
+            "flexible",
+            "easy to bend"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "石頭無法用手指壓出凹洞或彎曲，指出硬 hard。 soft 表示柔軟，與無法用手指壓出凹洞不合；flexible 與 easy to bend 都表示可彎曲，與 cannot bend 明確矛盾。"
+        },
+        {
+          "id": "m1-2-u3-cq033",
+          "vocab_id": "m1-2-u3-v033",
+          "question": "People think this house is old, but ___, it was built only last year.",
+          "options": [
+            "in fact",
+            "by mistake",
+            "for fun",
+            "at night"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "前半是別人的想法，後半說明去年才建好的實際情況，用 in fact。 by mistake 表不小心，for fun 表為了好玩，at night 表在夜裡，都不表示澄清實際情況。"
+        },
+        {
+          "id": "m1-2-u3-cq034",
+          "vocab_id": "m1-2-u3-v034",
+          "question": "We sit in a circle ___ the table, with people on every side of it.",
+          "options": [
+            "under",
+            "above",
+            "inside",
+            "around"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "in a circle、on every side 表示圍繞桌子，用 around。 under 是桌子下方；above 是上方；inside 是內部，皆非圍坐各側的位置。"
+        },
+        {
+          "id": "m1-2-u3-cq035",
+          "vocab_id": "m1-2-u3-v035",
+          "question": "There are many countries in the ___, including Taiwan, Japan, and Canada.",
+          "options": [
+            "bedroom",
+            "blanket",
+            "world",
+            "smartphone"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "many countries 及列出的國家指出世界 world。 bedroom 是臥室、blanket 是毛毯、smartphone 是手機，均不是容納這些國家的地理範圍。"
+        },
+        {
+          "id": "m1-2-u3-cq036",
+          "vocab_id": "m1-2-u3-v036",
+          "question": "Dad cooks in the ___. The stove and oven are in that room.",
+          "options": [
+            "bedroom",
+            "kitchen",
+            "bathroom",
+            "living room"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "cooks、stove、oven 共同指出廚房 kitchen。 bedroom 是臥室；bathroom 是浴室；living room 是客廳，都不是這組烹飪設備所在的專用房間。"
+        },
+        {
+          "id": "m1-2-u3-cq037",
+          "vocab_id": "m1-2-u3-v037",
+          "question": "Amy is standing ___ me, shoulder to shoulder on my right.",
+          "options": [
+            "beside",
+            "behind",
+            "above",
+            "inside"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "shoulder to shoulder、on my right 明確表示在我旁邊 beside。 behind 是後面；above 是上方；inside 是內部，都不符合右側肩並肩的位置。"
+        },
+        {
+          "id": "m1-2-u3-cq038",
+          "vocab_id": "m1-2-u3-v038",
+          "question": "The water froze in the freezer and became ___.",
+          "options": [
+            "steam",
+            "smoke",
+            "sand",
+            "ice"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "water froze 表示水結凍成冰 ice。 steam 是水蒸氣，需要加熱；smoke 是煙；sand 是沙，均不是水結凍的結果。"
+        },
+        {
+          "id": "m1-2-u3-cq039",
+          "vocab_id": "m1-2-u3-v039",
+          "question": "The door is closed. We are ___ the house, sitting in its living room.",
+          "options": [
+            "outside",
+            "above",
+            "inside",
+            "under"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "sitting in its living room 表示我們在屋內，用 inside。 outside 是屋外；above 是房子上方；under 是下方，皆與在客廳裡矛盾。"
+        },
+        {
+          "id": "m1-2-u3-cq040",
+          "vocab_id": "m1-2-u3-v040",
+          "question": "It is cold in bed. Please cover me from my shoulders to my feet with that warm ___.",
+          "options": [
+            "smartphone",
+            "blanket",
+            "photo",
+            "tool"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "cold in bed、cover me from my shoulders to my feet 表示用毛毯 blanket 蓋住身體保暖。 smartphone、photo、tool 都不是可從肩膀蓋到腳、用來保暖的寢具。"
         }
       ]
     }
