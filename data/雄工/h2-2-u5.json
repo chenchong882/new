@@ -1,0 +1,1208 @@
+{
+  "units": {
+    "h2-2-u5": {
+      "title": "U5",
+      "vocab": [
+        {
+          "id": "h2-2-u5-v001",
+          "word": "contain",
+          "part_of_speech": "動",
+          "chinese": "包含；容納",
+          "sentence": "This website contains lots of information about the K-pop band.",
+          "sentence_chinese": "這個網站包含許多關於這個韓國流行樂團的資訊。"
+        },
+        {
+          "id": "h2-2-u5-v002",
+          "word": "term",
+          "part_of_speech": "名",
+          "chinese": "字詞；用語",
+          "sentence": "If I knew this term, I could explain it.",
+          "sentence_chinese": "如果我知道這個用語，我就能解釋它。"
+        },
+        {
+          "id": "h2-2-u5-v003",
+          "word": "amount",
+          "part_of_speech": "名",
+          "chinese": "量",
+          "sentence": "If I had a small amount of salt, I could make soup.",
+          "sentence_chinese": "如果我有少量的鹽，我就能煮湯。"
+        },
+        {
+          "id": "h2-2-u5-v004",
+          "word": "digest",
+          "part_of_speech": "動",
+          "chinese": "理解；消化",
+          "sentence": "Frank told me too many secrets at one time. It was hard to digest all.",
+          "sentence_chinese": "Frank 一次告訴我太多祕密，很難全部消化。"
+        },
+        {
+          "id": "h2-2-u5-v005",
+          "word": "variety",
+          "part_of_speech": "名",
+          "chinese": "各式各樣",
+          "sentence": "If I had more money, I would buy a variety of books.",
+          "sentence_chinese": "如果我有更多錢，我就會買各式各樣的書。"
+        },
+        {
+          "id": "h2-2-u5-v006",
+          "word": "film",
+          "part_of_speech": "名",
+          "chinese": "電影",
+          "sentence": "Lucy is going to see the latest British film at a new theater.",
+          "sentence_chinese": "Lucy 打算去一家新電影院看最新的英國電影。"
+        },
+        {
+          "id": "h2-2-u5-v007",
+          "word": "plot",
+          "part_of_speech": "名",
+          "chinese": "劇情；情節",
+          "sentence": "I love this novel because the development of its plot is very good.",
+          "sentence_chinese": "我喜歡這本小說，因為它的情節發展非常好。"
+        },
+        {
+          "id": "h2-2-u5-v008",
+          "word": "doubt",
+          "part_of_speech": "名",
+          "chinese": "疑惑；懷疑",
+          "sentence": "Jessie and I have a lot in common. There is no doubt that we will become good friends.",
+          "sentence_chinese": "Jessie 和我有許多共同點，毫無疑問，我們會成為好朋友。"
+        },
+        {
+          "id": "h2-2-u5-v009",
+          "word": "complicated",
+          "part_of_speech": "形",
+          "chinese": "複雜的",
+          "sentence": "The plot of this movie was too complicated, so I had to watch it again.",
+          "sentence_chinese": "這部電影的情節太複雜，所以我得再看一次。"
+        },
+        {
+          "id": "h2-2-u5-v010",
+          "word": "policy",
+          "part_of_speech": "名",
+          "chinese": "政策",
+          "sentence": "If our school changed this policy, we could use phones at lunch.",
+          "sentence_chinese": "如果我們學校改變這項政策，我們就能在午餐時間使用手機。"
+        },
+        {
+          "id": "h2-2-u5-v011",
+          "word": "misunderstanding",
+          "part_of_speech": "名",
+          "chinese": "誤解",
+          "sentence": "If you explained it, there would be no misunderstanding.",
+          "sentence_chinese": "如果你解釋這件事，就不會有誤會。"
+        },
+        {
+          "id": "h2-2-u5-v012",
+          "word": "creator",
+          "part_of_speech": "名",
+          "chinese": "創作者",
+          "sentence": "This LINE creator has uploaded some funny stickers, and they have become very popular.",
+          "sentence_chinese": "這位 LINE 創作者上傳了一些有趣的貼圖，而這些貼圖變得非常受歡迎。"
+        },
+        {
+          "id": "h2-2-u5-v013",
+          "word": "preference",
+          "part_of_speech": "名",
+          "chinese": "偏好",
+          "sentence": "Charlotte has a preference for five-toe socks rather than normal ones.",
+          "sentence_chinese": "比起一般襪子，Charlotte 更喜歡五趾襪。"
+        },
+        {
+          "id": "h2-2-u5-v014",
+          "word": "balanced",
+          "part_of_speech": "形",
+          "chinese": "周全的",
+          "sentence": "The article presents a balanced view of the latest debates in society.",
+          "sentence_chinese": "這篇文章對社會上最新的爭議提出周全的觀點。"
+        },
+        {
+          "id": "h2-2-u5-v015",
+          "word": "risky",
+          "part_of_speech": "形",
+          "chinese": "危險的；冒險的",
+          "sentence": "If the game were risky, I would not play it.",
+          "sentence_chinese": "如果這個遊戲有危險，我就不會玩。"
+        },
+        {
+          "id": "h2-2-u5-v016",
+          "word": "frequent",
+          "part_of_speech": "形",
+          "chinese": "經常的；頻繁的",
+          "sentence": "If buses were more frequent, I could get home earlier.",
+          "sentence_chinese": "如果公車班次更頻繁，我就能早一點到家。"
+        }
+      ],
+      "phrases": [
+        {
+          "id": "h2-2-u5-p001",
+          "phrase": "cross one's mind",
+          "chinese": "想到",
+          "sentence": "It never crossed my mind that I would work for NASA one day.",
+          "sentence_chinese": "我從沒想過，有一天我會為 NASA 工作。"
+        },
+        {
+          "id": "h2-2-u5-p002",
+          "phrase": "catch up on",
+          "chinese": "得知、跟上（消息）",
+          "sentence": "Rick and I haven’t seen each other for a long time, so we naturally have a lot to catch up on.",
+          "sentence_chinese": "Rick 和我很久沒見了，所以自然有許多近況要聊。"
+        },
+        {
+          "id": "h2-2-u5-p003",
+          "phrase": "tell...apart",
+          "chinese": "分辨；區分",
+          "sentence": "Although the two pictures looked similar, Shelly could still tell them apart.",
+          "sentence_chinese": "雖然這兩張圖片看起來很相似，Shelly 仍然能分辨它們。"
+        },
+        {
+          "id": "h2-2-u5-p004",
+          "phrase": "without (a) doubt",
+          "chinese": "毫無疑問地",
+          "sentence": "This hot pot is still boiling. Without a doubt, it is very hot right now.",
+          "sentence_chinese": "這鍋火鍋還在沸騰，毫無疑問，現在非常燙。"
+        },
+        {
+          "id": "h2-2-u5-p005",
+          "phrase": "rely on",
+          "chinese": "依賴；依靠",
+          "sentence": "I rely on my friends for support when I am depressed.",
+          "sentence_chinese": "我感到沮喪時，會依靠朋友的支持。"
+        },
+        {
+          "id": "h2-2-u5-p006",
+          "phrase": "keep in mind",
+          "chinese": "記住",
+          "sentence": "Thanks for your advice. I’ll be sure to keep it in mind.",
+          "sentence_chinese": "謝謝你的建議，我一定會記在心裡。"
+        }
+      ],
+      "grammar": {
+        "tips": [
+          {
+            "label": "假設現在不同",
+            "text": "If + 主詞 + 過去式，主詞 + would／could／might + 原形動詞。這裡的過去式表示假設，不是在描述過去。"
+          },
+          {
+            "label": "假設句的 be 動詞",
+            "text": "本課正式假設語氣，不論主詞是 I、he、she 或其他人稱，都用 were：If I were you, ..."
+          },
+          {
+            "label": "否定也要用原形",
+            "text": "if 子句：did not + 原形動詞；主句：would not／could not + 原形動詞。be 動詞的否定用 were not。"
+          },
+          {
+            "label": "受詞被做某件事",
+            "text": "have／make + 受詞 + 過去分詞。例如 have the door repaired，門是被修理的。"
+          },
+          {
+            "label": "先判斷誰做動作",
+            "text": "have Ben fix the bike：Ben 修車。have the bike fixed：車被修。make myself understood：讓別人理解我的意思。"
+          }
+        ],
+        "notes": [
+          {
+            "title": "與現在事實相反的假設",
+            "rule": "If + S + 過去式, S + would／could／might／should + 原形動詞",
+            "description": "想像現在與事實不同的情況時，if 子句用過去式，主句用過去式情態助動詞加原形動詞。例如現在不知道某個用語，卻假設自己知道。would 表示會，could 表示能，might 表示可能；課本亦列 should，但使用時仍須配合語意，不是四個字可任意互換。",
+            "examples": [
+              "I do not know this term. If I knew it, I could explain it.（我不知道這個用語。如果我知道，就能解釋它。）",
+              "If the buses were more frequent, we would not wait so long.（如果公車班次更頻繁，我們就不會等這麼久。）"
+            ]
+          },
+          {
+            "title": "正式假設語氣的 were",
+            "rule": "If + S + were／were not + 補語, S + would／could／might + V",
+            "description": "本課依課本正式用法，所有人稱的 be 動詞都用 were；were not 可縮寫成 weren’t。a student 等身分、free 等狀態，都可以放在 were 後面。口語中某些主詞也可能搭配 was，因此本題庫不把 was 與 were 同列，避免學生遇到兩個合理選項。",
+            "examples": [
+              "If I were you, I would ask the teacher.（如果我是你，我會問老師。）",
+              "If the job weren’t risky, I would try it.（如果這份工作沒有危險，我會試試看。）"
+            ]
+          },
+          {
+            "title": "否定句與子句位置",
+            "rule": "If + S + did not + V, S + would not／could not + V；S + would + V + if + S + 過去式",
+            "description": "一般動詞的否定是 did not 加原形，不能寫 didn’t went；主句的 would not 後面也接原形。if 子句放前面時，後面加逗號；放在主句後面時通常不用逗號。只改變子句位置，不改變動詞規則。",
+            "examples": [
+              "If he didn’t rely on us so much, he would learn more.（如果他不那麼依賴我們，他就會學到更多。）",
+              "I would watch the film if I had time.（如果我有時間，我就會看這部電影。）",
+              "If I were you, I would not take that risky job.（如果我是你，我不會接受那份有危險的工作。）"
+            ]
+          },
+          {
+            "title": "have + 受詞 + 過去分詞",
+            "rule": "主詞 + have／has／had／will have + 受詞 + 過去分詞",
+            "description": "表示請人或安排把某件事做好。受詞是動作的承受者，所以後方用過去分詞。時態由 have 的形式表示；即使前面是 will have，受詞後仍要用過去分詞。by + 人可指出執行者，也可以省略。",
+            "examples": [
+              "We will have the classroom door repaired.（我們會請人修理教室的門。）",
+              "She had the package sent to her house.（她請人把包裹寄到她家。）",
+              "They had the chairs fixed by a worker.（他們請工人修好了椅子。）"
+            ]
+          },
+          {
+            "title": "make + 受詞 + 過去分詞",
+            "rule": "make + O + Vpp；make oneself heard／understood／seen；make something known",
+            "description": "受詞和後面的動作形成被動關係。myself／herself／ourselves 可以表示自己被看見，或自己的聲音、意思被聽見與理解。make 與 have 的語意及自然搭配不同，不能把所有例句的 make 和 have 任意互換。此處不是將整句的使役動詞改為被動語態。",
+            "examples": [
+              "She spoke loudly to make herself heard.（她大聲說話，讓別人聽見她的聲音。）",
+              "I used a picture to make myself understood.（我用圖片讓別人理解我的意思。）",
+              "The teacher made the new policy known to the class.（老師讓全班知道新政策。）"
+            ]
+          },
+          {
+            "title": "主動還是被動，要看受詞與動作的關係",
+            "rule": "make／have + 動作執行者 + 原形動詞；make／have + 動作承受者 + 過去分詞",
+            "description": "不能只用「人接原形、物接過去分詞」死記，因為人也可能承受動作。先問：受詞自己做這個動作，還是這個動作發生在受詞身上？再選原形或過去分詞。注意不規則過去分詞：send → sent、hear → heard、see → seen、write → written、know → known、understand → understood、make → made；read、cut、put 的原形與過去分詞拼法相同。",
+            "examples": [
+              "I had Ben fix the bike.（我請 Ben 修車；Ben 執行修理動作。）",
+              "I had the bike fixed.（我請人修車；車承受修理動作。）",
+              "The teacher made us read the policy.（老師要我們閱讀政策；我們執行閱讀動作。）",
+              "We tried to make ourselves understood.（我們試著讓別人理解我們的意思；這裡仍用過去分詞。）"
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "id": "h2-2-u5-q001",
+            "question": "I do not know this term. If I ___ its meaning, I could explain the rule.",
+            "options": [
+              "A. knowing",
+              "B. know",
+              "C. knows",
+              "D. knew"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "前句說現在不知道這個用語；假設現在知道時，if 子句用 know 的過去式 knew。"
+          },
+          {
+            "id": "h2-2-u5-q002",
+            "question": "The classroom door is broken. We will have it ___ before class.",
+            "options": [
+              "A. repair",
+              "B. repairing",
+              "C. repaired",
+              "D. repairs"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "it 指門，門是被修理的對象；have + 受詞 + 過去分詞，所以用 repaired。will 不會讓受詞後的動詞改成原形。"
+          },
+          {
+            "id": "h2-2-u5-q003",
+            "question": "This website has very little information. If it ___ more facts, I could finish my report.",
+            "options": [
+              "A. containing",
+              "B. contained",
+              "C. contain",
+              "D. contains"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "網站目前資料很少；想像相反情況時，if 子句用 contained，不用現在式 contains。"
+          },
+          {
+            "id": "h2-2-u5-q004",
+            "question": "The room was noisy. The teacher spoke loudly to make herself ___.",
+            "options": [
+              "A. heard",
+              "B. hear",
+              "C. hears",
+              "D. hearing"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "老師提高音量是要讓自己的聲音被聽見，使用 make herself heard；herself 不是聽別人的人。"
+          },
+          {
+            "id": "h2-2-u5-q005",
+            "question": "The two pictures look the same. If their colors ___ different, I could tell them apart.",
+            "options": [
+              "A. are",
+              "B. were",
+              "C. being",
+              "D. be"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "現在顏色相同，假設顏色不同時用 were；could tell 也提示這是相反假設。"
+          },
+          {
+            "id": "h2-2-u5-q006",
+            "question": "The creator asked the printer for help. She had her pictures ___ on cards.",
+            "options": [
+              "A. printed",
+              "B. prints",
+              "C. printing",
+              "D. print"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "pictures 是被印在卡片上的圖片；had + 受詞 + 過去分詞，使用 printed。"
+          },
+          {
+            "id": "h2-2-u5-q007",
+            "question": "He relies on his parents for everything. If he ___ on them so much, he would learn more.",
+            "options": [
+              "A. will not rely",
+              "B. does not rely",
+              "C. did not rely",
+              "D. has not relied"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "現在他很依賴父母；假設他不這麼依賴，if 子句的否定用 did not + 原形 rely。"
+          },
+          {
+            "id": "h2-2-u5-q008",
+            "question": "My explanation was complicated, so I drew pictures to make myself ___.",
+            "options": [
+              "A. understands",
+              "B. understand",
+              "C. understood",
+              "D. understanding"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "畫圖是為了讓別人理解我的意思，因此用 make myself understood；不是讓自己去理解某物。"
+          },
+          {
+            "id": "h2-2-u5-q009",
+            "question": "I do not have a copy of the film. If I ___ one, we could watch it together.",
+            "options": [
+              "A. have",
+              "B. had",
+              "C. has",
+              "D. having"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "前句說現在沒有影片；與現在相反的 if 假設句用 have 的過去式 had。"
+          },
+          {
+            "id": "h2-2-u5-q010",
+            "question": "The old policy is only in English. We will have it ___ into Chinese.",
+            "options": [
+              "A. translates",
+              "B. translate",
+              "C. translating",
+              "D. translated"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "it 指政策文字，是被翻譯成中文的對象；受詞後使用過去分詞 translated。"
+          },
+          {
+            "id": "h2-2-u5-q011",
+            "question": "The rule is complicated. If it were simpler, everyone could ___ it.",
+            "options": [
+              "A. understood",
+              "B. understand",
+              "C. understands",
+              "D. understanding"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "could 是情態助動詞，後面接原形 understand；不能再接過去式或 -ing 形式。"
+          },
+          {
+            "id": "h2-2-u5-q012",
+            "question": "My brother knows how to fix bikes. I will have him ___ mine.",
+            "options": [
+              "A. fix",
+              "B. fixes",
+              "C. fixing",
+              "D. fixed"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "him 指哥哥或弟弟，是執行修車的人；have + 人 + 原形動詞，所以用 fix。不要把本題當成車被修的結構。"
+          },
+          {
+            "id": "h2-2-u5-q013",
+            "question": "Buses do not come often here. If there ___ more frequent buses, we could leave later.",
+            "options": [
+              "A. is",
+              "B. were",
+              "C. be",
+              "D. are"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "實際班次不頻繁，假設班次更多時，there be 的 be 改用 were；後面是複數 buses。"
+          },
+          {
+            "id": "h2-2-u5-q014",
+            "question": "The driver had the risky road ___ by an expert before using it.",
+            "options": [
+              "A. checks",
+              "B. check",
+              "C. checking",
+              "D. checked"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "road 是被專家檢查的對象；by an expert 指出執行者，因此用過去分詞 checked。"
+          },
+          {
+            "id": "h2-2-u5-q015",
+            "question": "I am only a viewer. If I were the creator of this film, I ___ its ending.",
+            "options": [
+              "A. will change",
+              "B. would changed",
+              "C. would change",
+              "D. would changing"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "前句表明我不是創作者；相反假設的主句用 would + 原形 change。will 不合此句設定，另外兩項的動詞形式錯誤。"
+          },
+          {
+            "id": "h2-2-u5-q016",
+            "question": "The teacher wants everyone to know the new policy. She will make it ___ to the class.",
+            "options": [
+              "A. knows",
+              "B. knowing",
+              "C. know",
+              "D. known"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "it 指政策，是要被全班知道的內容；make + 受詞 + known 表示使內容為人所知。"
+          },
+          {
+            "id": "h2-2-u5-q017",
+            "question": "If I were you, I would not ___ such a risky job.",
+            "options": [
+              "A. take",
+              "B. took",
+              "C. taking",
+              "D. takes"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "would not 後仍接原形 take；否定詞 not 不會讓後面的動詞改成過去式。"
+          },
+          {
+            "id": "h2-2-u5-q018",
+            "question": "The package is ready. Please have it ___ to my house.",
+            "options": [
+              "A. send",
+              "B. sent",
+              "C. sends",
+              "D. sending"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "package 是被寄送的物品；send 的過去分詞是 sent，所以用 have it sent。"
+          },
+          {
+            "id": "h2-2-u5-q019",
+            "question": "She does not have my number. If she ___ it, she could call me about the misunderstanding.",
+            "options": [
+              "A. have",
+              "B. having",
+              "C. has",
+              "D. had"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "她現在沒有我的電話號碼；假設她有時，if 子句用 had，後面的 could call 表示假設結果。"
+          },
+          {
+            "id": "h2-2-u5-q020",
+            "question": "The teacher made us ___ the complicated sentence again.",
+            "options": [
+              "A. read",
+              "B. reads",
+              "C. reading",
+              "D. to read"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "us 是執行閱讀的學生；主動使役結構 make + 人 + 原形動詞，不加 to，所以選 read。"
+          },
+          {
+            "id": "h2-2-u5-q021",
+            "question": "I am sure about the answer. I would ask the teacher if I ___ unsure.",
+            "options": [
+              "A. being",
+              "B. am",
+              "C. were",
+              "D. be"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "現在很確定，卻假設不確定；if 子句即使放後面，正式假設語氣仍用 were。"
+          },
+          {
+            "id": "h2-2-u5-q022",
+            "question": "The hall is dark. I will stand under the light to make myself ___.",
+            "options": [
+              "A. seeing",
+              "B. see",
+              "C. seen",
+              "D. sees"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "站到燈下是要讓自己被別人看見，使用 make myself seen；see 的過去分詞是 seen。"
+          },
+          {
+            "id": "h2-2-u5-q023",
+            "question": "Our school allows phones at lunch. If the policy ___ phone use, we would leave them at home.",
+            "options": [
+              "A. banning",
+              "B. ban",
+              "C. bans",
+              "D. banned"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "現在允許使用手機；假設政策改為禁止時，if 子句用過去式 banned。"
+          },
+          {
+            "id": "h2-2-u5-q024",
+            "question": "The film creator had the final scene ___ again yesterday.",
+            "options": [
+              "A. films",
+              "B. filming",
+              "C. filmed",
+              "D. film"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "scene 是被拍攝的場景，使用 had + 受詞 + 過去分詞 filmed。yesterday 說明過去時間，但受詞後用分詞的理由是被動關係。"
+          },
+          {
+            "id": "h2-2-u5-q025",
+            "question": "You often forget the advice. If you ___ it in mind, you would make fewer mistakes.",
+            "options": [
+              "A. kept",
+              "B. keep",
+              "C. keeps",
+              "D. keeping"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "經常忘記是現況；假設記得建議，keep 要用過去式 kept。這題考動詞變化，片語只是素材。"
+          },
+          {
+            "id": "h2-2-u5-q026",
+            "question": "I have a painful tooth. I will have it ___ out tomorrow.",
+            "options": [
+              "A. pulled",
+              "B. pull",
+              "C. pulls",
+              "D. pulling"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "it 指牙齒，是被拔除的對象；have + 受詞 + pulled out。tomorrow 決定 will have，受詞後仍用過去分詞。"
+          },
+          {
+            "id": "h2-2-u5-q027",
+            "question": "The creator is too busy to visit us. If she ___ more free time, she would come to our school.",
+            "options": [
+              "A. have",
+              "B. has",
+              "C. had",
+              "D. having"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "她現在太忙；假設有更多時間時，if 子句的 have 改為 had，不依 she 使用 has。"
+          },
+          {
+            "id": "h2-2-u5-q028",
+            "question": "The students could not understand the term. The teacher had the helper ___ it again.",
+            "options": [
+              "A. explained",
+              "B. explain",
+              "C. explains",
+              "D. explaining"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "the helper 是執行解釋的人；have + 執行者 + 原形動詞，用 explain。had 是過去式，不代表其後也要用 explained。"
+          },
+          {
+            "id": "h2-2-u5-q029",
+            "question": "The report is difficult. If it used simpler terms, I might ___ the information more easily.",
+            "options": [
+              "A. digests",
+              "B. digested",
+              "C. digest",
+              "D. digesting"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "might 後接原形 digest；前面的 used 是 if 子句動詞，不會讓主句也接過去式。"
+          },
+          {
+            "id": "h2-2-u5-q030",
+            "question": "The bus company had the new timetable ___ at every stop.",
+            "options": [
+              "A. posting",
+              "B. post",
+              "C. posts",
+              "D. posted"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "timetable 是被張貼的時刻表，受詞後用過去分詞 posted。"
+          },
+          {
+            "id": "h2-2-u5-q031",
+            "question": "She speaks too fast. If she ___ more slowly, we would understand her.",
+            "options": [
+              "A. speak",
+              "B. speaking",
+              "C. speaks",
+              "D. spoke"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "說太快是現況；假設她說慢一點，if 子句用 speak 的過去式 spoke。"
+          },
+          {
+            "id": "h2-2-u5-q032",
+            "question": "The artist had a large amount of paint ___ to her studio.",
+            "options": [
+              "A. delivered",
+              "B. deliver",
+              "C. delivering",
+              "D. delivers"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "paint 是被送到工作室的物品，不是運送者；have + 受詞 + 過去分詞 delivered。"
+          },
+          {
+            "id": "h2-2-u5-q033",
+            "question": "The plot is confusing. If the writer did not ___ so many names, I could follow the story.",
+            "options": [
+              "A. use",
+              "B. using",
+              "C. used",
+              "D. uses"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "did not 已表示假設子句所需的過去形式，後面的主要動詞要還原成 use，不能寫 did not used。"
+          },
+          {
+            "id": "h2-2-u5-q034",
+            "question": "There was a misunderstanding about the meeting. We had the time ___ again by the office.",
+            "options": [
+              "A. confirming",
+              "B. confirms",
+              "C. confirmed",
+              "D. confirm"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "time 是被辦公室再次確認的內容；by the office 指出執行者，所以用 confirmed。"
+          },
+          {
+            "id": "h2-2-u5-q035",
+            "question": "We only sell bread. If we sold a wider variety of food, more people ___ here.",
+            "options": [
+              "A. would eating",
+              "B. will eat",
+              "C. would ate",
+              "D. would eat"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "目前只賣麵包，if we sold 想像不同情況；主句用 would + 原形 eat。"
+          },
+          {
+            "id": "h2-2-u5-q036",
+            "question": "To keep the advice in mind, I had it ___ on a card.",
+            "options": [
+              "A. writing",
+              "B. write",
+              "C. written",
+              "D. writes"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "it 指建議，是被寫在卡片上的內容；write 的過去分詞是 written。"
+          },
+          {
+            "id": "h2-2-u5-q037",
+            "question": "I cannot remember the two plots. If I ___ them, I could tell the films apart.",
+            "options": [
+              "A. remembered",
+              "B. remember",
+              "C. remembers",
+              "D. remembering"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "現在記不得情節；假設記得時，if 子句用過去式 remembered。"
+          },
+          {
+            "id": "h2-2-u5-q038",
+            "question": "We will have the names ___ on the pictures so students can tell them apart.",
+            "options": [
+              "A. putted",
+              "B. put",
+              "C. putting",
+              "D. puts"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "names 是被放到圖片上的名字；需用 put 的過去分詞 put。put 的原形與過去分詞拼法相同，不能依一般變化加 -ed。"
+          },
+          {
+            "id": "h2-2-u5-q039",
+            "question": "He has little free time. If he were free, he could ___ up on his reading.",
+            "options": [
+              "A. catches",
+              "B. catching",
+              "C. catch",
+              "D. caught"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "could 後面接原形 catch；不是選片語意思，也不能因假設句而把 catch 改成 caught。"
+          },
+          {
+            "id": "h2-2-u5-q040",
+            "question": "The coach made the players ___ to his advice.",
+            "options": [
+              "A. listen",
+              "B. listens",
+              "C. listening",
+              "D. listened"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "players 是聽建議的人；主動使役結構 make + 執行者 + 原形動詞，用 listen。"
+          },
+          {
+            "id": "h2-2-u5-q041",
+            "question": "We do not need much water. If we ___ a large amount, we would need a bigger tank.",
+            "options": [
+              "A. need",
+              "B. needed",
+              "C. needing",
+              "D. needs"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "前句說現在不需要很多水；假設相反情況時，if 子句用過去式 needed。"
+          },
+          {
+            "id": "h2-2-u5-q042",
+            "question": "The school had the broken chairs ___ last week.",
+            "options": [
+              "A. fix",
+              "B. fixed",
+              "C. fixing",
+              "D. fixes"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "chairs 是被修理的椅子，使用過去分詞 fixed。fixes 是第三人稱單數現在式，不能放在這個受詞後當被動補語。"
+          },
+          {
+            "id": "h2-2-u5-q043",
+            "question": "I have no preference now. If I ___ a preference, I would tell you.",
+            "options": [
+              "A. has",
+              "B. having",
+              "C. had",
+              "D. have"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "現在沒有偏好；假設有偏好時用 had。主句的 would tell 與相反假設配合。"
+          },
+          {
+            "id": "h2-2-u5-q044",
+            "question": "The creator wants to share her new film. She will have it ___ at school.",
+            "options": [
+              "A. shown",
+              "B. show",
+              "C. shows",
+              "D. showing"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "it 指電影，是被放映給大家看的對象；show 的過去分詞 shown 放在受詞後。"
+          },
+          {
+            "id": "h2-2-u5-q045",
+            "question": "This plan is risky. If it ___ so risky, I would try it.",
+            "options": [
+              "A. are not",
+              "B. were not",
+              "C. not be",
+              "D. is not"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "計畫現在有風險；假設沒有這麼危險時，正式假設語氣的 be 否定用 were not。"
+          },
+          {
+            "id": "h2-2-u5-q046",
+            "question": "We need a variety of cakes for the party. Dad will have them ___ by a baker.",
+            "options": [
+              "A. make",
+              "B. makes",
+              "C. making",
+              "D. made"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "them 指蛋糕，是被麵包師傅製作的；by a baker 指出執行者，用 make 的過去分詞 made。"
+          },
+          {
+            "id": "h2-2-u5-q047",
+            "question": "Her phone contains many photos. If it contained no photos, she would not ___ worried about losing them.",
+            "options": [
+              "A. be",
+              "B. is",
+              "C. being",
+              "D. was"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "would not 後面的 be 動詞必須用原形 be；主詞是 she 也不能改用 is。"
+          },
+          {
+            "id": "h2-2-u5-q048",
+            "question": "The speaker wants people in the back to hear his idea. He will make it ___.",
+            "options": [
+              "A. hears",
+              "B. hear",
+              "C. hearing",
+              "D. heard"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "it 指講者的想法，是被後方聽眾聽見的內容；make + 受詞 + heard。"
+          },
+          {
+            "id": "h2-2-u5-q049",
+            "question": "I know very little about the story. I could enjoy the film more if I ___ more about its plot.",
+            "options": [
+              "A. known",
+              "B. knowing",
+              "C. know",
+              "D. knew"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "現在對劇情所知不多；後置的 if 子句仍用過去式 knew，known 是過去分詞，不能單獨放在這裡。"
+          },
+          {
+            "id": "h2-2-u5-q050",
+            "question": "My bedroom walls look old. I will have them ___ white.",
+            "options": [
+              "A. paint",
+              "B. painted",
+              "C. painting",
+              "D. paints"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "them 指牆壁，是被漆成白色的對象；have + 受詞 + painted，white 補充漆完的顏色。"
+          }
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          {
+            "id": "h2-2-u5-sv001",
+            "vocab_id": "h2-2-u5-v001",
+            "sentence": "This website contains lots of information about the K-pop band.",
+            "sentence_chinese": "這個網站包含許多關於這個韓國流行樂團的資訊。"
+          },
+          {
+            "id": "h2-2-u5-sv002",
+            "vocab_id": "h2-2-u5-v002",
+            "sentence": "If I knew this term, I could explain it.",
+            "sentence_chinese": "如果我知道這個用語，我就能解釋它。"
+          },
+          {
+            "id": "h2-2-u5-sv003",
+            "vocab_id": "h2-2-u5-v003",
+            "sentence": "If I had a small amount of salt, I could make soup.",
+            "sentence_chinese": "如果我有少量的鹽，我就能煮湯。"
+          },
+          {
+            "id": "h2-2-u5-sv004",
+            "vocab_id": "h2-2-u5-v004",
+            "sentence": "Frank told me too many secrets at one time. It was hard to digest all.",
+            "sentence_chinese": "Frank 一次告訴我太多祕密，很難全部消化。"
+          },
+          {
+            "id": "h2-2-u5-sv005",
+            "vocab_id": "h2-2-u5-v005",
+            "sentence": "If I had more money, I would buy a variety of books.",
+            "sentence_chinese": "如果我有更多錢，我就會買各式各樣的書。"
+          },
+          {
+            "id": "h2-2-u5-sv006",
+            "vocab_id": "h2-2-u5-v006",
+            "sentence": "Lucy is going to see the latest British film at a new theater.",
+            "sentence_chinese": "Lucy 打算去一家新電影院看最新的英國電影。"
+          },
+          {
+            "id": "h2-2-u5-sv007",
+            "vocab_id": "h2-2-u5-v007",
+            "sentence": "I love this novel because the development of its plot is very good.",
+            "sentence_chinese": "我喜歡這本小說，因為它的情節發展非常好。"
+          },
+          {
+            "id": "h2-2-u5-sv008",
+            "vocab_id": "h2-2-u5-v008",
+            "sentence": "Jessie and I have a lot in common. There is no doubt that we will become good friends.",
+            "sentence_chinese": "Jessie 和我有許多共同點，毫無疑問，我們會成為好朋友。"
+          },
+          {
+            "id": "h2-2-u5-sv009",
+            "vocab_id": "h2-2-u5-v009",
+            "sentence": "The plot of this movie was too complicated, so I had to watch it again.",
+            "sentence_chinese": "這部電影的情節太複雜，所以我得再看一次。"
+          },
+          {
+            "id": "h2-2-u5-sv010",
+            "vocab_id": "h2-2-u5-v010",
+            "sentence": "If our school changed this policy, we could use phones at lunch.",
+            "sentence_chinese": "如果我們學校改變這項政策，我們就能在午餐時間使用手機。"
+          },
+          {
+            "id": "h2-2-u5-sv011",
+            "vocab_id": "h2-2-u5-v011",
+            "sentence": "If you explained it, there would be no misunderstanding.",
+            "sentence_chinese": "如果你解釋這件事，就不會有誤會。"
+          },
+          {
+            "id": "h2-2-u5-sv012",
+            "vocab_id": "h2-2-u5-v012",
+            "sentence": "This LINE creator has uploaded some funny stickers, and they have become very popular.",
+            "sentence_chinese": "這位 LINE 創作者上傳了一些有趣的貼圖，而這些貼圖變得非常受歡迎。"
+          },
+          {
+            "id": "h2-2-u5-sv013",
+            "vocab_id": "h2-2-u5-v013",
+            "sentence": "Charlotte has a preference for five-toe socks rather than normal ones.",
+            "sentence_chinese": "比起一般襪子，Charlotte 更喜歡五趾襪。"
+          },
+          {
+            "id": "h2-2-u5-sv014",
+            "vocab_id": "h2-2-u5-v014",
+            "sentence": "The article presents a balanced view of the latest debates in society.",
+            "sentence_chinese": "這篇文章對社會上最新的爭議提出周全的觀點。"
+          },
+          {
+            "id": "h2-2-u5-sv015",
+            "vocab_id": "h2-2-u5-v015",
+            "sentence": "If the game were risky, I would not play it.",
+            "sentence_chinese": "如果這個遊戲有危險，我就不會玩。"
+          },
+          {
+            "id": "h2-2-u5-sv016",
+            "vocab_id": "h2-2-u5-v016",
+            "sentence": "If buses were more frequent, I could get home earlier.",
+            "sentence_chinese": "如果公車班次更頻繁，我就能早一點到家。"
+          }
+        ],
+        "phrases": [
+          {
+            "id": "h2-2-u5-sp001",
+            "phrase_id": "h2-2-u5-p001",
+            "sentence": "It never crossed my mind that I would work for NASA one day.",
+            "sentence_chinese": "我從沒想過，有一天我會為 NASA 工作。"
+          },
+          {
+            "id": "h2-2-u5-sp002",
+            "phrase_id": "h2-2-u5-p002",
+            "sentence": "Rick and I haven’t seen each other for a long time, so we naturally have a lot to catch up on.",
+            "sentence_chinese": "Rick 和我很久沒見了，所以自然有許多近況要聊。"
+          },
+          {
+            "id": "h2-2-u5-sp003",
+            "phrase_id": "h2-2-u5-p003",
+            "sentence": "Although the two pictures looked similar, Shelly could still tell them apart.",
+            "sentence_chinese": "雖然這兩張圖片看起來很相似，Shelly 仍然能分辨它們。"
+          },
+          {
+            "id": "h2-2-u5-sp004",
+            "phrase_id": "h2-2-u5-p004",
+            "sentence": "This hot pot is still boiling. Without a doubt, it is very hot right now.",
+            "sentence_chinese": "這鍋火鍋還在沸騰，毫無疑問，現在非常燙。"
+          },
+          {
+            "id": "h2-2-u5-sp005",
+            "phrase_id": "h2-2-u5-p005",
+            "sentence": "I rely on my friends for support when I am depressed.",
+            "sentence_chinese": "我感到沮喪時，會依靠朋友的支持。"
+          },
+          {
+            "id": "h2-2-u5-sp006",
+            "phrase_id": "h2-2-u5-p006",
+            "sentence": "Thanks for your advice. I’ll be sure to keep it in mind.",
+            "sentence_chinese": "謝謝你的建議，我一定會記在心裡。"
+          }
+        ],
+        "grammar": [
+          {
+            "id": "h2-2-u5-sg001",
+            "sentence": "If I knew the term, I could explain it.",
+            "sentence_chinese": "如果我知道這個用語，我就能解釋它。"
+          },
+          {
+            "id": "h2-2-u5-sg002",
+            "sentence": "We had the old classroom door repaired yesterday.",
+            "sentence_chinese": "我們昨天請人修好了教室的舊門。"
+          },
+          {
+            "id": "h2-2-u5-sg003",
+            "sentence": "If buses were frequent, we could leave later.",
+            "sentence_chinese": "如果公車班次頻繁，我們就能晚一點出發。"
+          },
+          {
+            "id": "h2-2-u5-sg004",
+            "sentence": "She spoke loudly to make her voice heard.",
+            "sentence_chinese": "她大聲說話，讓別人聽見她的聲音。"
+          },
+          {
+            "id": "h2-2-u5-sg005",
+            "sentence": "I would watch the film if I were free.",
+            "sentence_chinese": "如果我有空，我就會看這部電影。"
+          },
+          {
+            "id": "h2-2-u5-sg006",
+            "sentence": "The creator had her pictures printed on cards.",
+            "sentence_chinese": "這位創作者請人把她的圖片印在卡片上。"
+          },
+          {
+            "id": "h2-2-u5-sg007",
+            "sentence": "If the plot were simple, I could follow it.",
+            "sentence_chinese": "如果情節簡單，我就能看懂。"
+          },
+          {
+            "id": "h2-2-u5-sg008",
+            "sentence": "He drew a picture to make himself understood.",
+            "sentence_chinese": "他畫了一張圖，讓別人理解他的意思。"
+          },
+          {
+            "id": "h2-2-u5-sg009",
+            "sentence": "If I were you, I would avoid risky jobs.",
+            "sentence_chinese": "如果我是你，我會避開有危險的工作。"
+          },
+          {
+            "id": "h2-2-u5-sg010",
+            "sentence": "We will have the school policy translated tomorrow.",
+            "sentence_chinese": "我們明天會請人翻譯學校政策。"
+          },
+          {
+            "id": "h2-2-u5-sg011",
+            "sentence": "If she needed support, she could rely on me.",
+            "sentence_chinese": "如果她需要支持，她就能依靠我。"
+          },
+          {
+            "id": "h2-2-u5-sg012",
+            "sentence": "The teacher had the helper explain the term.",
+            "sentence_chinese": "老師請助手解釋這個用語。"
+          },
+          {
+            "id": "h2-2-u5-sg013",
+            "sentence": "If I kept notes, I would remember the advice.",
+            "sentence_chinese": "如果我有記筆記，我就會記得這個建議。"
+          },
+          {
+            "id": "h2-2-u5-sg014",
+            "sentence": "We waved our flags to make ourselves seen.",
+            "sentence_chinese": "我們揮動旗子，讓別人看見我們。"
+          },
+          {
+            "id": "h2-2-u5-sg015",
+            "sentence": "If he spoke slowly, there would be no misunderstanding.",
+            "sentence_chinese": "如果他說得慢一點，就不會有誤會。"
+          },
+          {
+            "id": "h2-2-u5-sg016",
+            "sentence": "My brother had his broken bike fixed yesterday.",
+            "sentence_chinese": "我哥哥昨天請人修好了他壞掉的腳踏車。"
+          },
+          {
+            "id": "h2-2-u5-sg017",
+            "sentence": "If the plan weren’t risky, I would try it.",
+            "sentence_chinese": "如果這個計畫沒有危險，我就會試試看。"
+          },
+          {
+            "id": "h2-2-u5-sg018",
+            "sentence": "The club had a variety of cakes made.",
+            "sentence_chinese": "這個社團請人製作了各式各樣的蛋糕。"
+          },
+          {
+            "id": "h2-2-u5-sg019",
+            "sentence": "If I had money, I would buy the film.",
+            "sentence_chinese": "如果我有錢，我就會買這部電影。"
+          },
+          {
+            "id": "h2-2-u5-sg020",
+            "sentence": "We had the timetable posted at every bus stop.",
+            "sentence_chinese": "我們請人在每個公車站張貼時刻表。"
+          },
+          {
+            "id": "h2-2-u5-sg021",
+            "sentence": "I could help if I knew your preference.",
+            "sentence_chinese": "如果我知道你的偏好，我就能幫忙。"
+          },
+          {
+            "id": "h2-2-u5-sg022",
+            "sentence": "The teacher made the students read the policy.",
+            "sentence_chinese": "老師要學生閱讀這項政策。"
+          },
+          {
+            "id": "h2-2-u5-sg023",
+            "sentence": "If the box contained glass, I would carry it carefully.",
+            "sentence_chinese": "如果盒子裡有玻璃，我就會小心搬運它。"
+          },
+          {
+            "id": "h2-2-u5-sg024",
+            "sentence": "She had the letters sent to her friends.",
+            "sentence_chinese": "她請人把信寄給她的朋友。"
+          },
+          {
+            "id": "h2-2-u5-sg025",
+            "sentence": "If I had time, I could digest the news.",
+            "sentence_chinese": "如果我有時間，我就能消化這個消息。"
+          },
+          {
+            "id": "h2-2-u5-sg026",
+            "sentence": "We will have the mistake in the report corrected.",
+            "sentence_chinese": "我們會請人更正報告中的錯誤。"
+          },
+          {
+            "id": "h2-2-u5-sg027",
+            "sentence": "If the twins wore different hats, I could tell them apart.",
+            "sentence_chinese": "如果這對雙胞胎戴不同的帽子，我就能分辨他們。"
+          },
+          {
+            "id": "h2-2-u5-sg028",
+            "sentence": "The creator will have her new film shown.",
+            "sentence_chinese": "這位創作者會安排放映她的新電影。"
+          },
+          {
+            "id": "h2-2-u5-sg029",
+            "sentence": "If the policy changed, more students could join.",
+            "sentence_chinese": "如果政策改變，就會有更多學生能參加。"
+          },
+          {
+            "id": "h2-2-u5-sg030",
+            "sentence": "I had the key points written on cards.",
+            "sentence_chinese": "我請人把重點寫在卡片上。"
+          }
+        ]
+      }
+    }
+  }
+}
