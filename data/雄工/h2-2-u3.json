@@ -1,0 +1,1512 @@
+{
+  "units": {
+    "h2-2-u3": {
+      "title": "U3",
+      "vocab": [
+        {
+          "id": "h2-2-u3-v001",
+          "word": "failure",
+          "part_of_speech": "名",
+          "chinese": "失敗",
+          "sentence": "Gary is depressed about his failure to win the road race.",
+          "sentence_chinese": "Gary 因為沒能贏得路跑比賽而感到沮喪。"
+        },
+        {
+          "id": "h2-2-u3-v002",
+          "word": "amusing",
+          "part_of_speech": "形",
+          "chinese": "有趣的；好玩的",
+          "sentence": "This writer is famous for his amusing Facebook posts, and they always make the readers laugh.",
+          "sentence_chinese": "這位作家以他有趣的 Facebook 貼文聞名，這些貼文總是逗得讀者發笑。"
+        },
+        {
+          "id": "h2-2-u3-v003",
+          "word": "gather",
+          "part_of_speech": "動",
+          "chinese": "收集；聚集",
+          "sentence": "Mia gathered her colored pencils and put them into her pencil case.",
+          "sentence_chinese": "Mia 收起她的彩色鉛筆，把它們放進鉛筆盒裡。"
+        },
+        {
+          "id": "h2-2-u3-v004",
+          "word": "organization",
+          "part_of_speech": "名",
+          "chinese": "組織；機構",
+          "sentence": "Mr. Huang donates money to an organization every month to help poor children.",
+          "sentence_chinese": "黃先生每個月都捐錢給一個機構，幫助貧困的孩子。"
+        },
+        {
+          "id": "h2-2-u3-v005",
+          "word": "research",
+          "part_of_speech": "名",
+          "chinese": "研究；調查",
+          "sentence": "Anna is doing research on new ways to bake a cake.",
+          "sentence_chinese": "Anna 正在研究烤蛋糕的新方法。"
+        },
+        {
+          "id": "h2-2-u3-v006",
+          "word": "display",
+          "part_of_speech": "動",
+          "chinese": "展示",
+          "sentence": "The young artist was excited to display her works at a famous arts festival.",
+          "sentence_chinese": "這位年輕藝術家很興奮能在一個知名藝術節展示她的作品。"
+        },
+        {
+          "id": "h2-2-u3-v007",
+          "word": "insist",
+          "part_of_speech": "動",
+          "chinese": "堅持",
+          "sentence": "To become a better cook, Julie insisted on practicing her knife skills every day.",
+          "sentence_chinese": "為了成為更好的廚師，Julie 堅持每天練習刀工。"
+        },
+        {
+          "id": "h2-2-u3-v008",
+          "word": "goal",
+          "part_of_speech": "名",
+          "chinese": "目的；目標",
+          "sentence": "After months of hard work, Daniel achieved his goal of getting one hundred thousand fans on YouTube.",
+          "sentence_chinese": "經過數個月的努力，Daniel 達成了在 YouTube 上擁有十萬名粉絲的目標。"
+        },
+        {
+          "id": "h2-2-u3-v009",
+          "word": "particularly",
+          "part_of_speech": "副",
+          "chinese": "特別；尤其",
+          "sentence": "I didn't eat much for lunch, so I feel particularly hungry now.",
+          "sentence_chinese": "我午餐吃得不多，所以現在覺得特別餓。"
+        },
+        {
+          "id": "h2-2-u3-v010",
+          "word": "frozen",
+          "part_of_speech": "形",
+          "chinese": "冷凍的",
+          "sentence": "Rebecca puts the frozen meat in warm water, so she can cook it for lunch later.",
+          "sentence_chinese": "Rebecca 把冷凍肉放進溫水裡，這樣待會就能把它煮來當午餐。"
+        },
+        {
+          "id": "h2-2-u3-v011",
+          "word": "mix",
+          "part_of_speech": "名",
+          "chinese": "混合物",
+          "sentence": "The color green is a mix of blue and yellow.",
+          "sentence_chinese": "綠色是藍色和黃色的混合。"
+        },
+        {
+          "id": "h2-2-u3-v012",
+          "word": "flavor",
+          "part_of_speech": "名",
+          "chinese": "味道",
+          "sentence": "Gary loves the strong flavor of blue cheese.",
+          "sentence_chinese": "Gary 喜歡藍紋起司的濃郁味道。"
+        },
+        {
+          "id": "h2-2-u3-v013",
+          "word": "period",
+          "part_of_speech": "名",
+          "chinese": "一段時間；時期",
+          "sentence": "Ariel is so busy that she hasn't visited her parents for a long period of time.",
+          "sentence_chinese": "Ariel 忙得已經很長一段時間沒去探望父母了。"
+        },
+        {
+          "id": "h2-2-u3-v014",
+          "word": "represent",
+          "part_of_speech": "動",
+          "chinese": "象徵；表示",
+          "sentence": "The ding-dong sound from Mandy's smartphone represents an incoming LINE message.",
+          "sentence_chinese": "Mandy 的智慧型手機發出叮咚聲，表示有一則 LINE 訊息傳進來。"
+        },
+        {
+          "id": "h2-2-u3-v015",
+          "word": "enjoyable",
+          "part_of_speech": "形",
+          "chinese": "令人愉快的",
+          "sentence": "We had an enjoyable picnic with delicious food and music.",
+          "sentence_chinese": "我們享受了一次有美食和音樂的愉快野餐。"
+        },
+        {
+          "id": "h2-2-u3-v016",
+          "word": "willing",
+          "part_of_speech": "形",
+          "chinese": "願意的",
+          "sentence": "Tom is willing to do anything to promote his new product.",
+          "sentence_chinese": "Tom 願意做任何事來推廣他的新產品。"
+        },
+        {
+          "id": "h2-2-u3-v017",
+          "word": "embrace",
+          "part_of_speech": "動",
+          "chinese": "欣然接受；擁抱",
+          "sentence": "My grandparents are glad to embrace new technology although it takes time to learn.",
+          "sentence_chinese": "我的祖父母很樂意接受新科技，雖然學習需要花時間。"
+        },
+        {
+          "id": "h2-2-u3-v018",
+          "word": "path",
+          "part_of_speech": "名",
+          "chinese": "道路；小徑",
+          "sentence": "I walk down a path between the two houses to get to my school every day.",
+          "sentence_chinese": "我每天沿著兩棟房屋之間的小徑走去學校。"
+        }
+      ],
+      "phrases": [
+        {
+          "id": "h2-2-u3-p001",
+          "phrase": "have...in common",
+          "chinese": "有……共通點",
+          "sentence": "Judy and Roy have a lot in common. For example, they both love sushi and ramen.",
+          "sentence_chinese": "Judy 和 Roy 有很多共通點，例如他們都喜歡壽司和拉麵。"
+        },
+        {
+          "id": "h2-2-u3-p002",
+          "phrase": "come up with",
+          "chinese": "提出（想法）",
+          "sentence": "We had a problem with our science project, but Alisa came up with a smart solution.",
+          "sentence_chinese": "我們的科學專題遇到了問題，但 Alisa 想出了一個聰明的解決辦法。"
+        },
+        {
+          "id": "h2-2-u3-p003",
+          "phrase": "get / be tired of",
+          "chinese": "厭倦",
+          "sentence": "Tyler was tired of his room, so he decided to redecorate it.",
+          "sentence_chinese": "Tyler 厭倦了自己的房間，因此決定重新裝潢。"
+        },
+        {
+          "id": "h2-2-u3-p004",
+          "phrase": "due to",
+          "chinese": "由於；因為",
+          "sentence": "The delay in the building project was due to the snowstorm.",
+          "sentence_chinese": "這項建築工程因暴風雪而延誤。"
+        },
+        {
+          "id": "h2-2-u3-p005",
+          "phrase": "behind the times",
+          "chinese": "過時；落伍",
+          "sentence": "Nowadays, an MP3 player is thought to be behind the times.",
+          "sentence_chinese": "如今，MP3 播放器被認為已經過時了。"
+        },
+        {
+          "id": "h2-2-u3-p006",
+          "phrase": "go out of business",
+          "chinese": "破產；停業",
+          "sentence": "The restaurant went out of business because fewer and fewer customers chose to eat there.",
+          "sentence_chinese": "這家餐廳歇業了，因為選擇去那裡用餐的顧客越來越少。"
+        }
+      ],
+      "grammar": {
+        "tips": [
+          {
+            "label": "限定三者",
+            "text": "三個對象依序介紹：One... Another... The other...；the other 指最後剩下的一個。"
+          },
+          {
+            "label": "限定兩者",
+            "text": "只有兩個時：One... The other...，例如 One is new, and the other is old."
+          },
+          {
+            "label": "接單數名詞",
+            "text": "one、another、the other 都可代替單數名詞，也可接單數名詞：one path、another path、the other path。"
+          },
+          {
+            "label": "間接問句語序",
+            "text": "疑問詞後面用直述句語序：wh- + 主詞 + 動詞；有 can、should、will 等助動詞時，放在主詞後面。"
+          },
+          {
+            "label": "do／does／did",
+            "text": "用來形成一般問句的 do／does／did 通常拿掉，動詞恢復相應的現在式或過去式；否定的 don’t／doesn’t／didn’t 要保留。"
+          },
+          {
+            "label": "who 作主詞",
+            "text": "who 本身是做動作的人時，直接接動詞：I wonder who opened the door. 不要再補一個 he 或 she。"
+          }
+        ],
+        "notes": [
+          {
+            "title": "限定三個：one、another、the other",
+            "rule": "One... Another... The other...",
+            "description": "在已知的三個對象中，one 引出一個，another 引出另一個，the other 指最後剩下的那一個。本課用這個句型依序介紹三個單數對象。other 單獨不能在此代替單數可數名詞；others 和 the others 是複數，不能代替最後唯一的一個。",
+            "examples": [
+              "We have three boxes. One is red, another is blue, and the other is green.（我們有三個箱子。一個是紅色，另一個是藍色，最後一個是綠色。）",
+              "There are three plans. One is useful, another is simple, and the other is amusing.（有三個計畫。一個實用，另一個簡單，最後一個很有趣。）"
+            ]
+          },
+          {
+            "title": "代名詞、接名詞與單數動詞",
+            "rule": "one / another / the other + 單數可數名詞",
+            "description": "這三個詞可以自己代替已提過的單數名詞，也能接單數名詞，如 another student。another 要寫成一個字，不寫 an other，也不加 an 變成 an another。表示一個人或物時，要配合單數動詞，如 is、has、represents。",
+            "examples": [
+              "One student reads, another student writes, and the other student listens.（一名學生閱讀，另一名學生寫字，最後一名學生聆聽。）",
+              "One reads, another writes, and the other listens.（一個人閱讀，另一個人寫字，最後一個人聆聽。）"
+            ]
+          },
+          {
+            "title": "只有兩個時怎麼說",
+            "rule": "One... The other...",
+            "description": "範圍只有兩個時，介紹完第一個，剩下的就是唯一的另一個，所以用 the other。先找題目中的 two 或 three，再判斷目前還剩幾個；不要看到「另一個」就一律選 another。",
+            "examples": [
+              "There are two paths. One is short, and the other is long.（有兩條小徑。一條短，另一條長。）",
+              "I have two phones. One works, but the other is broken.（我有兩支手機。一支能用，另一支壞了。）"
+            ]
+          },
+          {
+            "title": "間接問句：疑問詞後不倒裝",
+            "rule": "主要子句 + wh- + 主詞 +（助動詞）+ 動詞",
+            "description": "把疑問句放進 know、wonder、ask、tell 等表達裡時，疑問詞後面改用直述句語序。be 動詞放在主詞後面；can、should、will、would 也放在主詞後面。which country、how many books 等疑問片語要整組保留。",
+            "examples": [
+              "Where is the display? → Do you know where the display is?（你知道展示品在哪裡嗎？）",
+              "When should we gather? → Please tell me when we should gather.（請告訴我我們應該何時集合。）",
+              "Which flavor do you want? → Tell me which flavor you want.（告訴我你想要哪一種口味。）"
+            ]
+          },
+          {
+            "title": "一般疑問助動詞 do、does、did 的處理",
+            "rule": "wh- + 主詞 + 依主詞和時態變化的動詞",
+            "description": "普通肯定的間接問句不保留只用來形成問句的 do／does／did。原句有 does 時，動詞要配合第三人稱單數加 s／es；原句有 did 時，主要動詞恢復過去式。原句有 do 時，依複數主詞等情況使用原形動詞。這是普通用法；不要把特殊強調語氣當成這裡的一般改寫。",
+            "examples": [
+              "Where does this path go? → I wonder where this path goes.（我想知道這條小徑通往哪裡。）",
+              "What do they have in common? → Tell me what they have in common.（告訴我他們有什麼共通點。）",
+              "Why did the shop close? → Do you know why the shop closed?（你知道那家店為什麼關門嗎？）"
+            ]
+          },
+          {
+            "title": "否定助動詞必須保留",
+            "rule": "wh- + 主詞 + don’t / doesn’t / didn’t + 原形動詞",
+            "description": "否定助動詞包含「不／沒有」的意思，不能套用上一條而直接刪掉。它放在主詞後，主要動詞用原形。be 動詞的否定式也放在主詞後，如 why he wasn’t ready。",
+            "examples": [
+              "Why didn’t Joe come? → Tell me why Joe didn’t come.（告訴我 Joe 為什麼沒來。）",
+              "Why doesn’t this machine work? → I wonder why this machine doesn’t work.（我想知道這台機器為什麼不能運作。）",
+              "Why wasn’t he willing to help? → Do you know why he wasn’t willing to help?（你知道他為什麼不願意幫忙嗎？）"
+            ]
+          },
+          {
+            "title": "who 本身是主詞，還是子句裡另有主詞",
+            "rule": "who + 動詞；或 who + 已有的主詞 + 動詞",
+            "description": "先找誰在做動作。I wonder who made the video. 中，who 就是製作影片的人，後面直接接 made。Do you know who the woman is? 中，主詞是 the woman，is 放在它後面。whose pencil 中的 whose 表示「誰的」，要和 pencil 放在一起；若借筆的人是 Lisa，則說 whose pencil Lisa borrowed。",
+            "examples": [
+              "Who opened the door? → I wonder who opened the door.（我想知道誰開了門。）",
+              "Who is the woman? → Do you know who the woman is?（你知道那位女士是誰嗎？）",
+              "Whose pencil did Lisa borrow? → Tell me whose pencil Lisa borrowed.（告訴我 Lisa 借了誰的鉛筆。）"
+            ]
+          },
+          {
+            "title": "整句標點與介系詞後的間接問句",
+            "rule": "問號看主要子句；about 後也可接 wh- 子句",
+            "description": "Do you know...? 和 Could you tell me...? 整句在提問，所以用問號。I wonder... 是陳述句，Please tell me... 是請求，通常用句號。be curious about 後也能放間接問句，語序仍是疑問詞 + 主詞 + 動詞。改寫時保留題目提供的時間關係，不要看見間接問句就任意更換時態。",
+            "examples": [
+              "Do you know where the museum is?（你知道博物館在哪裡嗎？）",
+              "I wonder where the museum is.（我想知道博物館在哪裡。）",
+              "She is curious about why the picnic was so enjoyable.（她很好奇那次野餐為什麼那麼愉快。）"
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "id": "h2-2-u3-q001",
+            "question": "There are exactly three paths to the museum. One is short, another is wide, and ___ is narrow.",
+            "options": [
+              "A. other",
+              "B. others",
+              "C. the other",
+              "D. the others"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "three paths 限定三條，前面已說完一條和另一條，空格指最後一條，用 the other。other 不能單獨代替此處的單數名詞；others／the others 是複數，不能配合 is。"
+          },
+          {
+            "id": "h2-2-u3-q002",
+            "question": "The museum has three rooms. One displays old phones. ___ displays toys. The other displays photos.",
+            "options": [
+              "A. Other",
+              "B. Others",
+              "C. An other",
+              "D. Another"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "第一個房間已用 One，最後一個已用 The other，中間用單數代名詞 Another。Other 不能單獨代替一個房間；Others 是複數；another 不拆成 an other。"
+          },
+          {
+            "id": "h2-2-u3-q003",
+            "question": "This frozen yogurt comes in three flavors. ___ flavor is lemon, another is mango, and the other is peach.",
+            "options": [
+              "A. One",
+              "B. Ones",
+              "C. Others",
+              "D. The others"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "空格後已有單數名詞 flavor，第一個口味用 One flavor。Ones、Others、The others 都不能這樣直接修飾單數 flavor。"
+          },
+          {
+            "id": "h2-2-u3-q004",
+            "question": "I have three goals this year. One goal is to read more. ___ goal is to exercise. The other goal is to learn to cook.",
+            "options": [
+              "A. Another",
+              "B. Other",
+              "C. Others",
+              "D. An another"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "這裡介紹三個目標中的另一個，且後接單數 goal，用 Another。Other 缺少適當限定詞，Others 不能直接接 goal，another 前也不能再加 an。"
+          },
+          {
+            "id": "h2-2-u3-q005",
+            "question": "The school day has three study periods. One is for reading, another is for research, and ___ period is for art.",
+            "options": [
+              "A. other",
+              "B. others",
+              "C. the others",
+              "D. the other"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "三段學習時間已介紹兩段，最後一段用 the other period。others 和 the others 本身是複數代名詞，不能直接接單數 period；other 單獨接單數可數名詞也不合此處用法。"
+          },
+          {
+            "id": "h2-2-u3-q006",
+            "question": "The organization has only two offices. One is open today, but ___ is closed.",
+            "options": [
+              "A. the other",
+              "B. other",
+              "C. others",
+              "D. the others"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "only two offices 表示只有兩間。說完 One，另一間就是唯一剩下的一間，用 the other；複數 others／the others 不能配合 is。"
+          },
+          {
+            "id": "h2-2-u3-q007",
+            "question": "We found three notes about the failure. ___ is on the desk, another is in a bag, and the other is under a book.",
+            "options": [
+              "A. Ones",
+              "B. Others",
+              "C. One",
+              "D. The others"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "後面已有 another 和 the other，這裡用 One 引出三張紙條中的第一張。紙條是一張，動詞是 is，不能用複數 Ones、Others 或 The others。"
+          },
+          {
+            "id": "h2-2-u3-q008",
+            "question": "Three organizations joined the event. One organization brought food. ___ organization brought books. The other brought toys.",
+            "options": [
+              "A. Other",
+              "B. Another",
+              "C. Others",
+              "D. An other"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "organization 是單數可數名詞，中間另一個組織用 Another organization。Others 不能接名詞；another 是一個字；Other 單獨接此單數名詞缺少限定詞。"
+          },
+          {
+            "id": "h2-2-u3-q009",
+            "question": "Three bags are on display now. One is red. Another ___ blue. The other is green.",
+            "options": [
+              "A. are",
+              "B. am",
+              "C. is",
+              "D. be"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "Another 在這裡代替 one bag，表示一個袋子，現在式 be 動詞用 is。前面總共有三個袋子，不代表 Another 是複數。"
+          },
+          {
+            "id": "h2-2-u3-q010",
+            "question": "The three signs show different ideas. One represents hope, another represents love, and the other ___ peace.",
+            "options": [
+              "A. represent",
+              "B. representing",
+              "C. represents",
+              "D. to represent"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "the other 指三個標誌中最後一個，是第三人稱單數主詞。與前面 represents 保持現在式，空格也用 represents。"
+          },
+          {
+            "id": "h2-2-u3-q011",
+            "question": "We came up with three plans. One is cheap. ___ is easy to follow. The other needs more time.",
+            "options": [
+              "A. Other",
+              "B. Others",
+              "C. Another",
+              "D. An other"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "One 和 The other 分別介紹第一個及最後一個計畫，中間另一個用 Another。空格代替單數 plan，不能用複數 Others，也不能寫成 An other。"
+          },
+          {
+            "id": "h2-2-u3-q012",
+            "question": "There are three boxes in the kitchen. One holds frozen meat, another holds fruit, and ___ holds bread.",
+            "options": [
+              "A. other",
+              "B. the other",
+              "C. others",
+              "D. the others"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "三個箱子已列出兩個，剩下最後一個用 the other。動詞 holds 也顯示主詞是單數；others／the others 是複數。"
+          },
+          {
+            "id": "h2-2-u3-q013",
+            "question": "I own only two phones. One still works well, but ___ is broken and behind the times.",
+            "options": [
+              "A. other",
+              "B. others",
+              "C. the other",
+              "D. the others"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "only two phones 限定兩支手機，說完 One，唯一的另一支用 the other。Other 不能單獨代替這支手機，others／the others 則是複數。"
+          },
+          {
+            "id": "h2-2-u3-q014",
+            "question": "The class made three amusing videos. ___ video is about a cat, another is about a dog, and the other is about a bird.",
+            "options": [
+              "A. Ones",
+              "B. Others",
+              "C. The others",
+              "D. One"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "第一部影片用 One video；video 是單數名詞。Ones、Others、The others 不能像限定詞一樣直接接單數 video。"
+          },
+          {
+            "id": "h2-2-u3-q015",
+            "question": "Three people are preparing the picnic. One cooks, ___ prepares the drinks, and the other washes the fruit.",
+            "options": [
+              "A. other",
+              "B. another",
+              "C. others",
+              "D. an other"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "三個人各做一件事，One 之後用 another 引出另一人，the other 指最後一人。another 是單數，能配合 prepares；others 是複數。"
+          },
+          {
+            "id": "h2-2-u3-q016",
+            "question": "All three models are on display now. One works well, another makes noise, and the other ___ broken.",
+            "options": [
+              "A. is",
+              "B. are",
+              "C. am",
+              "D. be"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "the other 指最後一個模型，所以雖然總共有 three models，這個子句的主詞仍是單數，be 動詞用 is。"
+          },
+          {
+            "id": "h2-2-u3-q017",
+            "question": "There are three paths outside. ___ leads to the river, another leads to the park, and the other leads to the museum.",
+            "options": [
+              "A. One paths",
+              "B. One path",
+              "C. Ones path",
+              "D. Ones paths"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "one 作限定詞時接單數可數名詞，因此用 One path。不能把 path 加 s，也不能把限定詞 one 改成 ones。"
+          },
+          {
+            "id": "h2-2-u3-q018",
+            "question": "We visited three museums. One museum was about toys. ___ museum was about failure. The other was about art.",
+            "options": [
+              "A. Other",
+              "B. Others",
+              "C. An another",
+              "D. Another"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "三間博物館中的另一間用 Another museum；museum 是單數。Other 單獨接此名詞缺少限定詞，Others 不能接名詞，another 前面不能再加 an。"
+          },
+          {
+            "id": "h2-2-u3-q019",
+            "question": "Could you tell me where ___?",
+            "options": [
+              "A. is the new display",
+              "B. does the new display",
+              "C. the new display is",
+              "D. the new display be"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "Could you tell me 後接間接問句，where 後用「主詞 the new display + be 動詞 is」，不能沿用 where is... 的直接問句語序。"
+          },
+          {
+            "id": "h2-2-u3-q020",
+            "question": "I wonder why ___ still frozen.",
+            "options": [
+              "A. is the meat",
+              "B. the meat is",
+              "C. does the meat",
+              "D. the meat be"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "why 引導間接問句，主詞 the meat 放在 is 前面。frozen 在這裡是形容詞，需要 be 動詞，不能用 does 代替 is。"
+          },
+          {
+            "id": "h2-2-u3-q021",
+            "question": "Mia wants to know where ___ gather more information for her research.",
+            "options": [
+              "A. can she",
+              "B. she can",
+              "C. she does can",
+              "D. does she can"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "where 後用主詞 she + 情態助動詞 can。間接問句不寫 can she，can 前面也不需要 does。"
+          },
+          {
+            "id": "h2-2-u3-q022",
+            "question": "Please tell me what ___ to reach our goal.",
+            "options": [
+              "A. should we do",
+              "B. we do should",
+              "C. we should do",
+              "D. do we should"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "what 後的間接問句用「主詞 we + should + 原形動詞 do」。should 不移到主詞前，do 也不能放到 should 前面。"
+          },
+          {
+            "id": "h2-2-u3-q023",
+            "question": "Do you know when ___ tomorrow?",
+            "options": [
+              "A. will the museum open",
+              "B. the museum open will",
+              "C. open will the museum",
+              "D. the museum will open"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "when 後要用直述句語序：the museum + will + open。雖然整句以 Do you know 提問，內部子句仍不能把 will 放到主詞前。"
+          },
+          {
+            "id": "h2-2-u3-q024",
+            "question": "I wonder how ___ this new mix of colors.",
+            "options": [
+              "A. we can display",
+              "B. can we display",
+              "C. we display can",
+              "D. do we can display"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "how 引導的間接問句用 we can display。主詞在 can 前，原形動詞 display 在 can 後，不能另外加入疑問助動詞 do。"
+          },
+          {
+            "id": "h2-2-u3-q025",
+            "question": "I wonder where this path ___.",
+            "options": [
+              "A. goes",
+              "B. go",
+              "C. going",
+              "D. to go"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "直接問句是 Where does this path go? 改成間接問句後，疑問助動詞 does 拿掉，this path 是第三人稱單數，因此動詞恢復 goes。"
+          },
+          {
+            "id": "h2-2-u3-q026",
+            "question": "Can you tell me what this picture ___?",
+            "options": [
+              "A. represent",
+              "B. represents",
+              "C. representing",
+              "D. to represent"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "原本問 What does this picture represent? 間接問句不保留一般疑問用的 does，主詞 this picture 是單數，所以用 represents。"
+          },
+          {
+            "id": "h2-2-u3-q027",
+            "question": "Do you know why ___ on practicing every day?",
+            "options": [
+              "A. do they insist",
+              "B. them insist",
+              "C. insist they",
+              "D. they insist"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "why 後面使用主詞 they + 動詞 insist。直接問句的 do 不保留；them 是受格，不能在這裡當主詞。"
+          },
+          {
+            "id": "h2-2-u3-q028",
+            "question": "I wonder why the restaurant ___ out of business last month.",
+            "options": [
+              "A. go",
+              "B. going",
+              "C. went",
+              "D. to go"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "last month 指過去時間。直接問句 Why did the restaurant go...? 改成間接問句後，拿掉 did，go 恢復過去式 went。"
+          },
+          {
+            "id": "h2-2-u3-q029",
+            "question": "Do you remember where ___ last night?",
+            "options": [
+              "A. did the group gather",
+              "B. the group gathered",
+              "C. the group gather",
+              "D. gathered the group"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "where 後用主詞 the group + 過去式 gathered；last night 要求過去時間。不能保留 did the group gather 的問句倒裝。"
+          },
+          {
+            "id": "h2-2-u3-q030",
+            "question": "Please tell me what ___ from the failure yesterday.",
+            "options": [
+              "A. you learned",
+              "B. did you learn",
+              "C. you learn",
+              "D. learned you"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "yesterday 表示過去，間接問句要用 you learned。did you learn 是直接問句語序；去掉 did 後不能仍用一般現在式 learn。"
+          },
+          {
+            "id": "h2-2-u3-q031",
+            "question": "Does Ben know what ___ for the organization right now?",
+            "options": [
+              "A. are we doing",
+              "B. we are doing",
+              "C. we doing are",
+              "D. do we are"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "right now 配合現在進行式。what 後用 we are doing，主詞 we 放在 are 前；外面的 Does Ben know 不會讓內部子句倒裝。"
+          },
+          {
+            "id": "h2-2-u3-q032",
+            "question": "Amy wants to know what ___ at seven last night.",
+            "options": [
+              "A. was her dad cooking",
+              "B. her dad cooking was",
+              "C. was cooking her dad",
+              "D. her dad was cooking"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "what 引導間接問句，過去進行式的順序是 her dad + was + cooking。不能把 was 放到主詞 her dad 前面。"
+          },
+          {
+            "id": "h2-2-u3-q033",
+            "question": "I wonder why Leo ___ willing to help. He says he is too busy.",
+            "options": [
+              "A. doesn't",
+              "B. not",
+              "C. isn't",
+              "D. don't"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "willing 是形容詞，要配合 be 動詞。Leo 表示他太忙而不願幫忙，子句用 Leo isn’t willing；doesn’t 不能直接接 willing。"
+          },
+          {
+            "id": "h2-2-u3-q034",
+            "question": "Tell me why Anna ___ her goal last week.",
+            "options": [
+              "A. didn't reached",
+              "B. not reached",
+              "C. didn't reach",
+              "D. didn't reaching"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "last week 表示過去；didn’t 有否定意思，改為間接問句時要保留。didn’t 後接原形 reach，不能再用 reached 或 reaching。"
+          },
+          {
+            "id": "h2-2-u3-q035",
+            "question": "Do you know why ___ ready to display his work yesterday?",
+            "options": [
+              "A. he wasn't",
+              "B. wasn't he",
+              "C. he didn't",
+              "D. didn't he"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "ready 是形容詞，過去的否定式用 wasn’t。why 後是間接問句，所以主詞 he 放在 wasn’t 前，不能用 wasn’t he 倒裝。"
+          },
+          {
+            "id": "h2-2-u3-q036",
+            "question": "Do you know who ___ the amusing video yesterday?",
+            "options": [
+              "A. made",
+              "B. did made",
+              "C. was make",
+              "D. making"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "who 本身就是製作影片的人，直接作主詞，後接動詞。yesterday 是過去時間，所以用 made；不再補一般疑問助動詞，也不能寫 did made。"
+          },
+          {
+            "id": "h2-2-u3-q037",
+            "question": "Someone has the only key to the display room. Please tell me who ___ it.",
+            "options": [
+              "A. has",
+              "B. does has",
+              "C. have",
+              "D. having"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "who 代表拿著鑰匙的那個人，本身是主詞；前句 Someone has 提示單數，所以用 has。does has 不正確，having 也不能單獨作此處的限定動詞。"
+          },
+          {
+            "id": "h2-2-u3-q038",
+            "question": "The woman by the display looks familiar. Do you know who ___?",
+            "options": [
+              "A. is the woman",
+              "B. the woman is",
+              "C. the woman be",
+              "D. be the woman"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "這裡詢問那位女士的身分，子句已經有主詞 the woman，who 後接 the woman is。不能沿用 Who is the woman? 的直接問句語序。"
+          },
+          {
+            "id": "h2-2-u3-q039",
+            "question": "I wonder who ___ at the enjoyable picnic yesterday.",
+            "options": [
+              "A. was Tom with",
+              "B. Tom with was",
+              "C. with was Tom",
+              "D. Tom was with"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "who 是介系詞 with 的受詞，表示 Tom 和誰在一起。子句主詞是 Tom，順序為 Tom was with，不能把 was 提到 Tom 前。"
+          },
+          {
+            "id": "h2-2-u3-q040",
+            "question": "Do you know whose pencil ___ to finish the drawing yesterday?",
+            "options": [
+              "A. did Lisa use",
+              "B. Lisa use",
+              "C. used Lisa",
+              "D. Lisa used"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "whose pencil 是完整疑問片語，Lisa 才是使用鉛筆的人。後接 Lisa used；yesterday 表示過去，不能用 Lisa use，也不能保留 did Lisa use 的倒裝。"
+          },
+          {
+            "id": "h2-2-u3-q041",
+            "question": "Tell me which flavor ___ for your frozen yogurt.",
+            "options": [
+              "A. do you want",
+              "B. you want",
+              "C. want you",
+              "D. does you want"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "which flavor 要整組保留，後面接主詞 you + 動詞 want。直接問句中的 do 拿掉，不能寫 do you want。"
+          },
+          {
+            "id": "h2-2-u3-q042",
+            "question": "Some organizations help children after school. Do you know which organizations ___ them?",
+            "options": [
+              "A. helps",
+              "B. does help",
+              "C. is help",
+              "D. help"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "which organizations 本身就是幫助孩子的主詞，organizations 是複數，現在式用 help。這裡不用再加另一個主詞，也不能用單數 helps／does。"
+          },
+          {
+            "id": "h2-2-u3-q043",
+            "question": "Do you remember how many books ___ for the research yesterday?",
+            "options": [
+              "A. did we borrow",
+              "B. we borrowed",
+              "C. we borrow",
+              "D. borrowed we"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "how many books 是完整疑問片語，後面用 we borrowed。yesterday 表示過去；不保留 did we borrow 的直接問句語序。"
+          },
+          {
+            "id": "h2-2-u3-q044",
+            "question": "Please tell me how long the enjoyable picnic ___ yesterday.",
+            "options": [
+              "A. lasts",
+              "B. last",
+              "C. to last",
+              "D. lasted"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "直接問句是 How long did the picnic last? 改成間接問句後，拿掉 did，且 yesterday 指過去，主要動詞恢復 lasted。"
+          },
+          {
+            "id": "h2-2-u3-q045",
+            "question": "The teacher is curious about why ___ so early yesterday.",
+            "options": [
+              "A. the shop closed",
+              "B. did the shop close",
+              "C. the shop close",
+              "D. closed the shop"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "about 後的 why 子句也用直述語序。the shop 是主詞，yesterday 表示過去，所以後接 closed；不能使用 did the shop close 的倒裝。"
+          },
+          {
+            "id": "h2-2-u3-q046",
+            "question": "Can you tell me why the twins ___ this flavor? They both say it tastes bad.",
+            "options": [
+              "A. doesn't like",
+              "B. don't like",
+              "C. don't likes",
+              "D. not like"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "the twins 是複數，且後句說兩人都覺得味道不好，所以用否定的 don’t like。否定助動詞保留在主詞後，like 用原形，不加 s。"
+          },
+          {
+            "id": "h2-2-u3-q047",
+            "question": "She wonders how ___ money every month.",
+            "options": [
+              "A. does the organization raise",
+              "B. the organization raise",
+              "C. raise the organization",
+              "D. the organization raises"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "原本是 How does the organization raise money? 間接問句拿掉一般疑問用的 does，單數主詞 the organization 後的動詞改為 raises。"
+          },
+          {
+            "id": "h2-2-u3-q048",
+            "question": "We wanted to know when ___ the new display.",
+            "options": [
+              "A. would we see",
+              "B. we see would",
+              "C. we would see",
+              "D. would see we"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "when 引導間接問句，順序是主詞 we + 情態助動詞 would + 原形動詞 see。不能沿用 would we see 的問句倒裝。"
+          },
+          {
+            "id": "h2-2-u3-q049",
+            "question": "I wonder why our grandparents ___ new technology so quickly.",
+            "options": [
+              "A. embrace",
+              "B. embraces",
+              "C. embracing",
+              "D. to embrace"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "直接問句 Why do our grandparents embrace...? 改成間接問句後不保留一般疑問用的 do。our grandparents 是複數，所以動詞用 embrace，不加 s。"
+          },
+          {
+            "id": "h2-2-u3-q050",
+            "question": "Please tell me how ___ blue and yellow to make green.",
+            "options": [
+              "A. I should mix",
+              "B. should I mix",
+              "C. I mix should",
+              "D. do I should mix"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "how 後要用主詞 I + should + 原形動詞 mix。間接問句不把 should 放到 I 前，也不另外加 do。"
+          }
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          {
+            "id": "h2-2-u3-sv001",
+            "vocab_id": "h2-2-u3-v001",
+            "sentence": "Gary is depressed about his failure to win the road race.",
+            "sentence_chinese": "Gary 因為沒能贏得路跑比賽而感到沮喪。"
+          },
+          {
+            "id": "h2-2-u3-sv002",
+            "vocab_id": "h2-2-u3-v002",
+            "sentence": "This writer is famous for his amusing Facebook posts, and they always make the readers laugh.",
+            "sentence_chinese": "這位作家以他有趣的 Facebook 貼文聞名，這些貼文總是逗得讀者發笑。"
+          },
+          {
+            "id": "h2-2-u3-sv003",
+            "vocab_id": "h2-2-u3-v003",
+            "sentence": "Mia gathered her colored pencils and put them into her pencil case.",
+            "sentence_chinese": "Mia 收起她的彩色鉛筆，把它們放進鉛筆盒裡。"
+          },
+          {
+            "id": "h2-2-u3-sv004",
+            "vocab_id": "h2-2-u3-v004",
+            "sentence": "Mr. Huang donates money to an organization every month to help poor children.",
+            "sentence_chinese": "黃先生每個月都捐錢給一個機構，幫助貧困的孩子。"
+          },
+          {
+            "id": "h2-2-u3-sv005",
+            "vocab_id": "h2-2-u3-v005",
+            "sentence": "Anna is doing research on new ways to bake a cake.",
+            "sentence_chinese": "Anna 正在研究烤蛋糕的新方法。"
+          },
+          {
+            "id": "h2-2-u3-sv006",
+            "vocab_id": "h2-2-u3-v006",
+            "sentence": "The young artist was excited to display her works at a famous arts festival.",
+            "sentence_chinese": "這位年輕藝術家很興奮能在一個知名藝術節展示她的作品。"
+          },
+          {
+            "id": "h2-2-u3-sv007",
+            "vocab_id": "h2-2-u3-v007",
+            "sentence": "To become a better cook, Julie insisted on practicing her knife skills every day.",
+            "sentence_chinese": "為了成為更好的廚師，Julie 堅持每天練習刀工。"
+          },
+          {
+            "id": "h2-2-u3-sv008",
+            "vocab_id": "h2-2-u3-v008",
+            "sentence": "After months of hard work, Daniel achieved his goal of getting one hundred thousand fans on YouTube.",
+            "sentence_chinese": "經過數個月的努力，Daniel 達成了在 YouTube 上擁有十萬名粉絲的目標。"
+          },
+          {
+            "id": "h2-2-u3-sv009",
+            "vocab_id": "h2-2-u3-v009",
+            "sentence": "I didn't eat much for lunch, so I feel particularly hungry now.",
+            "sentence_chinese": "我午餐吃得不多，所以現在覺得特別餓。"
+          },
+          {
+            "id": "h2-2-u3-sv010",
+            "vocab_id": "h2-2-u3-v010",
+            "sentence": "Rebecca puts the frozen meat in warm water, so she can cook it for lunch later.",
+            "sentence_chinese": "Rebecca 把冷凍肉放進溫水裡，這樣待會就能把它煮來當午餐。"
+          },
+          {
+            "id": "h2-2-u3-sv011",
+            "vocab_id": "h2-2-u3-v011",
+            "sentence": "The color green is a mix of blue and yellow.",
+            "sentence_chinese": "綠色是藍色和黃色的混合。"
+          },
+          {
+            "id": "h2-2-u3-sv012",
+            "vocab_id": "h2-2-u3-v012",
+            "sentence": "Gary loves the strong flavor of blue cheese.",
+            "sentence_chinese": "Gary 喜歡藍紋起司的濃郁味道。"
+          },
+          {
+            "id": "h2-2-u3-sv013",
+            "vocab_id": "h2-2-u3-v013",
+            "sentence": "Ariel is so busy that she hasn't visited her parents for a long period of time.",
+            "sentence_chinese": "Ariel 忙得已經很長一段時間沒去探望父母了。"
+          },
+          {
+            "id": "h2-2-u3-sv014",
+            "vocab_id": "h2-2-u3-v014",
+            "sentence": "The ding-dong sound from Mandy's smartphone represents an incoming LINE message.",
+            "sentence_chinese": "Mandy 的智慧型手機發出叮咚聲，表示有一則 LINE 訊息傳進來。"
+          },
+          {
+            "id": "h2-2-u3-sv015",
+            "vocab_id": "h2-2-u3-v015",
+            "sentence": "We had an enjoyable picnic with delicious food and music.",
+            "sentence_chinese": "我們享受了一次有美食和音樂的愉快野餐。"
+          },
+          {
+            "id": "h2-2-u3-sv016",
+            "vocab_id": "h2-2-u3-v016",
+            "sentence": "Tom is willing to do anything to promote his new product.",
+            "sentence_chinese": "Tom 願意做任何事來推廣他的新產品。"
+          },
+          {
+            "id": "h2-2-u3-sv017",
+            "vocab_id": "h2-2-u3-v017",
+            "sentence": "My grandparents are glad to embrace new technology although it takes time to learn.",
+            "sentence_chinese": "我的祖父母很樂意接受新科技，雖然學習需要花時間。"
+          },
+          {
+            "id": "h2-2-u3-sv018",
+            "vocab_id": "h2-2-u3-v018",
+            "sentence": "I walk down a path between the two houses to get to my school every day.",
+            "sentence_chinese": "我每天沿著兩棟房屋之間的小徑走去學校。"
+          }
+        ],
+        "phrases": [
+          {
+            "id": "h2-2-u3-sp001",
+            "phrase_id": "h2-2-u3-p001",
+            "sentence": "Judy and Roy have a lot in common. For example, they both love sushi and ramen.",
+            "sentence_chinese": "Judy 和 Roy 有很多共通點，例如他們都喜歡壽司和拉麵。"
+          },
+          {
+            "id": "h2-2-u3-sp002",
+            "phrase_id": "h2-2-u3-p002",
+            "sentence": "We had a problem with our science project, but Alisa came up with a smart solution.",
+            "sentence_chinese": "我們的科學專題遇到了問題，但 Alisa 想出了一個聰明的解決辦法。"
+          },
+          {
+            "id": "h2-2-u3-sp003",
+            "phrase_id": "h2-2-u3-p003",
+            "sentence": "Tyler was tired of his room, so he decided to redecorate it.",
+            "sentence_chinese": "Tyler 厭倦了自己的房間，因此決定重新裝潢。"
+          },
+          {
+            "id": "h2-2-u3-sp004",
+            "phrase_id": "h2-2-u3-p004",
+            "sentence": "The delay in the building project was due to the snowstorm.",
+            "sentence_chinese": "這項建築工程因暴風雪而延誤。"
+          },
+          {
+            "id": "h2-2-u3-sp005",
+            "phrase_id": "h2-2-u3-p005",
+            "sentence": "Nowadays, an MP3 player is thought to be behind the times.",
+            "sentence_chinese": "如今，MP3 播放器被認為已經過時了。"
+          },
+          {
+            "id": "h2-2-u3-sp006",
+            "phrase_id": "h2-2-u3-p006",
+            "sentence": "The restaurant went out of business because fewer and fewer customers chose to eat there.",
+            "sentence_chinese": "這家餐廳歇業了，因為選擇去那裡用餐的顧客越來越少。"
+          }
+        ],
+        "grammar": [
+          {
+            "id": "h2-2-u3-sg001",
+            "sentence": "One is amusing, another is useful, and the other is strange.",
+            "sentence_chinese": "一個很有趣，另一個很實用，最後一個很奇怪。"
+          },
+          {
+            "id": "h2-2-u3-sg002",
+            "sentence": "Do you know where the new display is?",
+            "sentence_chinese": "你知道新的展示品在哪裡嗎？"
+          },
+          {
+            "id": "h2-2-u3-sg003",
+            "sentence": "One path is short, and the other path is long.",
+            "sentence_chinese": "一條小徑很短，另一條小徑很長。"
+          },
+          {
+            "id": "h2-2-u3-sg004",
+            "sentence": "Please tell me how we can achieve our goal.",
+            "sentence_chinese": "請告訴我我們可以如何達成目標。"
+          },
+          {
+            "id": "h2-2-u3-sg005",
+            "sentence": "One gathers pencils, another cleans, and the other carries bags.",
+            "sentence_chinese": "一個人收拾鉛筆，另一個人打掃，最後一個人提袋子。"
+          },
+          {
+            "id": "h2-2-u3-sg006",
+            "sentence": "I wonder why the restaurant went out of business.",
+            "sentence_chinese": "我想知道那家餐廳為什麼歇業。"
+          },
+          {
+            "id": "h2-2-u3-sg007",
+            "sentence": "One box is blue; another is green; the other is red.",
+            "sentence_chinese": "一個箱子是藍色，另一個是綠色，最後一個是紅色。"
+          },
+          {
+            "id": "h2-2-u3-sg008",
+            "sentence": "Can you tell me whose idea this is?",
+            "sentence_chinese": "你能告訴我這是誰的主意嗎？"
+          },
+          {
+            "id": "h2-2-u3-sg009",
+            "sentence": "One is willing to help, but the other is tired.",
+            "sentence_chinese": "一個人願意幫忙，但另一個人累了。"
+          },
+          {
+            "id": "h2-2-u3-sg010",
+            "sentence": "Tell me what the artist will display tomorrow.",
+            "sentence_chinese": "告訴我那位藝術家明天會展示什麼。"
+          },
+          {
+            "id": "h2-2-u3-sg011",
+            "sentence": "One represents hope, another represents love, and the other represents peace.",
+            "sentence_chinese": "一個代表希望，另一個代表愛，最後一個代表和平。"
+          },
+          {
+            "id": "h2-2-u3-sg012",
+            "sentence": "I know why she insists on practicing every day.",
+            "sentence_chinese": "我知道她為什麼堅持每天練習。"
+          },
+          {
+            "id": "h2-2-u3-sg013",
+            "sentence": "One has wheels, another has wings, and the other has legs.",
+            "sentence_chinese": "一個有輪子，另一個有翅膀，最後一個有腳。"
+          },
+          {
+            "id": "h2-2-u3-sg014",
+            "sentence": "Please tell me where we should gather after lunch.",
+            "sentence_chinese": "請告訴我午餐後我們應該在哪裡集合。"
+          },
+          {
+            "id": "h2-2-u3-sg015",
+            "sentence": "One flavor is sweet, and the other flavor is sour.",
+            "sentence_chinese": "一種口味是甜的，另一種口味是酸的。"
+          },
+          {
+            "id": "h2-2-u3-sg016",
+            "sentence": "Do you remember when they did the research?",
+            "sentence_chinese": "你記得他們是什麼時候做那項研究的嗎？"
+          },
+          {
+            "id": "h2-2-u3-sg017",
+            "sentence": "One student reads, another writes, and the other listens.",
+            "sentence_chinese": "一名學生閱讀，另一名學生寫字，最後一名學生聆聽。"
+          },
+          {
+            "id": "h2-2-u3-sg018",
+            "sentence": "I wonder what they have in common.",
+            "sentence_chinese": "我想知道他們有什麼共通點。"
+          },
+          {
+            "id": "h2-2-u3-sg019",
+            "sentence": "One is frozen, another is hot, and the other is warm.",
+            "sentence_chinese": "一個是冷凍的，另一個是熱的，最後一個是溫的。"
+          },
+          {
+            "id": "h2-2-u3-sg020",
+            "sentence": "Tell me who came up with this amusing game.",
+            "sentence_chinese": "告訴我是誰想出這個有趣的遊戲。"
+          },
+          {
+            "id": "h2-2-u3-sg021",
+            "sentence": "Do you know why he didn't embrace the change?",
+            "sentence_chinese": "你知道他為什麼沒有接受這項改變嗎？"
+          },
+          {
+            "id": "h2-2-u3-sg022",
+            "sentence": "She wonders where this narrow path goes.",
+            "sentence_chinese": "她想知道這條狹窄的小徑通往哪裡。"
+          },
+          {
+            "id": "h2-2-u3-sg023",
+            "sentence": "Can you tell me what you were doing?",
+            "sentence_chinese": "你能告訴我你當時在做什麼嗎？"
+          },
+          {
+            "id": "h2-2-u3-sg024",
+            "sentence": "I wonder which flavor the little boy likes.",
+            "sentence_chinese": "我想知道那個小男孩喜歡哪一種口味。"
+          },
+          {
+            "id": "h2-2-u3-sg025",
+            "sentence": "Please tell me whose pencil you borrowed.",
+            "sentence_chinese": "請告訴我你借了誰的鉛筆。"
+          },
+          {
+            "id": "h2-2-u3-sg026",
+            "sentence": "Do you know why this machine doesn't work?",
+            "sentence_chinese": "你知道這台機器為什麼不能運作嗎？"
+          },
+          {
+            "id": "h2-2-u3-sg027",
+            "sentence": "Tell me how we can make the trip enjoyable.",
+            "sentence_chinese": "告訴我我們可以如何讓這趟旅行變得愉快。"
+          },
+          {
+            "id": "h2-2-u3-sg028",
+            "sentence": "I wonder why that organization needs our help.",
+            "sentence_chinese": "我想知道那個組織為什麼需要我們的幫助。"
+          },
+          {
+            "id": "h2-2-u3-sg029",
+            "sentence": "Please tell me how long the meeting lasted.",
+            "sentence_chinese": "請告訴我那場會議持續了多久。"
+          },
+          {
+            "id": "h2-2-u3-sg030",
+            "sentence": "Do you know who left the door open?",
+            "sentence_chinese": "你知道是誰讓門開著嗎？"
+          }
+        ]
+      },
+      "cloze_quiz": [
+        {
+          "id": "h2-2-u3-cq001",
+          "vocab_id": "h2-2-u3-v001",
+          "question": "The test was a complete ___: the machine never started, and none of its parts worked.",
+          "options": [
+            "goal",
+            "failure",
+            "organization",
+            "flavor"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "never started 和 none of its parts worked 說明測試完全失敗，因此用 failure。goal 是想達成的目標，不能表示這次已失敗的測試結果。"
+        },
+        {
+          "id": "h2-2-u3-cq002",
+          "vocab_id": "h2-2-u3-v002",
+          "question": "The cartoon was so ___ that the children kept laughing at its funny characters.",
+          "options": [
+            "frozen",
+            "willing",
+            "salty",
+            "amusing"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "kept laughing 和 funny characters 表示卡通逗得孩子一直笑，所以用 amusing。willing 指人願意做某事，不是故事有趣。"
+        },
+        {
+          "id": "h2-2-u3-cq003",
+          "vocab_id": "h2-2-u3-v003",
+          "question": "Please ___ the scattered pencils from the floor into one pile before putting them in the box.",
+          "options": [
+            "gather",
+            "freeze",
+            "cook",
+            "erase"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "scattered pencils 和 into one pile 要求把散落的鉛筆收集成一堆，所以用 gather。erase 是擦除內容，不能把鉛筆本身擦成一堆。"
+        },
+        {
+          "id": "h2-2-u3-cq004",
+          "vocab_id": "h2-2-u3-v004",
+          "question": "This ___ has a leader, thirty members, and an office. Its members work together to help children.",
+          "options": [
+            "flavor",
+            "period",
+            "organization",
+            "path"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "leader、members、office，以及成員一起幫助孩子，都指向 organization「組織」。path 是小徑，不會有領導人和成員。"
+        },
+        {
+          "id": "h2-2-u3-cq005",
+          "vocab_id": "h2-2-u3-v005",
+          "question": "The scientists are doing ___ to find out whether the new medicine works. They test it and record the results.",
+          "options": [
+            "research",
+            "flavor",
+            "failure",
+            "goal"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "test it、record the results 和 find out whether 說明科學家正在進行研究，用 research。failure 是失敗，不能用 doing failure 表示測試與記錄的活動。"
+        },
+        {
+          "id": "h2-2-u3-cq006",
+          "vocab_id": "h2-2-u3-v006",
+          "question": "The museum will ___ the phones behind clear glass so everyone can see them. They must stay in good condition and are not for sale.",
+          "options": [
+            "hide",
+            "sell",
+            "destroy",
+            "display"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "so everyone can see them 表示要展示，用 display。hide 與讓大家看見衝突；not for sale 排除 sell；must stay in good condition 排除 destroy。"
+        },
+        {
+          "id": "h2-2-u3-cq007",
+          "vocab_id": "h2-2-u3-v007",
+          "question": "Although we asked Ben to stop, he continued to ___ on paying for all our meals.",
+          "options": [
+            "represent",
+            "display",
+            "insist",
+            "gather"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "asked Ben to stop 卻 continued，表示 Ben 仍堅持；insist on + V-ing 是自然搭配。represent 不能接 on paying 表示堅持付款。"
+        },
+        {
+          "id": "h2-2-u3-cq008",
+          "vocab_id": "h2-2-u3-v008",
+          "question": "Lily hopes to swim across the pool without stopping. This is her ___, and she practices every day to reach it.",
+          "options": [
+            "flavor",
+            "goal",
+            "organization",
+            "period"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "hopes to 和 practices every day to reach it 說明那是 Lily 想達成的目標，用 goal。period 是時間長度，不是她想完成的游泳任務。"
+        },
+        {
+          "id": "h2-2-u3-cq009",
+          "vocab_id": "h2-2-u3-v009",
+          "question": "I love all three flavors, but I ___ like the chocolate one. It is my clear favorite.",
+          "options": [
+            "equally",
+            "particularly",
+            "never",
+            "hardly"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "clear favorite 表示巧克力是明確最喜歡的口味，用 particularly「特別」。equally 表示同等喜歡，不能表達前句 but 引出的偏好；never／hardly 也與最喜歡矛盾。"
+        },
+        {
+          "id": "h2-2-u3-cq010",
+          "vocab_id": "h2-2-u3-v010",
+          "question": "The meat is still ___: it is hard with ice and has not started to melt.",
+          "options": [
+            "hot",
+            "boiling",
+            "frozen",
+            "warm"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "hard with ice 和 has not started to melt 表示肉仍結著冰，用 frozen。hot、boiling、warm 都不是題幹描述的冷凍狀態。"
+        },
+        {
+          "id": "h2-2-u3-cq011",
+          "vocab_id": "h2-2-u3-v011",
+          "question": "This purple paint is a ___ of red and blue. I poured the two colors into one cup and stirred them together.",
+          "options": [
+            "mix",
+            "period",
+            "path",
+            "organization"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "poured the two colors into one cup 和 stirred them together 表示把兩種顏色混合，所以用 mix。period 是時間，不是混合後的顏料。"
+        },
+        {
+          "id": "h2-2-u3-cq012",
+          "vocab_id": "h2-2-u3-v012",
+          "question": "The word \"lemon\" on the candy bag tells you its ___, or how it tastes.",
+          "options": [
+            "size",
+            "color",
+            "price",
+            "flavor"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "or how it tastes 直接說明空格指味道，所以用 flavor。color 描述外觀顏色，不能等於 how it tastes。"
+        },
+        {
+          "id": "h2-2-u3-cq013",
+          "vocab_id": "h2-2-u3-v013",
+          "question": "The school was closed for a ___ of two weeks while workers repaired the roof.",
+          "options": [
+            "flavor",
+            "path",
+            "organization",
+            "period"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "of two weeks 指一段兩週的時間，使用 a period of two weeks。path 是道路，不能用來表示停課的時間長度。"
+        },
+        {
+          "id": "h2-2-u3-cq014",
+          "vocab_id": "h2-2-u3-v014",
+          "question": "On this map, the small blue circles ___ lakes. Each circle stands for one lake.",
+          "options": [
+            "gather",
+            "represent",
+            "freeze",
+            "insist"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "stands for one lake 說明圓圈是湖泊的符號，因此用 represent。freeze 指使結冰，地圖符號不會使湖泊結冰。"
+        },
+        {
+          "id": "h2-2-u3-cq015",
+          "vocab_id": "h2-2-u3-v015",
+          "question": "The picnic was ___: we all had a wonderful time and wanted to do it again.",
+          "options": [
+            "enjoyable",
+            "boring",
+            "terrible",
+            "painful"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "had a wonderful time 和 wanted to do it again 表示大家覺得這次野餐令人愉快，所以用 enjoyable。boring 與大家度過美好時光的敘述不合。"
+        },
+        {
+          "id": "h2-2-u3-cq016",
+          "vocab_id": "h2-2-u3-v016",
+          "question": "Nina is ___ to help: she freely says yes and is happy to do it.",
+          "options": [
+            "unwilling",
+            "forced",
+            "willing",
+            "reluctant"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "freely says yes 和 happy to do it 表示 Nina 自願且樂意幫忙，用 willing。forced 是被迫，與 freely 矛盾；unwilling 和 reluctant 也不合她樂意答應的態度。"
+        },
+        {
+          "id": "h2-2-u3-cq017",
+          "vocab_id": "h2-2-u3-v017",
+          "question": "To ___ the new plan means to accept it gladly instead of rejecting it.",
+          "options": [
+            "refuse",
+            "embrace",
+            "forget",
+            "draw"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "accept it gladly 表示欣然接受，因此用 embrace。refuse 是拒絕，正好與題幹 instead of rejecting it 相反；forget 和 draw 都沒有接受的意思。"
+        },
+        {
+          "id": "h2-2-u3-cq018",
+          "vocab_id": "h2-2-u3-v018",
+          "question": "We followed a narrow dirt ___ through the forest. It was just wide enough for one person to walk along.",
+          "options": [
+            "path",
+            "flavor",
+            "goal",
+            "period"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "through the forest、wide enough 和 walk along 說明這是可供行走的小徑，用 path。goal 是目標，不能描述成一條有寬度的泥土通道。"
+        }
+      ]
+    }
+  }
+}
