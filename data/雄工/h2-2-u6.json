@@ -1,0 +1,1227 @@
+{
+  "units": {
+    "h2-2-u6": {
+      "title": "U6",
+      "vocab": [
+        {
+          "word": "biology",
+          "part_of_speech": "名",
+          "chinese": "生物學",
+          "sentence": "In high school, Harvey’s favorite subject was biology because he was interested in learning about different creatures.",
+          "sentence_chinese": "高中時，Harvey 最喜歡的科目是生物學，因為他對了解不同生物很感興趣。",
+          "id": "h2-2-u6-v001"
+        },
+        {
+          "word": "unique",
+          "part_of_speech": "形",
+          "chinese": "獨特的；特有的",
+          "sentence": "The unique appearance of these cupcakes makes them popular among teenagers.",
+          "sentence_chinese": "這些杯子蛋糕獨特的外觀讓它們很受青少年歡迎。",
+          "id": "h2-2-u6-v002"
+        },
+        {
+          "word": "staff",
+          "part_of_speech": "名",
+          "chinese": "全體工作人員",
+          "sentence": "The boss thanked the staff for their hard work and treated them to a big meal.",
+          "sentence_chinese": "老闆感謝全體員工的辛勞，並請他們吃了一頓大餐。",
+          "id": "h2-2-u6-v003"
+        },
+        {
+          "word": "interact",
+          "part_of_speech": "動",
+          "chinese": "互動；交流",
+          "sentence": "We spent an hour interacting with the animals.",
+          "sentence_chinese": "我們花了一個小時與動物互動。",
+          "id": "h2-2-u6-v004"
+        },
+        {
+          "word": "regular",
+          "part_of_speech": "形",
+          "chinese": "一般的；正常的",
+          "sentence": "The library’s regular hours are 9 a.m. to 5 p.m. on weekdays.",
+          "sentence_chinese": "圖書館平日的正常開放時間是上午 9 點到下午 5 點。",
+          "id": "h2-2-u6-v005"
+        },
+        {
+          "word": "fee",
+          "part_of_speech": "名",
+          "chinese": "費用",
+          "sentence": "Ashley did not return the book on time, so she had to pay a late fee of NT$100.",
+          "sentence_chinese": "Ashley 沒有準時還書，所以必須支付新臺幣 100 元的逾期費用。",
+          "id": "h2-2-u6-v006"
+        },
+        {
+          "word": "discount",
+          "part_of_speech": "名／動",
+          "chinese": "折扣；打折扣",
+          "sentence": "Ella used the money she saved from the discount on tickets to pay for her hotel room.",
+          "sentence_chinese": "Ella 用買票打折所省下的錢支付旅館房費。",
+          "id": "h2-2-u6-v007"
+        },
+        {
+          "word": "schedule",
+          "part_of_speech": "名／動",
+          "chinese": "行程表；時刻表；安排；排定日程",
+          "sentence": "I won’t be able to meet you for lunch because I have a very busy schedule today.",
+          "sentence_chinese": "我今天行程很滿，沒辦法和你一起吃午餐。",
+          "id": "h2-2-u6-v008"
+        },
+        {
+          "word": "arrival",
+          "part_of_speech": "名",
+          "chinese": "抵達",
+          "sentence": "The team’s arrival at the meeting was delayed due to traffic on the highway.",
+          "sentence_chinese": "球隊因公路上的交通狀況而延遲抵達會場。",
+          "id": "h2-2-u6-v009"
+        },
+        {
+          "word": "tunnel",
+          "part_of_speech": "名",
+          "chinese": "隧道",
+          "sentence": "When a train goes into a tunnel, passengers can see nothing but darkness outside the window.",
+          "sentence_chinese": "火車進入隧道時，乘客從窗外只能看到一片黑暗。",
+          "id": "h2-2-u6-v010"
+        },
+        {
+          "word": "souvenir",
+          "part_of_speech": "名",
+          "chinese": "紀念品",
+          "sentence": "Tina bought a coffee mug as a souvenir of London.",
+          "sentence_chinese": "Tina 買了一個咖啡杯，作為倫敦之旅的紀念品。",
+          "id": "h2-2-u6-v011"
+        },
+        {
+          "word": "university",
+          "part_of_speech": "名",
+          "chinese": "大學",
+          "sentence": "It usually takes four years to finish university in Taiwan.",
+          "sentence_chinese": "在臺灣，大學畢業通常需要四年。",
+          "id": "h2-2-u6-v012"
+        },
+        {
+          "word": "retire",
+          "part_of_speech": "動",
+          "chinese": "退休",
+          "sentence": "Emma is planning to retire from her company because she is already sixty-five years old.",
+          "sentence_chinese": "Emma 已經 65 歲，正計畫從公司退休。",
+          "id": "h2-2-u6-v013"
+        },
+        {
+          "word": "last",
+          "part_of_speech": "動",
+          "chinese": "持續",
+          "sentence": "The rain had lasted two hours when we left.",
+          "sentence_chinese": "我們離開時，雨已經下了兩個小時。",
+          "id": "h2-2-u6-v014"
+        },
+        {
+          "word": "memory",
+          "part_of_speech": "名",
+          "chinese": "記憶；記憶力；回憶",
+          "sentence": "The elementary school photo brings back lots of memories of Steven’s childhood.",
+          "sentence_chinese": "這張小學照片勾起 Steven 許多童年回憶。",
+          "id": "h2-2-u6-v015"
+        },
+        {
+          "word": "unforgettable",
+          "part_of_speech": "形",
+          "chinese": "難忘的",
+          "sentence": "Traveling alone was an unforgettable experience for Cindy. She learned a lot during her trip.",
+          "sentence_chinese": "獨自旅行對 Cindy 來說是難忘的經驗，她在旅途中學到很多。",
+          "id": "h2-2-u6-v016"
+        },
+        {
+          "word": "adventure",
+          "part_of_speech": "名",
+          "chinese": "冒險",
+          "sentence": "Going on a working holiday to America was a great adventure for Ian.",
+          "sentence_chinese": "去美國打工度假對 Ian 而言是一場很棒的冒險。",
+          "id": "h2-2-u6-v017"
+        },
+        {
+          "word": "generation",
+          "part_of_speech": "名",
+          "chinese": "世代；一代",
+          "sentence": "Many families have lived in this small town for generations. They don’t want to move away.",
+          "sentence_chinese": "許多家庭已在這個小鎮住了好幾代，他們不想搬走。",
+          "id": "h2-2-u6-v018"
+        }
+      ],
+      "phrases": [
+        {
+          "phrase": "hurry up",
+          "chinese": "趕快",
+          "sentence": "We hurried up because the movie had already started.",
+          "sentence_chinese": "我們加快腳步，因為電影已經開始了。",
+          "id": "h2-2-u6-p001"
+        },
+        {
+          "phrase": "used to",
+          "chinese": "過去曾經",
+          "sentence": "I used to spend Sundays with my grandparents.",
+          "sentence_chinese": "我以前常和爺爺奶奶一起度過星期天。",
+          "id": "h2-2-u6-p002"
+        },
+        {
+          "phrase": "fall asleep",
+          "chinese": "睡著",
+          "sentence": "Ivy was so tired that she fell asleep on the sofa.",
+          "sentence_chinese": "Ivy 太累了，在沙發上睡著了。",
+          "id": "h2-2-u6-p003"
+        },
+        {
+          "phrase": "watch over",
+          "chinese": "保護；照顧",
+          "sentence": "Dad spent the night watching over the baby.",
+          "sentence_chinese": "爸爸花了一整晚照顧寶寶。",
+          "id": "h2-2-u6-p004"
+        }
+      ],
+      "grammar": {
+        "tips": [
+          {
+            "label": "spend：人花時間或金錢",
+            "text": "人＋spend＋時間／金錢＋V-ing；也可用 on＋名詞。過去式、過去分詞都是 spent。"
+          },
+          {
+            "label": "cost：本課用來表示花錢",
+            "text": "事物＋cost（＋人）＋金錢；It costs（＋人）＋金錢＋to V。cost 的過去式、過去分詞仍是 cost。"
+          },
+          {
+            "label": "take：做事需要時間",
+            "text": "事情＋take（＋人）＋時間；It takes（＋人）＋時間＋to V。過去式是 took，過去分詞是 taken。"
+          },
+          {
+            "label": "過去完成式：先找過去的參考點",
+            "text": "had＋過去分詞表示在過去某時之前已完成、已持續一段時間或曾有的經驗。had 不隨主詞人稱改變。"
+          }
+        ],
+        "notes": [
+          {
+            "title": "spend：人是主詞，動作接 V-ing",
+            "rule": "人＋spend＋時間／金錢＋V-ing\n人＋spend＋時間／金錢＋on＋名詞",
+            "description": "先看主詞是不是人，再看花的是時間還是金錢。spend 後若接動作，用 V-ing；若接物品或事情的名稱，可以用 on＋名詞。不要混用 It takes ... to V 的句型。",
+            "examples": [
+              "We spent an hour studying biology.（我們花了一個小時讀生物。）",
+              "Leo spent two hundred dollars on a souvenir.（Leo 花了兩百元買紀念品。）",
+              "Leo spent two hundred dollars buying a souvenir.（Leo 花了兩百元買紀念品。）"
+            ]
+          },
+          {
+            "title": "cost：物品的價格或做事所需的費用",
+            "rule": "事物＋cost（＋人）＋金錢\nIt＋cost（＋人）＋金錢＋to V",
+            "description": "本課重點是用 cost 表示金錢花費。物品可直接當主詞；若要說做某件事花多少錢，可用 It cost ... to V。單數主詞的現在式用 costs；過去式和過去分詞都用 cost。",
+            "examples": [
+              "The two tickets cost us four hundred dollars yesterday.（昨天兩張票花了我們四百元。）",
+              "It cost us four hundred dollars to buy the tickets.（買這些票花了我們四百元。）",
+              "A ticket usually costs two hundred dollars.（一張票通常要兩百元。）"
+            ]
+          },
+          {
+            "title": "take：用事情或 it 當主詞",
+            "rule": "事情＋take（＋人）＋時間\nIt＋take（＋人）＋時間＋to V",
+            "description": "描述完成某件事需要多少時間時，可以把 V-ing 片語當主詞，也可以用 It takes ... to V。不要把兩種句型的動詞形式混在一起；It took us an hour 後面要接 to V。",
+            "examples": [
+              "Walking through the tunnel took us ten minutes.（走過隧道花了我們十分鐘。）",
+              "It took us ten minutes to walk through the tunnel.（我們花了十分鐘走過隧道。）",
+              "It takes the staff an hour to clean the room.（工作人員需要一個小時清理房間。）"
+            ]
+          },
+          {
+            "title": "花費動詞的三態與助動詞",
+            "rule": "spend → spent → spent\ncost → cost → cost\ntake → took → taken\ndid／did not 後接原形動詞",
+            "description": "yesterday、last year 等可提供過去時間線索。疑問句或否定句已經有 did 時，主要動詞用原形，不能再用 spent 或 took。表示花錢的 cost 也不要寫成 costed。",
+            "examples": [
+              "How much did you spend on the trip?（你在這趟旅行花了多少錢？）",
+              "It did not take us long to get there.（我們沒花多久就到了。）",
+              "The trip did not cost much.（這趟旅行沒有花很多錢。）"
+            ]
+          },
+          {
+            "title": "過去完成式：先發生的事",
+            "rule": "主詞＋had＋過去分詞（Vpp）\n過去較早的事件：had＋Vpp\n較晚的過去事件：通常用過去簡單式",
+            "description": "先找敘事中的過去參考點，再判斷哪些事情在那之前已發生。had 不隨 I、he、they 等主詞改變。had 後接過去分詞，例如 seen、gone、fallen，不是 saw、went、fell。",
+            "examples": [
+              "When we reached the museum, the tour had already started.（我們到博物館時，導覽已經開始了。）",
+              "The staff had checked the tickets before the bus left.（公車離開前，工作人員已經檢查過票券。）",
+              "I could not enter my room because I had left my key at school.（我進不了房間，因為我把鑰匙留在學校了。）"
+            ]
+          },
+          {
+            "title": "過去完成式也能表示持續與經驗",
+            "rule": "had＋Vpp＋for＋一段時間\nhad already＋Vpp\nhad never＋Vpp",
+            "description": "除了已完成的動作，也能表達持續到過去某時的狀態或之前的經驗。for ten years 表示持續時間；never 表示直到那個過去時點都沒有過。for 本身不是過去完成式的專屬標記，仍須看整段時間背景。",
+            "examples": [
+              "By 2020, my grandparents had lived here for thirty years.（到 2020 年時，祖父母已在這裡住了三十年。）",
+              "Before that adventure, I had never seen a shark.（那次冒險之前，我從未見過鯊魚。）",
+              "By noon yesterday, the rain had lasted four hours.（到昨天中午時，雨已經下了四個小時。）"
+            ]
+          },
+          {
+            "title": "過去完成式的否定句與問句",
+            "rule": "否定：主詞＋had not＋Vpp\n問句：Had＋主詞＋Vpp ...?\n簡答：Yes, 主詞＋had.／No, 主詞＋had not.",
+            "description": "否定句在 had 後加 not；問句把 had 放到主詞前。had not 可以縮寫成 hadn’t。這些句型仍須有明確的過去背景。",
+            "examples": [
+              "I had not bought a ticket when the show began.（表演開始時，我還沒買票。）",
+              "Had you visited the museum before that school trip?（那次校外教學之前，你去過這間博物館嗎？）",
+              "Yes, I had.（是的，我去過。）"
+            ]
+          },
+          {
+            "title": "時間子句的位置與先後判斷",
+            "rule": "Before＋過去事件，主詞＋had＋Vpp.\n主詞＋had＋Vpp＋before＋過去事件.\nBy the time＋過去事件，主詞＋had＋Vpp.",
+            "description": "before、when 子句常可放在前面或後面；子句在前時通常加逗號。不能只因為子句位置不同就判成錯句。看到 before 或 when 也不代表一定要用過去完成式，應依語意判斷；有些情境用過去簡單式也自然。本課練習會提供明確時間線索，避免兩個選項都合理。",
+            "examples": [
+              "Before the bus arrived, we had packed our bags.（公車抵達前，我們已經收好行李。）",
+              "We had packed our bags before the bus arrived.（公車抵達前，我們已經收好行李。）",
+              "By the time we arrived, the shop had closed.（我們抵達時，商店已經關門了。）"
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "id": "h2-2-u6-q001",
+            "question": "It cost our class six hundred dollars ___ a bus for the museum trip.",
+            "options": [
+              "A. renting",
+              "B. rent",
+              "C. rented",
+              "D. to rent"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "It cost＋人＋金錢後接 to V；租車花的是六百元，因此用 to rent。rent 漏了 to，rented 和 renting 都不符合這個句型。"
+          },
+          {
+            "id": "h2-2-u6-q002",
+            "question": "Mei spent half an hour ___ the tour schedule.",
+            "options": [
+              "A. reads",
+              "B. reading",
+              "C. to read",
+              "D. read"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "spent＋時間後接 V-ing，所以用 reading。to read 是混用了 It takes ... to V 的句型。"
+          },
+          {
+            "id": "h2-2-u6-q003",
+            "question": "Finding the tunnel entrance ___ us ten minutes yesterday.",
+            "options": [
+              "A. takes",
+              "B. taking",
+              "C. spent",
+              "D. took"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "Finding the tunnel entrance 是一件事，ten minutes 是時間；yesterday 表示過去，用 took。spent 的主詞應是花時間的人。"
+          },
+          {
+            "id": "h2-2-u6-q004",
+            "question": "How much did you ___ on that unique souvenir yesterday?",
+            "options": [
+              "A. spend",
+              "B. spends",
+              "C. spent",
+              "D. spending"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "人花錢買物品用 spend ... on ...；問句已有 did，後面必須用原形 spend，不能再用 spent。"
+          },
+          {
+            "id": "h2-2-u6-q005",
+            "question": "The two museum tickets ___ us four hundred dollars yesterday.",
+            "options": [
+              "A. costed",
+              "B. costing",
+              "C. cost",
+              "D. costs"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "主詞是兩張票，後接人與金額，用 cost；yesterday 表示過去，表示價格的 cost 過去式仍是 cost。"
+          },
+          {
+            "id": "h2-2-u6-q006",
+            "question": "When we reached the museum yesterday, the guide ___ already left.",
+            "options": [
+              "A. have",
+              "B. having",
+              "C. has",
+              "D. had"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "抵達是過去參考點，導覽員在那之前已離開，用 had already left；不能用現在完成式的 has 或 have。"
+          },
+          {
+            "id": "h2-2-u6-q007",
+            "question": "Before her first ocean adventure, Mia had never ___ a shark.",
+            "options": [
+              "A. seen",
+              "B. saw",
+              "C. see",
+              "D. seeing"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "had never 後接過去分詞，表示那次冒險之前的經驗；see 的過去分詞是 seen，不是 saw。"
+          },
+          {
+            "id": "h2-2-u6-q008",
+            "question": "I could not get into my room last night because I ___ left my key on the bus.",
+            "options": [
+              "A. had",
+              "B. have",
+              "C. having",
+              "D. has"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "先把鑰匙留在公車上，之後才進不了房間；較早的事用 had left，參考點是 last night。"
+          },
+          {
+            "id": "h2-2-u6-q009",
+            "question": "By the time the show began, the visitors had ___ their seats.",
+            "options": [
+              "A. taken",
+              "B. took",
+              "C. take",
+              "D. taking"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "had 後面需要過去分詞；take 的三態是 take、took、taken，因此用 taken。"
+          },
+          {
+            "id": "h2-2-u6-q010",
+            "question": "When my brother started university in 2019, our family ___ lived in Kaohsiung for ten years.",
+            "options": [
+              "A. have",
+              "B. having",
+              "C. had",
+              "D. has"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "到 2019 年入學這個過去時點，已在高雄住了十年，使用 had lived；for ten years 表示持續時間。"
+          },
+          {
+            "id": "h2-2-u6-q011",
+            "question": "At its regular price, this souvenir ___ two hundred dollars.",
+            "options": [
+              "A. costed",
+              "B. costing",
+              "C. costs",
+              "D. to cost"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "描述一般售價，單數主詞 this souvenir 用現在式 costs。這裡表示價格，不能用 costed；costing 和 to cost 也不能單獨作主要動詞。"
+          },
+          {
+            "id": "h2-2-u6-q012",
+            "question": "It takes the staff an hour ___ the fish tanks every morning.",
+            "options": [
+              "A. cleaned",
+              "B. to clean",
+              "C. cleaning",
+              "D. clean"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "It takes＋人＋時間後接 to V，因此用 to clean。cleaning 是混用了 spend 的句型。"
+          },
+          {
+            "id": "h2-2-u6-q013",
+            "question": "We spent our last morning at the museum ___ with the guide.",
+            "options": [
+              "A. to interact",
+              "B. interact",
+              "C. interacting",
+              "D. interacted"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "spent＋時間後面的動作用 V-ing，因此用 interacting；at the museum 不會改變 spend 的句型。"
+          },
+          {
+            "id": "h2-2-u6-q014",
+            "question": "___ the university by bus took us forty minutes yesterday.",
+            "options": [
+              "A. Reached",
+              "B. Reaches",
+              "C. Reach",
+              "D. Reaching"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "空格所在的整個片語作主詞，要用動名詞 Reaching；Reaching the university 表示到達大學這件事。"
+          },
+          {
+            "id": "h2-2-u6-q015",
+            "question": "It cost us eight hundred dollars ___ the broken camera before our trip.",
+            "options": [
+              "A. fix",
+              "B. to fix",
+              "C. fixed",
+              "D. fixing"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "It cost＋人＋金錢後接 to V，因此用 to fix；不能直接接 fix 或 fixing。"
+          },
+          {
+            "id": "h2-2-u6-q016",
+            "question": "By the time we arrived yesterday, the staff ___ already fed the fish.",
+            "options": [
+              "A. had",
+              "B. having",
+              "C. has",
+              "D. have"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "到昨天抵達時，餵魚已完成，用 had already fed。had 不會因為主詞是 staff 而改成 has。"
+          },
+          {
+            "id": "h2-2-u6-q017",
+            "question": "By noon yesterday, the storm had ___ for four hours.",
+            "options": [
+              "A. last",
+              "B. lasted",
+              "C. lasting",
+              "D. lasts"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "had 後接過去分詞，last 的過去分詞是 lasted；for four hours 表示到昨天中午已持續四小時。"
+          },
+          {
+            "id": "h2-2-u6-q018",
+            "question": "Before that trip, Ellie had never ___ a night at a museum.",
+            "options": [
+              "A. spending",
+              "B. spend",
+              "C. spends",
+              "D. spent"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "had never 後接過去分詞；spend 的過去分詞是 spent，表示那趟旅行之前沒有過這種經驗。"
+          },
+          {
+            "id": "h2-2-u6-q019",
+            "question": "Last Friday, our guide told us that his grandfather ___ retired five years earlier.",
+            "options": [
+              "A. has",
+              "B. had",
+              "C. having",
+              "D. have"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "退休發生在上週五告知之前五年，用 had retired；five years earlier 表示比那個過去時點更早。"
+          },
+          {
+            "id": "h2-2-u6-q020",
+            "question": "When we opened the aquarium map, the children had already ___ asleep.",
+            "options": [
+              "A. falling",
+              "B. fall",
+              "C. fallen",
+              "D. fell"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "had already 後接過去分詞；fall 的過去分詞是 fallen，不能用過去式 fell。"
+          },
+          {
+            "id": "h2-2-u6-q021",
+            "question": "Grandpa ___ two hours watching the fish yesterday.",
+            "options": [
+              "A. spending",
+              "B. spent",
+              "C. spends",
+              "D. spend"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "主詞 Grandpa 是人，後接時間與 watching，用 spend 句型；yesterday 表示過去，因此選 spent。"
+          },
+          {
+            "id": "h2-2-u6-q022",
+            "question": "How long does it ___ to walk through the tunnel?",
+            "options": [
+              "A. taking",
+              "B. takes",
+              "C. took",
+              "D. take"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "It takes ... to V 表示做事需要時間；問句已有助動詞 does，後面用原形 take。"
+          },
+          {
+            "id": "h2-2-u6-q023",
+            "question": "We did not ___ much money on the tickets because we got a discount.",
+            "options": [
+              "A. spent",
+              "B. spends",
+              "C. spending",
+              "D. spend"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "人＋spend＋金錢＋on＋名詞；did not 後面用原形 spend，不能再用 spent。"
+          },
+          {
+            "id": "h2-2-u6-q024",
+            "question": "It usually ___ my brother twenty minutes to fall asleep.",
+            "options": [
+              "A. taken",
+              "B. taking",
+              "C. takes",
+              "D. take"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "It takes＋人＋時間＋to V；usually 表示一般習慣，主詞 It 為第三人稱單數，用 takes。"
+          },
+          {
+            "id": "h2-2-u6-q025",
+            "question": "Last summer, the adventure camp ___ us three thousand dollars.",
+            "options": [
+              "A. cost",
+              "B. costing",
+              "C. costs",
+              "D. costed"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "主詞是營隊，後接人與金額；Last summer 表示過去，表示費用的 cost 過去式仍是 cost。"
+          },
+          {
+            "id": "h2-2-u6-q026",
+            "question": "A: Why was Lucy worried about yesterday’s trip? B: She ___ never traveled alone before that day.",
+            "options": [
+              "A. having",
+              "B. has",
+              "C. had",
+              "D. have"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "參考點是昨天的旅行，在那之前沒有獨自旅行的經驗，用 had never traveled。"
+          },
+          {
+            "id": "h2-2-u6-q027",
+            "question": "The tourists could not buy any postcards because the shop had ___ all of them.",
+            "options": [
+              "A. sells",
+              "B. selling",
+              "C. sell",
+              "D. sold"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "had 後面要接過去分詞 sold；明信片先賣完，旅客後來才買不到。"
+          },
+          {
+            "id": "h2-2-u6-q028",
+            "question": "When I reached the entrance yesterday, I realized I ___ brought my ticket. It was still at home.",
+            "options": [
+              "A. have not",
+              "B. had not",
+              "C. has not",
+              "D. do not"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "票還在家裡，表示在抵達之前沒有帶票；過去完成式否定用 had not brought。do not 後不能接 brought。"
+          },
+          {
+            "id": "h2-2-u6-q029",
+            "question": "When Mom returned yesterday, Dad had ___ over the baby for six hours.",
+            "options": [
+              "A. watched",
+              "B. watch",
+              "C. watching",
+              "D. watches"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "had 後接過去分詞 watched；for six hours 說明照顧寶寶已持續到媽媽回來時六小時。"
+          },
+          {
+            "id": "h2-2-u6-q030",
+            "question": "At the museum yesterday, Ella asked me whether I ___ seen that kind of fish before.",
+            "options": [
+              "A. has",
+              "B. having",
+              "C. had",
+              "D. have"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "問話發生在昨天，詢問的是在那之前的經驗，用 had seen；不能改用現在完成式。"
+          },
+          {
+            "id": "h2-2-u6-q031",
+            "question": "How much money did the adventure camp ___ you last year?",
+            "options": [
+              "A. costed",
+              "B. cost",
+              "C. costing",
+              "D. costs"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "主詞是營隊，花費的是金錢，用 cost；問句已有 did，後面的 cost 用原形。"
+          },
+          {
+            "id": "h2-2-u6-q032",
+            "question": "I spent fifty dollars ___ a notebook for my biology class.",
+            "options": [
+              "A. bought",
+              "B. to buy",
+              "C. buy",
+              "D. buying"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "spend＋金錢後接動作時用 V-ing，因此用 buying；to buy 是混用了 It cost ... to V。"
+          },
+          {
+            "id": "h2-2-u6-q033",
+            "question": "It took us a whole afternoon ___ our biology project.",
+            "options": [
+              "A. to finish",
+              "B. finish",
+              "C. finished",
+              "D. finishing"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "It took＋人＋時間後接 to V，因此用 to finish；finishing 應搭配人＋spent＋時間。"
+          },
+          {
+            "id": "h2-2-u6-q034",
+            "question": "The staff ___ an hour checking tickets yesterday morning.",
+            "options": [
+              "A. spending",
+              "B. spent",
+              "C. spend",
+              "D. spends"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "主詞 staff 是花時間的工作人員，後接 checking；yesterday morning 表示過去，使用 spent。"
+          },
+          {
+            "id": "h2-2-u6-q035",
+            "question": "It did not ___ us any money to enter the university museum.",
+            "options": [
+              "A. costed",
+              "B. costs",
+              "C. costing",
+              "D. cost"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "It cost ... to V 表示費用；did not 已表達過去與否定，後面用原形 cost。"
+          },
+          {
+            "id": "h2-2-u6-q036",
+            "question": "___ you ever visited an aquarium before that school trip last year?",
+            "options": [
+              "A. Has",
+              "B. Had",
+              "C. Do",
+              "D. Have"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "詢問去年校外教學之前的經驗，用 Had＋主詞＋過去分詞；Have you visited 是現在完成式，與這個過去參考點不符。"
+          },
+          {
+            "id": "h2-2-u6-q037",
+            "question": "Before you moved to Taipei in 2020, how long ___ your parents lived in Kaohsiung?",
+            "options": [
+              "A. did",
+              "B. has",
+              "C. had",
+              "D. have"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "詢問截至 2020 年搬家之前已居住多久，使用 had lived；did 後應接原形，不能接 lived。"
+          },
+          {
+            "id": "h2-2-u6-q038",
+            "question": "We knew the story well because we had ___ it several times before that visit.",
+            "options": [
+              "A. hears",
+              "B. hear",
+              "C. hearing",
+              "D. heard"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "had 後接過去分詞 heard；several times before that visit 表示那次參觀以前已聽過多次。"
+          },
+          {
+            "id": "h2-2-u6-q039",
+            "question": "By the end of last month, my great-grandfather ___ lived in this town for ninety years.",
+            "options": [
+              "A. have",
+              "B. has",
+              "C. had",
+              "D. having"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "參考點是上個月底，到那時已住九十年，用 had lived。for ninety years 表示持續時間。"
+          },
+          {
+            "id": "h2-2-u6-q040",
+            "question": "They ___ not bought any souvenirs when we left the shop yesterday.",
+            "options": [
+              "A. had",
+              "B. do",
+              "C. have",
+              "D. has"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "昨天離開商店時，他們還沒買紀念品，用 had not bought；do not 後面不能接過去分詞 bought。"
+          },
+          {
+            "id": "h2-2-u6-q041",
+            "question": "A: Did you spend an hour reading the schedule? B: No, I ___ only ten minutes reading it.",
+            "options": [
+              "A. spent",
+              "B. spend",
+              "C. spends",
+              "D. spending"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "回答的是已發生的花費時間，完整肯定句沒有 did，因此主要動詞要用過去式 spent。"
+          },
+          {
+            "id": "h2-2-u6-q042",
+            "question": "The university museum charges an entrance fee. It ___ each visitor fifty dollars to get in.",
+            "options": [
+              "A. costed",
+              "B. to cost",
+              "C. costing",
+              "D. costs"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "描述現在的入場費用，用 It costs＋人＋金錢＋to V；It 為單數主詞，用 costs。costed 不能表示這裡的價格；to cost 和 costing 不能單獨作主要動詞。"
+          },
+          {
+            "id": "h2-2-u6-q043",
+            "question": "My sister spends her free time ___ stories about ocean adventures.",
+            "options": [
+              "A. to write",
+              "B. written",
+              "C. writing",
+              "D. write"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "spends＋時間後接 V-ing，因此用 writing；不接 to write 或過去分詞 written。"
+          },
+          {
+            "id": "h2-2-u6-q044",
+            "question": "___ to the museum by train took two hours yesterday.",
+            "options": [
+              "A. Traveling",
+              "B. Travels",
+              "C. Travel",
+              "D. Traveled"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "整個 Traveling to the museum by train 當主詞，表示搭火車去博物館這件事，因此用動名詞 Traveling。"
+          },
+          {
+            "id": "h2-2-u6-q045",
+            "question": "It took the visitors ten minutes ___ the souvenir shop.",
+            "options": [
+              "A. to find",
+              "B. find",
+              "C. finding",
+              "D. found"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "It took＋人＋時間後接 to V，因此用 to find；不能因為前面 took 是過去式就把 find 也改成 found。"
+          },
+          {
+            "id": "h2-2-u6-q046",
+            "question": "Dad could not remember the room number yesterday because he had ___ it.",
+            "options": [
+              "A. forgot",
+              "B. forgetting",
+              "C. forgotten",
+              "D. forget"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "had 後接過去分詞；forget 的過去分詞是 forgotten，不是過去式 forgot。"
+          },
+          {
+            "id": "h2-2-u6-q047",
+            "question": "By the time we got on the bus, the staff had ___ our bags inside.",
+            "options": [
+              "A. puts",
+              "B. put",
+              "C. putting",
+              "D. to put"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "had 後接過去分詞；put 的原形、過去式和過去分詞都是 put。"
+          },
+          {
+            "id": "h2-2-u6-q048",
+            "question": "A: Had your grandmother retired before you started school? B: Yes, she ___.",
+            "options": [
+              "A. have",
+              "B. had",
+              "C. has",
+              "D. did"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "問句使用 Had＋主詞＋過去分詞，肯定簡答也使用 had；不能改用 has 或 did。"
+          },
+          {
+            "id": "h2-2-u6-q049",
+            "question": "At ten last night, my parents ___ already gone to bed.",
+            "options": [
+              "A. had",
+              "B. having",
+              "C. have",
+              "D. has"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "到昨晚十點這個過去時點，父母已經去睡覺，用 had already gone。主詞即使是複數也用 had。"
+          },
+          {
+            "id": "h2-2-u6-q050",
+            "question": "The staff had checked our tickets before the bus ___ at nine yesterday.",
+            "options": [
+              "A. leaving",
+              "B. leaves",
+              "C. left",
+              "D. leave"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "驗票先發生，用 had checked；公車昨天九點離開是較晚的過去事件，這個子句用過去式 left。"
+          }
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          {
+            "id": "h2-2-u6-sv001",
+            "vocab_id": "h2-2-u6-v001",
+            "sentence": "In high school, Harvey’s favorite subject was biology because he was interested in learning about different creatures.",
+            "sentence_chinese": "高中時，Harvey 最喜歡的科目是生物學，因為他對了解不同生物很感興趣。"
+          },
+          {
+            "id": "h2-2-u6-sv002",
+            "vocab_id": "h2-2-u6-v002",
+            "sentence": "The unique appearance of these cupcakes makes them popular among teenagers.",
+            "sentence_chinese": "這些杯子蛋糕獨特的外觀讓它們很受青少年歡迎。"
+          },
+          {
+            "id": "h2-2-u6-sv003",
+            "vocab_id": "h2-2-u6-v003",
+            "sentence": "The boss thanked the staff for their hard work and treated them to a big meal.",
+            "sentence_chinese": "老闆感謝全體員工的辛勞，並請他們吃了一頓大餐。"
+          },
+          {
+            "id": "h2-2-u6-sv004",
+            "vocab_id": "h2-2-u6-v004",
+            "sentence": "We spent an hour interacting with the animals.",
+            "sentence_chinese": "我們花了一個小時與動物互動。"
+          },
+          {
+            "id": "h2-2-u6-sv005",
+            "vocab_id": "h2-2-u6-v005",
+            "sentence": "The library’s regular hours are 9 a.m. to 5 p.m. on weekdays.",
+            "sentence_chinese": "圖書館平日的正常開放時間是上午 9 點到下午 5 點。"
+          },
+          {
+            "id": "h2-2-u6-sv006",
+            "vocab_id": "h2-2-u6-v006",
+            "sentence": "Ashley did not return the book on time, so she had to pay a late fee of NT$100.",
+            "sentence_chinese": "Ashley 沒有準時還書，所以必須支付新臺幣 100 元的逾期費用。"
+          },
+          {
+            "id": "h2-2-u6-sv007",
+            "vocab_id": "h2-2-u6-v007",
+            "sentence": "Ella used the money she saved from the discount on tickets to pay for her hotel room.",
+            "sentence_chinese": "Ella 用買票打折所省下的錢支付旅館房費。"
+          },
+          {
+            "id": "h2-2-u6-sv008",
+            "vocab_id": "h2-2-u6-v008",
+            "sentence": "I won’t be able to meet you for lunch because I have a very busy schedule today.",
+            "sentence_chinese": "我今天行程很滿，沒辦法和你一起吃午餐。"
+          },
+          {
+            "id": "h2-2-u6-sv009",
+            "vocab_id": "h2-2-u6-v009",
+            "sentence": "The team’s arrival at the meeting was delayed due to traffic on the highway.",
+            "sentence_chinese": "球隊因公路上的交通狀況而延遲抵達會場。"
+          },
+          {
+            "id": "h2-2-u6-sv010",
+            "vocab_id": "h2-2-u6-v010",
+            "sentence": "When a train goes into a tunnel, passengers can see nothing but darkness outside the window.",
+            "sentence_chinese": "火車進入隧道時，乘客從窗外只能看到一片黑暗。"
+          },
+          {
+            "id": "h2-2-u6-sv011",
+            "vocab_id": "h2-2-u6-v011",
+            "sentence": "Tina bought a coffee mug as a souvenir of London.",
+            "sentence_chinese": "Tina 買了一個咖啡杯，作為倫敦之旅的紀念品。"
+          },
+          {
+            "id": "h2-2-u6-sv012",
+            "vocab_id": "h2-2-u6-v012",
+            "sentence": "It usually takes four years to finish university in Taiwan.",
+            "sentence_chinese": "在臺灣，大學畢業通常需要四年。"
+          },
+          {
+            "id": "h2-2-u6-sv013",
+            "vocab_id": "h2-2-u6-v013",
+            "sentence": "Emma is planning to retire from her company because she is already sixty-five years old.",
+            "sentence_chinese": "Emma 已經 65 歲，正計畫從公司退休。"
+          },
+          {
+            "id": "h2-2-u6-sv014",
+            "vocab_id": "h2-2-u6-v014",
+            "sentence": "The rain had lasted two hours when we left.",
+            "sentence_chinese": "我們離開時，雨已經下了兩個小時。"
+          },
+          {
+            "id": "h2-2-u6-sv015",
+            "vocab_id": "h2-2-u6-v015",
+            "sentence": "The elementary school photo brings back lots of memories of Steven’s childhood.",
+            "sentence_chinese": "這張小學照片勾起 Steven 許多童年回憶。"
+          },
+          {
+            "id": "h2-2-u6-sv016",
+            "vocab_id": "h2-2-u6-v016",
+            "sentence": "Traveling alone was an unforgettable experience for Cindy. She learned a lot during her trip.",
+            "sentence_chinese": "獨自旅行對 Cindy 來說是難忘的經驗，她在旅途中學到很多。"
+          },
+          {
+            "id": "h2-2-u6-sv017",
+            "vocab_id": "h2-2-u6-v017",
+            "sentence": "Going on a working holiday to America was a great adventure for Ian.",
+            "sentence_chinese": "去美國打工度假對 Ian 而言是一場很棒的冒險。"
+          },
+          {
+            "id": "h2-2-u6-sv018",
+            "vocab_id": "h2-2-u6-v018",
+            "sentence": "Many families have lived in this small town for generations. They don’t want to move away.",
+            "sentence_chinese": "許多家庭已在這個小鎮住了好幾代，他們不想搬走。"
+          }
+        ],
+        "phrases": [
+          {
+            "id": "h2-2-u6-sp001",
+            "phrase_id": "h2-2-u6-p001",
+            "sentence": "We hurried up because the movie had already started.",
+            "sentence_chinese": "我們加快腳步，因為電影已經開始了。"
+          },
+          {
+            "id": "h2-2-u6-sp002",
+            "phrase_id": "h2-2-u6-p002",
+            "sentence": "I used to spend Sundays with my grandparents.",
+            "sentence_chinese": "我以前常和爺爺奶奶一起度過星期天。"
+          },
+          {
+            "id": "h2-2-u6-sp003",
+            "phrase_id": "h2-2-u6-p003",
+            "sentence": "Ivy was so tired that she fell asleep on the sofa.",
+            "sentence_chinese": "Ivy 太累了，在沙發上睡著了。"
+          },
+          {
+            "id": "h2-2-u6-sp004",
+            "phrase_id": "h2-2-u6-p004",
+            "sentence": "Dad spent the night watching over the baby.",
+            "sentence_chinese": "爸爸花了一整晚照顧寶寶。"
+          }
+        ],
+        "grammar": [
+          {
+            "id": "h2-2-u6-sg001",
+            "sentence": "We spent an hour studying biology together.",
+            "sentence_chinese": "我們花了一個小時一起讀生物。"
+          },
+          {
+            "id": "h2-2-u6-sg002",
+            "sentence": "The guide had left before our arrival.",
+            "sentence_chinese": "我們抵達前，導覽員已經離開了。"
+          },
+          {
+            "id": "h2-2-u6-sg003",
+            "sentence": "It took us ten minutes to reach the tunnel.",
+            "sentence_chinese": "我們花了十分鐘到達隧道。"
+          },
+          {
+            "id": "h2-2-u6-sg004",
+            "sentence": "The souvenir cost me two hundred dollars.",
+            "sentence_chinese": "這個紀念品花了我兩百元。"
+          },
+          {
+            "id": "h2-2-u6-sg005",
+            "sentence": "Before that adventure, I had never seen a shark.",
+            "sentence_chinese": "那次冒險之前，我從未見過鯊魚。"
+          },
+          {
+            "id": "h2-2-u6-sg006",
+            "sentence": "We had paid the fee before the tour began.",
+            "sentence_chinese": "導覽開始前，我們已經付了費用。"
+          },
+          {
+            "id": "h2-2-u6-sg007",
+            "sentence": "Mei spent thirty minutes reading the schedule.",
+            "sentence_chinese": "Mei 花了三十分鐘閱讀行程表。"
+          },
+          {
+            "id": "h2-2-u6-sg008",
+            "sentence": "It cost us fifty dollars to print the photos.",
+            "sentence_chinese": "列印這些照片花了我們五十元。"
+          },
+          {
+            "id": "h2-2-u6-sg009",
+            "sentence": "By noon yesterday, the rain had lasted four hours.",
+            "sentence_chinese": "到昨天中午時，雨已經下了四個小時。"
+          },
+          {
+            "id": "h2-2-u6-sg010",
+            "sentence": "Walking through the tunnel took us five minutes.",
+            "sentence_chinese": "走過隧道花了我們五分鐘。"
+          },
+          {
+            "id": "h2-2-u6-sg011",
+            "sentence": "Had you visited the museum before that trip?",
+            "sentence_chinese": "那趟旅行之前，你參觀過那間博物館嗎？"
+          },
+          {
+            "id": "h2-2-u6-sg012",
+            "sentence": "Grandpa had retired before I started school.",
+            "sentence_chinese": "我開始上學前，爺爺已經退休了。"
+          },
+          {
+            "id": "h2-2-u6-sg013",
+            "sentence": "Dad spent the night watching over the baby.",
+            "sentence_chinese": "爸爸花了一整晚照顧寶寶。"
+          },
+          {
+            "id": "h2-2-u6-sg014",
+            "sentence": "I realized I had forgotten my ticket at home.",
+            "sentence_chinese": "我發現自己把票忘在家裡了。"
+          },
+          {
+            "id": "h2-2-u6-sg015",
+            "sentence": "The two tickets cost us four hundred dollars.",
+            "sentence_chinese": "這兩張票花了我們四百元。"
+          },
+          {
+            "id": "h2-2-u6-sg016",
+            "sentence": "It takes the staff an hour to clean the room.",
+            "sentence_chinese": "工作人員需要一個小時清理房間。"
+          },
+          {
+            "id": "h2-2-u6-sg017",
+            "sentence": "My sister had fallen asleep before the movie ended.",
+            "sentence_chinese": "電影結束前，我妹妹已經睡著了。"
+          },
+          {
+            "id": "h2-2-u6-sg018",
+            "sentence": "The shop had sold every souvenir before we arrived.",
+            "sentence_chinese": "我們抵達前，商店已經賣光所有紀念品。"
+          },
+          {
+            "id": "h2-2-u6-sg019",
+            "sentence": "How much did you spend on the adventure?",
+            "sentence_chinese": "你在這次冒險花了多少錢？"
+          },
+          {
+            "id": "h2-2-u6-sg020",
+            "sentence": "We spent an unforgettable evening at the museum.",
+            "sentence_chinese": "我們在博物館度過了難忘的一晚。"
+          },
+          {
+            "id": "h2-2-u6-sg021",
+            "sentence": "By 2020, three generations had lived in this house.",
+            "sentence_chinese": "到 2020 年時，已有三代住過這間房子。"
+          },
+          {
+            "id": "h2-2-u6-sg022",
+            "sentence": "I had not bought anything when the shop closed.",
+            "sentence_chinese": "商店關門時，我還沒買任何東西。"
+          },
+          {
+            "id": "h2-2-u6-sg023",
+            "sentence": "It took my brother twenty minutes to fall asleep.",
+            "sentence_chinese": "我弟弟花了二十分鐘才睡著。"
+          },
+          {
+            "id": "h2-2-u6-sg024",
+            "sentence": "The staff had fed the fish before we arrived.",
+            "sentence_chinese": "我們抵達前，工作人員已經餵過魚了。"
+          },
+          {
+            "id": "h2-2-u6-sg025",
+            "sentence": "I used to spend Sundays with my grandparents.",
+            "sentence_chinese": "我以前常和爺爺奶奶一起度過星期天。"
+          },
+          {
+            "id": "h2-2-u6-sg026",
+            "sentence": "The guide had explained the discount before we bought tickets.",
+            "sentence_chinese": "我們買票前，導覽員已經說明過折扣。"
+          },
+          {
+            "id": "h2-2-u6-sg027",
+            "sentence": "It did not cost much to buy the souvenir.",
+            "sentence_chinese": "買這個紀念品沒有花很多錢。"
+          },
+          {
+            "id": "h2-2-u6-sg028",
+            "sentence": "We hurried up because the tour had already started.",
+            "sentence_chinese": "我們加快腳步，因為導覽已經開始了。"
+          },
+          {
+            "id": "h2-2-u6-sg029",
+            "sentence": "We spent an hour interacting with the animals.",
+            "sentence_chinese": "我們花了一個小時與動物互動。"
+          },
+          {
+            "id": "h2-2-u6-sg030",
+            "sentence": "The children had never visited a university before that day.",
+            "sentence_chinese": "那天之前，孩子們從未參觀過大學。"
+          }
+        ]
+      }
+    }
+  }
+}
