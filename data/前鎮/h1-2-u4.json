@@ -1,0 +1,736 @@
+{
+  "units": {
+    "h1-2-u4": {
+      "title": "U4",
+      "source_section": "3-1",
+      "vocab": [
+        {
+          "word": "accountant",
+          "part_of_speech": "名",
+          "chinese": "會計師",
+          "sentence": "Every business needs a good accountant to take care of its finances.",
+          "sentence_chinese": "每家公司都需要一位優秀的會計師來管理財務。",
+          "sentence_source": "課本",
+          "id": "h1-2-u4-v001"
+        },
+        {
+          "word": "addict",
+          "part_of_speech": "名",
+          "chinese": "入迷的人；成癮的人",
+          "sentence": "The social worker helps drug addicts get back on track by providing good counseling.",
+          "sentence_chinese": "那位社工提供良好的諮商，幫助吸毒成癮者重回正軌。",
+          "sentence_source": "課本",
+          "id": "h1-2-u4-v002"
+        },
+        {
+          "word": "adviser",
+          "part_of_speech": "名",
+          "chinese": "指導老師；顧問",
+          "sentence": "Thanks to his business adviser, Dan's company was extremely profitable.",
+          "sentence_chinese": "多虧企業顧問的幫助，Dan 的公司獲利豐厚。",
+          "sentence_source": "課本",
+          "id": "h1-2-u4-v003",
+          "display_word": "adviser/advisor",
+          "accepted_forms": [
+            "adviser",
+            "advisor"
+          ]
+        },
+        {
+          "word": "agent",
+          "part_of_speech": "名",
+          "chinese": "代理商；經紀人",
+          "sentence": "The actor asked his agent to find more work.",
+          "sentence_chinese": "那位演員請經紀人幫他找更多工作。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u4-v004"
+        },
+        {
+          "word": "amateur",
+          "part_of_speech": "名／形",
+          "chinese": "業餘者；業餘的",
+          "sentence": "I am an amateur, but I practice every day.",
+          "sentence_chinese": "我是業餘者，但我每天都練習。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u4-v005"
+        },
+        {
+          "word": "ambassador",
+          "part_of_speech": "名",
+          "chinese": "大使",
+          "sentence": "The ambassador met the president of that country yesterday.",
+          "sentence_chinese": "那位大使昨天會見了該國總統。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u4-v006"
+        },
+        {
+          "word": "ancestor",
+          "part_of_speech": "名",
+          "chinese": "祖先",
+          "sentence": "My ancestors came to Taiwan many years ago.",
+          "sentence_chinese": "我的祖先多年前來到臺灣。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u4-v007"
+        },
+        {
+          "word": "applicant",
+          "part_of_speech": "名",
+          "chinese": "申請者",
+          "sentence": "Each applicant must fill out this form first.",
+          "sentence_chinese": "每位申請者都必須先填寫這張表格。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u4-v008",
+          "option_group": "applicant-candidate"
+        },
+        {
+          "word": "assistant",
+          "part_of_speech": "名",
+          "chinese": "助手；助理",
+          "sentence": "While working as a celebrity's assistant, Wilson has met a number of famous figures like singers and movie directors.",
+          "sentence_chinese": "擔任名人助理期間，Wilson 認識了許多歌手和電影導演等知名人物。",
+          "sentence_source": "課本",
+          "id": "h1-2-u4-v009"
+        },
+        {
+          "word": "athlete",
+          "part_of_speech": "名",
+          "chinese": "運動員",
+          "sentence": "Top athletes are usually excellent at all sports, not just one.",
+          "sentence_chinese": "頂尖運動員通常擅長各種運動，而不只是其中一項。",
+          "sentence_source": "課本",
+          "id": "h1-2-u4-v010"
+        },
+        {
+          "word": "athletic",
+          "part_of_speech": "形",
+          "chinese": "運動員的；體育的；體格健壯的；擅長運動的",
+          "sentence": "Numerous athletic events are featured at the Olympic Games.",
+          "sentence_chinese": "奧運會有許多體育競賽項目。",
+          "sentence_source": "課本",
+          "id": "h1-2-u4-v011"
+        },
+        {
+          "word": "banker",
+          "part_of_speech": "名",
+          "chinese": "銀行家",
+          "sentence": "Nate works as a banker, so the decisions he makes every day involve huge amounts of money.",
+          "sentence_chinese": "Nate 是銀行家，因此每天的決策都涉及龐大金額。",
+          "sentence_source": "課本",
+          "id": "h1-2-u4-v012"
+        },
+        {
+          "word": "beggar",
+          "part_of_speech": "名",
+          "chinese": "乞丐",
+          "sentence": "Natalie saw a beggar on the street and gave him some money.",
+          "sentence_chinese": "Natalie 在街上看見一位乞丐，便給了他一些錢。",
+          "sentence_source": "課本",
+          "id": "h1-2-u4-v013"
+        },
+        {
+          "word": "bride",
+          "part_of_speech": "名",
+          "chinese": "新娘",
+          "sentence": "The bride chose a flowing white dress to wear on her wedding day.",
+          "sentence_chinese": "新娘挑了一件飄逸的白色洋裝，準備在婚禮當天穿。",
+          "sentence_source": "課本",
+          "id": "h1-2-u4-v014"
+        },
+        {
+          "word": "bridegroom",
+          "part_of_speech": "名",
+          "chinese": "新郎",
+          "sentence": "The bridegroom was so nervous before the wedding that he thought about calling it off.",
+          "sentence_chinese": "新郎在婚禮前緊張得甚至想取消婚禮。",
+          "sentence_source": "課本",
+          "id": "h1-2-u4-v015",
+          "display_word": "bridegroom/groom",
+          "accepted_forms": [
+            "bridegroom",
+            "groom"
+          ]
+        },
+        {
+          "word": "burglar",
+          "part_of_speech": "名",
+          "chinese": "竊賊",
+          "sentence": "A burglar broke into our house last night.",
+          "sentence_chinese": "昨晚有個竊賊闖進我們家。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u4-v016"
+        },
+        {
+          "word": "candidate",
+          "part_of_speech": "名",
+          "chinese": "候選人",
+          "sentence": "Each candidate answered questions before the election began.",
+          "sentence_chinese": "每位候選人在選舉開始前都回答了問題。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u4-v017",
+          "option_group": "applicant-candidate"
+        },
+        {
+          "word": "capitalist",
+          "part_of_speech": "名",
+          "chinese": "資本家；資本主義者",
+          "sentence": "Though China is still ruled by the Communist Party, capitalists are allowed to do business now.",
+          "sentence_chinese": "雖然中國仍由共產黨統治，現在已允許資本家經商。",
+          "sentence_source": "課本",
+          "id": "h1-2-u4-v018"
+        },
+        {
+          "word": "captain",
+          "part_of_speech": "名",
+          "chinese": "隊長；機長；艦長",
+          "sentence": "With clouds gathering in the sky, the captain worried that a storm was about to hit her ship.",
+          "sentence_chinese": "天空烏雲密布，船長擔心暴風雨即將襲擊她的船。",
+          "sentence_source": "課本",
+          "id": "h1-2-u4-v019",
+          "option_group": "command"
+        },
+        {
+          "word": "carpenter",
+          "part_of_speech": "名",
+          "chinese": "木匠",
+          "sentence": "My father is a carpenter and is famous for his wooden tables.",
+          "sentence_chinese": "我父親是木匠，以製作木桌聞名。",
+          "sentence_source": "課本",
+          "id": "h1-2-u4-v020"
+        },
+        {
+          "word": "carrier",
+          "part_of_speech": "名",
+          "chinese": "運送者；航空公司；帶菌者；傳染媒介",
+          "sentence": "China Airlines is the ROC's national airline carrier.",
+          "sentence_chinese": "中華航空是中華民國的國家航空公司。",
+          "sentence_source": "課本",
+          "id": "h1-2-u4-v021"
+        },
+        {
+          "word": "champion",
+          "part_of_speech": "名",
+          "chinese": "冠軍；優勝者",
+          "sentence": "Julie has been the national swimming champion for three straight years.",
+          "sentence_chinese": "Julie 已連續 3 年獲得全國游泳冠軍。",
+          "sentence_source": "課本",
+          "id": "h1-2-u4-v022"
+        },
+        {
+          "word": "citizen",
+          "part_of_speech": "名",
+          "chinese": "公民；市民",
+          "sentence": "Every citizen has the right to vote in this election.",
+          "sentence_chinese": "每位公民都有權在這次選舉中投票。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u4-v023"
+        },
+        {
+          "word": "civilian",
+          "part_of_speech": "名／形",
+          "chinese": "平民；百姓；平民的",
+          "sentence": "The soldier helped a civilian cross the busy street.",
+          "sentence_chinese": "那位士兵幫助一位平民穿越繁忙的街道。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u4-v024"
+        },
+        {
+          "word": "cleaner",
+          "part_of_speech": "名",
+          "chinese": "清潔工；清潔劑；去污劑",
+          "sentence": "There are a lot of different kinds of household cleaners under the sink, so I'm sure you can find one to clean the bathroom tiles.",
+          "sentence_chinese": "水槽下有許多種家用清潔劑，所以我相信你能找到一種來清潔浴室磁磚。",
+          "sentence_source": "課本",
+          "id": "h1-2-u4-v025"
+        },
+        {
+          "word": "client",
+          "part_of_speech": "名",
+          "chinese": "客戶；委託人",
+          "sentence": "Tom is one of the company's best clients, so they always make sure to treat him right when he visits.",
+          "sentence_chinese": "Tom 是公司最好的客戶之一，因此他來訪時，他們總會確保好好招待他。",
+          "sentence_source": "課本",
+          "id": "h1-2-u4-v026",
+          "option_group": "customer"
+        },
+        {
+          "word": "clown",
+          "part_of_speech": "名",
+          "chinese": "小丑",
+          "sentence": "The children laughed at the funny clown on TV as they watched him ride a small bike around the TV studio.",
+          "sentence_chinese": "孩子們看著電視上那位滑稽的小丑騎小腳踏車繞攝影棚，笑了起來。",
+          "sentence_source": "課本",
+          "id": "h1-2-u4-v027"
+        },
+        {
+          "word": "coach",
+          "part_of_speech": "名／動",
+          "chinese": "教練；培訓；輔導；指導",
+          "sentence": "Our soccer coach helped our team improve significantly during this sports season.",
+          "sentence_chinese": "在這個賽季，我們的足球教練幫助球隊大幅進步。",
+          "sentence_source": "課本",
+          "id": "h1-2-u4-v028"
+        },
+        {
+          "word": "colleague",
+          "part_of_speech": "名",
+          "chinese": "同事；同僚",
+          "sentence": "When a colleague was dozing off beside her, Courtney called his extension number just to wake him up.",
+          "sentence_chinese": "一位同事在 Courtney 身旁打瞌睡，她便撥打他的分機來叫醒他。",
+          "sentence_source": "課本",
+          "id": "h1-2-u4-v029"
+        },
+        {
+          "word": "commander",
+          "part_of_speech": "名",
+          "chinese": "指揮官",
+          "sentence": "In the US, the president is the commander of the armed forces.",
+          "sentence_chinese": "在美國，總統是三軍統帥。",
+          "sentence_source": "課本",
+          "id": "h1-2-u4-v030",
+          "option_group": "command"
+        },
+        {
+          "word": "competitor",
+          "part_of_speech": "名",
+          "chinese": "競爭者；對手",
+          "sentence": "Taiwan and South Korea are competitors in the global market for LCD screens.",
+          "sentence_chinese": "臺灣和南韓在全球液晶螢幕市場上是競爭對手。",
+          "sentence_source": "課本",
+          "id": "h1-2-u4-v031"
+        },
+        {
+          "word": "composer",
+          "part_of_speech": "名",
+          "chinese": "作曲家",
+          "sentence": "Mozart is one of the most famous composers of all time.",
+          "sentence_chinese": "莫札特是有史以來最著名的作曲家之一。",
+          "sentence_source": "課本",
+          "id": "h1-2-u4-v032"
+        },
+        {
+          "word": "conductor",
+          "part_of_speech": "名",
+          "chinese": "指揮家；導體",
+          "sentence": "Copper is a very good conductor of electricity.",
+          "sentence_chinese": "銅是很好的導電體。",
+          "sentence_source": "課本",
+          "id": "h1-2-u4-v033"
+        },
+        {
+          "word": "consultant",
+          "part_of_speech": "名",
+          "chinese": "顧問",
+          "sentence": "The company called in a consultant to give them some advice on marketing.",
+          "sentence_chinese": "公司請來一位顧問，提供行銷方面的建議。",
+          "sentence_source": "課本",
+          "id": "h1-2-u4-v034"
+        },
+        {
+          "word": "consumer",
+          "part_of_speech": "名",
+          "chinese": "消費者",
+          "sentence": "The price increases were passed on to the consumers.",
+          "sentence_chinese": "漲價的成本被轉嫁給了消費者。",
+          "sentence_source": "課本",
+          "id": "h1-2-u4-v035",
+          "option_group": "customer"
+        },
+        {
+          "word": "controller",
+          "part_of_speech": "名",
+          "chinese": "主管；控制者",
+          "sentence": "As a controller, Mita makes sure the company is in good financial shape, and has many accountants to assist her in the office.",
+          "sentence_chinese": "身為主管，Mita 確保公司財務健全，辦公室裡也有許多會計師協助她。",
+          "sentence_source": "課本",
+          "id": "h1-2-u4-v036"
+        },
+        {
+          "word": "coward",
+          "part_of_speech": "名",
+          "chinese": "膽小鬼；懦夫",
+          "sentence": "Only cowards run away when faced with an enemy.",
+          "sentence_chinese": "只有懦夫才會在面對敵人時逃跑。",
+          "sentence_source": "課本",
+          "id": "h1-2-u4-v037"
+        },
+        {
+          "word": "creator",
+          "part_of_speech": "名",
+          "chinese": "創作者；創造者",
+          "sentence": "The creator of this video game must be very imaginative.",
+          "sentence_chinese": "這款電玩遊戲的創作者一定很有想像力。",
+          "sentence_source": "課本",
+          "id": "h1-2-u4-v038"
+        },
+        {
+          "word": "criminal",
+          "part_of_speech": "名／形",
+          "chinese": "罪犯；犯罪的；刑事上的",
+          "sentence": "Stealing makes you a criminal.",
+          "sentence_chinese": "偷竊會使你成為罪犯。",
+          "sentence_source": "課本",
+          "id": "h1-2-u4-v039"
+        },
+        {
+          "word": "critic",
+          "part_of_speech": "名",
+          "chinese": "評論家；批評家",
+          "sentence": "The music critic wrote a review of her new album.",
+          "sentence_chinese": "那位樂評家寫了一篇關於她新專輯的評論。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u4-v040"
+        },
+        {
+          "word": "dealer",
+          "part_of_speech": "名",
+          "chinese": "商人；商販",
+          "sentence": "The car dealer showed us three used cars.",
+          "sentence_chinese": "那位汽車商向我們介紹了 3 輛中古車。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u4-v041"
+        },
+        {
+          "word": "designer",
+          "part_of_speech": "名",
+          "chinese": "設計師",
+          "sentence": "The designer made a beautiful dress for my sister.",
+          "sentence_chinese": "那位設計師為我姊姊做了一件漂亮的洋裝。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u4-v042"
+        },
+        {
+          "word": "detective",
+          "part_of_speech": "名",
+          "chinese": "偵探；警探",
+          "sentence": "The detective found a clue near the window.",
+          "sentence_chinese": "那位偵探在窗邊發現了一條線索。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u4-v043"
+        },
+        {
+          "word": "diplomat",
+          "part_of_speech": "名",
+          "chinese": "外交官",
+          "sentence": "The diplomats from the two countries talked for a while, trying to find a solution to the problem between them.",
+          "sentence_chinese": "兩國外交官談了一陣子，試圖找出解決兩國問題的方法。",
+          "sentence_source": "課本",
+          "id": "h1-2-u4-v044"
+        },
+        {
+          "word": "economist",
+          "part_of_speech": "名",
+          "chinese": "經濟學家",
+          "sentence": "The country's economists predicted that the economy would improve in the second quarter.",
+          "sentence_chinese": "該國經濟學家預測，經濟會在第二季好轉。",
+          "sentence_source": "課本",
+          "id": "h1-2-u4-v045"
+        },
+        {
+          "word": "editor",
+          "part_of_speech": "名",
+          "chinese": "編輯者；編輯；（報刊）主編",
+          "sentence": "A good magazine editor not only checks for spelling and usage errors, but also makes articles more enjoyable to read.",
+          "sentence_chinese": "好的雜誌編輯不僅檢查拼字與用法錯誤，也會讓文章讀起來更有趣。",
+          "sentence_source": "課本",
+          "id": "h1-2-u4-v046"
+        },
+        {
+          "word": "embassy",
+          "part_of_speech": "名",
+          "chinese": "大使館",
+          "sentence": "If you ever find yourself in trouble in a foreign country, you can go to your country's embassy for help.",
+          "sentence_chinese": "如果你在國外遇到麻煩，可以到自己國家的大使館求助。",
+          "sentence_source": "課本",
+          "id": "h1-2-u4-v047"
+        }
+      ],
+      "phrases": [],
+      "scrambles": {
+        "vocab": [
+          {
+            "id": "h1-2-u4-sv001",
+            "vocab_id": "h1-2-u4-v001",
+            "sentence": "Every business needs a good accountant to take care of its finances.",
+            "sentence_chinese": "每家公司都需要一位優秀的會計師來管理財務。"
+          },
+          {
+            "id": "h1-2-u4-sv002",
+            "vocab_id": "h1-2-u4-v002",
+            "sentence": "The social worker helps drug addicts get back on track by providing good counseling.",
+            "sentence_chinese": "那位社工提供良好的諮商，幫助吸毒成癮者重回正軌。"
+          },
+          {
+            "id": "h1-2-u4-sv003",
+            "vocab_id": "h1-2-u4-v003",
+            "sentence": "Thanks to his business adviser, Dan's company was extremely profitable.",
+            "sentence_chinese": "多虧企業顧問的幫助，Dan 的公司獲利豐厚。"
+          },
+          {
+            "id": "h1-2-u4-sv004",
+            "vocab_id": "h1-2-u4-v004",
+            "sentence": "The actor asked his agent to find more work.",
+            "sentence_chinese": "那位演員請經紀人幫他找更多工作。"
+          },
+          {
+            "id": "h1-2-u4-sv005",
+            "vocab_id": "h1-2-u4-v005",
+            "sentence": "I am an amateur, but I practice every day.",
+            "sentence_chinese": "我是業餘者，但我每天都練習。"
+          },
+          {
+            "id": "h1-2-u4-sv006",
+            "vocab_id": "h1-2-u4-v006",
+            "sentence": "The ambassador met the president of that country yesterday.",
+            "sentence_chinese": "那位大使昨天會見了該國總統。"
+          },
+          {
+            "id": "h1-2-u4-sv007",
+            "vocab_id": "h1-2-u4-v007",
+            "sentence": "My ancestors came to Taiwan many years ago.",
+            "sentence_chinese": "我的祖先多年前來到臺灣。"
+          },
+          {
+            "id": "h1-2-u4-sv008",
+            "vocab_id": "h1-2-u4-v008",
+            "sentence": "Each applicant must fill out this form first.",
+            "sentence_chinese": "每位申請者都必須先填寫這張表格。"
+          },
+          {
+            "id": "h1-2-u4-sv009",
+            "vocab_id": "h1-2-u4-v009",
+            "sentence": "While working as a celebrity's assistant, Wilson has met a number of famous figures like singers and movie directors.",
+            "sentence_chinese": "擔任名人助理期間，Wilson 認識了許多歌手和電影導演等知名人物。"
+          },
+          {
+            "id": "h1-2-u4-sv010",
+            "vocab_id": "h1-2-u4-v010",
+            "sentence": "Top athletes are usually excellent at all sports, not just one.",
+            "sentence_chinese": "頂尖運動員通常擅長各種運動，而不只是其中一項。"
+          },
+          {
+            "id": "h1-2-u4-sv011",
+            "vocab_id": "h1-2-u4-v011",
+            "sentence": "Numerous athletic events are featured at the Olympic Games.",
+            "sentence_chinese": "奧運會有許多體育競賽項目。"
+          },
+          {
+            "id": "h1-2-u4-sv012",
+            "vocab_id": "h1-2-u4-v012",
+            "sentence": "Nate works as a banker, so the decisions he makes every day involve huge amounts of money.",
+            "sentence_chinese": "Nate 是銀行家，因此每天的決策都涉及龐大金額。"
+          },
+          {
+            "id": "h1-2-u4-sv013",
+            "vocab_id": "h1-2-u4-v013",
+            "sentence": "Natalie saw a beggar on the street and gave him some money.",
+            "sentence_chinese": "Natalie 在街上看見一位乞丐，便給了他一些錢。"
+          },
+          {
+            "id": "h1-2-u4-sv014",
+            "vocab_id": "h1-2-u4-v014",
+            "sentence": "The bride chose a flowing white dress to wear on her wedding day.",
+            "sentence_chinese": "新娘挑了一件飄逸的白色洋裝，準備在婚禮當天穿。"
+          },
+          {
+            "id": "h1-2-u4-sv015",
+            "vocab_id": "h1-2-u4-v015",
+            "sentence": "The bridegroom was so nervous before the wedding that he thought about calling it off.",
+            "sentence_chinese": "新郎在婚禮前緊張得甚至想取消婚禮。"
+          },
+          {
+            "id": "h1-2-u4-sv016",
+            "vocab_id": "h1-2-u4-v016",
+            "sentence": "A burglar broke into our house last night.",
+            "sentence_chinese": "昨晚有個竊賊闖進我們家。"
+          },
+          {
+            "id": "h1-2-u4-sv017",
+            "vocab_id": "h1-2-u4-v017",
+            "sentence": "Each candidate answered questions before the election began.",
+            "sentence_chinese": "每位候選人在選舉開始前都回答了問題。"
+          },
+          {
+            "id": "h1-2-u4-sv018",
+            "vocab_id": "h1-2-u4-v018",
+            "sentence": "Though China is still ruled by the Communist Party, capitalists are allowed to do business now.",
+            "sentence_chinese": "雖然中國仍由共產黨統治，現在已允許資本家經商。"
+          },
+          {
+            "id": "h1-2-u4-sv019",
+            "vocab_id": "h1-2-u4-v019",
+            "sentence": "With clouds gathering in the sky, the captain worried that a storm was about to hit her ship.",
+            "sentence_chinese": "天空烏雲密布，船長擔心暴風雨即將襲擊她的船。"
+          },
+          {
+            "id": "h1-2-u4-sv020",
+            "vocab_id": "h1-2-u4-v020",
+            "sentence": "My father is a carpenter and is famous for his wooden tables.",
+            "sentence_chinese": "我父親是木匠，以製作木桌聞名。"
+          },
+          {
+            "id": "h1-2-u4-sv021",
+            "vocab_id": "h1-2-u4-v021",
+            "sentence": "China Airlines is the ROC's national airline carrier.",
+            "sentence_chinese": "中華航空是中華民國的國家航空公司。"
+          },
+          {
+            "id": "h1-2-u4-sv022",
+            "vocab_id": "h1-2-u4-v022",
+            "sentence": "Julie has been the national swimming champion for three straight years.",
+            "sentence_chinese": "Julie 已連續 3 年獲得全國游泳冠軍。"
+          },
+          {
+            "id": "h1-2-u4-sv023",
+            "vocab_id": "h1-2-u4-v023",
+            "sentence": "Every citizen has the right to vote in this election.",
+            "sentence_chinese": "每位公民都有權在這次選舉中投票。"
+          },
+          {
+            "id": "h1-2-u4-sv024",
+            "vocab_id": "h1-2-u4-v024",
+            "sentence": "The soldier helped a civilian cross the busy street.",
+            "sentence_chinese": "那位士兵幫助一位平民穿越繁忙的街道。"
+          },
+          {
+            "id": "h1-2-u4-sv025",
+            "vocab_id": "h1-2-u4-v025",
+            "sentence": "There are a lot of different kinds of household cleaners under the sink, so I'm sure you can find one to clean the bathroom tiles.",
+            "sentence_chinese": "水槽下有許多種家用清潔劑，所以我相信你能找到一種來清潔浴室磁磚。"
+          },
+          {
+            "id": "h1-2-u4-sv026",
+            "vocab_id": "h1-2-u4-v026",
+            "sentence": "Tom is one of the company's best clients, so they always make sure to treat him right when he visits.",
+            "sentence_chinese": "Tom 是公司最好的客戶之一，因此他來訪時，他們總會確保好好招待他。"
+          },
+          {
+            "id": "h1-2-u4-sv027",
+            "vocab_id": "h1-2-u4-v027",
+            "sentence": "The children laughed at the funny clown on TV as they watched him ride a small bike around the TV studio.",
+            "sentence_chinese": "孩子們看著電視上那位滑稽的小丑騎小腳踏車繞攝影棚，笑了起來。"
+          },
+          {
+            "id": "h1-2-u4-sv028",
+            "vocab_id": "h1-2-u4-v028",
+            "sentence": "Our soccer coach helped our team improve significantly during this sports season.",
+            "sentence_chinese": "在這個賽季，我們的足球教練幫助球隊大幅進步。"
+          },
+          {
+            "id": "h1-2-u4-sv029",
+            "vocab_id": "h1-2-u4-v029",
+            "sentence": "When a colleague was dozing off beside her, Courtney called his extension number just to wake him up.",
+            "sentence_chinese": "一位同事在 Courtney 身旁打瞌睡，她便撥打他的分機來叫醒他。"
+          },
+          {
+            "id": "h1-2-u4-sv030",
+            "vocab_id": "h1-2-u4-v030",
+            "sentence": "In the US, the president is the commander of the armed forces.",
+            "sentence_chinese": "在美國，總統是三軍統帥。"
+          },
+          {
+            "id": "h1-2-u4-sv031",
+            "vocab_id": "h1-2-u4-v031",
+            "sentence": "Taiwan and South Korea are competitors in the global market for LCD screens.",
+            "sentence_chinese": "臺灣和南韓在全球液晶螢幕市場上是競爭對手。"
+          },
+          {
+            "id": "h1-2-u4-sv032",
+            "vocab_id": "h1-2-u4-v032",
+            "sentence": "Mozart is one of the most famous composers of all time.",
+            "sentence_chinese": "莫札特是有史以來最著名的作曲家之一。"
+          },
+          {
+            "id": "h1-2-u4-sv033",
+            "vocab_id": "h1-2-u4-v033",
+            "sentence": "Copper is a very good conductor of electricity.",
+            "sentence_chinese": "銅是很好的導電體。"
+          },
+          {
+            "id": "h1-2-u4-sv034",
+            "vocab_id": "h1-2-u4-v034",
+            "sentence": "The company called in a consultant to give them some advice on marketing.",
+            "sentence_chinese": "公司請來一位顧問，提供行銷方面的建議。"
+          },
+          {
+            "id": "h1-2-u4-sv035",
+            "vocab_id": "h1-2-u4-v035",
+            "sentence": "The price increases were passed on to the consumers.",
+            "sentence_chinese": "漲價的成本被轉嫁給了消費者。"
+          },
+          {
+            "id": "h1-2-u4-sv036",
+            "vocab_id": "h1-2-u4-v036",
+            "sentence": "As a controller, Mita makes sure the company is in good financial shape, and has many accountants to assist her in the office.",
+            "sentence_chinese": "身為主管，Mita 確保公司財務健全，辦公室裡也有許多會計師協助她。"
+          },
+          {
+            "id": "h1-2-u4-sv037",
+            "vocab_id": "h1-2-u4-v037",
+            "sentence": "Only cowards run away when faced with an enemy.",
+            "sentence_chinese": "只有懦夫才會在面對敵人時逃跑。"
+          },
+          {
+            "id": "h1-2-u4-sv038",
+            "vocab_id": "h1-2-u4-v038",
+            "sentence": "The creator of this video game must be very imaginative.",
+            "sentence_chinese": "這款電玩遊戲的創作者一定很有想像力。"
+          },
+          {
+            "id": "h1-2-u4-sv039",
+            "vocab_id": "h1-2-u4-v039",
+            "sentence": "Stealing makes you a criminal.",
+            "sentence_chinese": "偷竊會使你成為罪犯。"
+          },
+          {
+            "id": "h1-2-u4-sv040",
+            "vocab_id": "h1-2-u4-v040",
+            "sentence": "The music critic wrote a review of her new album.",
+            "sentence_chinese": "那位樂評家寫了一篇關於她新專輯的評論。"
+          },
+          {
+            "id": "h1-2-u4-sv041",
+            "vocab_id": "h1-2-u4-v041",
+            "sentence": "The car dealer showed us three used cars.",
+            "sentence_chinese": "那位汽車商向我們介紹了 3 輛中古車。"
+          },
+          {
+            "id": "h1-2-u4-sv042",
+            "vocab_id": "h1-2-u4-v042",
+            "sentence": "The designer made a beautiful dress for my sister.",
+            "sentence_chinese": "那位設計師為我姊姊做了一件漂亮的洋裝。"
+          },
+          {
+            "id": "h1-2-u4-sv043",
+            "vocab_id": "h1-2-u4-v043",
+            "sentence": "The detective found a clue near the window.",
+            "sentence_chinese": "那位偵探在窗邊發現了一條線索。"
+          },
+          {
+            "id": "h1-2-u4-sv044",
+            "vocab_id": "h1-2-u4-v044",
+            "sentence": "The diplomats from the two countries talked for a while, trying to find a solution to the problem between them.",
+            "sentence_chinese": "兩國外交官談了一陣子，試圖找出解決兩國問題的方法。"
+          },
+          {
+            "id": "h1-2-u4-sv045",
+            "vocab_id": "h1-2-u4-v045",
+            "sentence": "The country's economists predicted that the economy would improve in the second quarter.",
+            "sentence_chinese": "該國經濟學家預測，經濟會在第二季好轉。"
+          },
+          {
+            "id": "h1-2-u4-sv046",
+            "vocab_id": "h1-2-u4-v046",
+            "sentence": "A good magazine editor not only checks for spelling and usage errors, but also makes articles more enjoyable to read.",
+            "sentence_chinese": "好的雜誌編輯不僅檢查拼字與用法錯誤，也會讓文章讀起來更有趣。"
+          },
+          {
+            "id": "h1-2-u4-sv047",
+            "vocab_id": "h1-2-u4-v047",
+            "sentence": "If you ever find yourself in trouble in a foreign country, you can go to your country's embassy for help.",
+            "sentence_chinese": "如果你在國外遇到麻煩，可以到自己國家的大使館求助。"
+          }
+        ]
+      }
+    }
+  }
+}

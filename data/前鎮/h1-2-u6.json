@@ -1,0 +1,745 @@
+{
+  "units": {
+    "h1-2-u6": {
+      "title": "U6",
+      "source_section": "3-3",
+      "vocab": [
+        {
+          "word": "passenger",
+          "part_of_speech": "名",
+          "chinese": "乘客；旅客",
+          "sentence": "The flight attendants served the passengers their drinks and meals.",
+          "sentence_chinese": "空服員為乘客送上飲料和餐點。",
+          "sentence_source": "課本",
+          "id": "h1-2-u6-v001",
+          "option_group": "travel"
+        },
+        {
+          "word": "peer",
+          "part_of_speech": "名／動",
+          "chinese": "同輩；同儕；仔細看；端詳",
+          "sentence": "Teens often start to smoke because some of their peers are smoking.",
+          "sentence_chinese": "青少年常因為一些同儕在抽菸，而開始抽菸。",
+          "sentence_source": "課本",
+          "id": "h1-2-u6-v002"
+        },
+        {
+          "word": "philosopher",
+          "part_of_speech": "名",
+          "chinese": "哲學家",
+          "sentence": "Plato was a great philosopher in ancient Greece.",
+          "sentence_chinese": "柏拉圖是古希臘一位偉大的哲學家。",
+          "sentence_source": "課本",
+          "id": "h1-2-u6-v003",
+          "option_group": "academic"
+        },
+        {
+          "word": "photographer",
+          "part_of_speech": "名",
+          "chinese": "攝影師",
+          "sentence": "As the model posed for the photograph, the photographer pressed the shutter button.",
+          "sentence_chinese": "模特兒擺好拍照姿勢時，攝影師按下了快門。",
+          "sentence_source": "課本",
+          "id": "h1-2-u6-v004"
+        },
+        {
+          "word": "physician",
+          "part_of_speech": "名",
+          "chinese": "內科醫生",
+          "sentence": "If you have a severe stomachache, you'd better go to a physician.",
+          "sentence_chinese": "如果你肚子痛得很厲害，最好去看內科醫生。",
+          "sentence_source": "課本",
+          "id": "h1-2-u6-v005"
+        },
+        {
+          "word": "physicist",
+          "part_of_speech": "名",
+          "chinese": "物理學家",
+          "sentence": "The physicist studied how light travels through water.",
+          "sentence_chinese": "那位物理學家研究光如何穿過水。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u6-v006",
+          "option_group": "academic"
+        },
+        {
+          "word": "pilot",
+          "part_of_speech": "名",
+          "chinese": "飛行員；領航員",
+          "sentence": "The pilot landed the plane safely in the rain.",
+          "sentence_chinese": "飛行員在雨中讓飛機安全降落。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u6-v007"
+        },
+        {
+          "word": "pioneer",
+          "part_of_speech": "名",
+          "chinese": "拓荒者；先鋒；首創者",
+          "sentence": "The pioneers built new homes near the river.",
+          "sentence_chinese": "拓荒者在河邊建造了新家。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u6-v008"
+        },
+        {
+          "word": "plumber",
+          "part_of_speech": "名",
+          "chinese": "水電工；水管瓦斯工人",
+          "sentence": "The plumber fixed the broken pipe under the sink.",
+          "sentence_chinese": "水電工修好了水槽下破損的水管。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u6-v009"
+        },
+        {
+          "word": "politician",
+          "part_of_speech": "名",
+          "chinese": "政治人物；政客",
+          "sentence": "The politician promised to build a new school.",
+          "sentence_chinese": "那位政治人物承諾興建一所新學校。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u6-v010"
+        },
+        {
+          "word": "producer",
+          "part_of_speech": "名",
+          "chinese": "生產者；製造商；製作人",
+          "sentence": "Before working on the album, the singer talked to his producers about the recording budget.",
+          "sentence_chinese": "製作專輯前，那位歌手和製作人討論了錄音預算。",
+          "sentence_source": "課本",
+          "id": "h1-2-u6-v011"
+        },
+        {
+          "word": "profession",
+          "part_of_speech": "名",
+          "chinese": "職業；專業",
+          "sentence": "Susan is a lawyer by profession.",
+          "sentence_chinese": "Susan 的職業是律師。",
+          "sentence_source": "課本",
+          "id": "h1-2-u6-v012"
+        },
+        {
+          "word": "professional",
+          "part_of_speech": "形／名",
+          "chinese": "職業的；專業的；專業人員",
+          "sentence": "Before he became a professional basketball player, Michael Jordan excelled at the high school and college level.",
+          "sentence_chinese": "Michael Jordan 成為職業籃球員之前，在高中和大學時期就表現出色。",
+          "sentence_source": "課本",
+          "id": "h1-2-u6-v013"
+        },
+        {
+          "word": "professor",
+          "part_of_speech": "名",
+          "chinese": "教授",
+          "sentence": "David is a professor of physics at the University of Auckland.",
+          "sentence_chinese": "David 是奧克蘭大學的物理教授。",
+          "sentence_source": "課本",
+          "id": "h1-2-u6-v014",
+          "option_group": "academic"
+        },
+        {
+          "word": "psychologist",
+          "part_of_speech": "名",
+          "chinese": "心理學家",
+          "sentence": "The psychologist helps people understand their feelings and behavior.",
+          "sentence_chinese": "心理學家幫助人們了解自己的感受與行為。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u6-v015",
+          "option_group": "academic"
+        },
+        {
+          "word": "publisher",
+          "part_of_speech": "名",
+          "chinese": "出版或發行公司；出版商",
+          "sentence": "Because of the intense competition, publishers of fiction are having a harder time selling books than ever.",
+          "sentence_chinese": "由於競爭激烈，小說出版商賣書比以往更加困難。",
+          "sentence_source": "課本",
+          "id": "h1-2-u6-v016"
+        },
+        {
+          "word": "refugee",
+          "part_of_speech": "名",
+          "chinese": "難民",
+          "sentence": "Many refugees left their homes because of the war.",
+          "sentence_chinese": "許多難民因為戰爭而離開家園。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u6-v017"
+        },
+        {
+          "word": "represent",
+          "part_of_speech": "動",
+          "chinese": "代表；表示；象徵",
+          "sentence": "The vice president represented the president at the welcoming party.",
+          "sentence_chinese": "副總統代表總統出席歡迎會。",
+          "sentence_source": "課本",
+          "id": "h1-2-u6-v018"
+        },
+        {
+          "word": "representative",
+          "part_of_speech": "名／形",
+          "chinese": "代表；代表性的",
+          "sentence": "Is this report truly representative of national opinion?",
+          "sentence_chinese": "這份報告真的能代表全國人民的意見嗎？",
+          "sentence_source": "課本",
+          "id": "h1-2-u6-v019"
+        },
+        {
+          "word": "researcher",
+          "part_of_speech": "名",
+          "chinese": "研究人員",
+          "sentence": "Paul joined the company as a market researcher, directing a study on which cellphone colors teenagers preferred.",
+          "sentence_chinese": "Paul 以市場研究員的身分加入公司，主持一項關於青少年偏好哪些手機顏色的研究。",
+          "sentence_source": "課本",
+          "id": "h1-2-u6-v020",
+          "option_group": "academic"
+        },
+        {
+          "word": "robber",
+          "part_of_speech": "名",
+          "chinese": "搶匪",
+          "sentence": "The bank robbers were soon caught by the police.",
+          "sentence_chinese": "搶銀行的搶匪很快就被警方逮捕了。",
+          "sentence_source": "課本",
+          "id": "h1-2-u6-v021"
+        },
+        {
+          "word": "scholar",
+          "part_of_speech": "名",
+          "chinese": "學者",
+          "sentence": "Dr. Jones is an excellent scholar whose work on monkeys has been printed in the best scientific journals.",
+          "sentence_chinese": "Jones 博士是位優秀的學者，他對猴子的研究已刊登在頂尖科學期刊上。",
+          "sentence_source": "課本",
+          "id": "h1-2-u6-v022",
+          "option_group": "academic"
+        },
+        {
+          "word": "scientist",
+          "part_of_speech": "名",
+          "chinese": "科學家",
+          "sentence": "Scientists at this university are working to discover new stars and planets.",
+          "sentence_chinese": "這所大學的科學家正努力發現新的恆星與行星。",
+          "sentence_source": "課本",
+          "id": "h1-2-u6-v023",
+          "option_group": "academic"
+        },
+        {
+          "word": "scout",
+          "part_of_speech": "名",
+          "chinese": "童子軍；星探；球探",
+          "sentence": "The scout learned to make a fire safely.",
+          "sentence_chinese": "那位童子軍學會了如何安全生火。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u6-v024"
+        },
+        {
+          "word": "senior",
+          "part_of_speech": "形／名",
+          "chinese": "較年長的；資深的；較年長者；資深者；大四生；高三生",
+          "sentence": "My grandfather is the most senior member of our family.",
+          "sentence_chinese": "我的祖父是我們家中最年長的成員。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u6-v025"
+        },
+        {
+          "word": "settler",
+          "part_of_speech": "名",
+          "chinese": "移民；殖民者",
+          "sentence": "The settlers built a small village beside the river.",
+          "sentence_chinese": "那些移民在河邊建立了一座小村莊。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u6-v026"
+        },
+        {
+          "word": "shepherd",
+          "part_of_speech": "名",
+          "chinese": "牧羊人",
+          "sentence": "A shepherd's job is to look after sheep.",
+          "sentence_chinese": "牧羊人的工作是照顧羊。",
+          "sentence_source": "課本",
+          "id": "h1-2-u6-v027"
+        },
+        {
+          "word": "slave",
+          "part_of_speech": "名",
+          "chinese": "奴隸",
+          "sentence": "There used to be large numbers of black slaves in the southern American states.",
+          "sentence_chinese": "美國南方各州過去曾有大量黑人奴隸。",
+          "sentence_source": "課本",
+          "id": "h1-2-u6-v028"
+        },
+        {
+          "word": "spy",
+          "part_of_speech": "名／動",
+          "chinese": "間諜；暗中監視",
+          "sentence": "The British spy stole secrets from the Russian government and revealed them to his superiors.",
+          "sentence_chinese": "那名英國間諜竊取俄國政府的機密，並把機密透露給上級。",
+          "sentence_source": "課本",
+          "id": "h1-2-u6-v029"
+        },
+        {
+          "word": "surgeon",
+          "part_of_speech": "名",
+          "chinese": "外科醫生",
+          "sentence": "The surgeon is performing an operation on a patient.",
+          "sentence_chinese": "那位外科醫生正在替病人動手術。",
+          "sentence_source": "課本",
+          "id": "h1-2-u6-v030"
+        },
+        {
+          "word": "survivor",
+          "part_of_speech": "名",
+          "chinese": "生還者",
+          "sentence": "The driver was the only survivor of the crash.",
+          "sentence_chinese": "司機是那場車禍唯一的生還者。",
+          "sentence_source": "課本",
+          "id": "h1-2-u6-v031"
+        },
+        {
+          "word": "tailor",
+          "part_of_speech": "名",
+          "chinese": "裁縫師",
+          "sentence": "Before my wedding, I went to a tailor to be measured for a suit.",
+          "sentence_chinese": "婚禮前，我去找裁縫師量身訂做西裝。",
+          "sentence_source": "課本",
+          "id": "h1-2-u6-v032"
+        },
+        {
+          "word": "technician",
+          "part_of_speech": "名",
+          "chinese": "技術人員",
+          "sentence": "The lab technician took a sample of my blood and sent it to be tested.",
+          "sentence_chinese": "實驗室技術人員採集了我的血液樣本，並送去檢驗。",
+          "sentence_source": "課本",
+          "id": "h1-2-u6-v033"
+        },
+        {
+          "word": "teenage",
+          "part_of_speech": "形",
+          "chinese": "十幾歲的；青少年時期的",
+          "sentence": "All the teenage students in this neighborhood attend the same junior or senior high school.",
+          "sentence_chinese": "這個社區裡的青少年學生都就讀同一所國中或高中。",
+          "sentence_source": "課本",
+          "id": "h1-2-u6-v034"
+        },
+        {
+          "word": "tourist",
+          "part_of_speech": "名",
+          "chinese": "遊客",
+          "sentence": "More than four million tourists from Taiwan visited Japan in 2016.",
+          "sentence_chinese": "2016 年有超過 400 萬名臺灣遊客到日本旅遊。",
+          "sentence_source": "課本",
+          "id": "h1-2-u6-v035",
+          "option_group": "travel"
+        },
+        {
+          "word": "trader",
+          "part_of_speech": "名",
+          "chinese": "商人",
+          "sentence": "The trader sold rice and tea at the market.",
+          "sentence_chinese": "那位商人在市場販賣米和茶。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u6-v036"
+        },
+        {
+          "word": "translator",
+          "part_of_speech": "名",
+          "chinese": "譯者；翻譯家",
+          "sentence": "Translators are fluent in at least two languages.",
+          "sentence_chinese": "翻譯人員至少精通兩種語言。",
+          "sentence_source": "課本",
+          "id": "h1-2-u6-v037"
+        },
+        {
+          "word": "traveler",
+          "part_of_speech": "名",
+          "chinese": "旅客；旅人",
+          "sentence": "A tour guide should be an experienced traveler.",
+          "sentence_chinese": "導遊應該是個經驗豐富的旅人。",
+          "sentence_source": "課本",
+          "id": "h1-2-u6-v038",
+          "option_group": "travel"
+        },
+        {
+          "word": "tutor",
+          "part_of_speech": "名／動",
+          "chinese": "家教；當某人的家教；指導",
+          "sentence": "When Tim's daughter fell behind in math, he hired a tutor to help her catch up.",
+          "sentence_chinese": "Tim 的女兒數學落後時，他請了家教幫她趕上進度。",
+          "sentence_source": "課本",
+          "id": "h1-2-u6-v039"
+        },
+        {
+          "word": "twin",
+          "part_of_speech": "名",
+          "chinese": "雙胞胎之一",
+          "sentence": "You can tell they are twins because they look so similar.",
+          "sentence_chinese": "你看得出他們是雙胞胎，因為他們長得很像。",
+          "sentence_source": "課本",
+          "id": "h1-2-u6-v040"
+        },
+        {
+          "word": "vacancy",
+          "part_of_speech": "名",
+          "chinese": "職缺",
+          "sentence": "Evan was told the company wasn't currently hiring, but it would contact him if there were any future vacancies.",
+          "sentence_chinese": "公司告訴 Evan 目前沒有徵人，但未來若有職缺就會聯絡他。",
+          "sentence_source": "課本",
+          "id": "h1-2-u6-v041"
+        },
+        {
+          "word": "vegetarian",
+          "part_of_speech": "名",
+          "chinese": "素食者",
+          "sentence": "The vegetarian ordered a meal without any meat.",
+          "sentence_chinese": "那位素食者點了一份不含肉的餐點。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u6-v042"
+        },
+        {
+          "word": "victim",
+          "part_of_speech": "名",
+          "chinese": "受害者",
+          "sentence": "The victim told the police what had happened.",
+          "sentence_chinese": "受害者告訴警方事情的經過。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u6-v043"
+        },
+        {
+          "word": "volunteer",
+          "part_of_speech": "名／動",
+          "chinese": "自願者；志工；自願做",
+          "sentence": "The volunteer helped children learn to read after school.",
+          "sentence_chinese": "那位志工在放學後幫助孩子學習閱讀。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u6-v044"
+        },
+        {
+          "word": "voter",
+          "part_of_speech": "名",
+          "chinese": "投票人；表決者；選民",
+          "sentence": "Each voter received a ballot before entering the room.",
+          "sentence_chinese": "每位選民在進入房間前都領到了一張選票。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u6-v045"
+        },
+        {
+          "word": "witch",
+          "part_of_speech": "名",
+          "chinese": "女巫",
+          "sentence": "The witch flew over the forest on her broom.",
+          "sentence_chinese": "女巫騎著掃帚飛過森林。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u6-v046"
+        },
+        {
+          "word": "wizard",
+          "part_of_speech": "名",
+          "chinese": "男巫；術士",
+          "sentence": "The wizard used a spell to open the door.",
+          "sentence_chinese": "那位男巫施了一個咒語，把門打開。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u6-v047"
+        },
+        {
+          "word": "youngster",
+          "part_of_speech": "名",
+          "chinese": "年輕人",
+          "sentence": "The government is holding more activities for youngsters on weekends.",
+          "sentence_chinese": "政府在週末為年輕人舉辦更多活動。",
+          "sentence_source": "課本",
+          "id": "h1-2-u6-v048"
+        }
+      ],
+      "phrases": [],
+      "scrambles": {
+        "vocab": [
+          {
+            "id": "h1-2-u6-sv001",
+            "vocab_id": "h1-2-u6-v001",
+            "sentence": "The flight attendants served the passengers their drinks and meals.",
+            "sentence_chinese": "空服員為乘客送上飲料和餐點。"
+          },
+          {
+            "id": "h1-2-u6-sv002",
+            "vocab_id": "h1-2-u6-v002",
+            "sentence": "Teens often start to smoke because some of their peers are smoking.",
+            "sentence_chinese": "青少年常因為一些同儕在抽菸，而開始抽菸。"
+          },
+          {
+            "id": "h1-2-u6-sv003",
+            "vocab_id": "h1-2-u6-v003",
+            "sentence": "Plato was a great philosopher in ancient Greece.",
+            "sentence_chinese": "柏拉圖是古希臘一位偉大的哲學家。"
+          },
+          {
+            "id": "h1-2-u6-sv004",
+            "vocab_id": "h1-2-u6-v004",
+            "sentence": "As the model posed for the photograph, the photographer pressed the shutter button.",
+            "sentence_chinese": "模特兒擺好拍照姿勢時，攝影師按下了快門。"
+          },
+          {
+            "id": "h1-2-u6-sv005",
+            "vocab_id": "h1-2-u6-v005",
+            "sentence": "If you have a severe stomachache, you'd better go to a physician.",
+            "sentence_chinese": "如果你肚子痛得很厲害，最好去看內科醫生。"
+          },
+          {
+            "id": "h1-2-u6-sv006",
+            "vocab_id": "h1-2-u6-v006",
+            "sentence": "The physicist studied how light travels through water.",
+            "sentence_chinese": "那位物理學家研究光如何穿過水。"
+          },
+          {
+            "id": "h1-2-u6-sv007",
+            "vocab_id": "h1-2-u6-v007",
+            "sentence": "The pilot landed the plane safely in the rain.",
+            "sentence_chinese": "飛行員在雨中讓飛機安全降落。"
+          },
+          {
+            "id": "h1-2-u6-sv008",
+            "vocab_id": "h1-2-u6-v008",
+            "sentence": "The pioneers built new homes near the river.",
+            "sentence_chinese": "拓荒者在河邊建造了新家。"
+          },
+          {
+            "id": "h1-2-u6-sv009",
+            "vocab_id": "h1-2-u6-v009",
+            "sentence": "The plumber fixed the broken pipe under the sink.",
+            "sentence_chinese": "水電工修好了水槽下破損的水管。"
+          },
+          {
+            "id": "h1-2-u6-sv010",
+            "vocab_id": "h1-2-u6-v010",
+            "sentence": "The politician promised to build a new school.",
+            "sentence_chinese": "那位政治人物承諾興建一所新學校。"
+          },
+          {
+            "id": "h1-2-u6-sv011",
+            "vocab_id": "h1-2-u6-v011",
+            "sentence": "Before working on the album, the singer talked to his producers about the recording budget.",
+            "sentence_chinese": "製作專輯前，那位歌手和製作人討論了錄音預算。"
+          },
+          {
+            "id": "h1-2-u6-sv012",
+            "vocab_id": "h1-2-u6-v012",
+            "sentence": "Susan is a lawyer by profession.",
+            "sentence_chinese": "Susan 的職業是律師。"
+          },
+          {
+            "id": "h1-2-u6-sv013",
+            "vocab_id": "h1-2-u6-v013",
+            "sentence": "Before he became a professional basketball player, Michael Jordan excelled at the high school and college level.",
+            "sentence_chinese": "Michael Jordan 成為職業籃球員之前，在高中和大學時期就表現出色。"
+          },
+          {
+            "id": "h1-2-u6-sv014",
+            "vocab_id": "h1-2-u6-v014",
+            "sentence": "David is a professor of physics at the University of Auckland.",
+            "sentence_chinese": "David 是奧克蘭大學的物理教授。"
+          },
+          {
+            "id": "h1-2-u6-sv015",
+            "vocab_id": "h1-2-u6-v015",
+            "sentence": "The psychologist helps people understand their feelings and behavior.",
+            "sentence_chinese": "心理學家幫助人們了解自己的感受與行為。"
+          },
+          {
+            "id": "h1-2-u6-sv016",
+            "vocab_id": "h1-2-u6-v016",
+            "sentence": "Because of the intense competition, publishers of fiction are having a harder time selling books than ever.",
+            "sentence_chinese": "由於競爭激烈，小說出版商賣書比以往更加困難。"
+          },
+          {
+            "id": "h1-2-u6-sv017",
+            "vocab_id": "h1-2-u6-v017",
+            "sentence": "Many refugees left their homes because of the war.",
+            "sentence_chinese": "許多難民因為戰爭而離開家園。"
+          },
+          {
+            "id": "h1-2-u6-sv018",
+            "vocab_id": "h1-2-u6-v018",
+            "sentence": "The vice president represented the president at the welcoming party.",
+            "sentence_chinese": "副總統代表總統出席歡迎會。"
+          },
+          {
+            "id": "h1-2-u6-sv019",
+            "vocab_id": "h1-2-u6-v019",
+            "sentence": "Is this report truly representative of national opinion?",
+            "sentence_chinese": "這份報告真的能代表全國人民的意見嗎？"
+          },
+          {
+            "id": "h1-2-u6-sv020",
+            "vocab_id": "h1-2-u6-v020",
+            "sentence": "Paul joined the company as a market researcher, directing a study on which cellphone colors teenagers preferred.",
+            "sentence_chinese": "Paul 以市場研究員的身分加入公司，主持一項關於青少年偏好哪些手機顏色的研究。"
+          },
+          {
+            "id": "h1-2-u6-sv021",
+            "vocab_id": "h1-2-u6-v021",
+            "sentence": "The bank robbers were soon caught by the police.",
+            "sentence_chinese": "搶銀行的搶匪很快就被警方逮捕了。"
+          },
+          {
+            "id": "h1-2-u6-sv022",
+            "vocab_id": "h1-2-u6-v022",
+            "sentence": "Dr. Jones is an excellent scholar whose work on monkeys has been printed in the best scientific journals.",
+            "sentence_chinese": "Jones 博士是位優秀的學者，他對猴子的研究已刊登在頂尖科學期刊上。"
+          },
+          {
+            "id": "h1-2-u6-sv023",
+            "vocab_id": "h1-2-u6-v023",
+            "sentence": "Scientists at this university are working to discover new stars and planets.",
+            "sentence_chinese": "這所大學的科學家正努力發現新的恆星與行星。"
+          },
+          {
+            "id": "h1-2-u6-sv024",
+            "vocab_id": "h1-2-u6-v024",
+            "sentence": "The scout learned to make a fire safely.",
+            "sentence_chinese": "那位童子軍學會了如何安全生火。"
+          },
+          {
+            "id": "h1-2-u6-sv025",
+            "vocab_id": "h1-2-u6-v025",
+            "sentence": "My grandfather is the most senior member of our family.",
+            "sentence_chinese": "我的祖父是我們家中最年長的成員。"
+          },
+          {
+            "id": "h1-2-u6-sv026",
+            "vocab_id": "h1-2-u6-v026",
+            "sentence": "The settlers built a small village beside the river.",
+            "sentence_chinese": "那些移民在河邊建立了一座小村莊。"
+          },
+          {
+            "id": "h1-2-u6-sv027",
+            "vocab_id": "h1-2-u6-v027",
+            "sentence": "A shepherd's job is to look after sheep.",
+            "sentence_chinese": "牧羊人的工作是照顧羊。"
+          },
+          {
+            "id": "h1-2-u6-sv028",
+            "vocab_id": "h1-2-u6-v028",
+            "sentence": "There used to be large numbers of black slaves in the southern American states.",
+            "sentence_chinese": "美國南方各州過去曾有大量黑人奴隸。"
+          },
+          {
+            "id": "h1-2-u6-sv029",
+            "vocab_id": "h1-2-u6-v029",
+            "sentence": "The British spy stole secrets from the Russian government and revealed them to his superiors.",
+            "sentence_chinese": "那名英國間諜竊取俄國政府的機密，並把機密透露給上級。"
+          },
+          {
+            "id": "h1-2-u6-sv030",
+            "vocab_id": "h1-2-u6-v030",
+            "sentence": "The surgeon is performing an operation on a patient.",
+            "sentence_chinese": "那位外科醫生正在替病人動手術。"
+          },
+          {
+            "id": "h1-2-u6-sv031",
+            "vocab_id": "h1-2-u6-v031",
+            "sentence": "The driver was the only survivor of the crash.",
+            "sentence_chinese": "司機是那場車禍唯一的生還者。"
+          },
+          {
+            "id": "h1-2-u6-sv032",
+            "vocab_id": "h1-2-u6-v032",
+            "sentence": "Before my wedding, I went to a tailor to be measured for a suit.",
+            "sentence_chinese": "婚禮前，我去找裁縫師量身訂做西裝。"
+          },
+          {
+            "id": "h1-2-u6-sv033",
+            "vocab_id": "h1-2-u6-v033",
+            "sentence": "The lab technician took a sample of my blood and sent it to be tested.",
+            "sentence_chinese": "實驗室技術人員採集了我的血液樣本，並送去檢驗。"
+          },
+          {
+            "id": "h1-2-u6-sv034",
+            "vocab_id": "h1-2-u6-v034",
+            "sentence": "All the teenage students in this neighborhood attend the same junior or senior high school.",
+            "sentence_chinese": "這個社區裡的青少年學生都就讀同一所國中或高中。"
+          },
+          {
+            "id": "h1-2-u6-sv035",
+            "vocab_id": "h1-2-u6-v035",
+            "sentence": "More than four million tourists from Taiwan visited Japan in 2016.",
+            "sentence_chinese": "2016 年有超過 400 萬名臺灣遊客到日本旅遊。"
+          },
+          {
+            "id": "h1-2-u6-sv036",
+            "vocab_id": "h1-2-u6-v036",
+            "sentence": "The trader sold rice and tea at the market.",
+            "sentence_chinese": "那位商人在市場販賣米和茶。"
+          },
+          {
+            "id": "h1-2-u6-sv037",
+            "vocab_id": "h1-2-u6-v037",
+            "sentence": "Translators are fluent in at least two languages.",
+            "sentence_chinese": "翻譯人員至少精通兩種語言。"
+          },
+          {
+            "id": "h1-2-u6-sv038",
+            "vocab_id": "h1-2-u6-v038",
+            "sentence": "A tour guide should be an experienced traveler.",
+            "sentence_chinese": "導遊應該是個經驗豐富的旅人。"
+          },
+          {
+            "id": "h1-2-u6-sv039",
+            "vocab_id": "h1-2-u6-v039",
+            "sentence": "When Tim's daughter fell behind in math, he hired a tutor to help her catch up.",
+            "sentence_chinese": "Tim 的女兒數學落後時，他請了家教幫她趕上進度。"
+          },
+          {
+            "id": "h1-2-u6-sv040",
+            "vocab_id": "h1-2-u6-v040",
+            "sentence": "You can tell they are twins because they look so similar.",
+            "sentence_chinese": "你看得出他們是雙胞胎，因為他們長得很像。"
+          },
+          {
+            "id": "h1-2-u6-sv041",
+            "vocab_id": "h1-2-u6-v041",
+            "sentence": "Evan was told the company wasn't currently hiring, but it would contact him if there were any future vacancies.",
+            "sentence_chinese": "公司告訴 Evan 目前沒有徵人，但未來若有職缺就會聯絡他。"
+          },
+          {
+            "id": "h1-2-u6-sv042",
+            "vocab_id": "h1-2-u6-v042",
+            "sentence": "The vegetarian ordered a meal without any meat.",
+            "sentence_chinese": "那位素食者點了一份不含肉的餐點。"
+          },
+          {
+            "id": "h1-2-u6-sv043",
+            "vocab_id": "h1-2-u6-v043",
+            "sentence": "The victim told the police what had happened.",
+            "sentence_chinese": "受害者告訴警方事情的經過。"
+          },
+          {
+            "id": "h1-2-u6-sv044",
+            "vocab_id": "h1-2-u6-v044",
+            "sentence": "The volunteer helped children learn to read after school.",
+            "sentence_chinese": "那位志工在放學後幫助孩子學習閱讀。"
+          },
+          {
+            "id": "h1-2-u6-sv045",
+            "vocab_id": "h1-2-u6-v045",
+            "sentence": "Each voter received a ballot before entering the room.",
+            "sentence_chinese": "每位選民在進入房間前都領到了一張選票。"
+          },
+          {
+            "id": "h1-2-u6-sv046",
+            "vocab_id": "h1-2-u6-v046",
+            "sentence": "The witch flew over the forest on her broom.",
+            "sentence_chinese": "女巫騎著掃帚飛過森林。"
+          },
+          {
+            "id": "h1-2-u6-sv047",
+            "vocab_id": "h1-2-u6-v047",
+            "sentence": "The wizard used a spell to open the door.",
+            "sentence_chinese": "那位男巫施了一個咒語，把門打開。"
+          },
+          {
+            "id": "h1-2-u6-sv048",
+            "vocab_id": "h1-2-u6-v048",
+            "sentence": "The government is holding more activities for youngsters on weekends.",
+            "sentence_chinese": "政府在週末為年輕人舉辦更多活動。"
+          }
+        ]
+      }
+    }
+  }
+}

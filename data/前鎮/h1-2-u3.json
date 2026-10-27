@@ -1,0 +1,634 @@
+{
+  "units": {
+    "h1-2-u3": {
+      "title": "U3",
+      "source_section": "2-3",
+      "vocab": [
+        {
+          "word": "obedience",
+          "part_of_speech": "名",
+          "chinese": "服從；順從",
+          "sentence": "Obedience to one's parents is stressed in Chinese culture.",
+          "sentence_chinese": "中國文化很強調對父母的服從。",
+          "sentence_source": "課本",
+          "id": "h1-2-u3-v001"
+        },
+        {
+          "word": "obedient",
+          "part_of_speech": "形",
+          "chinese": "服從的",
+          "sentence": "Kevin is an obedient child and he never argues with his parents.",
+          "sentence_chinese": "Kevin 是個聽話的孩子，他從不和父母爭吵。",
+          "sentence_source": "課本",
+          "id": "h1-2-u3-v002"
+        },
+        {
+          "word": "optimistic",
+          "part_of_speech": "形",
+          "chinese": "樂觀的",
+          "sentence": "Dennis is optimistic that the economy will improve and many new jobs will be created.",
+          "sentence_chinese": "Dennis 樂觀地認為經濟會好轉，而且會創造許多新的工作機會。",
+          "sentence_source": "課本",
+          "id": "h1-2-u3-v003"
+        },
+        {
+          "word": "overcome",
+          "part_of_speech": "動",
+          "chinese": "克服",
+          "sentence": "Owen couldn't overcome his fear of darkness and refused to enter the old abandoned house.",
+          "sentence_chinese": "Owen 無法克服對黑暗的恐懼，拒絕進入那棟廢棄的老房子。",
+          "sentence_source": "課本",
+          "id": "h1-2-u3-v004"
+        },
+        {
+          "word": "passive",
+          "part_of_speech": "形",
+          "chinese": "被動的；消極的",
+          "sentence": "Scott sat there with a passive expression on his face while his girlfriend yelled at him.",
+          "sentence_chinese": "女友對 Scott 大吼時，他只是坐在那裡，一臉無奈。",
+          "sentence_source": "課本",
+          "id": "h1-2-u3-v005"
+        },
+        {
+          "word": "patience",
+          "part_of_speech": "名",
+          "chinese": "耐心；耐性",
+          "sentence": "The teacher has no patience with students who don't do their homework and gets angry with them quickly.",
+          "sentence_chinese": "那位老師對不做作業的學生沒有耐心，很快就會對他們生氣。",
+          "sentence_source": "課本",
+          "id": "h1-2-u3-v006"
+        },
+        {
+          "word": "persuasion",
+          "part_of_speech": "名",
+          "chinese": "說服",
+          "sentence": "Audrey used all her powers of persuasion to convince her mother to let her study abroad.",
+          "sentence_chinese": "Audrey 使盡說服的本領，勸母親讓她出國讀書。",
+          "sentence_source": "課本",
+          "id": "h1-2-u3-v007"
+        },
+        {
+          "word": "persuasive",
+          "part_of_speech": "形",
+          "chinese": "有說服力的；勸誘的",
+          "sentence": "Dr. Keats is a very persuasive speaker and gets whatever he argues for.",
+          "sentence_chinese": "Keats 博士很有說服力，總能爭取到自己想要的結果。",
+          "sentence_source": "課本",
+          "id": "h1-2-u3-v008"
+        },
+        {
+          "word": "playful",
+          "part_of_speech": "形",
+          "chinese": "開玩笑的；愛玩耍的",
+          "sentence": "The playful little dog was very cute and loved rolling around on the floor.",
+          "sentence_chinese": "那隻愛玩耍的小狗很可愛，喜歡在地板上打滾。",
+          "sentence_source": "課本",
+          "id": "h1-2-u3-v009"
+        },
+        {
+          "word": "potential",
+          "part_of_speech": "形／名",
+          "chinese": "潛在的；有潛力的；可能的；可能性；潛力；潛能",
+          "sentence": "We will interview a potential new employee this afternoon.",
+          "sentence_chinese": "我們今天下午將面試一名有機會成為新員工的人。",
+          "sentence_source": "課本",
+          "id": "h1-2-u3-v010"
+        },
+        {
+          "word": "reasonable",
+          "part_of_speech": "形",
+          "chinese": "講道理的；合理的",
+          "sentence": "I tried to be reasonable, even though I didn't like Emma's proposals.",
+          "sentence_chinese": "即使我不喜歡 Emma 的提案，我還是試著講道理。",
+          "sentence_source": "課本",
+          "id": "h1-2-u3-v011",
+          "option_group": "sound-judgment"
+        },
+        {
+          "word": "recall",
+          "part_of_speech": "動",
+          "chinese": "回想起；記得；召回；收回",
+          "sentence": "I can't recall ever meeting him. Is he certain we know each other?",
+          "sentence_chinese": "我不記得曾經見過他。他確定我們認識彼此嗎？",
+          "sentence_source": "課本",
+          "id": "h1-2-u3-v012"
+        },
+        {
+          "word": "relax",
+          "part_of_speech": "動",
+          "chinese": "使放鬆；放鬆",
+          "sentence": "A warm bath helps me relax after school.",
+          "sentence_chinese": "放學後，洗個溫水澡能幫助我放鬆。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u3-v013"
+        },
+        {
+          "word": "reliable",
+          "part_of_speech": "形",
+          "chinese": "可靠的",
+          "sentence": "Amy is reliable and always keeps her promises.",
+          "sentence_chinese": "Amy 很可靠，而且總是信守承諾。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u3-v014"
+        },
+        {
+          "word": "resolution",
+          "part_of_speech": "名",
+          "chinese": "決心；解決",
+          "sentence": "My New Year's resolution is to exercise every day.",
+          "sentence_chinese": "我的新年新希望是每天運動。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u3-v015"
+        },
+        {
+          "word": "resolve",
+          "part_of_speech": "動",
+          "chinese": "決定；解決",
+          "sentence": "We need to resolve this problem before lunch.",
+          "sentence_chinese": "我們需要在午餐前解決這個問題。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u3-v016"
+        },
+        {
+          "word": "retire",
+          "part_of_speech": "動",
+          "chinese": "退休",
+          "sentence": "My father retired last year, but he is still not used to so much free time.",
+          "sentence_chinese": "我父親去年退休，但他仍不習慣有這麼多空閒時間。",
+          "sentence_source": "課本",
+          "id": "h1-2-u3-v017"
+        },
+        {
+          "word": "romantic",
+          "part_of_speech": "形",
+          "chinese": "浪漫的",
+          "sentence": "My husband is not a romantic person; he has never given me so much as a rose on my birthday.",
+          "sentence_chinese": "我先生不是個浪漫的人；他甚至從沒在我生日送過一朵玫瑰。",
+          "sentence_source": "課本",
+          "id": "h1-2-u3-v018"
+        },
+        {
+          "word": "sensible",
+          "part_of_speech": "形",
+          "chinese": "明理的；明智的",
+          "sentence": "Terry is sensible enough not to drive when he's drunk.",
+          "sentence_chinese": "Terry 很明理，喝醉時不會開車。",
+          "sentence_source": "課本",
+          "id": "h1-2-u3-v019",
+          "option_group": "sound-judgment"
+        },
+        {
+          "word": "severe",
+          "part_of_speech": "形",
+          "chinese": "嚴厲的；嚴重的",
+          "sentence": "Your criticism of her work was too severe. It was not that bad.",
+          "sentence_chinese": "你對她作品的批評太嚴厲了。作品並沒有那麼差。",
+          "sentence_source": "課本",
+          "id": "h1-2-u3-v020"
+        },
+        {
+          "word": "sexy",
+          "part_of_speech": "形",
+          "chinese": "性感的",
+          "sentence": "Fanny wore a sexy dress to the party to show off her figure.",
+          "sentence_chinese": "Fanny 穿了一件性感洋裝去參加派對，展現她的身材。",
+          "sentence_source": "課本",
+          "id": "h1-2-u3-v021"
+        },
+        {
+          "word": "sincere",
+          "part_of_speech": "形",
+          "chinese": "認真的；真誠的",
+          "sentence": "I like the political candidate because he sounded sincere in the campaign promises he made.",
+          "sentence_chinese": "我喜歡那位候選人，因為他提出競選承諾時聽起來很真誠。",
+          "sentence_source": "課本",
+          "id": "h1-2-u3-v022",
+          "option_group": "honesty"
+        },
+        {
+          "word": "skillful",
+          "part_of_speech": "形",
+          "chinese": "有技術的；熟練的",
+          "sentence": "Mary is a skillful pianist and can play many songs from memory.",
+          "sentence_chinese": "Mary 是位熟練的鋼琴家，能憑記憶彈奏許多曲子。",
+          "sentence_source": "課本",
+          "id": "h1-2-u3-v023"
+        },
+        {
+          "word": "skinny",
+          "part_of_speech": "形",
+          "chinese": "極瘦的",
+          "sentence": "The skinny cat needs more food and water.",
+          "sentence_chinese": "那隻極瘦的貓需要更多食物和水。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u3-v024"
+        },
+        {
+          "word": "slender",
+          "part_of_speech": "形",
+          "chinese": "苗條的；纖細的",
+          "sentence": "The slender girl wore a blue dress today.",
+          "sentence_chinese": "那位苗條的女孩今天穿了一件藍色洋裝。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u3-v025"
+        },
+        {
+          "word": "stingy",
+          "part_of_speech": "形",
+          "chinese": "吝嗇的",
+          "sentence": "Nicole is so stingy that she never lends money to others.",
+          "sentence_chinese": "Nicole 很吝嗇，從不借錢給別人。",
+          "sentence_source": "課本",
+          "id": "h1-2-u3-v026"
+        },
+        {
+          "word": "stubborn",
+          "part_of_speech": "形",
+          "chinese": "固執的",
+          "sentence": "The man is very stubborn; once he has made a decision, no one can make him change his mind.",
+          "sentence_chinese": "那個人很固執；一旦做了決定，就沒有人能讓他改變心意。",
+          "sentence_source": "課本",
+          "id": "h1-2-u3-v027"
+        },
+        {
+          "word": "talent",
+          "part_of_speech": "名",
+          "chinese": "天分；有天分者",
+          "sentence": "The government encourages enterprises to invest in the development of our home-grown sporting talent.",
+          "sentence_chinese": "政府鼓勵企業投資培育本土體育人才。",
+          "sentence_source": "課本",
+          "id": "h1-2-u3-v028"
+        },
+        {
+          "word": "talkative",
+          "part_of_speech": "形",
+          "chinese": "健談的；喜歡說話的",
+          "sentence": "Tina is very talkative; she never stops gossiping about celebrity news.",
+          "sentence_chinese": "Tina 很健談，總是不停聊名人的八卦新聞。",
+          "sentence_source": "課本",
+          "id": "h1-2-u3-v029"
+        },
+        {
+          "word": "temper",
+          "part_of_speech": "名",
+          "chinese": "脾氣；情緒",
+          "sentence": "Many parents lose their temper when their child talks back.",
+          "sentence_chinese": "孩子頂嘴時，許多父母會發脾氣。",
+          "sentence_source": "課本",
+          "id": "h1-2-u3-v030"
+        },
+        {
+          "word": "tender",
+          "part_of_speech": "形",
+          "chinese": "溫柔的；（食物）柔軟的",
+          "sentence": "The mother spoke to her baby in a tender voice.",
+          "sentence_chinese": "那位母親用溫柔的聲音對寶寶說話。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u3-v031"
+        },
+        {
+          "word": "thoughtful",
+          "part_of_speech": "形",
+          "chinese": "體貼的；沉思的；思考的",
+          "sentence": "It was thoughtful of you to help me.",
+          "sentence_chinese": "你幫助了我，真是體貼。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u3-v032"
+        },
+        {
+          "word": "timid",
+          "part_of_speech": "形",
+          "chinese": "膽小的",
+          "sentence": "The timid boy was afraid to speak in class.",
+          "sentence_chinese": "那位膽小的男孩不敢在課堂上發言。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u3-v033"
+        },
+        {
+          "word": "tricky",
+          "part_of_speech": "形",
+          "chinese": "詭計多端的；複雜的；棘手的",
+          "sentence": "This tricky question is hard for me to answer.",
+          "sentence_chinese": "這個棘手的問題對我來說很難回答。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u3-v034"
+        },
+        {
+          "word": "truthful",
+          "part_of_speech": "形",
+          "chinese": "誠實的；真實的",
+          "sentence": "The reporter's truthful report enabled us to know what really happened.",
+          "sentence_chinese": "那位記者的真實報導讓我們知道事情的真相。",
+          "sentence_source": "課本",
+          "id": "h1-2-u3-v035",
+          "option_group": "honesty"
+        },
+        {
+          "word": "voluntary",
+          "part_of_speech": "形",
+          "chinese": "自願的；志願的",
+          "sentence": "This is a voluntary organization started by foreigners who are concerned about the welfare of animals in Taiwan.",
+          "sentence_chinese": "這是由關心臺灣動物福祉的外國人創立的志願組織。",
+          "sentence_source": "課本",
+          "id": "h1-2-u3-v036"
+        },
+        {
+          "word": "waken",
+          "part_of_speech": "動",
+          "chinese": "喚醒；醒來",
+          "sentence": "The mother gently wakened the sleeping child with a kiss.",
+          "sentence_chinese": "那位母親用一個吻輕輕喚醒熟睡的孩子。",
+          "sentence_source": "課本",
+          "id": "h1-2-u3-v037"
+        },
+        {
+          "word": "wealthy",
+          "part_of_speech": "形",
+          "chinese": "富有的",
+          "sentence": "The wealthy man donated half of his money to the hospital when he died.",
+          "sentence_chinese": "那位富翁過世時，將一半財產捐給了醫院。",
+          "sentence_source": "課本",
+          "id": "h1-2-u3-v038"
+        },
+        {
+          "word": "wicked",
+          "part_of_speech": "形",
+          "chinese": "邪惡的",
+          "sentence": "William is as wicked as the devil.",
+          "sentence_chinese": "William 像魔鬼一樣邪惡。",
+          "sentence_source": "課本",
+          "id": "h1-2-u3-v039"
+        },
+        {
+          "word": "wit",
+          "part_of_speech": "名",
+          "chinese": "機智",
+          "sentence": "We all admired the young man for his wit and amusing conversation.",
+          "sentence_chinese": "我們都很欣賞那位年輕人的機智和風趣的談吐。",
+          "sentence_source": "課本",
+          "id": "h1-2-u3-v040"
+        },
+        {
+          "word": "youthful",
+          "part_of_speech": "形",
+          "chinese": "年輕的；有朝氣的",
+          "sentence": "Though Megan is 50, she has a youthful appearance.",
+          "sentence_chinese": "雖然 Megan 已經 50 歲了，外表卻依然年輕。",
+          "sentence_source": "課本",
+          "id": "h1-2-u3-v041"
+        }
+      ],
+      "phrases": [],
+      "scrambles": {
+        "vocab": [
+          {
+            "id": "h1-2-u3-sv001",
+            "vocab_id": "h1-2-u3-v001",
+            "sentence": "Obedience to one's parents is stressed in Chinese culture.",
+            "sentence_chinese": "中國文化很強調對父母的服從。"
+          },
+          {
+            "id": "h1-2-u3-sv002",
+            "vocab_id": "h1-2-u3-v002",
+            "sentence": "Kevin is an obedient child and he never argues with his parents.",
+            "sentence_chinese": "Kevin 是個聽話的孩子，他從不和父母爭吵。"
+          },
+          {
+            "id": "h1-2-u3-sv003",
+            "vocab_id": "h1-2-u3-v003",
+            "sentence": "Dennis is optimistic that the economy will improve and many new jobs will be created.",
+            "sentence_chinese": "Dennis 樂觀地認為經濟會好轉，而且會創造許多新的工作機會。"
+          },
+          {
+            "id": "h1-2-u3-sv004",
+            "vocab_id": "h1-2-u3-v004",
+            "sentence": "Owen couldn't overcome his fear of darkness and refused to enter the old abandoned house.",
+            "sentence_chinese": "Owen 無法克服對黑暗的恐懼，拒絕進入那棟廢棄的老房子。"
+          },
+          {
+            "id": "h1-2-u3-sv005",
+            "vocab_id": "h1-2-u3-v005",
+            "sentence": "Scott sat there with a passive expression on his face while his girlfriend yelled at him.",
+            "sentence_chinese": "女友對 Scott 大吼時，他只是坐在那裡，一臉無奈。"
+          },
+          {
+            "id": "h1-2-u3-sv006",
+            "vocab_id": "h1-2-u3-v006",
+            "sentence": "The teacher has no patience with students who don't do their homework and gets angry with them quickly.",
+            "sentence_chinese": "那位老師對不做作業的學生沒有耐心，很快就會對他們生氣。"
+          },
+          {
+            "id": "h1-2-u3-sv007",
+            "vocab_id": "h1-2-u3-v007",
+            "sentence": "Audrey used all her powers of persuasion to convince her mother to let her study abroad.",
+            "sentence_chinese": "Audrey 使盡說服的本領，勸母親讓她出國讀書。"
+          },
+          {
+            "id": "h1-2-u3-sv008",
+            "vocab_id": "h1-2-u3-v008",
+            "sentence": "Dr. Keats is a very persuasive speaker and gets whatever he argues for.",
+            "sentence_chinese": "Keats 博士很有說服力，總能爭取到自己想要的結果。"
+          },
+          {
+            "id": "h1-2-u3-sv009",
+            "vocab_id": "h1-2-u3-v009",
+            "sentence": "The playful little dog was very cute and loved rolling around on the floor.",
+            "sentence_chinese": "那隻愛玩耍的小狗很可愛，喜歡在地板上打滾。"
+          },
+          {
+            "id": "h1-2-u3-sv010",
+            "vocab_id": "h1-2-u3-v010",
+            "sentence": "We will interview a potential new employee this afternoon.",
+            "sentence_chinese": "我們今天下午將面試一名有機會成為新員工的人。"
+          },
+          {
+            "id": "h1-2-u3-sv011",
+            "vocab_id": "h1-2-u3-v011",
+            "sentence": "I tried to be reasonable, even though I didn't like Emma's proposals.",
+            "sentence_chinese": "即使我不喜歡 Emma 的提案，我還是試著講道理。"
+          },
+          {
+            "id": "h1-2-u3-sv012",
+            "vocab_id": "h1-2-u3-v012",
+            "sentence": "I can't recall ever meeting him. Is he certain we know each other?",
+            "sentence_chinese": "我不記得曾經見過他。他確定我們認識彼此嗎？"
+          },
+          {
+            "id": "h1-2-u3-sv013",
+            "vocab_id": "h1-2-u3-v013",
+            "sentence": "A warm bath helps me relax after school.",
+            "sentence_chinese": "放學後，洗個溫水澡能幫助我放鬆。"
+          },
+          {
+            "id": "h1-2-u3-sv014",
+            "vocab_id": "h1-2-u3-v014",
+            "sentence": "Amy is reliable and always keeps her promises.",
+            "sentence_chinese": "Amy 很可靠，而且總是信守承諾。"
+          },
+          {
+            "id": "h1-2-u3-sv015",
+            "vocab_id": "h1-2-u3-v015",
+            "sentence": "My New Year's resolution is to exercise every day.",
+            "sentence_chinese": "我的新年新希望是每天運動。"
+          },
+          {
+            "id": "h1-2-u3-sv016",
+            "vocab_id": "h1-2-u3-v016",
+            "sentence": "We need to resolve this problem before lunch.",
+            "sentence_chinese": "我們需要在午餐前解決這個問題。"
+          },
+          {
+            "id": "h1-2-u3-sv017",
+            "vocab_id": "h1-2-u3-v017",
+            "sentence": "My father retired last year, but he is still not used to so much free time.",
+            "sentence_chinese": "我父親去年退休，但他仍不習慣有這麼多空閒時間。"
+          },
+          {
+            "id": "h1-2-u3-sv018",
+            "vocab_id": "h1-2-u3-v018",
+            "sentence": "My husband is not a romantic person; he has never given me so much as a rose on my birthday.",
+            "sentence_chinese": "我先生不是個浪漫的人；他甚至從沒在我生日送過一朵玫瑰。"
+          },
+          {
+            "id": "h1-2-u3-sv019",
+            "vocab_id": "h1-2-u3-v019",
+            "sentence": "Terry is sensible enough not to drive when he's drunk.",
+            "sentence_chinese": "Terry 很明理，喝醉時不會開車。"
+          },
+          {
+            "id": "h1-2-u3-sv020",
+            "vocab_id": "h1-2-u3-v020",
+            "sentence": "Your criticism of her work was too severe. It was not that bad.",
+            "sentence_chinese": "你對她作品的批評太嚴厲了。作品並沒有那麼差。"
+          },
+          {
+            "id": "h1-2-u3-sv021",
+            "vocab_id": "h1-2-u3-v021",
+            "sentence": "Fanny wore a sexy dress to the party to show off her figure.",
+            "sentence_chinese": "Fanny 穿了一件性感洋裝去參加派對，展現她的身材。"
+          },
+          {
+            "id": "h1-2-u3-sv022",
+            "vocab_id": "h1-2-u3-v022",
+            "sentence": "I like the political candidate because he sounded sincere in the campaign promises he made.",
+            "sentence_chinese": "我喜歡那位候選人，因為他提出競選承諾時聽起來很真誠。"
+          },
+          {
+            "id": "h1-2-u3-sv023",
+            "vocab_id": "h1-2-u3-v023",
+            "sentence": "Mary is a skillful pianist and can play many songs from memory.",
+            "sentence_chinese": "Mary 是位熟練的鋼琴家，能憑記憶彈奏許多曲子。"
+          },
+          {
+            "id": "h1-2-u3-sv024",
+            "vocab_id": "h1-2-u3-v024",
+            "sentence": "The skinny cat needs more food and water.",
+            "sentence_chinese": "那隻極瘦的貓需要更多食物和水。"
+          },
+          {
+            "id": "h1-2-u3-sv025",
+            "vocab_id": "h1-2-u3-v025",
+            "sentence": "The slender girl wore a blue dress today.",
+            "sentence_chinese": "那位苗條的女孩今天穿了一件藍色洋裝。"
+          },
+          {
+            "id": "h1-2-u3-sv026",
+            "vocab_id": "h1-2-u3-v026",
+            "sentence": "Nicole is so stingy that she never lends money to others.",
+            "sentence_chinese": "Nicole 很吝嗇，從不借錢給別人。"
+          },
+          {
+            "id": "h1-2-u3-sv027",
+            "vocab_id": "h1-2-u3-v027",
+            "sentence": "The man is very stubborn; once he has made a decision, no one can make him change his mind.",
+            "sentence_chinese": "那個人很固執；一旦做了決定，就沒有人能讓他改變心意。"
+          },
+          {
+            "id": "h1-2-u3-sv028",
+            "vocab_id": "h1-2-u3-v028",
+            "sentence": "The government encourages enterprises to invest in the development of our home-grown sporting talent.",
+            "sentence_chinese": "政府鼓勵企業投資培育本土體育人才。"
+          },
+          {
+            "id": "h1-2-u3-sv029",
+            "vocab_id": "h1-2-u3-v029",
+            "sentence": "Tina is very talkative; she never stops gossiping about celebrity news.",
+            "sentence_chinese": "Tina 很健談，總是不停聊名人的八卦新聞。"
+          },
+          {
+            "id": "h1-2-u3-sv030",
+            "vocab_id": "h1-2-u3-v030",
+            "sentence": "Many parents lose their temper when their child talks back.",
+            "sentence_chinese": "孩子頂嘴時，許多父母會發脾氣。"
+          },
+          {
+            "id": "h1-2-u3-sv031",
+            "vocab_id": "h1-2-u3-v031",
+            "sentence": "The mother spoke to her baby in a tender voice.",
+            "sentence_chinese": "那位母親用溫柔的聲音對寶寶說話。"
+          },
+          {
+            "id": "h1-2-u3-sv032",
+            "vocab_id": "h1-2-u3-v032",
+            "sentence": "It was thoughtful of you to help me.",
+            "sentence_chinese": "你幫助了我，真是體貼。"
+          },
+          {
+            "id": "h1-2-u3-sv033",
+            "vocab_id": "h1-2-u3-v033",
+            "sentence": "The timid boy was afraid to speak in class.",
+            "sentence_chinese": "那位膽小的男孩不敢在課堂上發言。"
+          },
+          {
+            "id": "h1-2-u3-sv034",
+            "vocab_id": "h1-2-u3-v034",
+            "sentence": "This tricky question is hard for me to answer.",
+            "sentence_chinese": "這個棘手的問題對我來說很難回答。"
+          },
+          {
+            "id": "h1-2-u3-sv035",
+            "vocab_id": "h1-2-u3-v035",
+            "sentence": "The reporter's truthful report enabled us to know what really happened.",
+            "sentence_chinese": "那位記者的真實報導讓我們知道事情的真相。"
+          },
+          {
+            "id": "h1-2-u3-sv036",
+            "vocab_id": "h1-2-u3-v036",
+            "sentence": "This is a voluntary organization started by foreigners who are concerned about the welfare of animals in Taiwan.",
+            "sentence_chinese": "這是由關心臺灣動物福祉的外國人創立的志願組織。"
+          },
+          {
+            "id": "h1-2-u3-sv037",
+            "vocab_id": "h1-2-u3-v037",
+            "sentence": "The mother gently wakened the sleeping child with a kiss.",
+            "sentence_chinese": "那位母親用一個吻輕輕喚醒熟睡的孩子。"
+          },
+          {
+            "id": "h1-2-u3-sv038",
+            "vocab_id": "h1-2-u3-v038",
+            "sentence": "The wealthy man donated half of his money to the hospital when he died.",
+            "sentence_chinese": "那位富翁過世時，將一半財產捐給了醫院。"
+          },
+          {
+            "id": "h1-2-u3-sv039",
+            "vocab_id": "h1-2-u3-v039",
+            "sentence": "William is as wicked as the devil.",
+            "sentence_chinese": "William 像魔鬼一樣邪惡。"
+          },
+          {
+            "id": "h1-2-u3-sv040",
+            "vocab_id": "h1-2-u3-v040",
+            "sentence": "We all admired the young man for his wit and amusing conversation.",
+            "sentence_chinese": "我們都很欣賞那位年輕人的機智和風趣的談吐。"
+          },
+          {
+            "id": "h1-2-u3-sv041",
+            "vocab_id": "h1-2-u3-v041",
+            "sentence": "Though Megan is 50, she has a youthful appearance.",
+            "sentence_chinese": "雖然 Megan 已經 50 歲了，外表卻依然年輕。"
+          }
+        ]
+      }
+    }
+  }
+}

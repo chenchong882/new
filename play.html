@@ -265,6 +265,12 @@
 
         const shuffleArray = (array) => { if (!array) return []; const newArray = [...array]; for (let i = newArray.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1));[newArray[i], newArray[j]] = [newArray[j], newArray[i]]; } return newArray; };
 
+        const hasGrammarContent = (unit) => ['tips', 'notes', 'quiz'].some(key => unit?.grammar?.[key]?.length > 0);
+        const prepareSpellingItem = (item) => {
+            const forms = item.accepted_forms?.length ? item.accepted_forms : [item.word];
+            return { ...item, word: forms[Math.floor(Math.random() * forms.length)] };
+        };
+
         // 兩個單字可能同義（例如 if / whether 都是「是否」），不可只用 ID 排除。
         const selectVocabOptions = (target, pool) => {
             const normalize = text => String(text || '').trim().toLowerCase().replace(/\s+/g, '');
@@ -274,7 +280,7 @@
                 if (selected.length === 4) break;
                 const candidateMeanings = meanings(candidate);
                 if (!normalize(candidate.word) || candidateMeanings.length === 0) continue;
-                const overlaps = selected.some(item => item.id === candidate.id || normalize(item.word) === normalize(candidate.word) || meanings(item).some(meaning => candidateMeanings.includes(meaning)));
+                const overlaps = selected.some(item => item.id === candidate.id || normalize(item.word) === normalize(candidate.word) || (item.option_group && item.option_group === candidate.option_group) || meanings(item).some(meaning => candidateMeanings.includes(meaning)));
                 if (!overlaps) selected.push(candidate);
             }
             return selected.length === 4 ? shuffleArray(selected) : [];
@@ -408,7 +414,7 @@
                                 <div className="relative w-full h-full transition-transform duration-500" style={{ transformStyle: 'preserve-3d', transform: isFlipped ? 'rotateY(180deg)' : 'rotateY(0deg)' }}>
                                     <div className="absolute inset-0 bg-white border-4 border-sky-400 rounded-3xl shadow-[0_8px_0_rgba(56,189,248,0.3)] flex flex-col items-center justify-center p-6" style={{ backfaceVisibility: 'hidden', WebkitBackfaceVisibility: 'hidden' }}>
                                         <div className="absolute top-4 right-6 bg-yellow-400 text-yellow-900 px-3 py-1 rounded-full text-sm font-black border-2 border-yellow-600 shadow-sm rotate-3">{currentIndex + 1} / {data.length}</div>
-                                        <h2 className="text-3xl sm:text-4xl font-black text-slate-800 mb-2 tracking-tight text-center break-words w-full drop-shadow-sm">{currentWord.word}</h2>
+                                        <h2 className="text-3xl sm:text-4xl font-black text-slate-800 mb-2 tracking-tight text-center break-words w-full drop-shadow-sm">{currentWord.display_word || currentWord.word}</h2>
                                         <span className="text-white bg-sky-500 font-bold px-4 py-1.5 rounded-xl text-lg shadow-md border-b-4 border-sky-700 transform -rotate-2">{currentWord.part_of_speech}</span>
                                         <div className="mt-10 text-slate-400 text-xs font-bold flex items-center gap-1 animate-pulse bg-slate-100 px-3 py-1 rounded-full"><RefreshCw className="w-3 h-3" /> CLICK TO FLIP</div>
                                         <button onClick={(e) => { e.stopPropagation(); speakText(currentWord.word); }} className="absolute bottom-5 right-1/2 translate-x-1/2 p-3 bg-rose-400 text-white rounded-full border-b-4 border-rose-600 active:border-b-0 active:translate-y-1 transition-all shadow-md"><Volume2 className="w-6 h-6" /></button>
@@ -433,7 +439,7 @@
                             {data.map((item) => (
                                 <div key={item.id} className="bg-white p-4 rounded-2xl border-b-4 border-slate-200 flex items-center justify-between hover:translate-x-1 transition-all group">
                                     <div className="flex-1">
-                                        <div className="flex items-center gap-2 mb-1"><span className="font-black text-lg text-slate-700 group-hover:text-sky-500 transition-colors">{item.word}</span><span className="text-xs text-white bg-slate-400 px-2 py-0.5 rounded-lg font-bold border-b-2 border-slate-600">{item.part_of_speech}</span></div>
+                                        <div className="flex items-center gap-2 mb-1"><span className="font-black text-lg text-slate-700 group-hover:text-sky-500 transition-colors">{item.display_word || item.word}</span><span className="text-xs text-white bg-slate-400 px-2 py-0.5 rounded-lg font-bold border-b-2 border-slate-600">{item.part_of_speech}</span></div>
                                         <div className="text-slate-500 text-sm font-bold">{item.chinese}</div>
                                     </div>
                                     <button onClick={() => speakText(item.word)} className="p-2 bg-sky-100 text-sky-500 rounded-xl hover:bg-sky-200 active:scale-95 transition-colors"><Volume2 className="w-5 h-5" /></button>
@@ -470,7 +476,7 @@
 
             useEffect(() => {
                 if (!data || data.length === 0) return;
-                const shuffled = shuffleArray([...data]).slice(0, 10);
+                const shuffled = shuffleArray([...data]).slice(0, 10).map(prepareSpellingItem);
                 setQuizItems(shuffled);
                 setCurrentQIndex(0);
                 setScore(0);
@@ -751,6 +757,7 @@
         // --- 新增: Scramble Container (負責切換單字與文法重組) ---
         const ScrambleContainer = ({ scrambles, fullUnitData }) => {
             const [mode, setMode] = useState('vocab');
+            const hasGrammarScrambles = (scrambles?.grammar?.length || 0) > 0;
 
             const enrichVocabScrambles = () => {
                 const list = [...(scrambles?.vocab || []), ...(scrambles?.phrases || [])];
@@ -786,11 +793,11 @@
 
             return (
                 <div className="flex flex-col h-full">
-                    <div className="flex justify-center mb-6 gap-3">
+                    {hasGrammarScrambles && <div className="flex justify-center mb-6 gap-3">
                         <GameButton onClick={() => setMode('vocab')} active={mode === 'vocab'} color="white" className="text-sm px-6 py-3">單字重組</GameButton>
                         <GameButton onClick={() => setMode('grammar')} active={mode === 'grammar'} color="white" className="text-sm px-6 py-3">文法重組</GameButton>
-                    </div>
-                    {mode === 'vocab' ? (
+                    </div>}
+                    {mode === 'vocab' || !hasGrammarScrambles ? (
                         <ScrambleMode data={enrichVocabScrambles()} titleOverride="VOCAB SCRAMBLE" key="vocab" />
                     ) : (
                         <ScrambleMode data={enrichGrammarScrambles()} titleOverride="GRAMMAR SCRAMBLE" key="grammar" />
@@ -2035,6 +2042,7 @@
             const allStudyData = [...unitData, ...unitPhrases];
             const unitGrammar = unitsData[currentUnit].grammar;
             const unitScrambles = unitsData[currentUnit].scrambles;
+            const hasGrammar = hasGrammarContent(unitsData[currentUnit]);
 
             return (
                 <div className="min-h-screen font-sans text-slate-800 flex flex-col bg-sky-50 bg-[radial-gradient(#e5e7eb_1px,transparent_1px)] [background-size:16px_16px]">
@@ -2044,15 +2052,15 @@
                                 <div className="flex items-center gap-2 font-black text-slate-600 text-lg tracking-tight ml-2 mr-2 whitespace-nowrap"><Map className="w-6 h-6 text-sky-500" /><span>MAP</span></div>
                                 <div className="flex gap-2">
                                     {unitKeys.map((uKey, index) => (
-                                        <button key={uKey} onClick={() => setCurrentUnit(uKey)} className={`px-3 py-1 text-xs sm:text-sm font-black rounded-xl transition-all border-b-4 active:border-b-0 active:translate-y-1 whitespace-nowrap ${currentUnit === uKey ? 'bg-sky-500 border-sky-700 text-white shadow-sky-200' : 'bg-white border-slate-300 text-slate-400 hover:bg-slate-50'}`}>Level {index + 1}</button>
+                                        <button key={uKey} onClick={() => { setCurrentUnit(uKey); if (!hasGrammarContent(unitsData[uKey])) setActiveTab(tab => tab === 'grammar' ? 'study' : tab); }} className={`px-3 py-1 text-xs sm:text-sm font-black rounded-xl transition-all border-b-4 active:border-b-0 active:translate-y-1 whitespace-nowrap ${currentUnit === uKey ? 'bg-sky-500 border-sky-700 text-white shadow-sky-200' : 'bg-white border-slate-300 text-slate-400 hover:bg-slate-50'}`}>Level {index + 1}</button>
                                     ))}
                                 </div>
                             </div>
-                            <div className="grid grid-cols-5 gap-1.5">
+                            <div className={`grid ${hasGrammar ? 'grid-cols-5' : 'grid-cols-4'} gap-1.5`}>
                                 <GameButton onClick={() => setActiveTab('study')} active={activeTab === 'study'} color={activeTab === 'study' ? 'active' : 'white'} className="text-xs py-3 px-0.5"><Layers className="w-3 h-3" /> 學習</GameButton>
                                 <GameButton onClick={() => setActiveTab('quiz')} active={activeTab === 'quiz'} color={activeTab === 'quiz' ? 'active' : 'white'} className="text-xs py-3 px-0.5"><CheckCircle className="w-3 h-3" /> 測驗</GameButton>
                                 <GameButton onClick={() => setActiveTab('sentences')} active={activeTab === 'sentences'} color={activeTab === 'sentences' ? 'active' : 'white'} className="text-xs py-3 px-0.5"><Puzzle className="w-3 h-3" /> 重組</GameButton>
-                                <GameButton onClick={() => setActiveTab('grammar')} active={activeTab === 'grammar'} color={activeTab === 'grammar' ? 'active' : 'white'} className="text-xs py-3 px-0.5"><GraduationCap className="w-3 h-3" /> 文法</GameButton>
+                                {hasGrammar && <GameButton onClick={() => setActiveTab('grammar')} active={activeTab === 'grammar'} color={activeTab === 'grammar' ? 'active' : 'white'} className="text-xs py-3 px-0.5"><GraduationCap className="w-3 h-3" /> 文法</GameButton>}
                                 <GameButton onClick={() => setActiveTab('game')} active={activeTab === 'game'} color={activeTab === 'game' ? 'active' : 'orange'} className="text-xs py-3 px-0.5"><Gamepad2 className="w-3 h-3" /> 遊戲</GameButton>
                             </div>
                         </div>
@@ -2062,7 +2070,7 @@
                         {activeTab === 'study' && <StudyMode data={allStudyData} />}
                         {activeTab === 'quiz' && <QuizMode data={allStudyData} clozeData={unitsData[currentUnit].cloze_quiz || EMPTY_CLOZE_QUIZ} />}
                         {activeTab === 'sentences' && <ScrambleContainer scrambles={unitScrambles} fullUnitData={unitsData[currentUnit]} />}
-                        {activeTab === 'grammar' && <GrammarMode grammarData={unitGrammar} />}
+                        {activeTab === 'grammar' && hasGrammar && <GrammarMode grammarData={unitGrammar} />}
                         {activeTab === 'game' && (
                             <div className="bg-slate-900 rounded-3xl p-4 -mx-1 border-2 border-slate-700">
                                 <GameMode allWords={allStudyData} grammarData={unitGrammar} unitTitle={unitTitle} />

@@ -1,0 +1,727 @@
+{
+  "units": {
+    "h1-2-u5": {
+      "title": "U5",
+      "source_section": "3-2",
+      "vocab": [
+        {
+          "word": "emperor",
+          "part_of_speech": "名",
+          "chinese": "皇帝",
+          "sentence": "The first emperor of China, Qin Shi Huang, united the country and built the Great Wall.",
+          "sentence_chinese": "中國第一位皇帝秦始皇統一了全國，並修築長城。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v001"
+        },
+        {
+          "word": "ethnic",
+          "part_of_speech": "形",
+          "chinese": "種族的；民族的",
+          "sentence": "There have been conflicts between several ethnic groups in the area.",
+          "sentence_chinese": "這個地區的幾個族群之間一直有衝突。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v002"
+        },
+        {
+          "word": "fighter",
+          "part_of_speech": "名",
+          "chinese": "鬥士",
+          "sentence": "Tyler is a businessman by day, but by night he's a fighter in a secret boxing club.",
+          "sentence_chinese": "Tyler 白天是商人，到了晚上則是秘密拳擊俱樂部裡的鬥士。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v003"
+        },
+        {
+          "word": "follower",
+          "part_of_speech": "名",
+          "chinese": "追隨者；信徒",
+          "sentence": "This religious leader has many devoted followers.",
+          "sentence_chinese": "這位宗教領袖有許多虔誠的信徒。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v004"
+        },
+        {
+          "word": "founder",
+          "part_of_speech": "名",
+          "chinese": "創始人；建立者",
+          "sentence": "Bill Gates is the founder of the world's largest software company.",
+          "sentence_chinese": "比爾蓋茲是世界最大軟體公司的創始人。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v005"
+        },
+        {
+          "word": "freshman",
+          "part_of_speech": "名",
+          "chinese": "大一新生；高一新生",
+          "sentence": "Freshmen often don't take their studies as seriously as they should, and must make up for it in their second year.",
+          "sentence_chinese": "一年級新生常沒有認真看待學業，因此到了二年級就必須補回來。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v006"
+        },
+        {
+          "word": "governor",
+          "part_of_speech": "名",
+          "chinese": "州長",
+          "sentence": "It was a huge surprise to many when actor Arnold Schwarzenegger became governor of California.",
+          "sentence_chinese": "演員阿諾史瓦辛格成為加州州長時，讓許多人非常驚訝。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v007"
+        },
+        {
+          "word": "guardian",
+          "part_of_speech": "名",
+          "chinese": "監護人；保護人",
+          "sentence": "Lance became his nephew's guardian after his brother died.",
+          "sentence_chinese": "Lance 的哥哥過世後，他成了姪子的監護人。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v008"
+        },
+        {
+          "word": "hairdresser",
+          "part_of_speech": "名",
+          "chinese": "美髮師",
+          "sentence": "I've made an appointment with my hairdresser this afternoon because I want to have my hair cut before I go to the party tonight.",
+          "sentence_chinese": "我預約了今天下午去找美髮師，因為想在今晚參加派對前剪頭髮。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v009"
+        },
+        {
+          "word": "hire",
+          "part_of_speech": "動／名",
+          "chinese": "僱用；僱員",
+          "sentence": "The lawyer was hired to defend the accused in the trial.",
+          "sentence_chinese": "那位律師受僱，在審判中為被告辯護。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v010"
+        },
+        {
+          "word": "historian",
+          "part_of_speech": "名",
+          "chinese": "歷史學家",
+          "sentence": "Dr. Lee is a respected historian and has written books about ancient Europe.",
+          "sentence_chinese": "Lee 博士是一位受人尊敬的歷史學家，寫過關於古代歐洲的書。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v011"
+        },
+        {
+          "word": "housekeeper",
+          "part_of_speech": "名",
+          "chinese": "管家",
+          "sentence": "My house is a real mess; I really need to hire a housekeeper.",
+          "sentence_chinese": "我家真的亂成一團，我實在需要雇一位管家。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v012",
+          "option_group": "household-staff"
+        },
+        {
+          "word": "immigrant",
+          "part_of_speech": "名",
+          "chinese": "（自外國移入的）移民",
+          "sentence": "The government plans to take measures to prevent illegal immigrants from entering the country.",
+          "sentence_chinese": "政府計畫採取措施，防止非法移民入境。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v013"
+        },
+        {
+          "word": "infant",
+          "part_of_speech": "名",
+          "chinese": "嬰兒；幼兒",
+          "sentence": "Infants should never be left alone.",
+          "sentence_chinese": "絕不應該讓嬰兒獨處。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v014"
+        },
+        {
+          "word": "inspector",
+          "part_of_speech": "名",
+          "chinese": "檢查者",
+          "sentence": "The inspector checked the building for broken windows.",
+          "sentence_chinese": "檢查人員查看大樓是否有破損的窗戶。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u5-v015"
+        },
+        {
+          "word": "instructor",
+          "part_of_speech": "名",
+          "chinese": "（大學）講師；教練；指導員",
+          "sentence": "Our instructor showed us how to drive safely.",
+          "sentence_chinese": "我們的教練教導我們如何安全駕駛。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u5-v016"
+        },
+        {
+          "word": "inventor",
+          "part_of_speech": "名",
+          "chinese": "發明家",
+          "sentence": "The inventor built a machine to clean the floor.",
+          "sentence_chinese": "那位發明家製作了一臺清潔地板的機器。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u5-v017"
+        },
+        {
+          "word": "junior",
+          "part_of_speech": "形／名",
+          "chinese": "資淺的；職位較低的；大三生",
+          "sentence": "The juniors are looking forward to next year when they can finally graduate.",
+          "sentence_chinese": "那些大三生期待明年到來，因為到時他們終於能畢業。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v018"
+        },
+        {
+          "word": "knight",
+          "part_of_speech": "名／動",
+          "chinese": "騎士；授與爵位",
+          "sentence": "Children love stories about knights who ride horses into battle with fierce monsters.",
+          "sentence_chinese": "孩子們喜歡騎士騎馬迎戰兇猛怪獸的故事。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v019"
+        },
+        {
+          "word": "labor",
+          "part_of_speech": "名",
+          "chinese": "勞動；勞動階級；勞工",
+          "sentence": "This job requires a lot of physical labor. Are you strong enough to do it?",
+          "sentence_chinese": "這份工作需要大量體力勞動。你夠強壯，能勝任嗎？",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v020"
+        },
+        {
+          "word": "lecturer",
+          "part_of_speech": "名",
+          "chinese": "演講者；講師",
+          "sentence": "Henry is a lecturer on Taiwanese history at the university.",
+          "sentence_chinese": "Henry 是那所大學教授臺灣歷史的講師。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v021"
+        },
+        {
+          "word": "liar",
+          "part_of_speech": "名",
+          "chinese": "說謊的人；騙子",
+          "sentence": "Wayne called me a liar because he thinks I didn't tell the truth.",
+          "sentence_chinese": "Wayne 說我是騙子，因為他認為我沒有說實話。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v022"
+        },
+        {
+          "word": "librarian",
+          "part_of_speech": "名",
+          "chinese": "圖書館員",
+          "sentence": "Kelly was a fantastic librarian and knew every book in the library.",
+          "sentence_chinese": "Kelly 是位很棒的圖書館員，熟悉館裡的每一本書。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v023"
+        },
+        {
+          "word": "lifeguard",
+          "part_of_speech": "名",
+          "chinese": "救生員",
+          "sentence": "That brave lifeguard saved a little girl from drowning.",
+          "sentence_chinese": "那位勇敢的救生員救起了一名溺水的小女孩。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v024"
+        },
+        {
+          "word": "lord",
+          "part_of_speech": "名",
+          "chinese": "貴族；主人",
+          "sentence": "Sarah is about to marry an English lord, so in the future we will have to call her Lady Sarah.",
+          "sentence_chinese": "Sarah 即將嫁給一位英國貴族，所以以後我們得稱她為 Sarah 夫人。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v025"
+        },
+        {
+          "word": "loser",
+          "part_of_speech": "名",
+          "chinese": "輸家；失敗者",
+          "sentence": "The loser shook hands with the winner after the game.",
+          "sentence_chinese": "比賽結束後，輸家和贏家握了手。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u5-v026"
+        },
+        {
+          "word": "lover",
+          "part_of_speech": "名",
+          "chinese": "喜好者；戀人；情人",
+          "sentence": "At the end of many Hollywood movies, the two lovers kiss as music plays.",
+          "sentence_chinese": "許多好萊塢電影的結尾，兩位戀人會隨著音樂接吻。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v027"
+        },
+        {
+          "word": "magician",
+          "part_of_speech": "名",
+          "chinese": "魔術師",
+          "sentence": "The magician made the rabbit disappear in front of the audience.",
+          "sentence_chinese": "魔術師在觀眾面前讓兔子消失了。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v028"
+        },
+        {
+          "word": "maid",
+          "part_of_speech": "名",
+          "chinese": "女傭",
+          "sentence": "Janice worked as a maid, cleaning the houses of wealthy people.",
+          "sentence_chinese": "Janice 擔任女傭，替富人打掃房屋。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v029",
+          "option_group": "household-staff"
+        },
+        {
+          "word": "mankind",
+          "part_of_speech": "名",
+          "chinese": "人類",
+          "sentence": "Some people wonder if mankind can survive another 1,000 years or will kill itself off with wars and pollution before then.",
+          "sentence_chinese": "有些人想知道，人類能否再生存 1,000 年，還是會在那之前因戰爭與污染而自我毀滅。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v030",
+          "display_word": "mankind/humankind",
+          "accepted_forms": [
+            "mankind",
+            "humankind"
+          ]
+        },
+        {
+          "word": "manufacturer",
+          "part_of_speech": "名",
+          "chinese": "製造商",
+          "sentence": "The Ford Motor Company is a major manufacturer of cars and light trucks in the US.",
+          "sentence_chinese": "福特汽車公司是美國主要的汽車與輕型卡車製造商。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v031"
+        },
+        {
+          "word": "mayor",
+          "part_of_speech": "名",
+          "chinese": "市長",
+          "sentence": "The mayor of the city announced that a new public library was going to be built.",
+          "sentence_chinese": "市長宣布將興建一座新的公共圖書館。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v032"
+        },
+        {
+          "word": "mechanic",
+          "part_of_speech": "名",
+          "chinese": "技工",
+          "sentence": "The mechanic fixed my father's car this morning.",
+          "sentence_chinese": "技工今天早上修好了我父親的車。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u5-v033"
+        },
+        {
+          "word": "merchant",
+          "part_of_speech": "名",
+          "chinese": "商人",
+          "sentence": "The merchant sold tea to people from many countries.",
+          "sentence_chinese": "那位商人把茶賣給來自許多國家的人。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u5-v034"
+        },
+        {
+          "word": "messenger",
+          "part_of_speech": "名",
+          "chinese": "信差",
+          "sentence": "The messenger brought an important letter to the king.",
+          "sentence_chinese": "信差帶來一封重要的信給國王。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u5-v035"
+        },
+        {
+          "word": "millionaire",
+          "part_of_speech": "名",
+          "chinese": "百萬富翁",
+          "sentence": "The millionaire gave a lot of money to charity.",
+          "sentence_chinese": "那位百萬富翁捐了許多錢給慈善機構。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u5-v036"
+        },
+        {
+          "word": "miner",
+          "part_of_speech": "名",
+          "chinese": "礦工",
+          "sentence": "It's dangerous work digging coal out of the ground, and many miners die every year in accidents.",
+          "sentence_chinese": "從地下挖煤是危險的工作，每年都有許多礦工因意外死亡。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v037"
+        },
+        {
+          "word": "minister",
+          "part_of_speech": "名",
+          "chinese": "部長；牧師",
+          "sentence": "The Minister of Education launched a new educational reform.",
+          "sentence_chinese": "教育部長推動了一項新的教育改革。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v038"
+        },
+        {
+          "word": "monk",
+          "part_of_speech": "名",
+          "chinese": "僧侶；修士",
+          "sentence": "We often see Buddhist monks in orange robes holding bowls as they ask for donations.",
+          "sentence_chinese": "我們常看見穿橘色僧袍的佛教僧侶，手持缽碗化緣。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v039"
+        },
+        {
+          "word": "murderer",
+          "part_of_speech": "名",
+          "chinese": "謀殺者；兇手",
+          "sentence": "The police suspected John was the murderer because he had a clear motive for killing this man.",
+          "sentence_chinese": "警方懷疑 John 是兇手，因為他有殺害這名男子的明確動機。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v040"
+        },
+        {
+          "word": "navy",
+          "part_of_speech": "名",
+          "chinese": "海軍",
+          "sentence": "Because England was an island, it built a powerful navy to protect itself from attack.",
+          "sentence_chinese": "因為英國是島國，所以建立了強大的海軍來保護自己免受攻擊。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v041"
+        },
+        {
+          "word": "novelist",
+          "part_of_speech": "名",
+          "chinese": "小說家",
+          "sentence": "The novelist will publish his latest book next month.",
+          "sentence_chinese": "那位小說家下個月將出版最新作品。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v042"
+        },
+        {
+          "word": "nun",
+          "part_of_speech": "名",
+          "chinese": "尼姑；修女",
+          "sentence": "Mother Teresa, the famous Catholic nun, helped the poor all over the world.",
+          "sentence_chinese": "知名天主教修女德蕾莎修女幫助了世界各地的窮人。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v043"
+        },
+        {
+          "word": "occupation",
+          "part_of_speech": "名",
+          "chinese": "職業；佔領",
+          "sentence": "Billy is a carpenter by occupation.",
+          "sentence_chinese": "Billy 的職業是木匠。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v044"
+        },
+        {
+          "word": "orphan",
+          "part_of_speech": "名",
+          "chinese": "孤兒",
+          "sentence": "The orphan lives with his aunt and uncle.",
+          "sentence_chinese": "那名孤兒和他的阿姨、姨丈一起住。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u5-v045"
+        },
+        {
+          "word": "painter",
+          "part_of_speech": "名",
+          "chinese": "油漆工；畫家",
+          "sentence": "The painter made the walls of the house very colorful.",
+          "sentence_chinese": "那位油漆工把房子的牆壁漆得色彩繽紛。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v046"
+        },
+        {
+          "word": "pal",
+          "part_of_speech": "名",
+          "chinese": "朋友；好友；夥伴",
+          "sentence": "Matt is an old pal of mine; we've known each other since kindergarten.",
+          "sentence_chinese": "Matt 是我的老朋友，我們從幼稚園就認識了。",
+          "sentence_source": "課本",
+          "id": "h1-2-u5-v047"
+        }
+      ],
+      "phrases": [],
+      "scrambles": {
+        "vocab": [
+          {
+            "id": "h1-2-u5-sv001",
+            "vocab_id": "h1-2-u5-v001",
+            "sentence": "The first emperor of China, Qin Shi Huang, united the country and built the Great Wall.",
+            "sentence_chinese": "中國第一位皇帝秦始皇統一了全國，並修築長城。"
+          },
+          {
+            "id": "h1-2-u5-sv002",
+            "vocab_id": "h1-2-u5-v002",
+            "sentence": "There have been conflicts between several ethnic groups in the area.",
+            "sentence_chinese": "這個地區的幾個族群之間一直有衝突。"
+          },
+          {
+            "id": "h1-2-u5-sv003",
+            "vocab_id": "h1-2-u5-v003",
+            "sentence": "Tyler is a businessman by day, but by night he's a fighter in a secret boxing club.",
+            "sentence_chinese": "Tyler 白天是商人，到了晚上則是秘密拳擊俱樂部裡的鬥士。"
+          },
+          {
+            "id": "h1-2-u5-sv004",
+            "vocab_id": "h1-2-u5-v004",
+            "sentence": "This religious leader has many devoted followers.",
+            "sentence_chinese": "這位宗教領袖有許多虔誠的信徒。"
+          },
+          {
+            "id": "h1-2-u5-sv005",
+            "vocab_id": "h1-2-u5-v005",
+            "sentence": "Bill Gates is the founder of the world's largest software company.",
+            "sentence_chinese": "比爾蓋茲是世界最大軟體公司的創始人。"
+          },
+          {
+            "id": "h1-2-u5-sv006",
+            "vocab_id": "h1-2-u5-v006",
+            "sentence": "Freshmen often don't take their studies as seriously as they should, and must make up for it in their second year.",
+            "sentence_chinese": "一年級新生常沒有認真看待學業，因此到了二年級就必須補回來。"
+          },
+          {
+            "id": "h1-2-u5-sv007",
+            "vocab_id": "h1-2-u5-v007",
+            "sentence": "It was a huge surprise to many when actor Arnold Schwarzenegger became governor of California.",
+            "sentence_chinese": "演員阿諾史瓦辛格成為加州州長時，讓許多人非常驚訝。"
+          },
+          {
+            "id": "h1-2-u5-sv008",
+            "vocab_id": "h1-2-u5-v008",
+            "sentence": "Lance became his nephew's guardian after his brother died.",
+            "sentence_chinese": "Lance 的哥哥過世後，他成了姪子的監護人。"
+          },
+          {
+            "id": "h1-2-u5-sv009",
+            "vocab_id": "h1-2-u5-v009",
+            "sentence": "I've made an appointment with my hairdresser this afternoon because I want to have my hair cut before I go to the party tonight.",
+            "sentence_chinese": "我預約了今天下午去找美髮師，因為想在今晚參加派對前剪頭髮。"
+          },
+          {
+            "id": "h1-2-u5-sv010",
+            "vocab_id": "h1-2-u5-v010",
+            "sentence": "The lawyer was hired to defend the accused in the trial.",
+            "sentence_chinese": "那位律師受僱，在審判中為被告辯護。"
+          },
+          {
+            "id": "h1-2-u5-sv011",
+            "vocab_id": "h1-2-u5-v011",
+            "sentence": "Dr. Lee is a respected historian and has written books about ancient Europe.",
+            "sentence_chinese": "Lee 博士是一位受人尊敬的歷史學家，寫過關於古代歐洲的書。"
+          },
+          {
+            "id": "h1-2-u5-sv012",
+            "vocab_id": "h1-2-u5-v012",
+            "sentence": "My house is a real mess; I really need to hire a housekeeper.",
+            "sentence_chinese": "我家真的亂成一團，我實在需要雇一位管家。"
+          },
+          {
+            "id": "h1-2-u5-sv013",
+            "vocab_id": "h1-2-u5-v013",
+            "sentence": "The government plans to take measures to prevent illegal immigrants from entering the country.",
+            "sentence_chinese": "政府計畫採取措施，防止非法移民入境。"
+          },
+          {
+            "id": "h1-2-u5-sv014",
+            "vocab_id": "h1-2-u5-v014",
+            "sentence": "Infants should never be left alone.",
+            "sentence_chinese": "絕不應該讓嬰兒獨處。"
+          },
+          {
+            "id": "h1-2-u5-sv015",
+            "vocab_id": "h1-2-u5-v015",
+            "sentence": "The inspector checked the building for broken windows.",
+            "sentence_chinese": "檢查人員查看大樓是否有破損的窗戶。"
+          },
+          {
+            "id": "h1-2-u5-sv016",
+            "vocab_id": "h1-2-u5-v016",
+            "sentence": "Our instructor showed us how to drive safely.",
+            "sentence_chinese": "我們的教練教導我們如何安全駕駛。"
+          },
+          {
+            "id": "h1-2-u5-sv017",
+            "vocab_id": "h1-2-u5-v017",
+            "sentence": "The inventor built a machine to clean the floor.",
+            "sentence_chinese": "那位發明家製作了一臺清潔地板的機器。"
+          },
+          {
+            "id": "h1-2-u5-sv018",
+            "vocab_id": "h1-2-u5-v018",
+            "sentence": "The juniors are looking forward to next year when they can finally graduate.",
+            "sentence_chinese": "那些大三生期待明年到來，因為到時他們終於能畢業。"
+          },
+          {
+            "id": "h1-2-u5-sv019",
+            "vocab_id": "h1-2-u5-v019",
+            "sentence": "Children love stories about knights who ride horses into battle with fierce monsters.",
+            "sentence_chinese": "孩子們喜歡騎士騎馬迎戰兇猛怪獸的故事。"
+          },
+          {
+            "id": "h1-2-u5-sv020",
+            "vocab_id": "h1-2-u5-v020",
+            "sentence": "This job requires a lot of physical labor. Are you strong enough to do it?",
+            "sentence_chinese": "這份工作需要大量體力勞動。你夠強壯，能勝任嗎？"
+          },
+          {
+            "id": "h1-2-u5-sv021",
+            "vocab_id": "h1-2-u5-v021",
+            "sentence": "Henry is a lecturer on Taiwanese history at the university.",
+            "sentence_chinese": "Henry 是那所大學教授臺灣歷史的講師。"
+          },
+          {
+            "id": "h1-2-u5-sv022",
+            "vocab_id": "h1-2-u5-v022",
+            "sentence": "Wayne called me a liar because he thinks I didn't tell the truth.",
+            "sentence_chinese": "Wayne 說我是騙子，因為他認為我沒有說實話。"
+          },
+          {
+            "id": "h1-2-u5-sv023",
+            "vocab_id": "h1-2-u5-v023",
+            "sentence": "Kelly was a fantastic librarian and knew every book in the library.",
+            "sentence_chinese": "Kelly 是位很棒的圖書館員，熟悉館裡的每一本書。"
+          },
+          {
+            "id": "h1-2-u5-sv024",
+            "vocab_id": "h1-2-u5-v024",
+            "sentence": "That brave lifeguard saved a little girl from drowning.",
+            "sentence_chinese": "那位勇敢的救生員救起了一名溺水的小女孩。"
+          },
+          {
+            "id": "h1-2-u5-sv025",
+            "vocab_id": "h1-2-u5-v025",
+            "sentence": "Sarah is about to marry an English lord, so in the future we will have to call her Lady Sarah.",
+            "sentence_chinese": "Sarah 即將嫁給一位英國貴族，所以以後我們得稱她為 Sarah 夫人。"
+          },
+          {
+            "id": "h1-2-u5-sv026",
+            "vocab_id": "h1-2-u5-v026",
+            "sentence": "The loser shook hands with the winner after the game.",
+            "sentence_chinese": "比賽結束後，輸家和贏家握了手。"
+          },
+          {
+            "id": "h1-2-u5-sv027",
+            "vocab_id": "h1-2-u5-v027",
+            "sentence": "At the end of many Hollywood movies, the two lovers kiss as music plays.",
+            "sentence_chinese": "許多好萊塢電影的結尾，兩位戀人會隨著音樂接吻。"
+          },
+          {
+            "id": "h1-2-u5-sv028",
+            "vocab_id": "h1-2-u5-v028",
+            "sentence": "The magician made the rabbit disappear in front of the audience.",
+            "sentence_chinese": "魔術師在觀眾面前讓兔子消失了。"
+          },
+          {
+            "id": "h1-2-u5-sv029",
+            "vocab_id": "h1-2-u5-v029",
+            "sentence": "Janice worked as a maid, cleaning the houses of wealthy people.",
+            "sentence_chinese": "Janice 擔任女傭，替富人打掃房屋。"
+          },
+          {
+            "id": "h1-2-u5-sv030",
+            "vocab_id": "h1-2-u5-v030",
+            "sentence": "Some people wonder if mankind can survive another 1,000 years or will kill itself off with wars and pollution before then.",
+            "sentence_chinese": "有些人想知道，人類能否再生存 1,000 年，還是會在那之前因戰爭與污染而自我毀滅。"
+          },
+          {
+            "id": "h1-2-u5-sv031",
+            "vocab_id": "h1-2-u5-v031",
+            "sentence": "The Ford Motor Company is a major manufacturer of cars and light trucks in the US.",
+            "sentence_chinese": "福特汽車公司是美國主要的汽車與輕型卡車製造商。"
+          },
+          {
+            "id": "h1-2-u5-sv032",
+            "vocab_id": "h1-2-u5-v032",
+            "sentence": "The mayor of the city announced that a new public library was going to be built.",
+            "sentence_chinese": "市長宣布將興建一座新的公共圖書館。"
+          },
+          {
+            "id": "h1-2-u5-sv033",
+            "vocab_id": "h1-2-u5-v033",
+            "sentence": "The mechanic fixed my father's car this morning.",
+            "sentence_chinese": "技工今天早上修好了我父親的車。"
+          },
+          {
+            "id": "h1-2-u5-sv034",
+            "vocab_id": "h1-2-u5-v034",
+            "sentence": "The merchant sold tea to people from many countries.",
+            "sentence_chinese": "那位商人把茶賣給來自許多國家的人。"
+          },
+          {
+            "id": "h1-2-u5-sv035",
+            "vocab_id": "h1-2-u5-v035",
+            "sentence": "The messenger brought an important letter to the king.",
+            "sentence_chinese": "信差帶來一封重要的信給國王。"
+          },
+          {
+            "id": "h1-2-u5-sv036",
+            "vocab_id": "h1-2-u5-v036",
+            "sentence": "The millionaire gave a lot of money to charity.",
+            "sentence_chinese": "那位百萬富翁捐了許多錢給慈善機構。"
+          },
+          {
+            "id": "h1-2-u5-sv037",
+            "vocab_id": "h1-2-u5-v037",
+            "sentence": "It's dangerous work digging coal out of the ground, and many miners die every year in accidents.",
+            "sentence_chinese": "從地下挖煤是危險的工作，每年都有許多礦工因意外死亡。"
+          },
+          {
+            "id": "h1-2-u5-sv038",
+            "vocab_id": "h1-2-u5-v038",
+            "sentence": "The Minister of Education launched a new educational reform.",
+            "sentence_chinese": "教育部長推動了一項新的教育改革。"
+          },
+          {
+            "id": "h1-2-u5-sv039",
+            "vocab_id": "h1-2-u5-v039",
+            "sentence": "We often see Buddhist monks in orange robes holding bowls as they ask for donations.",
+            "sentence_chinese": "我們常看見穿橘色僧袍的佛教僧侶，手持缽碗化緣。"
+          },
+          {
+            "id": "h1-2-u5-sv040",
+            "vocab_id": "h1-2-u5-v040",
+            "sentence": "The police suspected John was the murderer because he had a clear motive for killing this man.",
+            "sentence_chinese": "警方懷疑 John 是兇手，因為他有殺害這名男子的明確動機。"
+          },
+          {
+            "id": "h1-2-u5-sv041",
+            "vocab_id": "h1-2-u5-v041",
+            "sentence": "Because England was an island, it built a powerful navy to protect itself from attack.",
+            "sentence_chinese": "因為英國是島國，所以建立了強大的海軍來保護自己免受攻擊。"
+          },
+          {
+            "id": "h1-2-u5-sv042",
+            "vocab_id": "h1-2-u5-v042",
+            "sentence": "The novelist will publish his latest book next month.",
+            "sentence_chinese": "那位小說家下個月將出版最新作品。"
+          },
+          {
+            "id": "h1-2-u5-sv043",
+            "vocab_id": "h1-2-u5-v043",
+            "sentence": "Mother Teresa, the famous Catholic nun, helped the poor all over the world.",
+            "sentence_chinese": "知名天主教修女德蕾莎修女幫助了世界各地的窮人。"
+          },
+          {
+            "id": "h1-2-u5-sv044",
+            "vocab_id": "h1-2-u5-v044",
+            "sentence": "Billy is a carpenter by occupation.",
+            "sentence_chinese": "Billy 的職業是木匠。"
+          },
+          {
+            "id": "h1-2-u5-sv045",
+            "vocab_id": "h1-2-u5-v045",
+            "sentence": "The orphan lives with his aunt and uncle.",
+            "sentence_chinese": "那名孤兒和他的阿姨、姨丈一起住。"
+          },
+          {
+            "id": "h1-2-u5-sv046",
+            "vocab_id": "h1-2-u5-v046",
+            "sentence": "The painter made the walls of the house very colorful.",
+            "sentence_chinese": "那位油漆工把房子的牆壁漆得色彩繽紛。"
+          },
+          {
+            "id": "h1-2-u5-sv047",
+            "vocab_id": "h1-2-u5-v047",
+            "sentence": "Matt is an old pal of mine; we've known each other since kindergarten.",
+            "sentence_chinese": "Matt 是我的老朋友，我們從幼稚園就認識了。"
+          }
+        ]
+      }
+    }
+  }
+}

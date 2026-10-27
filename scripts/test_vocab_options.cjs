@@ -41,12 +41,17 @@ assert.equal(buildGameQ(undefined, []), null);
 const love = item('love', 'love', '喜愛；愛');
 const like = item('like', 'like', '喜愛（動詞）');
 const duplicate = item('gate-duplicate', ' GATE ', '校門');
+const reasonable = { ...item('reasonable', 'reasonable', '講道理的；合理的'), option_group: 'sound-judgment' };
+const sensible = { ...item('sensible', 'sensible', '明理的；明智的'), option_group: 'sound-judgment' };
 for (let i = 0; i < 100; i++) {
     const choices = selectVocabOptions(love, [love, like, gate, food, key]);
     assert.equal(choices.length, 4);
     assert(!choices.some(x => x.id === like.id), 'overlapping senses and parenthetical labels must be excluded');
     const wordChoices = selectVocabOptions(gate, [gate, duplicate, food, key, ifWord]);
     assert(!wordChoices.some(x => x.id === duplicate.id), 'same English word with another ID must be excluded');
+    const semanticChoices = selectVocabOptions(reasonable, [reasonable, sensible, gate, food, key]);
+    assert.equal(semanticChoices.length, 4);
+    assert(!semanticChoices.some(x => x.id === sensible.id), 'equivalent meanings with different wording must be excluded');
 }
 
 const lesson = JSON.parse(fs.readFileSync(path.join(root, 'data/福山/m3-2-u4.json'), 'utf8')).units['m3-2-u4'];

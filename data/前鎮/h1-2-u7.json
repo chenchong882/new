@@ -1,0 +1,547 @@
+{
+  "units": {
+    "h1-2-u7": {
+      "title": "U7",
+      "source_section": "4-1",
+      "vocab": [
+        {
+          "word": "access",
+          "part_of_speech": "名／動",
+          "chinese": "通道；入口；使用或進入的途徑或權利；讀取電腦資料；連接網路",
+          "sentence": "The only access to the small town is across the bridge.",
+          "sentence_chinese": "通往那座小鎮的唯一路徑是過橋。",
+          "sentence_source": "課本",
+          "id": "h1-2-u7-v001",
+          "option_group": "entrance"
+        },
+        {
+          "word": "afterward",
+          "part_of_speech": "副",
+          "chinese": "後來",
+          "sentence": "Let's see a movie first and eat afterward.",
+          "sentence_chinese": "我們先看電影，然後再吃東西。",
+          "sentence_source": "課本",
+          "id": "h1-2-u7-v002",
+          "display_word": "afterward(s)",
+          "accepted_forms": [
+            "afterward",
+            "afterwards"
+          ]
+        },
+        {
+          "word": "alley",
+          "part_of_speech": "名",
+          "chinese": "小巷；弄",
+          "sentence": "I usually park my motorcycle in the alley behind my house.",
+          "sentence_chinese": "我通常把機車停在我家後面的巷子裡。",
+          "sentence_source": "課本",
+          "id": "h1-2-u7-v003"
+        },
+        {
+          "word": "anniversary",
+          "part_of_speech": "名",
+          "chinese": "週年紀念日",
+          "sentence": "We celebrated our wedding anniversary with a special dinner.",
+          "sentence_chinese": "我們用一頓特別的晚餐慶祝結婚週年紀念日。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u7-v004"
+        },
+        {
+          "word": "annual",
+          "part_of_speech": "形",
+          "chinese": "每年的；年度的",
+          "sentence": "The race is an annual event at my school.",
+          "sentence_chinese": "這場比賽是我們學校每年舉辦的活動。",
+          "sentence_source": "課本",
+          "id": "h1-2-u7-v005"
+        },
+        {
+          "word": "apart",
+          "part_of_speech": "副／形",
+          "chinese": "相距；（思想上）獨特的；迥異的",
+          "sentence": "The two houses are only ten meters apart.",
+          "sentence_chinese": "這兩棟房子相距只有 10 公尺。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u7-v006"
+        },
+        {
+          "word": "aquarium",
+          "part_of_speech": "名",
+          "chinese": "水族館；水族箱",
+          "sentence": "We went to the aquarium and saw many kinds of fish and other sea creatures.",
+          "sentence_chinese": "我們去了水族館，看見許多種魚和其他海洋生物。",
+          "sentence_source": "課本",
+          "id": "h1-2-u7-v007"
+        },
+        {
+          "word": "aside",
+          "part_of_speech": "副",
+          "chinese": "在一旁；到或向一邊",
+          "sentence": "They put aside their differences and remained friends.",
+          "sentence_chinese": "他們擱下彼此的歧見，仍然是朋友。",
+          "sentence_source": "課本",
+          "id": "h1-2-u7-v008"
+        },
+        {
+          "word": "avenue",
+          "part_of_speech": "名",
+          "chinese": "林蔭大道",
+          "sentence": "In the city, many avenues are lined with trees and flowers to make them appear more pleasant.",
+          "sentence_chinese": "在這座城市，許多大道兩旁種滿花木，讓道路看起來更宜人。",
+          "sentence_source": "課本",
+          "id": "h1-2-u7-v009"
+        },
+        {
+          "word": "barely",
+          "part_of_speech": "副",
+          "chinese": "幾乎不",
+          "sentence": "The girl could barely speak when she met her favorite movie star.",
+          "sentence_chinese": "那個女孩遇見最喜歡的電影明星時，幾乎說不出話來。",
+          "sentence_source": "課本",
+          "id": "h1-2-u7-v010"
+        },
+        {
+          "word": "basement",
+          "part_of_speech": "名",
+          "chinese": "地下室",
+          "sentence": "We keep the tool kit in the basement; I'll go down and get the hammer.",
+          "sentence_chinese": "我們把工具箱放在地下室，我下去拿槌子。",
+          "sentence_source": "課本",
+          "id": "h1-2-u7-v011"
+        },
+        {
+          "word": "beneath",
+          "part_of_speech": "介",
+          "chinese": "在某物下面；對某人來說不夠好",
+          "sentence": "Christine hid beneath the table, listening secretly to her parents' conversation.",
+          "sentence_chinese": "Christine 躲在桌子底下，偷偷聽父母談話。",
+          "sentence_source": "課本",
+          "id": "h1-2-u7-v012"
+        },
+        {
+          "word": "cafeteria",
+          "part_of_speech": "名",
+          "chinese": "（大學或大樓的）自助餐廳",
+          "sentence": "The cafeteria at my school serves terrible food, but at least it doesn't cost very much.",
+          "sentence_chinese": "我們學校自助餐廳的食物很難吃，但至少價格不貴。",
+          "sentence_source": "課本",
+          "id": "h1-2-u7-v013"
+        },
+        {
+          "word": "campus",
+          "part_of_speech": "名",
+          "chinese": "校園；校區",
+          "sentence": "Molly decided she wanted to go to this school when she saw how beautiful the campus is.",
+          "sentence_chinese": "Molly 看見校園這麼漂亮，便決定要就讀這所學校。",
+          "sentence_source": "課本",
+          "id": "h1-2-u7-v014"
+        },
+        {
+          "word": "casual",
+          "part_of_speech": "形",
+          "chinese": "偶然的；意外的；不經意的；隨便的；非正式的",
+          "sentence": "A casual encounter between two strangers can sometimes lead to romance.",
+          "sentence_chinese": "兩個陌生人偶然相遇，有時會發展出戀情。",
+          "sentence_source": "課本",
+          "id": "h1-2-u7-v015"
+        },
+        {
+          "word": "chamber",
+          "part_of_speech": "名",
+          "chinese": "用於特定用途的房間；室；廳",
+          "sentence": "The gas chamber contained an air lock so that no poisonous gases could escape.",
+          "sentence_chinese": "那間毒氣室設有氣閘，防止有毒氣體外洩。",
+          "sentence_source": "課本",
+          "id": "h1-2-u7-v016"
+        },
+        {
+          "word": "cinema",
+          "part_of_speech": "名",
+          "chinese": "電影業；（總稱）電影；電影院",
+          "sentence": "Most of American cinema is filmed in Hollywood, California, so the area has many aspiring actors.",
+          "sentence_chinese": "多數美國電影在加州好萊塢拍攝，因此當地有許多懷抱演員夢的人。",
+          "sentence_source": "課本",
+          "id": "h1-2-u7-v017"
+        },
+        {
+          "word": "clinic",
+          "part_of_speech": "名",
+          "chinese": "診所",
+          "sentence": "If you just have a minor illness, you should go to a clinic instead of a hospital.",
+          "sentence_chinese": "如果只是小病，你應該去診所，而不是去醫院。",
+          "sentence_source": "課本",
+          "id": "h1-2-u7-v018"
+        },
+        {
+          "word": "colony",
+          "part_of_speech": "名",
+          "chinese": "殖民地；一群（螞蟻、蜜蜂等）",
+          "sentence": "Taiwan used to be a Japanese colony.",
+          "sentence_chinese": "臺灣曾經是日本的殖民地。",
+          "sentence_source": "課本",
+          "id": "h1-2-u7-v019"
+        },
+        {
+          "word": "county",
+          "part_of_speech": "名",
+          "chinese": "縣",
+          "sentence": "The county government built a new library last year.",
+          "sentence_chinese": "縣政府去年興建了一座新圖書館。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u7-v020"
+        },
+        {
+          "word": "curve",
+          "part_of_speech": "名",
+          "chinese": "道路轉彎處；曲線",
+          "sentence": "The driver slowed down before the sharp curve.",
+          "sentence_chinese": "司機在急彎前減速。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u7-v021"
+        },
+        {
+          "word": "dam",
+          "part_of_speech": "名",
+          "chinese": "水壩",
+          "sentence": "The heavy rain caused the dam to burst.",
+          "sentence_chinese": "大雨使水壩潰堤。",
+          "sentence_source": "課本",
+          "id": "h1-2-u7-v022"
+        },
+        {
+          "word": "deadline",
+          "part_of_speech": "名",
+          "chinese": "截止日期",
+          "sentence": "The deadline for this homework is next Friday.",
+          "sentence_chinese": "這份作業的截止日期是下週五。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u7-v023"
+        },
+        {
+          "word": "decade",
+          "part_of_speech": "名",
+          "chinese": "十年",
+          "sentence": "After working at this company for more than a decade, Sam decided to move on and find a better-paying job.",
+          "sentence_chinese": "在這家公司工作超過 10 年後，Sam 決定往前走，找一份薪水更好的工作。",
+          "sentence_source": "課本",
+          "id": "h1-2-u7-v024"
+        },
+        {
+          "word": "deck",
+          "part_of_speech": "名",
+          "chinese": "甲板；（公車等）層",
+          "sentence": "On the boat ride to Green Island, we stood on deck so we could see the island as we got near.",
+          "sentence_chinese": "搭船前往綠島時，我們站在甲板上，好在接近時看見島嶼。",
+          "sentence_source": "課本",
+          "id": "h1-2-u7-v025"
+        },
+        {
+          "word": "district",
+          "part_of_speech": "名",
+          "chinese": "地區；地域",
+          "sentence": "Jane and Simon come from the same district of London.",
+          "sentence_chinese": "Jane 和 Simon 來自倫敦的同一區。",
+          "sentence_source": "課本",
+          "id": "h1-2-u7-v026"
+        },
+        {
+          "word": "ditch",
+          "part_of_speech": "名／動",
+          "chinese": "水溝；壕溝；拋棄；丟棄",
+          "sentence": "The little boy fell into the ditch on the side of the road and got very dirty.",
+          "sentence_chinese": "那個小男孩掉進路邊的水溝，弄得全身髒兮兮。",
+          "sentence_source": "課本",
+          "id": "h1-2-u7-v027"
+        },
+        {
+          "word": "downtown",
+          "part_of_speech": "形／副／名",
+          "chinese": "市中心的；在市中心；往市中心；市中心",
+          "sentence": "We went downtown to buy some new clothes.",
+          "sentence_chinese": "我們到市中心買了些新衣服。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u7-v028"
+        },
+        {
+          "word": "drugstore",
+          "part_of_speech": "名",
+          "chinese": "藥妝店；藥局",
+          "sentence": "I bought some medicine at the drugstore yesterday.",
+          "sentence_chinese": "我昨天在藥局買了一些藥。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u7-v029"
+        },
+        {
+          "word": "elsewhere",
+          "part_of_speech": "副",
+          "chinese": "在別處；到別處",
+          "sentence": "This store is closed, so we must shop elsewhere.",
+          "sentence_chinese": "這家店沒營業，所以我們得去別處購物。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "id": "h1-2-u7-v030"
+        },
+        {
+          "word": "entry",
+          "part_of_speech": "名",
+          "chinese": "進入；加入；項目",
+          "sentence": "Liz made an entry in her notebook to remind herself to buy a present for Tony.",
+          "sentence_chinese": "Liz 在筆記本上記下一筆，提醒自己買禮物給 Tony。",
+          "sentence_source": "課本",
+          "id": "h1-2-u7-v031",
+          "option_group": "entrance"
+        },
+        {
+          "word": "era",
+          "part_of_speech": "名",
+          "chinese": "時代",
+          "sentence": "The Christian era is counted from the birth of Christ.",
+          "sentence_chinese": "西元紀年從耶穌誕生之年算起。",
+          "sentence_source": "課本",
+          "id": "h1-2-u7-v032"
+        },
+        {
+          "word": "farther",
+          "part_of_speech": "副／形",
+          "chinese": "更遠地；更遠的",
+          "sentence": "I'm too tired; I can't go any farther.",
+          "sentence_chinese": "我太累了，沒辦法再往前走。",
+          "sentence_source": "課本",
+          "id": "h1-2-u7-v033"
+        },
+        {
+          "word": "forever",
+          "part_of_speech": "副",
+          "chinese": "永遠",
+          "sentence": "Do you wish to remain young forever?",
+          "sentence_chinese": "你希望永遠保持年輕嗎？",
+          "sentence_source": "課本",
+          "id": "h1-2-u7-v034"
+        },
+        {
+          "word": "fort",
+          "part_of_speech": "名",
+          "chinese": "要塞；堡壘",
+          "sentence": "In Canada, forts were often built as protection against attacks by indigenous tribes.",
+          "sentence_chinese": "在加拿大，以前興建堡壘往往是為了防禦原住民部落的攻擊。",
+          "sentence_source": "課本",
+          "id": "h1-2-u7-v035"
+        }
+      ],
+      "phrases": [],
+      "scrambles": {
+        "vocab": [
+          {
+            "id": "h1-2-u7-sv001",
+            "vocab_id": "h1-2-u7-v001",
+            "sentence": "The only access to the small town is across the bridge.",
+            "sentence_chinese": "通往那座小鎮的唯一路徑是過橋。"
+          },
+          {
+            "id": "h1-2-u7-sv002",
+            "vocab_id": "h1-2-u7-v002",
+            "sentence": "Let's see a movie first and eat afterward.",
+            "sentence_chinese": "我們先看電影，然後再吃東西。"
+          },
+          {
+            "id": "h1-2-u7-sv003",
+            "vocab_id": "h1-2-u7-v003",
+            "sentence": "I usually park my motorcycle in the alley behind my house.",
+            "sentence_chinese": "我通常把機車停在我家後面的巷子裡。"
+          },
+          {
+            "id": "h1-2-u7-sv004",
+            "vocab_id": "h1-2-u7-v004",
+            "sentence": "We celebrated our wedding anniversary with a special dinner.",
+            "sentence_chinese": "我們用一頓特別的晚餐慶祝結婚週年紀念日。"
+          },
+          {
+            "id": "h1-2-u7-sv005",
+            "vocab_id": "h1-2-u7-v005",
+            "sentence": "The race is an annual event at my school.",
+            "sentence_chinese": "這場比賽是我們學校每年舉辦的活動。"
+          },
+          {
+            "id": "h1-2-u7-sv006",
+            "vocab_id": "h1-2-u7-v006",
+            "sentence": "The two houses are only ten meters apart.",
+            "sentence_chinese": "這兩棟房子相距只有 10 公尺。"
+          },
+          {
+            "id": "h1-2-u7-sv007",
+            "vocab_id": "h1-2-u7-v007",
+            "sentence": "We went to the aquarium and saw many kinds of fish and other sea creatures.",
+            "sentence_chinese": "我們去了水族館，看見許多種魚和其他海洋生物。"
+          },
+          {
+            "id": "h1-2-u7-sv008",
+            "vocab_id": "h1-2-u7-v008",
+            "sentence": "They put aside their differences and remained friends.",
+            "sentence_chinese": "他們擱下彼此的歧見，仍然是朋友。"
+          },
+          {
+            "id": "h1-2-u7-sv009",
+            "vocab_id": "h1-2-u7-v009",
+            "sentence": "In the city, many avenues are lined with trees and flowers to make them appear more pleasant.",
+            "sentence_chinese": "在這座城市，許多大道兩旁種滿花木，讓道路看起來更宜人。"
+          },
+          {
+            "id": "h1-2-u7-sv010",
+            "vocab_id": "h1-2-u7-v010",
+            "sentence": "The girl could barely speak when she met her favorite movie star.",
+            "sentence_chinese": "那個女孩遇見最喜歡的電影明星時，幾乎說不出話來。"
+          },
+          {
+            "id": "h1-2-u7-sv011",
+            "vocab_id": "h1-2-u7-v011",
+            "sentence": "We keep the tool kit in the basement; I'll go down and get the hammer.",
+            "sentence_chinese": "我們把工具箱放在地下室，我下去拿槌子。"
+          },
+          {
+            "id": "h1-2-u7-sv012",
+            "vocab_id": "h1-2-u7-v012",
+            "sentence": "Christine hid beneath the table, listening secretly to her parents' conversation.",
+            "sentence_chinese": "Christine 躲在桌子底下，偷偷聽父母談話。"
+          },
+          {
+            "id": "h1-2-u7-sv013",
+            "vocab_id": "h1-2-u7-v013",
+            "sentence": "The cafeteria at my school serves terrible food, but at least it doesn't cost very much.",
+            "sentence_chinese": "我們學校自助餐廳的食物很難吃，但至少價格不貴。"
+          },
+          {
+            "id": "h1-2-u7-sv014",
+            "vocab_id": "h1-2-u7-v014",
+            "sentence": "Molly decided she wanted to go to this school when she saw how beautiful the campus is.",
+            "sentence_chinese": "Molly 看見校園這麼漂亮，便決定要就讀這所學校。"
+          },
+          {
+            "id": "h1-2-u7-sv015",
+            "vocab_id": "h1-2-u7-v015",
+            "sentence": "A casual encounter between two strangers can sometimes lead to romance.",
+            "sentence_chinese": "兩個陌生人偶然相遇，有時會發展出戀情。"
+          },
+          {
+            "id": "h1-2-u7-sv016",
+            "vocab_id": "h1-2-u7-v016",
+            "sentence": "The gas chamber contained an air lock so that no poisonous gases could escape.",
+            "sentence_chinese": "那間毒氣室設有氣閘，防止有毒氣體外洩。"
+          },
+          {
+            "id": "h1-2-u7-sv017",
+            "vocab_id": "h1-2-u7-v017",
+            "sentence": "Most of American cinema is filmed in Hollywood, California, so the area has many aspiring actors.",
+            "sentence_chinese": "多數美國電影在加州好萊塢拍攝，因此當地有許多懷抱演員夢的人。"
+          },
+          {
+            "id": "h1-2-u7-sv018",
+            "vocab_id": "h1-2-u7-v018",
+            "sentence": "If you just have a minor illness, you should go to a clinic instead of a hospital.",
+            "sentence_chinese": "如果只是小病，你應該去診所，而不是去醫院。"
+          },
+          {
+            "id": "h1-2-u7-sv019",
+            "vocab_id": "h1-2-u7-v019",
+            "sentence": "Taiwan used to be a Japanese colony.",
+            "sentence_chinese": "臺灣曾經是日本的殖民地。"
+          },
+          {
+            "id": "h1-2-u7-sv020",
+            "vocab_id": "h1-2-u7-v020",
+            "sentence": "The county government built a new library last year.",
+            "sentence_chinese": "縣政府去年興建了一座新圖書館。"
+          },
+          {
+            "id": "h1-2-u7-sv021",
+            "vocab_id": "h1-2-u7-v021",
+            "sentence": "The driver slowed down before the sharp curve.",
+            "sentence_chinese": "司機在急彎前減速。"
+          },
+          {
+            "id": "h1-2-u7-sv022",
+            "vocab_id": "h1-2-u7-v022",
+            "sentence": "The heavy rain caused the dam to burst.",
+            "sentence_chinese": "大雨使水壩潰堤。"
+          },
+          {
+            "id": "h1-2-u7-sv023",
+            "vocab_id": "h1-2-u7-v023",
+            "sentence": "The deadline for this homework is next Friday.",
+            "sentence_chinese": "這份作業的截止日期是下週五。"
+          },
+          {
+            "id": "h1-2-u7-sv024",
+            "vocab_id": "h1-2-u7-v024",
+            "sentence": "After working at this company for more than a decade, Sam decided to move on and find a better-paying job.",
+            "sentence_chinese": "在這家公司工作超過 10 年後，Sam 決定往前走，找一份薪水更好的工作。"
+          },
+          {
+            "id": "h1-2-u7-sv025",
+            "vocab_id": "h1-2-u7-v025",
+            "sentence": "On the boat ride to Green Island, we stood on deck so we could see the island as we got near.",
+            "sentence_chinese": "搭船前往綠島時，我們站在甲板上，好在接近時看見島嶼。"
+          },
+          {
+            "id": "h1-2-u7-sv026",
+            "vocab_id": "h1-2-u7-v026",
+            "sentence": "Jane and Simon come from the same district of London.",
+            "sentence_chinese": "Jane 和 Simon 來自倫敦的同一區。"
+          },
+          {
+            "id": "h1-2-u7-sv027",
+            "vocab_id": "h1-2-u7-v027",
+            "sentence": "The little boy fell into the ditch on the side of the road and got very dirty.",
+            "sentence_chinese": "那個小男孩掉進路邊的水溝，弄得全身髒兮兮。"
+          },
+          {
+            "id": "h1-2-u7-sv028",
+            "vocab_id": "h1-2-u7-v028",
+            "sentence": "We went downtown to buy some new clothes.",
+            "sentence_chinese": "我們到市中心買了些新衣服。"
+          },
+          {
+            "id": "h1-2-u7-sv029",
+            "vocab_id": "h1-2-u7-v029",
+            "sentence": "I bought some medicine at the drugstore yesterday.",
+            "sentence_chinese": "我昨天在藥局買了一些藥。"
+          },
+          {
+            "id": "h1-2-u7-sv030",
+            "vocab_id": "h1-2-u7-v030",
+            "sentence": "This store is closed, so we must shop elsewhere.",
+            "sentence_chinese": "這家店沒營業，所以我們得去別處購物。"
+          },
+          {
+            "id": "h1-2-u7-sv031",
+            "vocab_id": "h1-2-u7-v031",
+            "sentence": "Liz made an entry in her notebook to remind herself to buy a present for Tony.",
+            "sentence_chinese": "Liz 在筆記本上記下一筆，提醒自己買禮物給 Tony。"
+          },
+          {
+            "id": "h1-2-u7-sv032",
+            "vocab_id": "h1-2-u7-v032",
+            "sentence": "The Christian era is counted from the birth of Christ.",
+            "sentence_chinese": "西元紀年從耶穌誕生之年算起。"
+          },
+          {
+            "id": "h1-2-u7-sv033",
+            "vocab_id": "h1-2-u7-v033",
+            "sentence": "I'm too tired; I can't go any farther.",
+            "sentence_chinese": "我太累了，沒辦法再往前走。"
+          },
+          {
+            "id": "h1-2-u7-sv034",
+            "vocab_id": "h1-2-u7-v034",
+            "sentence": "Do you wish to remain young forever?",
+            "sentence_chinese": "你希望永遠保持年輕嗎？"
+          },
+          {
+            "id": "h1-2-u7-sv035",
+            "vocab_id": "h1-2-u7-v035",
+            "sentence": "In Canada, forts were often built as protection against attacks by indigenous tribes.",
+            "sentence_chinese": "在加拿大，以前興建堡壘往往是為了防禦原住民部落的攻擊。"
+          }
+        ]
+      }
+    }
+  }
+}
