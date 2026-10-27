@@ -1,0 +1,358 @@
+{
+  "units": {
+    "qz-level9-u6": {
+      "title": "U6",
+      "level": 9,
+      "source_lesson": 6,
+      "source_description": "使用者提供的 Lesson 6 單字與片語頁；依編號收錄，裁切例句另標示 AI 補寫。",
+      "vocab": [
+        {
+          "word": "freedom",
+          "part_of_speech": "名",
+          "chinese": "自由",
+          "sentence": "We have the freedom to choose our own clothes.",
+          "sentence_chinese": "我們有選擇自己衣服的自由。",
+          "sentence_source": "AI 補寫",
+          "id": "qz-level9-u6-v001"
+        },
+        {
+          "word": "statue",
+          "part_of_speech": "名",
+          "chinese": "雕像",
+          "sentence": "There is a stone statue in front of the museum.",
+          "sentence_chinese": "博物館前面有一座石雕像。",
+          "sentence_source": "AI 補寫",
+          "id": "qz-level9-u6-v002"
+        },
+        {
+          "word": "remove",
+          "part_of_speech": "動",
+          "chinese": "移除",
+          "sentence": "Jasmine chewed gum to remove the smell of garlic.",
+          "sentence_chinese": "Jasmine 嚼口香糖來去除大蒜味。",
+          "sentence_source": "課本原句",
+          "id": "qz-level9-u6-v003"
+        },
+        {
+          "word": "celebration",
+          "part_of_speech": "名",
+          "chinese": "慶祝；慶祝活動",
+          "sentence": "We had a party in celebration of winning the game.",
+          "sentence_chinese": "我們開派對慶祝贏得比賽。",
+          "sentence_source": "AI 補寫",
+          "id": "qz-level9-u6-v004"
+        },
+        {
+          "word": "independence",
+          "part_of_speech": "名",
+          "chinese": "獨立",
+          "sentence": "The country gained independence more than fifty years ago.",
+          "sentence_chinese": "這個國家在五十多年前獲得獨立。",
+          "sentence_source": "AI 補寫",
+          "id": "qz-level9-u6-v005"
+        },
+        {
+          "word": "monument",
+          "part_of_speech": "名",
+          "chinese": "紀念碑",
+          "sentence": "The monument was built to remember a great leader.",
+          "sentence_chinese": "這座紀念碑是為了紀念一位偉大的領袖而建造的。",
+          "sentence_source": "AI 補寫",
+          "id": "qz-level9-u6-v006"
+        },
+        {
+          "word": "symbolize",
+          "part_of_speech": "動",
+          "chinese": "象徵；代表",
+          "sentence": "The white flowers symbolize peace in this story.",
+          "sentence_chinese": "在這個故事中，這些白花象徵和平。",
+          "sentence_source": "AI 補寫",
+          "id": "qz-level9-u6-v007",
+          "option_group": "symbolize-represent"
+        },
+        {
+          "word": "firmly",
+          "part_of_speech": "副",
+          "chinese": "牢固地；堅定地",
+          "sentence": "Jack firmly closed the lid of the jar so that it wouldn't open accidentally.",
+          "sentence_chinese": "Jack 牢牢蓋上罐子的蓋子，以免它意外打開。",
+          "sentence_source": "課本原句",
+          "id": "qz-level9-u6-v008"
+        },
+        {
+          "word": "represent",
+          "part_of_speech": "動",
+          "chinese": "代表；作為……的象徵",
+          "sentence": "Amy was chosen to represent her class in the game.",
+          "sentence_chinese": "Amy 被選出來代表她的班級參加比賽。",
+          "sentence_source": "AI 補寫",
+          "id": "qz-level9-u6-v009",
+          "option_group": "symbolize-represent"
+        },
+        {
+          "word": "ancient",
+          "part_of_speech": "形",
+          "chinese": "古代的；古老的",
+          "sentence": "We visited an ancient city during our trip.",
+          "sentence_chinese": "我們在旅行中參觀了一座古城。",
+          "sentence_source": "AI 補寫",
+          "id": "qz-level9-u6-v010"
+        },
+        {
+          "word": "slavery",
+          "part_of_speech": "名",
+          "chinese": "蓄奴制；奴隸身分",
+          "sentence": "People in slavery were forced to work without pay.",
+          "sentence_chinese": "處於奴隸身分的人被迫無償工作。",
+          "sentence_source": "AI 補寫",
+          "id": "qz-level9-u6-v011"
+        },
+        {
+          "word": "unfair",
+          "part_of_speech": "形",
+          "chinese": "不公正的；不公平的",
+          "sentence": "It is unfair to blame her for your mistake.",
+          "sentence_chinese": "因為你自己的錯誤而責怪她是不公平的。",
+          "sentence_source": "AI 補寫",
+          "id": "qz-level9-u6-v012"
+        },
+        {
+          "word": "treatment",
+          "part_of_speech": "名",
+          "chinese": "對待；待遇",
+          "sentence": "The workers complained about the unfair treatment they received.",
+          "sentence_chinese": "工人們抱怨自己受到的不公平待遇。",
+          "sentence_source": "AI 補寫",
+          "id": "qz-level9-u6-v013"
+        },
+        {
+          "word": "tourist",
+          "part_of_speech": "名",
+          "chinese": "遊客",
+          "sentence": "The tourist asked me how to get to the museum.",
+          "sentence_chinese": "那位遊客問我如何前往博物館。",
+          "sentence_source": "AI 補寫",
+          "id": "qz-level9-u6-v014"
+        },
+        {
+          "word": "attraction",
+          "part_of_speech": "名",
+          "chinese": "有吸引力的事物或地點",
+          "sentence": "The old castle is a popular tourist attraction.",
+          "sentence_chinese": "這座古堡是一個熱門的觀光景點。",
+          "sentence_source": "AI 補寫",
+          "id": "qz-level9-u6-v015"
+        },
+        {
+          "word": "landmark",
+          "part_of_speech": "名",
+          "chinese": "地標",
+          "sentence": "The tall tower has become a famous city landmark.",
+          "sentence_chinese": "這座高塔已成為著名的城市地標。",
+          "sentence_source": "AI 補寫",
+          "id": "qz-level9-u6-v016"
+        },
+        {
+          "word": "globe",
+          "part_of_speech": "名",
+          "chinese": "地球；世界",
+          "sentence": "People around the globe watched the game on TV.",
+          "sentence_chinese": "世界各地的人們在電視上觀看這場比賽。",
+          "sentence_source": "AI 補寫",
+          "id": "qz-level9-u6-v017"
+        }
+      ],
+      "phrases": [
+        {
+          "phrase": "even though",
+          "chinese": "儘管",
+          "sentence": "Even though it was raining, we still went out.",
+          "sentence_chinese": "儘管當時正在下雨，我們還是出門了。",
+          "sentence_source": "AI 補寫",
+          "id": "qz-level9-u6-p001"
+        },
+        {
+          "phrase": "close to",
+          "chinese": "將近",
+          "sentence": "Close to fifty people visited the museum today.",
+          "sentence_chinese": "今天有將近五十人參觀博物館。",
+          "sentence_source": "AI 補寫",
+          "id": "qz-level9-u6-p002"
+        },
+        {
+          "phrase": "over time",
+          "chinese": "隨著時間過去",
+          "sentence": "The work became easier over time.",
+          "sentence_chinese": "隨著時間過去，這份工作變得更容易了。",
+          "sentence_source": "AI 補寫",
+          "id": "qz-level9-u6-p003"
+        },
+        {
+          "phrase": "pay a visit to",
+          "chinese": "拜訪；參觀",
+          "sentence": "We paid a visit to the old museum yesterday.",
+          "sentence_chinese": "我們昨天參觀了那座老博物館。",
+          "sentence_source": "AI 補寫",
+          "id": "qz-level9-u6-p004"
+        },
+        {
+          "phrase": "as always",
+          "chinese": "一直如此；如往常一樣",
+          "sentence": "As always, Ben arrived at school early.",
+          "sentence_chinese": "如往常一樣，Ben 很早就到學校了。",
+          "sentence_source": "AI 補寫",
+          "id": "qz-level9-u6-p005"
+        }
+      ],
+      "scrambles": {
+        "vocab": [
+          {
+            "id": "qz-level9-u6-sv001",
+            "vocab_id": "qz-level9-u6-v001",
+            "sentence": "We have the freedom to choose our own clothes.",
+            "sentence_chinese": "我們有選擇自己衣服的自由。"
+          },
+          {
+            "id": "qz-level9-u6-sv002",
+            "vocab_id": "qz-level9-u6-v002",
+            "sentence": "There is a stone statue in front of the museum.",
+            "sentence_chinese": "博物館前面有一座石雕像。"
+          },
+          {
+            "id": "qz-level9-u6-sv003",
+            "vocab_id": "qz-level9-u6-v003",
+            "sentence": "Jasmine chewed gum to remove the smell of garlic.",
+            "sentence_chinese": "Jasmine 嚼口香糖來去除大蒜味。"
+          },
+          {
+            "id": "qz-level9-u6-sv004",
+            "vocab_id": "qz-level9-u6-v004",
+            "sentence": "We had a party in celebration of winning the game.",
+            "sentence_chinese": "我們開派對慶祝贏得比賽。"
+          },
+          {
+            "id": "qz-level9-u6-sv005",
+            "vocab_id": "qz-level9-u6-v005",
+            "sentence": "The country gained independence more than fifty years ago.",
+            "sentence_chinese": "這個國家在五十多年前獲得獨立。"
+          },
+          {
+            "id": "qz-level9-u6-sv006",
+            "vocab_id": "qz-level9-u6-v006",
+            "sentence": "The monument was built to remember a great leader.",
+            "sentence_chinese": "這座紀念碑是為了紀念一位偉大的領袖而建造的。"
+          },
+          {
+            "id": "qz-level9-u6-sv007",
+            "vocab_id": "qz-level9-u6-v007",
+            "sentence": "The white flowers symbolize peace in this story.",
+            "sentence_chinese": "在這個故事中，這些白花象徵和平。"
+          },
+          {
+            "id": "qz-level9-u6-sv008",
+            "vocab_id": "qz-level9-u6-v008",
+            "sentence": "Jack firmly closed the lid of the jar so that it wouldn't open accidentally.",
+            "sentence_chinese": "Jack 牢牢蓋上罐子的蓋子，以免它意外打開。"
+          },
+          {
+            "id": "qz-level9-u6-sv009",
+            "vocab_id": "qz-level9-u6-v009",
+            "sentence": "Amy was chosen to represent her class in the game.",
+            "sentence_chinese": "Amy 被選出來代表她的班級參加比賽。"
+          },
+          {
+            "id": "qz-level9-u6-sv010",
+            "vocab_id": "qz-level9-u6-v010",
+            "sentence": "We visited an ancient city during our trip.",
+            "sentence_chinese": "我們在旅行中參觀了一座古城。"
+          },
+          {
+            "id": "qz-level9-u6-sv011",
+            "vocab_id": "qz-level9-u6-v011",
+            "sentence": "People in slavery were forced to work without pay.",
+            "sentence_chinese": "處於奴隸身分的人被迫無償工作。"
+          },
+          {
+            "id": "qz-level9-u6-sv012",
+            "vocab_id": "qz-level9-u6-v012",
+            "sentence": "It is unfair to blame her for your mistake.",
+            "sentence_chinese": "因為你自己的錯誤而責怪她是不公平的。"
+          },
+          {
+            "id": "qz-level9-u6-sv013",
+            "vocab_id": "qz-level9-u6-v013",
+            "sentence": "The workers complained about the unfair treatment they received.",
+            "sentence_chinese": "工人們抱怨自己受到的不公平待遇。"
+          },
+          {
+            "id": "qz-level9-u6-sv014",
+            "vocab_id": "qz-level9-u6-v014",
+            "sentence": "The tourist asked me how to get to the museum.",
+            "sentence_chinese": "那位遊客問我如何前往博物館。"
+          },
+          {
+            "id": "qz-level9-u6-sv015",
+            "vocab_id": "qz-level9-u6-v015",
+            "sentence": "The old castle is a popular tourist attraction.",
+            "sentence_chinese": "這座古堡是一個熱門的觀光景點。"
+          },
+          {
+            "id": "qz-level9-u6-sv016",
+            "vocab_id": "qz-level9-u6-v016",
+            "sentence": "The tall tower has become a famous city landmark.",
+            "sentence_chinese": "這座高塔已成為著名的城市地標。"
+          },
+          {
+            "id": "qz-level9-u6-sv017",
+            "vocab_id": "qz-level9-u6-v017",
+            "sentence": "People around the globe watched the game on TV.",
+            "sentence_chinese": "世界各地的人們在電視上觀看這場比賽。"
+          }
+        ],
+        "phrases": [
+          {
+            "id": "qz-level9-u6-sp001",
+            "phrase_id": "qz-level9-u6-p001",
+            "sentence": "Even though it was raining, we still went out.",
+            "sentence_chinese": "儘管當時正在下雨，我們還是出門了。"
+          },
+          {
+            "id": "qz-level9-u6-sp002",
+            "phrase_id": "qz-level9-u6-p002",
+            "sentence": "Close to fifty people visited the museum today.",
+            "sentence_chinese": "今天有將近五十人參觀博物館。"
+          },
+          {
+            "id": "qz-level9-u6-sp003",
+            "phrase_id": "qz-level9-u6-p003",
+            "sentence": "The work became easier over time.",
+            "sentence_chinese": "隨著時間過去，這份工作變得更容易了。"
+          },
+          {
+            "id": "qz-level9-u6-sp004",
+            "phrase_id": "qz-level9-u6-p004",
+            "sentence": "We paid a visit to the old museum yesterday.",
+            "sentence_chinese": "我們昨天參觀了那座老博物館。"
+          },
+          {
+            "id": "qz-level9-u6-sp005",
+            "phrase_id": "qz-level9-u6-p005",
+            "sentence": "As always, Ben arrived at school early.",
+            "sentence_chinese": "如往常一樣，Ben 很早就到學校了。"
+          }
+        ]
+      },
+      "source_pages": [
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218
+      ]
+    }
+  }
+}
