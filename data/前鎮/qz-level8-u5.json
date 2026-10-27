@@ -1,0 +1,330 @@
+{
+  "units": {
+    "qz-level8-u5": {
+      "title": "U5",
+      "level": 8,
+      "source_lesson": 5,
+      "source_pages": "168–177",
+      "vocab": [
+        {
+          "id": "qz-level8-u5-v001",
+          "word": "plastic",
+          "part_of_speech": "形",
+          "chinese": "塑膠製的",
+          "sentence": "This plastic bottle can be used again.",
+          "sentence_chinese": "這個塑膠瓶可以再次使用。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）"
+        },
+        {
+          "id": "qz-level8-u5-v002",
+          "word": "convenience",
+          "part_of_speech": "名",
+          "chinese": "便利",
+          "sentence": "For your convenience, the store is open every day.",
+          "sentence_chinese": "為了方便你，這家店每天都有營業。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）"
+        },
+        {
+          "id": "qz-level8-u5-v003",
+          "word": "eagerly",
+          "part_of_speech": "副",
+          "chinese": "渴望地",
+          "sentence": "Rick is eagerly waiting for his boss to post the summer work schedule because he wants to plan his vacation.",
+          "sentence_chinese": "Rick 熱切等待老闆公布夏季工作表，因為他想安排假期。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "qz-level8-u5-v004",
+          "word": "surround",
+          "part_of_speech": "動",
+          "chinese": "圍繞",
+          "sentence": "The house is surrounded by tall trees, so nobody can see it from the road.",
+          "sentence_chinese": "這棟房子被高樹包圍，因此從路上看不到它。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "qz-level8-u5-v005",
+          "word": "drift",
+          "part_of_speech": "動",
+          "chinese": "漂流",
+          "sentence": "After the captain fell asleep, the ship passed the harbor and then drifted toward the middle of the sea.",
+          "sentence_chinese": "船長睡著後，船通過港口，接著漂向海中央。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "qz-level8-u5-v006",
+          "word": "envy",
+          "part_of_speech": "動",
+          "chinese": "羨慕",
+          "sentence": "Christopher really envies his best friend, Patty, because she has been to so many countries.",
+          "sentence_chinese": "Christopher 很羨慕好友 Patty，因為她去過許多國家。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "qz-level8-u5-v007",
+          "word": "crowded",
+          "part_of_speech": "形",
+          "chinese": "擠滿的；擁擠的",
+          "sentence": "The Smith family is moving into a new house tomorrow, so their living room is crowded with boxes.",
+          "sentence_chinese": "Smith 一家明天要搬進新家，所以客廳堆滿了箱子。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "qz-level8-u5-v008",
+          "word": "obviously",
+          "part_of_speech": "副",
+          "chinese": "顯然",
+          "sentence": "Obviously, she likes this color.",
+          "sentence_chinese": "顯然，她喜歡這個顏色。",
+          "sentence_source": "課本原句節錄"
+        },
+        {
+          "id": "qz-level8-u5-v009",
+          "word": "product",
+          "part_of_speech": "名",
+          "chinese": "產品",
+          "sentence": "This shop sells a variety of health and food products for babies.",
+          "sentence_chinese": "這家店販售各式嬰兒保健產品與食品。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "qz-level8-u5-v010",
+          "word": "consume",
+          "part_of_speech": "動",
+          "chinese": "吃喝；消耗",
+          "sentence": "Finishing his assignments consumes most of Riley's free time in the evening and on the weekend.",
+          "sentence_chinese": "完成作業耗掉 Riley 晚上與週末大部分的空閒時間。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "qz-level8-u5-v011",
+          "word": "poisonous",
+          "part_of_speech": "形",
+          "chinese": "有毒的",
+          "sentence": "Chocolate is delicious for most people, but did you know that it can be poisonous to dogs?",
+          "sentence_chinese": "巧克力對多數人來說很美味，但你知道它可能對狗有毒嗎？",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "qz-level8-u5-v012",
+          "word": "substance",
+          "part_of_speech": "名",
+          "chinese": "物質",
+          "sentence": "The police found a strange substance in the box.",
+          "sentence_chinese": "警方在箱子裡發現一種奇怪的物質。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）"
+        },
+        {
+          "id": "qz-level8-u5-v013",
+          "word": "recycling",
+          "part_of_speech": "名",
+          "chinese": "回收",
+          "sentence": "After the party, Nick took all the empty bottles out for recycling.",
+          "sentence_chinese": "派對結束後，Nick 把所有空瓶拿出去回收。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "qz-level8-u5-v014",
+          "word": "harm",
+          "part_of_speech": "名",
+          "chinese": "傷害",
+          "sentence": "The cleaners were careful not to do any harm to the objects in the museum as they cleaned around them.",
+          "sentence_chinese": "清潔人員清理博物館物品周圍時，小心避免損傷物品。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "qz-level8-u5-v015",
+          "word": "environment",
+          "part_of_speech": "名",
+          "chinese": "自然環境；環境",
+          "sentence": "It is every person's responsibility to save the earth's natural environment for our sons and daughters.",
+          "sentence_chinese": "為下一代保護地球的自然環境，是每個人的責任。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "qz-level8-u5-v016",
+          "word": "properly",
+          "part_of_speech": "副",
+          "chinese": "適當地",
+          "sentence": "Please use the recycling bins properly after the party.",
+          "sentence_chinese": "派對結束後，請正確使用回收桶。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）"
+        }
+      ],
+      "phrases": [
+        {
+          "id": "qz-level8-u5-p001",
+          "phrase": "come along",
+          "chinese": "到達；出現",
+          "sentence": "Jane said she's not ready to join us yet, but she will come along later.",
+          "sentence_chinese": "Jane 說她還沒準備好加入我們，但晚點會到。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "qz-level8-u5-p002",
+          "phrase": "pack up",
+          "chinese": "收拾；打包",
+          "sentence": "After Mr. Huang got fired, he sadly packed all of his things up and left.",
+          "sentence_chinese": "黃先生被解僱後，難過地收拾所有物品離開。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "qz-level8-u5-p003",
+          "phrase": "on one's own",
+          "chinese": "獨自；靠自己",
+          "sentence": "Lily loves to go fishing on her own, so she can listen to the sound of the sea.",
+          "sentence_chinese": "Lily 喜歡獨自釣魚，這樣就能聆聽海的聲音。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "qz-level8-u5-p004",
+          "phrase": "for a while",
+          "chinese": "一陣子",
+          "sentence": "The lion hid behind a tree for a while, waiting for a deer to walk by.",
+          "sentence_chinese": "獅子在樹後躲了一陣子，等待鹿走過。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "qz-level8-u5-p005",
+          "phrase": "end up",
+          "chinese": "最後結果是",
+          "sentence": "We missed the bus and ended up walking home.",
+          "sentence_chinese": "我們錯過公車，最後只好走路回家。",
+          "sentence_source": "AI 補寫（課本例句遭裁切）"
+        }
+      ],
+      "scrambles": {
+        "vocab": [
+          {
+            "id": "qz-level8-u5-sv001",
+            "vocab_id": "qz-level8-u5-v001",
+            "sentence": "This plastic bottle can be used again.",
+            "sentence_chinese": "這個塑膠瓶可以再次使用。"
+          },
+          {
+            "id": "qz-level8-u5-sv002",
+            "vocab_id": "qz-level8-u5-v002",
+            "sentence": "For your convenience, the store is open every day.",
+            "sentence_chinese": "為了方便你，這家店每天都有營業。"
+          },
+          {
+            "id": "qz-level8-u5-sv003",
+            "vocab_id": "qz-level8-u5-v003",
+            "sentence": "Rick is eagerly waiting for his boss to post the summer work schedule because he wants to plan his vacation.",
+            "sentence_chinese": "Rick 熱切等待老闆公布夏季工作表，因為他想安排假期。"
+          },
+          {
+            "id": "qz-level8-u5-sv004",
+            "vocab_id": "qz-level8-u5-v004",
+            "sentence": "The house is surrounded by tall trees, so nobody can see it from the road.",
+            "sentence_chinese": "這棟房子被高樹包圍，因此從路上看不到它。"
+          },
+          {
+            "id": "qz-level8-u5-sv005",
+            "vocab_id": "qz-level8-u5-v005",
+            "sentence": "After the captain fell asleep, the ship passed the harbor and then drifted toward the middle of the sea.",
+            "sentence_chinese": "船長睡著後，船通過港口，接著漂向海中央。"
+          },
+          {
+            "id": "qz-level8-u5-sv006",
+            "vocab_id": "qz-level8-u5-v006",
+            "sentence": "Christopher really envies his best friend, Patty, because she has been to so many countries.",
+            "sentence_chinese": "Christopher 很羨慕好友 Patty，因為她去過許多國家。"
+          },
+          {
+            "id": "qz-level8-u5-sv007",
+            "vocab_id": "qz-level8-u5-v007",
+            "sentence": "The Smith family is moving into a new house tomorrow, so their living room is crowded with boxes.",
+            "sentence_chinese": "Smith 一家明天要搬進新家，所以客廳堆滿了箱子。"
+          },
+          {
+            "id": "qz-level8-u5-sv008",
+            "vocab_id": "qz-level8-u5-v008",
+            "sentence": "Obviously, she likes this color.",
+            "sentence_chinese": "顯然，她喜歡這個顏色。"
+          },
+          {
+            "id": "qz-level8-u5-sv009",
+            "vocab_id": "qz-level8-u5-v009",
+            "sentence": "This shop sells a variety of health and food products for babies.",
+            "sentence_chinese": "這家店販售各式嬰兒保健產品與食品。"
+          },
+          {
+            "id": "qz-level8-u5-sv010",
+            "vocab_id": "qz-level8-u5-v010",
+            "sentence": "Finishing his assignments consumes most of Riley's free time in the evening and on the weekend.",
+            "sentence_chinese": "完成作業耗掉 Riley 晚上與週末大部分的空閒時間。"
+          },
+          {
+            "id": "qz-level8-u5-sv011",
+            "vocab_id": "qz-level8-u5-v011",
+            "sentence": "Chocolate is delicious for most people, but did you know that it can be poisonous to dogs?",
+            "sentence_chinese": "巧克力對多數人來說很美味，但你知道它可能對狗有毒嗎？"
+          },
+          {
+            "id": "qz-level8-u5-sv012",
+            "vocab_id": "qz-level8-u5-v012",
+            "sentence": "The police found a strange substance in the box.",
+            "sentence_chinese": "警方在箱子裡發現一種奇怪的物質。"
+          },
+          {
+            "id": "qz-level8-u5-sv013",
+            "vocab_id": "qz-level8-u5-v013",
+            "sentence": "After the party, Nick took all the empty bottles out for recycling.",
+            "sentence_chinese": "派對結束後，Nick 把所有空瓶拿出去回收。"
+          },
+          {
+            "id": "qz-level8-u5-sv014",
+            "vocab_id": "qz-level8-u5-v014",
+            "sentence": "The cleaners were careful not to do any harm to the objects in the museum as they cleaned around them.",
+            "sentence_chinese": "清潔人員清理博物館物品周圍時，小心避免損傷物品。"
+          },
+          {
+            "id": "qz-level8-u5-sv015",
+            "vocab_id": "qz-level8-u5-v015",
+            "sentence": "It is every person's responsibility to save the earth's natural environment for our sons and daughters.",
+            "sentence_chinese": "為下一代保護地球的自然環境，是每個人的責任。"
+          },
+          {
+            "id": "qz-level8-u5-sv016",
+            "vocab_id": "qz-level8-u5-v016",
+            "sentence": "Please use the recycling bins properly after the party.",
+            "sentence_chinese": "派對結束後，請正確使用回收桶。"
+          }
+        ],
+        "phrases": [
+          {
+            "id": "qz-level8-u5-sp001",
+            "phrase_id": "qz-level8-u5-p001",
+            "sentence": "Jane said she's not ready to join us yet, but she will come along later.",
+            "sentence_chinese": "Jane 說她還沒準備好加入我們，但晚點會到。"
+          },
+          {
+            "id": "qz-level8-u5-sp002",
+            "phrase_id": "qz-level8-u5-p002",
+            "sentence": "After Mr. Huang got fired, he sadly packed all of his things up and left.",
+            "sentence_chinese": "黃先生被解僱後，難過地收拾所有物品離開。"
+          },
+          {
+            "id": "qz-level8-u5-sp003",
+            "phrase_id": "qz-level8-u5-p003",
+            "sentence": "Lily loves to go fishing on her own, so she can listen to the sound of the sea.",
+            "sentence_chinese": "Lily 喜歡獨自釣魚，這樣就能聆聽海的聲音。"
+          },
+          {
+            "id": "qz-level8-u5-sp004",
+            "phrase_id": "qz-level8-u5-p004",
+            "sentence": "The lion hid behind a tree for a while, waiting for a deer to walk by.",
+            "sentence_chinese": "獅子在樹後躲了一陣子，等待鹿走過。"
+          },
+          {
+            "id": "qz-level8-u5-sp005",
+            "phrase_id": "qz-level8-u5-p005",
+            "sentence": "We missed the bus and ended up walking home.",
+            "sentence_chinese": "我們錯過公車，最後只好走路回家。"
+          }
+        ]
+      }
+    }
+  }
+}

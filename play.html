@@ -2052,7 +2052,7 @@
                                 <div className="flex items-center gap-2 font-black text-slate-600 text-lg tracking-tight ml-2 mr-2 whitespace-nowrap"><Map className="w-6 h-6 text-sky-500" /><span>MAP</span></div>
                                 <div className="flex gap-2">
                                     {unitKeys.map((uKey, index) => (
-                                        <button key={uKey} onClick={() => { setCurrentUnit(uKey); if (!hasGrammarContent(unitsData[uKey])) setActiveTab(tab => tab === 'grammar' ? 'study' : tab); }} className={`px-3 py-1 text-xs sm:text-sm font-black rounded-xl transition-all border-b-4 active:border-b-0 active:translate-y-1 whitespace-nowrap ${currentUnit === uKey ? 'bg-sky-500 border-sky-700 text-white shadow-sky-200' : 'bg-white border-slate-300 text-slate-400 hover:bg-slate-50'}`}>Level {index + 1}</button>
+                                        <button key={uKey} onClick={() => { setCurrentUnit(uKey); if (!hasGrammarContent(unitsData[uKey])) setActiveTab(tab => tab === 'grammar' ? 'study' : tab); }} className={`px-3 py-1 text-xs sm:text-sm font-black rounded-xl transition-all border-b-4 active:border-b-0 active:translate-y-1 whitespace-nowrap ${currentUnit === uKey ? 'bg-sky-500 border-sky-700 text-white shadow-sky-200' : 'bg-white border-slate-300 text-slate-400 hover:bg-slate-50'}`}>Level {Number.isInteger(unitsData[uKey].level) && unitsData[uKey].level > 0 ? unitsData[uKey].level : index + 1}</button>
                                     ))}
                                 </div>
                             </div>
