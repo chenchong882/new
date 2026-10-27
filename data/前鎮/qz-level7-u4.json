@@ -1,0 +1,1603 @@
+{
+  "units": {
+    "qz-level7-u4": {
+      "title": "U4",
+      "level": 7,
+      "source_lesson": 4,
+      "source_note": "照片課本 Lesson 4；網站指定 Level 7。僅收課本編號 1–20 單字及 Part C 編號 1–5 片語。部分遭裁切例句已標示 AI 補寫或改寫。文法依照片中的要點與補充用法整理。",
+      "vocab": [
+        {
+          "id": "qz-level7-u4-v001",
+          "word": "sensitive",
+          "part_of_speech": "形",
+          "chinese": "敏感的",
+          "sentence": "Kelly is very sensitive to flavors.",
+          "sentence_chinese": "Kelly 對味道非常敏感。",
+          "sentence_source": "課本原句節錄",
+          "option_group": "sensory-awareness"
+        },
+        {
+          "id": "qz-level7-u4-v002",
+          "word": "keen",
+          "part_of_speech": "形",
+          "chinese": "敏銳的；渴望的；熱衷的",
+          "sentence": "The owl has such a keen sense of hearing that it can hunt animals in the dark.",
+          "sentence_chinese": "貓頭鷹的聽覺非常敏銳，因此能在黑暗中獵捕動物。",
+          "sentence_source": "課本",
+          "option_group": "sensory-awareness"
+        },
+        {
+          "id": "qz-level7-u4-v003",
+          "word": "detect",
+          "part_of_speech": "動",
+          "chinese": "偵測到；察覺",
+          "sentence": "For most people, it is not easy to detect a small change in temperature.",
+          "sentence_chinese": "對大多數人來說，察覺溫度的微小變化並不容易。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "qz-level7-u4-v004",
+          "word": "item",
+          "part_of_speech": "名",
+          "chinese": "一項物品",
+          "sentence": "More than half of the items in the clothing store were on sale for one day only.",
+          "sentence_chinese": "那間服飾店有超過一半的商品特價，僅限一天。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "qz-level7-u4-v005",
+          "word": "accomplish",
+          "part_of_speech": "動",
+          "chinese": "達成",
+          "sentence": "Albert respects those who have accomplished something great in their lives.",
+          "sentence_chinese": "Albert 敬重那些在人生中成就大事的人。",
+          "sentence_source": "課本",
+          "option_group": "task-completion"
+        },
+        {
+          "id": "qz-level7-u4-v006",
+          "word": "disease",
+          "part_of_speech": "名",
+          "chinese": "疾病",
+          "sentence": "Washing your hands often is a good way to stop the spread of disease.",
+          "sentence_chinese": "經常洗手是防止疾病傳播的好方法。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "qz-level7-u4-v007",
+          "word": "infected",
+          "part_of_speech": "形",
+          "chinese": "遭感染的",
+          "sentence": "The doctor treated an infected patient.",
+          "sentence_chinese": "醫生治療了一位遭感染的病人。",
+          "sentence_source": "AI 補寫：照片原例句右側未拍完整"
+        },
+        {
+          "id": "qz-level7-u4-v008",
+          "word": "locate",
+          "part_of_speech": "動",
+          "chinese": "找到……的位置",
+          "sentence": "Al's school is located near the train station.",
+          "sentence_chinese": "Al 的學校位於火車站附近。",
+          "sentence_source": "課本補充用法例句"
+        },
+        {
+          "id": "qz-level7-u4-v009",
+          "word": "reward",
+          "part_of_speech": "名／動",
+          "chinese": "獎勵；報酬／獎賞；提供報酬",
+          "sentence": "Ed was rewarded for saving a dog.",
+          "sentence_chinese": "Ed 因為救了一隻狗而獲得獎勵。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "qz-level7-u4-v010",
+          "word": "ability",
+          "part_of_speech": "名",
+          "chinese": "能力",
+          "sentence": "She has the ability to solve this problem.",
+          "sentence_chinese": "她有能力解決這個問題。",
+          "sentence_source": "AI 補寫：照片原例句右側未拍完整"
+        },
+        {
+          "id": "qz-level7-u4-v011",
+          "word": "predict",
+          "part_of_speech": "動",
+          "chinese": "預測",
+          "sentence": "The teacher predicted that our team would win.",
+          "sentence_chinese": "老師預測我們隊會獲勝。",
+          "sentence_source": "AI 補寫：照片原例句右側未拍完整"
+        },
+        {
+          "id": "qz-level7-u4-v012",
+          "word": "manage",
+          "part_of_speech": "動",
+          "chinese": "設法成功做到；能夠應付；管理（金錢、時間等）",
+          "sentence": "Kyle managed to lose twenty pounds.",
+          "sentence_chinese": "Kyle 成功減掉了二十磅。",
+          "sentence_source": "AI 改寫：縮短照片中右側未拍完整的原例句",
+          "option_group": "task-completion"
+        },
+        {
+          "id": "qz-level7-u4-v013",
+          "word": "create",
+          "part_of_speech": "動",
+          "chinese": "創造；產生出",
+          "sentence": "The students created a new game.",
+          "sentence_chinese": "學生們創造了一個新遊戲。",
+          "sentence_source": "AI 補寫：照片原例句右側未拍完整"
+        },
+        {
+          "id": "qz-level7-u4-v014",
+          "word": "expose",
+          "part_of_speech": "動",
+          "chinese": "使接觸；使體驗；使暴露於；使遭受",
+          "sentence": "By reading these articles, students will be exposed to different opinions about the topic.",
+          "sentence_chinese": "透過閱讀這些文章，學生將接觸到關於這個主題的不同意見。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "qz-level7-u4-v015",
+          "word": "perform",
+          "part_of_speech": "動",
+          "chinese": "做某事；做某種行為；表演",
+          "sentence": "Brad performed a song as a creative way to ask Jennifer to marry him.",
+          "sentence_chinese": "Brad 演唱了一首歌，以創意的方式向 Jennifer 求婚。",
+          "sentence_source": "課本",
+          "option_group": "carrying-out-actions"
+        },
+        {
+          "id": "qz-level7-u4-v016",
+          "word": "behavior",
+          "part_of_speech": "名",
+          "chinese": "行為",
+          "sentence": "Animal behavior can tell us a lot about what a creature is thinking about or wants.",
+          "sentence_chinese": "動物的行為能讓我們了解牠正在想什麼或想要什麼。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "qz-level7-u4-v017",
+          "word": "alert",
+          "part_of_speech": "名／形",
+          "chinese": "警示／警覺的",
+          "sentence": "The little beeps that your phone makes help you stay alert to new emails, messages, and posts.",
+          "sentence_chinese": "手機發出的短促提示聲，能幫助你留意新的電子郵件、訊息和貼文。",
+          "sentence_source": "課本",
+          "option_group": "sensory-awareness"
+        },
+        {
+          "id": "qz-level7-u4-v018",
+          "word": "complete",
+          "part_of_speech": "形／動",
+          "chinese": "已完成的；已結束的；完整的／完成",
+          "sentence": "In this English literature course, we will study the complete works of Shakespeare.",
+          "sentence_chinese": "在這門英國文學課程中，我們將研讀莎士比亞的作品全集。",
+          "sentence_source": "課本",
+          "option_group": "task-completion"
+        },
+        {
+          "id": "qz-level7-u4-v019",
+          "word": "assign",
+          "part_of_speech": "動",
+          "chinese": "指派",
+          "sentence": "Mya was assigned to clean the blackboard.",
+          "sentence_chinese": "Mya 被指派去擦黑板。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "qz-level7-u4-v020",
+          "word": "specific",
+          "part_of_speech": "形",
+          "chinese": "特定的；明確的",
+          "sentence": "Can you be more specific about what you need?",
+          "sentence_chinese": "你能更明確地說明你的需求嗎？",
+          "sentence_source": "課本"
+        }
+      ],
+      "phrases": [
+        {
+          "id": "qz-level7-u4-p001",
+          "phrase": "due to",
+          "chinese": "因為",
+          "sentence": "Due to May's carelessness, the project had to be stopped.",
+          "sentence_chinese": "因為 May 的疏忽，這項計畫必須中止。",
+          "sentence_source": "課本補充例句"
+        },
+        {
+          "id": "qz-level7-u4-p002",
+          "phrase": "all of a sudden",
+          "chinese": "突然間",
+          "sentence": "All of a sudden, it began to rain.",
+          "sentence_chinese": "突然間，下起雨來了。",
+          "sentence_source": "AI 補寫：照片原例句右側未拍完整"
+        },
+        {
+          "id": "qz-level7-u4-p003",
+          "phrase": "turn out",
+          "chinese": "結果是",
+          "sentence": "Despite all the difficulties, everything turned out well.",
+          "sentence_chinese": "儘管遇到種種困難，結果一切順利。",
+          "sentence_source": "課本補充例句"
+        },
+        {
+          "id": "qz-level7-u4-p004",
+          "phrase": "come across",
+          "chinese": "遇到；偶然碰見",
+          "sentence": "I came across an old photo while cleaning my room.",
+          "sentence_chinese": "我打掃房間時，偶然發現了一張舊照片。",
+          "sentence_source": "AI 補寫：照片原例句右側未拍完整"
+        },
+        {
+          "id": "qz-level7-u4-p005",
+          "phrase": "carry out",
+          "chinese": "執行；進行",
+          "sentence": "The police carried out an investigation.",
+          "sentence_chinese": "警方展開了調查。",
+          "sentence_source": "AI 補寫：照片原例句右側未拍完整",
+          "option_group": "carrying-out-actions"
+        }
+      ],
+      "grammar": {
+        "tips": [
+          {
+            "label": "to + 原形",
+            "text": "manage to V、have the ability to V、be keen to V；先看 to 是不定詞符號還是介系詞。"
+          },
+          {
+            "label": "介系詞 + V-ing",
+            "text": "be keen on、feel like、reward someone for、due to 後若接動作，要用 V-ing。"
+          },
+          {
+            "label": "被動語態",
+            "text": "主詞接受動作時，用 be + 過去分詞；先判斷主詞，再配合單複數與時間。"
+          },
+          {
+            "label": "因為",
+            "text": "because 後接完整子句；because of、due to 後接名詞片語或動名詞。"
+          },
+          {
+            "label": "of + 名詞",
+            "text": "of importance = important；of great importance = very important。"
+          },
+          {
+            "label": "結果發現",
+            "text": "S + turn out to V，也可以用 It turns out that + 完整子句。"
+          },
+          {
+            "label": "reason why",
+            "text": "why 子句說明原因；主句的動詞仍要跟真正的主詞一致。"
+          }
+        ],
+        "notes": [
+          {
+            "title": "不定詞：to 後接原形動詞",
+            "rule": "manage to V\nhave the ability to V\nbe keen to V",
+            "description": "manage to V 表示設法成功做到；have the ability to V 表示有能力做；be keen to V 表示渴望做。前面的動詞即使變成過去式，不定詞仍維持 to + 原形動詞。",
+            "examples": [
+              "Kyle managed to complete the task.（Kyle 設法完成了任務。）",
+              "She has the ability to detect small changes.（她有能力察覺微小的變化。）",
+              "Mia is keen to perform on stage.（Mia 渴望上台表演。）"
+            ]
+          },
+          {
+            "title": "介系詞後的動名詞",
+            "rule": "be keen on + N / V-ing\nfeel like + N / V-ing\nreward someone for + N / V-ing\ndue to / by + N / V-ing",
+            "description": "這些用法中的 on、like、for、to、by 是介系詞。介系詞後可放名詞；若放動作，須改成 V-ing。不要看到 to 就一律接原形：manage to 的 to 與 due to 的 to 功能不同。",
+            "examples": [
+              "Ed is keen on studying animal behavior.（Ed 熱衷於研究動物行為。）",
+              "I feel like creating a new game.（我想創造一個新遊戲。）",
+              "Sam was rewarded for helping a child.（Sam 因為幫助孩子而獲獎。）",
+              "Due to arriving late, he missed the show.（因為遲到，他錯過了表演。）"
+            ]
+          },
+          {
+            "title": "被動語態與位置表達",
+            "rule": "be + 過去分詞\n情態助動詞 + be + 過去分詞\nhave / has + been + 過去分詞\nbe located + 地點",
+            "description": "主詞接受動作時使用被動語態。be 動詞要配合主詞單複數與時間；can、must、will 後的 be 用原形。be assigned to V 表示被指派做某事；be exposed to 表示接觸或暴露於；be infected with 表示感染某疾病。be located 用來描述位於某處。文法題會考形式，不靠猜介系詞。",
+            "examples": [
+              "Mya was assigned to clean the blackboard.（Mya 被指派擦黑板。）",
+              "These patients were exposed to dirty water.（這些病人曾接觸髒水。）",
+              "Many tasks can be completed by this team.（這個團隊能完成許多任務。）",
+              "The task has already been completed.（任務已經完成。）",
+              "Al's school is located near the station.（Al 的學校位於車站附近。）"
+            ]
+          },
+          {
+            "title": "because、because of 與 due to",
+            "rule": "because + 主詞 + 動詞\nbecause of / due to + 名詞片語或動名詞",
+            "description": "三者都能表達原因，差別在後面接的結構。because 後面要有完整子句；because of 與 due to 後面放名詞片語或 V-ing。不能在 due to 後直接放一個帶主詞和動詞的子句。",
+            "examples": [
+              "The performance was canceled because it rained.（因為下雨，表演取消了。）",
+              "The performance was canceled because of the rain.（因為這場雨，表演取消了。）",
+              "Due to May's carelessness, the project had to be stopped.（因為 May 的疏忽，計畫必須中止。）"
+            ]
+          },
+          {
+            "title": "of + 抽象名詞作補語",
+            "rule": "of importance = important\nof value = valuable\nof use = useful\nof interest = interesting",
+            "description": "of + 抽象名詞可以放在 be 動詞後，表達類似形容詞的意思。of great importance 表示非常重要。of 後需要名詞，因此不是 of important。",
+            "examples": [
+              "Good time management is of great importance.（良好的時間管理非常重要。）",
+              "This report is of great value to doctors.（這份報告對醫生很有價值。）",
+              "This ability is of great use at work.（這項能力在工作上很有用。）"
+            ]
+          },
+          {
+            "title": "turn out：結果發現",
+            "rule": "S + turn out to V\nIt turns out that + 完整子句\nturn out well / badly",
+            "description": "turn out to V 可表達結果發現某人或某事如何。to 後用原形；若要說結果發現是某種身分或性質，使用 to be。也可改用 It turned out that 引導完整子句。turn out well / badly 表示結果順利或不順利；turned out 是過去式。",
+            "examples": [
+              "Aiden turned out to be the winner.（Aiden 結果是贏家。）",
+              "It turned out that Aiden was the winner.（結果發現 Aiden 是贏家。）",
+              "The task turned out to need more time.（結果發現這項任務需要更多時間。）",
+              "Despite the difficulties, everything turned out well.（儘管遇到困難，結果一切順利。）"
+            ]
+          },
+          {
+            "title": "關係副詞 why 與主詞一致",
+            "rule": "the reason + why + 子句\nThe reason why ... + 單數動詞",
+            "description": "why 引導的子句修飾 reason，說明是哪個原因。判斷主句動詞時，要先找真正的主詞：The reason 是單數，不受 why 子句中其他名詞影響。why 子句本身也要有主詞和完整述語。",
+            "examples": [
+              "There wasn't any specific reason why Jason missed the show.（Jason 沒來看表演並沒有什麼特別的原因。）",
+              "The reason why she left is still unknown.（她離開的原因仍然不明。）",
+              "Nobody knew the reason why the performance was canceled.（沒有人知道表演取消的原因。）"
+            ]
+          },
+          {
+            "title": "本課搭配補充",
+            "rule": "be sensitive to N\nsuffer from + 疾病\nreward someone with N / for N or V-ing\nassign someone something = assign something to someone\nstay + 形容詞",
+            "description": "這些搭配來自字彙頁，作為閱讀與造句補充。sensitive、keen、alert 等形容詞要注意搭配；stay 在 stay alert 中是連綴動詞。未編號的衍生字僅作補充，不另列為本課新單字。",
+            "examples": [
+              "Kelly is sensitive to flavors.（Kelly 對味道敏感。）",
+              "The teacher rewarded Ed with a small prize.（老師用小獎品獎勵 Ed。）",
+              "The teacher assigned a task to Mya.（老師指派一項任務給 Mya。）",
+              "Please stay alert during the experiment.（實驗進行時請保持警覺。）"
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "id": "qz-level7-u4-q001",
+            "question": "Kyle managed ___ all his tasks before dinner.",
+            "options": [
+              "A. completing",
+              "B. to complete",
+              "C. completed",
+              "D. completes"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "manage 後接 to + 原形動詞，表示設法成功做到，所以用 to complete。"
+          },
+          {
+            "id": "qz-level7-u4-q002",
+            "question": "Our team has the ability ___ new computer games.",
+            "options": [
+              "A. creating",
+              "B. created",
+              "C. to create",
+              "D. creates"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "have the ability to V 表示有能力做某事；to 後用原形 create。"
+          },
+          {
+            "id": "qz-level7-u4-q003",
+            "question": "Nina is keen ___ at the school show next month.",
+            "options": [
+              "A. performing",
+              "B. to perform",
+              "C. performed",
+              "D. performs"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "be keen to V 表示渴望做某事，此處需要 to perform。"
+          },
+          {
+            "id": "qz-level7-u4-q004",
+            "question": "The students were assigned ___ an experiment tomorrow.",
+            "options": [
+              "A. carrying out",
+              "B. carried out",
+              "C. to carry out",
+              "D. carries out"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "be assigned to V 表示被指派做某事；不定詞用 to carry out。"
+          },
+          {
+            "id": "qz-level7-u4-q005",
+            "question": "We managed ___ the missing item before the store closed.",
+            "options": [
+              "A. to locate",
+              "B. locating",
+              "C. located",
+              "D. locates"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "managed 後要接 to + 原形動詞；過去時間已由 managed 表示，不把 locate 改成過去式。"
+          },
+          {
+            "id": "qz-level7-u4-q006",
+            "question": "Ed is keen ___ new ways to prevent disease.",
+            "options": [
+              "A. learning",
+              "B. learned",
+              "C. learns",
+              "D. to learn"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "本句用 be keen to V，表示渴望學習，所以選 to learn。"
+          },
+          {
+            "id": "qz-level7-u4-q007",
+            "question": "Lily has the ability ___ small changes in temperature.",
+            "options": [
+              "A. to detect",
+              "B. detecting",
+              "C. detected",
+              "D. detects"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "ability 後的不定詞說明是哪一種能力，結構是 the ability to detect。"
+          },
+          {
+            "id": "qz-level7-u4-q008",
+            "question": "The doctor managed ___ all the patients before noon.",
+            "options": [
+              "A. treating",
+              "B. to treat",
+              "C. treated",
+              "D. treats"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "manage to V 表示設法成功做到；即使 managed 是過去式，to 後仍用原形 treat。"
+          },
+          {
+            "id": "qz-level7-u4-q009",
+            "question": "Sam is keen on ___ songs for his friends.",
+            "options": [
+              "A. perform",
+              "B. performed",
+              "C. performing",
+              "D. to perform"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "這裡有介系詞 on；介系詞後的動詞要用 V-ing，所以選 performing。"
+          },
+          {
+            "id": "qz-level7-u4-q010",
+            "question": "I feel like ___ a new game tonight.",
+            "options": [
+              "A. create",
+              "B. created",
+              "C. creating",
+              "D. to create"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "feel like 表示想要，這裡的 like 是介系詞，後面接動名詞 creating。"
+          },
+          {
+            "id": "qz-level7-u4-q011",
+            "question": "Jack was rewarded for ___ a lost child find her parents.",
+            "options": [
+              "A. help",
+              "B. helped",
+              "C. to help",
+              "D. helping"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "for 是介系詞，後面接動名詞；helping a lost child 說明獲獎的原因。"
+          },
+          {
+            "id": "qz-level7-u4-q012",
+            "question": "Due to ___ late, Maya missed the start of her assigned task.",
+            "options": [
+              "A. arrive",
+              "B. arrived",
+              "C. to arrive",
+              "D. arriving"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "due to 的 to 是介系詞，後面可接名詞或 V-ing，因此選 arriving。"
+          },
+          {
+            "id": "qz-level7-u4-q013",
+            "question": "By ___ these articles, students can learn about different opinions.",
+            "options": [
+              "A. read",
+              "B. reads",
+              "C. reading",
+              "D. to read"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "by 是介系詞，後面的動詞要用動名詞 reading，表示透過閱讀這個方法。"
+          },
+          {
+            "id": "qz-level7-u4-q014",
+            "question": "Zoe is keen on ___ how animals behave.",
+            "options": [
+              "A. studying",
+              "B. study",
+              "C. studied",
+              "D. to study"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "be keen on 後接名詞或 V-ing，所以使用 studying。"
+          },
+          {
+            "id": "qz-level7-u4-q015",
+            "question": "They do not feel like ___ the outdoor show in such heavy rain.",
+            "options": [
+              "A. attending",
+              "B. attend",
+              "C. attended",
+              "D. to attend"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "feel like 後接動名詞，否定詞 do not 不會改變這個搭配的文法，因此選 attending。"
+          },
+          {
+            "id": "qz-level7-u4-q016",
+            "question": "Nick was rewarded for ___ the experiment on time.",
+            "options": [
+              "A. complete",
+              "B. completed",
+              "C. to complete",
+              "D. completing"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "for 後需要動名詞，completing the experiment 表示完成實驗這件事。"
+          },
+          {
+            "id": "qz-level7-u4-q017",
+            "question": "Yesterday, each student ___ a special task by the teacher.",
+            "options": [
+              "A. assigned",
+              "B. was assigned",
+              "C. is assigned",
+              "D. was assigning"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "by the teacher 表示學生接受指派，要用被動；Yesterday 指過去，each student 為單數，所以選 was assigned。"
+          },
+          {
+            "id": "qz-level7-u4-q018",
+            "question": "New ideas ___ by the team members every Friday.",
+            "options": [
+              "A. are created",
+              "B. created",
+              "C. is created",
+              "D. creates"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "ideas 是被創造出來的，須用被動；New ideas 為複數，every Friday 表示習慣，所以選 are created。"
+          },
+          {
+            "id": "qz-level7-u4-q019",
+            "question": "Next Monday, the workers ___ to the new safety methods for the first time.",
+            "options": [
+              "A. exposed",
+              "B. will be exposed",
+              "C. will exposing",
+              "D. have expose"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "Next Monday 指未來；workers 將接觸到新方法，使用 will be + 過去分詞的被動形式。"
+          },
+          {
+            "id": "qz-level7-u4-q020",
+            "question": "The new library ___ near the train station.",
+            "options": [
+              "A. locates",
+              "B. is locating",
+              "C. locate",
+              "D. is located"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "表達某建築物位於某處，用 be located；The new library 為單數，選 is located。"
+          },
+          {
+            "id": "qz-level7-u4-q021",
+            "question": "After helping patients last week, Ed ___ with a prize by the hospital.",
+            "options": [
+              "A. rewarded",
+              "B. was rewarding",
+              "C. is rewarding",
+              "D. was rewarded"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "Ed 是接受獎勵的人，by the hospital 指出施事者；last week 指過去，所以用 was rewarded。"
+          },
+          {
+            "id": "qz-level7-u4-q022",
+            "question": "Many tasks can ___ by this new machine.",
+            "options": [
+              "A. completed",
+              "B. be completed",
+              "C. complete",
+              "D. completing"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "by this new machine 指出完成任務的施事者，tasks 是被完成的；can 後的被動結構為 be + 過去分詞，因此選 be completed。"
+          },
+          {
+            "id": "qz-level7-u4-q023",
+            "question": "Children who are exposed to strong sunlight must ___ by an adult.",
+            "options": [
+              "A. protected",
+              "B. protecting",
+              "C. protect",
+              "D. be protected"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "children 是受到保護的人，且有 by an adult；must 後的被動形式是 be protected。"
+          },
+          {
+            "id": "qz-level7-u4-q024",
+            "question": "These two items ___ to our group yesterday.",
+            "options": [
+              "A. were assigned",
+              "B. assigned",
+              "C. was assigned",
+              "D. are assigning"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "items 接受分配，須用被動；These two items 為複數，yesterday 指過去，所以用 were assigned。"
+          },
+          {
+            "id": "qz-level7-u4-q025",
+            "question": "The task has already ___ by our team.",
+            "options": [
+              "A. completed",
+              "B. completing",
+              "C. be completed",
+              "D. been completed"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "has already 提示現在完成式，by our team 提示被動；完整結構為 has been completed。"
+          },
+          {
+            "id": "qz-level7-u4-q026",
+            "question": "An investigation will ___ by the police tomorrow.",
+            "options": [
+              "A. carried out",
+              "B. be carried out",
+              "C. carrying out",
+              "D. carry out"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "investigation 是被執行的，will 後要接 be + 過去分詞，所以用 be carried out。"
+          },
+          {
+            "id": "qz-level7-u4-q027",
+            "question": "Because it ___ heavily last night, the performance was canceled.",
+            "options": [
+              "A. rain",
+              "B. rains",
+              "C. rained",
+              "D. raining"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "because 後接完整子句，需要有限動詞；last night 指過去，所以選 rained。"
+          },
+          {
+            "id": "qz-level7-u4-q028",
+            "question": "___ the road was closed, we could not carry out the task.",
+            "options": [
+              "A. Because",
+              "B. Because of",
+              "C. Due to",
+              "D. Owing to"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "空格後是 the road was closed 這個完整子句，因此用連接詞 Because；其餘三項後接名詞或動名詞。"
+          },
+          {
+            "id": "qz-level7-u4-q029",
+            "question": "The outdoor performance was stopped ___ heavy rain.",
+            "options": [
+              "A. because",
+              "B. although",
+              "C. when",
+              "D. due to"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "heavy rain 是名詞片語，因此選可接名詞的 due to；because、although、when 後需要子句。"
+          },
+          {
+            "id": "qz-level7-u4-q030",
+            "question": "Mia stayed home because ___.",
+            "options": [
+              "A. her illness",
+              "B. she was ill",
+              "C. being ill",
+              "D. the illness"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "because 是連接詞，後面要有主詞和動詞；只有 she was ill 是完整子句。"
+          },
+          {
+            "id": "qz-level7-u4-q031",
+            "question": "Due to ___, several players missed the game.",
+            "options": [
+              "A. they were ill",
+              "B. they got ill",
+              "C. a serious disease",
+              "D. they caught a disease"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "due to 後接名詞片語，a serious disease 符合；其餘選項都有主詞和動詞，是子句。"
+          },
+          {
+            "id": "qz-level7-u4-q032",
+            "question": "Because of ___, the team could not perform on stage.",
+            "options": [
+              "A. it stormed",
+              "B. the storm",
+              "C. it was stormy",
+              "D. there was a storm"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "because of 後接名詞片語；the storm 是名詞片語，另外三項都是完整子句。"
+          },
+          {
+            "id": "qz-level7-u4-q033",
+            "question": "Because the patient ___, the doctor kept him in the hospital.",
+            "options": [
+              "A. was infect",
+              "B. infecting",
+              "C. infection",
+              "D. was infected"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "because 後要有完整子句；the patient 後用 was infected 作述語，表示病人遭感染。"
+          },
+          {
+            "id": "qz-level7-u4-q034",
+            "question": "Due to ___, we canceled the outdoor performance.",
+            "options": [
+              "A. it rained heavily",
+              "B. the rain was heavy",
+              "C. the heavy rain",
+              "D. it was raining"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "due to 後接名詞片語，所以選 the heavy rain；其他選項都有自己的主詞和動詞。"
+          },
+          {
+            "id": "qz-level7-u4-q035",
+            "question": "Good time management is of great ___.",
+            "options": [
+              "A. important",
+              "B. importantly",
+              "C. importance",
+              "D. more important"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "of great 後需要名詞，importance 是名詞；of great importance 表示非常重要。"
+          },
+          {
+            "id": "qz-level7-u4-q036",
+            "question": "This new report about disease is of great ___ to doctors.",
+            "options": [
+              "A. value",
+              "B. valuable",
+              "C. valuably",
+              "D. more valuable"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "of great + 抽象名詞可以作補語，value 是名詞；valuable 是形容詞。"
+          },
+          {
+            "id": "qz-level7-u4-q037",
+            "question": "This ability is of great ___ in an emergency.",
+            "options": [
+              "A. use",
+              "B. useful",
+              "C. usefully",
+              "D. more useful"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "of great 後需要抽象名詞，use 在這裡是名詞，of great use 表示非常有用。"
+          },
+          {
+            "id": "qz-level7-u4-q038",
+            "question": "The results of this study are of great ___.",
+            "options": [
+              "A. interesting",
+              "B. interest",
+              "C. interested",
+              "D. interestingly"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "of great 後接名詞 interest；interesting、interested 是形容詞，interestingly 是副詞。"
+          },
+          {
+            "id": "qz-level7-u4-q039",
+            "question": "The lost item turned out ___ a key.",
+            "options": [
+              "A. being",
+              "B. been",
+              "C. to be",
+              "D. be"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "turned out to be 用來說明最後發現的身分或性質；這裡要用不定詞 to be。"
+          },
+          {
+            "id": "qz-level7-u4-q040",
+            "question": "The boy turned out ___ the ability to detect faint sounds.",
+            "options": [
+              "A. having",
+              "B. had",
+              "C. have",
+              "D. to have"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "S + turned out to V 表示結果發現某人如何；to 後接原形 have。"
+          },
+          {
+            "id": "qz-level7-u4-q041",
+            "question": "It turned out ___ the man was a doctor.",
+            "options": [
+              "A. what",
+              "B. who",
+              "C. that",
+              "D. which"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "It turned out that + 完整子句表示結果發現……；the man was a doctor 已完整，使用 that 引導。"
+          },
+          {
+            "id": "qz-level7-u4-q042",
+            "question": "The plan turned out ___ more time than we expected.",
+            "options": [
+              "A. needing",
+              "B. to need",
+              "C. needed",
+              "D. needs"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "turned out 後可接 to + 原形動詞，所以選 to need，表示結果發現需要更多時間。"
+          },
+          {
+            "id": "qz-level7-u4-q043",
+            "question": "The winner turned out ___ my classmate.",
+            "options": [
+              "A. to be",
+              "B. being",
+              "C. been",
+              "D. be"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "要說結果發現得獎者是我的同學，使用 turned out to be + 名詞。"
+          },
+          {
+            "id": "qz-level7-u4-q044",
+            "question": "It turned out that the missing items ___ in a box.",
+            "options": [
+              "A. was",
+              "B. is",
+              "C. were",
+              "D. be"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "that 子句仍須有完整述語；the missing items 是複數，且是在敘述過去發現的結果，所以用 were。"
+          },
+          {
+            "id": "qz-level7-u4-q045",
+            "question": "The task turned out ___ harder than we expected.",
+            "options": [
+              "A. to be",
+              "B. being",
+              "C. been",
+              "D. be"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "turned out to be + 形容詞表示結果發現具有某種性質，這裡選 to be。"
+          },
+          {
+            "id": "qz-level7-u4-q046",
+            "question": "It turned out that both children ___ infected.",
+            "options": [
+              "A. were",
+              "B. was",
+              "C. is",
+              "D. be"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "both children 是複數；子句要用過去式 be 動詞 were，與 infected 構成完整述語。"
+          },
+          {
+            "id": "qz-level7-u4-q047",
+            "question": "Nobody knew the reason ___ the performance was stopped.",
+            "options": [
+              "A. who",
+              "B. where",
+              "C. which",
+              "D. why"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "先行詞是 the reason，後面的子句說明原因，並未缺主詞或受詞，所以用關係副詞 why。"
+          },
+          {
+            "id": "qz-level7-u4-q048",
+            "question": "Can you explain the reason ___ Nina feels so sensitive about this subject?",
+            "options": [
+              "A. who",
+              "B. why",
+              "C. whose",
+              "D. where"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "the reason 後面的子句解釋原因，使用 why；where 指地點，who、whose 指人或所有關係。"
+          },
+          {
+            "id": "qz-level7-u4-q049",
+            "question": "The reason why she missed the performance ___ still unknown.",
+            "options": [
+              "A. is",
+              "B. are",
+              "C. be",
+              "D. being"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "主詞是單數 The reason；why 子句只是修飾 reason，因此主要動詞用 is。"
+          },
+          {
+            "id": "qz-level7-u4-q050",
+            "question": "There are two reasons why the scientist ___ these items carefully every day.",
+            "options": [
+              "A. check",
+              "B. checks",
+              "C. checked",
+              "D. checking"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "why 子句中 the scientist 是第三人稱單數，every day 表示習慣性動作，所以選 checks。"
+          }
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          {
+            "id": "qz-level7-u4-sv001",
+            "vocab_id": "qz-level7-u4-v001",
+            "sentence": "Kelly is very sensitive to flavors.",
+            "sentence_chinese": "Kelly 對味道非常敏感。"
+          },
+          {
+            "id": "qz-level7-u4-sv002",
+            "vocab_id": "qz-level7-u4-v002",
+            "sentence": "The owl has such a keen sense of hearing that it can hunt animals in the dark.",
+            "sentence_chinese": "貓頭鷹的聽覺非常敏銳，因此能在黑暗中獵捕動物。"
+          },
+          {
+            "id": "qz-level7-u4-sv003",
+            "vocab_id": "qz-level7-u4-v003",
+            "sentence": "For most people, it is not easy to detect a small change in temperature.",
+            "sentence_chinese": "對大多數人來說，察覺溫度的微小變化並不容易。"
+          },
+          {
+            "id": "qz-level7-u4-sv004",
+            "vocab_id": "qz-level7-u4-v004",
+            "sentence": "More than half of the items in the clothing store were on sale for one day only.",
+            "sentence_chinese": "那間服飾店有超過一半的商品特價，僅限一天。"
+          },
+          {
+            "id": "qz-level7-u4-sv005",
+            "vocab_id": "qz-level7-u4-v005",
+            "sentence": "Albert respects those who have accomplished something great in their lives.",
+            "sentence_chinese": "Albert 敬重那些在人生中成就大事的人。"
+          },
+          {
+            "id": "qz-level7-u4-sv006",
+            "vocab_id": "qz-level7-u4-v006",
+            "sentence": "Washing your hands often is a good way to stop the spread of disease.",
+            "sentence_chinese": "經常洗手是防止疾病傳播的好方法。"
+          },
+          {
+            "id": "qz-level7-u4-sv007",
+            "vocab_id": "qz-level7-u4-v007",
+            "sentence": "The doctor treated an infected patient.",
+            "sentence_chinese": "醫生治療了一位遭感染的病人。"
+          },
+          {
+            "id": "qz-level7-u4-sv008",
+            "vocab_id": "qz-level7-u4-v008",
+            "sentence": "Al's school is located near the train station.",
+            "sentence_chinese": "Al 的學校位於火車站附近。"
+          },
+          {
+            "id": "qz-level7-u4-sv009",
+            "vocab_id": "qz-level7-u4-v009",
+            "sentence": "Ed was rewarded for saving a dog.",
+            "sentence_chinese": "Ed 因為救了一隻狗而獲得獎勵。"
+          },
+          {
+            "id": "qz-level7-u4-sv010",
+            "vocab_id": "qz-level7-u4-v010",
+            "sentence": "She has the ability to solve this problem.",
+            "sentence_chinese": "她有能力解決這個問題。"
+          },
+          {
+            "id": "qz-level7-u4-sv011",
+            "vocab_id": "qz-level7-u4-v011",
+            "sentence": "The teacher predicted that our team would win.",
+            "sentence_chinese": "老師預測我們隊會獲勝。"
+          },
+          {
+            "id": "qz-level7-u4-sv012",
+            "vocab_id": "qz-level7-u4-v012",
+            "sentence": "Kyle managed to lose twenty pounds.",
+            "sentence_chinese": "Kyle 成功減掉了二十磅。"
+          },
+          {
+            "id": "qz-level7-u4-sv013",
+            "vocab_id": "qz-level7-u4-v013",
+            "sentence": "The students created a new game.",
+            "sentence_chinese": "學生們創造了一個新遊戲。"
+          },
+          {
+            "id": "qz-level7-u4-sv014",
+            "vocab_id": "qz-level7-u4-v014",
+            "sentence": "By reading these articles, students will be exposed to different opinions about the topic.",
+            "sentence_chinese": "透過閱讀這些文章，學生將接觸到關於這個主題的不同意見。"
+          },
+          {
+            "id": "qz-level7-u4-sv015",
+            "vocab_id": "qz-level7-u4-v015",
+            "sentence": "Brad performed a song as a creative way to ask Jennifer to marry him.",
+            "sentence_chinese": "Brad 演唱了一首歌，以創意的方式向 Jennifer 求婚。"
+          },
+          {
+            "id": "qz-level7-u4-sv016",
+            "vocab_id": "qz-level7-u4-v016",
+            "sentence": "Animal behavior can tell us a lot about what a creature is thinking about or wants.",
+            "sentence_chinese": "動物的行為能讓我們了解牠正在想什麼或想要什麼。"
+          },
+          {
+            "id": "qz-level7-u4-sv017",
+            "vocab_id": "qz-level7-u4-v017",
+            "sentence": "The little beeps that your phone makes help you stay alert to new emails, messages, and posts.",
+            "sentence_chinese": "手機發出的短促提示聲，能幫助你留意新的電子郵件、訊息和貼文。"
+          },
+          {
+            "id": "qz-level7-u4-sv018",
+            "vocab_id": "qz-level7-u4-v018",
+            "sentence": "In this English literature course, we will study the complete works of Shakespeare.",
+            "sentence_chinese": "在這門英國文學課程中，我們將研讀莎士比亞的作品全集。"
+          },
+          {
+            "id": "qz-level7-u4-sv019",
+            "vocab_id": "qz-level7-u4-v019",
+            "sentence": "Mya was assigned to clean the blackboard.",
+            "sentence_chinese": "Mya 被指派去擦黑板。"
+          },
+          {
+            "id": "qz-level7-u4-sv020",
+            "vocab_id": "qz-level7-u4-v020",
+            "sentence": "Can you be more specific about what you need?",
+            "sentence_chinese": "你能更明確地說明你的需求嗎？"
+          }
+        ],
+        "phrases": [
+          {
+            "id": "qz-level7-u4-sp001",
+            "phrase_id": "qz-level7-u4-p001",
+            "sentence": "Due to May's carelessness, the project had to be stopped.",
+            "sentence_chinese": "因為 May 的疏忽，這項計畫必須中止。"
+          },
+          {
+            "id": "qz-level7-u4-sp002",
+            "phrase_id": "qz-level7-u4-p002",
+            "sentence": "All of a sudden, it began to rain.",
+            "sentence_chinese": "突然間，下起雨來了。"
+          },
+          {
+            "id": "qz-level7-u4-sp003",
+            "phrase_id": "qz-level7-u4-p003",
+            "sentence": "Despite all the difficulties, everything turned out well.",
+            "sentence_chinese": "儘管遇到種種困難，結果一切順利。"
+          },
+          {
+            "id": "qz-level7-u4-sp004",
+            "phrase_id": "qz-level7-u4-p004",
+            "sentence": "I came across an old photo while cleaning my room.",
+            "sentence_chinese": "我打掃房間時，偶然發現了一張舊照片。"
+          },
+          {
+            "id": "qz-level7-u4-sp005",
+            "phrase_id": "qz-level7-u4-p005",
+            "sentence": "The police carried out an investigation.",
+            "sentence_chinese": "警方展開了調查。"
+          }
+        ],
+        "grammar": [
+          {
+            "id": "qz-level7-u4-sg001",
+            "sentence": "We managed to locate all the missing items.",
+            "sentence_chinese": "我們設法找到了所有遺失的物品。"
+          },
+          {
+            "id": "qz-level7-u4-sg002",
+            "sentence": "Ed is keen on studying animal behavior.",
+            "sentence_chinese": "Ed 熱衷於研究動物行為。"
+          },
+          {
+            "id": "qz-level7-u4-sg003",
+            "sentence": "The students were assigned to clean the room.",
+            "sentence_chinese": "學生們被指派去打掃房間。"
+          },
+          {
+            "id": "qz-level7-u4-sg004",
+            "sentence": "The performance was canceled because it rained heavily.",
+            "sentence_chinese": "因為下大雨，表演取消了。"
+          },
+          {
+            "id": "qz-level7-u4-sg005",
+            "sentence": "Good time management is of great importance.",
+            "sentence_chinese": "良好的時間管理非常重要。"
+          },
+          {
+            "id": "qz-level7-u4-sg006",
+            "sentence": "The missing item turned out to be a key.",
+            "sentence_chinese": "那件遺失的物品結果是一把鑰匙。"
+          },
+          {
+            "id": "qz-level7-u4-sg007",
+            "sentence": "Nobody knew the reason why the performance was canceled.",
+            "sentence_chinese": "沒有人知道表演取消的原因。"
+          },
+          {
+            "id": "qz-level7-u4-sg008",
+            "sentence": "The boy has the ability to detect sounds.",
+            "sentence_chinese": "這個男孩有能力偵測聲音。"
+          },
+          {
+            "id": "qz-level7-u4-sg009",
+            "sentence": "I feel like creating a new game.",
+            "sentence_chinese": "我想創造一個新遊戲。"
+          },
+          {
+            "id": "qz-level7-u4-sg010",
+            "sentence": "These patients were exposed to dirty water.",
+            "sentence_chinese": "這些病人曾接觸髒水。"
+          },
+          {
+            "id": "qz-level7-u4-sg011",
+            "sentence": "Because of the rain, we stayed at home.",
+            "sentence_chinese": "因為這場雨，我們待在家裡。"
+          },
+          {
+            "id": "qz-level7-u4-sg012",
+            "sentence": "This report is of great value to doctors.",
+            "sentence_chinese": "這份報告對醫生很有價值。"
+          },
+          {
+            "id": "qz-level7-u4-sg013",
+            "sentence": "The man turned out to be our new manager.",
+            "sentence_chinese": "那個男人結果是我們的新經理。"
+          },
+          {
+            "id": "qz-level7-u4-sg014",
+            "sentence": "Tell me the reason why you chose this item.",
+            "sentence_chinese": "告訴我你選擇這件物品的原因。"
+          },
+          {
+            "id": "qz-level7-u4-sg015",
+            "sentence": "Mia is keen to perform at the show.",
+            "sentence_chinese": "Mia 渴望在這場表演中演出。"
+          },
+          {
+            "id": "qz-level7-u4-sg016",
+            "sentence": "Sam was rewarded for helping an infected child.",
+            "sentence_chinese": "Sam 因為幫助一名遭感染的孩子而獲獎。"
+          },
+          {
+            "id": "qz-level7-u4-sg017",
+            "sentence": "The man was infected with a serious disease.",
+            "sentence_chinese": "這個男人感染了一種嚴重的疾病。"
+          },
+          {
+            "id": "qz-level7-u4-sg018",
+            "sentence": "Due to illness, he missed the performance yesterday.",
+            "sentence_chinese": "因為生病，他錯過了昨天的表演。"
+          },
+          {
+            "id": "qz-level7-u4-sg019",
+            "sentence": "The new study is of interest to scientists.",
+            "sentence_chinese": "這項新研究令科學家感興趣。"
+          },
+          {
+            "id": "qz-level7-u4-sg020",
+            "sentence": "It turned out that the patient was infected.",
+            "sentence_chinese": "結果發現那位病人遭到了感染。"
+          },
+          {
+            "id": "qz-level7-u4-sg021",
+            "sentence": "The reason why he left is still unknown.",
+            "sentence_chinese": "他離開的原因仍然不明。"
+          },
+          {
+            "id": "qz-level7-u4-sg022",
+            "sentence": "They managed to complete the task before dinner.",
+            "sentence_chinese": "他們設法在晚餐前完成了任務。"
+          },
+          {
+            "id": "qz-level7-u4-sg023",
+            "sentence": "She is keen on reading about this disease.",
+            "sentence_chinese": "她熱衷於閱讀關於這種疾病的資料。"
+          },
+          {
+            "id": "qz-level7-u4-sg024",
+            "sentence": "Each item must be checked before the show.",
+            "sentence_chinese": "每件物品都必須在表演前檢查。"
+          },
+          {
+            "id": "qz-level7-u4-sg025",
+            "sentence": "We left early because the task was complete.",
+            "sentence_chinese": "因為任務已完成，我們提早離開。"
+          },
+          {
+            "id": "qz-level7-u4-sg026",
+            "sentence": "This ability is of great use at work.",
+            "sentence_chinese": "這項能力在工作上很有用。"
+          },
+          {
+            "id": "qz-level7-u4-sg027",
+            "sentence": "The task turned out to be quite easy.",
+            "sentence_chinese": "那項任務結果相當容易。"
+          },
+          {
+            "id": "qz-level7-u4-sg028",
+            "sentence": "The task has already been completed by our team.",
+            "sentence_chinese": "這項任務已由我們隊完成。"
+          },
+          {
+            "id": "qz-level7-u4-sg029",
+            "sentence": "Everything turned out well after we changed the plan.",
+            "sentence_chinese": "我們改變計畫後，結果一切順利。"
+          },
+          {
+            "id": "qz-level7-u4-sg030",
+            "sentence": "The missing dog was located near the station.",
+            "sentence_chinese": "那隻走失的狗在車站附近被找到了。"
+          }
+        ]
+      },
+      "cloze_quiz": [
+        {
+          "id": "qz-level7-u4-cq001",
+          "vocab_id": "qz-level7-u4-v001",
+          "question": "Even a tiny amount of pepper makes Mia's mouth hurt. She is very ___ to spicy food.",
+          "options": [
+            "complete",
+            "sensitive",
+            "infected",
+            "specific"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "a tiny amount of pepper 就讓嘴巴痛，且句型為 sensitive to，表示對辣食敏感。specific 是特定或明確的，不能表示對辣食的敏感反應。"
+        },
+        {
+          "id": "qz-level7-u4-cq002",
+          "vocab_id": "qz-level7-u4-v002",
+          "question": "Leo is ___ on learning about animals; he reads animal books eagerly every day.",
+          "options": [
+            "infected",
+            "complete",
+            "specific",
+            "keen"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "eagerly every day 表示積極熱衷，be keen on 表示熱衷於。infected 表示遭感染，不能用 infected on learning 描述熱衷學習。"
+        },
+        {
+          "id": "qz-level7-u4-cq003",
+          "vocab_id": "qz-level7-u4-v003",
+          "question": "A smoke alarm uses a sensor to ___ smoke in the air and then sounds a warning.",
+          "options": [
+            "detect",
+            "reward",
+            "assign",
+            "perform"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "smoke alarm、sensor 和 sounds a warning 說明感應器先偵測煙霧，再發出警報，所以用 detect。perform 是執行或表演，不能表示感應器偵測煙霧。"
+        },
+        {
+          "id": "qz-level7-u4-cq004",
+          "vocab_id": "qz-level7-u4-v004",
+          "question": "The shopping list has just one ___ on it: a bottle of milk.",
+          "options": [
+            "disease",
+            "behavior",
+            "item",
+            "ability"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "清單上列的是 a bottle of milk 這件物品，因此用 item。ability 是能力，不能指清單上的一瓶牛奶。"
+        },
+        {
+          "id": "qz-level7-u4-cq005",
+          "vocab_id": "qz-level7-u4-v005",
+          "question": "Our final goal is to finish building the bridge. With one more day of work, we can ___ this goal.",
+          "options": [
+            "expose",
+            "locate",
+            "infect",
+            "accomplish"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "finish building 和 one more day of work 說明工作即將完成、目標即將達成，所以用 accomplish。locate 是找到位置，不是達成已明確說出的目標。"
+        },
+        {
+          "id": "qz-level7-u4-cq006",
+          "vocab_id": "qz-level7-u4-v006",
+          "question": "The flu is a ___ caused by a virus, and it can make people cough and have a fever.",
+          "options": [
+            "reward",
+            "ability",
+            "disease",
+            "performance"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "virus、cough 和 fever 都是疾病相關線索，所以用 disease。performance 是表演或表現，不能表示病毒引起的疾病。"
+        },
+        {
+          "id": "qz-level7-u4-cq007",
+          "vocab_id": "qz-level7-u4-v007",
+          "question": "The wound contains harmful bacteria and needs medical treatment because it has become ___.",
+          "options": [
+            "infected",
+            "keen",
+            "alert",
+            "specific"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "傷口有 harmful bacteria，並需要醫療處理，說明傷口已遭感染，所以用 infected。alert 是警覺的，不能形容傷口因細菌而需要治療。"
+        },
+        {
+          "id": "qz-level7-u4-cq008",
+          "vocab_id": "qz-level7-u4-v008",
+          "question": "The rescue team's only task is to find where the lost hikers are. They use the hikers' phone signal to ___ them.",
+          "options": [
+            "reward",
+            "locate",
+            "create",
+            "perform"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "only task is to find where 明確說要找出登山客的位置，所以用 locate。reward 是獎勵，無法完成題幹指定的尋人任務。"
+        },
+        {
+          "id": "qz-level7-u4-cq009",
+          "vocab_id": "qz-level7-u4-v009",
+          "question": "The town offered a $500 ___ to anyone who returned the missing dog safely.",
+          "options": [
+            "disease",
+            "reward",
+            "ability",
+            "behavior"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "$500 和 returned the missing dog safely 表示給找回狗的人五百元報酬，所以用 reward。ability 是能力，不能表示提供給尋獲者的金錢報酬。"
+        },
+        {
+          "id": "qz-level7-u4-cq010",
+          "vocab_id": "qz-level7-u4-v010",
+          "question": "This bird has the ___ to copy human speech; it can clearly say several words.",
+          "options": [
+            "ability",
+            "disease",
+            "item",
+            "reward"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "can clearly say several words 證明鳥有模仿人聲的能力，所以用 ability。reward 是因行為得到的獎勵，不能表示鳥會說話這種本領。"
+        },
+        {
+          "id": "qz-level7-u4-cq011",
+          "vocab_id": "qz-level7-u4-v011",
+          "question": "Before tomorrow's storm arrives, weather experts study the clouds to ___ when it will begin.",
+          "options": [
+            "reward",
+            "perform",
+            "predict",
+            "expose"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "Before tomorrow's storm 和 when it will begin 指向尚未發生的事情，需要預測，所以用 predict。expose 是使接觸或暴露，不能表示推估暴風雨開始的時間。"
+        },
+        {
+          "id": "qz-level7-u4-cq012",
+          "vocab_id": "qz-level7-u4-v012",
+          "question": "The twins have only $100 for the whole week, so they must ___ their money carefully to make it last.",
+          "options": [
+            "infect",
+            "detect",
+            "locate",
+            "manage"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "only $100、whole week 和 make it last 說明要妥善管理預算，所以用 manage。locate 只是找出位置，不能讓這筆錢足夠使用一週。"
+        },
+        {
+          "id": "qz-level7-u4-cq013",
+          "vocab_id": "qz-level7-u4-v013",
+          "question": "This page is blank. Use your imagination to ___ a brand-new character that has never existed before.",
+          "options": [
+            "locate",
+            "create",
+            "detect",
+            "infect"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "blank、imagination 和 never existed before 說明要從無到有創造角色，所以用 create。locate 和 detect 都是找到或察覺既有事物。"
+        },
+        {
+          "id": "qz-level7-u4-cq014",
+          "vocab_id": "qz-level7-u4-v014",
+          "question": "Please close the curtain so sunlight cannot reach the old painting. Leaving it open would ___ the painting to direct sunlight.",
+          "options": [
+            "expose",
+            "assign",
+            "reward",
+            "perform"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "Leaving it open 會使陽光照到畫作，expose the painting to sunlight 表示使畫作暴露於日光。assign 是指派，不能表示讓畫作受到日照。"
+        },
+        {
+          "id": "qz-level7-u4-cq015",
+          "vocab_id": "qz-level7-u4-v015",
+          "question": "The band will ___ three songs on stage for the audience tonight.",
+          "options": [
+            "infect",
+            "locate",
+            "perform",
+            "assign"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "band、three songs、on stage 和 audience 明確構成演出情境，所以用 perform。assign 是分配任務，不能用 assign songs on stage for the audience 表示樂團演唱。"
+        },
+        {
+          "id": "qz-level7-u4-cq016",
+          "vocab_id": "qz-level7-u4-v016",
+          "question": "A person's actions, such as sharing with others or shouting in class, are called their ___.",
+          "options": [
+            "ability",
+            "disease",
+            "reward",
+            "behavior"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "actions 加上分享、上課叫喊等具體行動，說明問的是行為，所以用 behavior。ability 指能做什麼的能力，並不是已做出的行動本身。"
+        },
+        {
+          "id": "qz-level7-u4-cq017",
+          "vocab_id": "qz-level7-u4-v017",
+          "question": "The weather office sent a storm ___ to warn people that strong winds were coming.",
+          "options": [
+            "ability",
+            "alert",
+            "behavior",
+            "reward"
+          ],
+          "answer": "B",
+          "answer_index": 1,
+          "hint": "to warn people 和 strong winds were coming 說明氣象單位發布警示，所以用 alert。reward 是獎勵，不能表示天氣危險通知。"
+        },
+        {
+          "id": "qz-level7-u4-cq018",
+          "vocab_id": "qz-level7-u4-v018",
+          "question": "Only nine of the ten questions are answered, so the homework is not yet ___.",
+          "options": [
+            "complete",
+            "sensitive",
+            "infected",
+            "keen"
+          ],
+          "answer": "A",
+          "answer_index": 0,
+          "hint": "十題只答完九題，仍有未完成部分，所以用 complete。sensitive 是敏感的，不能表示作業是否完成。"
+        },
+        {
+          "id": "qz-level7-u4-cq019",
+          "vocab_id": "qz-level7-u4-v019",
+          "question": "The teacher has ten different tasks ready. She will ___ one task to each student, so everyone knows which job to do.",
+          "options": [
+            "detect",
+            "infect",
+            "assign",
+            "perform"
+          ],
+          "answer": "C",
+          "answer_index": 2,
+          "hint": "one task to each student 與 which job to do 說明老師要分派任務，所以用 assign。perform 表示執行任務，不能表示把任務分配給每位學生。"
+        },
+        {
+          "id": "qz-level7-u4-cq020",
+          "vocab_id": "qz-level7-u4-v020",
+          "question": "Do not just tell me \"somewhere in Kaohsiung.\" Please give me a ___ address, including the street name and house number.",
+          "options": [
+            "keen",
+            "infected",
+            "alert",
+            "specific"
+          ],
+          "answer": "D",
+          "answer_index": 3,
+          "hint": "street name 和 house number 要求明確地址，因此選 specific。keen 是敏銳或熱衷的，不能形容地址的明確程度。"
+        }
+      ]
+    }
+  }
+}
