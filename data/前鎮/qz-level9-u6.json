@@ -340,6 +340,158 @@
             "sentence": "As always, Ben arrived at school early.",
             "sentence_chinese": "如往常一樣，Ben 很早就到學校了。"
           }
+        ],
+        "grammar": [
+          {
+            "id": "qz-level9-u6-sg001",
+            "sentence": "We have the freedom to choose our own future.",
+            "sentence_chinese": "我們有選擇自己未來的自由。"
+          },
+          {
+            "id": "qz-level9-u6-sg002",
+            "sentence": "The fence stopped tourists from touching the ancient statue.",
+            "sentence_chinese": "圍欄阻止遊客觸摸那座古老的雕像。"
+          },
+          {
+            "id": "qz-level9-u6-sg003",
+            "sentence": "The stone monument was built over fifty years ago.",
+            "sentence_chinese": "這座石造紀念碑是在五十多年前建造的。"
+          },
+          {
+            "id": "qz-level9-u6-sg004",
+            "sentence": "Even though it rained, the celebration still went on.",
+            "sentence_chinese": "儘管下雨，慶祝活動仍繼續進行。"
+          },
+          {
+            "id": "qz-level9-u6-sg005",
+            "sentence": "This brush is used to remove old paint.",
+            "sentence_chinese": "這支刷子是用來去除舊油漆的。"
+          },
+          {
+            "id": "qz-level9-u6-sg006",
+            "sentence": "They held a party in celebration of gaining independence.",
+            "sentence_chinese": "他們開派對慶祝獲得獨立。"
+          },
+          {
+            "id": "qz-level9-u6-sg007",
+            "sentence": "The old statue has been moved to the museum.",
+            "sentence_chinese": "那座舊雕像已經被移到博物館了。"
+          },
+          {
+            "id": "qz-level9-u6-sg008",
+            "sentence": "Even if it rains tomorrow, we will visit the museum.",
+            "sentence_chinese": "即使明天下雨，我們仍會參觀博物館。"
+          },
+          {
+            "id": "qz-level9-u6-sg009",
+            "sentence": "Amy was chosen to represent our class this year.",
+            "sentence_chinese": "Amy 今年被選出來代表我們班。"
+          },
+          {
+            "id": "qz-level9-u6-sg010",
+            "sentence": "The guard stopped us from walking on the grass.",
+            "sentence_chinese": "警衛阻止我們踩草地。"
+          },
+          {
+            "id": "qz-level9-u6-sg011",
+            "sentence": "Even though the museum was crowded, we enjoyed our visit.",
+            "sentence_chinese": "儘管博物館很擁擠，我們仍享受這次參觀。"
+          },
+          {
+            "id": "qz-level9-u6-sg012",
+            "sentence": "It is important to treat every worker fairly.",
+            "sentence_chinese": "公平對待每一位工人很重要。"
+          },
+          {
+            "id": "qz-level9-u6-sg013",
+            "sentence": "The tourists thanked the guide for showing them the monument.",
+            "sentence_chinese": "遊客們感謝導遊帶他們看紀念碑。"
+          },
+          {
+            "id": "qz-level9-u6-sg014",
+            "sentence": "The ancient wall must be repaired before next summer.",
+            "sentence_chinese": "這道古牆必須在明年夏天之前修好。"
+          },
+          {
+            "id": "qz-level9-u6-sg015",
+            "sentence": "Even if we are tired, we will finish the tour.",
+            "sentence_chinese": "即使我們很累，我們仍會完成這趟遊覽。"
+          },
+          {
+            "id": "qz-level9-u6-sg016",
+            "sentence": "We paid a visit to the museum to learn more.",
+            "sentence_chinese": "我們參觀博物館，以了解更多事情。"
+          },
+          {
+            "id": "qz-level9-u6-sg017",
+            "sentence": "After visiting the landmark, we went to a restaurant.",
+            "sentence_chinese": "參觀地標後，我們去了一間餐廳。"
+          },
+          {
+            "id": "qz-level9-u6-sg018",
+            "sentence": "The tourist was treated at a small local hospital.",
+            "sentence_chinese": "那位遊客在當地一家小醫院接受治療。"
+          },
+          {
+            "id": "qz-level9-u6-sg019",
+            "sentence": "Even though he was young, he understood the problem.",
+            "sentence_chinese": "儘管他年紀小，他仍了解這個問題。"
+          },
+          {
+            "id": "qz-level9-u6-sg020",
+            "sentence": "Everyone should have the freedom to choose a job.",
+            "sentence_chinese": "每個人都應該有選擇工作的自由。"
+          },
+          {
+            "id": "qz-level9-u6-sg021",
+            "sentence": "They protected the statue by covering it with cloth.",
+            "sentence_chinese": "他們用布蓋住雕像來保護它。"
+          },
+          {
+            "id": "qz-level9-u6-sg022",
+            "sentence": "The celebration will be held in the town square.",
+            "sentence_chinese": "慶祝活動將在鎮上的廣場舉行。"
+          },
+          {
+            "id": "qz-level9-u6-sg023",
+            "sentence": "Even if the shop is closed, we can return tomorrow.",
+            "sentence_chinese": "即使商店關門了，我們也可以明天再來。"
+          },
+          {
+            "id": "qz-level9-u6-sg024",
+            "sentence": "The guide asked the tourists to stay together.",
+            "sentence_chinese": "導遊要求遊客們待在一起。"
+          },
+          {
+            "id": "qz-level9-u6-sg025",
+            "sentence": "The worker apologized for leaving tools near the statue.",
+            "sentence_chinese": "那名工人為把工具留在雕像旁而道歉。"
+          },
+          {
+            "id": "qz-level9-u6-sg026",
+            "sentence": "The heavy door should be closed firmly at night.",
+            "sentence_chinese": "晚上應該把這扇厚重的門牢牢關好。"
+          },
+          {
+            "id": "qz-level9-u6-sg027",
+            "sentence": "Even though the treatment was unfair, she remained calm.",
+            "sentence_chinese": "儘管受到不公平的待遇，她仍保持冷靜。"
+          },
+          {
+            "id": "qz-level9-u6-sg028",
+            "sentence": "The museum allows visitors to take photos without flash.",
+            "sentence_chinese": "這間博物館允許遊客不開閃光燈拍照。"
+          },
+          {
+            "id": "qz-level9-u6-sg029",
+            "sentence": "We learned about slavery by reading this history book.",
+            "sentence_chinese": "我們透過閱讀這本歷史書來了解蓄奴制。"
+          },
+          {
+            "id": "qz-level9-u6-sg030",
+            "sentence": "People around the globe were invited to the celebration.",
+            "sentence_chinese": "世界各地的人們都受邀參加慶祝活動。"
+          }
         ]
       },
       "source_pages": [
@@ -352,7 +504,790 @@
         216,
         217,
         218
-      ]
+      ],
+      "grammar": {
+        "tips": [
+          {
+            "label": "to 後用原形",
+            "text": "freedom to V 表示做某事的自由；表目的的 to V 也用原形動詞。"
+          },
+          {
+            "label": "介系詞後用 V-ing",
+            "text": "stop someone from V-ing、in celebration of V-ing；by、for、without 後接動作也用 V-ing。"
+          },
+          {
+            "label": "被動語態",
+            "text": "主詞接受動作時，用 be＋過去分詞；時態放在 be 或前面的助動詞上。"
+          },
+          {
+            "label": "儘管與即使",
+            "text": "even though 說明事實，even if 提出假設；兩者後面都要有完整子句。"
+          }
+        ],
+        "notes": [
+          {
+            "title": "本份文法範圍與來源",
+            "rule": "依照片可見句型整理",
+            "description": "照片提供的是 Lesson 6 單字與片語頁，未附獨立文法頁。本份教學筆記及題目以照片中的 freedom to V、stop someone from V-ing、介系詞後接動名詞、被動語態與 even though／even if 為範圍；選擇題與文法重組句均由 AI 新編。",
+            "examples": [
+              "We have the freedom to choose our future.",
+              "Even though it rained, we went out."
+            ]
+          },
+          {
+            "title": "不定詞與目的",
+            "rule": "to＋原形動詞",
+            "description": "freedom 後的 to V 說明做某事的自由。to V 也可說明動作目的，例如建造紀念碑是為了紀念某人。to 後面不加 -s、不用過去式或 V-ing。be used to V 在照片的 medicine 例句中表示「被用來做……」，與 be used to＋名詞／V-ing 表示「習慣於……」不同。",
+            "examples": [
+              "We have the freedom to choose where to live.",
+              "The monument was built to honor a great leader.",
+              "This medicine is used to treat diabetes."
+            ]
+          },
+          {
+            "title": "介系詞後接動名詞",
+            "rule": "from／of／by／for／without＋V-ing",
+            "description": "介系詞後如果接動作，動詞要變成 V-ing。stop someone from V-ing 表示阻止某人做某事；in celebration of V-ing 表示慶祝某件事；by V-ing 表示透過某種方法。before／after 後若直接接動作且沒有子句主詞，也用 V-ing。這與 before／after＋主詞＋限定動詞的完整子句不同。",
+            "examples": [
+              "The guard stopped us from touching the statue.",
+              "They had a party in celebration of winning the game.",
+              "After visiting the museum, we went home."
+            ]
+          },
+          {
+            "title": "被動語態的基本形式",
+            "rule": "主詞＋be＋過去分詞（＋by＋動作者）",
+            "description": "主詞是接受動作的人或物時，用被動語態。例如雕像被發現、紀念碑被建造、遊客被治療。現在式用 am／is／are，過去式用 was／were；動詞本身用過去分詞。常見不規則變化有 build→built、choose→chosen、find→found、see→seen、show→shown。",
+            "examples": [
+              "The ancient statue was found in the river.",
+              "Amy was chosen to represent her class.",
+              "The workers are treated fairly."
+            ]
+          },
+          {
+            "title": "帶助動詞的被動語態",
+            "rule": "will／can／must／should＋be＋過去分詞",
+            "description": "情態動詞後用原形 be，再接過去分詞。完成式被動用 has／have／had been＋過去分詞；進行式被動用 am／is／are being＋過去分詞。比較：will be held（將被舉行）、has been repaired（已被修復）、are being shown（正在被帶領參觀）。",
+            "examples": [
+              "The celebration will be held next Sunday.",
+              "The wall has been repaired twice.",
+              "The tourists are being shown around the museum."
+            ]
+          },
+          {
+            "title": "even though 與 even if",
+            "rule": "even though／even if＋主詞＋限定動詞",
+            "description": "even though 表示「儘管」，引出已發生或被視為確定的事實；even if 表示「即使」，提出假設的條件。兩者後面都要有完整子句。even if 談未來條件時通常用現在式，主要子句可用 will。even though 本身已表示讓步，一般不再用 but 連接同一組子句。",
+            "examples": [
+              "Even though it was raining, we went out.",
+              "Even if it rains tomorrow, we will go out.",
+              "Even though they are young, they understand the problem."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "id": "qz-level9-u6-q001",
+            "question": "We have the freedom to ______ our own future.",
+            "options": [
+              "A. choosing",
+              "B. chose",
+              "C. chosen",
+              "D. choose"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "to 後接原形動詞；freedom to choose 表示選擇的自由。",
+            "grammar_point": "不定詞"
+          },
+          {
+            "id": "qz-level9-u6-q002",
+            "question": "This room is used to ______ visitors about ancient life.",
+            "options": [
+              "A. teach",
+              "B. teaching",
+              "C. taught",
+              "D. teaches"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "be used to 在這裡表示「被用來」，後面接原形動詞 teach。",
+            "grammar_point": "不定詞"
+          },
+          {
+            "id": "qz-level9-u6-q003",
+            "question": "The tourist decided to ______ a photo of the statue.",
+            "options": [
+              "A. taking",
+              "B. took",
+              "C. taken",
+              "D. take"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "decided to 後面用原形動詞 take；過去時間已由 decided 表示。",
+            "grammar_point": "不定詞"
+          },
+          {
+            "id": "qz-level9-u6-q004",
+            "question": "The workers have the freedom to ______ their own leader.",
+            "options": [
+              "A. choose",
+              "B. choosing",
+              "C. chose",
+              "D. chooses"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "freedom to 後面接原形動詞，不會因主詞是 workers 而改變。",
+            "grammar_point": "不定詞"
+          },
+          {
+            "id": "qz-level9-u6-q005",
+            "question": "Amy was chosen to ______ her class in the game.",
+            "options": [
+              "A. represent",
+              "B. representing",
+              "C. represented",
+              "D. represents"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "was chosen to 後面接原形動詞 represent；不要在 to 後面再加時態變化。",
+            "grammar_point": "不定詞"
+          },
+          {
+            "id": "qz-level9-u6-q006",
+            "question": "We went to the museum to ______ the ancient statues.",
+            "options": [
+              "A. seeing",
+              "B. saw",
+              "C. see",
+              "D. seen"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "第二個 to 表示目的，後接原形動詞 see，意思是為了看古代雕像。",
+            "grammar_point": "不定詞"
+          },
+          {
+            "id": "qz-level9-u6-q007",
+            "question": "The guide showed us how to ______ the cover safely.",
+            "options": [
+              "A. removing",
+              "B. remove",
+              "C. removed",
+              "D. removes"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "how to 後接原形動詞 remove，表示如何移開覆蓋物。",
+            "grammar_point": "不定詞"
+          },
+          {
+            "id": "qz-level9-u6-q008",
+            "question": "The people have the freedom ______ where to live.",
+            "options": [
+              "A. choose",
+              "B. choosing",
+              "C. to choose",
+              "D. chose"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "freedom 後面用 to 加原形動詞說明自由的內容，所以用 to choose。",
+            "grammar_point": "不定詞"
+          },
+          {
+            "id": "qz-level9-u6-q009",
+            "question": "The monument was built to ______ a great leader.",
+            "options": [
+              "A. honor",
+              "B. honoring",
+              "C. honored",
+              "D. honors"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "to 表示建造紀念碑的目的，後接原形動詞 honor。",
+            "grammar_point": "不定詞"
+          },
+          {
+            "id": "qz-level9-u6-q010",
+            "question": "A guide offered to ______ the tourists find the landmark.",
+            "options": [
+              "A. helping",
+              "B. help",
+              "C. helped",
+              "D. helps"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "offered to 後面接原形動詞 help；空格前已有 to。",
+            "grammar_point": "不定詞"
+          },
+          {
+            "id": "qz-level9-u6-q011",
+            "question": "We paid a visit to the museum to ______ more about ancient life.",
+            "options": [
+              "A. learn",
+              "B. learning",
+              "C. learned",
+              "D. learns"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "句尾 to 表示參觀的目的，後接原形動詞 learn。",
+            "grammar_point": "不定詞"
+          },
+          {
+            "id": "qz-level9-u6-q012",
+            "question": "The guide asked the tourists to ______ together.",
+            "options": [
+              "A. staying",
+              "B. stayed",
+              "C. stay",
+              "D. stays"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "ask someone to 後接原形動詞 stay，表示要求某人待在一起。",
+            "grammar_point": "不定詞"
+          },
+          {
+            "id": "qz-level9-u6-q013",
+            "question": "The guard stopped the tourist from ______ the statue.",
+            "options": [
+              "A. touch",
+              "B. touching",
+              "C. touched",
+              "D. touches"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "stop someone from 後接動名詞 V-ing，所以 touch 要變成 touching。",
+            "grammar_point": "動名詞"
+          },
+          {
+            "id": "qz-level9-u6-q014",
+            "question": "They removed the old paint before ______ the statue.",
+            "options": [
+              "A. repair",
+              "B. repairing",
+              "C. repaired",
+              "D. repairs"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "before 在這裡後接動作，且沒有子句主詞，因此用動名詞 repairing。",
+            "grammar_point": "動名詞"
+          },
+          {
+            "id": "qz-level9-u6-q015",
+            "question": "We had a party in celebration of ______ the game.",
+            "options": [
+              "A. win",
+              "B. winning",
+              "C. won",
+              "D. wins"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "of 是介系詞，後面用動名詞；win 的動名詞要雙寫 n 再加 ing。",
+            "grammar_point": "動名詞"
+          },
+          {
+            "id": "qz-level9-u6-q016",
+            "question": "The driver prevented the children from ______ the busy road.",
+            "options": [
+              "A. crossing",
+              "B. cross",
+              "C. crossed",
+              "D. crosses"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "prevent someone from 與 stop someone from 一樣，from 後接動名詞 crossing。",
+            "grammar_point": "動名詞"
+          },
+          {
+            "id": "qz-level9-u6-q017",
+            "question": "The worker was thanked for ______ the monument.",
+            "options": [
+              "A. clean",
+              "B. cleaned",
+              "C. cleans",
+              "D. cleaning"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "for 是介系詞，後面接動名詞 cleaning，表示因清理紀念碑而受到感謝。",
+            "grammar_point": "動名詞"
+          },
+          {
+            "id": "qz-level9-u6-q018",
+            "question": "After ______ the ancient city, the tourists went home.",
+            "options": [
+              "A. visit",
+              "B. visiting",
+              "C. visited",
+              "D. visits"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "After 後沒有子句主詞，直接接動作時用動名詞 visiting。",
+            "grammar_point": "動名詞"
+          },
+          {
+            "id": "qz-level9-u6-q019",
+            "question": "We protect the statue by ______ it with a large cloth.",
+            "options": [
+              "A. covering",
+              "B. cover",
+              "C. covered",
+              "D. covers"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "by 後接動名詞，表示透過某個方法，因此用 covering。",
+            "grammar_point": "動名詞"
+          },
+          {
+            "id": "qz-level9-u6-q020",
+            "question": "Amy is proud of ______ her class at the celebration.",
+            "options": [
+              "A. represent",
+              "B. represented",
+              "C. representing",
+              "D. represents"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "of 是介系詞，後面的 represent 要變成動名詞 representing。",
+            "grammar_point": "動名詞"
+          },
+          {
+            "id": "qz-level9-u6-q021",
+            "question": "Close to forty tourists left without ______ the guide.",
+            "options": [
+              "A. tell",
+              "B. told",
+              "C. telling",
+              "D. tells"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "without 後接動名詞 telling，表示沒有告訴導遊就離開了。",
+            "grammar_point": "動名詞"
+          },
+          {
+            "id": "qz-level9-u6-q022",
+            "question": "The fence stopped visitors from ______ the old building.",
+            "options": [
+              "A. enter",
+              "B. entered",
+              "C. enters",
+              "D. entering"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "stop someone from 後面用 V-ing，所以 enter 要改為 entering。",
+            "grammar_point": "動名詞"
+          },
+          {
+            "id": "qz-level9-u6-q023",
+            "question": "They celebrated their independence by ______ a street party.",
+            "options": [
+              "A. hold",
+              "B. holding",
+              "C. held",
+              "D. holds"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "by 表示方法，後接動名詞 holding；held 是過去式或過去分詞。",
+            "grammar_point": "動名詞"
+          },
+          {
+            "id": "qz-level9-u6-q024",
+            "question": "The visitor apologized for ______ waste near the landmark.",
+            "options": [
+              "A. leave",
+              "B. left",
+              "C. leaving",
+              "D. leaves"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "for 後接動名詞 leaving，表示為留下垃圾這件事道歉。",
+            "grammar_point": "動名詞"
+          },
+          {
+            "id": "qz-level9-u6-q025",
+            "question": "The ancient statue was ______ in the river last year.",
+            "options": [
+              "A. find",
+              "B. finding",
+              "C. finds",
+              "D. found"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "statue 是被發現的物品；被動語態為 was 加過去分詞 found。",
+            "grammar_point": "被動語態"
+          },
+          {
+            "id": "qz-level9-u6-q026",
+            "question": "That monument was ______ more than fifty years ago.",
+            "options": [
+              "A. built",
+              "B. build",
+              "C. building",
+              "D. builds"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "紀念碑是被建造的，was 後接 build 的過去分詞 built。",
+            "grammar_point": "被動語態"
+          },
+          {
+            "id": "qz-level9-u6-q027",
+            "question": "Amy was ______ to represent her class at the celebration.",
+            "options": [
+              "A. choose",
+              "B. choosing",
+              "C. chosen",
+              "D. chooses"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "Amy 是被選出來的，was 後接 choose 的過去分詞 chosen。",
+            "grammar_point": "被動語態"
+          },
+          {
+            "id": "qz-level9-u6-q028",
+            "question": "The old signs were ______ from the museum yesterday.",
+            "options": [
+              "A. removed",
+              "B. remove",
+              "C. removing",
+              "D. removes"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "signs 是被移除的物品，were 後用過去分詞 removed。",
+            "grammar_point": "被動語態"
+          },
+          {
+            "id": "qz-level9-u6-q029",
+            "question": "The injured tourist was ______ by a local doctor.",
+            "options": [
+              "A. treat",
+              "B. treated",
+              "C. treating",
+              "D. treats"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "by a local doctor 指出動作執行者，遊客是被治療的人，故用 was treated。",
+            "grammar_point": "被動語態"
+          },
+          {
+            "id": "qz-level9-u6-q030",
+            "question": "The celebration will ______ in the park next Sunday.",
+            "options": [
+              "A. held",
+              "B. holding",
+              "C. to hold",
+              "D. be held"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "celebration 是被舉辦的活動，未來被動語態為 will be 加過去分詞 held。",
+            "grammar_point": "被動語態"
+          },
+          {
+            "id": "qz-level9-u6-q031",
+            "question": "The park is ______ by many tourists every summer.",
+            "options": [
+              "A. visit",
+              "B. visiting",
+              "C. visits",
+              "D. visited"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "公園是被遊客造訪的地方，is 後接過去分詞 visited。",
+            "grammar_point": "被動語態"
+          },
+          {
+            "id": "qz-level9-u6-q032",
+            "question": "The ancient wall has been ______ twice since last year.",
+            "options": [
+              "A. repaired",
+              "B. repair",
+              "C. repairing",
+              "D. repairs"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "has been 後接過去分詞 repaired，構成現在完成式的被動語態。",
+            "grammar_point": "被動語態"
+          },
+          {
+            "id": "qz-level9-u6-q033",
+            "question": "The heavy door must ______ firmly before we leave.",
+            "options": [
+              "A. closed",
+              "B. be closed",
+              "C. closing",
+              "D. to close"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "門需要被關上，情態動詞 must 後用 be 加過去分詞 closed。",
+            "grammar_point": "被動語態"
+          },
+          {
+            "id": "qz-level9-u6-q034",
+            "question": "The flag was ______ during the independence celebration.",
+            "options": [
+              "A. raise",
+              "B. raising",
+              "C. raises",
+              "D. raised"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "旗子是被升起的，was 後用過去分詞 raised。",
+            "grammar_point": "被動語態"
+          },
+          {
+            "id": "qz-level9-u6-q035",
+            "question": "The tall statue can ______ clearly from the road.",
+            "options": [
+              "A. seen",
+              "B. be seen",
+              "C. seeing",
+              "D. to see"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "雕像是被看見的，can 後面的被動語態為 be seen。",
+            "grammar_point": "被動語態"
+          },
+          {
+            "id": "qz-level9-u6-q036",
+            "question": "The workers were ______ fairly by their new boss.",
+            "options": [
+              "A. treat",
+              "B. treating",
+              "C. treats",
+              "D. treated"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "工人是受到對待的人，by their new boss 指出對待他們的人，所以用 were treated。",
+            "grammar_point": "被動語態"
+          },
+          {
+            "id": "qz-level9-u6-q037",
+            "question": "The tourists are being ______ around the museum now.",
+            "options": [
+              "A. show",
+              "B. showing",
+              "C. shows",
+              "D. shown"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "遊客正在被帶領參觀；現在進行式被動語態為 are being 加過去分詞 shown。",
+            "grammar_point": "被動語態"
+          },
+          {
+            "id": "qz-level9-u6-q038",
+            "question": "The monument had been ______ before the tourists arrived.",
+            "options": [
+              "A. completed",
+              "B. complete",
+              "C. completing",
+              "D. completes"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "had been 後用過去分詞 completed，表示在遊客到達前已被完成。",
+            "grammar_point": "被動語態"
+          },
+          {
+            "id": "qz-level9-u6-q039",
+            "question": "Even though she ______ tired after the tour yesterday, she still visited the monument.",
+            "options": [
+              "A. were",
+              "B. was",
+              "C. be",
+              "D. being"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "yesterday 指出過去時間；she 是單數主詞，子句用 was tired，不能省略限定動詞。",
+            "grammar_point": "讓步與條件子句"
+          },
+          {
+            "id": "qz-level9-u6-q040",
+            "question": "Even though the museum ______ closed yesterday, we enjoyed the nearby park.",
+            "options": [
+              "A. is",
+              "B. be",
+              "C. being",
+              "D. was"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "yesterday 與 enjoyed 都指過去，museum 是單數，子句中的 be 動詞用 was。",
+            "grammar_point": "讓步與條件子句"
+          },
+          {
+            "id": "qz-level9-u6-q041",
+            "question": "Even though it ______ raining, the celebration continued as planned.",
+            "options": [
+              "A. were",
+              "B. be",
+              "C. being",
+              "D. was"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "continued 表示過去情境；it 搭配 was，再接 raining 構成過去進行式。",
+            "grammar_point": "讓步與條件子句"
+          },
+          {
+            "id": "qz-level9-u6-q042",
+            "question": "Even if the statue ______ repaired next week, we will keep the fence around it.",
+            "options": [
+              "A. be",
+              "B. is",
+              "C. being",
+              "D. to be"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "even if 引導未來條件時，子句用現在式；單數 statue 的被動語態用 is repaired。",
+            "grammar_point": "讓步與條件子句"
+          },
+          {
+            "id": "qz-level9-u6-q043",
+            "question": "Even though he ______ little freedom when he was a child, he never lost hope.",
+            "options": [
+              "A. has",
+              "B. having",
+              "C. had",
+              "D. have"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "when he was a child 指出過去時間，主要子句也用 lost，因此空格用 have 的過去式 had。",
+            "grammar_point": "讓步與條件子句"
+          },
+          {
+            "id": "qz-level9-u6-q044",
+            "question": "Even if there ______ many tourists tomorrow, we will visit the landmark.",
+            "options": [
+              "A. are",
+              "B. is",
+              "C. be",
+              "D. being"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "even if 的未來條件子句用現在式；many tourists 是複數，there 後用 are。",
+            "grammar_point": "讓步與條件子句"
+          },
+          {
+            "id": "qz-level9-u6-q045",
+            "question": "Even though the tourists ______ late, they still stopped to take photos.",
+            "options": [
+              "A. was",
+              "B. be",
+              "C. were",
+              "D. being"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "stopped 表示過去情境；the tourists 是複數主詞，所以子句用 were late。",
+            "grammar_point": "讓步與條件子句"
+          },
+          {
+            "id": "qz-level9-u6-q046",
+            "question": "Even if Tom ______ time tomorrow, he will stay home to rest.",
+            "options": [
+              "A. have",
+              "B. having",
+              "C. has",
+              "D. to have"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "even if 的未來條件子句用現在式；Tom 是第三人稱單數，所以用 has。",
+            "grammar_point": "讓步與條件子句"
+          },
+          {
+            "id": "qz-level9-u6-q047",
+            "question": "Even though she ______ at the museum yesterday, she did not see the new statue.",
+            "options": [
+              "A. works",
+              "B. working",
+              "C. worked",
+              "D. work"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "yesterday 指出過去時間，even though 子句仍需要限定動詞，因此用 worked。",
+            "grammar_point": "讓步與條件子句"
+          },
+          {
+            "id": "qz-level9-u6-q048",
+            "question": "Even though this monument ______ ancient, it is still in good condition.",
+            "options": [
+              "A. is",
+              "B. are",
+              "C. be",
+              "D. being"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "this monument 是單數主詞；現在式用 is，再接形容詞 ancient。",
+            "grammar_point": "讓步與條件子句"
+          },
+          {
+            "id": "qz-level9-u6-q049",
+            "question": "Even if it ______ tomorrow, we will pay a visit to the museum.",
+            "options": [
+              "A. rain",
+              "B. rains",
+              "C. raining",
+              "D. to rain"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "even if 引導未來條件時用現在式；it 是第三人稱單數，所以用 rains。",
+            "grammar_point": "讓步與條件子句"
+          },
+          {
+            "id": "qz-level9-u6-q050",
+            "question": "Even though Peter and Amy ______ young, they understand why freedom matters.",
+            "options": [
+              "A. is",
+              "B. be",
+              "C. are",
+              "D. being"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "even though 後面仍要有正確的主詞與動詞搭配；Peter and Amy 是複數，現在式用 are。",
+            "grammar_point": "讓步與條件子句"
+          }
+        ]
+      }
     }
   }
 }
