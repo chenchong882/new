@@ -323,6 +323,992 @@
             "sentence": "We missed the bus and ended up walking home.",
             "sentence_chinese": "我們錯過公車，最後只好走路回家。"
           }
+        ],
+        "grammar": [
+          {
+            "id": "qz-level8-u5-sg001",
+            "sentence": "The classroom is surrounded by tall green trees.",
+            "sentence_chinese": "教室被高大的綠樹包圍。",
+            "topic": "被動語態"
+          },
+          {
+            "id": "qz-level8-u5-sg002",
+            "sentence": "The students are eager to start the recycling project.",
+            "sentence_chinese": "學生很想開始這項回收計畫。",
+            "topic": "eager＋不定詞"
+          },
+          {
+            "id": "qz-level8-u5-sg003",
+            "sentence": "We missed the bus and ended up walking home.",
+            "sentence_chinese": "我們錯過公車，最後走路回家。",
+            "topic": "end up"
+          },
+          {
+            "id": "qz-level8-u5-sg004",
+            "sentence": "It is proper for us to keep our promises.",
+            "sentence_chinese": "我們遵守承諾是適當的。",
+            "topic": "proper 與形式主詞"
+          },
+          {
+            "id": "qz-level8-u5-sg005",
+            "sentence": "It is obvious that the room is very crowded.",
+            "sentence_chinese": "很明顯，房間裡非常擁擠。",
+            "topic": "obvious 與 that 子句"
+          },
+          {
+            "id": "qz-level8-u5-sg006",
+            "sentence": "Recycling old bottles helps protect the natural environment.",
+            "sentence_chinese": "回收舊瓶子有助於保護自然環境。",
+            "topic": "動名詞作主詞"
+          },
+          {
+            "id": "qz-level8-u5-sg007",
+            "sentence": "Nick saved the bottles in order to recycle them.",
+            "sentence_chinese": "Nick 留下這些瓶子，以便回收。",
+            "topic": "in order to 表達目的"
+          },
+          {
+            "id": "qz-level8-u5-sg008",
+            "sentence": "This plastic bottle was made properly at the factory.",
+            "sentence_chinese": "這個塑膠瓶在工廠被妥善製造。",
+            "topic": "被動語態"
+          },
+          {
+            "id": "qz-level8-u5-sg009",
+            "sentence": "Mia was eager to pack up her things yesterday.",
+            "sentence_chinese": "Mia 昨天很想收拾她的物品。",
+            "topic": "eager＋不定詞"
+          },
+          {
+            "id": "qz-level8-u5-sg010",
+            "sentence": "The workers ended up using a larger box.",
+            "sentence_chinese": "工人最後用了更大的箱子。",
+            "topic": "end up"
+          },
+          {
+            "id": "qz-level8-u5-sg011",
+            "sentence": "It is not proper to harm these small animals.",
+            "sentence_chinese": "傷害這些小動物是不適當的。",
+            "topic": "proper 與形式主詞"
+          },
+          {
+            "id": "qz-level8-u5-sg012",
+            "sentence": "It was obvious to us that she felt sad.",
+            "sentence_chinese": "對我們而言，她的難過很明顯。",
+            "topic": "obvious 與 that 子句"
+          },
+          {
+            "id": "qz-level8-u5-sg013",
+            "sentence": "Consuming too much water is a waste.",
+            "sentence_chinese": "消耗太多水是一種浪費。",
+            "topic": "動名詞作主詞"
+          },
+          {
+            "id": "qz-level8-u5-sg014",
+            "sentence": "We wore gloves in order to handle the substance.",
+            "sentence_chinese": "我們戴手套，以便處理這種物質。",
+            "topic": "in order to 表達目的"
+          },
+          {
+            "id": "qz-level8-u5-sg015",
+            "sentence": "These products can be recycled after they are used.",
+            "sentence_chinese": "這些產品用完後可以回收。",
+            "topic": "被動語態"
+          },
+          {
+            "id": "qz-level8-u5-sg016",
+            "sentence": "The children are eager to learn about the environment.",
+            "sentence_chinese": "孩子很想學習有關環境的知識。",
+            "topic": "eager＋不定詞"
+          },
+          {
+            "id": "qz-level8-u5-sg017",
+            "sentence": "The artist worked all night and ended up tired.",
+            "sentence_chinese": "藝術家工作了一整晚，最後累壞了。",
+            "topic": "end up"
+          },
+          {
+            "id": "qz-level8-u5-sg018",
+            "sentence": "Is it proper for me to come along now?",
+            "sentence_chinese": "我現在一起過來合適嗎？",
+            "topic": "proper 與形式主詞"
+          },
+          {
+            "id": "qz-level8-u5-sg019",
+            "sentence": "It is obvious that this plastic bag is empty.",
+            "sentence_chinese": "很明顯，這個塑膠袋是空的。",
+            "topic": "obvious 與 that 子句"
+          },
+          {
+            "id": "qz-level8-u5-sg020",
+            "sentence": "Packing up the products takes a lot of time.",
+            "sentence_chinese": "打包這些產品需要很多時間。",
+            "topic": "動名詞作主詞"
+          },
+          {
+            "id": "qz-level8-u5-sg021",
+            "sentence": "She walked slowly in order not to drop anything.",
+            "sentence_chinese": "她慢慢走，以免把任何東西掉到地上。",
+            "topic": "in order to 表達目的"
+          },
+          {
+            "id": "qz-level8-u5-sg022",
+            "sentence": "New recycling bins will be sent to our school.",
+            "sentence_chinese": "新的回收桶將被送到我們學校。",
+            "topic": "被動語態"
+          },
+          {
+            "id": "qz-level8-u5-sg023",
+            "sentence": "My sister is eager to see the new products.",
+            "sentence_chinese": "我姊姊很想看看新產品。",
+            "topic": "eager＋不定詞"
+          },
+          {
+            "id": "qz-level8-u5-sg024",
+            "sentence": "The crowd ended up waiting outside the small shop.",
+            "sentence_chinese": "人群最後在小店外等候。",
+            "topic": "end up"
+          },
+          {
+            "id": "qz-level8-u5-sg025",
+            "sentence": "It was proper for them to clean the room.",
+            "sentence_chinese": "他們清理房間是適當的。",
+            "topic": "proper 與形式主詞"
+          },
+          {
+            "id": "qz-level8-u5-sg026",
+            "sentence": "It is obvious that recycling is good for nature.",
+            "sentence_chinese": "很明顯，回收有益於大自然。",
+            "topic": "obvious 與 that 子句"
+          },
+          {
+            "id": "qz-level8-u5-sg027",
+            "sentence": "Looking at the sun can harm your eyes.",
+            "sentence_chinese": "直視太陽可能傷害你的眼睛。",
+            "topic": "動名詞作主詞"
+          },
+          {
+            "id": "qz-level8-u5-sg028",
+            "sentence": "We left early in order to catch the boat.",
+            "sentence_chinese": "我們提早出發，為了趕上船。",
+            "topic": "in order to 表達目的"
+          },
+          {
+            "id": "qz-level8-u5-sg029",
+            "sentence": "The poisonous substance must be stored in this room.",
+            "sentence_chinese": "這種有毒物質必須存放在這個房間。",
+            "topic": "被動語態"
+          },
+          {
+            "id": "qz-level8-u5-sg030",
+            "sentence": "Drifting on the sea is dangerous during a storm.",
+            "sentence_chinese": "暴風雨期間在海上漂流很危險。",
+            "topic": "動名詞作主詞"
+          }
+        ]
+      },
+      "grammar": {
+        "source_note": "依課本 Lesson 5 單字與片語頁可見句型整理；未附獨立文法頁。",
+        "tips": [
+          {
+            "label": "被動語態",
+            "text": "主詞是接受動作的人或物時，用 be＋過去分詞；be 要配合主詞與時間。"
+          },
+          {
+            "label": "eager＋不定詞",
+            "text": "be eager to 後接原形動詞，例如 eager to learn。"
+          },
+          {
+            "label": "end up",
+            "text": "end up 後可接 V-ing 或形容詞，表示最後出現的結果。"
+          },
+          {
+            "label": "形式主詞 it",
+            "text": "It is proper for＋人＋to V；真正談論的事情放在不定詞片語。"
+          },
+          {
+            "label": "that 子句",
+            "text": "It is obvious that 後面接完整子句，子句內仍需有正確的主詞與動詞。"
+          },
+          {
+            "label": "動名詞主詞",
+            "text": "單一 V-ing 片語作主詞時，當成一件事，現在式動詞通常用單數形式。"
+          },
+          {
+            "label": "表達目的",
+            "text": "in order to＋原形動詞；表示「為了不要……」時，用 in order not to V。"
+          }
+        ],
+        "notes": [
+          {
+            "title": "被動語態：be＋過去分詞",
+            "rule": "主詞＋am/is/are/was/were＋過去分詞\n主詞＋will/can/must＋be＋過去分詞",
+            "description": "當主詞接受某個動作時，使用被動語態。現在式的單數主詞通常用 is，複數主詞用 are；過去式用 was 或 were。情態助動詞後的 be 保持原形。by 可用來交代執行動作的人。be made of 表示由某種材料製成，be surrounded by 表示被某物包圍。",
+            "examples": [
+              "The garden is surrounded by trees.（花園被樹木包圍。）",
+              "The bottles were collected by the students yesterday.（這些瓶子昨天由學生收集。）",
+              "The substance must be stored safely.（這種物質必須妥善存放。）"
+            ]
+          },
+          {
+            "title": "be eager to＋原形動詞",
+            "rule": "主詞＋be eager to＋原形動詞",
+            "description": "eager 表示渴望的。說明渴望做什麼事時，使用 to＋原形動詞。即使前面的 be 是過去式 was 或 were，to 後面的動詞仍維持原形。",
+            "examples": [
+              "The students are eager to start the project.（學生很想開始這項計畫。）",
+              "Mia was eager to pack up her things.（Mia 很想收拾她的物品。）"
+            ]
+          },
+          {
+            "title": "end up：最後的結果",
+            "rule": "主詞＋end up＋V-ing\n主詞＋end up＋形容詞",
+            "description": "end up 後接動名詞時，表示最後做了某件事；後接形容詞時，表示最後處於某種狀態。時間在過去時，將 end 改成 ended；後面的 V-ing 或形容詞不跟著改成過去式。也可接介系詞片語描述最後的位置或處境。",
+            "examples": [
+              "We ended up walking home.（我們最後走路回家。）",
+              "The artist ended up tired.（那位藝術家最後累壞了。）",
+              "They ended up at the station.（他們最後到了車站。）"
+            ]
+          },
+          {
+            "title": "It is proper for＋人＋to V",
+            "rule": "It＋is/was＋proper＋for＋人＋to＋原形動詞\nIs it proper for＋人＋to＋原形動詞？",
+            "description": "it 是形式主詞，用來先佔主詞的位置；真正談論的事情是後面的 to V。proper 表示適當的。for 後若接人稱代名詞，需使用受格，如 me、him、her、us、them。否定句在 be 後加 not；疑問句將 be 移到 it 前。",
+            "examples": [
+              "It is proper for us to keep our promises.（我們遵守承諾是適當的。）",
+              "It is not proper to harm animals.（傷害動物是不適當的。）",
+              "Is it proper for me to come along now?（我現在一起過來合適嗎？）"
+            ]
+          },
+          {
+            "title": "It is obvious that＋完整子句",
+            "rule": "It＋is/was＋obvious＋that＋主詞＋動詞……\nIt＋is/was＋obvious＋to＋人＋that＋完整子句",
+            "description": "這個句型表示某件事很明顯。形式主詞用 it，後面的 that 引出一個完整子句。that 子句內的主詞與動詞仍須配合，例如 the shop sells、the bottles are。to＋人可說明對誰而言很明顯；to 後的人稱代名詞用受格。",
+            "examples": [
+              "It is obvious that the room is crowded.（很明顯，房間裡很擁擠。）",
+              "It was obvious to us that she felt sad.（對我們而言，她的難過很明顯。）"
+            ]
+          },
+          {
+            "title": "動名詞片語作主詞",
+            "rule": "V-ing＋受詞或其他修飾語＋單數動詞……",
+            "description": "用一項活動當主詞時，可以使用 V-ing 片語，例如 Recycling old bottles。整個片語視為一件事，因此接 helps、takes、makes 或 is，不能因為片語裡出現複數名詞就改用複數動詞。",
+            "examples": [
+              "Recycling old bottles helps the environment.（回收舊瓶子有助於環境。）",
+              "Packing up the products takes time.（打包產品需要時間。）",
+              "Looking at the sun can harm your eyes.（直視太陽可能傷害眼睛。）"
+            ]
+          },
+          {
+            "title": "in order to：表達目的",
+            "rule": "主要動作＋in order to＋原形動詞\n主要動作＋in order not to＋原形動詞",
+            "description": "in order to 表示為了達成某個目的，後面接原形動詞。否定目的用 in order not to V，not 放在 to 前面。即使主要動作發生在過去，to 後面的動詞仍用原形。",
+            "examples": [
+              "We left early in order to catch the boat.（我們提早出發，為了趕上船。）",
+              "She walked slowly in order not to drop the box.（她慢慢走，避免把箱子掉到地上。）"
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "id": "qz-level8-u5-q001",
+            "question": "The empty bottles ______ by the students every Friday.",
+            "options": [
+              "A. collecting",
+              "B. are collected",
+              "C. collects",
+              "D. is collected"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "bottles 是複數，且瓶子是被學生收集的；every Friday 表示固定習慣，因此用 are collected。",
+            "topic": "被動語態"
+          },
+          {
+            "id": "qz-level8-u5-q002",
+            "question": "The students are eager ______ a recycling project.",
+            "options": [
+              "A. starts",
+              "B. started",
+              "C. starting",
+              "D. to start"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "be eager 後用 to＋原形動詞，說明渴望做的事，因此用 to start。",
+            "topic": "eager＋不定詞"
+          },
+          {
+            "id": "qz-level8-u5-q003",
+            "question": "We missed the bus and ended up ______ home.",
+            "options": [
+              "A. walking",
+              "B. walked",
+              "C. to walk",
+              "D. walk"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "end up 後接 V-ing 表示最後做了什麼，因此用 walking；不能直接接 walk 或 to walk。",
+            "topic": "end up"
+          },
+          {
+            "id": "qz-level8-u5-q004",
+            "question": "______ is not proper to throw plastic bottles into the sea.",
+            "options": [
+              "A. They",
+              "B. These",
+              "C. It",
+              "D. Those"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "後面的 to throw... 才是真正談論的事情，句首用形式主詞 It，搭配單數 is。",
+            "topic": "proper 與形式主詞"
+          },
+          {
+            "id": "qz-level8-u5-q005",
+            "question": "It is obvious that the shop ______ many plastic products every day.",
+            "options": [
+              "A. to sell",
+              "B. sells",
+              "C. selling",
+              "D. sell"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "that 後是一個完整子句；the shop 為單數，every day 表示習慣，現在式動詞用 sells。",
+            "topic": "obvious 與 that 子句"
+          },
+          {
+            "id": "qz-level8-u5-q006",
+            "question": "______ old bottles helps protect the environment.",
+            "options": [
+              "A. Recycles",
+              "B. Recycling",
+              "C. Recycle",
+              "D. Recycled"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "空格開始的片語是整句主詞，描述回收這項活動，要用動名詞 Recycling，並搭配 helps。",
+            "topic": "動名詞作主詞"
+          },
+          {
+            "id": "qz-level8-u5-q007",
+            "question": "Nick saved the bottles in order ______ them.",
+            "options": [
+              "A. recycled",
+              "B. recycling",
+              "C. to recycle",
+              "D. recycles"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "in order to V 表達目的，空格應放 to recycle；saved 是過去式，不影響 to 後的原形動詞。",
+            "topic": "in order to 表達目的"
+          },
+          {
+            "id": "qz-level8-u5-q008",
+            "question": "The old plastic bags ______ with new ones yesterday.",
+            "options": [
+              "A. were replaced",
+              "B. are replaced",
+              "C. were replacing",
+              "D. was replaced"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "yesterday 指過去，複數主詞 bags 接 were；袋子接受更換的動作，需用過去分詞 replaced。",
+            "topic": "被動語態"
+          },
+          {
+            "id": "qz-level8-u5-q009",
+            "question": "My sister is eager to ______ the new products.",
+            "options": [
+              "A. see",
+              "B. saw",
+              "C. seeing",
+              "D. sees"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "eager to 後的動詞維持原形；主詞是單數也不把 see 改成 sees。",
+            "topic": "eager＋不定詞"
+          },
+          {
+            "id": "qz-level8-u5-q010",
+            "question": "The crowd ended up ______ outside the closed shop.",
+            "options": [
+              "A. to wait",
+              "B. wait",
+              "C. waited",
+              "D. waiting"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "ended up 後的動作要用動名詞 waiting；過去時間已由 ended 表達。",
+            "topic": "end up"
+          },
+          {
+            "id": "qz-level8-u5-q011",
+            "question": "It is proper for ______ to recycle these bottles.",
+            "options": [
+              "A. they",
+              "B. theirs",
+              "C. their",
+              "D. them"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "for 後的人稱代名詞用受格，因此選 them；they 是主格，their 與 theirs 表示所有關係。",
+            "topic": "proper 與形式主詞"
+          },
+          {
+            "id": "qz-level8-u5-q012",
+            "question": "It ______ obvious to everyone that the room is crowded.",
+            "options": [
+              "A. am",
+              "B. be",
+              "C. are",
+              "D. is"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "主句的形式主詞 It 是單數，現在式 be 動詞用 is。",
+            "topic": "obvious 與 that 子句"
+          },
+          {
+            "id": "qz-level8-u5-q013",
+            "question": "Using plastic bags ______ a lot of waste.",
+            "options": [
+              "A. creating",
+              "B. create",
+              "C. creates",
+              "D. to create"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "主詞是整個 Using plastic bags，視為單一活動，現在式動詞用 creates；不能只看 bags 就選 create。",
+            "topic": "動名詞作主詞"
+          },
+          {
+            "id": "qz-level8-u5-q014",
+            "question": "The workers wore gloves in order ______ the substance safely.",
+            "options": [
+              "A. to handle",
+              "B. handles",
+              "C. handled",
+              "D. handling"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "戴手套的目的是安全處理物質，使用 in order to＋原形動詞，因此選 to handle。",
+            "topic": "in order to 表達目的"
+          },
+          {
+            "id": "qz-level8-u5-q015",
+            "question": "This bottle is ______ of plastic.",
+            "options": [
+              "A. making",
+              "B. made",
+              "C. makes",
+              "D. make"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "瓶子是被製造的，is 後接過去分詞 made，形成被動語態 is made of。",
+            "topic": "被動語態"
+          },
+          {
+            "id": "qz-level8-u5-q016",
+            "question": "Rick was eager ______ up his things before the trip.",
+            "options": [
+              "A. packed",
+              "B. packing",
+              "C. packs",
+              "D. to pack"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "was eager 後仍接不定詞 to pack；前面的過去式不會使 to 後動詞變成 packed。",
+            "topic": "eager＋不定詞"
+          },
+          {
+            "id": "qz-level8-u5-q017",
+            "question": "After drinking too much, the man ended up ______ in a chair.",
+            "options": [
+              "A. to sleep",
+              "B. sleeping",
+              "C. slept",
+              "D. sleep"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "這裡描述最後睡在椅子上的結果，使用 ended up＋V-ing，所以選 sleeping。",
+            "topic": "end up"
+          },
+          {
+            "id": "qz-level8-u5-q018",
+            "question": "It ______ proper to pack your things before you leave.",
+            "options": [
+              "A. is",
+              "B. are",
+              "C. am",
+              "D. be"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "形式主詞 It 是第三人稱單數，現在式 be 動詞應用 is。",
+            "topic": "proper 與形式主詞"
+          },
+          {
+            "id": "qz-level8-u5-q019",
+            "question": "______ was obvious to us that Mia wanted to come along.",
+            "options": [
+              "A. It",
+              "B. These",
+              "C. Those",
+              "D. They"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "that 子句說明明顯的事情，主句需用形式主詞 It，並與 was 搭配。",
+            "topic": "obvious 與 that 子句"
+          },
+          {
+            "id": "qz-level8-u5-q020",
+            "question": "______ too much water is a waste.",
+            "options": [
+              "A. Consumes",
+              "B. Consumed",
+              "C. Consuming",
+              "D. Consume"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "描述消耗太多水這件事作主詞，需用動名詞 Consuming。",
+            "topic": "動名詞作主詞"
+          },
+          {
+            "id": "qz-level8-u5-q021",
+            "question": "We left early in order ______ at the shop before it opened.",
+            "options": [
+              "A. arrives",
+              "B. to arrive",
+              "C. arriving",
+              "D. arrived"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "in order to 後接原形動詞表目的，應用 to arrive，不用過去式 arrived。",
+            "topic": "in order to 表達目的"
+          },
+          {
+            "id": "qz-level8-u5-q022",
+            "question": "New recycling bins will ______ to our school by the city tomorrow.",
+            "options": [
+              "A. sent",
+              "B. sends",
+              "C. be sent",
+              "D. sending"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "回收桶是被送到學校的，will 後需接 be＋過去分詞，因此用 be sent。",
+            "topic": "被動語態"
+          },
+          {
+            "id": "qz-level8-u5-q023",
+            "question": "They were eager to ______ about the natural environment.",
+            "options": [
+              "A. learning",
+              "B. learns",
+              "C. learn",
+              "D. learned"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "to 後接原形 learn，不因 were 是過去式就改用 learned。",
+            "topic": "eager＋不定詞"
+          },
+          {
+            "id": "qz-level8-u5-q024",
+            "question": "The artist worked all night and ended up ______.",
+            "options": [
+              "A. to tire",
+              "B. tired",
+              "C. tire",
+              "D. tires"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "此處說明藝術家最後的狀態，需用形容詞 tired；其餘選項是動詞形式。",
+            "topic": "end up"
+          },
+          {
+            "id": "qz-level8-u5-q025",
+            "question": "It is proper for students ______ their classroom clean.",
+            "options": [
+              "A. kept",
+              "B. keeping",
+              "C. keeps",
+              "D. to keep"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "句型是 It is proper for＋人＋to V，空格應放不定詞 to keep。",
+            "topic": "proper 與形式主詞"
+          },
+          {
+            "id": "qz-level8-u5-q026",
+            "question": "It is obvious that those bottles ______ made of plastic.",
+            "options": [
+              "A. are",
+              "B. be",
+              "C. am",
+              "D. is"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "that 子句的主詞 those bottles 是複數，被動語態中的 be 動詞應用 are。",
+            "topic": "obvious 與 that 子句"
+          },
+          {
+            "id": "qz-level8-u5-q027",
+            "question": "Packing up the products ______ more time than I expected.",
+            "options": [
+              "A. taking",
+              "B. takes",
+              "C. to take",
+              "D. take"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "Packing up the products 是一個動名詞片語主詞，當成單數，主要動詞用 takes。",
+            "topic": "動名詞作主詞"
+          },
+          {
+            "id": "qz-level8-u5-q028",
+            "question": "She put the box down carefully in order not ______ the bottles.",
+            "options": [
+              "A. breaking",
+              "B. broke",
+              "C. breaks",
+              "D. to break"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "否定目的句型為 in order not to V，not 後應接 to break。",
+            "topic": "in order to 表達目的"
+          },
+          {
+            "id": "qz-level8-u5-q029",
+            "question": "A poisonous substance must ______ in a safe place by trained workers.",
+            "options": [
+              "A. storing",
+              "B. stored",
+              "C. be stored",
+              "D. stores"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "物質接受存放的動作；must 後接原形 be，再接過去分詞 stored。",
+            "topic": "被動語態"
+          },
+          {
+            "id": "qz-level8-u5-q030",
+            "question": "The children are eager ______ along with us.",
+            "options": [
+              "A. coming",
+              "B. came",
+              "C. comes",
+              "D. to come"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "說明孩子渴望做什麼，用 be eager to V，所以選 to come。",
+            "topic": "eager＋不定詞"
+          },
+          {
+            "id": "qz-level8-u5-q031",
+            "question": "My brother did not follow the plan and ended up ______ more money.",
+            "options": [
+              "A. spending",
+              "B. spend",
+              "C. to spend",
+              "D. spent"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "end up 後接 V-ing 描述最終發生的動作，因此選 spending。",
+            "topic": "end up"
+          },
+          {
+            "id": "qz-level8-u5-q032",
+            "question": "Is ______ proper for us to leave now?",
+            "options": [
+              "A. it",
+              "B. they",
+              "C. them",
+              "D. their"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "形式主詞疑問句將 is 移到 it 前，仍保留單數主詞 it。",
+            "topic": "proper 與形式主詞"
+          },
+          {
+            "id": "qz-level8-u5-q033",
+            "question": "It is obvious ______ the new product is popular.",
+            "options": [
+              "A. that",
+              "B. which",
+              "C. who",
+              "D. what"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "空格後的 the new product is popular 已是完整子句，使用連接詞 that 引出這件明顯的事。",
+            "topic": "obvious 與 that 子句"
+          },
+          {
+            "id": "qz-level8-u5-q034",
+            "question": "______ children about recycling is important.",
+            "options": [
+              "A. Teach",
+              "B. Taught",
+              "C. Teaching",
+              "D. Teaches"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "教導孩子回收是一項活動，放在主詞位置時用動名詞 Teaching。",
+            "topic": "動名詞作主詞"
+          },
+          {
+            "id": "qz-level8-u5-q035",
+            "question": "The boys packed up their things in order ______ the boat.",
+            "options": [
+              "A. catching",
+              "B. catches",
+              "C. caught",
+              "D. to catch"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "表達收拾物品是為了趕船，需用 in order to catch；to 後保持原形 catch。",
+            "topic": "in order to 表達目的"
+          },
+          {
+            "id": "qz-level8-u5-q036",
+            "question": "The house was ______ by tall trees when we lived there.",
+            "options": [
+              "A. surrounding",
+              "B. surround",
+              "C. surrounded",
+              "D. surrounds"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "房子被高樹圍繞，was 後需要過去分詞 surrounded，而不是主動的 surrounding。",
+            "topic": "被動語態"
+          },
+          {
+            "id": "qz-level8-u5-q037",
+            "question": "I am eager to ______ these old bottles into something useful.",
+            "options": [
+              "A. turning",
+              "B. turn",
+              "C. turns",
+              "D. turned"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "am eager to 後需要原形動詞 turn；其餘三項都不是原形。",
+            "topic": "eager＋不定詞"
+          },
+          {
+            "id": "qz-level8-u5-q038",
+            "question": "The students were eager to help, so they ended up ______ bottles.",
+            "options": [
+              "A. to collect",
+              "B. collected",
+              "C. collecting",
+              "D. collect"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "空格緊接 ended up，需用 collecting；前面 eager to help 的不定詞結構不會延伸到這個空格。",
+            "topic": "end up"
+          },
+          {
+            "id": "qz-level8-u5-q039",
+            "question": "It is not proper ______ the animals at the zoo.",
+            "options": [
+              "A. harmed",
+              "B. to harm",
+              "C. harm",
+              "D. harms"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "這裡用不定詞說明不適當的事情，句型為 It is not proper to V，因此用 to harm。",
+            "topic": "proper 與形式主詞"
+          },
+          {
+            "id": "qz-level8-u5-q040",
+            "question": "It is obvious that recycling ______ good for the environment.",
+            "options": [
+              "A. are",
+              "B. am",
+              "C. is",
+              "D. be"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "that 子句中 recycling 表示回收這一件事，作單數主詞，be 動詞用 is。",
+            "topic": "obvious 與 that 子句"
+          },
+          {
+            "id": "qz-level8-u5-q041",
+            "question": "Drifting on the sea ______ dangerous during a storm.",
+            "options": [
+              "A. be",
+              "B. is",
+              "C. am",
+              "D. are"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "整個 Drifting on the sea 表示海上漂流這件事，主詞為單數，因此用 is。",
+            "topic": "動名詞作主詞"
+          },
+          {
+            "id": "qz-level8-u5-q042",
+            "question": "These products are not ______ in this small shop.",
+            "options": [
+              "A. sells",
+              "B. sold",
+              "C. sell",
+              "D. selling"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "products 是被販售的物品，are not 後需接過去分詞 sold。",
+            "topic": "被動語態"
+          },
+          {
+            "id": "qz-level8-u5-q043",
+            "question": "The workers were eager ______ the crowded room.",
+            "options": [
+              "A. to leave",
+              "B. left",
+              "C. leaving",
+              "D. leaves"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "be eager 的動作補語使用 to＋原形動詞，因此選 to leave。",
+            "topic": "eager＋不定詞"
+          },
+          {
+            "id": "qz-level8-u5-q044",
+            "question": "The box was too small, so we ended up ______ a bigger one.",
+            "options": [
+              "A. used",
+              "B. using",
+              "C. use",
+              "D. to use"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "最後改用較大的箱子，用 ended up＋V-ing 表達，因此選 using。",
+            "topic": "end up"
+          },
+          {
+            "id": "qz-level8-u5-q045",
+            "question": "It was proper for the boy ______ the bottles after the party.",
+            "options": [
+              "A. collecting",
+              "B. collects",
+              "C. to collect",
+              "D. collected"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "was proper 後的真正主詞仍是不定詞片語，因此使用 to collect。",
+            "topic": "proper 與形式主詞"
+          },
+          {
+            "id": "qz-level8-u5-q046",
+            "question": "It was obvious to ______ that the man envied his friend.",
+            "options": [
+              "A. our",
+              "B. we",
+              "C. ours",
+              "D. us"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "to 後需接受格代名詞 us；we 是主格，our 與 ours 表示所有關係。",
+            "topic": "obvious 與 that 子句"
+          },
+          {
+            "id": "qz-level8-u5-q047",
+            "question": "______ at the sun for too long can harm your eyes.",
+            "options": [
+              "A. Looking",
+              "B. Look",
+              "C. Looks",
+              "D. Looked"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "直視太陽這項活動在句中作主詞，需用動名詞 Looking，而不是原形或過去式。",
+            "topic": "動名詞作主詞"
+          },
+          {
+            "id": "qz-level8-u5-q048",
+            "question": "______ the bottles collected by the workers every morning?",
+            "options": [
+              "A. Am",
+              "B. Is",
+              "C. Be",
+              "D. Are"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "every morning 表示固定習慣；被動疑問句將 be 移到複數主詞 bottles 前，因此用 Are。",
+            "topic": "被動語態"
+          },
+          {
+            "id": "qz-level8-u5-q049",
+            "question": "______ it proper for me to come along now?",
+            "options": [
+              "A. Are",
+              "B. Am",
+              "C. Be",
+              "D. Is"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "現在式疑問句的主詞是 it，應使用 Is；Are 不與單數 it 搭配。",
+            "topic": "proper 與形式主詞"
+          },
+          {
+            "id": "qz-level8-u5-q050",
+            "question": "Surrounding the garden with trees ______ it cooler in summer.",
+            "options": [
+              "A. makes",
+              "B. make",
+              "C. to make",
+              "D. making"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "動名詞片語 Surrounding the garden with trees 作單數主詞，因此主要動詞用 makes。",
+            "topic": "動名詞作主詞"
+          }
         ]
       }
     }
