@@ -78,6 +78,45 @@
     .mkey-chip .star { color: #fbbf24; margin-right: 3px; }
     .mkey-chip.sel .star { color: #92400e; }
     .mkey-empty { color: #94a3b8; font-size: 13px; }
+
+    /* 老師教材匯出 */
+    .export-panel { border-color: rgba(34,211,238,.35); background: rgba(8,35,48,.65); }
+    .export-panel h2 { color: #67e8f9; }
+    .export-controls, .export-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+    .export-panel button, .export-panel select {
+      min-height: 44px; max-width: 100%; padding: 9px 12px; border-radius: 8px;
+      border: 1px solid #64748b; background: #0f172a; color: #f8fafc; font: inherit;
+    }
+    .export-panel select { margin-left: 8px; }
+    .export-panel button { cursor: pointer; }
+    .export-panel button.primary { background: #67e8f9; color: #0b1220; border-color: #67e8f9; font-weight: 700; }
+    .export-panel button:disabled { opacity: .45; cursor: not-allowed; }
+    .export-panel button:not(:disabled):hover { border-color: #67e8f9; }
+    .export-panel :focus-visible { outline: 3px solid #facc15; outline-offset: 3px; }
+    .export-units { border: 0; padding: 0; margin: 16px 0; min-width: 0; }
+    .export-units legend { padding: 0; margin-bottom: 8px; font-weight: 700; }
+    .export-choices { display: flex; flex-wrap: wrap; gap: 8px; }
+    .export-choice {
+      display: flex; align-items: center; gap: 8px; min-height: 44px; max-width: 100%;
+      padding: 9px 12px; border: 1px solid #64748b; border-radius: 10px;
+      background: #0f172a; cursor: pointer; overflow-wrap: anywhere;
+    }
+    .export-choice input { width: 18px; height: 18px; flex-shrink: 0; accent-color: #67e8f9; }
+    .export-choice small { display: block; color: #cbd5e1; margin-top: 3px; }
+    .export-status { margin: 12px 0; color: #cbd5e1; line-height: 1.6; overflow-wrap: anywhere; }
+    .export-status.error { color: #fca5a5; }
+    .export-preview-label { display: block; margin: 16px 0 8px; font-weight: 700; }
+    #export-preview {
+      display: block; width: 100%; min-height: 220px; resize: vertical; padding: 12px;
+      font: 16px/1.7 ui-monospace, monospace; color: #e2e8f0; background: #020617;
+      border: 1px solid #64748b; border-radius: 8px;
+    }
+    @media (max-width: 480px) {
+      .export-controls > label { width: 100%; }
+      .export-panel select { display: block; width: 100%; margin: 8px 0 0; }
+      .export-choice { width: 100%; }
+      .export-actions button { flex: 1 1 140px; }
+    }
   </style>
 </head>
 <body>
@@ -99,6 +138,31 @@
         <button type="button" id="mk-copy">複製</button>
         <button type="button" class="open" id="mk-open">開啟</button>
       </div>
+    </section>
+
+    <section class="mkey export-panel" aria-labelledby="export-heading">
+      <h2 id="export-heading">教材匯出</h2>
+      <p class="mkey-lead">選學生與課次，拿取網站已收錄的單字、片語、例句與文法，方便備課或交給 AI 製作教材。保留原有分類，不含測驗題與答案。</p>
+      <div class="export-controls">
+        <label for="export-student">來源學生 <select id="export-student" disabled></select></label>
+        <button type="button" id="export-reload" disabled>重新載入</button>
+      </div>
+      <fieldset class="export-units" id="export-units" disabled>
+        <legend>匯出課次（預設本次段考，可複選）</legend>
+        <div id="export-choices" class="export-choices"></div>
+      </fieldset>
+      <div class="export-actions">
+        <button type="button" id="export-current" disabled>本次段考</button>
+        <button type="button" id="export-all" disabled>全選</button>
+        <button type="button" id="export-clear" disabled>清除選取</button>
+      </div>
+      <p id="export-status" class="export-status" role="status" aria-live="polite">載入學生名單中…</p>
+      <div class="export-actions">
+        <button type="button" id="export-copy" class="primary" disabled>複製全文</button>
+        <button type="button" id="export-download" disabled>下載 Markdown</button>
+      </div>
+      <label for="export-preview" class="export-preview-label">全文預覽</label>
+      <textarea id="export-preview" readonly spellcheck="false" placeholder="選好課次後，這裡會顯示匯出全文。"></textarea>
     </section>
 
     <div id="list"></div>
@@ -227,11 +291,199 @@
       else chipsEl.innerHTML = '<span class="mkey-empty">沒有學生</span>';
     }
 
+    // 直接擷取原始教材；不合併同義字，也不由題庫推測文法。
+    function buildMaterialMarkdown(student, chapters) {
+      const md = value => String(value ?? '').replace(/\r\n?/g, '\n')
+        .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+        .replace(/[\\`*_{}\[\]()#+.!|~-]/g, '\\$&').replace(/\n/g, '  \n');
+      const lines = [
+        `# ${md(student.name || student.id)}：單字、片語與文法`, '',
+        `來源學生：${md(student.id)}`, '',
+        '依網站已收錄教材擷取，不代表課本完整內容。保留原有分類、順序與例句；跨區重複項目保留，不含測驗題與答案。', ''
+      ];
+      function wordSection(title, items, field) {
+        lines.push(`### ${title}（${items.length} 項）`, '');
+        if (!items.length) lines.push(`未收錄${title}。`, '');
+        items.forEach((item, i) => {
+          const indent = ' '.repeat(String(i + 1).length + 2);
+          lines.push(`${i + 1}. **${md(item.display_word || item[field])}**${item.part_of_speech ? `（${md(item.part_of_speech)}）` : ''}：${md(item.chinese)}`, '');
+          if (item.sentence) lines.push(`${indent}例句：${md(item.sentence)}`, '');
+          if (item.sentence_chinese) lines.push(`${indent}中譯：${md(item.sentence_chinese)}`, '');
+        });
+      }
+      chapters.forEach(({ code, unit }) => {
+        lines.push(`## ${md(unit.title || code)}（${md(code)}）`, '',
+          `來源：${md(`data/${student.id}/${code}.json`)}`, '');
+        wordSection('單字', unit.vocab || [], 'word');
+        wordSection('片語', unit.phrases || [], 'phrase');
+        const notes = unit.grammar?.notes || [];
+        const tips = unit.grammar?.tips || [];
+        lines.push(`### 文法筆記（${notes.length} 項）`, '');
+        if (!notes.length) lines.push('未收錄文法筆記。', '');
+        notes.forEach((note, i) => {
+          lines.push(`#### ${i + 1}. ${md(note.title)}`, '');
+          if (note.rule) lines.push(`句型／規則：${md(note.rule)}`, '');
+          if (note.description) lines.push(md(note.description), '');
+          (note.examples || []).forEach(example => lines.push(`- ${md(example)}`));
+          lines.push('');
+        });
+        if (tips.length) {
+          lines.push('### 文法小提醒', '');
+          tips.forEach(tip => lines.push(`- **${md(tip.label)}**：${md(tip.text)}`));
+          lines.push('');
+        }
+      });
+      return lines.join('\n').trimEnd() + '\n';
+    }
+
+    function setupMaterialExport(students) {
+      const el = name => document.getElementById('export-' + name);
+      const studentSelect = el('student'), choices = el('choices'), preview = el('preview');
+      const selectionButtons = ['current', 'all', 'clear'].map(el);
+      let chapters = [], currentCodes = new Set(), requestVersion = 0;
+      let activeStudent = null, selectedChapters = [], copying = false;
+
+      function status(message, error = false) {
+        el('status').textContent = message;
+        el('status').classList.toggle('error', error);
+      }
+      function clearOutput() {
+        selectedChapters = [];
+        preview.value = '';
+        el('copy').disabled = true;
+        el('download').disabled = true;
+      }
+      function refresh() {
+        clearOutput();
+        const selected = new Set([...choices.querySelectorAll('input:checked')].map(input => input.value));
+        const rows = chapters.filter(chapter => selected.has(chapter.code));
+        if (!rows.length) { status('請至少選擇一課。'); return; }
+        const failures = rows.filter(row => row.error);
+        if (failures.length) {
+          status(`所選課程讀取失敗：${failures.map(row => row.code).join('、')}。請重新載入，或取消勾選這些課程後匯出。`, true);
+          return;
+        }
+        selectedChapters = rows;
+        preview.value = buildMaterialMarkdown(activeStudent, rows);
+        el('copy').disabled = copying;
+        el('download').disabled = false;
+        const count = field => rows.reduce((sum, row) => sum + (row.unit[field] || []).length, 0);
+        const notes = rows.reduce((sum, row) => sum + (row.unit.grammar?.notes || []).length, 0);
+        const missing = rows.filter(row => !row.unit.grammar?.notes?.length).length;
+        status(`已選 ${rows.length} 課・單字 ${count('vocab')} 項・片語 ${count('phrases')} 項・文法筆記 ${notes} 項。${missing ? `其中 ${missing} 課未收錄文法筆記。` : ''}`);
+      }
+      async function readJson(path) {
+        const response = await fetch(path, { cache: 'no-store' });
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        return response.json();
+      }
+      async function load() {
+        const version = ++requestVersion;
+        activeStudent = students.find(student => student.id === studentSelect.value);
+        chapters = [];
+        currentCodes = new Set();
+        choices.replaceChildren();
+        clearOutput();
+        el('units').disabled = true;
+        selectionButtons.forEach(button => button.disabled = true);
+        status('載入課程中…');
+        try {
+          const dir = 'data/' + encodeURIComponent(activeStudent.id) + '/';
+          const manifest = await readJson(dir + 'lessons.json');
+          if (version !== requestVersion) return;
+          currentCodes = new Set(manifest.units || []);
+          const codes = [...new Set([...(manifest.all || []), ...(manifest.units || [])])];
+          const results = await Promise.all(codes.map(async code => {
+            try {
+              const data = await readJson(dir + encodeURIComponent(code) + '.json');
+              const unit = data.units?.[code];
+              if (!unit) throw new Error('課程代號與內容不符');
+              return { code, unit };
+            } catch (error) { return { code, error: error.message }; }
+          }));
+          if (version !== requestVersion) return;
+          chapters = results;
+          if (!chapters.length) { status('這個學生尚未收錄課程。'); return; }
+          chapters.forEach(row => {
+            const label = document.createElement('label');
+            label.className = 'export-choice';
+            const checkbox = document.createElement('input');
+            checkbox.type = 'checkbox'; checkbox.value = row.code;
+            checkbox.checked = currentCodes.has(row.code);
+            const text = document.createElement('span');
+            text.textContent = row.unit?.title || row.code;
+            const detail = document.createElement('small');
+            detail.textContent = `${row.code}${currentCodes.has(row.code) ? ' · 本次段考' : ''}${row.error ? ' · 讀取失敗：' + row.error : ''}`;
+            text.appendChild(detail);
+            label.append(checkbox, text);
+            choices.appendChild(label);
+          });
+          el('units').disabled = false;
+          selectionButtons.forEach(button => button.disabled = false);
+          refresh();
+        } catch (error) {
+          if (version === requestVersion) status(`讀取課程清單失敗：${error.message}。請按「重新載入」再試一次。`, true);
+        }
+      }
+      students.forEach(student => {
+        const option = document.createElement('option');
+        option.value = student.id; option.textContent = student.name || student.id;
+        studentSelect.appendChild(option);
+      });
+      choices.addEventListener('change', refresh);
+      studentSelect.addEventListener('change', load);
+      el('reload').addEventListener('click', load);
+      ['current', 'all', 'clear'].forEach(action => el(action).addEventListener('click', () => {
+        choices.querySelectorAll('input').forEach(input => {
+          input.checked = action === 'all' || (action === 'current' && currentCodes.has(input.value));
+        });
+        refresh();
+      }));
+      el('copy').addEventListener('click', async () => {
+        const content = preview.value;
+        if (!content || copying) return;
+        const version = requestVersion;
+        copying = true;
+        el('copy').disabled = true;
+        let copied = false;
+        try { await navigator.clipboard.writeText(content); copied = true; }
+        catch {
+          // 非 HTTPS 或剪貼簿被拒絕時，保留可選取的全文供手動複製。
+          if (version === requestVersion && preview.value === content) {
+            preview.focus(); preview.select(); preview.setSelectionRange(0, content.length);
+            try { copied = document.execCommand('copy'); } catch { /* 顯示手動複製提示 */ }
+          }
+        }
+        copying = false;
+        el('copy').disabled = !preview.value;
+        if (version !== requestVersion || preview.value !== content) return;
+        status(copied ? '全文已複製，可以貼到 AI 對話或文件中。' : '無法自動複製，已選取全文；請長按選取範圍，或按 Ctrl+C／⌘C 複製。', !copied);
+      });
+      el('download').addEventListener('click', () => {
+        if (!preview.value) return;
+        const clean = value => String(value).replace(/[\\/:*?"<>|\u0000-\u001f\u007f]/g, '_');
+        const codes = selectedChapters.map(row => row.code).join('_');
+        const filename = `${clean(activeStudent.name || activeStudent.id).slice(0, 40)}-${clean(codes).slice(0, 100)}-教材.md`;
+        const url = URL.createObjectURL(new Blob([preview.value], { type: 'text/markdown;charset=utf-8' }));
+        const link = document.createElement('a');
+        link.href = url; link.download = filename;
+        document.body.appendChild(link); link.click(); link.remove();
+        setTimeout(() => URL.revokeObjectURL(url), 60000);
+        status(`已送出下載：${filename}。若瀏覽器開啟預覽，請使用分享或儲存檔案。`);
+      });
+      if (students.length) {
+        studentSelect.disabled = false;
+        el('reload').disabled = false;
+        load();
+      } else status('尚未建立學生名單。');
+    }
+
     async function boot() {
       try {
         const res = await fetch('students.json', { cache: 'no-store' });
         const list = await res.json();
         setupMasterKey(list);
+        setupMaterialExport(list);
         for (const s of list) {
           try {
             const units = await loadUnitsInfo(s.id);
@@ -244,6 +496,8 @@
           }
         }
       } catch (err) {
+        document.getElementById('export-status').textContent = '無法載入學生名單，請重新整理頁面再試一次。';
+        document.getElementById('export-status').classList.add('error');
         listEl.innerHTML = '<p style="color:#fca5a5">讀不到 students.json。' +
           (location.protocol === 'file:'
             ? '請用本機 server（python3 -m http.server）或上線後開啟。'
