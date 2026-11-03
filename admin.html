@@ -81,7 +81,13 @@
 
     /* 老師教材匯出 */
     .export-panel { border-color: rgba(34,211,238,.35); background: rgba(8,35,48,.65); }
-    .export-panel h2 { color: #67e8f9; }
+    .export-panel summary { min-height: 44px; padding: 8px 0; color: #67e8f9; cursor: pointer; }
+    .export-panel summary h2 { display: inline; margin: 0; color: inherit; }
+    .export-panel summary .export-toggle-hint { margin-left: 12px; color: #cbd5e1; font-size: 13px; }
+    .export-panel .export-collapse-hint { display: none; }
+    .export-panel[open] > summary { margin-bottom: 14px; }
+    .export-panel[open] .export-expand-hint { display: none; }
+    .export-panel[open] .export-collapse-hint { display: inline; }
     .export-controls, .export-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
     .export-panel button, .export-panel select {
       min-height: 44px; max-width: 100%; padding: 9px 12px; border-radius: 8px;
@@ -140,8 +146,11 @@
       </div>
     </section>
 
-    <section class="mkey export-panel" aria-labelledby="export-heading">
-      <h2 id="export-heading">教材匯出</h2>
+    <details class="mkey export-panel" aria-labelledby="export-heading">
+      <summary>
+        <h2 id="export-heading">教材匯出</h2>
+        <span class="export-toggle-hint" aria-hidden="true"><span class="export-expand-hint">點擊展開</span><span class="export-collapse-hint">點擊收合</span></span>
+      </summary>
       <p class="mkey-lead">選學生與課次，拿取網站已收錄的單字、片語、例句與文法，方便備課或交給 AI 製作教材。保留原有分類，不含測驗題與答案。</p>
       <div class="export-controls">
         <label for="export-student">來源學生 <select id="export-student" disabled></select></label>
@@ -163,7 +172,7 @@
       </div>
       <label for="export-preview" class="export-preview-label">全文預覽</label>
       <textarea id="export-preview" readonly spellcheck="false" placeholder="選好課次後，這裡會顯示匯出全文。"></textarea>
-    </section>
+    </details>
 
     <div id="list"></div>
     <p class="note">※ 名單來自 <code>students.json</code>（只記資料夾 id）。每張卡片即時讀該資料夾的 <code>lessons.json</code> 與課程檔，永遠顯示最新範圍。新增學生：建立 <code>data/&lt;id&gt;/</code> 資料夾（含 lessons.json + 課程檔），再到 <code>students.json</code> 補一筆 <code>{"id":"..."}</code> 即可。</p>
