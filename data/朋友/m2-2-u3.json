@@ -500,423 +500,410 @@
         "quiz": [
           {
             "id": "m2-2-u3-q001",
-            "question": "The jar was empty, ___ we went to the pool to get water.",
+            "question": "There was no water left in our bottles, ___ we stopped to fill them.",
             "options": [
-              "A. because",
+              "A. but",
               "B. or",
-              "C. but",
+              "C. because",
               "D. so"
             ],
             "answer": "D",
             "answer_index": 3,
-            "hint": "罐子空了是原因，去取水是結果；so 用來連接原因與結果。"
+            "hint": "水喝完是原因，停下來裝水是結果。so 後面接結果。"
           },
           {
             "id": "m2-2-u3-q002",
-            "question": "We stopped under a tree ___ the sun was too hot.",
+            "question": "We stayed out of the pool ___ a storm was coming.",
             "options": [
-              "A. so",
-              "B. because",
-              "C. but",
-              "D. or"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "the sun was too hot 說明為什麼停在樹下，是原因子句，因此用 because。"
-          },
-          {
-            "id": "m2-2-u3-q003",
-            "question": "Tina was carrying a map, ___ Billy was carrying a jar, too.",
-            "options": [
-              "A. and",
-              "B. or",
+              "A. because",
+              "B. but",
               "C. so",
-              "D. because"
+              "D. or"
             ],
             "answer": "A",
             "answer_index": 0,
-            "hint": "too 表示補充另一個人的活動，兩句是並列資訊，用 and。"
+            "hint": "暴風雨快來了，說明大家為什麼沒下水。原因子句用 because 引導。"
+          },
+          {
+            "id": "m2-2-u3-q003",
+            "question": "The little duck could swim well, ___ it still could not fly.",
+            "options": [
+              "A. unless",
+              "B. but",
+              "C. or",
+              "D. nor"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "能游泳與還不會飛形成轉折，因此用 but。"
           },
           {
             "id": "m2-2-u3-q004",
-            "question": "The rock was small, ___ it was very heavy.",
+            "question": "We have time for just one activity. Should we swim ___ go for a walk?",
             "options": [
-              "A. so",
-              "B. or",
-              "C. but",
-              "D. because"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "small 與 very heavy 形成「雖小卻很重」的轉折，因此用 but。"
-          },
-          {
-            "id": "m2-2-u3-q005",
-            "question": "Choose one place for our break: should we sit in the sun ___ rest inside?",
-            "options": [
-              "A. and",
+              "A. because",
               "B. but",
               "C. so",
               "D. or"
             ],
             "answer": "D",
             "answer_index": 3,
-            "hint": "Choose one place 要求二選一；兩個選項之間使用 or。"
+            "hint": "just one activity 表示只能選一個，兩個選項之間用 or。"
+          },
+          {
+            "id": "m2-2-u3-q005",
+            "question": "The two children brought both water ___ food on the walk.",
+            "options": [
+              "A. but",
+              "B. so",
+              "C. or",
+              "D. and"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "both A and B 表示兩樣都有。用 and 並列 water 和 food。"
           },
           {
             "id": "m2-2-u3-q006",
-            "question": "___ the teacher opens the jar, the children always look inside.",
+            "question": "Last Saturday, when the farmer opened the gate, the cows ___ out right away.",
             "options": [
-              "A. So",
-              "B. Or",
-              "C. When",
-              "D. But"
+              "A. run",
+              "B. running",
+              "C. ran",
+              "D. runs"
             ],
             "answer": "C",
             "answer_index": 2,
-            "hint": "空格引導「老師打開罐子時」這個時間子句；句首子句後有逗號，用 When。"
+            "hint": "Last Saturday 和 opened 指出是過去的事。主句的限定動詞用過去式 ran。"
           },
           {
             "id": "m2-2-u3-q007",
-            "question": "Please take a break when you ___ tired.",
+            "question": "When the light ___ green, cross the street.",
             "options": [
-              "A. feel",
-              "B. feels",
-              "C. felt",
-              "D. feeling"
+              "A. turns",
+              "B. turning",
+              "C. turn",
+              "D. will turn"
             ],
             "answer": "A",
             "answer_index": 0,
-            "hint": "這是一般性的提醒，when 子句用現在式；主詞 you 搭配 feel。feeling 單獨不能當限定動詞。"
+            "hint": "cross the street 是指令，when 子句交代何時執行，用現在式。the light 是單數，因此用 turns。"
           },
           {
             "id": "m2-2-u3-q008",
-            "question": "When the goose saw us yesterday, it ___ into the pool.",
+            "question": "We found the map at noon and started our walk at one. We found it ___ we started walking.",
             "options": [
-              "A. jump",
-              "B. jumped",
-              "C. jumps",
-              "D. jumping"
+              "A. while",
+              "B. before",
+              "C. after",
+              "D. when"
             ],
             "answer": "B",
             "answer_index": 1,
-            "hint": "yesterday 和 saw 表明過去事件；主句使用過去式 jumped。"
+            "hint": "中午找到地圖，一點才開始走。找到地圖比開始走早，因此用 before。"
           },
           {
             "id": "m2-2-u3-q009",
-            "question": "Every morning, Mom ___ her hands before she cooks chicken.",
+            "question": "The children fed the ducks at three. An hour later, they took a break. They took a break ___ they fed the ducks.",
             "options": [
-              "A. wash",
-              "B. washed",
-              "C. washing",
-              "D. washes"
+              "A. while",
+              "B. after",
+              "C. before",
+              "D. when"
             ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "Every morning 表示習慣；Mom 是第三人稱單數，現在式用 washes。"
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "餵鴨後隔了一小時才休息，休息比餵鴨晚，因此用 after。"
           },
           {
             "id": "m2-2-u3-q010",
-            "question": "Please tell me when the school bus ___ tomorrow.",
+            "question": "Before ___ water into the jar, wash it with soap.",
             "options": [
-              "A. come",
-              "B. came",
-              "C. comes",
-              "D. coming"
+              "A. to pour",
+              "B. pour",
+              "C. pouring",
+              "D. poured"
             ],
             "answer": "C",
             "answer_index": 2,
-            "hint": "when 引導的未來時間子句使用現在簡單式；the school bus 是單數，所以用 comes。"
+            "hint": "before 後省略了與祈使句相同的主詞 you，動詞用 pouring。"
           },
           {
             "id": "m2-2-u3-q011",
-            "question": "We finished breakfast at seven and left home at eight. We finished breakfast ___ we left home.",
+            "question": "After ___ the rock with both hands, Maya set it on the table.",
             "options": [
-              "A. before",
-              "B. after",
-              "C. when",
-              "D. while"
+              "A. to pick up",
+              "B. pick up",
+              "C. picked up",
+              "D. picking up"
             ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "七點吃完早餐，八點離家；早餐完成在離家之前，因此用 before。"
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "撿起和放下都是 Maya 做的。after 後省略主詞時，可用 picking up。"
           },
           {
             "id": "m2-2-u3-q012",
-            "question": "We reached the forest at nine and took a break at ten. We took a break ___ we reached the forest.",
+            "question": "After Dad ___ the map yesterday, he knew which way to go.",
             "options": [
-              "A. before",
-              "B. until",
-              "C. after",
-              "D. because of"
+              "A. checking",
+              "B. check",
+              "C. checked",
+              "D. will check"
             ],
             "answer": "C",
             "answer_index": 2,
-            "hint": "九點先到森林，十點才休息；休息發生在到達之後，用 after。because of 不能接這個完整子句。"
+            "hint": "after 後已有主詞 Dad，須接限定動詞。yesterday 指過去，所以用 checked。"
           },
           {
             "id": "m2-2-u3-q013",
-            "question": "Before ___ up the rock, Ben put down his map.",
+            "question": "Before you touch the duck, ___ your hands.",
             "options": [
-              "A. picking",
-              "B. pick",
-              "C. picked",
-              "D. picks"
+              "A. washed",
+              "B. to wash",
+              "C. washing",
+              "D. wash"
             ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "Before 後沒有另寫主詞；兩個動作都是 Ben 做的，省略主詞後使用 V-ing，所以是 picking。"
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "逗號後是對 you 下指令的祈使句，句首動詞用原形 wash。"
           },
           {
             "id": "m2-2-u3-q014",
-            "question": "After ___ the jar, Amy bent down to pick it up.",
+            "question": "Please turn off the lights before you ___ the room tonight.",
             "options": [
-              "A. drop",
-              "B. dropping",
-              "C. dropped",
-              "D. drops"
+              "A. leave",
+              "B. will leave",
+              "C. left",
+              "D. leaving"
             ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "After 後沒有主詞，使用 V-ing；drop 要重複 p 再加 ing，成為 dropping。"
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "tonight 指未來，但 before 引導時間子句時用現在式。you 搭配 leave。"
           },
           {
             "id": "m2-2-u3-q015",
-            "question": "After the girl ___ the jar yesterday, she found a frog inside.",
+            "question": "As soon as the rain stopped, we went back outside. ___ the rain stopped, we went back outside.",
             "options": [
-              "A. opened",
-              "B. open",
-              "C. opens",
-              "D. opening"
+              "A. When",
+              "B. While",
+              "C. Because of",
+              "D. Before"
             ],
             "answer": "A",
             "answer_index": 0,
-            "hint": "After 後有主詞 the girl，必須接完整動詞；yesterday 和 found 表明過去，使用 opened。"
+            "hint": "as soon as 表示雨一停就出去。when 可指出雨停的那一刻，because of 後不能接這個完整子句。"
           },
           {
             "id": "m2-2-u3-q016",
-            "question": "Before you enter the forest, ___ the map carefully.",
+            "question": "At seven last night, a frog ___ sitting on a flat rock by the pond.",
             "options": [
-              "A. checked",
-              "B. check",
-              "C. checking",
-              "D. to check"
+              "A. were",
+              "B. did",
+              "C. is",
+              "D. was"
             ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "逗號後是提出提醒的祈使句，省略主詞 you，動詞用原形 check。"
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "At seven last night 指過去，a frog 是單數，與 sitting 搭配的是 was。"
           },
           {
             "id": "m2-2-u3-q017",
-            "question": "The cow reached the pool at two. We left at three. The cow reached the pool ___ we left.",
+            "question": "When we passed the farm yesterday, the cows ___ eating grass by the fence.",
             "options": [
-              "A. before",
-              "B. after",
-              "C. when",
-              "D. while"
+              "A. did",
+              "B. were",
+              "C. are",
+              "D. was"
             ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "母牛兩點到，我們三點離開；到達比離開早，用 before。"
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "昨天經過時，吃草正在進行。the cows 是複數，所以用 were eating。"
           },
           {
             "id": "m2-2-u3-q018",
-            "question": "The game ended at four. Our team shouted for joy at four ten. We shouted for joy ___ the game ended.",
+            "question": "At noon yesterday, I was asleep. I ___ looking for the map then.",
             "options": [
-              "A. before",
-              "B. until",
-              "C. because of",
-              "D. after"
+              "A. didn't",
+              "B. am not",
+              "C. wasn't",
+              "D. weren't"
             ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "比賽四點結束，四點十分才歡呼，所以歡呼在比賽結束之後，使用 after。"
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "I was asleep 表示當時沒在找地圖。I 搭配 wasn't，再接 looking。"
           },
           {
             "id": "m2-2-u3-q019",
-            "question": "Dad ___ chicken at six yesterday evening.",
+            "question": "We were all inside when it started raining. We ___ swimming in the pool then.",
             "options": [
-              "A. were cooking",
-              "B. was cook",
-              "C. was cooking",
-              "D. cooking"
+              "A. didn't",
+              "B. aren't",
+              "C. weren't",
+              "D. wasn't"
             ],
             "answer": "C",
             "answer_index": 2,
-            "hint": "Dad 是單數；描述昨晚六點正在做的活動，使用 was + V-ing，也就是 was cooking。"
+            "hint": "大家都在屋內，當時沒有在泳池游泳。We 搭配 weren't，再接 swimming。"
           },
           {
             "id": "m2-2-u3-q020",
-            "question": "The geese ___ in the pool at that time.",
+            "question": "The duck was ___ across the pool when we got there.",
             "options": [
-              "A. was swimming",
-              "B. were swim",
-              "C. were swimming",
-              "D. swimming"
+              "A. swam",
+              "B. swimming",
+              "C. swim",
+              "D. to swimming"
             ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "geese 是 goose 的複數，搭配 were；進行式動詞用 swimming。"
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "was 後接 V-ing 表示當時正在進行。swim 要重複 m 再加 ing。"
           },
           {
             "id": "m2-2-u3-q021",
-            "question": "I ___ at the map at ten last night.",
+            "question": "At noon yesterday, the farmer was ___ a chicken back to the farm.",
             "options": [
-              "A. were looking",
-              "B. was looking",
-              "C. was look",
-              "D. looking"
+              "A. take",
+              "B. took",
+              "C. taking",
+              "D. takes"
             ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "I 的過去 be 動詞是 was；at ten last night 指過去時間點，進行式用 was looking。"
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "was 後接 V-ing，take 去掉字尾 e 再加 ing。"
           },
           {
             "id": "m2-2-u3-q022",
-            "question": "At eight last night, Leo was asleep in bed. He ___ in the pool then.",
+            "question": "At that moment, the birds were ___ over the forest.",
             "options": [
-              "A. was swimming",
-              "B. isn't swimming",
-              "C. wasn't swimming",
-              "D. is swimming"
+              "A. flying",
+              "B. fly",
+              "C. flew",
+              "D. flies"
             ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "Leo 在昨晚八點熟睡，因此當時沒有在游泳；過去進行式否定為 was not swimming。"
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "were 後接 V-ing 表示正在飛。fly 直接加 ing，寫成 flying。"
           },
           {
             "id": "m2-2-u3-q023",
-            "question": "The children ___ back and forth at five yesterday.",
+            "question": "At nine yesterday, I ___ looking through a box for the old map.",
             "options": [
-              "A. was running",
-              "B. were run",
-              "C. were running",
-              "D. were ran"
+              "A. am",
+              "B. was",
+              "C. were",
+              "D. did"
             ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "children 是複數，使用 were；進行式後接 running，不能接原形 run 或過去式 ran。"
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "at nine yesterday 指過去，主詞 I 搭配 was looking。"
           },
           {
             "id": "m2-2-u3-q024",
-            "question": "Tina was ___ the outside of the jar with a towel then.",
+            "question": "You ___ walking back and forth when I saw you yesterday.",
             "options": [
-              "A. dry",
-              "B. dries",
-              "C. drying",
-              "D. dried"
+              "A. were",
+              "B. was",
+              "C. are",
+              "D. did"
             ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "was 後要接 V-ing 才是進行式；dry 直接加 ing，變成 drying。"
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "saw 和 yesterday 指過去。You 搭配 were walking。"
           },
           {
             "id": "m2-2-u3-q025",
-            "question": "The goose ___ close to the cow at that moment.",
+            "question": "The dog was running along the path and ___ at every bird it saw.",
             "options": [
-              "A. were standing",
-              "B. was standing",
-              "C. was stand",
-              "D. standing"
+              "A. bark",
+              "B. barking",
+              "C. barked",
+              "D. barks"
             ],
             "answer": "B",
             "answer_index": 1,
-            "hint": "The goose 是單數；at that moment 表示那個時間點，用 was standing 描述正在站著的狀態。"
+            "hint": "同一隻狗的兩個動作共用 was，running 與 barking 都用 V-ing。"
           },
           {
             "id": "m2-2-u3-q026",
-            "question": "We ___ anything at nine last night. We were all asleep.",
+            "question": "Amy was drawing a frog, and her classmates ___, too.",
             "options": [
-              "A. were eating",
-              "B. aren't eating",
-              "C. weren't eating",
-              "D. are eating"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "昨晚九點大家都睡著了，沒有在吃東西；we 用 were，否定為 were not eating。"
-          },
-          {
-            "id": "m2-2-u3-q027",
-            "question": "The ducks were ___ their wings when I arrived.",
-            "options": [
-              "A. flapping",
-              "B. flap",
-              "C. flapped",
-              "D. flaps"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "were 後要接 V-ing；flap 的進行式為 flapping，不使用原形、過去式或現在式第三人稱單數。"
-          },
-          {
-            "id": "m2-2-u3-q028",
-            "question": "Billy was picking up rocks and ___ them into the jar.",
-            "options": [
-              "A. dropping",
-              "B. drop",
-              "C. dropped",
-              "D. drops"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "and 連接共用 was 的兩個動作；前面是 picking，後面也必須用 V-ing：dropping。"
-          },
-          {
-            "id": "m2-2-u3-q029",
-            "question": "I was looking for water, and my friends ___, too.",
-            "options": [
-              "A. was",
-              "B. were",
-              "C. did",
-              "D. are"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "後半省略重複的 looking for water，保留過去 be 動詞；my friends 是複數，用 were。"
-          },
-          {
-            "id": "m2-2-u3-q030",
-            "question": "Dad was cooking chicken, but Mom ___. She was reading.",
-            "options": [
-              "A. weren't",
-              "B. wasn't",
-              "C. didn't",
-              "D. isn't"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "Mom 沒有在煮雞肉；省略 cooking chicken 後保留 was not。Mom 是單數，不能用 were not。"
-          },
-          {
-            "id": "m2-2-u3-q031",
-            "question": "___ the frog sitting on a rock at that time?",
-            "options": [
-              "A. Was",
-              "B. Were",
-              "C. Did",
-              "D. Does"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "過去進行式問句把 be 放句首；the frog 是單數，所以用 Was。Did／Does 不能直接搭配 sitting。"
-          },
-          {
-            "id": "m2-2-u3-q032",
-            "question": "___ you taking a break at three yesterday afternoon?",
-            "options": [
-              "A. Was",
-              "B. Did",
-              "C. Are",
-              "D. Were"
+              "A. did",
+              "B. are",
+              "C. was",
+              "D. were"
             ],
             "answer": "D",
             "answer_index": 3,
-            "hint": "at three yesterday afternoon 是過去時間；主詞 you 用 Were，與 taking 組成過去進行式問句。"
+            "hint": "classmates 是複數，省略重複的 drawing a frog 後保留 were。"
           },
           {
-            "id": "m2-2-u3-q033",
-            "question": "A: Were you standing in the middle? B: Yes, I ___.",
+            "id": "m2-2-u3-q027",
+            "question": "The children were running, but their grandfather ___. He was sitting under a tree.",
+            "options": [
+              "A. weren't",
+              "B. wasn't",
+              "C. isn't",
+              "D. didn't"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "後句表示祖父當時沒在跑。省略 running，單數主詞用 wasn't。"
+          },
+          {
+            "id": "m2-2-u3-q028",
+            "question": "___ the geese flying over the trees when you saw them?",
+            "options": [
+              "A. Did",
+              "B. Were",
+              "C. Do",
+              "D. Was"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "過去進行式問句把 be 放句首。geese 是複數，用 Were。"
+          },
+          {
+            "id": "m2-2-u3-q029",
+            "question": "___ the cow standing near the gate when you got there?",
+            "options": [
+              "A. Was",
+              "B. Did",
+              "C. Were",
+              "D. Is"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "got there 指過去。the cow 是單數，過去進行式問句以 Was 開頭。"
+          },
+          {
+            "id": "m2-2-u3-q030",
+            "question": "A: Were you both resting under the tree then? B: Yes, we ___.",
+            "options": [
+              "A. are",
+              "B. did",
+              "C. were",
+              "D. was"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "問句是過去進行式，簡答保留過去式 be。回答主詞 we 搭配 were。"
+          },
+          {
+            "id": "m2-2-u3-q031",
+            "question": "A: Was your brother carrying the map? B: No, he ___. I had it.",
+            "options": [
+              "A. weren't",
+              "B. isn't",
+              "C. didn't",
+              "D. wasn't"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "Was 開頭的問句用 was 或 wasn't 簡答。No 指否定，he 搭配 wasn't。"
+          },
+          {
+            "id": "m2-2-u3-q032",
+            "question": "A: Were you taking pictures of the ducks? B: Yes, I ___.",
             "options": [
               "A. were",
               "B. was",
@@ -925,228 +912,241 @@
             ],
             "answer": "B",
             "answer_index": 1,
-            "hint": "過去進行式的簡答保留 be；回答主詞由 you 變成 I，所以用 was。"
+            "hint": "問句的 you 到回答變成 I。過去進行式簡答要保留 was。"
+          },
+          {
+            "id": "m2-2-u3-q033",
+            "question": "What ___ the children doing in the middle of the field when you saw them?",
+            "options": [
+              "A. did",
+              "B. was",
+              "C. were",
+              "D. are"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "saw 指過去，children 是複數，用 What were ... doing?"
           },
           {
             "id": "m2-2-u3-q034",
-            "question": "A: Was the goose sleeping then? B: No, it ___.",
+            "question": "What was the little frog ___ under the rock?",
             "options": [
-              "A. weren't",
-              "B. didn't",
-              "C. isn't",
-              "D. wasn't"
+              "A. do",
+              "B. did",
+              "C. does",
+              "D. doing"
             ],
             "answer": "D",
             "answer_index": 3,
-            "hint": "問句用 Was，主詞 it 是單數；否定簡答使用 was not，不改成 did not。"
+            "hint": "was 已是限定動詞。問當時在做什麼，用 What was ... doing?"
           },
           {
             "id": "m2-2-u3-q035",
-            "question": "What ___ Tina doing beside the pool at five yesterday?",
+            "question": "A: What was Grandpa doing at five yesterday? B: He ___ rocks from the path.",
             "options": [
-              "A. were",
-              "B. did",
-              "C. was",
-              "D. does"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "Tina 是單數，且在問昨天五點正在做什麼；句型為 What was Tina doing...?"
-          },
-          {
-            "id": "m2-2-u3-q036",
-            "question": "Who were they ___ with at seven last night?",
-            "options": [
-              "A. talk",
-              "B. talked",
-              "C. talks",
-              "D. talking"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "were 後的動作使用 V-ing；與誰說話用 talking with，句中已用 were 表示過去。"
-          },
-          {
-            "id": "m2-2-u3-q037",
-            "question": "A: What were the children doing at noon? B: They ___ a map.",
-            "options": [
-              "A. was drawing",
-              "B. were drawing",
-              "C. were draw",
-              "D. are drawing"
+              "A. is picking up",
+              "B. was picking up",
+              "C. picking up",
+              "D. were picking up"
             ],
             "answer": "B",
             "answer_index": 1,
-            "hint": "問的是過去正在做的活動；They 是複數，回答用 were drawing。"
+            "hint": "問句是過去進行式，he 搭配 was，再接 picking up。"
           },
           {
-            "id": "m2-2-u3-q038",
-            "question": "Ben ___ a map when the jar fell to the ground last night.",
+            "id": "m2-2-u3-q036",
+            "question": "I was halfway across the bridge when my map suddenly ___ into the river.",
             "options": [
-              "A. were reading",
-              "B. is reading",
-              "C. was reading",
-              "D. was read"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "last night 和 fell 表過去；Ben 是單數，描述罐子掉下來時的背景活動，用 was reading。"
-          },
-          {
-            "id": "m2-2-u3-q039",
-            "question": "The children were looking at the frog when it suddenly ___ away.",
-            "options": [
-              "A. jump",
-              "B. jumps",
-              "C. jumped",
-              "D. jumping"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "were looking 是過去正在進行的背景；青蛙突然跳走是當時發生的事件，用過去式 jumped。"
-          },
-          {
-            "id": "m2-2-u3-q040",
-            "question": "When the phone rang last night, Mom ___ chicken in the kitchen.",
-            "options": [
-              "A. is cooking",
-              "B. were cooking",
-              "C. was cook",
-              "D. was cooking"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "rang 和 last night 表過去；Mom 是單數，正在煮雞肉用 was cooking。"
-          },
-          {
-            "id": "m2-2-u3-q041",
-            "question": "A: What was Dad doing when you ___ the house? B: He was drying his hands.",
-            "options": [
-              "A. enter",
-              "B. enters",
-              "C. entering",
-              "D. entered"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "was doing 和 was drying 說明過去背景；你進屋是其間發生的事件，因此使用 entered。"
-          },
-          {
-            "id": "m2-2-u3-q042",
-            "question": "We were crossing the forest when the rain suddenly ___.",
-            "options": [
-              "A. began",
-              "B. begin",
-              "C. begins",
-              "D. beginning"
+              "A. fell",
+              "B. falls",
+              "C. fall",
+              "D. falling"
             ],
             "answer": "A",
             "answer_index": 0,
-            "hint": "were crossing 表示當時正在穿越森林；雨突然開始用過去式 began，不能用 beginning 單獨當動詞。"
+            "hint": "地圖突然掉落是過去某一刻發生的事件，使用過去簡單式 fell。"
+          },
+          {
+            "id": "m2-2-u3-q037",
+            "question": "The teacher was still reading aloud when the bell ___.",
+            "options": [
+              "A. ring",
+              "B. ringing",
+              "C. rings",
+              "D. rang"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "老師還在朗讀是背景，鐘響是過去發生的事件。ring 的過去式是 rang。"
+          },
+          {
+            "id": "m2-2-u3-q038",
+            "question": "When the jar broke, we ___ still looking for a place to put it.",
+            "options": [
+              "A. were",
+              "B. was",
+              "C. did",
+              "D. are"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "broke 指過去。we 搭配 were still looking，表示當時仍在找。"
+          },
+          {
+            "id": "m2-2-u3-q039",
+            "question": "We heard a loud shout yesterday while we ___ walking along the river.",
+            "options": [
+              "A. were",
+              "B. was",
+              "C. are",
+              "D. did"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "聽見喊叫時，沿河走正在進行。we 搭配 were walking。"
+          },
+          {
+            "id": "m2-2-u3-q040",
+            "question": "The show was just starting when the lights suddenly ___ out.",
+            "options": [
+              "A. goes",
+              "B. went",
+              "C. going",
+              "D. go"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "表演正要開始時，燈突然熄滅。這個過去事件用 went out。"
+          },
+          {
+            "id": "m2-2-u3-q041",
+            "question": "Lily ___ her hands when the doorbell rang. She still had soap on them when she opened the door.",
+            "options": [
+              "A. was washing",
+              "B. has been washing",
+              "C. were washing",
+              "D. is washing"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "rang 和 opened 指過去，手上還有肥皂顯示鈴響時仍在洗手。Lily 搭配 was washing。"
+          },
+          {
+            "id": "m2-2-u3-q042",
+            "question": "When the truck passed, the geese ___ crossing the road. They were only halfway across.",
+            "options": [
+              "A. did still",
+              "B. was still",
+              "C. were still",
+              "D. are still"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "halfway across 顯示牠們當時還在過馬路。geese 是複數，搭配 were still crossing。"
           },
           {
             "id": "m2-2-u3-q043",
-            "question": "The clock shows 2:15. It is ___.",
+            "question": "The clock says 8:15. It's ___.",
             "options": [
-              "A. a quarter past two",
-              "B. a quarter to two",
-              "C. half past two",
+              "A. a quarter to nine",
+              "B. a quarter to eight",
+              "C. a quarter past eight",
+              "D. a quarter past nine"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "8:15 是八點過十五分。a quarter 是十五分鐘，因此用 a quarter past eight。"
+          },
+          {
+            "id": "m2-2-u3-q044",
+            "question": "Our train leaves at 3:45. That's ___.",
+            "options": [
+              "A. a quarter to four",
+              "B. a quarter past four",
+              "C. a quarter to three",
               "D. a quarter past three"
             ],
             "answer": "A",
             "answer_index": 0,
-            "hint": "quarter 是 15 分鐘；2:15 是兩點過十五分，所以是 a quarter past two。"
-          },
-          {
-            "id": "m2-2-u3-q044",
-            "question": "Our walk ends at 6:45. That is ___.",
-            "options": [
-              "A. a quarter past six",
-              "B. a quarter to seven",
-              "C. half past six",
-              "D. a quarter to six"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "6:45 距離下一鐘點七點還有 15 分鐘，所以是 a quarter to seven。"
+            "hint": "3:45 距離下一個整點四點還有十五分鐘，因此用 a quarter to four。"
           },
           {
             "id": "m2-2-u3-q045",
-            "question": "We reached the top at 9:30. We got there at ___.",
+            "question": "The show ended at 11:30, or ___.",
             "options": [
-              "A. half to nine",
-              "B. a quarter past nine",
-              "C. half past ten",
-              "D. half past nine"
+              "A. a quarter past eleven",
+              "B. half past ten",
+              "C. half past eleven",
+              "D. a quarter to eleven"
             ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "9:30 是九點半，用 half past nine；half 不與 to 組成此時間說法。"
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "11:30 是十一點半，因此用 half past eleven。"
           },
           {
             "id": "m2-2-u3-q046",
-            "question": "It is 5:20 now. It is twenty ___ five.",
+            "question": "It's 2:50. That means it's ___.",
             "options": [
-              "A. to",
-              "B. for",
-              "C. over",
-              "D. past"
+              "A. ten to three",
+              "B. ten to two",
+              "C. ten past two",
+              "D. ten past three"
             ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "5:20 是五點過二十分；分鐘 + past + 當下鐘點，所以用 past。twenty to five 則是 4:40。"
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "2:50 距離三點還有十分鐘，因此用 ten to three。"
           },
           {
             "id": "m2-2-u3-q047",
-            "question": "The school bus leaves ___ ten to eight every morning.",
+            "question": "The pool closes ___ twenty past six every evening.",
             "options": [
-              "A. on",
-              "B. in",
-              "C. to",
-              "D. at"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "ten to eight 是 7:50，屬於明確的時間點；時間點前使用 at。"
-          },
-          {
-            "id": "m2-2-u3-q048",
-            "question": "The lesson starts at 4:30. It is only five minutes away. It is ___ now.",
-            "options": [
-              "A. twenty-five past four",
-              "B. twenty-five to four",
-              "C. half past four",
-              "D. twenty-five past five"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "距離 4:30 還有五分鐘，現在是 4:25，也就是 twenty-five past four。"
-          },
-          {
-            "id": "m2-2-u3-q049",
-            "question": "A: The movie starts at eight. Are we late? B: No. It's only ___.",
-            "options": [
-              "A. eight past eight",
-              "B. half past seven",
-              "C. a quarter past eight",
-              "D. seven to nine"
+              "A. by the",
+              "B. at",
+              "C. on",
+              "D. in"
             ],
             "answer": "B",
             "answer_index": 1,
-            "hint": "還沒遲到表示現在早於八點。half past seven 是 7:30；其他選項都已超過八點。"
+            "hint": "twenty past six 是明確的鐘點，前面加 at。"
+          },
+          {
+            "id": "m2-2-u3-q048",
+            "question": "It's 9:05. It's five minutes ___ nine.",
+            "options": [
+              "A. until",
+              "B. before",
+              "C. to",
+              "D. after"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "9:05 是九點過五分，five minutes after nine 表示這個鐘點。"
+          },
+          {
+            "id": "m2-2-u3-q049",
+            "question": "Our class starts at 10:30. It starts in fifteen minutes. It's ___ now.",
+            "options": [
+              "A. a quarter to ten",
+              "B. a quarter to eleven",
+              "C. a quarter past ten",
+              "D. a quarter past eleven"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "從 10:30 往前推十五分鐘是 10:15，因此用 a quarter past ten。"
           },
           {
             "id": "m2-2-u3-q050",
-            "question": "It is 10:55. We can also say it is ___.",
+            "question": "It's 12:55, so it's ___.",
             "options": [
-              "A. five to eleven",
-              "B. ten to eleven",
-              "C. five to ten",
-              "D. five past eleven"
+              "A. five past one",
+              "B. five past twelve",
+              "C. five to twelve",
+              "D. five to one"
             ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "55 分距離下一個整點還有 5 分鐘；十點的下一鐘點是十一點，所以是 five to eleven。"
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "12:55 距離下一個整點一點只剩五分鐘，因此用 five to one。"
           }
         ]
       },
@@ -1434,153 +1434,153 @@
         "grammar": [
           {
             "id": "m2-2-u3-sg001",
-            "sentence": "When the frog saw us, it jumped away.",
-            "sentence_chinese": "青蛙看見我們時，就跳走了。"
+            "sentence": "The water was cold, but we went swimming.",
+            "sentence_chinese": "水很冷，但我們還是下去游泳了。"
           },
           {
             "id": "m2-2-u3-sg002",
-            "sentence": "We checked the map before we entered the forest.",
-            "sentence_chinese": "我們進入森林前先查看地圖。"
+            "sentence": "Check the map before you cross the river.",
+            "sentence_chinese": "過河前先看一下地圖。"
           },
           {
             "id": "m2-2-u3-sg003",
-            "sentence": "The geese were swimming in the pool then.",
-            "sentence_chinese": "那些鵝當時正在水池裡游泳。"
+            "sentence": "The children were washing their hands at noon.",
+            "sentence_chinese": "孩子們中午正在洗手。"
           },
           {
             "id": "m2-2-u3-sg004",
-            "sentence": "After the game ended, we shouted for joy.",
-            "sentence_chinese": "比賽結束後，我們高興地大叫。"
+            "sentence": "The first bus leaves at a quarter to six.",
+            "sentence_chinese": "第一班公車五點四十五分發車。"
           },
           {
             "id": "m2-2-u3-sg005",
-            "sentence": "Was Billy picking up rocks at that time?",
-            "sentence_chinese": "Billy 當時正在撿石頭嗎？"
+            "sentence": "I was feeding the ducks when the rain started.",
+            "sentence_chinese": "開始下雨時，我正在餵鴨子。"
           },
           {
             "id": "m2-2-u3-sg006",
-            "sentence": "The movie starts at a quarter past seven.",
-            "sentence_chinese": "電影在七點十五分開始。"
+            "sentence": "After drying the jar, Mia put it away.",
+            "sentence_chinese": "把罐子擦乾後，Mia 就把它收起來了。"
           },
           {
             "id": "m2-2-u3-sg007",
-            "sentence": "Mom was cooking when I reached the house.",
-            "sentence_chinese": "我到家時，媽媽正在煮飯。"
+            "sentence": "We had no map, so we asked for help.",
+            "sentence_chinese": "我們沒有地圖，所以就請人幫忙。"
           },
           {
             "id": "m2-2-u3-sg008",
-            "sentence": "Please call me when the school bus comes.",
-            "sentence_chinese": "校車來時，請打電話給我。"
+            "sentence": "What were the geese doing near the gate?",
+            "sentence_chinese": "那些鵝當時在大門附近做什麼？"
           },
           {
             "id": "m2-2-u3-sg009",
-            "sentence": "The jar was empty, so we looked for water.",
-            "sentence_chinese": "罐子空了，所以我們去找水。"
+            "sentence": "The farmer came back at half past four.",
+            "sentence_chinese": "農夫四點半回來。"
           },
           {
             "id": "m2-2-u3-sg010",
-            "sentence": "What were you doing beside the pool then?",
-            "sentence_chinese": "你當時在水池邊做什麼？"
+            "sentence": "When the sun came out, the frogs jumped into the pool.",
+            "sentence_chinese": "太陽出來時，青蛙跳進了水池。"
           },
           {
             "id": "m2-2-u3-sg011",
-            "sentence": "Before picking up the jar, I dried my hands.",
-            "sentence_chinese": "我拿起罐子前先擦乾雙手。"
+            "sentence": "Before leaving home, Leo filled his water bottle.",
+            "sentence_chinese": "離家前，Leo 裝滿了水壺。"
           },
           {
             "id": "m2-2-u3-sg012",
-            "sentence": "It is a quarter to nine now.",
-            "sentence_chinese": "現在是八點四十五分。"
+            "sentence": "Were you cooking chicken when I called?",
+            "sentence_chinese": "我打電話時，你正在煮雞肉嗎？"
           },
           {
             "id": "m2-2-u3-sg013",
-            "sentence": "The children were singing and dancing in the sun.",
-            "sentence_chinese": "孩子們當時在太陽下一邊唱歌一邊跳舞。"
+            "sentence": "We stopped walking because the path was wet.",
+            "sentence_chinese": "我們停下腳步，因為小路濕了。"
           },
           {
             "id": "m2-2-u3-sg014",
-            "sentence": "We took a break because we were tired.",
-            "sentence_chinese": "我們因為累了而休息。"
+            "sentence": "It was ten to eight when we reached school.",
+            "sentence_chinese": "我們到學校時是七點五十分。"
           },
           {
             "id": "m2-2-u3-sg015",
-            "sentence": "When the jar fell, Tina was reading the map.",
-            "sentence_chinese": "罐子掉下來時，Tina 正在看地圖。"
+            "sentence": "The ducks were swimming and looking for food.",
+            "sentence_chinese": "那些鴨子一邊游泳一邊找食物。"
           },
           {
             "id": "m2-2-u3-sg016",
-            "sentence": "I washed the jar after I used it.",
-            "sentence_chinese": "我使用罐子後把它洗乾淨。"
+            "sentence": "After the show ended, we took some pictures.",
+            "sentence_chinese": "表演結束後，我們拍了幾張照片。"
           },
           {
             "id": "m2-2-u3-sg017",
-            "sentence": "Dad was cooking, but Mom was not.",
-            "sentence_chinese": "爸爸當時在煮飯，但媽媽沒有。"
+            "sentence": "We were not sitting in the sun then.",
+            "sentence_chinese": "我們當時沒有坐在陽光下。"
           },
           {
             "id": "m2-2-u3-sg018",
-            "sentence": "The bus leaves at half past six.",
-            "sentence_chinese": "公車在六點半出發。"
+            "sentence": "Call me when your bus reaches the station.",
+            "sentence_chinese": "你的公車到站時，打電話給我。"
           },
           {
             "id": "m2-2-u3-sg019",
-            "sentence": "The goose came close when it saw the food.",
-            "sentence_chinese": "那隻鵝看見食物時就靠了過來。"
+            "sentence": "The race begins at twenty past three.",
+            "sentence_chinese": "比賽三點二十分開始。"
           },
           {
             "id": "m2-2-u3-sg020",
-            "sentence": "Were the children running back and forth then?",
-            "sentence_chinese": "孩子們當時正在來回跑嗎？"
+            "sentence": "Two ants were carrying food along the wall.",
+            "sentence_chinese": "兩隻螞蟻當時正沿著牆搬運食物。"
           },
           {
             "id": "m2-2-u3-sg021",
-            "sentence": "After filling the jar, we went back home.",
-            "sentence_chinese": "裝滿罐子後，我們就回家了。"
+            "sentence": "I packed lunch before my brother woke up.",
+            "sentence_chinese": "我在弟弟起床前就把午餐裝好了。"
           },
           {
             "id": "m2-2-u3-sg022",
-            "sentence": "The rock was small, but it was heavy.",
-            "sentence_chinese": "那塊石頭很小，但很重。"
+            "sentence": "Would you like to walk or take the bus?",
+            "sentence_chinese": "你想走路還是搭公車？"
           },
           {
             "id": "m2-2-u3-sg023",
-            "sentence": "We were crossing the forest when it started raining.",
-            "sentence_chinese": "開始下雨時，我們正在穿越森林。"
+            "sentence": "When the door opened, we were making lunch.",
+            "sentence_chinese": "門打開時，我們正在做午餐。"
           },
           {
             "id": "m2-2-u3-sg024",
-            "sentence": "Who were you talking with at seven yesterday?",
-            "sentence_chinese": "你昨天七點在和誰說話？"
+            "sentence": "After washing the dishes, Ben took a break.",
+            "sentence_chinese": "洗完碗後，Ben 休息了一下。"
           },
           {
             "id": "m2-2-u3-sg025",
-            "sentence": "The cow reached the pool before we did.",
-            "sentence_chinese": "那頭母牛比我們早到水池。"
+            "sentence": "It is a quarter past nine right now.",
+            "sentence_chinese": "現在是九點十五分。"
           },
           {
             "id": "m2-2-u3-sg026",
-            "sentence": "We finished our walk at twenty past four.",
-            "sentence_chinese": "我們在四點二十分結束散步。"
+            "sentence": "Was the duck hiding behind a rock then?",
+            "sentence_chinese": "那隻鴨子當時正躲在石頭後面嗎？"
           },
           {
             "id": "m2-2-u3-sg027",
-            "sentence": "They were not swimming at three yesterday afternoon.",
-            "sentence_chinese": "他們昨天下午三點沒有在游泳。"
+            "sentence": "The kids were laughing when the teacher arrived.",
+            "sentence_chinese": "老師到的時候，孩子們正在笑。"
           },
           {
             "id": "m2-2-u3-sg028",
-            "sentence": "Before you enter the forest, check the map.",
-            "sentence_chinese": "進入森林前，先查看地圖。"
+            "sentence": "I brought the map, and Nora brought the food.",
+            "sentence_chinese": "我帶了地圖，Nora 帶了食物。"
           },
           {
             "id": "m2-2-u3-sg029",
-            "sentence": "I was reading, and my friends were, too.",
-            "sentence_chinese": "我當時在閱讀，我的朋友們也一樣。"
+            "sentence": "Please close the gate after the cows leave.",
+            "sentence_chinese": "母牛離開後，請把門關上。"
           },
           {
             "id": "m2-2-u3-sg030",
-            "sentence": "After we reached the top, we took a break.",
-            "sentence_chinese": "到達頂端後，我們休息了一下。"
+            "sentence": "Dad was sleeping, but the children were not.",
+            "sentence_chinese": "爸爸當時在睡覺，孩子們沒有。"
           }
         ]
       },

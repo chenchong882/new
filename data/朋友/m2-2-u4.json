@@ -526,653 +526,653 @@
         "quiz": [
           {
             "id": "m2-2-u4-q001",
-            "question": "The teenager wants ___ a reporter when he grows up.",
+            "question": "The young actress decided ___ her own short film this summer.",
             "options": [
-              "A. is",
-              "B. be",
+              "A. to make",
+              "B. made",
+              "C. makes",
+              "D. making"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "decide 後接 to V 表示決定要做的事，所以用 to make。"
+          },
+          {
+            "id": "m2-2-u4-q002",
+            "question": "My sister enjoys ___ funny pictures of our dog.",
+            "options": [
+              "A. takes",
+              "B. taking",
+              "C. took",
+              "D. to take"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "enjoy 後接動名詞。take 去掉字尾 e 加 ing，變成 taking。"
+          },
+          {
+            "id": "m2-2-u4-q003",
+            "question": "The reporter needs ___ three people for her story today.",
+            "options": [
+              "A. interviewed",
+              "B. to interview",
+              "C. interviews",
+              "D. interview"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "need 後接 to V 可表示有件事需要去做。這裡用 needs to interview。"
+          },
+          {
+            "id": "m2-2-u4-q004",
+            "question": "The waiter asked the guests ___ by the front door.",
+            "options": [
+              "A. waits",
+              "B. waited",
+              "C. waiting",
+              "D. to wait"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "ask＋人＋to V 表示請某人做某事，the guests 後接 to wait。"
+          },
+          {
+            "id": "m2-2-u4-q005",
+            "question": "The drum is for the school show. Dad told us ___ it at home.",
+            "options": [
+              "A. to not leaving",
+              "B. not to leave",
+              "C. don't leave",
+              "D. not leaving"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "樂器是表演要用的。tell＋人＋not to V 表示告訴某人別做某事。"
+          },
+          {
+            "id": "m2-2-u4-q006",
+            "question": "The teenagers practice ___ their lines before each show.",
+            "options": [
+              "A. say",
+              "B. saying",
+              "C. to say",
+              "D. said"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "practice 後接 V-ing 表示練習做某事，所以用 saying。"
+          },
+          {
+            "id": "m2-2-u4-q007",
+            "question": "___ for three different teams is hard work.",
+            "options": [
+              "A. Training",
+              "B. Trained",
+              "C. Train",
+              "D. Trains"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "句子需要主詞，Training for three different teams 將「為三支隊伍訓練」整件事當作主詞。"
+          },
+          {
+            "id": "m2-2-u4-q008",
+            "question": "It is important for new actors ___ to one another.",
+            "options": [
+              "A. listened",
+              "B. listening",
+              "C. listen",
+              "D. to listen"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "It is＋形容詞＋for 人＋to V 是虛主詞句型，to listen 片語交代重要的是哪件事。"
+          },
+          {
+            "id": "m2-2-u4-q009",
+            "question": "We went to the show without ___ a camera.",
+            "options": [
+              "A. bringing",
+              "B. brought",
+              "C. bring",
+              "D. to bring"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "without 是介系詞，後面要接 V-ing，所以用 bringing。"
+          },
+          {
+            "id": "m2-2-u4-q010",
+            "question": "The school plans ___ a music room next year.",
+            "options": [
+              "A. build",
+              "B. built",
+              "C. to build",
+              "D. building"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "plan 後接 to V，表示計畫做某事，因此用 plans to build。"
+          },
+          {
+            "id": "m2-2-u4-q011",
+            "question": "The singer kept ___ until she knew the song by heart.",
+            "options": [
+              "A. practices",
+              "B. practiced",
+              "C. to practice",
+              "D. practicing"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "keep 表示持續做某事時接 V-ing。kept 已標示過去，後面用 practicing。"
+          },
+          {
+            "id": "m2-2-u4-q012",
+            "question": "The actress invited me ___ a part in her new film.",
+            "options": [
+              "A. play",
+              "B. playing",
+              "C. to play",
+              "D. played"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "invite＋人＋to V 表示邀請某人做某事，所以選 to play。"
+          },
+          {
+            "id": "m2-2-u4-q013",
+            "question": "My brother is good at ___ the guitar by ear.",
+            "options": [
+              "A. plays",
+              "B. to play",
+              "C. play",
+              "D. playing"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "be good at 中的 at 是介系詞，後接動名詞 playing。"
+          },
+          {
+            "id": "m2-2-u4-q014",
+            "question": "Yesterday, our team chose ___ a funny story for the show.",
+            "options": [
+              "A. telling",
+              "B. to tell",
+              "C. tell",
+              "D. tells"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "choose 的過去式是 chose。要說選擇做什麼，用 chose to tell。"
+          },
+          {
+            "id": "m2-2-u4-q015",
+            "question": "Recording songs at home ___ a good way to practice.",
+            "options": [
+              "A. be",
+              "B. being",
+              "C. is",
+              "D. are"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "主詞是 Recording songs at home 這一項活動，視為單數。songs 是 Recording 的受詞，因此用 is。"
+          },
+          {
+            "id": "m2-2-u4-q016",
+            "question": "The factory worker hopes ___ enough money for a new guitar.",
+            "options": [
+              "A. saves",
+              "B. saving",
+              "C. saved",
+              "D. to save"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "hope 後接 to V 表示希望能做某事，因此是 hopes to save。"
+          },
+          {
+            "id": "m2-2-u4-q017",
+            "question": "The drummer finished ___ his drum before the show.",
+            "options": [
+              "A. to clean",
+              "B. cleaned",
+              "C. cleans",
+              "D. cleaning"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "finish 後接動名詞，表示做完某件事。這裡用 finished cleaning。"
+          },
+          {
+            "id": "m2-2-u4-q018",
+            "question": "Thank you for ___ me how to use the camera.",
+            "options": [
+              "A. showing",
+              "B. showed",
+              "C. show",
+              "D. to show"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "for 是介系詞，後面接 V-ing。這裡用 showing。"
+          },
+          {
+            "id": "m2-2-u4-q019",
+            "question": "While we were riding home, I saw a rainbow and reached for my camera. We stopped ___ a picture of it before riding on.",
+            "options": [
+              "A. to take",
+              "B. took",
+              "C. take",
+              "D. taking"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "看見彩虹才拿相機。原本的動作是騎車，中途停下來是為了拍照，所以用 stop＋to V。"
+          },
+          {
+            "id": "m2-2-u4-q020",
+            "question": "The show is tomorrow. Remember ___ the camera before you leave home.",
+            "options": [
+              "A. to charge",
+              "B. charge",
+              "C. charged",
+              "D. charging"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "表演還沒開始，這是提醒出門前要充電，用 remember＋to V。"
+          },
+          {
+            "id": "m2-2-u4-q021",
+            "question": "I forgot ___ the lights before I left, so they stayed on all night.",
+            "options": [
+              "A. turned off",
+              "B. to turn off",
+              "C. turn off",
+              "D. turning off"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "燈亮了一整晚，表示關燈這件事漏做了。forget＋to V 表示忘了要做。"
+          },
+          {
+            "id": "m2-2-u4-q022",
+            "question": "I remember ___ this song with you at the school show last year.",
+            "options": [
+              "A. singing",
+              "B. sang",
+              "C. sings",
+              "D. to sing"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "last year 表示在回想已發生的事。remember＋V-ing 表示記得做過。"
+          },
+          {
+            "id": "m2-2-u4-q023",
+            "question": "The baby fell asleep, so we stopped ___ and sat in silence.",
+            "options": [
+              "A. sings",
+              "B. to sing",
+              "C. singing",
+              "D. sang"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "sat in silence 表示接下來安靜了。停止原本的唱歌動作用 stop＋V-ing。"
+          },
+          {
+            "id": "m2-2-u4-q024",
+            "question": "I forgot ___ this song onstage as a child until Dad played the old video.",
+            "options": [
+              "A. sang",
+              "B. singing",
+              "C. to sing",
+              "D. sings"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "舊影片讓說話者想起童年上台唱歌的經驗。forget＋V-ing 表示忘記曾經做過。"
+          },
+          {
+            "id": "m2-2-u4-q025",
+            "question": "The writer would like ___ about life in a small town.",
+            "options": [
+              "A. writing",
+              "B. writes",
+              "C. to write",
+              "D. write"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "would like 表示想要，後面接不定詞 to write。"
+          },
+          {
+            "id": "m2-2-u4-q026",
+            "question": "The new waiter learned ___ three plates at once.",
+            "options": [
+              "A. carries",
+              "B. carried",
+              "C. to carry",
+              "D. carrying"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "learn＋to V 表示學會做某事。learned 已標示過去，後面用 to carry。"
+          },
+          {
+            "id": "m2-2-u4-q027",
+            "question": "The team is preparing ___ at the school show.",
+            "options": [
+              "A. dances",
+              "B. danced",
+              "C. to dance",
+              "D. dancing"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "prepare＋to V 表示準備做某事，所以是 preparing to dance。"
+          },
+          {
+            "id": "m2-2-u4-q028",
+            "question": "My cousin loves ___ pictures of the night sky.",
+            "options": [
+              "A. taking",
+              "B. took",
+              "C. takes",
+              "D. take"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "love 可接 V-ing 或 to V。四個選項中，只有 taking 屬於這兩種形式。"
+          },
+          {
+            "id": "m2-2-u4-q029",
+            "question": "The crowd began ___ when the singer walked onto the stage.",
+            "options": [
+              "A. clap",
+              "B. to clap",
+              "C. claps",
+              "D. clapped"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "begin 可接 to V 或 V-ing。這四個選項中只有 to clap 符合。"
+          },
+          {
+            "id": "m2-2-u4-q030",
+            "question": "The writer enjoys reading books and ___ stories for children.",
+            "options": [
+              "A. writes",
+              "B. wrote",
+              "C. write",
+              "D. writing"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "and 連接 enjoy 後面兩項活動。reading 和 writing 都用 V-ing。"
+          },
+          {
+            "id": "m2-2-u4-q031",
+            "question": "Do you mind ___ the music down a little?",
+            "options": [
+              "A. turn",
+              "B. turned",
+              "C. to turn",
+              "D. turning"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "mind 後接 V-ing。Do you mind turning ...? 是在問對方是否介意做這個動作。"
+          },
+          {
+            "id": "m2-2-u4-q032",
+            "question": "How about ___ a gift for our music teacher?",
+            "options": [
+              "A. to make",
+              "B. make",
+              "C. made",
+              "D. making"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "How about ...? 用來提出建議，about 後接動名詞 making。"
+          },
+          {
+            "id": "m2-2-u4-q033",
+            "question": "The secretary was busy ___ calls all morning.",
+            "options": [
+              "A. answering",
+              "B. answered",
+              "C. answer",
+              "D. to answer"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "be busy＋V-ing 表示忙著做某事，因此用 answering。"
+          },
+          {
+            "id": "m2-2-u4-q034",
+            "question": "The kids had fun ___ their first music video.",
+            "options": [
+              "A. film",
+              "B. filming",
+              "C. to film",
+              "D. filmed"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "have fun＋V-ing 表示做某事很開心。had 已標示過去，後面用 filming。"
+          },
+          {
+            "id": "m2-2-u4-q035",
+            "question": "The teacher taught my sister ___ this song on the guitar.",
+            "options": [
+              "A. to play",
+              "B. plays",
+              "C. played",
+              "D. playing"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "teach＋人＋to V 表示教某人做某事。my sister 後接 to play。"
+          },
+          {
+            "id": "m2-2-u4-q036",
+            "question": "The coach wanted the players ___ ready for the first game, so they practiced every day.",
+            "options": [
+              "A. are",
+              "B. were",
               "C. being",
               "D. to be"
             ],
             "answer": "D",
             "answer_index": 3,
-            "hint": "wants 後面接不定詞 to V；a reporter 前需用 be，所以選 to be。"
+            "hint": "want＋人＋to V 表示希望某人做某事或處於某種狀態。the players 後接 to be。"
           },
           {
-            "id": "m2-2-u4-q002",
-            "question": "Our team enjoys ___ funny videos about school life.",
+            "id": "m2-2-u4-q037",
+            "question": "It was getting late, so we decided ___ another video that night. We went straight to bed.",
             "options": [
-              "A. make",
-              "B. makes",
-              "C. making",
-              "D. to make"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "enjoys 後面接動名詞 V-ing；make 要去 e 加 ing，變成 making。"
-          },
-          {
-            "id": "m2-2-u4-q003",
-            "question": "The sign says \"No photos.\" The guard told us ___ photos here.",
-            "options": [
-              "A. don't take",
-              "B. not to take",
-              "C. to take not",
-              "D. not taking"
+              "A. not making",
+              "B. not to make",
+              "C. did not make",
+              "D. don't make"
             ],
             "answer": "B",
             "answer_index": 1,
-            "hint": "No photos 表示禁止拍照；tell＋人＋not to V 表示告訴某人不要做某事。"
+            "hint": "後句表示大家直接去睡了。decide 後接 to V，否定不定詞用 not to make。"
           },
           {
-            "id": "m2-2-u4-q004",
-            "question": "Writing funny stories ___ an interesting job for this teenager.",
+            "id": "m2-2-u4-q038",
+            "question": "Selling old cameras ___ one way to save up for a new one.",
             "options": [
-              "A. does",
-              "B. are",
+              "A. are",
+              "B. be",
               "C. is",
-              "D. do"
+              "D. being"
             ],
             "answer": "C",
             "answer_index": 2,
-            "hint": "主詞是 Writing funny stories 這整件事，視為單數；stories 是受詞，不能據此選 are。"
+            "hint": "Selling old cameras 是一件事，整個動名詞片語作單數主詞，搭配 is。"
           },
           {
-            "id": "m2-2-u4-q005",
-            "question": "It is easy for my grandfather ___ this small camera.",
-            "options": [
-              "A. to use",
-              "B. use",
-              "C. using",
-              "D. uses"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "句型是 It is＋形容詞＋for 人＋to V；真正要說的事放在 to use this small camera。"
-          },
-          {
-            "id": "m2-2-u4-q006",
-            "question": "The singer needs ___ a new guitar before the next show.",
-            "options": [
-              "A. buying",
-              "B. to buy",
-              "C. buys",
-              "D. buy"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "needs 後接不定詞 to V，表示需要去買；第二個動詞 buy 不加 s 或 ing。"
-          },
-          {
-            "id": "m2-2-u4-q007",
-            "question": "The actress practices ___ in front of the camera every day.",
-            "options": [
-              "A. to speak",
-              "B. speaking",
-              "C. speaks",
-              "D. speak"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "practices 後接動名詞 speaking；every day 不會把這個補語變成 speaks。"
-          },
-          {
-            "id": "m2-2-u4-q008",
-            "question": "The police officer asked the children ___ behind the line.",
-            "options": [
-              "A. wait",
-              "B. waiting",
-              "C. waited",
-              "D. to wait"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "ask＋人＋to V 表示要求某人做某事；asked the children 後接 to wait。"
-          },
-          {
-            "id": "m2-2-u4-q009",
-            "question": "The writer walked into the room without ___ a word.",
-            "options": [
-              "A. said",
-              "B. to say",
-              "C. saying",
-              "D. say"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "without 是介系詞，後面接 V-ing；前面的 walked 是過去式，也不會讓這裡改用 said。"
-          },
-          {
-            "id": "m2-2-u4-q010",
-            "question": "___ is important for teenagers to get enough sleep.",
-            "options": [
-              "A. It",
-              "B. We",
-              "C. They",
-              "D. He"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "後面的 to get enough sleep 才是真正描述的事情，句首用虛主詞 It，和 is 搭配。"
-          },
-          {
-            "id": "m2-2-u4-q011",
-            "question": "The factory workers plan ___ a music club next month.",
-            "options": [
-              "A. starting",
-              "B. start",
-              "C. to start",
-              "D. starts"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "plan 後接 to V；next month 提供未來計畫的情境，但選形式的關鍵是 plan。"
-          },
-          {
-            "id": "m2-2-u4-q012",
-            "question": "We finished ___ the drums before the music class began.",
-            "options": [
-              "A. move",
-              "B. moving",
-              "C. to move",
-              "D. moved"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "finish 後面接動名詞；move 去 e 加 ing，變成 moving。"
-          },
-          {
-            "id": "m2-2-u4-q013",
-            "question": "The waitress is good at ___ customers feel welcome.",
-            "options": [
-              "A. making",
-              "B. make",
-              "C. makes",
-              "D. to make"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "at 是介系詞，後面要接動名詞 making；不能接原形或 to make。"
-          },
-          {
-            "id": "m2-2-u4-q014",
-            "question": "The two children wanted to keep the gift a secret, so they decided ___ anyone about it.",
-            "options": [
-              "A. don't tell",
-              "B. not telling",
-              "C. not to tell",
-              "D. to tell not"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "decide 後接不定詞；想保密表示決定不要告訴別人，否定式用 not to tell。"
-          },
-          {
-            "id": "m2-2-u4-q015",
-            "question": "These guitar lessons ___ popular with teenagers in our town.",
+            "id": "m2-2-u4-q039",
+            "question": "Telling stories and playing music ___ two separate parts of the show.",
             "options": [
               "A. is",
-              "B. am",
+              "B. being",
               "C. are",
               "D. be"
             ],
             "answer": "C",
             "answer_index": 2,
-            "hint": "主詞是複數 These guitar lessons，需用 are；形容課程受歡迎不是用原形 be。"
+            "hint": "two separate parts 說明是兩項各自獨立的活動，複數主詞搭配 are。"
           },
           {
-            "id": "m2-2-u4-q016",
-            "question": "The reporter hopes ___ the famous actor after the show.",
+            "id": "m2-2-u4-q040",
+            "question": "Is ___ hard for your brother to carry the drum by himself?",
             "options": [
-              "A. meets",
-              "B. meet",
-              "C. meeting",
-              "D. to meet"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "hope 後接 to V，所以是 hopes to meet；不是希望動作進行中的 meeting。"
-          },
-          {
-            "id": "m2-2-u4-q017",
-            "question": "The players kept ___ even after the sun went down.",
-            "options": [
-              "A. training",
-              "B. to train",
-              "C. trained",
-              "D. train"
+              "A. it",
+              "B. they",
+              "C. these",
+              "D. there"
             ],
             "answer": "A",
             "answer_index": 0,
-            "hint": "keep 後接 V-ing。kept 已表示過去，後面的補語仍是 training，不是 trained。"
+            "hint": "to carry the drum by himself 是句子要描述的事，問句用 Is it＋形容詞＋for 人＋to V?"
           },
           {
-            "id": "m2-2-u4-q018",
-            "question": "The secretary thanked me for ___ her find the missing papers.",
+            "id": "m2-2-u4-q041",
+            "question": "___ drums in a small room makes a lot of noise.",
             "options": [
-              "A. to help",
-              "B. helped",
-              "C. helping",
-              "D. help"
+              "A. Playing",
+              "B. Play",
+              "C. Plays",
+              "D. Played"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "Playing drums in a small room 是 makes 的主詞。把「打鼓」這個動作放在主詞位置時，可用 V-ing。"
+          },
+          {
+            "id": "m2-2-u4-q042",
+            "question": "It is exciting ___ on stage in front of our friends.",
+            "options": [
+              "A. sings",
+              "B. sing",
+              "C. to sing",
+              "D. sang"
             ],
             "answer": "C",
             "answer_index": 2,
-            "hint": "for 是介系詞，後面接動名詞 helping；thanked 的過去時間不改變此結構。"
+            "hint": "It is＋形容詞＋to V 中，to sing 片語說明令人興奮的是什麼。"
           },
           {
-            "id": "m2-2-u4-q019",
-            "question": "We were walking to the station. We were thirsty, so we stopped ___ some water and then kept walking.",
+            "id": "m2-2-u4-q043",
+            "question": "The teenagers are thinking about ___ up with another band.",
             "options": [
-              "A. bought",
-              "B. buy",
-              "C. buying",
-              "D. to buy"
+              "A. to team",
+              "B. team",
+              "C. teamed",
+              "D. teaming"
             ],
             "answer": "D",
             "answer_index": 3,
-            "hint": "原本的動作是走路，停下來是為了買水這個新動作，因此用 stopped to buy。"
+            "hint": "think about 的 about 是介系詞，後接動名詞 teaming。"
           },
           {
-            "id": "m2-2-u4-q020",
-            "question": "Tomorrow is the school show. Please remember ___ your guitar with you.",
+            "id": "m2-2-u4-q044",
+            "question": "The police officer told the driver ___ the car near the gate.",
             "options": [
-              "A. to bring",
-              "B. bringing",
-              "C. bring",
-              "D. brought"
+              "A. parked",
+              "B. park",
+              "C. to park",
+              "D. parking"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "tell＋人＋to V 表示指示某人做某事，the driver 後接 to park。"
+          },
+          {
+            "id": "m2-2-u4-q045",
+            "question": "We need to keep this gift a secret. Please ask Ben ___ anyone about it.",
+            "options": [
+              "A. don't tell",
+              "B. not telling",
+              "C. not to tell",
+              "D. doesn't tell"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "keep this gift a secret 表示要保密。ask＋人＋not to V 表示請某人別做某事。"
+          },
+          {
+            "id": "m2-2-u4-q046",
+            "question": "Drum lessons ___ popular at our school this year.",
+            "options": [
+              "A. being",
+              "B. are",
+              "C. is",
+              "D. be"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "主詞的核心是複數名詞 lessons，因此用 are。"
+          },
+          {
+            "id": "m2-2-u4-q047",
+            "question": "My uncle quit ___ video games late at night so he could sleep more.",
+            "options": [
+              "A. to play",
+              "B. playing",
+              "C. played",
+              "D. plays"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "quit 後接 V-ing，表示停止某種活動或習慣。這裡是 quit playing。"
+          },
+          {
+            "id": "m2-2-u4-q048",
+            "question": "The reporter had trouble ___ the singer in the noisy room.",
+            "options": [
+              "A. hearing",
+              "B. to hear",
+              "C. hears",
+              "D. heard"
             ],
             "answer": "A",
             "answer_index": 0,
-            "hint": "Tomorrow 表示演出尚未發生，這是在提醒記得要帶吉他，用 remember to bring。"
+            "hint": "have trouble＋V-ing 表示做某事有困難，所以用 hearing。"
           },
           {
-            "id": "m2-2-u4-q021",
-            "question": "The message is still on my phone. I forgot ___ it to the secretary, so she never received it.",
-            "options": [
-              "A. send",
-              "B. to send",
-              "C. sending",
-              "D. sent"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "秘書沒有收到訊息，表示傳送這件事漏做了；forget to V 表示忘記要做。"
-          },
-          {
-            "id": "m2-2-u4-q022",
-            "question": "A: Do you know this singer? B: Yes. I remember ___ her at our school last year.",
-            "options": [
-              "A. to meet",
-              "B. meeting",
-              "C. meet",
-              "D. met"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "回答 Yes 且提到 last year，是回想已經見過的人；remember V-ing 表示記得做過。"
-          },
-          {
-            "id": "m2-2-u4-q023",
-            "question": "The actors were talking loudly. When the show began, they stopped ___ and became quiet.",
-            "options": [
-              "A. talk",
-              "B. talked",
-              "C. to talk",
-              "D. talking"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "原本正在說話，後來變安靜，表示停止原動作，使用 stopped talking；to talk 反而是停下來開始說話。"
-          },
-          {
-            "id": "m2-2-u4-q024",
-            "question": "I completely forgot ___ this actor last year until Dad showed me our photo together.",
-            "options": [
-              "A. meet",
-              "B. met",
-              "C. to meet",
-              "D. meeting"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "照片顯示去年確實見過這位演員，只是後來忘了這段經驗，所以用 forgot meeting。"
-          },
-          {
-            "id": "m2-2-u4-q025",
-            "question": "I would like ___ how to make an interesting video.",
+            "id": "m2-2-u4-q049",
+            "question": "It is easy for my sister ___ new songs by ear.",
             "options": [
               "A. learned",
-              "B. learn",
-              "C. learning",
+              "B. learns",
+              "C. learn",
               "D. to learn"
             ],
             "answer": "D",
             "answer_index": 3,
-            "hint": "would like 表示想要，後接 to V，所以是 would like to learn。"
-          },
-          {
-            "id": "m2-2-u4-q026",
-            "question": "The young waiter learned ___ simple meals during the summer.",
-            "options": [
-              "A. to cook",
-              "B. cooking",
-              "C. cooked",
-              "D. cook"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "learn 後接不定詞 to V；learned 已經表示過去，後面仍用 to cook。"
-          },
-          {
-            "id": "m2-2-u4-q027",
-            "question": "The students are preparing ___ on stage for the first time.",
-            "options": [
-              "A. sang",
-              "B. to sing",
-              "C. singing",
-              "D. sing"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "prepare 後接 to V，表示準備去做；are preparing 的進行式不會讓後面也接 singing。"
-          },
-          {
-            "id": "m2-2-u4-q028",
-            "question": "My uncle loves ___ the drums with his friends after work.",
-            "options": [
-              "A. play",
-              "B. plays",
-              "C. playing",
-              "D. played"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "love 可接 V-ing 或 to V；本題四個選項中只有 playing 符合，沒有另一個可用的 to play。"
-          },
-          {
-            "id": "m2-2-u4-q029",
-            "question": "We ran inside when it started ___ during the show.",
-            "options": [
-              "A. to rain",
-              "B. rains",
-              "C. rain",
-              "D. rained"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "start 可接 to V 或 V-ing；本題只有 to rain 是可用的補語形式。"
-          },
-          {
-            "id": "m2-2-u4-q030",
-            "question": "The reporter enjoys taking photos and ___ short stories for children.",
-            "options": [
-              "A. write",
-              "B. writes",
-              "C. writing",
-              "D. to write"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "enjoy 後接 V-ing；and 前已有 taking，後面也用 writing，兩個動作形式平行。"
-          },
-          {
-            "id": "m2-2-u4-q031",
-            "question": "Do you mind ___ the window? It is very hot in the room.",
-            "options": [
-              "A. opened",
-              "B. opening",
-              "C. open",
-              "D. to open"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "mind 後接動名詞 opening；Do you mind V-ing? 是詢問對方是否介意做某事。"
-          },
-          {
-            "id": "m2-2-u4-q032",
-            "question": "How about ___ up with the other team for the next game?",
-            "options": [
-              "A. teaming",
-              "B. teams",
-              "C. to team",
-              "D. team"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "How about 後用 V-ing；about 是介系詞，因此 team 變成 teaming。"
-          },
-          {
-            "id": "m2-2-u4-q033",
-            "question": "The writer is busy ___ a new story for the school newspaper.",
-            "options": [
-              "A. write",
-              "B. writes",
-              "C. to write",
-              "D. writing"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "be busy 後接 V-ing，表示忙著做某事；write 去 e 加 ing。"
-          },
-          {
-            "id": "m2-2-u4-q034",
-            "question": "The teenagers had fun ___ music together in the park.",
-            "options": [
-              "A. played",
-              "B. playing",
-              "C. to play",
-              "D. play"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "have fun 後接 V-ing，表示做某事很開心；had 表示過去，後面仍用 playing。"
-          },
-          {
-            "id": "m2-2-u4-q035",
-            "question": "The teacher taught the actor ___ a horse for the movie.",
-            "options": [
-              "A. ride",
-              "B. riding",
-              "C. rode",
-              "D. to ride"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "teach＋人＋to V 表示教某人做某事；taught the actor 後接 to ride。"
-          },
-          {
-            "id": "m2-2-u4-q036",
-            "question": "The famous writer invited us ___ her new house.",
-            "options": [
-              "A. visited",
-              "B. visiting",
-              "C. to visit",
-              "D. visit"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "invite＋人＋to V 表示邀請某人做某事；invited us 後要接 to visit。"
-          },
-          {
-            "id": "m2-2-u4-q037",
-            "question": "We chose ___ at home because it was raining heavily.",
-            "options": [
-              "A. stayed",
-              "B. staying",
-              "C. to stay",
-              "D. stay"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "choose 的過去式是 chose，後接不定詞 to V；本句用 chose to stay。"
-          },
-          {
-            "id": "m2-2-u4-q038",
-            "question": "Taking photos of the stars ___ difficult without a good camera.",
-            "options": [
-              "A. are",
-              "B. is",
-              "C. do",
-              "D. does"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "Taking photos of the stars 整體是一件事，視為單數，用 is；photos 和 stars 都不是主詞中心。"
-          },
-          {
-            "id": "m2-2-u4-q039",
-            "question": "Writing stories and taking photos ___ two different tasks in our club.",
-            "options": [
-              "A. are",
-              "B. is",
-              "C. am",
-              "D. be"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "句子明講 two different tasks，將兩個動名詞活動分開看待，主詞視為複數，用 are。"
-          },
-          {
-            "id": "m2-2-u4-q040",
-            "question": "Is ___ easy for you to save money every month?",
-            "options": [
-              "A. they",
-              "B. it",
-              "C. you",
-              "D. we"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "這是 Is it＋形容詞＋for 人＋to V 的疑問句；it 指向後面的存錢這件事。"
-          },
-          {
-            "id": "m2-2-u4-q041",
-            "question": "___ the drums at midnight is a bad idea.",
-            "options": [
-              "A. Played",
-              "B. Plays",
-              "C. Play",
-              "D. Playing"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "空格到 midnight 整體作 is 的主詞，需將動作名詞化成 Playing the drums。"
-          },
-          {
-            "id": "m2-2-u4-q042",
-            "question": "___ is fun to train with the team, even on rainy days.",
-            "options": [
-              "A. It",
-              "B. They",
-              "C. We",
-              "D. He"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "to train with the team 才是真正描述的事，句首以虛主詞 It 搭配 is。"
-          },
-          {
-            "id": "m2-2-u4-q043",
-            "question": "The two singers are thinking about ___ a new band together.",
-            "options": [
-              "A. to start",
-              "B. starting",
-              "C. started",
-              "D. start"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "think about 中 about 是介系詞，後接動名詞 starting。"
-          },
-          {
-            "id": "m2-2-u4-q044",
-            "question": "The singer told me ___ the microphone closer to my mouth.",
-            "options": [
-              "A. to hold",
-              "B. holding",
-              "C. hold",
-              "D. held"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "tell＋人＋to V 表示告訴某人做某事；told me 後接 to hold。"
-          },
-          {
-            "id": "m2-2-u4-q045",
-            "question": "The actress would love ___ the children at our school.",
-            "options": [
-              "A. to visit",
-              "B. visit",
-              "C. visited",
-              "D. visits"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "would love 表示很想要，後接 to V；這裡是 would love to visit。"
-          },
-          {
-            "id": "m2-2-u4-q046",
-            "question": "The little boy began ___ when he saw his favorite star.",
-            "options": [
-              "A. smiled",
-              "B. smiling",
-              "C. smile",
-              "D. smiles"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "begin 可接 V-ing 或 to V；本題只有 smiling 是合用的形式。"
-          },
-          {
-            "id": "m2-2-u4-q047",
-            "question": "My grandfather quit ___ because he wanted to be healthy.",
-            "options": [
-              "A. smoked",
-              "B. to smoke",
-              "C. smoke",
-              "D. smoking"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "quit 表示停止某種習慣，後接動名詞 smoking，不接 to smoke。"
-          },
-          {
-            "id": "m2-2-u4-q048",
-            "question": "The teenager had trouble ___ the heavy drum by himself.",
-            "options": [
-              "A. carried",
-              "B. to carry",
-              "C. carrying",
-              "D. carry"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "have trouble 後接 V-ing，表示做某事有困難；carry 加 ing 直接變 carrying。"
-          },
-          {
-            "id": "m2-2-u4-q049",
-            "question": "We want him ___ our team because he is a great singer.",
-            "options": [
-              "A. join",
-              "B. joining",
-              "C. joins",
-              "D. to join"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "want＋人＋to V 表示希望某人做某事；want him 後接 to join。"
+            "hint": "It is＋形容詞＋for 人＋to V 中，to learn 說明對她來說容易的是哪件事。"
           },
           {
             "id": "m2-2-u4-q050",
-            "question": "Learning ___ the guitar takes time and practice.",
+            "question": "The singer started ___ when the lights came on.",
             "options": [
-              "A. to play",
-              "B. play",
-              "C. played",
-              "D. plays"
+              "A. danced",
+              "B. dancing",
+              "C. dance",
+              "D. dances"
             ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "learn 後接 to V；Learning 雖然在句首作主詞的一部分，後面仍保留 learn to play 的結構。"
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "start 可接 V-ing 或 to V。四個選項中只有 dancing 可作 started 的補語。"
           }
         ]
       },
@@ -1466,153 +1466,153 @@
         "grammar": [
           {
             "id": "m2-2-u4-sg001",
-            "sentence": "The teenager wants to be a famous singer.",
-            "sentence_chinese": "這位青少年想成為有名的歌手。"
+            "sentence": "The reporter hopes to write a better story.",
+            "sentence_chinese": "那位記者希望能寫出更好的報導。"
           },
           {
             "id": "m2-2-u4-sg002",
-            "sentence": "We enjoy making funny videos after school.",
-            "sentence_chinese": "我們喜歡放學後製作好笑的影片。"
+            "sentence": "My sister enjoys playing music with her classmates.",
+            "sentence_chinese": "我妹妹喜歡和同學一起演奏音樂。"
           },
           {
             "id": "m2-2-u4-sg003",
-            "sentence": "Mom told me not to stay up late.",
-            "sentence_chinese": "媽媽告訴我不要熬夜。"
+            "sentence": "The coach asked us to train after school.",
+            "sentence_chinese": "教練請我們放學後練習。"
           },
           {
             "id": "m2-2-u4-sg004",
-            "sentence": "Playing the guitar is interesting for my sister.",
-            "sentence_chinese": "彈吉他對我姊姊來說很有趣。"
+            "sentence": "Making a short film takes time and teamwork.",
+            "sentence_chinese": "拍一部短片需要時間和團隊合作。"
           },
           {
             "id": "m2-2-u4-sg005",
-            "sentence": "It is important to get enough sleep.",
-            "sentence_chinese": "獲得充足的睡眠很重要。"
+            "sentence": "It was easy for Leo to learn the song.",
+            "sentence_chinese": "學會這首歌對 Leo 來說很容易。"
           },
           {
             "id": "m2-2-u4-sg006",
-            "sentence": "The reporter plans to visit the factory tomorrow.",
-            "sentence_chinese": "這位記者計畫明天去參觀工廠。"
+            "sentence": "The writer thanked me for reading her book.",
+            "sentence_chinese": "那位作家謝謝我讀她的書。"
           },
           {
             "id": "m2-2-u4-sg007",
-            "sentence": "The actress keeps practicing in front of the camera.",
-            "sentence_chinese": "這位女演員持續在鏡頭前練習。"
+            "sentence": "Our team decided to make a funny video.",
+            "sentence_chinese": "我們隊決定拍一支好笑的影片。"
           },
           {
             "id": "m2-2-u4-sg008",
-            "sentence": "He left the room without saying a word.",
-            "sentence_chinese": "他一句話也沒說就離開房間了。"
+            "sentence": "The children stopped singing when the teacher spoke.",
+            "sentence_chinese": "老師開口說話時，孩子們停止唱歌。"
           },
           {
             "id": "m2-2-u4-sg009",
-            "sentence": "The waiter asked us to wait outside.",
-            "sentence_chinese": "這位男服務生請我們在外面等。"
+            "sentence": "Is it hard to make your own guitar?",
+            "sentence_chinese": "自己做一把吉他很難嗎？"
           },
           {
             "id": "m2-2-u4-sg010",
-            "sentence": "Remember to bring your camera to school tomorrow.",
-            "sentence_chinese": "記得明天要把相機帶到學校。"
+            "sentence": "The actress kept smiling at the camera.",
+            "sentence_chinese": "那位女演員一直對著鏡頭微笑。"
           },
           {
             "id": "m2-2-u4-sg011",
-            "sentence": "The writer hopes to finish the story soon.",
-            "sentence_chinese": "這位作家希望很快能完成故事。"
+            "sentence": "Please remember to bring the gift on Friday.",
+            "sentence_chinese": "星期五請記得帶禮物來。"
           },
           {
             "id": "m2-2-u4-sg012",
-            "sentence": "I finished cleaning the drums before lunch.",
-            "sentence_chinese": "我在午餐前清潔完那些鼓。"
+            "sentence": "I was busy writing a letter to my cousin.",
+            "sentence_chinese": "我當時正忙著寫信給我的表親。"
           },
           {
             "id": "m2-2-u4-sg013",
-            "sentence": "The teenagers are good at telling funny stories.",
-            "sentence_chinese": "這些青少年擅長講好笑的故事。"
+            "sentence": "Dad told me not to open the gift yet.",
+            "sentence_chinese": "爸爸叫我先別拆禮物。"
           },
           {
             "id": "m2-2-u4-sg014",
-            "sentence": "They decided not to buy the expensive guitar.",
-            "sentence_chinese": "他們決定不買那把昂貴的吉他。"
+            "sentence": "The waiter walked past us without making a sound.",
+            "sentence_chinese": "那位服務生悄無聲息地從我們身邊走過。"
           },
           {
             "id": "m2-2-u4-sg015",
-            "sentence": "The children stopped talking when the music started.",
-            "sentence_chinese": "音樂開始時，孩子們停止了交談。"
+            "sentence": "We plan to meet the reporter after lunch.",
+            "sentence_chinese": "我們計畫午餐後和那位記者見面。"
           },
           {
             "id": "m2-2-u4-sg016",
-            "sentence": "It is fun for us to train together.",
-            "sentence_chinese": "一起訓練對我們來說很有趣。"
+            "sentence": "She forgot to turn off the kitchen light.",
+            "sentence_chinese": "她忘了關廚房的燈。"
           },
           {
             "id": "m2-2-u4-sg017",
-            "sentence": "The secretary needs to make some phone calls.",
-            "sentence_chinese": "這位秘書需要打幾通電話。"
+            "sentence": "Playing the drums at night bothers our neighbors.",
+            "sentence_chinese": "晚上打鼓會打擾我們的鄰居。"
           },
           {
             "id": "m2-2-u4-sg018",
-            "sentence": "My brother practices playing the drums every evening.",
-            "sentence_chinese": "我哥哥每天晚上練習打鼓。"
+            "sentence": "The singer invited us to watch her practice.",
+            "sentence_chinese": "那位歌手邀請我們看她練習。"
           },
           {
             "id": "m2-2-u4-sg019",
-            "sentence": "The singer thanked us for coming to the show.",
-            "sentence_chinese": "這位歌手感謝我們來看表演。"
+            "sentence": "My brother finished washing the dishes before dinner.",
+            "sentence_chinese": "我弟弟在晚餐前洗完了碗。"
           },
           {
             "id": "m2-2-u4-sg020",
-            "sentence": "I forgot to send the message last night.",
-            "sentence_chinese": "我昨晚忘記傳那則訊息了。"
+            "sentence": "We stopped to rest halfway up the hill.",
+            "sentence_chinese": "我們爬到半山腰時停下來休息。"
           },
           {
             "id": "m2-2-u4-sg021",
-            "sentence": "The famous actor would like to meet you.",
-            "sentence_chinese": "這位有名的男演員想見你。"
+            "sentence": "It is important to listen to one another.",
+            "sentence_chinese": "互相傾聽很重要。"
           },
           {
             "id": "m2-2-u4-sg022",
-            "sentence": "We had fun making music in the park.",
-            "sentence_chinese": "我們在公園裡玩音樂玩得很開心。"
+            "sentence": "I remember playing this song at our first show.",
+            "sentence_chinese": "我記得我們第一次表演時演奏過這首歌。"
           },
           {
             "id": "m2-2-u4-sg023",
-            "sentence": "Taking photos of the stars is difficult.",
-            "sentence_chinese": "拍攝星星很困難。"
+            "sentence": "The new factory worker needs to earn more money.",
+            "sentence_chinese": "那位新來的工廠工人需要多賺一點錢。"
           },
           {
             "id": "m2-2-u4-sg024",
-            "sentence": "The teacher taught us to use the camera.",
-            "sentence_chinese": "老師教我們使用相機。"
+            "sentence": "My friends are good at making people laugh.",
+            "sentence_chinese": "我的朋友們很會逗人笑。"
           },
           {
             "id": "m2-2-u4-sg025",
-            "sentence": "We stopped to buy water during our walk.",
-            "sentence_chinese": "我們散步途中停下來買水。"
+            "sentence": "The crowd began clapping at the end of the song.",
+            "sentence_chinese": "歌曲結束時，觀眾開始鼓掌。"
           },
           {
             "id": "m2-2-u4-sg026",
-            "sentence": "The writer is busy reading her new story.",
-            "sentence_chinese": "這位作家正忙著閱讀她的新故事。"
+            "sentence": "The police officer told the children to wait.",
+            "sentence_chinese": "那位警察叫孩子們等一下。"
           },
           {
             "id": "m2-2-u4-sg027",
-            "sentence": "I remember meeting the star at our school.",
-            "sentence_chinese": "我記得在學校見過那位明星。"
+            "sentence": "Taking pictures of birds is fun for me.",
+            "sentence_chinese": "對我來說，拍鳥很有趣。"
           },
           {
             "id": "m2-2-u4-sg028",
-            "sentence": "They are thinking about starting a music club.",
-            "sentence_chinese": "他們正在考慮成立音樂社。"
+            "sentence": "We had trouble finding a place to practice.",
+            "sentence_chinese": "我們找練習場地時遇到了困難。"
           },
           {
             "id": "m2-2-u4-sg029",
-            "sentence": "The housewife learned to make videos last summer.",
-            "sentence_chinese": "這位家庭主婦去年夏天學會了製作影片。"
+            "sentence": "The two bands chose to team up for the show.",
+            "sentence_chinese": "那兩個樂團決定合作演出。"
           },
           {
             "id": "m2-2-u4-sg030",
-            "sentence": "Is it easy for you to save money?",
-            "sentence_chinese": "存錢對你來說容易嗎？"
+            "sentence": "I had fun practicing the guitar with you.",
+            "sentence_chinese": "和你一起練吉他很開心。"
           }
         ]
       },
