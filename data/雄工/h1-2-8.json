@@ -1,0 +1,139 @@
+{
+  "units": {
+    "h1-2-8": {
+      "title": "U8",
+      "level": 4,
+      "vocab": [
+        {
+          "id": "h1-2-8-v001",
+          "word": "moral",
+          "part_of_speech": "形",
+          "chinese": "道德的",
+          "sentence": "That story teaches a moral lesson about honesty.",
+          "sentence_chinese": "那個故事讓人學到誠實的重要性。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "h1-2-8-v002",
+          "word": "conscience",
+          "part_of_speech": "名",
+          "chinese": "良心；良知",
+          "sentence": "When I lie, it bothers my conscience.",
+          "sentence_chinese": "每次說謊，我都會良心不安。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "h1-2-8-v003",
+          "word": "sacrifice",
+          "part_of_speech": "動",
+          "chinese": "犧牲；獻出",
+          "sentence": "She sacrificed her afternoon to help her brother study.",
+          "sentence_chinese": "她犧牲了自己的下午時間，幫弟弟讀書。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "h1-2-8-v004",
+          "word": "exhaust",
+          "part_of_speech": "動",
+          "chinese": "使筋疲力竭",
+          "sentence": "Sheila was exhausted after a long day at work.",
+          "sentence_chinese": "工作了一整天後，Sheila 筋疲力竭。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "h1-2-8-v005",
+          "word": "assist",
+          "part_of_speech": "動",
+          "chinese": "協助；幫助",
+          "sentence": "They assisted their coworkers with the project.",
+          "sentence_chinese": "他們協助同事進行這個專案。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "h1-2-8-v006",
+          "word": "tough",
+          "part_of_speech": "形",
+          "chinese": "棘手的；困難的",
+          "sentence": "It can be tough to make friends in a big city.",
+          "sentence_chinese": "在大城市交朋友可能很困難。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "h1-2-8-v007",
+          "word": "flexible",
+          "part_of_speech": "形",
+          "chinese": "有彈性的；靈活的",
+          "sentence": "Her schedule is flexible, so she can meet anytime.",
+          "sentence_chinese": "她的行程有彈性，所以隨時都可以見面。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "h1-2-8-v008",
+          "word": "guilty",
+          "part_of_speech": "形",
+          "chinese": "內疚的",
+          "sentence": "He feels guilty about saying no to his mom.",
+          "sentence_chinese": "他因為拒絕了媽媽而感到內疚。",
+          "sentence_source": "課本",
+          "option_group": "guilt"
+        },
+        {
+          "id": "h1-2-8-v009",
+          "word": "guilt",
+          "part_of_speech": "名",
+          "chinese": "內疚",
+          "sentence": "Trying to ease his guilt, he said he was sorry several times.",
+          "sentence_chinese": "為了減輕內疚感，他道歉了好幾次。",
+          "sentence_source": "課本",
+          "option_group": "guilt"
+        },
+        {
+          "id": "h1-2-8-v010",
+          "word": "guiltily",
+          "part_of_speech": "副",
+          "chinese": "內疚地",
+          "sentence": "She smiled guiltily after taking the last cookie.",
+          "sentence_chinese": "她拿走最後一塊餅乾後，內疚地笑了笑。",
+          "sentence_source": "課本",
+          "option_group": "guilt"
+        },
+        {
+          "id": "h1-2-8-v011",
+          "word": "bully",
+          "part_of_speech": "動",
+          "chinese": "霸凌；欺負",
+          "sentence": "Do not bully other students at school.",
+          "sentence_chinese": "在學校不要欺負其他學生。",
+          "sentence_source": "AI 補寫"
+        },
+        {
+          "id": "h1-2-8-v012",
+          "word": "integrity",
+          "part_of_speech": "名",
+          "chinese": "正直",
+          "sentence": "She showed integrity when she told the truth.",
+          "sentence_chinese": "她說出實話，展現了正直。",
+          "sentence_source": "AI 補寫"
+        },
+        {
+          "id": "h1-2-8-v013",
+          "word": "cram",
+          "part_of_speech": "動",
+          "chinese": "塞滿",
+          "sentence": "He tried to cram all his clothes into one bag.",
+          "sentence_chinese": "他試著把所有衣服都塞進同一個袋子裡。",
+          "sentence_source": "AI 補寫"
+        },
+        {
+          "id": "h1-2-8-v014",
+          "word": "breakdown",
+          "part_of_speech": "名",
+          "chinese": "崩潰",
+          "sentence": "He had a breakdown after weeks of stress.",
+          "sentence_chinese": "承受了幾個星期的壓力後，他崩潰了。",
+          "sentence_source": "AI 補寫"
+        }
+      ]
+    }
+  }
+}

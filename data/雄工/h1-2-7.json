@@ -1,0 +1,169 @@
+{
+  "units": {
+    "h1-2-7": {
+      "title": "U7",
+      "level": 3,
+      "vocab": [
+        {
+          "id": "h1-2-7-v001",
+          "word": "sensation",
+          "part_of_speech": "名",
+          "chinese": "引起轟動的人或事",
+          "sentence": "BTS is an international sensation and is considered by some to be the most popular boy group in the world.",
+          "sentence_chinese": "BTS 在國際上引起轟動，有些人認為他們是全世界最受歡迎的男子團體。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "h1-2-7-v002",
+          "word": "entertainment",
+          "part_of_speech": "名",
+          "chinese": "娛樂",
+          "sentence": "Kim's mother has worked in the entertainment industry for more than 30 years.",
+          "sentence_chinese": "金的媽媽在娛樂業工作已經超過 30 年。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "h1-2-7-v003",
+          "word": "vocal",
+          "part_of_speech": "形",
+          "chinese": "歌唱的；聲音的",
+          "sentence": "Theresa's college courses include vocal lessons each week.",
+          "sentence_chinese": "泰瑞莎的大學課程每週都有聲樂課。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "h1-2-7-v004",
+          "word": "debut",
+          "part_of_speech": "名",
+          "chinese": "首次亮相",
+          "sentence": "The beautiful dancer made her professional debut at the age of 16.",
+          "sentence_chinese": "這位漂亮的舞者在 16 歲時首度以職業舞者的身分登台。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "h1-2-7-v005",
+          "word": "numerous",
+          "part_of_speech": "形",
+          "chinese": "大量的；許多的",
+          "sentence": "Numerous leads helped the police catch the thief.",
+          "sentence_chinese": "許多線索幫助警方抓到那名小偷。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "h1-2-7-v006",
+          "word": "icon",
+          "part_of_speech": "名",
+          "chinese": "偶像",
+          "sentence": "Serena Williams is one of America's best-loved tennis icons.",
+          "sentence_chinese": "小威廉絲是美國最受喜愛的網球偶像之一。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "h1-2-7-v007",
+          "word": "generosity",
+          "part_of_speech": "名",
+          "chinese": "慷慨；大方",
+          "sentence": "Thanks to everyone's generosity, the school now has enough money to replace the roof.",
+          "sentence_chinese": "多虧大家慷慨解囊，學校現在有足夠的錢更換屋頂。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "h1-2-7-v008",
+          "word": "creativity",
+          "part_of_speech": "名",
+          "chinese": "創造力",
+          "sentence": "Creativity helps students explore new ideas.",
+          "sentence_chinese": "創造力能幫助學生探索新的想法。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "h1-2-7-v009",
+          "word": "extensive",
+          "part_of_speech": "形",
+          "chinese": "廣泛的",
+          "sentence": "Marie has an extensive collection of books.",
+          "sentence_chinese": "瑪莉的藏書十分豐富。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "h1-2-7-v010",
+          "word": "despite",
+          "part_of_speech": "介",
+          "chinese": "儘管",
+          "sentence": "Despite waking up early, Stan was still late for work.",
+          "sentence_chinese": "儘管史丹起得很早，他上班還是遲到了。",
+          "sentence_source": "課本"
+        },
+        {
+          "id": "h1-2-7-v011",
+          "word": "superstar",
+          "part_of_speech": "名",
+          "chinese": "超級巨星",
+          "sentence": "The superstar waved to her fans.",
+          "sentence_chinese": "那位超級巨星向她的粉絲揮手。",
+          "sentence_source": "AI 補寫"
+        },
+        {
+          "id": "h1-2-7-v012",
+          "word": "trainee",
+          "part_of_speech": "名",
+          "chinese": "練習生；受培訓者",
+          "sentence": "The new trainee learned how to use the machine.",
+          "sentence_chinese": "新來的受訓人員學會了如何使用這臺機器。",
+          "sentence_source": "AI 補寫"
+        },
+        {
+          "id": "h1-2-7-v013",
+          "word": "martial arts",
+          "part_of_speech": "名",
+          "chinese": "武術",
+          "sentence": "My brother practices martial arts after school.",
+          "sentence_chinese": "我弟弟放學後會練武術。",
+          "sentence_source": "AI 補寫"
+        }
+      ],
+      "phrases": [
+        {
+          "id": "h1-2-7-p001",
+          "phrase": "early on",
+          "chinese": "在早期",
+          "sentence": "Early on, I didn't know anyone in my new class.",
+          "sentence_chinese": "剛開始，我在新班級裡誰都不認識。",
+          "sentence_source": "AI 補寫"
+        },
+        {
+          "id": "h1-2-7-p002",
+          "phrase": "try out",
+          "chinese": "參加選拔",
+          "sentence": "Mia will try out for the school basketball team on Friday.",
+          "sentence_chinese": "Mia 星期五會參加校隊的籃球選拔。",
+          "sentence_source": "AI 補寫"
+        },
+        {
+          "id": "h1-2-7-p003",
+          "phrase": "at the end of the day",
+          "chinese": "最終；到頭來",
+          "sentence": "At the end of the day, what matters is that we did our best.",
+          "sentence_chinese": "到頭來，重要的是我們已經盡力了。",
+          "sentence_source": "AI 補寫"
+        },
+        {
+          "id": "h1-2-7-p004",
+          "phrase": "roll around",
+          "chinese": "（時間）來臨；開始",
+          "sentence": "When summer rolls around, we go swimming every week.",
+          "sentence_chinese": "夏天一到，我們每個星期都去游泳。",
+          "sentence_source": "AI 補寫"
+        },
+        {
+          "id": "h1-2-7-p005",
+          "phrase": "heart of gold",
+          "chinese": "心地非常善良",
+          "sentence": "My aunt has a heart of gold and always helps people in need.",
+          "sentence_chinese": "我阿姨心地非常善良，總是幫助有需要的人。",
+          "sentence_source": "AI 補寫"
+        }
+      ]
+    }
+  }
+}
