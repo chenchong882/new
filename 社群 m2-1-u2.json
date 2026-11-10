@@ -1,0 +1,1652 @@
+{
+  "units": {
+    "m2-1-u2": {
+      "title": "U2",
+      "vocab": [
+        {
+          "id": "m2-1-u2-v001",
+          "word": "club",
+          "chinese": "社團",
+          "sentence": "I joined the club after school started.",
+          "sentence_chinese": "開學後，我加入了這個社團。",
+          "part_of_speech": "名"
+        },
+        {
+          "id": "m2-1-u2-v002",
+          "word": "interesting",
+          "chinese": "有趣的",
+          "sentence": "This book is interesting, but that one is boring.",
+          "sentence_chinese": "這本書很有趣，但那本很無聊。",
+          "part_of_speech": "形"
+        },
+        {
+          "id": "m2-1-u2-v003",
+          "word": "science",
+          "chinese": "科學",
+          "sentence": "We study science when we meet on Tuesdays.",
+          "sentence_chinese": "我們星期二聚在一起時會學習科學。",
+          "part_of_speech": "名"
+        },
+        {
+          "id": "m2-1-u2-v004",
+          "word": "subject",
+          "chinese": "學科；主題",
+          "sentence": "My favorite subject is English. What is yours?",
+          "sentence_chinese": "我最喜歡的科目是英文。你呢？",
+          "part_of_speech": "名"
+        },
+        {
+          "id": "m2-1-u2-v005",
+          "word": "hear",
+          "chinese": "聽見",
+          "sentence": "I heard a noise when I opened the door.",
+          "sentence_chinese": "我開門時聽見了一個聲音。",
+          "part_of_speech": "動"
+        },
+        {
+          "id": "m2-1-u2-v006",
+          "word": "same",
+          "chinese": "相同的",
+          "sentence": "Your bag is the same color as mine.",
+          "sentence_chinese": "你的包包和我的是同一個顏色。",
+          "part_of_speech": "形"
+        },
+        {
+          "id": "m2-1-u2-v007",
+          "word": "call",
+          "chinese": "打電話；呼叫",
+          "sentence": "Call me after you finish your homework.",
+          "sentence_chinese": "你寫完功課後打給我。",
+          "part_of_speech": "動／名"
+        },
+        {
+          "id": "m2-1-u2-v008",
+          "word": "tell",
+          "chinese": "告訴",
+          "sentence": "Tell me when you need help.",
+          "sentence_chinese": "你需要幫忙時告訴我。",
+          "part_of_speech": "動"
+        },
+        {
+          "id": "m2-1-u2-v009",
+          "word": "poor",
+          "chinese": "不佳的；貧窮的",
+          "sentence": "The poor boy smiled when he got the book.",
+          "sentence_chinese": "那個貧窮的男孩拿到書時笑了。",
+          "part_of_speech": "形"
+        },
+        {
+          "id": "m2-1-u2-v010",
+          "word": "end",
+          "chinese": "結尾；結束",
+          "sentence": "We went home after the game ended.",
+          "sentence_chinese": "比賽結束後，我們回家了。",
+          "part_of_speech": "名／動"
+        },
+        {
+          "id": "m2-1-u2-v011",
+          "word": "whose",
+          "chinese": "誰的（東西）",
+          "sentence": "Whose camera is this?",
+          "sentence_chinese": "這是誰的相機？",
+          "part_of_speech": "形／代"
+        },
+        {
+          "id": "m2-1-u2-v012",
+          "word": "camera",
+          "chinese": "相機",
+          "sentence": "This camera is hers.",
+          "sentence_chinese": "這台相機是她的。",
+          "part_of_speech": "名"
+        },
+        {
+          "id": "m2-1-u2-v013",
+          "word": "mine",
+          "chinese": "我的（東西）",
+          "sentence": "Your bag is blue, but mine is red.",
+          "sentence_chinese": "你的包包是藍色的，但我的是紅色的。",
+          "part_of_speech": "代"
+        },
+        {
+          "id": "m2-1-u2-v014",
+          "word": "wrong",
+          "chinese": "錯誤的",
+          "sentence": "I called the wrong number before I called you.",
+          "sentence_chinese": "我打給你之前先打錯了電話。",
+          "part_of_speech": "形"
+        },
+        {
+          "id": "m2-1-u2-v015",
+          "word": "math",
+          "chinese": "數學",
+          "sentence": "We study math before we have lunch.",
+          "sentence_chinese": "我們午餐前上數學課。",
+          "part_of_speech": "名"
+        },
+        {
+          "id": "m2-1-u2-v016",
+          "word": "soccer",
+          "chinese": "足球",
+          "sentence": "We played soccer after school ended.",
+          "sentence_chinese": "放學後，我們踢了足球。",
+          "part_of_speech": "名"
+        },
+        {
+          "id": "m2-1-u2-v017",
+          "word": "Chinese",
+          "chinese": "中國的；中國人；中文",
+          "sentence": "We speak Chinese when we are at home.",
+          "sentence_chinese": "我們在家時說中文。",
+          "part_of_speech": "形／名"
+        },
+        {
+          "id": "m2-1-u2-v018",
+          "word": "history",
+          "chinese": "歷史",
+          "sentence": "I read a history book before I went to bed.",
+          "sentence_chinese": "我睡前讀了一本歷史書。",
+          "part_of_speech": "名"
+        },
+        {
+          "id": "m2-1-u2-v019",
+          "word": "violin",
+          "chinese": "小提琴",
+          "sentence": "This violin is mine.",
+          "sentence_chinese": "這把小提琴是我的。",
+          "part_of_speech": "名"
+        },
+        {
+          "id": "m2-1-u2-v020",
+          "word": "robot",
+          "chinese": "機器人",
+          "sentence": "Our robot is small, but theirs is big.",
+          "sentence_chinese": "我們的機器人很小，但他們的很大。",
+          "part_of_speech": "名"
+        },
+        {
+          "id": "m2-1-u2-v021",
+          "word": "health",
+          "chinese": "健康",
+          "sentence": "My health got better after I started exercising.",
+          "sentence_chinese": "我開始運動後，健康變好了。",
+          "part_of_speech": "名"
+        },
+        {
+          "id": "m2-1-u2-v022",
+          "word": "PE",
+          "chinese": "體育",
+          "sentence": "We drink water after we have PE.",
+          "sentence_chinese": "我們上完體育課後喝水。",
+          "part_of_speech": "名"
+        },
+        {
+          "id": "m2-1-u2-v023",
+          "word": "Ms.",
+          "chinese": "女士",
+          "sentence": "Ms. Lin smiled when she saw us.",
+          "sentence_chinese": "林女士看到我們時笑了。",
+          "part_of_speech": "名"
+        },
+        {
+          "id": "m2-1-u2-v024",
+          "word": "engineer",
+          "chinese": "工程師",
+          "sentence": "The engineer checked the robot before the show started.",
+          "sentence_chinese": "表演開始前，工程師檢查了機器人。",
+          "part_of_speech": "名"
+        },
+        {
+          "id": "m2-1-u2-v025",
+          "word": "lesson",
+          "chinese": "課；課程",
+          "sentence": "We practiced after the lesson ended.",
+          "sentence_chinese": "課程結束後，我們練習了。",
+          "part_of_speech": "名"
+        },
+        {
+          "id": "m2-1-u2-v026",
+          "word": "difficult",
+          "chinese": "困難的",
+          "sentence": "My homework is difficult, but hers is easy.",
+          "sentence_chinese": "我的功課很難，但她的很簡單。",
+          "part_of_speech": "形"
+        },
+        {
+          "id": "m2-1-u2-v027",
+          "word": "teach",
+          "chinese": "教導",
+          "sentence": "My dad taught me math when I was little.",
+          "sentence_chinese": "我小時候，爸爸教我數學。",
+          "part_of_speech": "動"
+        },
+        {
+          "id": "m2-1-u2-v028",
+          "word": "own",
+          "chinese": "自己的；擁有",
+          "sentence": "I wash my own cup after I use it.",
+          "sentence_chinese": "我用完自己的杯子後會把它洗乾淨。",
+          "part_of_speech": "形／動"
+        },
+        {
+          "id": "m2-1-u2-v029",
+          "word": "finish",
+          "chinese": "完成；結束",
+          "sentence": "I finished my homework before I watched TV.",
+          "sentence_chinese": "我看電視前先完成了功課。",
+          "part_of_speech": "動"
+        },
+        {
+          "id": "m2-1-u2-v030",
+          "word": "festival",
+          "chinese": "節慶",
+          "sentence": "We took pictures when we went to the festival.",
+          "sentence_chinese": "我們參加節慶活動時拍了照。",
+          "part_of_speech": "名"
+        },
+        {
+          "id": "m2-1-u2-v031",
+          "word": "start",
+          "chinese": "開始",
+          "sentence": "We sat down before the movie started.",
+          "sentence_chinese": "電影開始前，我們坐了下來。",
+          "part_of_speech": "動／名"
+        },
+        {
+          "id": "m2-1-u2-v032",
+          "word": "choice",
+          "chinese": "選擇",
+          "sentence": "I talked to Mom before I made my choice.",
+          "sentence_chinese": "我做選擇前先和媽媽談了談。",
+          "part_of_speech": "名"
+        },
+        {
+          "id": "m2-1-u2-v033",
+          "word": "when",
+          "chinese": "當……的時候",
+          "sentence": "I listen to music when I am happy.",
+          "sentence_chinese": "我開心時會聽音樂。",
+          "part_of_speech": "連"
+        },
+        {
+          "id": "m2-1-u2-v034",
+          "word": "back",
+          "chinese": "返回",
+          "sentence": "I came back after the lesson ended.",
+          "sentence_chinese": "課程結束後，我回來了。",
+          "part_of_speech": "副"
+        },
+        {
+          "id": "m2-1-u2-v035",
+          "word": "free",
+          "chinese": "免費的",
+          "sentence": "The lessons are free when you join the club.",
+          "sentence_chinese": "加入社團後，這些課程是免費的。",
+          "part_of_speech": "形"
+        },
+        {
+          "id": "m2-1-u2-v036",
+          "word": "show",
+          "chinese": "表演；節目",
+          "sentence": "We ate dinner before the show started.",
+          "sentence_chinese": "表演開始前，我們吃了晚餐。",
+          "part_of_speech": "名"
+        },
+        {
+          "id": "m2-1-u2-v037",
+          "word": "design",
+          "chinese": "設計",
+          "sentence": "We designed a robot after we joined the club.",
+          "sentence_chinese": "加入社團後，我們設計了一個機器人。",
+          "part_of_speech": "名／動"
+        },
+        {
+          "id": "m2-1-u2-v038",
+          "word": "swimmer",
+          "chinese": "泳者",
+          "sentence": "The swimmer rested after he finished the race.",
+          "sentence_chinese": "那位泳者比完賽後休息了。",
+          "part_of_speech": "名"
+        },
+        {
+          "id": "m2-1-u2-v039",
+          "word": "underwater",
+          "chinese": "水下的；在水下",
+          "sentence": "I saw a fish when I swam underwater.",
+          "sentence_chinese": "我在水下游泳時看見了一條魚。",
+          "part_of_speech": "形／副"
+        },
+        {
+          "id": "m2-1-u2-v040",
+          "word": "winner",
+          "chinese": "獲勝者",
+          "sentence": "The winner smiled when she heard her name.",
+          "sentence_chinese": "那位獲勝者聽到自己的名字時笑了。",
+          "part_of_speech": "名"
+        },
+        {
+          "id": "m2-1-u2-v041",
+          "word": "contest",
+          "chinese": "競賽",
+          "sentence": "We practiced before the contest started.",
+          "sentence_chinese": "競賽開始前，我們練習了。",
+          "part_of_speech": "名"
+        },
+        {
+          "id": "m2-1-u2-v042",
+          "word": "guest",
+          "chinese": "客座的；賓客",
+          "sentence": "The guests arrived after we finished cooking.",
+          "sentence_chinese": "我們煮好飯後，客人們到了。",
+          "part_of_speech": "形／名"
+        }
+      ],
+      "phrases": [
+        {
+          "id": "m2-1-u2-p001",
+          "phrase": "make up one's mind",
+          "chinese": "下定決心",
+          "sentence": "I made up my mind before I called her.",
+          "sentence_chinese": "我打給她之前就下定決心了。"
+        },
+        {
+          "id": "m2-1-u2-p002",
+          "phrase": "pull one's leg",
+          "chinese": "開玩笑",
+          "sentence": "I was pulling your leg when I said that.",
+          "sentence_chinese": "我說那句話時是在跟你開玩笑。"
+        },
+        {
+          "id": "m2-1-u2-p003",
+          "phrase": "hold on",
+          "chinese": "稍候",
+          "sentence": "Please hold on when I check the number.",
+          "sentence_chinese": "我查號碼時，請稍候。"
+        },
+        {
+          "id": "m2-1-u2-p004",
+          "phrase": "What's up?",
+          "chinese": "怎麼了？",
+          "sentence": "You look sad. What's up?",
+          "sentence_chinese": "你看起來很難過。怎麼了？"
+        },
+        {
+          "id": "m2-1-u2-p005",
+          "phrase": "sign up",
+          "chinese": "報名參加",
+          "sentence": "I signed up after I talked to my teacher.",
+          "sentence_chinese": "我和老師談過後就報名了。"
+        },
+        {
+          "id": "m2-1-u2-p006",
+          "phrase": "look for",
+          "chinese": "尋找",
+          "sentence": "I looked for my keys before I left home.",
+          "sentence_chinese": "我出門前找了我的鑰匙。"
+        },
+        {
+          "id": "m2-1-u2-p007",
+          "phrase": "not... at all",
+          "chinese": "一點也不……",
+          "sentence": "I was not tired at all after the walk.",
+          "sentence_chinese": "散步後，我一點也不累。"
+        },
+        {
+          "id": "m2-1-u2-p008",
+          "phrase": "miss out",
+          "chinese": "錯過機會",
+          "sentence": "Sign up before Friday so you don't miss out.",
+          "sentence_chinese": "星期五以前報名，才不會錯過機會。"
+        }
+      ],
+      "grammar": {
+        "tips": [
+          {
+            "label": "after：在……之後",
+            "text": "A after B：先 B，再 A。例：I rested after I finished my work.（先完成工作，再休息。）"
+          },
+          {
+            "label": "before：在……之前",
+            "text": "A before B：先 A，再 B。例：I washed my hands before I ate.（先洗手，再吃飯。）"
+          },
+          {
+            "label": "when：當……的時候",
+            "text": "用 when 引出某件事發生的時間或期間。例：I sing when I am happy.（我開心時唱歌。）"
+          },
+          {
+            "label": "時間子句放句首",
+            "text": "時間子句放句首時，後面加逗號：After class ended, we went home."
+          },
+          {
+            "label": "所有格代名詞",
+            "text": "mine／ours／yours／his／hers／theirs 代替「所有格＋名詞」，後面不再接名詞。"
+          },
+          {
+            "label": "whose：誰的",
+            "text": "Whose camera is this? = Whose is this? 可回答：It is mine."
+          },
+          {
+            "label": "雙重所有格",
+            "text": "a friend of mine＝我的一位朋友；a friend of my mom’s＝我媽媽的一位朋友。"
+          }
+        ],
+        "notes": [
+          {
+            "title": "從屬連接詞與子句",
+            "rule": "主要子句＋after／before／when＋主詞＋動詞",
+            "description": "主要子句能表達完整意思；由 after、before、when 引導的時間子句補充時間資訊，在本課句型中須搭配主要子句。連接兩個子句時，時間子句內仍須有主詞和適當形式的動詞。",
+            "examples": [
+              "She used the computer after she finished her dinner.（她吃完晚餐後使用電腦。）",
+              "He sings this song when he is happy.（他開心時會唱這首歌。）"
+            ]
+          },
+          {
+            "title": "after 與 before 的先後順序",
+            "rule": "A after B：B 先、A 後；A before B：A 先、B 後",
+            "description": "判斷順序時，看連接詞後面的完整事件。after 引出較早發生的事，before 引出較晚發生的事。句子中誰寫在前面，不一定就是誰先發生。",
+            "examples": [
+              "He washed his hands after he used the bathroom.（先上廁所，再洗手。）",
+              "I drank some milk before I went to bed.（先喝牛奶，再睡覺。）"
+            ]
+          },
+          {
+            "title": "when 的時間關係",
+            "rule": "主要子句＋when＋時間子句",
+            "description": "when 可表示某件事發生的時刻或期間；本課常用於同時發生的習慣、當時的狀態或某事件發生時的反應，不表示所有情境都必須精確同時。",
+            "examples": [
+              "Mike usually eats popcorn when he watches TV.（Mike 通常看電視時吃爆米花。）",
+              "Ted helped me when I was in trouble.（我有困難時，Ted 幫助了我。）"
+            ]
+          },
+          {
+            "title": "時間子句的位置與標點",
+            "rule": "After／Before／When＋主詞＋動詞, 主要子句.",
+            "description": "時間子句可放在主要子句前面或後面；放句首時，先寫完整時間子句，再加逗號。放句尾時通常不加逗號。移動位置不改變兩件事的時間關係。",
+            "examples": [
+              "After she finished her dinner, she used the computer.（她吃完晚餐後使用電腦。）",
+              "Before the movie started, I turned off my phone.（電影開始前，我把手機關掉。）",
+              "When he is happy, he sings this song.（他開心時會唱這首歌。）"
+            ]
+          },
+          {
+            "title": "本課的時態搭配",
+            "rule": "習慣：現在簡單式；已發生的事件：過去簡單式",
+            "description": "本課例句通常以相同時間背景敘述兩件事：習慣用現在式，昨天或去年發生的事用過去式。現在式要注意第三人稱單數動詞。這是依情境選時態，不是所有時間子句永遠必須與主要子句使用相同時態。",
+            "examples": [
+              "He takes a walk after he has dinner.（他吃完晚餐後會散步。）",
+              "She ate an egg before she went to school.（她上學前吃了一顆蛋。）",
+              "When we were in the club last year, we read many books.（去年在社團時，我們讀了很多書。）"
+            ]
+          },
+          {
+            "title": "before 與 after 的同義改寫",
+            "rule": "A before B = B after A",
+            "description": "交換兩個事件的位置，並將 before 改為 after，即可保持原來的先後關係。只換連接詞而不交換事件，會改變句意。",
+            "examples": [
+              "Amy washes her hands before she eats. = Amy eats after she washes her hands.（Amy 先洗手，再吃飯。）",
+              "He closed the door after I came into the house. = I came into the house before he closed the door.（我先進屋，他再關門。）"
+            ]
+          },
+          {
+            "title": "所有格與所有格代名詞",
+            "rule": "my→mine；our→ours；your→yours；his→his；her→hers；their→theirs",
+            "description": "所有格放在名詞前；所有格代名詞直接代替「所有格＋名詞」，避免重複。mine 和 his 的形式需特別記；yours、hers、ours、theirs 不加撇號。",
+            "examples": [
+              "This is my book, not your book. = This is my book, not yours.（這是我的書，不是你的。）",
+              "This is her violin. The violin is hers.（這是她的小提琴。這把小提琴是她的。）",
+              "Our robot is small, but theirs is big.（我們的機器人很小，但他們的很大。）"
+            ]
+          },
+          {
+            "title": "名詞所有格可省略已知名詞",
+            "rule": "單數名詞或人名＋'s；以 s 結尾的複數名詞＋'",
+            "description": "表示某人的物品時，可省略已知名詞。the boy's 表示一位男孩的；the boys' 表示多位男孩的。一般人名如 Alan 加 's；以 s 結尾的人名可見 James's 或 James' 等寫法，本教材不以此差異出單一答案題。",
+            "examples": [
+              "The boat is Diana's.（這艘船是 Diana 的。）",
+              "The ball is the boy's.（這顆球是那個男孩的。）",
+              "The big room is the girls'.（那個大房間是那些女孩的。）"
+            ]
+          },
+          {
+            "title": "所有格代名詞與動詞單複數",
+            "rule": "動詞依所有格代名詞所代替的名詞決定單複數",
+            "description": "mine、hers、theirs 等本身沒有單複數變化。它們代替單數物品時搭配 is，代替複數物品時搭配 are；不能只看擁有者有幾個人。",
+            "examples": [
+              "Your pens are blue, but mine are red.（mine＝my pens，所以用 are。）",
+              "Our robot is small, but theirs is big.（theirs＝their robot，所以用 is。）"
+            ]
+          },
+          {
+            "title": "雙重所有格",
+            "rule": "a／an／this／that／some／any…＋名詞＋of＋所有格代名詞或名詞所有格",
+            "description": "表示某人的其中一個或一些事物時，可用雙重所有格。a friend of mine 中，of 後用 mine，不用 my、me 或 I；若擁有者是名詞，也要保留所有格形式。",
+            "examples": [
+              "Jessie is a friend of mine.（Jessie 是我的一位朋友。）",
+              "Mr. Cooks is an old friend of my mom's.（Cooks 先生是我媽媽的一位老朋友。）",
+              "Ben is a friend of ours.（Ben 是我們的一位朋友。）"
+            ]
+          },
+          {
+            "title": "whose 詢問所有權",
+            "rule": "Whose＋名詞＋be＋指示代名詞？／Whose＋be＋代名詞？",
+            "description": "whose 表示「誰的」，可放在名詞前，也可在物品已知時省略名詞。回答可用 mine、hers、Alan's 等。注意 whose 與 who's 不同；who's 是 who is 或 who has 的縮寫。",
+            "examples": [
+              "Whose book is this? It is mine.（這是誰的書？是我的。）",
+              "A bag is under the sofa. Whose is it? It is hers.（沙發下有一個包包。是誰的？是她的。）",
+              "Whose books are these? They are Alan's.（這些是誰的書？是 Alan 的。）"
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "id": "m2-1-u2-q001",
+            "question": "The lesson ended at 4:00. Amy left at 4:10. She left _____ the lesson ended.",
+            "options": [
+              "A. before",
+              "B. after",
+              "C. during",
+              "D. until"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "課程 4:00 結束，Amy 4:10 才離開；離開在後，after 後接先發生的事。"
+          },
+          {
+            "id": "m2-1-u2-q002",
+            "question": "The show started at 7:00. We arrived at 6:30. We arrived _____ the show started.",
+            "options": [
+              "A. after",
+              "B. during",
+              "C. until",
+              "D. before"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "我們 6:30 到，表演 7:00 才開始；抵達在先，用 before 引出較晚的事。"
+          },
+          {
+            "id": "m2-1-u2-q003",
+            "question": "Ben finished his work at 5:00 and called me at 5:10. He called me _____ he finished his work.",
+            "options": [
+              "A. after",
+              "B. before",
+              "C. during",
+              "D. until"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "先完成工作，再打電話；after 後接先完成的工作。"
+          },
+          {
+            "id": "m2-1-u2-q004",
+            "question": "The contest began at 9:00. The engineer checked the robot at 8:30. He checked it _____ the contest began.",
+            "options": [
+              "A. after",
+              "B. during",
+              "C. before",
+              "D. until"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "8:30 檢查在 9:00 開賽之前，因此用 before。"
+          },
+          {
+            "id": "m2-1-u2-q005",
+            "question": "I joined the club on Monday and got my first lesson on Tuesday. I got my first lesson _____ I joined the club.",
+            "options": [
+              "A. after",
+              "B. before",
+              "C. during",
+              "D. until"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "星期一先加入，星期二才上第一堂課；用 after 表示上課在加入之後。"
+          },
+          {
+            "id": "m2-1-u2-q006",
+            "question": "Ms. Lin called at 3:00. I came back at 3:30. She called _____ I came back.",
+            "options": [
+              "A. after",
+              "B. before",
+              "C. during",
+              "D. until"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "林女士先打電話，我後來才回來；before 後接較晚發生的回來。"
+          },
+          {
+            "id": "m2-1-u2-q007",
+            "question": "（表達「每當」開心時）I sing this song _____ I am happy.",
+            "options": [
+              "A. before",
+              "B. after",
+              "C. until",
+              "D. when"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "此處表達開心時就唱歌，兩者的時間重疊，用 when；before／after 會改變指定的時間關係。"
+          },
+          {
+            "id": "m2-1-u2-q008",
+            "question": "（表達「當……的時候」）_____ I was little, my dad taught me math.",
+            "options": [
+              "A. Before",
+              "B. After",
+              "C. When",
+              "D. Until"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "教數學的事發生在我小的那段期間，用 When 引出時間子句。"
+          },
+          {
+            "id": "m2-1-u2-q009",
+            "question": "（表達同時發生的習慣）Mike eats popcorn _____ he watches TV.",
+            "options": [
+              "A. before",
+              "B. when",
+              "C. after",
+              "D. until"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "題意是看電視時吃爆米花，用 when 連接同時發生的習慣。"
+          },
+          {
+            "id": "m2-1-u2-q010",
+            "question": "（表達「先洗手，再吃飯」）Amy eats _____ she washes her hands.",
+            "options": [
+              "A. after",
+              "B. before",
+              "C. during",
+              "D. until"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "洗手在先、吃飯在後，所以 after 後面放 she washes her hands。"
+          },
+          {
+            "id": "m2-1-u2-q011",
+            "question": "（表達「先練習，再參賽」）We practice _____ we enter the contest.",
+            "options": [
+              "A. after",
+              "B. during",
+              "C. before",
+              "D. when"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "題目指定先練習、再參賽，用 before 引出較晚的參賽；after 會顛倒順序，when 表示參賽時練習，during 不能直接接完整子句。"
+          },
+          {
+            "id": "m2-1-u2-q012",
+            "question": "（將時間子句放句首）After the lesson ended_____ we went home.",
+            "options": [
+              "A. .",
+              "B. ?",
+              "C. !",
+              "D. ,"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "時間子句放在主要子句前面時，用逗號連接；不能用句號、問號或驚嘆號把它獨立成句。"
+          },
+          {
+            "id": "m2-1-u2-q013",
+            "question": "Ben walked the dog before he _____ to the office yesterday.",
+            "options": [
+              "A. go",
+              "B. goes",
+              "C. going",
+              "D. went"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "yesterday 與 walked 表示過去；before 子句中的 go 也用過去式 went。"
+          },
+          {
+            "id": "m2-1-u2-q014",
+            "question": "Emma always listens to music when she _____ math.",
+            "options": [
+              "A. study",
+              "B. studies",
+              "C. studied",
+              "D. studying"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "always 表示現在的習慣，主詞 she 是第三人稱單數，study 改成 studies。"
+          },
+          {
+            "id": "m2-1-u2-q015",
+            "question": "After he _____ his work yesterday, he exercised.",
+            "options": [
+              "A. finished",
+              "B. finish",
+              "C. finishes",
+              "D. finishing"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "yesterday 與 exercised 表示過去，after 子句用 finished。"
+          },
+          {
+            "id": "m2-1-u2-q016",
+            "question": "The swimmer always rests after she _____ a race.",
+            "options": [
+              "A. finish",
+              "B. finished",
+              "C. finishes",
+              "D. finishing"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "always rests 表示習慣；時間子句主詞是 she，現在式用 finishes。"
+          },
+          {
+            "id": "m2-1-u2-q017",
+            "question": "We _____ the robot before the show started last night.",
+            "options": [
+              "A. check",
+              "B. checked",
+              "C. checks",
+              "D. checking"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "last night 與 started 表示過去，主要子句用過去式 checked。"
+          },
+          {
+            "id": "m2-1-u2-q018",
+            "question": "When my brother _____ happy, he plays the violin.",
+            "options": [
+              "A. am",
+              "B. are",
+              "C. be",
+              "D. is"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "現在的習慣中，my brother 是單數，be 動詞用 is。"
+          },
+          {
+            "id": "m2-1-u2-q019",
+            "question": "I heard a strange noise when I _____ the door yesterday.",
+            "options": [
+              "A. opened",
+              "B. open",
+              "C. opens",
+              "D. opening"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "heard 和 yesterday 都指出過去時間，因此用 opened。"
+          },
+          {
+            "id": "m2-1-u2-q020",
+            "question": "My sister always washes her own cup after she _____ it.",
+            "options": [
+              "A. use",
+              "B. used",
+              "C. uses",
+              "D. using"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "always washes 表示習慣；主詞 she 搭配第三人稱單數 uses。"
+          },
+          {
+            "id": "m2-1-u2-q021",
+            "question": "We played soccer after the PE lesson _____ yesterday.",
+            "options": [
+              "A. end",
+              "B. ends",
+              "C. ended",
+              "D. ending"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "yesterday 表示過去，時間子句用 ended。"
+          },
+          {
+            "id": "m2-1-u2-q022",
+            "question": "When the guests _____ last night, we opened the door.",
+            "options": [
+              "A. arrived",
+              "B. arrive",
+              "C. arrives",
+              "D. arriving"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "last night 與 opened 表示過去，arrive 應用 arrived。"
+          },
+          {
+            "id": "m2-1-u2-q023",
+            "question": "Ms. Lin always _____ us a story before the lesson ends.",
+            "options": [
+              "A. tell",
+              "B. told",
+              "C. telling",
+              "D. tells"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "always 和 ends 表示現在的習慣，Ms. Lin 是單數，主要子句用 tells。"
+          },
+          {
+            "id": "m2-1-u2-q024",
+            "question": "After I _____ up for the club yesterday, I called my friend.",
+            "options": [
+              "A. sign",
+              "B. signed",
+              "C. signs",
+              "D. signing"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "yesterday 和 called 表示過去，因此 sign 用 signed。"
+          },
+          {
+            "id": "m2-1-u2-q025",
+            "question": "When we _____ in the history club last year, we read many books.",
+            "options": [
+              "A. were",
+              "B. was",
+              "C. are",
+              "D. is"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "last year 表示過去；主詞 we 搭配過去式 were。"
+          },
+          {
+            "id": "m2-1-u2-q026",
+            "question": "I bought this camera. It is _____.",
+            "options": [
+              "A. my",
+              "B. me",
+              "C. I",
+              "D. mine"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "空格代替 my camera，後面沒有名詞，要用所有格代名詞 mine。"
+          },
+          {
+            "id": "m2-1-u2-q027",
+            "question": "Amy bought this violin. It is _____.",
+            "options": [
+              "A. her",
+              "B. she",
+              "C. hers",
+              "D. herself"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "空格代替 Amy 的小提琴，即 her violin，應用 hers。"
+          },
+          {
+            "id": "m2-1-u2-q028",
+            "question": "We designed this robot together. It is _____.",
+            "options": [
+              "A. our",
+              "B. ours",
+              "C. us",
+              "D. we"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "空格代替 our robot，用所有格代名詞 ours。"
+          },
+          {
+            "id": "m2-1-u2-q029",
+            "question": "The boys own this soccer ball. It is _____.",
+            "options": [
+              "A. their",
+              "B. theirs",
+              "C. them",
+              "D. they"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "the boys 對應 they；代替 their soccer ball 時用 theirs。"
+          },
+          {
+            "id": "m2-1-u2-q030",
+            "question": "You bought this history book. It is _____.",
+            "options": [
+              "A. your",
+              "B. you",
+              "C. yourself",
+              "D. yours"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "空格代替 your history book，應用 yours。"
+          },
+          {
+            "id": "m2-1-u2-q031",
+            "question": "Ben owns this camera. It is _____.",
+            "options": [
+              "A. his",
+              "B. he",
+              "C. him",
+              "D. himself"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "Ben 對應 he，其所有格代名詞是 his，可單獨代替 his camera。"
+          },
+          {
+            "id": "m2-1-u2-q032",
+            "question": "This is _____ robot. We designed it together.",
+            "options": [
+              "A. ours",
+              "B. us",
+              "C. our",
+              "D. we"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "空格後還有名詞 robot，所以用所有格 our；ours 後面不再接名詞。"
+          },
+          {
+            "id": "m2-1-u2-q033",
+            "question": "Amy is looking for _____ violin. She owns a red one.",
+            "options": [
+              "A. hers",
+              "B. she",
+              "C. herself",
+              "D. her"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "空格後有名詞 violin，要用所有格 her。"
+          },
+          {
+            "id": "m2-1-u2-q034",
+            "question": "I have a blue camera. _____ camera is on the desk.",
+            "options": [
+              "A. My",
+              "B. Mine",
+              "C. Me",
+              "D. I"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "camera 前面要用所有格 My；Mine 已包含名詞的意思，不能再接 camera。"
+          },
+          {
+            "id": "m2-1-u2-q035",
+            "question": "You own this book. Is _____ book in your bag?",
+            "options": [
+              "A. yours",
+              "B. your",
+              "C. you",
+              "D. yourself"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "空格直接修飾 book，所以用所有格 your。"
+          },
+          {
+            "id": "m2-1-u2-q036",
+            "question": "A: _____ camera is this? B: It is Ms. Lin's.",
+            "options": [
+              "A. Who",
+              "B. Who's",
+              "C. Whose",
+              "D. Whom"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "回答說明相機的主人，問「誰的」用 Whose；Who's 是 who is／who has 的縮寫。"
+          },
+          {
+            "id": "m2-1-u2-q037",
+            "question": "A: There is a violin on the chair. _____ is it? B: It is mine.",
+            "options": [
+              "A. Whose",
+              "B. Who",
+              "C. Who's",
+              "D. Whom"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "已知物品是小提琴，可省略 whose 後的名詞，用 Whose is it? 問所有權。"
+          },
+          {
+            "id": "m2-1-u2-q038",
+            "question": "Your pens are blue, but mine _____ red.",
+            "options": [
+              "A. is",
+              "B. am",
+              "C. be",
+              "D. are"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "mine 代替 my pens，是複數，所以 be 動詞用 are。"
+          },
+          {
+            "id": "m2-1-u2-q039",
+            "question": "Our robot is small, but theirs _____ big.",
+            "options": [
+              "A. are",
+              "B. is",
+              "C. am",
+              "D. be"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "theirs 代替 their robot，robot 是單數，搭配 is。"
+          },
+          {
+            "id": "m2-1-u2-q040",
+            "question": "My science books are new, but hers _____ old.",
+            "options": [
+              "A. is",
+              "B. am",
+              "C. are",
+              "D. be"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "hers 代替 her science books，指複數書本，因此用 are。"
+          },
+          {
+            "id": "m2-1-u2-q041",
+            "question": "These two cameras belong to me. Both are _____.",
+            "options": [
+              "A. my",
+              "B. me",
+              "C. I",
+              "D. mine"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "mine 可代替複數的 my cameras，不因數量增加而改形。"
+          },
+          {
+            "id": "m2-1-u2-q042",
+            "question": "I have many friends. Jessie is a friend of _____.",
+            "options": [
+              "A. my",
+              "B. mine",
+              "C. me",
+              "D. I"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "a friend of mine 是雙重所有格，表示我的朋友之一；of 後面用所有格代名詞。"
+          },
+          {
+            "id": "m2-1-u2-q043",
+            "question": "We have several friends in the club. Ben is a friend of _____.",
+            "options": [
+              "A. our",
+              "B. us",
+              "C. ours",
+              "D. we"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "a friend of ours 表示我們的朋友之一；雙重所有格使用 ours。"
+          },
+          {
+            "id": "m2-1-u2-q044",
+            "question": "Amy knows many engineers. Mr. Wu is an old friend of _____.",
+            "options": [
+              "A. hers",
+              "B. her",
+              "C. she",
+              "D. herself"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "an old friend of hers 是雙重所有格，表示她的一位老朋友。"
+          },
+          {
+            "id": "m2-1-u2-q045",
+            "question": "Tom and Tim share one room. This is the two _____ room.",
+            "options": [
+              "A. boy's",
+              "B. boys",
+              "C. boys'",
+              "D. boy"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "two boys 是以 s 結尾的複數名詞，表示所有格時在 s 後加撇號，成為 boys'。"
+          },
+          {
+            "id": "m2-1-u2-q046",
+            "question": "Only one girl owns this violin. It is the _____.",
+            "options": [
+              "A. girls'",
+              "B. girl's",
+              "C. girls",
+              "D. girl"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "只有一位女孩，單數 girl 加 's，並省略已知的 violin。"
+          },
+          {
+            "id": "m2-1-u2-q047",
+            "question": "Alan owns this robot. The robot is _____.",
+            "options": [
+              "A. Alan",
+              "B. Alans",
+              "C. Alans'",
+              "D. Alan's"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "人名 Alan 的所有格是 Alan's，可單獨代替 Alan's robot。"
+          },
+          {
+            "id": "m2-1-u2-q048",
+            "question": "（表達「那台相機是我媽媽的」）That camera on the desk is my _____.",
+            "options": [
+              "A. mom's",
+              "B. mom",
+              "C. moms",
+              "D. moms'"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "my mom 是單數的擁有者，加 's 成為 my mom's，並省略已知的 camera；不能用沒有所有格標記的 mom。"
+          },
+          {
+            "id": "m2-1-u2-q049",
+            "question": "（請對方指認自己的相機）A: Which camera is _____? B: The red one is mine.",
+            "options": [
+              "A. your",
+              "B. you",
+              "C. yours",
+              "D. yourself"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "問對方哪一台是「你的相機」，空格代替 your camera，要用 yours。"
+          },
+          {
+            "id": "m2-1-u2-q050",
+            "question": "These are our science books. Those are their science books. Those books are _____.",
+            "options": [
+              "A. their",
+              "B. theirs",
+              "C. them",
+              "D. they"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "空格代替 their science books，沒有後接名詞，使用 theirs。"
+          }
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          {
+            "id": "m2-1-u2-sv001",
+            "vocab_id": "m2-1-u2-v001",
+            "sentence": "I joined the club after school started.",
+            "sentence_chinese": "開學後，我加入了這個社團。"
+          },
+          {
+            "id": "m2-1-u2-sv002",
+            "vocab_id": "m2-1-u2-v002",
+            "sentence": "This book is interesting, but that one is boring.",
+            "sentence_chinese": "這本書很有趣，但那本很無聊。"
+          },
+          {
+            "id": "m2-1-u2-sv003",
+            "vocab_id": "m2-1-u2-v003",
+            "sentence": "We study science when we meet on Tuesdays.",
+            "sentence_chinese": "我們星期二聚在一起時會學習科學。"
+          },
+          {
+            "id": "m2-1-u2-sv004",
+            "vocab_id": "m2-1-u2-v004",
+            "sentence": "My favorite subject is English. What is yours?",
+            "sentence_chinese": "我最喜歡的科目是英文。你呢？"
+          },
+          {
+            "id": "m2-1-u2-sv005",
+            "vocab_id": "m2-1-u2-v005",
+            "sentence": "I heard a noise when I opened the door.",
+            "sentence_chinese": "我開門時聽見了一個聲音。"
+          },
+          {
+            "id": "m2-1-u2-sv006",
+            "vocab_id": "m2-1-u2-v006",
+            "sentence": "Your bag is the same color as mine.",
+            "sentence_chinese": "你的包包和我的是同一個顏色。"
+          },
+          {
+            "id": "m2-1-u2-sv007",
+            "vocab_id": "m2-1-u2-v007",
+            "sentence": "Call me after you finish your homework.",
+            "sentence_chinese": "你寫完功課後打給我。"
+          },
+          {
+            "id": "m2-1-u2-sv008",
+            "vocab_id": "m2-1-u2-v008",
+            "sentence": "Tell me when you need help.",
+            "sentence_chinese": "你需要幫忙時告訴我。"
+          },
+          {
+            "id": "m2-1-u2-sv009",
+            "vocab_id": "m2-1-u2-v009",
+            "sentence": "The poor boy smiled when he got the book.",
+            "sentence_chinese": "那個貧窮的男孩拿到書時笑了。"
+          },
+          {
+            "id": "m2-1-u2-sv010",
+            "vocab_id": "m2-1-u2-v010",
+            "sentence": "We went home after the game ended.",
+            "sentence_chinese": "比賽結束後，我們回家了。"
+          },
+          {
+            "id": "m2-1-u2-sv011",
+            "vocab_id": "m2-1-u2-v011",
+            "sentence": "Whose camera is this?",
+            "sentence_chinese": "這是誰的相機？"
+          },
+          {
+            "id": "m2-1-u2-sv012",
+            "vocab_id": "m2-1-u2-v012",
+            "sentence": "This camera is hers.",
+            "sentence_chinese": "這台相機是她的。"
+          },
+          {
+            "id": "m2-1-u2-sv013",
+            "vocab_id": "m2-1-u2-v013",
+            "sentence": "Your bag is blue, but mine is red.",
+            "sentence_chinese": "你的包包是藍色的，但我的是紅色的。"
+          },
+          {
+            "id": "m2-1-u2-sv014",
+            "vocab_id": "m2-1-u2-v014",
+            "sentence": "I called the wrong number before I called you.",
+            "sentence_chinese": "我打給你之前先打錯了電話。"
+          },
+          {
+            "id": "m2-1-u2-sv015",
+            "vocab_id": "m2-1-u2-v015",
+            "sentence": "We study math before we have lunch.",
+            "sentence_chinese": "我們午餐前上數學課。"
+          },
+          {
+            "id": "m2-1-u2-sv016",
+            "vocab_id": "m2-1-u2-v016",
+            "sentence": "We played soccer after school ended.",
+            "sentence_chinese": "放學後，我們踢了足球。"
+          },
+          {
+            "id": "m2-1-u2-sv017",
+            "vocab_id": "m2-1-u2-v017",
+            "sentence": "We speak Chinese when we are at home.",
+            "sentence_chinese": "我們在家時說中文。"
+          },
+          {
+            "id": "m2-1-u2-sv018",
+            "vocab_id": "m2-1-u2-v018",
+            "sentence": "I read a history book before I went to bed.",
+            "sentence_chinese": "我睡前讀了一本歷史書。"
+          },
+          {
+            "id": "m2-1-u2-sv019",
+            "vocab_id": "m2-1-u2-v019",
+            "sentence": "This violin is mine.",
+            "sentence_chinese": "這把小提琴是我的。"
+          },
+          {
+            "id": "m2-1-u2-sv020",
+            "vocab_id": "m2-1-u2-v020",
+            "sentence": "Our robot is small, but theirs is big.",
+            "sentence_chinese": "我們的機器人很小，但他們的很大。"
+          },
+          {
+            "id": "m2-1-u2-sv021",
+            "vocab_id": "m2-1-u2-v021",
+            "sentence": "My health got better after I started exercising.",
+            "sentence_chinese": "我開始運動後，健康變好了。"
+          },
+          {
+            "id": "m2-1-u2-sv022",
+            "vocab_id": "m2-1-u2-v022",
+            "sentence": "We drink water after we have PE.",
+            "sentence_chinese": "我們上完體育課後喝水。"
+          },
+          {
+            "id": "m2-1-u2-sv023",
+            "vocab_id": "m2-1-u2-v023",
+            "sentence": "Ms. Lin smiled when she saw us.",
+            "sentence_chinese": "林女士看到我們時笑了。"
+          },
+          {
+            "id": "m2-1-u2-sv024",
+            "vocab_id": "m2-1-u2-v024",
+            "sentence": "The engineer checked the robot before the show started.",
+            "sentence_chinese": "表演開始前，工程師檢查了機器人。"
+          },
+          {
+            "id": "m2-1-u2-sv025",
+            "vocab_id": "m2-1-u2-v025",
+            "sentence": "We practiced after the lesson ended.",
+            "sentence_chinese": "課程結束後，我們練習了。"
+          },
+          {
+            "id": "m2-1-u2-sv026",
+            "vocab_id": "m2-1-u2-v026",
+            "sentence": "My homework is difficult, but hers is easy.",
+            "sentence_chinese": "我的功課很難，但她的很簡單。"
+          },
+          {
+            "id": "m2-1-u2-sv027",
+            "vocab_id": "m2-1-u2-v027",
+            "sentence": "My dad taught me math when I was little.",
+            "sentence_chinese": "我小時候，爸爸教我數學。"
+          },
+          {
+            "id": "m2-1-u2-sv028",
+            "vocab_id": "m2-1-u2-v028",
+            "sentence": "I wash my own cup after I use it.",
+            "sentence_chinese": "我用完自己的杯子後會把它洗乾淨。"
+          },
+          {
+            "id": "m2-1-u2-sv029",
+            "vocab_id": "m2-1-u2-v029",
+            "sentence": "I finished my homework before I watched TV.",
+            "sentence_chinese": "我看電視前先完成了功課。"
+          },
+          {
+            "id": "m2-1-u2-sv030",
+            "vocab_id": "m2-1-u2-v030",
+            "sentence": "We took pictures when we went to the festival.",
+            "sentence_chinese": "我們參加節慶活動時拍了照。"
+          },
+          {
+            "id": "m2-1-u2-sv031",
+            "vocab_id": "m2-1-u2-v031",
+            "sentence": "We sat down before the movie started.",
+            "sentence_chinese": "電影開始前，我們坐了下來。"
+          },
+          {
+            "id": "m2-1-u2-sv032",
+            "vocab_id": "m2-1-u2-v032",
+            "sentence": "I talked to Mom before I made my choice.",
+            "sentence_chinese": "我做選擇前先和媽媽談了談。"
+          },
+          {
+            "id": "m2-1-u2-sv033",
+            "vocab_id": "m2-1-u2-v033",
+            "sentence": "I listen to music when I am happy.",
+            "sentence_chinese": "我開心時會聽音樂。"
+          },
+          {
+            "id": "m2-1-u2-sv034",
+            "vocab_id": "m2-1-u2-v034",
+            "sentence": "I came back after the lesson ended.",
+            "sentence_chinese": "課程結束後，我回來了。"
+          },
+          {
+            "id": "m2-1-u2-sv035",
+            "vocab_id": "m2-1-u2-v035",
+            "sentence": "The lessons are free when you join the club.",
+            "sentence_chinese": "加入社團後，這些課程是免費的。"
+          },
+          {
+            "id": "m2-1-u2-sv036",
+            "vocab_id": "m2-1-u2-v036",
+            "sentence": "We ate dinner before the show started.",
+            "sentence_chinese": "表演開始前，我們吃了晚餐。"
+          },
+          {
+            "id": "m2-1-u2-sv037",
+            "vocab_id": "m2-1-u2-v037",
+            "sentence": "We designed a robot after we joined the club.",
+            "sentence_chinese": "加入社團後，我們設計了一個機器人。"
+          },
+          {
+            "id": "m2-1-u2-sv038",
+            "vocab_id": "m2-1-u2-v038",
+            "sentence": "The swimmer rested after he finished the race.",
+            "sentence_chinese": "那位泳者比完賽後休息了。"
+          },
+          {
+            "id": "m2-1-u2-sv039",
+            "vocab_id": "m2-1-u2-v039",
+            "sentence": "I saw a fish when I swam underwater.",
+            "sentence_chinese": "我在水下游泳時看見了一條魚。"
+          },
+          {
+            "id": "m2-1-u2-sv040",
+            "vocab_id": "m2-1-u2-v040",
+            "sentence": "The winner smiled when she heard her name.",
+            "sentence_chinese": "那位獲勝者聽到自己的名字時笑了。"
+          },
+          {
+            "id": "m2-1-u2-sv041",
+            "vocab_id": "m2-1-u2-v041",
+            "sentence": "We practiced before the contest started.",
+            "sentence_chinese": "競賽開始前，我們練習了。"
+          },
+          {
+            "id": "m2-1-u2-sv042",
+            "vocab_id": "m2-1-u2-v042",
+            "sentence": "The guests arrived after we finished cooking.",
+            "sentence_chinese": "我們煮好飯後，客人們到了。"
+          }
+        ],
+        "phrases": [
+          {
+            "id": "m2-1-u2-sp001",
+            "phrase_id": "m2-1-u2-p001",
+            "sentence": "I made up my mind before I called her.",
+            "sentence_chinese": "我打給她之前就下定決心了。"
+          },
+          {
+            "id": "m2-1-u2-sp002",
+            "phrase_id": "m2-1-u2-p002",
+            "sentence": "I was pulling your leg when I said that.",
+            "sentence_chinese": "我說那句話時是在跟你開玩笑。"
+          },
+          {
+            "id": "m2-1-u2-sp003",
+            "phrase_id": "m2-1-u2-p003",
+            "sentence": "Please hold on when I check the number.",
+            "sentence_chinese": "我查號碼時，請稍候。"
+          },
+          {
+            "id": "m2-1-u2-sp004",
+            "phrase_id": "m2-1-u2-p004",
+            "sentence": "You look sad. What's up?",
+            "sentence_chinese": "你看起來很難過。怎麼了？"
+          },
+          {
+            "id": "m2-1-u2-sp005",
+            "phrase_id": "m2-1-u2-p005",
+            "sentence": "I signed up after I talked to my teacher.",
+            "sentence_chinese": "我和老師談過後就報名了。"
+          },
+          {
+            "id": "m2-1-u2-sp006",
+            "phrase_id": "m2-1-u2-p006",
+            "sentence": "I looked for my keys before I left home.",
+            "sentence_chinese": "我出門前找了我的鑰匙。"
+          },
+          {
+            "id": "m2-1-u2-sp007",
+            "phrase_id": "m2-1-u2-p007",
+            "sentence": "I was not tired at all after the walk.",
+            "sentence_chinese": "散步後，我一點也不累。"
+          },
+          {
+            "id": "m2-1-u2-sp008",
+            "phrase_id": "m2-1-u2-p008",
+            "sentence": "Sign up before Friday so you don't miss out.",
+            "sentence_chinese": "星期五以前報名，才不會錯過機會。"
+          }
+        ],
+        "grammar": [
+          {
+            "id": "m2-1-u2-sg001",
+            "sentence": "We played soccer after the lesson ended.",
+            "sentence_chinese": "課程結束後，我們踢了足球。"
+          },
+          {
+            "id": "m2-1-u2-sg002",
+            "sentence": "Before the show started, we checked the robot.",
+            "sentence_chinese": "表演開始前，我們檢查了機器人。"
+          },
+          {
+            "id": "m2-1-u2-sg003",
+            "sentence": "Whose camera is on the desk by the door?",
+            "sentence_chinese": "門邊桌上的相機是誰的？"
+          },
+          {
+            "id": "m2-1-u2-sg004",
+            "sentence": "I listen to music when I study math.",
+            "sentence_chinese": "我讀數學時會聽音樂。"
+          },
+          {
+            "id": "m2-1-u2-sg005",
+            "sentence": "Your violin is black, but mine is brown.",
+            "sentence_chinese": "你的小提琴是黑色的，但我的是棕色的。"
+          },
+          {
+            "id": "m2-1-u2-sg006",
+            "sentence": "Amy washed her hands before she ate dinner.",
+            "sentence_chinese": "Amy 吃晚餐前先洗了手。"
+          },
+          {
+            "id": "m2-1-u2-sg007",
+            "sentence": "The winner smiled when she heard her name.",
+            "sentence_chinese": "那位獲勝者聽到自己的名字時笑了。"
+          },
+          {
+            "id": "m2-1-u2-sg008",
+            "sentence": "This robot is ours, and that one is theirs.",
+            "sentence_chinese": "這個機器人是我們的，那個是他們的。"
+          },
+          {
+            "id": "m2-1-u2-sg009",
+            "sentence": "After I finished my homework, I called Ben.",
+            "sentence_chinese": "我完成功課後打電話給 Ben。"
+          },
+          {
+            "id": "m2-1-u2-sg010",
+            "sentence": "Jessie is a good friend of mine.",
+            "sentence_chinese": "Jessie 是我的一位好朋友。"
+          },
+          {
+            "id": "m2-1-u2-sg011",
+            "sentence": "The swimmer rested after he finished the race.",
+            "sentence_chinese": "那位泳者比完賽後休息了。"
+          },
+          {
+            "id": "m2-1-u2-sg012",
+            "sentence": "Whose history books are in this blue bag?",
+            "sentence_chinese": "這個藍色包包裡的歷史書是誰的？"
+          },
+          {
+            "id": "m2-1-u2-sg013",
+            "sentence": "We signed up before the first lesson started.",
+            "sentence_chinese": "第一堂課開始前，我們就報名了。"
+          },
+          {
+            "id": "m2-1-u2-sg014",
+            "sentence": "These pens are mine, and those are hers.",
+            "sentence_chinese": "這些筆是我的，那些是她的。"
+          },
+          {
+            "id": "m2-1-u2-sg015",
+            "sentence": "When I was little, my dad taught me math.",
+            "sentence_chinese": "我小時候，爸爸教我數學。"
+          },
+          {
+            "id": "m2-1-u2-sg016",
+            "sentence": "That big room by the stairs is the girls'.",
+            "sentence_chinese": "樓梯旁那個大房間是那些女孩的。"
+          },
+          {
+            "id": "m2-1-u2-sg017",
+            "sentence": "I looked for my camera before I left.",
+            "sentence_chinese": "我離開前找了我的相機。"
+          },
+          {
+            "id": "m2-1-u2-sg018",
+            "sentence": "Our science books are new, but his are old.",
+            "sentence_chinese": "我們的科學書是新的，但他的是舊的。"
+          },
+          {
+            "id": "m2-1-u2-sg019",
+            "sentence": "After the contest ended, the guests went home.",
+            "sentence_chinese": "競賽結束後，客人們回家了。"
+          },
+          {
+            "id": "m2-1-u2-sg020",
+            "sentence": "Mr. Wu is an old friend of my mom's.",
+            "sentence_chinese": "吳先生是我媽媽的一位老朋友。"
+          },
+          {
+            "id": "m2-1-u2-sg021",
+            "sentence": "She sings when she is happy at home.",
+            "sentence_chinese": "她在家裡開心時會唱歌。"
+          },
+          {
+            "id": "m2-1-u2-sg022",
+            "sentence": "This is my own camera, not yours.",
+            "sentence_chinese": "這是我自己的相機，不是你的。"
+          },
+          {
+            "id": "m2-1-u2-sg023",
+            "sentence": "Before I made my choice, I talked to Mom.",
+            "sentence_chinese": "我做選擇前先和媽媽談了談。"
+          },
+          {
+            "id": "m2-1-u2-sg024",
+            "sentence": "That red violin on the chair is Alan's.",
+            "sentence_chinese": "椅子上那把紅色的小提琴是 Alan 的。"
+          },
+          {
+            "id": "m2-1-u2-sg025",
+            "sentence": "We drank water after we had PE.",
+            "sentence_chinese": "我們上完體育課後喝了水。"
+          },
+          {
+            "id": "m2-1-u2-sg026",
+            "sentence": "Our robot is small, but hers is big.",
+            "sentence_chinese": "我們的機器人很小，但她的很大。"
+          },
+          {
+            "id": "m2-1-u2-sg027",
+            "sentence": "When the guests arrived, we opened the door.",
+            "sentence_chinese": "客人們到的時候，我們打開了門。"
+          },
+          {
+            "id": "m2-1-u2-sg028",
+            "sentence": "Ben is a new friend of ours.",
+            "sentence_chinese": "Ben 是我們的一位新朋友。"
+          },
+          {
+            "id": "m2-1-u2-sg029",
+            "sentence": "I turned off my phone before the movie started.",
+            "sentence_chinese": "電影開始前，我把手機關掉了。"
+          },
+          {
+            "id": "m2-1-u2-sg030",
+            "sentence": "Whose soccer ball is under the teacher's desk?",
+            "sentence_chinese": "老師桌下的足球是誰的？"
+          }
+        ]
+      }
+    }
+  }
+}

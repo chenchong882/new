@@ -295,462 +295,397 @@
         "quiz": [
           {
             "id": "h2-2-u4-q001",
-            "question": "The coach showed me how ___ slowly before the race.",
+            "question": "The gym teacher taught us how ___ through our noses during the exercise.",
             "options": [
-              "A. to breathe",
-              "B. breathing",
-              "C. breathes",
-              "D. to breathing"
+              "A. to breathing",
+              "B. breathe",
+              "C. to breathe",
+              "D. breathing"
             ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "how 後接 to + 原形動詞，表示呼吸的方法；不能用 to breathing。"
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "how to breathe 表示「怎麼呼吸」。how 後接 to + 原形動詞 breathe。"
           },
           {
             "id": "h2-2-u4-q002",
-            "question": "We practiced what ___ if a disaster happened.",
+            "question": "I don't know what ___ if the lights go out again.",
             "options": [
-              "A. to do",
-              "B. does",
-              "C. to doing",
-              "D. doing"
+              "A. to doing",
+              "B. do",
+              "C. doing",
+              "D. to do"
             ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "what to do 表示該做什麼；what 是 do 的受詞，後面用 to + 原形動詞。"
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "what 是 do 的受詞，what to do 表示「該做什麼」。"
           },
           {
             "id": "h2-2-u4-q003",
-            "question": "The storm is coming. We can't decide ___ to stay here or leave.",
+            "question": "The two buses leave from different stops. Which stop ___ is still unclear to us.",
             "options": [
-              "A. what",
-              "B. whether",
-              "C. if",
-              "D. that"
+              "A. to use",
+              "B. use",
+              "C. using",
+              "D. to using"
             ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "stay here or leave 提供兩種選擇；表示是否留下用 whether to stay，if 不能直接接 to V。"
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "which stop 整組放在前面，後接 to use。Which stop to use 是 is 的主詞。"
           },
           {
             "id": "h2-2-u4-q004",
-            "question": "The room is still being cleaned. We haven't decided when ___ the meeting.",
+            "question": "We've packed everything. We just need to decide when ___ for the beach.",
             "options": [
-              "A. to start",
-              "B. starting",
-              "C. started",
-              "D. to starting"
+              "A. to leaving",
+              "B. leaving",
+              "C. to leave",
+              "D. leave"
             ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "when to start 表示何時開始；不定詞用 to + 原形 start。"
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "when to leave 表示「何時出發」，to 後接原形 leave。"
           },
           {
             "id": "h2-2-u4-q005",
-            "question": "The park has three gates. We haven't agreed on where ___.",
+            "question": "The pool is closed today. We haven't decided where ___ instead.",
             "options": [
-              "A. meets",
-              "B. to meeting",
-              "C. meeting",
-              "D. to meet"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "where to meet 表示會合地點；where + to V 可作 on 的受詞，不能改成 where meeting。"
-          },
-          {
-            "id": "h2-2-u4-q006",
-            "question": "The sign tells visitors who ___ if there is an urgent problem.",
-            "options": [
-              "A. to calling",
-              "B. calling",
-              "C. to called",
-              "D. to call"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "who to call 表示該打電話給誰；who 是 call 的受詞，後面用 to + 原形動詞。"
-          },
-          {
-            "id": "h2-2-u4-q007",
-            "question": "The guide explained how ___ in the mountains without a phone.",
-            "options": [
-              "A. surviving",
-              "B. survives",
-              "C. to survive",
-              "D. to surviving"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "how to survive 表示生存的方法；疑問詞後用 to + 原形 survive。"
-          },
-          {
-            "id": "h2-2-u4-q008",
-            "question": "We have two ways to reduce waste, but we can't decide which method ___.",
-            "options": [
-              "A. to use",
-              "B. uses",
-              "C. to using",
-              "D. using"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "which method to use 表示該採用哪種方法；疑問詞可先接名詞 method，再接 to V。"
-          },
-          {
-            "id": "h2-2-u4-q009",
-            "question": "Dad showed me how ___ on sugary drinks.",
-            "options": [
-              "A. to cutting down",
-              "B. to cut down",
-              "C. cutting down",
-              "D. cuts down"
+              "A. swim",
+              "B. to swim",
+              "C. to swimming",
+              "D. swimming"
             ],
             "answer": "B",
             "answer_index": 1,
-            "hint": "how 後接 to + 原形動詞；完整內容為 how to cut down on sugary drinks，考的是不定詞形式。"
+            "hint": "where 問地點，where to swim 表示「該去哪裡游泳」。"
           },
           {
-            "id": "h2-2-u4-q010",
-            "question": "The bag is full of broken glass. Please tell me how ___ it safely.",
+            "id": "h2-2-u4-q006",
+            "question": "I found a lost dog, but I don't know who ___ for help.",
             "options": [
-              "A. carrying",
-              "B. carries",
-              "C. to carry",
-              "D. to carrying"
+              "A. to call",
+              "B. call",
+              "C. calling",
+              "D. to calling"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "who 指「該打給誰」，是 call 的受詞，後接 to call。"
+          },
+          {
+            "id": "h2-2-u4-q007",
+            "question": "Dad showed me how ___ my name on the form.",
+            "options": [
+              "A. to writing",
+              "B. write",
+              "C. to write",
+              "D. writing"
             ],
             "answer": "C",
             "answer_index": 2,
-            "hint": "how to carry it 表示如何搬它；how 後用 to carry，不能用 to carrying。"
+            "hint": "how to write 表示「該怎麼寫」。showed me 表示要學著寫的人是我。"
           },
           {
-            "id": "h2-2-u4-q011",
-            "question": "Please show the children ___ to do with their trash.",
+            "id": "h2-2-u4-q008",
+            "question": "The lake is very deep. We have to decide ___ to swim here or go to the pool.",
             "options": [
-              "A. where",
-              "B. when",
-              "C. how",
-              "D. what"
+              "A. that",
+              "B. what",
+              "C. if",
+              "D. whether"
             ],
             "answer": "D",
             "answer_index": 3,
-            "hint": "do 缺少『做什麼』的受詞，所以用 what to do；how 表方法，不能代替 do 缺少的受詞。"
+            "hint": "兩種選擇用 whether to swim here or go to the pool。if 後需有完整子句，這裡不能直接接 to swim。"
           },
           {
-            "id": "h2-2-u4-q012",
-            "question": "My little sister doesn't know ___ to swallow a large pill.",
+            "id": "h2-2-u4-q009",
+            "question": "I already have a jacket, but I'm wondering ___ to bring an extra one.",
             "options": [
-              "A. how",
-              "B. which",
-              "C. what",
+              "A. what",
+              "B. whether",
+              "C. which",
+              "D. if"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "空格表示「是否」要多帶一件外套，用 whether to bring。bring 已有 an extra one 作受詞。"
+          },
+          {
+            "id": "h2-2-u4-q010",
+            "question": "We don't know whether ___ the road now or wait for the light.",
+            "options": [
+              "A. crossing",
+              "B. to crossing",
+              "C. to cross",
+              "D. crossed"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "whether 後用 to + 原形動詞 cross。後面的 wait 和 cross 是兩個選項。"
+          },
+          {
+            "id": "h2-2-u4-q011",
+            "question": "Please tell me ___ to do with these old bottles.",
+            "options": [
+              "A. what",
+              "B. how",
+              "C. which",
               "D. who"
             ],
             "answer": "A",
             "answer_index": 0,
-            "hint": "swallow 已有受詞 a large pill，空格要表示方法，用 how；what/which 不能再當同一個動詞的受詞。"
+            "hint": "what to do with these old bottles 是問「這些舊瓶子該怎麼處理」。do 缺少受詞，what 補上這個位置。how 表示方法，無法當 do 的受詞。"
+          },
+          {
+            "id": "h2-2-u4-q012",
+            "question": "The little boy needs help. Can you show him ___ to open this jar?",
+            "options": [
+              "A. who",
+              "B. which",
+              "C. how",
+              "D. what"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "open 已有受詞 this jar。how to open this jar 問的是打開罐子的方法。"
           },
           {
             "id": "h2-2-u4-q013",
-            "question": "The teacher showed us where to put the bottles and ___ the boxes.",
+            "question": "We have to paint one of these two walls. Have you decided which wall ___ first?",
             "options": [
-              "A. how sorting",
-              "B. how sort",
-              "C. how to sort",
-              "D. how to sorting"
+              "A. painted",
+              "B. to paint",
+              "C. painting",
+              "D. to painting"
             ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "and 連接 where to put 與 how to sort 兩個名詞片語；how 後面仍用 to + 原形 sort。"
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "which wall 是 paint 的受詞，整組放在 to paint 前面。"
           },
           {
             "id": "h2-2-u4-q014",
-            "question": "The guide taught us how to find clean water and ___ a fire.",
+            "question": "Grandma showed me how to peel an apple and ___ it into thin pieces.",
             "options": [
-              "A. built",
-              "B. to building",
-              "C. build",
-              "D. building"
+              "A. cut",
+              "B. to cutting",
+              "C. cutting",
+              "D. cuts"
             ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "find 和 build 是 and 連接的兩個動作，共用前面的 to，所以 build 也用原形。"
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "peel 和 cut 由 and 並列，共用前面的 to，所以 cut 用原形。"
           },
           {
             "id": "h2-2-u4-q015",
-            "question": "She asked the nurse ___ to take the medicine with food.",
+            "question": "The teacher showed us how to float and how ___ back to the side of the pool.",
             "options": [
-              "A. what",
-              "B. whether",
-              "C. if",
-              "D. that"
+              "A. swims",
+              "B. swimming",
+              "C. to swimming",
+              "D. to swim"
             ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "此處表示是否要隨餐服藥，用 whether to take；if 可接完整子句，但不能直接接 to take。"
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "這裡並列 how to float 和 how to swim，第二個 how 後也用 to + 原形動詞。"
           },
           {
             "id": "h2-2-u4-q016",
-            "question": "We are wondering how ___ water pollution at school.",
+            "question": "The sign tells us where to leave our bags and when ___ them up.",
             "options": [
-              "A. reducing",
-              "B. reduces",
-              "C. to reduce",
-              "D. to reducing"
+              "A. to pick",
+              "B. to picking",
+              "C. picking",
+              "D. pick"
             ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "how to reduce 表示如何減少；疑問詞後的不定詞使用 to + 原形 reduce。"
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "where to leave 和 when to pick up 是兩個並列的疑問詞片語。when 後接 to pick。"
           },
           {
             "id": "h2-2-u4-q017",
-            "question": "The boy needs to learn how ___ before he goes swimming.",
+            "question": "I was nervous before the race. My friend told me who ___ if I needed help.",
             "options": [
-              "A. floats",
-              "B. to floating",
-              "C. to float",
-              "D. floating"
+              "A. to asking",
+              "B. ask",
+              "C. to ask",
+              "D. asking"
             ],
             "answer": "C",
             "answer_index": 2,
-            "hint": "learn how to float 表示學習如何漂浮；how 後用 to + 原形動詞。"
+            "hint": "who to ask 表示「可以找誰」。told me 提示去問的人是我，who 是 ask 的受詞。"
           },
           {
             "id": "h2-2-u4-q018",
-            "question": "Please tell us when ___ the cleanup. We want to arrive on time.",
+            "question": "The coach told us when ___ for the game. The team has to be there before noon.",
             "options": [
-              "A. we to start",
-              "B. should we start",
-              "C. we should start",
-              "D. we should starting"
+              "A. we should arriving",
+              "B. should we arrive",
+              "C. we should arrive",
+              "D. we should to arrive"
             ],
             "answer": "C",
             "answer_index": 2,
-            "hint": "tell us 後的名詞子句用陳述句語序：when + we + should start；不能用直接問句的 should we start。"
+            "hint": "這一題保留完整子句。when 後用主詞 we，再接 should + 原形 arrive。"
           },
           {
             "id": "h2-2-u4-q019",
-            "question": "The note explains where ___ the empty bottles.",
+            "question": "The map shows where ___ after the show.",
             "options": [
-              "A. we can leave",
-              "B. can we leave",
-              "C. we can to leave",
-              "D. we leaving"
+              "A. we can meet",
+              "B. can we meet",
+              "C. we meeting can",
+              "D. we can to meet"
             ],
             "answer": "A",
             "answer_index": 0,
-            "hint": "where 引導名詞子句時，主詞 we 放在 can 前面；can 後接原形 leave，也可簡化成 where to leave the empty bottles。"
+            "hint": "這一題保留完整子句。where 後先放主詞 we，can 後接原形 meet。"
           },
           {
             "id": "h2-2-u4-q020",
-            "question": "After the disaster, the children learned who ___ for help.",
+            "question": "I know how I can fix the bike. In other words, I know how ___ the bike.",
             "options": [
-              "A. to ask",
-              "B. to asked",
-              "C. to asking",
-              "D. asking"
+              "A. can fix",
+              "B. to fixing",
+              "C. to fix",
+              "D. fixing"
             ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "who to ask for help 表示該向誰求助；who 是 ask 的受詞，後接 to + 原形 ask。"
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "前後兩句都是 I 要修車，可以把 how I can fix 簡化成 how to fix。"
           },
           {
             "id": "h2-2-u4-q021",
-            "question": "Please show me how ___ this word. I can't say it.",
+            "question": "We haven't decided what we should bring to the picnic. In other words, we haven't decided what ___ to the picnic.",
             "options": [
-              "A. to pronouncing",
-              "B. pronouncing",
-              "C. to pronounce",
-              "D. pronounces"
+              "A. bringing",
+              "B. should bring",
+              "C. to bringing",
+              "D. to bring"
             ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "how to pronounce 表示如何發音；show me 後接 how + to + 原形動詞。"
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "前後都是 we 要帶東西，可以把 what we should bring 簡化成 what to bring。"
           },
           {
             "id": "h2-2-u4-q022",
-            "question": "I am still deciding what ___ to the class party.",
+            "question": "I showed Sam where he could park his bike. In other words, I showed Sam where ___ his bike.",
             "options": [
-              "A. to bring",
-              "B. bringing",
-              "C. brings",
-              "D. to bringing"
+              "A. could park",
+              "B. to park",
+              "C. parking",
+              "D. to parking"
             ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "what to bring 表示該帶什麼；what 是 bring 的受詞，不定詞使用 to bring。"
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "where to park 的動作者由 showed Sam 裡的 Sam 判斷，對應前句的 he。"
           },
           {
             "id": "h2-2-u4-q023",
-            "question": "The rules tell us which door ___ during a fire.",
+            "question": "To cut down on waste, we need to learn how ___ more things at home.",
             "options": [
-              "A. uses",
-              "B. to using",
-              "C. to use",
-              "D. using"
+              "A. reuse",
+              "B. reusing",
+              "C. to reusing",
+              "D. to reuse"
             ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "which door to use 表示該使用哪一扇門；which + 名詞後接 to + 原形動詞。"
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "how to reuse 表示「怎麼再利用」，how 後使用 to + 原形動詞。"
           },
           {
             "id": "h2-2-u4-q024",
-            "question": "Do you know how to turn off the water and ___ the floor?",
+            "question": "There are two bowls of soup. We still don't know which one ___ first.",
             "options": [
-              "A. to cleaning",
-              "B. cleaning",
-              "C. clean",
-              "D. cleaned"
+              "A. to try",
+              "B. to trying",
+              "C. trying",
+              "D. try"
             ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "turn off 與 clean 是並列動作，共用 how to；clean 用原形，不能改成 cleaning 或 cleaned。"
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "which one 指兩碗湯中的哪一碗，後接不定詞 to try。"
           },
           {
             "id": "h2-2-u4-q025",
-            "question": "The bus stop has moved. Could you tell me where ___ for the bus?",
+            "question": "There may be another storm tonight. We haven't decided whether ___ the trip.",
             "options": [
-              "A. to wait",
-              "B. waiting",
-              "C. waits",
-              "D. to waiting"
+              "A. to canceling",
+              "B. to cancel",
+              "C. canceling",
+              "D. cancel"
             ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "where to wait 表示該在哪裡等候；where 後接 to + 原形 wait。"
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "whether to cancel the trip 表示「是否要取消行程」，to 後用原形 cancel。"
           },
           {
             "id": "h2-2-u4-q026",
-            "question": "Many creatures live in this forest. Some are active at night. ___ are active during the day.",
+            "question": "Some workers are cleaning the hall. ___ are moving the tables.",
             "options": [
-              "A. Another",
+              "A. Other",
               "B. Others",
-              "C. The other",
-              "D. Other"
+              "C. Another",
+              "D. The other"
             ],
             "answer": "B",
             "answer_index": 1,
-            "hint": "空格後沒有名詞，而且動詞是 are，因此用複數代名詞 Others；Other 不能在此單獨使用，Another/The other 是單數。"
+            "hint": "空格後沒有名詞，are 表示複數，所以用 Others 代替其他一些工作人員。"
           },
           {
             "id": "h2-2-u4-q027",
-            "question": "Some students reduce waste by reusing bags. ___ students bring their own cups.",
+            "question": "Some classes are reading outside. ___ classes are watching a video.",
             "options": [
               "A. Other",
-              "B. Anothers",
-              "C. Others",
+              "B. Others",
+              "C. Anothers",
               "D. Another"
             ],
             "answer": "A",
             "answer_index": 0,
-            "hint": "空格後已有複數名詞 students，用 Other students；Others 後不再接名詞，Another 不接單獨的複數 students。"
+            "hint": "後面已有複數名詞 classes，應用 Other classes。Others 單獨使用。"
           },
           {
             "id": "h2-2-u4-q028",
-            "question": "At the cleanup, some people collect bottles. Others pick up paper. Still ___ wash the bins.",
+            "question": "At the beach, some people swim. Others play ball. Still ___ sit under the trees.",
             "options": [
-              "A. other",
+              "A. the other",
               "B. another",
-              "C. others",
-              "D. the other"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "第三群用 Still others，後面不接名詞。wash 搭配複數主詞；another/the other 是單數，other 不能在此單獨使用。"
-          },
-          {
-            "id": "h2-2-u4-q029",
-            "question": "Some shops ban plastic bags. Other shops charge for them. Still ___ shops give out free bags.",
-            "options": [
-              "A. another",
-              "B. anothers",
               "C. other",
               "D. others"
             ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "空格後有複數名詞 shops，所以用 Still other shops；others 不能放在 shops 前面。"
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "第三群用 Still others。others 可以直接當 sit 的主詞。"
+          },
+          {
+            "id": "h2-2-u4-q029",
+            "question": "Some groups will clean the park. Other groups will clean the street. Still ___ groups will clean the beach.",
+            "options": [
+              "A. another",
+              "B. other",
+              "C. anothers",
+              "D. others"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "空格後有 groups，所以用 Still other groups。若省略 groups，則用 Still others。"
           },
           {
             "id": "h2-2-u4-q030",
-            "question": "Many sea creatures are in danger. ___ need cleaner water to survive.",
+            "question": "Many small creatures live near the river. ___ hide under rocks when it gets hot.",
             "options": [
-              "A. The other",
-              "B. Other",
-              "C. Another",
-              "D. Some"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "Some 單獨代表部分生物，搭配 need；Another/The other 是單數，須搭配 needs，Other 不能在此單獨使用。"
-          },
-          {
-            "id": "h2-2-u4-q031",
-            "question": "Some of these drinks contain sugar. ___ do not.",
-            "options": [
-              "A. Others",
+              "A. Some",
               "B. Other",
               "C. Another",
               "D. The other"
             ],
             "answer": "A",
             "answer_index": 0,
-            "hint": "Others 單獨代表其他一些飲料，搭配 do；Another/The other 是單數，要用 does，Other 在此缺少名詞。"
+            "hint": "Some 可以單獨指部分小生物，搭配複數用的 hide。Another 和 The other 指單數，這裡的 Other 後面要有名詞。"
           },
           {
-            "id": "h2-2-u4-q032",
-            "question": "I have two reusable bottles. One is green, and ___ is blue.",
-            "options": [
-              "A. others",
-              "B. the other",
-              "C. the others",
-              "D. other"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "總共 two bottles，除了 one 只剩另一個，用 the other，搭配 is；others/the others 是複數，other 不能在此單獨使用。"
-          },
-          {
-            "id": "h2-2-u4-q033",
-            "question": "There are exactly three windows. One is open, another is broken, and ___ is closed.",
-            "options": [
-              "A. the others",
-              "B. the other",
-              "C. other",
-              "D. others"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "exactly three 指明三扇窗，說完 one 和 another 後，最後一扇用 the other，搭配 is。"
-          },
-          {
-            "id": "h2-2-u4-q034",
-            "question": "There are ten students in the room. Three are reading, and ___ seven are writing.",
-            "options": [
-              "A. the others",
-              "B. the other",
-              "C. others",
-              "D. anothers"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "十人中的三人之外，剩下七人用 the other seven；the others/others 不能放在 seven 前當限定詞，anothers 不是正確字形。"
-          },
-          {
-            "id": "h2-2-u4-q035",
-            "question": "Some creatures live in water; ___ creatures live on land.",
-            "options": [
-              "A. another",
-              "B. anothers",
-              "C. others",
-              "D. other"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "creatures 是複數名詞，其前用 other；others 不直接修飾名詞，another 通常接單數名詞，anothers 不是正確字形。"
-          },
-          {
-            "id": "h2-2-u4-q036",
-            "question": "Some students know how to use this machine. ___ still need help.",
+            "id": "h2-2-u4-q031",
+            "question": "Some of the buses stop by the school. ___ go straight to the train station.",
             "options": [
               "A. The other",
               "B. Others",
@@ -759,189 +694,254 @@
             ],
             "answer": "B",
             "answer_index": 1,
-            "hint": "空格單獨代替其他一些學生，need 搭配複數主詞，所以用 Others；Another/The other 是單數。"
+            "hint": "空格單獨指其他一些公車，後面用 go，適合用複數代名詞 Others。"
           },
           {
-            "id": "h2-2-u4-q037",
-            "question": "Some of the children are learning how to swim. Others are learning how to float. Still ___ are resting.",
+            "id": "h2-2-u4-q032",
+            "question": "Some parents brought food to the party. ___ parents brought drinks.",
             "options": [
-              "A. other",
-              "B. another",
-              "C. the other",
-              "D. others"
+              "A. Others",
+              "B. Anothers",
+              "C. Another",
+              "D. Other"
             ],
             "answer": "D",
             "answer_index": 3,
-            "hint": "Some / Others / Still others 表示三群孩子；第三群搭配 are，需用複數代名詞 others。"
+            "hint": "parents 是複數名詞，所以要用 Other parents。"
           },
           {
-            "id": "h2-2-u4-q038",
-            "question": "Some students find the smell annoying. ___ students do not mind it.",
+            "id": "h2-2-u4-q033",
+            "question": "Some students reuse their old notebooks. Others share theirs with friends. Still ___ students bring scrap paper from home.",
             "options": [
-              "A. Another",
-              "B. Anothers",
-              "C. Other",
-              "D. Others"
-            ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "空格後有 students，用 Other students；若用 Others，就不能再接 students。Another 不接單獨的複數 students。"
-          },
-          {
-            "id": "h2-2-u4-q039",
-            "question": "After the incident, some people call for help. Others check the road. Still ___ wait by the bus.",
-            "options": [
-              "A. the other",
+              "A. other",
               "B. others",
-              "C. other",
+              "C. anothers",
               "D. another"
             ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "Still others 表示又有另一群人，搭配 wait；another/the other 是單數，須用 waits，other 不能在此單獨使用。"
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "空格後面還有 students，所以用 still other students。"
           },
           {
-            "id": "h2-2-u4-q040",
-            "question": "Some plastic bags break down quickly. ___ take many years.",
+            "id": "h2-2-u4-q034",
+            "question": "Some rooms are open to visitors. ___ are used for classes.",
             "options": [
-              "A. Other",
-              "B. Another",
+              "A. Another",
+              "B. Other",
               "C. The other",
               "D. Others"
             ],
             "answer": "D",
             "answer_index": 3,
-            "hint": "Others 代替其他一些塑膠袋，搭配 take；Another/The other 是單數，須用 takes，Other 在此後面需要名詞。"
+            "hint": "空格後直接接 are，需要複數代名詞 Others。若後面有 rooms，則用 Other rooms。"
           },
           {
-            "id": "h2-2-u4-q041",
-            "question": "Some families cut down on meat. ___ families eat less sugar.",
+            "id": "h2-2-u4-q035",
+            "question": "There are many jobs at the school fair. ___ volunteers sell food, and others welcome visitors.",
             "options": [
-              "A. Other",
-              "B. Another",
-              "C. Anothers",
-              "D. Others"
+              "A. The other one",
+              "B. One",
+              "C. Some",
+              "D. Another"
             ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "families 是複數名詞，前面用 Other；Others 已是代名詞，不能再接 families。"
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "Some 能直接修飾複數名詞 volunteers，引出第一群。"
           },
           {
-            "id": "h2-2-u4-q042",
-            "question": "Some people make an effort to walk more. ___ ride bikes to work.",
+            "id": "h2-2-u4-q036",
+            "question": "Some families take the bus to cut down on driving. ___ families ride their bikes.",
             "options": [
-              "A. The other",
-              "B. Others",
-              "C. Other",
+              "A. Anothers",
+              "B. Other",
+              "C. Others",
               "D. Another"
             ],
             "answer": "B",
             "answer_index": 1,
-            "hint": "Others 單獨代表其他一些人，搭配 ride；Another/The other 是單數，須用 rides，Other 不能在此單獨使用。"
+            "hint": "空格後已有複數名詞 families，要用 Other families。"
+          },
+          {
+            "id": "h2-2-u4-q037",
+            "question": "After the flood, some people gave food. Others brought clean water. Still ___ helped clean the streets.",
+            "options": [
+              "A. other",
+              "B. anothers",
+              "C. others",
+              "D. another"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "前面已介紹兩群人，第三群用 Still others。空格後無名詞。"
+          },
+          {
+            "id": "h2-2-u4-q038",
+            "question": "Some of the lights are on. ___ are off.",
+            "options": [
+              "A. Others",
+              "B. The other",
+              "C. Another",
+              "D. Other"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "Others 表示其他一些燈，能單獨作複數主詞，搭配 are。"
+          },
+          {
+            "id": "h2-2-u4-q039",
+            "question": "Some children draw sea creatures. ___ children make posters about the beach.",
+            "options": [
+              "A. Anothers",
+              "B. Other",
+              "C. Others",
+              "D. Another"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "後面已有複數名詞 children，空格用 Other。"
+          },
+          {
+            "id": "h2-2-u4-q040",
+            "question": "Many guests came early. ___ waited outside, others sat in the hall, and still others went to the garden.",
+            "options": [
+              "A. Some",
+              "B. One of",
+              "C. The other one of",
+              "D. Other"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "Some 單獨代替第一群客人。Other 這裡需要名詞，one of 和 the other one of 後面都需要補出所指的範圍。"
+          },
+          {
+            "id": "h2-2-u4-q041",
+            "question": "At the pool, some children practice breathing. Others practice kicking. Still ___ children learn to float.",
+            "options": [
+              "A. anothers",
+              "B. another",
+              "C. others",
+              "D. other"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "空格後面還有 children，所以用 Still other children。"
+          },
+          {
+            "id": "h2-2-u4-q042",
+            "question": "Some shops close early during the storm. ___ stay open until nine.",
+            "options": [
+              "A. Another",
+              "B. The other",
+              "C. Other",
+              "D. Others"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "空格後是動詞 stay，選可單獨作複數主詞的 Others。"
           },
           {
             "id": "h2-2-u4-q043",
-            "question": "There are three children in the room. One is reading, another is drawing, and ___ is asleep.",
+            "question": "Some people think the new rule is annoying. ___ people think it's helpful.",
+            "options": [
+              "A. Anothers",
+              "B. Others",
+              "C. Another",
+              "D. Other"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "other 可直接修飾複數名詞 people。若省略 people，才改用 Others。"
+          },
+          {
+            "id": "h2-2-u4-q044",
+            "question": "Some of the students collect bottles, and ___ pick up paper.",
+            "options": [
+              "A. others",
+              "B. other",
+              "C. another",
+              "D. the other"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "空格指另一群學生，後面沒接名詞，使用複數代名詞 others。"
+          },
+          {
+            "id": "h2-2-u4-q045",
+            "question": "Some animals stay near the water. Others go into the woods. Still ___ hide under rocks.",
+            "options": [
+              "A. another",
+              "B. other",
+              "C. others",
+              "D. the other"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "Some、Others 和 Still others 依序介紹不同群。這裡用 others 單獨指第三群。"
+          },
+          {
+            "id": "h2-2-u4-q046",
+            "question": "Of the two paths to the river, one is open and ___ is closed.",
+            "options": [
+              "A. the others",
+              "B. others",
+              "C. the other",
+              "D. other"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "限定只有兩條路，說完一條，唯一剩下的一條用 the other。"
+          },
+          {
+            "id": "h2-2-u4-q047",
+            "question": "We have three boxes. One is for paper, another is for glass, and ___ is for cans.",
             "options": [
               "A. other",
-              "B. others",
+              "B. the other",
+              "C. others",
+              "D. the others"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "只有三個箱子，前面已提到兩個，最後一個用 the other。"
+          },
+          {
+            "id": "h2-2-u4-q048",
+            "question": "There are eight bikes here. Two have flat tires, and ___ six are ready to ride.",
+            "options": [
+              "A. others",
+              "B. another",
               "C. the others",
               "D. the other"
             ],
             "answer": "D",
             "answer_index": 3,
-            "hint": "three children 限定三人；one、another 之後，最後一人用 the other，搭配 is。"
-          },
-          {
-            "id": "h2-2-u4-q044",
-            "question": "Many visitors are in the park. ___ are taking photos, others are walking, and still others are sitting.",
-            "options": [
-              "A. Another",
-              "B. The other",
-              "C. One",
-              "D. Some"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "第一群訪客用 Some，搭配 are；One/Another/The other 都是單數，不能與 are 搭配。"
-          },
-          {
-            "id": "h2-2-u4-q045",
-            "question": "At the party, some students are singing. Other students are dancing. Still ___ students are talking.",
-            "options": [
-              "A. anothers",
-              "B. others",
-              "C. another",
-              "D. other"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "空格後有複數名詞 students，用 Still other students；Still others 不能再接 students。"
-          },
-          {
-            "id": "h2-2-u4-q046",
-            "question": "Some seats are by the window. ___ are near the door.",
-            "options": [
-              "A. Other",
-              "B. Others",
-              "C. Another",
-              "D. The other"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "Others 代表其他一些座位，搭配 are；Another/The other 是單數，Other 在此缺少名詞。"
-          },
-          {
-            "id": "h2-2-u4-q047",
-            "question": "These are my two bags. One is for school, and ___ is for sports.",
-            "options": [
-              "A. others",
-              "B. the others",
-              "C. other",
-              "D. the other"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "只有 two bags，提過 one 後，另一個用 the other，搭配 is；others/the others 是複數。"
-          },
-          {
-            "id": "h2-2-u4-q048",
-            "question": "Some machines are currently in use. ___ machines are being cleaned.",
-            "options": [
-              "A. Other",
-              "B. Anothers",
-              "C. Others",
-              "D. Another"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "空格後有複數名詞 machines，用 Other machines；Others 不直接接名詞，Another 通常接單數名詞。"
+            "hint": "範圍已確定，說完兩台之後，剩下的六台用 the other six。這裡 other 修飾後面的數量。"
           },
           {
             "id": "h2-2-u4-q049",
-            "question": "We have several jobs to do after the storm. Some are urgent, but ___ are less urgent.",
+            "question": "Exactly five students signed up. Two have paid. ___ haven't paid yet, so we still need to collect money from all three of them.",
             "options": [
-              "A. other",
-              "B. others",
-              "C. another",
-              "D. the other"
+              "A. Other",
+              "B. The other",
+              "C. The others",
+              "D. Another"
             ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "空格代替其他一些工作，搭配 are，所以用複數代名詞 others；another/the other 是單數，other 不能在此單獨使用。"
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "all three of them 指指定範圍剩下的全部三人，使用複數代名詞 The others。"
           },
           {
             "id": "h2-2-u4-q050",
-            "question": "In this class, some students draw pictures. Others write stories. Still ___ make videos.",
+            "question": "I bought two bags. One is for my dad, and ___ is for my mom.",
             "options": [
-              "A. another",
+              "A. others",
               "B. the other",
-              "C. other",
-              "D. others"
+              "C. the others",
+              "D. other"
             ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "Still others 表示又有另一群學生，搭配 make；another/the other 是單數，須用 makes，other 不能在此單獨使用。"
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "two bags 限定只有兩個，已提到第一個後，唯一剩下的用 the other。"
           }
         ]
       },

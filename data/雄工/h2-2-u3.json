@@ -535,419 +535,419 @@
           },
           {
             "id": "h2-2-u3-q019",
-            "question": "Could you tell me where ___?",
+            "question": "用 Do you know ...? 詢問「餐廳在哪裡？」",
             "options": [
-              "A. is the new display",
-              "B. does the new display",
-              "C. the new display is",
-              "D. the new display be"
+              "A. Do you know where is the restaurant?",
+              "B. Do you know where the restaurant is?",
+              "C. Do you know where does the restaurant be?",
+              "D. Do you know where the restaurant be?"
             ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "Could you tell me 後接間接問句，where 後用「主詞 the new display + be 動詞 is」，不能沿用 where is... 的直接問句語序。"
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "外層 Do you know 已是問句。內層用陳述句語序 the restaurant is。where is the restaurant 是直接問句的語序。"
           },
           {
             "id": "h2-2-u3-q020",
-            "question": "I wonder why ___ still frozen.",
+            "question": "用 Could you tell me ...? 詢問「展示室在哪裡？」",
             "options": [
-              "A. is the meat",
-              "B. the meat is",
-              "C. does the meat",
-              "D. the meat be"
+              "A. Could you tell me where does the display room is?",
+              "B. Could you tell me where is the display room?",
+              "C. Could you tell me where the display room are?",
+              "D. Could you tell me where the display room is?"
             ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "why 引導間接問句，主詞 the meat 放在 is 前面。frozen 在這裡是形容詞，需要 be 動詞，不能用 does 代替 is。"
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "where 後先放主詞 the display room，再放單數的 is。內層不用倒裝，也不用加 does。"
           },
           {
             "id": "h2-2-u3-q021",
-            "question": "Mia wants to know where ___ gather more information for her research.",
+            "question": "用 I wonder ... 表達「我想知道這兩個標誌在哪裡。」",
             "options": [
-              "A. can she",
-              "B. she can",
-              "C. she does can",
-              "D. does she can"
+              "A. I wonder where do the two signs be.",
+              "B. I wonder where are the two signs.",
+              "C. I wonder where the two signs is.",
+              "D. I wonder where the two signs are."
             ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "where 後用主詞 she + 情態助動詞 can。間接問句不寫 can she，can 前面也不需要 does。"
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "where 後用 the two signs are。主詞是複數，所以用 are。外層 I wonder 是陳述句，句尾用句號。"
           },
           {
             "id": "h2-2-u3-q022",
-            "question": "Please tell me what ___ to reach our goal.",
+            "question": "把 Where was the frozen food yesterday? 放進 Do you remember ...?",
             "options": [
-              "A. should we do",
-              "B. we do should",
-              "C. we should do",
-              "D. do we should"
+              "A. Do you remember where was the frozen food yesterday?",
+              "B. Do you remember where did the frozen food be yesterday?",
+              "C. Do you remember where the frozen food was yesterday?",
+              "D. Do you remember where the frozen food is yesterday?"
             ],
             "answer": "C",
             "answer_index": 2,
-            "hint": "what 後的間接問句用「主詞 we + should + 原形動詞 do」。should 不移到主詞前，do 也不能放到 should 前面。"
+            "hint": "保留 yesterday 和過去式 was。where 後的語序是 the frozen food was。"
           },
           {
             "id": "h2-2-u3-q023",
-            "question": "Do you know when ___ tomorrow?",
+            "question": "用 Tell me ... 請對方說明「為什麼這條路這麼窄」。",
             "options": [
-              "A. will the museum open",
-              "B. the museum open will",
-              "C. open will the museum",
-              "D. the museum will open"
+              "A. Tell me why does this path so narrow.",
+              "B. Tell me why this path is so narrow.",
+              "C. Tell me why this path so narrow.",
+              "D. Tell me why is this path so narrow."
             ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "when 後要用直述句語序：the museum + will + open。雖然整句以 Do you know 提問，內部子句仍不能把 will 放到主詞前。"
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "narrow 是形容詞，前面需要 be 動詞。間接問句把 this path 放在 is 前面。"
           },
           {
             "id": "h2-2-u3-q024",
-            "question": "I wonder how ___ this new mix of colors.",
+            "question": "把 What are they displaying now? 放進 Do you know ...?",
             "options": [
-              "A. we can display",
-              "B. can we display",
-              "C. we display can",
-              "D. do we can display"
+              "A. Do you know what do they displaying now?",
+              "B. Do you know what they displaying are now?",
+              "C. Do you know what are they displaying now?",
+              "D. Do you know what they are displaying now?"
             ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "how 引導的間接問句用 we can display。主詞在 can 前，原形動詞 display 在 can 後，不能另外加入疑問助動詞 do。"
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "內層的現在進行式仍是 are displaying，改用 they are displaying 的陳述句語序。"
           },
           {
             "id": "h2-2-u3-q025",
-            "question": "I wonder where this path ___.",
+            "question": "把 Why was Ben laughing? 放進 Please tell me ...。",
             "options": [
-              "A. goes",
-              "B. go",
-              "C. going",
-              "D. to go"
+              "A. Please tell me why did Ben laughing.",
+              "B. Please tell me why Ben was laughing.",
+              "C. Please tell me why Ben laughing was.",
+              "D. Please tell me why was Ben laughing."
             ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "直接問句是 Where does this path go? 改成間接問句後，疑問助動詞 does 拿掉，this path 是第三人稱單數，因此動詞恢復 goes。"
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "內層依序放 Ben、was、laughing。過去進行式需要 was + V-ing。"
           },
           {
             "id": "h2-2-u3-q026",
-            "question": "Can you tell me what this picture ___?",
+            "question": "把 Where can we gather after school? 放進 Do you know ...?",
             "options": [
-              "A. represent",
-              "B. represents",
-              "C. representing",
-              "D. to represent"
+              "A. Do you know where we can gather after school?",
+              "B. Do you know where can we gather after school?",
+              "C. Do you know where we can to gather after school?",
+              "D. Do you know where do we can gather after school?"
             ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "原本問 What does this picture represent? 間接問句不保留一般疑問用的 does，主詞 this picture 是單數，所以用 represents。"
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "can 放在主詞 we 後面，接原形 gather。內層不倒裝，can 前也不用 do。"
           },
           {
             "id": "h2-2-u3-q027",
-            "question": "Do you know why ___ on practicing every day?",
+            "question": "用 Could you show me ...? 詢問「我該怎麼混合這兩種顏色？」",
             "options": [
-              "A. do they insist",
-              "B. them insist",
-              "C. insist they",
-              "D. they insist"
+              "A. Could you show me how I mix should these two colors?",
+              "B. Could you show me how should I mix these two colors?",
+              "C. Could you show me how I should mix these two colors?",
+              "D. Could you show me how I should mixing these two colors?"
             ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "why 後面使用主詞 they + 動詞 insist。直接問句的 do 不保留；them 是受格，不能在這裡當主詞。"
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "how 後放 I should mix。should 在主詞後，後面直接接原形 mix。"
           },
           {
             "id": "h2-2-u3-q028",
-            "question": "I wonder why the restaurant ___ out of business last month.",
+            "question": "把 When will the show start? 放進 Do you know ...?",
             "options": [
-              "A. go",
-              "B. going",
-              "C. went",
-              "D. to go"
+              "A. Do you know when will the show start?",
+              "B. Do you know when the show will start?",
+              "C. Do you know when the show start will?",
+              "D. Do you know when the show will starts?"
             ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "last month 指過去時間。直接問句 Why did the restaurant go...? 改成間接問句後，拿掉 did，go 恢復過去式 went。"
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "when 後用 the show will start。will 保留在主詞後，後面接原形 start。"
           },
           {
             "id": "h2-2-u3-q029",
-            "question": "Do you remember where ___ last night?",
+            "question": "把 What does this mark represent? 放進 Could you tell me ...?",
             "options": [
-              "A. did the group gather",
-              "B. the group gathered",
-              "C. the group gather",
-              "D. gathered the group"
+              "A. Could you tell me what does this mark represents?",
+              "B. Could you tell me what this mark represent?",
+              "C. Could you tell me what this mark represents?",
+              "D. Could you tell me what does this mark represent?"
             ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "where 後用主詞 the group + 過去式 gathered；last night 要求過去時間。不能保留 did the group gather 的問句倒裝。"
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "拿掉疑問用的 does，並讓 represent 配合單數主詞 this mark，改為 represents。"
           },
           {
             "id": "h2-2-u3-q030",
-            "question": "Please tell me what ___ from the failure yesterday.",
+            "question": "用 Do you know ...? 詢問「這條路通往哪裡？」",
             "options": [
-              "A. you learned",
-              "B. did you learn",
-              "C. you learn",
-              "D. learned you"
+              "A. Do you know where this path leads?",
+              "B. Do you know where does this path leads?",
+              "C. Do you know where this path lead?",
+              "D. Do you know where does this path lead?"
             ],
             "answer": "A",
             "answer_index": 0,
-            "hint": "yesterday 表示過去，間接問句要用 you learned。did you learn 是直接問句語序；去掉 did 後不能仍用一般現在式 learn。"
+            "hint": "直接問句用 does this path lead。放進間接問句時，去掉疑問用的 does，單數主詞 this path 後用 leads。"
           },
           {
             "id": "h2-2-u3-q031",
-            "question": "Does Ben know what ___ for the organization right now?",
+            "question": "把 Why do they meet here every week? 放進 I wonder ...。",
             "options": [
-              "A. are we doing",
-              "B. we are doing",
-              "C. we doing are",
-              "D. do we are"
+              "A. I wonder why meet they here every week.",
+              "B. I wonder why they meets here every week.",
+              "C. I wonder why do they meet here every week.",
+              "D. I wonder why they meet here every week."
             ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "right now 配合現在進行式。what 後用 we are doing，主詞 we 放在 are 前；外面的 Does Ben know 不會讓內部子句倒裝。"
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "去掉直接問句裡的 do，使用 they meet。主詞 they 是複數，meet 不加 s。"
           },
           {
             "id": "h2-2-u3-q032",
-            "question": "Amy wants to know what ___ at seven last night.",
+            "question": "把 Which flavor do the kids like? 放進 Do you know ...?",
             "options": [
-              "A. was her dad cooking",
-              "B. her dad cooking was",
-              "C. was cooking her dad",
-              "D. her dad was cooking"
+              "A. Do you know which flavor the kids like?",
+              "B. Do you know which flavor do the kids like?",
+              "C. Do you know which the kids flavor like?",
+              "D. Do you know which flavor the kids likes?"
             ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "what 引導間接問句，過去進行式的順序是 her dad + was + cooking。不能把 was 放到主詞 her dad 前面。"
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "保留整組 which flavor，後面用 the kids like。直接問句裡的 do 在內層省掉。"
           },
           {
             "id": "h2-2-u3-q033",
-            "question": "I wonder why Leo ___ willing to help. He says he is too busy.",
+            "question": "把 Where did you buy the frozen yogurt? 放進 Can you tell me ...?",
             "options": [
-              "A. doesn't",
-              "B. not",
-              "C. isn't",
-              "D. don't"
+              "A. Can you tell me where you bought the frozen yogurt?",
+              "B. Can you tell me where did you bought the frozen yogurt?",
+              "C. Can you tell me where you buy the frozen yogurt?",
+              "D. Can you tell me where did you buy the frozen yogurt?"
             ],
-            "answer": "C",
-            "answer_index": 2,
-            "hint": "willing 是形容詞，要配合 be 動詞。Leo 表示他太忙而不願幫忙，子句用 Leo isn’t willing；doesn’t 不能直接接 willing。"
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "內層去掉疑問用的 did，將過去時間放回主要動詞，所以用 you bought。"
           },
           {
             "id": "h2-2-u3-q034",
-            "question": "Tell me why Anna ___ her goal last week.",
+            "question": "用 Please tell me ... 詢問「你們上週想出了什麼點子？」",
             "options": [
-              "A. didn't reached",
-              "B. not reached",
-              "C. didn't reach",
-              "D. didn't reaching"
+              "A. Please tell me what idea did you come up with last week.",
+              "B. Please tell me what idea you come up with last week.",
+              "C. Please tell me what idea you came up with last week.",
+              "D. Please tell me what you did come up idea with last week."
             ],
             "answer": "C",
             "answer_index": 2,
-            "hint": "last week 表示過去；didn’t 有否定意思，改為間接問句時要保留。didn’t 後接原形 reach，不能再用 reached 或 reaching。"
+            "hint": "what idea 要一起放在子句開頭，後面是 you came up with。last week 提示用過去式 came。"
           },
           {
             "id": "h2-2-u3-q035",
-            "question": "Do you know why ___ ready to display his work yesterday?",
+            "question": "把 Why did the store close early yesterday? 放進 Do you know ...?",
             "options": [
-              "A. he wasn't",
-              "B. wasn't he",
-              "C. he didn't",
-              "D. didn't he"
+              "A. Do you know why did the store close early yesterday?",
+              "B. Do you know why the store closes early yesterday?",
+              "C. Do you know why did the store closed early yesterday?",
+              "D. Do you know why the store closed early yesterday?"
             ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "ready 是形容詞，過去的否定式用 wasn’t。why 後是間接問句，所以主詞 he 放在 wasn’t 前，不能用 wasn’t he 倒裝。"
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "why 後用 the store closed。去掉疑問用的 did，保留 yesterday 對應的過去式 closed。"
           },
           {
             "id": "h2-2-u3-q036",
-            "question": "Do you know who ___ the amusing video yesterday?",
+            "question": "把 How many people did they invite? 放進 Do you remember ...?",
             "options": [
-              "A. made",
-              "B. did made",
-              "C. was make",
-              "D. making"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "who 本身就是製作影片的人，直接作主詞，後接動詞。yesterday 是過去時間，所以用 made；不再補一般疑問助動詞，也不能寫 did made。"
-          },
-          {
-            "id": "h2-2-u3-q037",
-            "question": "Someone has the only key to the display room. Please tell me who ___ it.",
-            "options": [
-              "A. has",
-              "B. does has",
-              "C. have",
-              "D. having"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "who 代表拿著鑰匙的那個人，本身是主詞；前句 Someone has 提示單數，所以用 has。does has 不正確，having 也不能單獨作此處的限定動詞。"
-          },
-          {
-            "id": "h2-2-u3-q038",
-            "question": "The woman by the display looks familiar. Do you know who ___?",
-            "options": [
-              "A. is the woman",
-              "B. the woman is",
-              "C. the woman be",
-              "D. be the woman"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "這裡詢問那位女士的身分，子句已經有主詞 the woman，who 後接 the woman is。不能沿用 Who is the woman? 的直接問句語序。"
-          },
-          {
-            "id": "h2-2-u3-q039",
-            "question": "I wonder who ___ at the enjoyable picnic yesterday.",
-            "options": [
-              "A. was Tom with",
-              "B. Tom with was",
-              "C. with was Tom",
-              "D. Tom was with"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "who 是介系詞 with 的受詞，表示 Tom 和誰在一起。子句主詞是 Tom，順序為 Tom was with，不能把 was 提到 Tom 前。"
-          },
-          {
-            "id": "h2-2-u3-q040",
-            "question": "Do you know whose pencil ___ to finish the drawing yesterday?",
-            "options": [
-              "A. did Lisa use",
-              "B. Lisa use",
-              "C. used Lisa",
-              "D. Lisa used"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "whose pencil 是完整疑問片語，Lisa 才是使用鉛筆的人。後接 Lisa used；yesterday 表示過去，不能用 Lisa use，也不能保留 did Lisa use 的倒裝。"
-          },
-          {
-            "id": "h2-2-u3-q041",
-            "question": "Tell me which flavor ___ for your frozen yogurt.",
-            "options": [
-              "A. do you want",
-              "B. you want",
-              "C. want you",
-              "D. does you want"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "which flavor 要整組保留，後面接主詞 you + 動詞 want。直接問句中的 do 拿掉，不能寫 do you want。"
-          },
-          {
-            "id": "h2-2-u3-q042",
-            "question": "Some organizations help children after school. Do you know which organizations ___ them?",
-            "options": [
-              "A. helps",
-              "B. does help",
-              "C. is help",
-              "D. help"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "which organizations 本身就是幫助孩子的主詞，organizations 是複數，現在式用 help。這裡不用再加另一個主詞，也不能用單數 helps／does。"
-          },
-          {
-            "id": "h2-2-u3-q043",
-            "question": "Do you remember how many books ___ for the research yesterday?",
-            "options": [
-              "A. did we borrow",
-              "B. we borrowed",
-              "C. we borrow",
-              "D. borrowed we"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "how many books 是完整疑問片語，後面用 we borrowed。yesterday 表示過去；不保留 did we borrow 的直接問句語序。"
-          },
-          {
-            "id": "h2-2-u3-q044",
-            "question": "Please tell me how long the enjoyable picnic ___ yesterday.",
-            "options": [
-              "A. lasts",
-              "B. last",
-              "C. to last",
-              "D. lasted"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "直接問句是 How long did the picnic last? 改成間接問句後，拿掉 did，且 yesterday 指過去，主要動詞恢復 lasted。"
-          },
-          {
-            "id": "h2-2-u3-q045",
-            "question": "The teacher is curious about why ___ so early yesterday.",
-            "options": [
-              "A. the shop closed",
-              "B. did the shop close",
-              "C. the shop close",
-              "D. closed the shop"
-            ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "about 後的 why 子句也用直述語序。the shop 是主詞，yesterday 表示過去，所以後接 closed；不能使用 did the shop close 的倒裝。"
-          },
-          {
-            "id": "h2-2-u3-q046",
-            "question": "Can you tell me why the twins ___ this flavor? They both say it tastes bad.",
-            "options": [
-              "A. doesn't like",
-              "B. don't like",
-              "C. don't likes",
-              "D. not like"
-            ],
-            "answer": "B",
-            "answer_index": 1,
-            "hint": "the twins 是複數，且後句說兩人都覺得味道不好，所以用否定的 don’t like。否定助動詞保留在主詞後，like 用原形，不加 s。"
-          },
-          {
-            "id": "h2-2-u3-q047",
-            "question": "She wonders how ___ money every month.",
-            "options": [
-              "A. does the organization raise",
-              "B. the organization raise",
-              "C. raise the organization",
-              "D. the organization raises"
-            ],
-            "answer": "D",
-            "answer_index": 3,
-            "hint": "原本是 How does the organization raise money? 間接問句拿掉一般疑問用的 does，單數主詞 the organization 後的動詞改為 raises。"
-          },
-          {
-            "id": "h2-2-u3-q048",
-            "question": "We wanted to know when ___ the new display.",
-            "options": [
-              "A. would we see",
-              "B. we see would",
-              "C. we would see",
-              "D. would see we"
+              "A. Do you remember how many people they invite?",
+              "B. Do you remember how many did they invite people?",
+              "C. Do you remember how many people they invited?",
+              "D. Do you remember how many people did they invite?"
             ],
             "answer": "C",
             "answer_index": 2,
-            "hint": "when 引導間接問句，順序是主詞 we + 情態助動詞 would + 原形動詞 see。不能沿用 would we see 的問句倒裝。"
+            "hint": "how many people 是完整的疑問片語。後面放 they invited，去掉疑問用的 did，並保留過去式。"
+          },
+          {
+            "id": "h2-2-u3-q037",
+            "question": "用 Tell me ... 詢問「Mia 昨天用了誰的筆記本？」",
+            "options": [
+              "A. Tell me whose notebook Mia use yesterday.",
+              "B. Tell me whose notebook Mia used yesterday.",
+              "C. Tell me whose Mia used notebook yesterday.",
+              "D. Tell me whose notebook did Mia use yesterday."
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "whose notebook 要一起移到子句開頭。後面用 Mia used，動詞配合 yesterday。"
+          },
+          {
+            "id": "h2-2-u3-q038",
+            "question": "把 Why didn't Leo join the group? 放進 Do you know ...?",
+            "options": [
+              "A. Do you know why Leo not join the group?",
+              "B. Do you know why didn't Leo join the group?",
+              "C. Do you know why Leo didn't joined the group?",
+              "D. Do you know why Leo didn't join the group?"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "didn't 表示否定，要保留並放在 Leo 後面。didn't 已標示過去式，後面用原形 join。"
+          },
+          {
+            "id": "h2-2-u3-q039",
+            "question": "把 Why doesn't Amy eat meat? 放進 Can you tell me ...?",
+            "options": [
+              "A. Can you tell me why Amy doesn't eats meat?",
+              "B. Can you tell me why Amy doesn't eat meat?",
+              "C. Can you tell me why doesn't Amy eat meat?",
+              "D. Can you tell me why Amy not eats meat?"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "doesn't 保留在主詞 Amy 後面，後接原形 eat。內層不沿用 doesn't Amy 的倒裝。"
+          },
+          {
+            "id": "h2-2-u3-q040",
+            "question": "把 Why aren't the kids ready? 放進 I wonder ...。",
+            "options": [
+              "A. I wonder why the kids aren't ready.",
+              "B. I wonder why aren't the kids ready.",
+              "C. I wonder why the kids don't ready.",
+              "D. I wonder why the kids isn't ready."
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "ready 是形容詞，使用 be 動詞的否定式。複數主詞 the kids 在 aren't 前面。"
+          },
+          {
+            "id": "h2-2-u3-q041",
+            "question": "把 Why wasn't the museum open yesterday? 放進 Could you tell me ...?",
+            "options": [
+              "A. Could you tell me why the museum wasn't open yesterday?",
+              "B. Could you tell me why wasn't the museum open yesterday?",
+              "C. Could you tell me why the museum weren't open yesterday?",
+              "D. Could you tell me why the museum isn't open yesterday?"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "保留過去式否定 wasn't。間接問句的主詞 the museum 放在 wasn't 前面。"
+          },
+          {
+            "id": "h2-2-u3-q042",
+            "question": "用 Do you know ...? 詢問「昨天是誰做了這支影片？」",
+            "options": [
+              "A. Do you know who made this video yesterday?",
+              "B. Do you know who this video made yesterday?",
+              "C. Do you know who did made this video yesterday?",
+              "D. Do you know who was make this video yesterday?"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "who 本身就是做影片的人，後面接 made。made 已經是過去式。若使用 did，後面只能接原形。"
+          },
+          {
+            "id": "h2-2-u3-q043",
+            "question": "用 Please tell me ... 詢問「誰有展示室的鑰匙？」",
+            "options": [
+              "A. Please tell me who the key to the display room has.",
+              "B. Please tell me who does has the key to the display room.",
+              "C. Please tell me who has the key to the display room.",
+              "D. Please tell me who is have the key to the display room."
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "who 本身就是持有鑰匙的人，後面接 has。the key 是 has 的受詞。"
+          },
+          {
+            "id": "h2-2-u3-q044",
+            "question": "把 Who did you meet at the museum yesterday? 放進 Tell me ...。",
+            "options": [
+              "A. Tell me who you met at the museum yesterday.",
+              "B. Tell me who met you at the museum yesterday.",
+              "C. Tell me who did you meet at the museum yesterday.",
+              "D. Tell me who you meet at the museum yesterday."
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "原問句中，you 是做出 meet 這個動作的人，who 是你遇到的對象。內層保留 you 作主詞，用 you met。who met you 把動作的主詞換成了 who。"
+          },
+          {
+            "id": "h2-2-u3-q045",
+            "question": "用 Do you know ...? 詢問「門口那位男士是誰？」",
+            "options": [
+              "A. Do you know who is the man at the door?",
+              "B. Do you know who does the man at the door is?",
+              "C. Do you know who the man at the door be?",
+              "D. Do you know who the man at the door is?"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "這句詢問男士的身分，the man at the door 是內層主詞，is 放在整組主詞後面。"
+          },
+          {
+            "id": "h2-2-u3-q046",
+            "question": "把 Who was Tom with at lunch? 放進 I wonder ...。",
+            "options": [
+              "A. I wonder who Tom was with at lunch.",
+              "B. I wonder who did Tom was with at lunch.",
+              "C. I wonder who was Tom with at lunch.",
+              "D. I wonder who Tom with was at lunch."
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "who 是 with 的受詞，Tom 才是內層的主詞，所以用 who Tom was with。"
+          },
+          {
+            "id": "h2-2-u3-q047",
+            "question": "用 Do you remember ...? 詢問「昨天我們拍了幾張照片？」",
+            "options": [
+              "A. Do you remember how many photos did we take yesterday?",
+              "B. Do you remember how many photos we took yesterday?",
+              "C. Do you remember how many we took photos yesterday?",
+              "D. Do you remember how many photos we take yesterday?"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "how many photos 整組放在前面，後面依序是 we 和過去式 took。"
+          },
+          {
+            "id": "h2-2-u3-q048",
+            "question": "把 How long did the event last? 放進 I'm curious about ...。",
+            "options": [
+              "A. I'm curious about how long the event last.",
+              "B. I'm curious about how long did the event last.",
+              "C. I'm curious about how long lasted the event.",
+              "D. I'm curious about how long the event lasted."
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "about 後的間接問句仍用主詞在前的語序。去掉疑問用的 did 後，last 改為過去式 lasted。"
           },
           {
             "id": "h2-2-u3-q049",
-            "question": "I wonder why our grandparents ___ new technology so quickly.",
+            "question": "用 Do you know ...? 詢問「哪條路通往河邊？」",
             "options": [
-              "A. embrace",
-              "B. embraces",
-              "C. embracing",
-              "D. to embrace"
+              "A. Do you know which path does leads to the river?",
+              "B. Do you know which path lead to the river?",
+              "C. Do you know which path leads to the river?",
+              "D. Do you know which leads path to the river?"
             ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "直接問句 Why do our grandparents embrace...? 改成間接問句後不保留一般疑問用的 do。our grandparents 是複數，所以動詞用 embrace，不加 s。"
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "which path 整組是主詞。path 是單數，後面接第三人稱單數動詞 leads。"
           },
           {
             "id": "h2-2-u3-q050",
-            "question": "Please tell me how ___ blue and yellow to make green.",
+            "question": "把 What were the students making when you walked in? 放進 Could you tell me ...?",
             "options": [
-              "A. I should mix",
-              "B. should I mix",
-              "C. I mix should",
-              "D. do I should mix"
+              "A. Could you tell me what the students making were when you walked in?",
+              "B. Could you tell me what the students were making when you walked in?",
+              "C. Could you tell me what were the students making when you walked in?",
+              "D. Could you tell me what the students was making when you walked in?"
             ],
-            "answer": "A",
-            "answer_index": 0,
-            "hint": "how 後要用主詞 I + should + 原形動詞 mix。間接問句不把 should 放到 I 前，也不另外加 do。"
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "what 後先放複數主詞 the students，再用過去進行式 were making。"
           }
         ]
       },
