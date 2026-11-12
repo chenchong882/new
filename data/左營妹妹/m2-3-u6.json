@@ -97,6 +97,7 @@
           "chinese": "未來",
           "sentence": "We will use more technology in the future.",
           "sentence_chinese": "我們未來會使用更多科技。",
+          "option_group": "meaning-m2-3-u6-v012",
           "id": "m2-3-u6-v012"
         },
         {
@@ -129,6 +130,7 @@
           "chinese": "成真",
           "sentence": "Your dream will come true one day.",
           "sentence_chinese": "你的夢想有一天會實現。",
+          "option_group": "meaning-m2-3-u6-v016",
           "id": "m2-3-u6-v016"
         },
         {
@@ -445,6 +447,7 @@
           "chinese": "未來",
           "sentence": "My dream is to become a great dancer in the future.",
           "sentence_chinese": "我的夢想是未來成為一名很棒的舞者。",
+          "option_group": "meaning-m2-3-u6-v012",
           "id": "m2-3-u6-p006"
         },
         {
@@ -459,6 +462,7 @@
           "chinese": "實現；成真",
           "sentence": "If you work hard, your dream will come true.",
           "sentence_chinese": "如果你努力，你的夢想就會成真。",
+          "option_group": "meaning-m2-3-u6-v016",
           "id": "m2-3-u6-p008"
         },
         {

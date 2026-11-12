@@ -29,6 +29,7 @@
           "sentence": "Thanks to his business adviser, Dan's company was extremely profitable.",
           "sentence_chinese": "多虧企業顧問的幫助，Dan 的公司獲利豐厚。",
           "sentence_source": "課本",
+          "option_group": "meaning-h1-2-u4-v003",
           "id": "h1-2-u4-v003",
           "display_word": "adviser/advisor",
           "accepted_forms": [
@@ -222,6 +223,7 @@
           "sentence": "Every citizen has the right to vote in this election.",
           "sentence_chinese": "每位公民都有權在這次選舉中投票。",
           "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "option_group": "meaning-h1-2-u4-v023",
           "id": "h1-2-u4-v023"
         },
         {
@@ -231,6 +233,7 @@
           "sentence": "The soldier helped a civilian cross the busy street.",
           "sentence_chinese": "那位士兵幫助一位平民穿越繁忙的街道。",
           "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "option_group": "meaning-h1-2-u4-v023",
           "id": "h1-2-u4-v024"
         },
         {
@@ -323,6 +326,7 @@
           "sentence": "The company called in a consultant to give them some advice on marketing.",
           "sentence_chinese": "公司請來一位顧問，提供行銷方面的建議。",
           "sentence_source": "課本",
+          "option_group": "meaning-h1-2-u4-v003",
           "id": "h1-2-u4-v034"
         },
         {

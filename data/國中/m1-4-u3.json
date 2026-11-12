@@ -4,6 +4,7 @@
             "title": "U3",
             "vocab": [
                 {
+                    "option_group": "meaning-m1-4-u3-v001",
                     "id": "m1-4-u3-v001",
                     "word": "painting",
                     "part_of_speech": "名",
@@ -228,6 +229,7 @@
                     "sentence_chinese": "那家店有非常棒的三明治。"
                 },
                 {
+                    "option_group": "meaning-m1-4-u3-v001",
                     "id": "m1-4-u3-v029",
                     "word": "work",
                     "part_of_speech": "名",

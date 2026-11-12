@@ -60,6 +60,7 @@
           "sentence_chinese": "書桌在那兩張床中間。"
         },
         {
+          "option_group": "meaning-m1-2-u3-v008",
           "id": "m1-2-u3-v008",
           "word": "next to",
           "part_of_speech": "介",
@@ -68,6 +69,7 @@
           "sentence_chinese": "我的臥室在浴室旁邊。"
         },
         {
+          "option_group": "meaning-m1-2-u3-v008",
           "id": "m1-2-u3-v009",
           "word": "near",
           "part_of_speech": "介",
@@ -100,6 +102,7 @@
           "sentence_chinese": "請在臥室裡保持安靜。"
         },
         {
+          "option_group": "meaning-m1-2-u3-v013",
           "id": "m1-2-u3-v013",
           "word": "style",
           "part_of_speech": "名",
@@ -188,6 +191,7 @@
           "sentence_chinese": "我們一起選一張照片放在牆上吧。"
         },
         {
+          "option_group": "meaning-m1-2-u3-v013",
           "id": "m1-2-u3-v024",
           "word": "type",
           "part_of_speech": "名",
@@ -236,6 +240,7 @@
           "sentence_chinese": "請把題目讀給我聽。"
         },
         {
+          "option_group": "meaning-m1-2-u3-v030",
           "id": "m1-2-u3-v030",
           "word": "I see.",
           "part_of_speech": "片",
@@ -260,6 +265,7 @@
           "sentence_chinese": "不要坐在那張硬椅子上。"
         },
         {
+          "option_group": "meaning-m1-2-u3-v033",
           "id": "m1-2-u3-v033",
           "word": "in fact",
           "part_of_speech": "片",
@@ -292,6 +298,7 @@
           "sentence_chinese": "媽媽和爸爸在廚房裡。"
         },
         {
+          "option_group": "meaning-m1-2-u3-v008",
           "id": "m1-2-u3-v037",
           "word": "beside",
           "part_of_speech": "介",
@@ -333,6 +340,7 @@
           "sentence_chinese": "請進來坐下。"
         },
         {
+          "option_group": "meaning-m1-2-u3-v030",
           "id": "m1-2-u3-p002",
           "phrase": "I see.",
           "chinese": "我了解了。",
@@ -368,6 +376,7 @@
           "sentence_chinese": "今晚和 Vicky 共進晚餐對我來說沒問題。"
         },
         {
+          "option_group": "meaning-m1-2-u3-v033",
           "id": "m1-2-u3-p007",
           "phrase": "in fact",
           "chinese": "事實上",

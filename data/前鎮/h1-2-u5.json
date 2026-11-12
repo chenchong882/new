@@ -147,6 +147,7 @@
           "sentence": "Our instructor showed us how to drive safely.",
           "sentence_chinese": "我們的教練教導我們如何安全駕駛。",
           "sentence_source": "AI 補寫（課本例句遭裁切）",
+          "option_group": "meaning-h1-2-u5-v016",
           "id": "h1-2-u5-v016"
         },
         {
@@ -192,6 +193,7 @@
           "sentence": "Henry is a lecturer on Taiwanese history at the university.",
           "sentence_chinese": "Henry 是那所大學教授臺灣歷史的講師。",
           "sentence_source": "課本",
+          "option_group": "meaning-h1-2-u5-v016",
           "id": "h1-2-u5-v021"
         },
         {

@@ -28,6 +28,7 @@
           "sentence_chinese": "這些照片花了我 50 元。"
         },
         {
+          "option_group": "meaning-m2-3-u5-v004",
           "id": "m2-3-u5-v004",
           "word": "of course",
           "part_of_speech": "片",
@@ -44,6 +45,7 @@
           "sentence_chinese": "你買這本書花了多少錢？"
         },
         {
+          "option_group": "meaning-m2-3-u5-v006",
           "id": "m2-3-u5-v006",
           "word": "cost",
           "part_of_speech": "動",
@@ -76,6 +78,7 @@
           "sentence_chinese": "我花了 10 分鐘寄包裹。"
         },
         {
+          "option_group": "meaning-m2-3-u5-v006",
           "id": "m2-3-u5-v010",
           "word": "pay",
           "part_of_speech": "動",
@@ -92,6 +95,7 @@
           "sentence_chinese": "媽媽今天早上繳了電話費。"
         },
         {
+          "option_group": "meaning-m2-3-u5-v006",
           "id": "m2-3-u5-v012",
           "word": "price",
           "part_of_speech": "名",
@@ -108,6 +112,7 @@
           "sentence_chinese": "這個袋子的價格很低。"
         },
         {
+          "option_group": "meaning-m2-3-u5-v006",
           "id": "m2-3-u5-v014",
           "word": "spend",
           "part_of_speech": "動",
@@ -132,6 +137,7 @@
           "sentence_chinese": "這個袋子很便宜，但很實用。"
         },
         {
+          "option_group": "meaning-m2-3-u5-v017",
           "id": "m2-3-u5-v017",
           "word": "worry",
           "part_of_speech": "動",
@@ -164,6 +170,7 @@
           "sentence_chinese": "我們昨天沒有到很遠的地方旅行。"
         },
         {
+          "option_group": "meaning-m2-3-u5-v006",
           "id": "m2-3-u5-v021",
           "word": "take",
           "part_of_speech": "動",
@@ -228,6 +235,7 @@
           "sentence_chinese": "那位外國人向我求助。"
         },
         {
+          "option_group": "meaning-m2-3-u5-v029",
           "id": "m2-3-u5-v029",
           "word": "think of",
           "part_of_speech": "片",
@@ -252,6 +260,7 @@
           "sentence_chinese": "我們在旅途中欣賞了美麗的風景。"
         },
         {
+          "option_group": "meaning-m2-3-u5-v032",
           "id": "m2-3-u5-v032",
           "word": "draw",
           "part_of_speech": "動",
@@ -332,6 +341,7 @@
           "sentence_chinese": "我們幾乎沒有時間參觀寺廟。"
         },
         {
+          "option_group": "meaning-m2-3-u5-v042",
           "id": "m2-3-u5-v042",
           "word": "besides",
           "part_of_speech": "副",
@@ -356,6 +366,7 @@
           "sentence_chinese": "有人付了我們的午餐錢。"
         },
         {
+          "option_group": "meaning-m2-3-u5-v045",
           "id": "m2-3-u5-v045",
           "word": "lend a hand",
           "part_of_speech": "片",
@@ -372,6 +383,7 @@
           "sentence_chinese": "那位有錢人花了很多錢買車。"
         },
         {
+          "option_group": "meaning-m2-3-u5-v047",
           "id": "m2-3-u5-v047",
           "word": "be proud of",
           "part_of_speech": "片",
@@ -382,6 +394,7 @@
       ],
       "phrases": [
         {
+          "option_group": "meaning-m2-3-u5-v004",
           "id": "m2-3-u5-p001",
           "phrase": "of course",
           "chinese": "當然",
@@ -445,6 +458,7 @@
           "sentence_chinese": "好主意！"
         },
         {
+          "option_group": "meaning-m2-3-u5-v029",
           "id": "m2-3-u5-p010",
           "phrase": "think of...",
           "chinese": "想到……",
@@ -452,6 +466,7 @@
           "sentence_chinese": "Jenny 想到了一個好主意，並討論了很久。"
         },
         {
+          "option_group": "meaning-m2-3-u5-v032",
           "id": "m2-3-u5-p011",
           "phrase": "draw...to...",
           "chinese": "吸引……到……",
@@ -480,6 +495,7 @@
           "sentence_chinese": "我們可以搭地鐵去機場。"
         },
         {
+          "option_group": "meaning-m2-3-u5-v042",
           "id": "m2-3-u5-p015",
           "phrase": "what's more",
           "chinese": "此外；而且",
@@ -487,6 +503,7 @@
           "sentence_chinese": "此外，住在鄉下很安全。"
         },
         {
+          "option_group": "meaning-m2-3-u5-v017",
           "id": "m2-3-u5-p016",
           "phrase": "worry about...",
           "chinese": "擔心……",
@@ -494,6 +511,7 @@
           "sentence_chinese": "別擔心迷路，因為我們有地圖。"
         },
         {
+          "option_group": "meaning-m2-3-u5-v047",
           "id": "m2-3-u5-p017",
           "phrase": "be proud of",
           "chinese": "以……為榮",
@@ -501,6 +519,7 @@
           "sentence_chinese": "我們以兒子為榮。"
         },
         {
+          "option_group": "meaning-m2-3-u5-v045",
           "id": "m2-3-u5-p018",
           "phrase": "lend a hand",
           "chinese": "幫忙",

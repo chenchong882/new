@@ -76,6 +76,7 @@
                     "sentence_chinese": "這座古堡已成為家庭旅遊的熱門目的地。"
                 },
                 {
+                    "option_group": "meaning-h1-6-u6-v010",
                     "id": "h1-6-u6-v010",
                     "word": "specialized",
                     "part_of_speech": "形",
@@ -180,6 +181,7 @@
                     "sentence_chinese": "參觀者可以看見這座城市過去的實體證據。"
                 },
                 {
+                    "option_group": "meaning-h1-6-u6-v010",
                     "id": "h1-6-u6-v023",
                     "word": "professional",
                     "part_of_speech": "形／名",

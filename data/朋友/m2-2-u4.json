@@ -132,6 +132,7 @@
           "sentence_chinese": "我希望未來能教英文。"
         },
         {
+          "option_group": "meaning-m2-2-u4-v017",
           "id": "m2-2-u4-v017",
           "word": "interesting",
           "part_of_speech": "形",
@@ -180,6 +181,7 @@
           "sentence_chinese": "媽媽告訴我不要熬夜。"
         },
         {
+          "option_group": "meaning-m2-2-u4-v017",
           "id": "m2-2-u4-v023",
           "word": "funny",
           "part_of_speech": "形",
@@ -244,6 +246,7 @@
           "sentence_chinese": "老師告訴我們不要打架。"
         },
         {
+          "option_group": "meaning-m2-2-u4-v031",
           "id": "m2-2-u4-v031",
           "word": "one another",
           "part_of_speech": "代",
@@ -284,6 +287,7 @@
           "sentence_chinese": "令人遺憾地，這位歌手決定不再唱歌。"
         },
         {
+          "option_group": "meaning-m2-2-u4-v036",
           "id": "m2-2-u4-v036",
           "word": "team up with",
           "part_of_speech": "片",
@@ -292,6 +296,7 @@
           "sentence_chinese": "我想跟朋友們組隊。"
         },
         {
+          "option_group": "meaning-m2-2-u4-v037",
           "id": "m2-2-u4-v037",
           "word": "have to",
           "part_of_speech": "片",
@@ -300,6 +305,7 @@
           "sentence_chinese": "我們必須打掃完教室。"
         },
         {
+          "option_group": "meaning-m2-2-u4-v038",
           "id": "m2-2-u4-v038",
           "word": "stay up",
           "part_of_speech": "片",
@@ -331,6 +337,7 @@
           "sentence_chinese": "Jason 日以繼夜地工作來完成這個專案計畫。"
         },
         {
+          "option_group": "meaning-m2-2-u4-v031",
           "id": "m2-2-u4-p004",
           "phrase": "one another",
           "chinese": "彼此",
@@ -338,6 +345,7 @@
           "sentence_chinese": "他們幫助彼此做作業。"
         },
         {
+          "option_group": "meaning-m2-2-u4-v036",
           "id": "m2-2-u4-p005",
           "phrase": "team up with",
           "chinese": "跟……組隊",
@@ -359,6 +367,7 @@
           "sentence_chinese": "熬夜可能導致健康問題。"
         },
         {
+          "option_group": "meaning-m2-2-u4-v037",
           "id": "m2-2-u4-p008",
           "phrase": "have to",
           "chinese": "必須",
@@ -366,6 +375,7 @@
           "sentence_chinese": "我們今天必須完成影片製作。"
         },
         {
+          "option_group": "meaning-m2-2-u4-v038",
           "id": "m2-2-u4-p009",
           "phrase": "stay up",
           "chinese": "熬夜",

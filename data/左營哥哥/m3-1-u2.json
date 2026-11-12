@@ -44,6 +44,7 @@
           "sentence_chinese": "這個網頁很容易閱讀。"
         },
         {
+          "option_group": "meaning-m3-1-u2-v006",
           "id": "m3-1-u2-v006",
           "word": "interested",
           "part_of_speech": "形",
@@ -116,6 +117,7 @@
           "sentence_chinese": "我們對這場派對感到興奮。"
         },
         {
+          "option_group": "meaning-m3-1-u2-v015",
           "id": "m3-1-u2-v015",
           "word": "boring",
           "part_of_speech": "形",
@@ -124,6 +126,7 @@
           "sentence_chinese": "漫長的等待很無聊。"
         },
         {
+          "option_group": "meaning-m3-1-u2-v015",
           "id": "m3-1-u2-v016",
           "word": "bored",
           "part_of_speech": "形",
@@ -172,6 +175,7 @@
           "sentence_chinese": "這張沙發看起來很舒適。"
         },
         {
+          "option_group": "meaning-m3-1-u2-v006",
           "id": "m3-1-u2-v022",
           "word": "interest",
           "part_of_speech": "名；動",

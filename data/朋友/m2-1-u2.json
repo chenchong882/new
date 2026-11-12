@@ -180,6 +180,7 @@
           "sentence_chinese": "他的病很嚴重，所以他沒去上學。"
         },
         {
+          "option_group": "meaning-m2-1-u2-v023",
           "id": "m2-1-u2-v023",
           "word": "health",
           "part_of_speech": "名",
@@ -244,6 +245,7 @@
           "sentence_chinese": "我阿姨買了一件藍色大衣給我。"
         },
         {
+          "option_group": "meaning-m2-1-u2-v023",
           "id": "m2-1-u2-v031",
           "word": "healthy",
           "part_of_speech": "形",

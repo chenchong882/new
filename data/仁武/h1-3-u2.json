@@ -53,6 +53,7 @@
         },
         {
           "id": "h1-3-u2-v007",
+          "option_group": "meaning-h1-3-u2-v007",
           "word": "failing",
           "part_of_speech": "名",
           "chinese": "缺點；弱點",
@@ -61,6 +62,7 @@
         },
         {
           "id": "h1-3-u2-v008",
+          "option_group": "meaning-h1-3-u2-v007",
           "word": "faulty",
           "part_of_speech": "形",
           "chinese": "有錯誤的；有缺點的",

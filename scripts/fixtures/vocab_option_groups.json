@@ -1,0 +1,3142 @@
+{
+  "scope": "逐課 vocab + phrases；語意審查搭配重複中譯檢查。分組保守排除同題共現，並保留既有分組。",
+  "lessons": [
+    {
+      "file": "data/仁武/h1-3-u1.json",
+      "unit": "h1-3-u1",
+      "vocab_count": 8,
+      "phrase_count": 1,
+      "groups": []
+    },
+    {
+      "file": "data/仁武/h1-3-u2.json",
+      "unit": "h1-3-u2",
+      "vocab_count": 8,
+      "phrase_count": 3,
+      "groups": [
+        {
+          "option_group": "meaning-h1-3-u2-v007",
+          "members": [
+            {
+              "id": "h1-3-u2-v007",
+              "word": "failing",
+              "chinese": "缺點；弱點"
+            },
+            {
+              "id": "h1-3-u2-v008",
+              "word": "faulty",
+              "chinese": "有錯誤的；有缺點的"
+            }
+          ],
+          "reasons": [
+            "保留既有互斥分組",
+            "缺點與有缺點的，詞性差異未提供辨識語境"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/仁武/h1-3-u3.json",
+      "unit": "h1-3-u3",
+      "vocab_count": 6,
+      "phrase_count": 4,
+      "groups": []
+    },
+    {
+      "file": "data/仁武/h1-3-u4.json",
+      "unit": "h1-3-u4",
+      "vocab_count": 9,
+      "phrase_count": 1,
+      "groups": []
+    },
+    {
+      "file": "data/仁武/h1-3-u5.json",
+      "unit": "h1-3-u5",
+      "vocab_count": 8,
+      "phrase_count": 1,
+      "groups": []
+    },
+    {
+      "file": "data/仁武/h1-3-u6.json",
+      "unit": "h1-3-u6",
+      "vocab_count": 6,
+      "phrase_count": 4,
+      "groups": []
+    },
+    {
+      "file": "data/前鎮/h1-2-u3.json",
+      "unit": "h1-2-u3",
+      "vocab_count": 41,
+      "phrase_count": 0,
+      "groups": [
+        {
+          "option_group": "meaning-h1-2-u3-v001",
+          "members": [
+            {
+              "id": "h1-2-u3-v001",
+              "word": "obedience",
+              "chinese": "服從；順從"
+            },
+            {
+              "id": "h1-2-u3-v002",
+              "word": "obedient",
+              "chinese": "服從的"
+            }
+          ],
+          "reasons": [
+            "服從的名詞／形容詞"
+          ]
+        },
+        {
+          "option_group": "meaning-h1-2-u3-v007",
+          "members": [
+            {
+              "id": "h1-2-u3-v007",
+              "word": "persuasion",
+              "chinese": "說服"
+            },
+            {
+              "id": "h1-2-u3-v008",
+              "word": "persuasive",
+              "chinese": "有說服力的；勸誘的"
+            }
+          ],
+          "reasons": [
+            "說服的名詞／形容詞"
+          ]
+        },
+        {
+          "option_group": "sound-judgment",
+          "members": [
+            {
+              "id": "h1-2-u3-v011",
+              "word": "reasonable",
+              "chinese": "講道理的；合理的"
+            },
+            {
+              "id": "h1-2-u3-v019",
+              "word": "sensible",
+              "chinese": "明理的；明智的"
+            }
+          ],
+          "reasons": [
+            "保留既有互斥分組"
+          ]
+        },
+        {
+          "option_group": "meaning-h1-2-u3-v015",
+          "members": [
+            {
+              "id": "h1-2-u3-v015",
+              "word": "resolution",
+              "chinese": "決心；解決"
+            },
+            {
+              "id": "h1-2-u3-v016",
+              "word": "resolve",
+              "chinese": "決定；解決"
+            }
+          ],
+          "reasons": [
+            "中譯義項相同（忽略括號註解、空白與省略標點）"
+          ]
+        },
+        {
+          "option_group": "honesty",
+          "members": [
+            {
+              "id": "h1-2-u3-v022",
+              "word": "sincere",
+              "chinese": "認真的；真誠的"
+            },
+            {
+              "id": "h1-2-u3-v035",
+              "word": "truthful",
+              "chinese": "誠實的；真實的"
+            }
+          ],
+          "reasons": [
+            "保留既有互斥分組"
+          ]
+        },
+        {
+          "option_group": "meaning-h1-2-u3-v024",
+          "members": [
+            {
+              "id": "h1-2-u3-v024",
+              "word": "skinny",
+              "chinese": "極瘦的"
+            },
+            {
+              "id": "h1-2-u3-v025",
+              "word": "slender",
+              "chinese": "苗條的；纖細的"
+            }
+          ],
+          "reasons": [
+            "瘦／纖細的近義描述"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/前鎮/h1-2-u4.json",
+      "unit": "h1-2-u4",
+      "vocab_count": 47,
+      "phrase_count": 0,
+      "groups": [
+        {
+          "option_group": "meaning-h1-2-u4-v003",
+          "members": [
+            {
+              "id": "h1-2-u4-v003",
+              "word": "adviser",
+              "chinese": "指導老師；顧問"
+            },
+            {
+              "id": "h1-2-u4-v034",
+              "word": "consultant",
+              "chinese": "顧問"
+            }
+          ],
+          "reasons": [
+            "中譯義項相同（忽略括號註解、空白與省略標點）"
+          ]
+        },
+        {
+          "option_group": "applicant-candidate",
+          "members": [
+            {
+              "id": "h1-2-u4-v008",
+              "word": "applicant",
+              "chinese": "申請者"
+            },
+            {
+              "id": "h1-2-u4-v017",
+              "word": "candidate",
+              "chinese": "候選人"
+            }
+          ],
+          "reasons": [
+            "保留既有互斥分組"
+          ]
+        },
+        {
+          "option_group": "command",
+          "members": [
+            {
+              "id": "h1-2-u4-v019",
+              "word": "captain",
+              "chinese": "隊長；機長；艦長"
+            },
+            {
+              "id": "h1-2-u4-v030",
+              "word": "commander",
+              "chinese": "指揮官"
+            }
+          ],
+          "reasons": [
+            "保留既有互斥分組"
+          ]
+        },
+        {
+          "option_group": "meaning-h1-2-u4-v023",
+          "members": [
+            {
+              "id": "h1-2-u4-v023",
+              "word": "citizen",
+              "chinese": "公民；市民"
+            },
+            {
+              "id": "h1-2-u4-v024",
+              "word": "civilian",
+              "chinese": "平民；百姓；平民的"
+            }
+          ],
+          "reasons": [
+            "市民與平民的指涉可能重疊"
+          ]
+        },
+        {
+          "option_group": "customer",
+          "members": [
+            {
+              "id": "h1-2-u4-v026",
+              "word": "client",
+              "chinese": "客戶；委託人"
+            },
+            {
+              "id": "h1-2-u4-v035",
+              "word": "consumer",
+              "chinese": "消費者"
+            }
+          ],
+          "reasons": [
+            "保留既有互斥分組"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/前鎮/h1-2-u5.json",
+      "unit": "h1-2-u5",
+      "vocab_count": 47,
+      "phrase_count": 0,
+      "groups": [
+        {
+          "option_group": "household-staff",
+          "members": [
+            {
+              "id": "h1-2-u5-v012",
+              "word": "housekeeper",
+              "chinese": "管家"
+            },
+            {
+              "id": "h1-2-u5-v029",
+              "word": "maid",
+              "chinese": "女傭"
+            }
+          ],
+          "reasons": [
+            "保留既有互斥分組"
+          ]
+        },
+        {
+          "option_group": "meaning-h1-2-u5-v016",
+          "members": [
+            {
+              "id": "h1-2-u5-v016",
+              "word": "instructor",
+              "chinese": "（大學）講師；教練；指導員"
+            },
+            {
+              "id": "h1-2-u5-v021",
+              "word": "lecturer",
+              "chinese": "演講者；講師"
+            }
+          ],
+          "reasons": [
+            "中譯義項相同（忽略括號註解、空白與省略標點）"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/前鎮/h1-2-u6.json",
+      "unit": "h1-2-u6",
+      "vocab_count": 48,
+      "phrase_count": 0,
+      "groups": [
+        {
+          "option_group": "travel",
+          "members": [
+            {
+              "id": "h1-2-u6-v001",
+              "word": "passenger",
+              "chinese": "乘客；旅客"
+            },
+            {
+              "id": "h1-2-u6-v035",
+              "word": "tourist",
+              "chinese": "遊客"
+            },
+            {
+              "id": "h1-2-u6-v038",
+              "word": "traveler",
+              "chinese": "旅客；旅人"
+            }
+          ],
+          "reasons": [
+            "保留既有互斥分組"
+          ]
+        },
+        {
+          "option_group": "academic",
+          "members": [
+            {
+              "id": "h1-2-u6-v003",
+              "word": "philosopher",
+              "chinese": "哲學家"
+            },
+            {
+              "id": "h1-2-u6-v006",
+              "word": "physicist",
+              "chinese": "物理學家"
+            },
+            {
+              "id": "h1-2-u6-v014",
+              "word": "professor",
+              "chinese": "教授"
+            },
+            {
+              "id": "h1-2-u6-v015",
+              "word": "psychologist",
+              "chinese": "心理學家"
+            },
+            {
+              "id": "h1-2-u6-v020",
+              "word": "researcher",
+              "chinese": "研究人員"
+            },
+            {
+              "id": "h1-2-u6-v022",
+              "word": "scholar",
+              "chinese": "學者"
+            },
+            {
+              "id": "h1-2-u6-v023",
+              "word": "scientist",
+              "chinese": "科學家"
+            }
+          ],
+          "reasons": [
+            "保留既有互斥分組"
+          ]
+        },
+        {
+          "option_group": "meaning-h1-2-u6-v012",
+          "members": [
+            {
+              "id": "h1-2-u6-v012",
+              "word": "profession",
+              "chinese": "職業；專業"
+            },
+            {
+              "id": "h1-2-u6-v013",
+              "word": "professional",
+              "chinese": "職業的；專業的；專業人員"
+            }
+          ],
+          "reasons": [
+            "職業／專業的詞性變化"
+          ]
+        },
+        {
+          "option_group": "meaning-h1-2-u6-v018",
+          "members": [
+            {
+              "id": "h1-2-u6-v018",
+              "word": "represent",
+              "chinese": "代表；表示；象徵"
+            },
+            {
+              "id": "h1-2-u6-v019",
+              "word": "representative",
+              "chinese": "代表；代表性的"
+            }
+          ],
+          "reasons": [
+            "中譯義項相同（忽略括號註解、空白與省略標點）"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/前鎮/h1-2-u7.json",
+      "unit": "h1-2-u7",
+      "vocab_count": 35,
+      "phrase_count": 0,
+      "groups": [
+        {
+          "option_group": "entrance",
+          "members": [
+            {
+              "id": "h1-2-u7-v001",
+              "word": "access",
+              "chinese": "通道；入口；使用或進入的途徑或權利；讀取電腦資料；連接網路"
+            },
+            {
+              "id": "h1-2-u7-v031",
+              "word": "entry",
+              "chinese": "進入；加入；項目"
+            }
+          ],
+          "reasons": [
+            "保留既有互斥分組"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/前鎮/qz-level7-u4.json",
+      "unit": "qz-level7-u4",
+      "vocab_count": 20,
+      "phrase_count": 5,
+      "groups": [
+        {
+          "option_group": "sensory-awareness",
+          "members": [
+            {
+              "id": "qz-level7-u4-v001",
+              "word": "sensitive",
+              "chinese": "敏感的"
+            },
+            {
+              "id": "qz-level7-u4-v002",
+              "word": "keen",
+              "chinese": "敏銳的；渴望的；熱衷的"
+            },
+            {
+              "id": "qz-level7-u4-v017",
+              "word": "alert",
+              "chinese": "警示／警覺的"
+            }
+          ],
+          "reasons": [
+            "保留既有互斥分組"
+          ]
+        },
+        {
+          "option_group": "task-completion",
+          "members": [
+            {
+              "id": "qz-level7-u4-v005",
+              "word": "accomplish",
+              "chinese": "達成"
+            },
+            {
+              "id": "qz-level7-u4-v012",
+              "word": "manage",
+              "chinese": "設法成功做到；能夠應付；管理（金錢、時間等）"
+            },
+            {
+              "id": "qz-level7-u4-v018",
+              "word": "complete",
+              "chinese": "已完成的；已結束的；完整的／完成"
+            }
+          ],
+          "reasons": [
+            "保留既有互斥分組"
+          ]
+        },
+        {
+          "option_group": "carrying-out-actions",
+          "members": [
+            {
+              "id": "qz-level7-u4-v015",
+              "word": "perform",
+              "chinese": "做某事；做某種行為；表演"
+            },
+            {
+              "id": "qz-level7-u4-p005",
+              "word": "carry out",
+              "chinese": "執行；進行"
+            }
+          ],
+          "reasons": [
+            "保留既有互斥分組"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/前鎮/qz-level8-u5.json",
+      "unit": "qz-level8-u5",
+      "vocab_count": 16,
+      "phrase_count": 5,
+      "groups": []
+    },
+    {
+      "file": "data/前鎮/qz-level9-u6.json",
+      "unit": "qz-level9-u6",
+      "vocab_count": 17,
+      "phrase_count": 5,
+      "groups": [
+        {
+          "option_group": "symbolize-represent",
+          "members": [
+            {
+              "id": "qz-level9-u6-v007",
+              "word": "symbolize",
+              "chinese": "象徵；代表"
+            },
+            {
+              "id": "qz-level9-u6-v009",
+              "word": "represent",
+              "chinese": "代表；作為……的象徵"
+            }
+          ],
+          "reasons": [
+            "保留既有互斥分組"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/國中/m1-4-u1.json",
+      "unit": "m1-4-u1",
+      "vocab_count": 33,
+      "phrase_count": 8,
+      "groups": [
+        {
+          "option_group": "meaning-m1-4-u1-v003",
+          "members": [
+            {
+              "id": "m1-4-u1-v003",
+              "word": "much",
+              "chinese": "多(的)"
+            },
+            {
+              "id": "m1-4-u1-p005",
+              "word": "a lot of",
+              "chinese": "很多的"
+            }
+          ],
+          "reasons": [
+            "多／很多的，未提供可數性語境"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/國中/m1-4-u2.json",
+      "unit": "m1-4-u2",
+      "vocab_count": 30,
+      "phrase_count": 14,
+      "groups": [
+        {
+          "option_group": "meaning-m1-4-u2-v020",
+          "members": [
+            {
+              "id": "m1-4-u2-v020",
+              "word": "often",
+              "chinese": "經常"
+            },
+            {
+              "id": "m1-4-u2-v021",
+              "word": "usually",
+              "chinese": "通常"
+            }
+          ],
+          "reasons": [
+            "經常／通常的頻率描述重疊"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/國中/m1-4-u3.json",
+      "unit": "m1-4-u3",
+      "vocab_count": 34,
+      "phrase_count": 4,
+      "groups": [
+        {
+          "option_group": "meaning-m1-4-u3-v001",
+          "members": [
+            {
+              "id": "m1-4-u3-v001",
+              "word": "painting",
+              "chinese": "畫作"
+            },
+            {
+              "id": "m1-4-u3-v029",
+              "word": "work",
+              "chinese": "作品"
+            }
+          ],
+          "reasons": [
+            "畫作屬作品，無語境時 work 與 painting 都可能成立"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/國中/m1-4-u4.json",
+      "unit": "m1-4-u4",
+      "vocab_count": 38,
+      "phrase_count": 4,
+      "groups": [
+        {
+          "option_group": "meaning-m1-4-u4-v007",
+          "members": [
+            {
+              "id": "m1-4-u4-v007",
+              "word": "glass",
+              "chinese": "玻璃杯；玻璃"
+            },
+            {
+              "id": "m1-4-u4-v022",
+              "word": "cup",
+              "chinese": "杯"
+            }
+          ],
+          "reasons": [
+            "杯與玻璃杯的範圍重疊"
+          ]
+        },
+        {
+          "option_group": "meaning-m1-4-u4-v012",
+          "members": [
+            {
+              "id": "m1-4-u4-v012",
+              "word": "thing",
+              "chinese": "東西；事情"
+            },
+            {
+              "id": "m1-4-u4-v014",
+              "word": "something",
+              "chinese": "某物；某事"
+            }
+          ],
+          "reasons": [
+            "東西／事情與某物／某事"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/國中/m1-6-u5.json",
+      "unit": "m1-6-u5",
+      "vocab_count": 36,
+      "phrase_count": 5,
+      "groups": [
+        {
+          "option_group": "meaning-m1-6-u5-v010",
+          "members": [
+            {
+              "id": "m1-6-u5-v010",
+              "word": "dead",
+              "chinese": "死的"
+            },
+            {
+              "id": "m1-6-u5-v013",
+              "word": "die",
+              "chinese": "死亡"
+            }
+          ],
+          "reasons": [
+            "死亡的形容詞／動詞"
+          ]
+        },
+        {
+          "option_group": "meaning-m1-6-u5-v019",
+          "members": [
+            {
+              "id": "m1-6-u5-v019",
+              "word": "hill",
+              "chinese": "山丘"
+            },
+            {
+              "id": "m1-6-u5-v020",
+              "word": "mountain",
+              "chinese": "山"
+            }
+          ],
+          "reasons": [
+            "山與山丘的範圍重疊"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/國中/m1-6-u6.json",
+      "unit": "m1-6-u6",
+      "vocab_count": 34,
+      "phrase_count": 2,
+      "groups": [
+        {
+          "option_group": "meaning-m1-6-u6-v002",
+          "members": [
+            {
+              "id": "m1-6-u6-v002",
+              "word": "travel",
+              "chinese": "旅行；行進"
+            },
+            {
+              "id": "m1-6-u6-v032",
+              "word": "trip",
+              "chinese": "旅行；行程"
+            }
+          ],
+          "reasons": [
+            "中譯義項相同（忽略括號註解、空白與省略標點）"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/大寮/m1-1-u1.json",
+      "unit": "m1-1-u1",
+      "vocab_count": 37,
+      "phrase_count": 5,
+      "groups": [
+        {
+          "option_group": "meaning-m1-1-u1-v018",
+          "members": [
+            {
+              "id": "m1-1-u1-v018",
+              "word": "same",
+              "chinese": "一樣的；相同的"
+            },
+            {
+              "id": "m1-1-u1-p002",
+              "word": "the same",
+              "chinese": "相同的"
+            }
+          ],
+          "reasons": [
+            "中譯義項相同（忽略括號註解、空白與省略標點）"
+          ]
+        },
+        {
+          "option_group": "meaning-m1-1-u1-v021",
+          "members": [
+            {
+              "id": "m1-1-u1-v021",
+              "word": "Nice to meet you.",
+              "chinese": "很高興認識你。"
+            },
+            {
+              "id": "m1-1-u1-p003",
+              "word": "Nice to meet you.",
+              "chinese": "很高興認識你。"
+            }
+          ],
+          "reasons": [
+            "相同英文或重複的單字／片語"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/大寮/m1-1-u2.json",
+      "unit": "m1-1-u2",
+      "vocab_count": 36,
+      "phrase_count": 2,
+      "groups": [
+        {
+          "option_group": "meaning-m1-1-u2-v007",
+          "members": [
+            {
+              "id": "m1-1-u2-v007",
+              "word": "mouse",
+              "chinese": "老鼠（複數為 mice）"
+            },
+            {
+              "id": "m1-1-u2-v013",
+              "word": "rat",
+              "chinese": "大老鼠"
+            }
+          ],
+          "reasons": [
+            "老鼠與大老鼠的中譯範圍重疊"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/大寮/m1-2-u3.json",
+      "unit": "m1-2-u3",
+      "vocab_count": 40,
+      "phrase_count": 8,
+      "groups": [
+        {
+          "option_group": "meaning-m1-2-u3-v008",
+          "members": [
+            {
+              "id": "m1-2-u3-v008",
+              "word": "next to",
+              "chinese": "在……旁邊"
+            },
+            {
+              "id": "m1-2-u3-v009",
+              "word": "near",
+              "chinese": "在……附近"
+            },
+            {
+              "id": "m1-2-u3-v037",
+              "word": "beside",
+              "chinese": "在……旁邊"
+            }
+          ],
+          "reasons": [
+            "中譯義項相同（忽略括號註解、空白與省略標點）",
+            "旁邊／附近的距離描述可能重疊"
+          ]
+        },
+        {
+          "option_group": "meaning-m1-2-u3-v013",
+          "members": [
+            {
+              "id": "m1-2-u3-v013",
+              "word": "style",
+              "chinese": "風格；款式"
+            },
+            {
+              "id": "m1-2-u3-v024",
+              "word": "type",
+              "chinese": "種類"
+            }
+          ],
+          "reasons": [
+            "款式／種類在無語境時難以排除另一字"
+          ]
+        },
+        {
+          "option_group": "meaning-m1-2-u3-v030",
+          "members": [
+            {
+              "id": "m1-2-u3-v030",
+              "word": "I see.",
+              "chinese": "我了解了。"
+            },
+            {
+              "id": "m1-2-u3-p002",
+              "word": "I see.",
+              "chinese": "我了解了。"
+            }
+          ],
+          "reasons": [
+            "相同英文或重複的單字／片語"
+          ]
+        },
+        {
+          "option_group": "meaning-m1-2-u3-v033",
+          "members": [
+            {
+              "id": "m1-2-u3-v033",
+              "word": "in fact",
+              "chinese": "事實上"
+            },
+            {
+              "id": "m1-2-u3-p007",
+              "word": "in fact",
+              "chinese": "事實上"
+            }
+          ],
+          "reasons": [
+            "相同英文或重複的單字／片語"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/大寮/m1-2-u4.json",
+      "unit": "m1-2-u4",
+      "vocab_count": 36,
+      "phrase_count": 9,
+      "groups": [
+        {
+          "option_group": "meaning-m1-2-u4-v001",
+          "members": [
+            {
+              "id": "m1-2-u4-v001",
+              "word": "listen",
+              "chinese": "聽"
+            },
+            {
+              "id": "m1-2-u4-p004",
+              "word": "listen to",
+              "chinese": "聽……"
+            }
+          ],
+          "reasons": [
+            "中譯義項相同（忽略括號註解、空白與省略標點）",
+            "聽與 listen to 的片語形式"
+          ]
+        },
+        {
+          "option_group": "meaning-m1-2-u4-v002",
+          "members": [
+            {
+              "id": "m1-2-u4-v002",
+              "word": "voice",
+              "chinese": "聲音；歌喉"
+            },
+            {
+              "id": "m1-2-u4-v008",
+              "word": "noise",
+              "chinese": "噪音"
+            }
+          ],
+          "reasons": [
+            "聲音含噪音，缺乏區分線索"
+          ]
+        },
+        {
+          "option_group": "meaning-m1-2-u4-v003",
+          "members": [
+            {
+              "id": "m1-2-u4-v003",
+              "word": "stand up",
+              "chinese": "站起來"
+            },
+            {
+              "id": "m1-2-u4-p001",
+              "word": "stand up",
+              "chinese": "站起來"
+            }
+          ],
+          "reasons": [
+            "相同英文或重複的單字／片語"
+          ]
+        },
+        {
+          "option_group": "meaning-m1-2-u4-v004",
+          "members": [
+            {
+              "id": "m1-2-u4-v004",
+              "word": "sit down",
+              "chinese": "坐下"
+            },
+            {
+              "id": "m1-2-u4-p002",
+              "word": "sit down",
+              "chinese": "坐下"
+            }
+          ],
+          "reasons": [
+            "相同英文或重複的單字／片語"
+          ]
+        },
+        {
+          "option_group": "meaning-m1-2-u4-v005",
+          "members": [
+            {
+              "id": "m1-2-u4-v005",
+              "word": "take a photo",
+              "chinese": "拍照"
+            },
+            {
+              "id": "m1-2-u4-p003",
+              "word": "take a photo",
+              "chinese": "拍照"
+            }
+          ],
+          "reasons": [
+            "相同英文或重複的單字／片語"
+          ]
+        },
+        {
+          "option_group": "meaning-m1-2-u4-v016",
+          "members": [
+            {
+              "id": "m1-2-u4-v016",
+              "word": "check out",
+              "chinese": "查看"
+            },
+            {
+              "id": "m1-2-u4-p006",
+              "word": "check out",
+              "chinese": "查看"
+            }
+          ],
+          "reasons": [
+            "相同英文或重複的單字／片語"
+          ]
+        },
+        {
+          "option_group": "meaning-m1-2-u4-v018",
+          "members": [
+            {
+              "id": "m1-2-u4-v018",
+              "word": "road",
+              "chinese": "道路"
+            },
+            {
+              "id": "m1-2-u4-v034",
+              "word": "lane",
+              "chinese": "小路；小巷"
+            },
+            {
+              "id": "m1-2-u4-v035",
+              "word": "way",
+              "chinese": "方式；方法；路"
+            }
+          ],
+          "reasons": [
+            "道路／路／小路範圍重疊"
+          ]
+        },
+        {
+          "option_group": "meaning-m1-2-u4-v019",
+          "members": [
+            {
+              "id": "m1-2-u4-v019",
+              "word": "watch out",
+              "chinese": "小心；注意"
+            },
+            {
+              "id": "m1-2-u4-p007",
+              "word": "watch out",
+              "chinese": "小心；注意"
+            }
+          ],
+          "reasons": [
+            "相同英文或重複的單字／片語"
+          ]
+        },
+        {
+          "option_group": "meaning-m1-2-u4-v021",
+          "members": [
+            {
+              "id": "m1-2-u4-v021",
+              "word": "all the time",
+              "chinese": "一直"
+            },
+            {
+              "id": "m1-2-u4-p008",
+              "word": "all the time",
+              "chinese": "一直"
+            }
+          ],
+          "reasons": [
+            "相同英文或重複的單字／片語"
+          ]
+        },
+        {
+          "option_group": "meaning-m1-2-u4-v022",
+          "members": [
+            {
+              "id": "m1-2-u4-v022",
+              "word": "Guess what?",
+              "chinese": "你猜怎麼著？"
+            },
+            {
+              "id": "m1-2-u4-p009",
+              "word": "Guess what?",
+              "chinese": "你猜怎麼著？"
+            }
+          ],
+          "reasons": [
+            "相同英文或重複的單字／片語"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/左營哥哥/m3-1-u1.json",
+      "unit": "m3-1-u1",
+      "vocab_count": 28,
+      "phrase_count": 0,
+      "groups": [
+        {
+          "option_group": "meaning-m3-1-u1-v001",
+          "members": [
+            {
+              "id": "m3-1-u1-v001",
+              "word": "subject",
+              "chinese": "學科"
+            },
+            {
+              "id": "m3-1-u1-v003",
+              "word": "topic",
+              "chinese": "主題"
+            }
+          ],
+          "reasons": [
+            "subject 也可表示主題，不能以課本指定義排除"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/左營哥哥/m3-1-u2.json",
+      "unit": "m3-1-u2",
+      "vocab_count": 29,
+      "phrase_count": 0,
+      "groups": [
+        {
+          "option_group": "meaning-m3-1-u2-v006",
+          "members": [
+            {
+              "id": "m3-1-u2-v006",
+              "word": "interested",
+              "chinese": "感興趣的"
+            },
+            {
+              "id": "m3-1-u2-v022",
+              "word": "interest",
+              "chinese": "興趣；使……感興趣"
+            }
+          ],
+          "reasons": [
+            "興趣／感興趣的詞性變化"
+          ]
+        },
+        {
+          "option_group": "meaning-m3-1-u2-v015",
+          "members": [
+            {
+              "id": "m3-1-u2-v015",
+              "word": "boring",
+              "chinese": "無聊的；無趣的"
+            },
+            {
+              "id": "m3-1-u2-v016",
+              "word": "bored",
+              "chinese": "感到厭煩的"
+            }
+          ],
+          "reasons": [
+            "boring 的無聊中譯未指出令人，與 bored 重疊"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/左營妹妹/m2-1-u1.json",
+      "unit": "m2-1-u1",
+      "vocab_count": 40,
+      "phrase_count": 28,
+      "groups": [
+        {
+          "option_group": "meaning-m2-1-u1-v005",
+          "members": [
+            {
+              "id": "m2-1-u1-v005",
+              "word": "last",
+              "chinese": "前一個的"
+            },
+            {
+              "id": "m2-1-u1-p003",
+              "word": "last＋時間",
+              "chinese": "上個…"
+            }
+          ],
+          "reasons": [
+            "上一個時間的單字／句型"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-1-u1-v006",
+          "members": [
+            {
+              "id": "m2-1-u1-v006",
+              "word": "death",
+              "chinese": "死亡"
+            },
+            {
+              "id": "m2-1-u1-v015",
+              "word": "pass away",
+              "chinese": "過世"
+            },
+            {
+              "id": "m2-1-u1-v030",
+              "word": "dead",
+              "chinese": "死亡的"
+            },
+            {
+              "id": "m2-1-u1-p010",
+              "word": "pass away",
+              "chinese": "過世"
+            }
+          ],
+          "reasons": [
+            "死亡／死亡的／過世",
+            "相同英文或重複的單字／片語"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-1-u1-v007",
+          "members": [
+            {
+              "id": "m2-1-u1-v007",
+              "word": "remind...of",
+              "chinese": "想起"
+            },
+            {
+              "id": "m2-1-u1-v017",
+              "word": "memory",
+              "chinese": "回憶；記憶"
+            },
+            {
+              "id": "m2-1-u1-v029",
+              "word": "remember",
+              "chinese": "記得"
+            },
+            {
+              "id": "m2-1-u1-p005",
+              "word": "remind＋人＋of＋事／人",
+              "chinese": "使…（人）想起…（事／人）"
+            }
+          ],
+          "reasons": [
+            "想起／回憶／記得，無語境時互有合理解釋"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-1-u1-v008",
+          "members": [
+            {
+              "id": "m2-1-u1-v008",
+              "word": "a few",
+              "chinese": "一些"
+            },
+            {
+              "id": "m2-1-u1-p006",
+              "word": "a few＋複數可數名詞",
+              "chinese": "一些…"
+            }
+          ],
+          "reasons": [
+            "一些的單字／句型",
+            "中譯義項相同（忽略括號註解、空白與省略標點）"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-1-u1-v009",
+          "members": [
+            {
+              "id": "m2-1-u1-v009",
+              "word": "ago",
+              "chinese": "以前"
+            },
+            {
+              "id": "m2-1-u1-p007",
+              "word": "一段時間＋ago",
+              "chinese": "…以前"
+            }
+          ],
+          "reasons": [
+            "中譯義項相同（忽略括號註解、空白與省略標點）",
+            "以前的單字／句型"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-1-u1-v011",
+          "members": [
+            {
+              "id": "m2-1-u1-v011",
+              "word": "were",
+              "chinese": "是（are 的過去式）"
+            },
+            {
+              "id": "m2-1-u1-v013",
+              "word": "was",
+              "chinese": "是（am 和 is 的過去式）"
+            }
+          ],
+          "reasons": [
+            "中譯義項相同（忽略括號註解、空白與省略標點）"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-1-u1-v012",
+          "members": [
+            {
+              "id": "m2-1-u1-v012",
+              "word": "look after",
+              "chinese": "照顧"
+            },
+            {
+              "id": "m2-1-u1-p008",
+              "word": "look after＋名詞／代名詞",
+              "chinese": "照顧…"
+            }
+          ],
+          "reasons": [
+            "中譯義項相同（忽略括號註解、空白與省略標點）",
+            "照顧的不同片語標法"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-1-u1-v016",
+          "members": [
+            {
+              "id": "m2-1-u1-v016",
+              "word": "after all",
+              "chinese": "畢竟"
+            },
+            {
+              "id": "m2-1-u1-p012",
+              "word": "after all",
+              "chinese": "畢竟"
+            }
+          ],
+          "reasons": [
+            "相同英文或重複的單字／片語"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-1-u1-v020",
+          "members": [
+            {
+              "id": "m2-1-u1-v020",
+              "word": "dress up",
+              "chinese": "裝扮"
+            },
+            {
+              "id": "m2-1-u1-p023",
+              "word": "dress up in costumes",
+              "chinese": "盛裝打扮"
+            }
+          ],
+          "reasons": [
+            "裝扮／盛裝打扮"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-1-u1-v037",
+          "members": [
+            {
+              "id": "m2-1-u1-v037",
+              "word": "share",
+              "chinese": "分享"
+            },
+            {
+              "id": "m2-1-u1-p026",
+              "word": "share...with＋人",
+              "chinese": "和…（人）分享／共用…"
+            }
+          ],
+          "reasons": [
+            "分享的單字／片語"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/左營妹妹/m2-1-u2.json",
+      "unit": "m2-1-u2",
+      "vocab_count": 37,
+      "phrase_count": 15,
+      "groups": [
+        {
+          "option_group": "meaning-m2-1-u2-v005",
+          "members": [
+            {
+              "id": "m2-1-u2-v005",
+              "word": "get married",
+              "chinese": "結婚"
+            },
+            {
+              "id": "m2-1-u2-v027",
+              "word": "marriage",
+              "chinese": "婚姻"
+            },
+            {
+              "id": "m2-1-u2-p002",
+              "word": "get married to...",
+              "chinese": "和……結婚；嫁給；娶"
+            }
+          ],
+          "reasons": [
+            "婚姻／結婚的單字與片語"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-1-u2-v010",
+          "members": [
+            {
+              "id": "m2-1-u2-v010",
+              "word": "not...anymore",
+              "chinese": "不再"
+            },
+            {
+              "id": "m2-1-u2-p004",
+              "word": "not...anymore",
+              "chinese": "不再"
+            }
+          ],
+          "reasons": [
+            "相同英文或重複的單字／片語"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-1-u2-v016",
+          "members": [
+            {
+              "id": "m2-1-u2-v016",
+              "word": "curious",
+              "chinese": "好奇的"
+            },
+            {
+              "id": "m2-1-u2-p006",
+              "word": "be curious about...",
+              "chinese": "對……好奇"
+            }
+          ],
+          "reasons": [
+            "好奇的單字／片語"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-1-u2-v017",
+          "members": [
+            {
+              "id": "m2-1-u2-v017",
+              "word": "ending",
+              "chinese": "結局"
+            },
+            {
+              "id": "m2-1-u2-p007",
+              "word": "the ending of...",
+              "chinese": "……的結局"
+            }
+          ],
+          "reasons": [
+            "結局的單字／片語"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-1-u2-v022",
+          "members": [
+            {
+              "id": "m2-1-u2-v022",
+              "word": "pick",
+              "chinese": "採摘；挑選"
+            },
+            {
+              "id": "m2-1-u2-v028",
+              "word": "choose",
+              "chinese": "選擇"
+            }
+          ],
+          "reasons": [
+            "挑選／選擇"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-1-u2-v031",
+          "members": [
+            {
+              "id": "m2-1-u2-v031",
+              "word": "without",
+              "chinese": "沒有"
+            },
+            {
+              "id": "m2-1-u2-p010",
+              "word": "without a choice",
+              "chinese": "沒有；無法選擇"
+            }
+          ],
+          "reasons": [
+            "中譯義項相同（忽略括號註解、空白與省略標點）"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-1-u2-v037",
+          "members": [
+            {
+              "id": "m2-1-u2-v037",
+              "word": "take action",
+              "chinese": "採取行動"
+            },
+            {
+              "id": "m2-1-u2-p012",
+              "word": "take action",
+              "chinese": "採取行動"
+            }
+          ],
+          "reasons": [
+            "相同英文或重複的單字／片語"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/左營妹妹/m2-2-u3.json",
+      "unit": "m2-2-u3",
+      "vocab_count": 38,
+      "phrase_count": 25,
+      "groups": [
+        {
+          "option_group": "meaning-m2-2-u3-v010",
+          "members": [
+            {
+              "id": "m2-2-u3-v010",
+              "word": "go by",
+              "chinese": "經過"
+            },
+            {
+              "id": "m2-2-u3-v018",
+              "word": "pass by",
+              "chinese": "經過"
+            },
+            {
+              "id": "m2-2-u3-p007",
+              "word": "go/pass by = go past",
+              "chinese": "經過"
+            }
+          ],
+          "reasons": [
+            "中譯義項相同（忽略括號註解、空白與省略標點）"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-2-u3-v014",
+          "members": [
+            {
+              "id": "m2-2-u3-v014",
+              "word": "over and over",
+              "chinese": "一遍又一遍"
+            },
+            {
+              "id": "m2-2-u3-p011",
+              "word": "over and over again = over and over = again and again",
+              "chinese": "一遍又一遍"
+            },
+            {
+              "id": "m2-2-u3-p016",
+              "word": "many times",
+              "chinese": "很多次"
+            }
+          ],
+          "reasons": [
+            "中譯義項相同（忽略括號註解、空白與省略標點）",
+            "反覆／很多次"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-2-u3-v025",
+          "members": [
+            {
+              "id": "m2-2-u3-v025",
+              "word": "arrive",
+              "chinese": "到達"
+            },
+            {
+              "id": "m2-2-u3-p008",
+              "word": "get to + 地方",
+              "chinese": "到達……"
+            },
+            {
+              "id": "m2-2-u3-p019",
+              "word": "arrive at + 小地方 / in + 大地方",
+              "chinese": "到達……"
+            }
+          ],
+          "reasons": [
+            "中譯義項相同（忽略括號註解、空白與省略標點）",
+            "到達的單字與片語"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-2-u3-v026",
+          "members": [
+            {
+              "id": "m2-2-u3-v026",
+              "word": "in time",
+              "chinese": "及時"
+            },
+            {
+              "id": "m2-2-u3-p020",
+              "word": "in time",
+              "chinese": "及時"
+            }
+          ],
+          "reasons": [
+            "相同英文或重複的單字／片語"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-2-u3-v034",
+          "members": [
+            {
+              "id": "m2-2-u3-v034",
+              "word": "cheer...on",
+              "chinese": "為……歡呼；鼓勵……"
+            },
+            {
+              "id": "m2-2-u3-p024",
+              "word": "cheer + 人 + on",
+              "chinese": "鼓勵……；為……加油"
+            }
+          ],
+          "reasons": [
+            "中譯義項相同（忽略括號註解、空白與省略標點）",
+            "歡呼鼓勵／加油的不同標法"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-2-u3-p010",
+          "members": [
+            {
+              "id": "m2-2-u3-p010",
+              "word": "jump/go away",
+              "chinese": "跳走／離開"
+            },
+            {
+              "id": "m2-2-u3-p022",
+              "word": "get out of...",
+              "chinese": "離開……"
+            }
+          ],
+          "reasons": [
+            "中譯義項相同（忽略括號註解、空白與省略標點）"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/左營妹妹/m2-2-u4.json",
+      "unit": "m2-2-u4",
+      "vocab_count": 42,
+      "phrase_count": 13,
+      "groups": [
+        {
+          "option_group": "meaning-m2-2-u4-v017",
+          "members": [
+            {
+              "id": "m2-2-u4-v017",
+              "word": "keep",
+              "chinese": "持續；保持"
+            },
+            {
+              "id": "m2-2-u4-p007",
+              "word": "keep + V-ing",
+              "chinese": "一直……；不停……"
+            }
+          ],
+          "reasons": [
+            "持續與持續做某事"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-2-u4-v019",
+          "members": [
+            {
+              "id": "m2-2-u4-v019",
+              "word": "Give me a break!",
+              "chinese": "饒了我吧！"
+            },
+            {
+              "id": "m2-2-u4-p008",
+              "word": "Give me a break!",
+              "chinese": "饒了我吧！"
+            }
+          ],
+          "reasons": [
+            "相同英文或重複的單字／片語"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-2-u4-v020",
+          "members": [
+            {
+              "id": "m2-2-u4-v020",
+              "word": "No kidding!",
+              "chinese": "不開玩笑的！"
+            },
+            {
+              "id": "m2-2-u4-p009",
+              "word": "No kidding!",
+              "chinese": "不開玩笑的！"
+            }
+          ],
+          "reasons": [
+            "相同英文或重複的單字／片語"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-2-u4-v022",
+          "members": [
+            {
+              "id": "m2-2-u4-v022",
+              "word": "learn",
+              "chinese": "學習"
+            },
+            {
+              "id": "m2-2-u4-v033",
+              "word": "understand",
+              "chinese": "了解"
+            },
+            {
+              "id": "m2-2-u4-p010",
+              "word": "learn about...",
+              "chinese": "學習；了解……"
+            }
+          ],
+          "reasons": [
+            "中譯義項相同（忽略括號註解、空白與省略標點）",
+            "學習／了解與 learn about"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-2-u4-v031",
+          "members": [
+            {
+              "id": "m2-2-u4-v031",
+              "word": "progress",
+              "chinese": "進步"
+            },
+            {
+              "id": "m2-2-u4-p011",
+              "word": "make progress",
+              "chinese": "有進步"
+            }
+          ],
+          "reasons": [
+            "進步與有進步"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/左營妹妹/m2-3-u5.json",
+      "unit": "m2-3-u5",
+      "vocab_count": 47,
+      "phrase_count": 18,
+      "groups": [
+        {
+          "option_group": "meaning-m2-3-u5-v004",
+          "members": [
+            {
+              "id": "m2-3-u5-v004",
+              "word": "of course",
+              "chinese": "當然"
+            },
+            {
+              "id": "m2-3-u5-p001",
+              "word": "of course",
+              "chinese": "當然"
+            }
+          ],
+          "reasons": [
+            "相同英文或重複的單字／片語"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-3-u5-v006",
+          "members": [
+            {
+              "id": "m2-3-u5-v006",
+              "word": "cost",
+              "chinese": "花費（金錢）"
+            },
+            {
+              "id": "m2-3-u5-v010",
+              "word": "pay",
+              "chinese": "付錢；付款"
+            },
+            {
+              "id": "m2-3-u5-v012",
+              "word": "price",
+              "chinese": "價格"
+            },
+            {
+              "id": "m2-3-u5-v014",
+              "word": "spend",
+              "chinese": "花費（金錢、時間）"
+            },
+            {
+              "id": "m2-3-u5-v021",
+              "word": "take",
+              "chinese": "花費（時間）"
+            }
+          ],
+          "reasons": [
+            "中譯義項相同（忽略括號註解、空白與省略標點）",
+            "花費／付款／價格；缺乏主詞、金錢或時間搭配語境"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-3-u5-v017",
+          "members": [
+            {
+              "id": "m2-3-u5-v017",
+              "word": "worry",
+              "chinese": "擔心；憂慮"
+            },
+            {
+              "id": "m2-3-u5-p016",
+              "word": "worry about...",
+              "chinese": "擔心……"
+            }
+          ],
+          "reasons": [
+            "中譯義項相同（忽略括號註解、空白與省略標點）",
+            "擔心的單字／片語"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-3-u5-v029",
+          "members": [
+            {
+              "id": "m2-3-u5-v029",
+              "word": "think of",
+              "chinese": "想到"
+            },
+            {
+              "id": "m2-3-u5-p010",
+              "word": "think of...",
+              "chinese": "想到……"
+            }
+          ],
+          "reasons": [
+            "中譯義項相同（忽略括號註解、空白與省略標點）",
+            "想到的兩種標法"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-3-u5-v032",
+          "members": [
+            {
+              "id": "m2-3-u5-v032",
+              "word": "draw",
+              "chinese": "吸引"
+            },
+            {
+              "id": "m2-3-u5-p011",
+              "word": "draw...to...",
+              "chinese": "吸引……到……"
+            }
+          ],
+          "reasons": [
+            "吸引的單字／片語"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-3-u5-v042",
+          "members": [
+            {
+              "id": "m2-3-u5-v042",
+              "word": "besides",
+              "chinese": "此外"
+            },
+            {
+              "id": "m2-3-u5-p015",
+              "word": "what's more",
+              "chinese": "此外；而且"
+            }
+          ],
+          "reasons": [
+            "中譯義項相同（忽略括號註解、空白與省略標點）"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-3-u5-v045",
+          "members": [
+            {
+              "id": "m2-3-u5-v045",
+              "word": "lend a hand",
+              "chinese": "幫忙"
+            },
+            {
+              "id": "m2-3-u5-p018",
+              "word": "lend a hand",
+              "chinese": "幫忙"
+            }
+          ],
+          "reasons": [
+            "相同英文或重複的單字／片語"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-3-u5-v047",
+          "members": [
+            {
+              "id": "m2-3-u5-v047",
+              "word": "be proud of",
+              "chinese": "以……為榮"
+            },
+            {
+              "id": "m2-3-u5-p017",
+              "word": "be proud of",
+              "chinese": "以……為榮"
+            }
+          ],
+          "reasons": [
+            "相同英文或重複的單字／片語"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/左營妹妹/m2-3-u6.json",
+      "unit": "m2-3-u6",
+      "vocab_count": 50,
+      "phrase_count": 20,
+      "groups": [
+        {
+          "option_group": "meaning-m2-3-u6-v012",
+          "members": [
+            {
+              "id": "m2-3-u6-v012",
+              "word": "future",
+              "chinese": "未來"
+            },
+            {
+              "id": "m2-3-u6-p006",
+              "word": "in the future",
+              "chinese": "未來"
+            }
+          ],
+          "reasons": [
+            "中譯義項相同（忽略括號註解、空白與省略標點）"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-3-u6-v016",
+          "members": [
+            {
+              "id": "m2-3-u6-v016",
+              "word": "come true",
+              "chinese": "成真"
+            },
+            {
+              "id": "m2-3-u6-p008",
+              "word": "come true",
+              "chinese": "實現；成真"
+            }
+          ],
+          "reasons": [
+            "相同英文或重複的單字／片語"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/新高鐵/m1-1-u1.json",
+      "unit": "m1-1-u1",
+      "vocab_count": 29,
+      "phrase_count": 0,
+      "groups": []
+    },
+    {
+      "file": "data/新高鐵/m1-1-u2.json",
+      "unit": "m1-1-u2",
+      "vocab_count": 36,
+      "phrase_count": 0,
+      "groups": []
+    },
+    {
+      "file": "data/朋友/m2-1-u1.json",
+      "unit": "m2-1-u1",
+      "vocab_count": 38,
+      "phrase_count": 0,
+      "groups": []
+    },
+    {
+      "file": "data/朋友/m2-1-u2.json",
+      "unit": "m2-1-u2",
+      "vocab_count": 36,
+      "phrase_count": 6,
+      "groups": [
+        {
+          "option_group": "meaning-m2-1-u2-v023",
+          "members": [
+            {
+              "id": "m2-1-u2-v023",
+              "word": "health",
+              "chinese": "健康"
+            },
+            {
+              "id": "m2-1-u2-v031",
+              "word": "healthy",
+              "chinese": "健康的"
+            }
+          ],
+          "reasons": [
+            "健康的名詞／形容詞"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/朋友/m2-2-u3.json",
+      "unit": "m2-2-u3",
+      "vocab_count": 39,
+      "phrase_count": 7,
+      "groups": [
+        {
+          "option_group": "meaning-m2-2-u3-v014",
+          "members": [
+            {
+              "id": "m2-2-u3-v014",
+              "word": "pass",
+              "chinese": "經過；通過"
+            },
+            {
+              "id": "m2-2-u3-v032",
+              "word": "past",
+              "chinese": "經過；過去"
+            }
+          ],
+          "reasons": [
+            "中譯義項相同（忽略括號註解、空白與省略標點）"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-2-u3-v023",
+          "members": [
+            {
+              "id": "m2-2-u3-v023",
+              "word": "pick up",
+              "chinese": "撿起"
+            },
+            {
+              "id": "m2-2-u3-p004",
+              "word": "pick up",
+              "chinese": "撿起"
+            }
+          ],
+          "reasons": [
+            "相同英文或重複的單字／片語"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-2-u3-v027",
+          "members": [
+            {
+              "id": "m2-2-u3-v027",
+              "word": "Good job!",
+              "chinese": "做得好！"
+            },
+            {
+              "id": "m2-2-u3-p005",
+              "word": "Good job!",
+              "chinese": "做得好！"
+            }
+          ],
+          "reasons": [
+            "相同英文或重複的單字／片語"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-2-u3-v028",
+          "members": [
+            {
+              "id": "m2-2-u3-v028",
+              "word": "be proud of",
+              "chinese": "以……為榮"
+            },
+            {
+              "id": "m2-2-u3-p006",
+              "word": "be proud of",
+              "chinese": "以……為榮"
+            }
+          ],
+          "reasons": [
+            "相同英文或重複的單字／片語"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-2-u3-v029",
+          "members": [
+            {
+              "id": "m2-2-u3-v029",
+              "word": "back and forth",
+              "chinese": "來回地"
+            },
+            {
+              "id": "m2-2-u3-p007",
+              "word": "back and forth",
+              "chinese": "來回地"
+            }
+          ],
+          "reasons": [
+            "相同英文或重複的單字／片語"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/朋友/m2-2-u4.json",
+      "unit": "m2-2-u4",
+      "vocab_count": 38,
+      "phrase_count": 9,
+      "groups": [
+        {
+          "option_group": "meaning-m2-2-u4-v017",
+          "members": [
+            {
+              "id": "m2-2-u4-v017",
+              "word": "interesting",
+              "chinese": "有趣的"
+            },
+            {
+              "id": "m2-2-u4-v023",
+              "word": "funny",
+              "chinese": "好笑的；滑稽的"
+            }
+          ],
+          "reasons": [
+            "interesting 與 funny 都可表達有趣"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-2-u4-v031",
+          "members": [
+            {
+              "id": "m2-2-u4-v031",
+              "word": "one another",
+              "chinese": "彼此"
+            },
+            {
+              "id": "m2-2-u4-p004",
+              "word": "one another",
+              "chinese": "彼此"
+            }
+          ],
+          "reasons": [
+            "相同英文或重複的單字／片語"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-2-u4-v036",
+          "members": [
+            {
+              "id": "m2-2-u4-v036",
+              "word": "team up with",
+              "chinese": "跟……組隊"
+            },
+            {
+              "id": "m2-2-u4-p005",
+              "word": "team up with",
+              "chinese": "跟……組隊"
+            }
+          ],
+          "reasons": [
+            "相同英文或重複的單字／片語"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-2-u4-v037",
+          "members": [
+            {
+              "id": "m2-2-u4-v037",
+              "word": "have to",
+              "chinese": "必須"
+            },
+            {
+              "id": "m2-2-u4-p008",
+              "word": "have to",
+              "chinese": "必須"
+            }
+          ],
+          "reasons": [
+            "相同英文或重複的單字／片語"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-2-u4-v038",
+          "members": [
+            {
+              "id": "m2-2-u4-v038",
+              "word": "stay up",
+              "chinese": "熬夜"
+            },
+            {
+              "id": "m2-2-u4-p009",
+              "word": "stay up",
+              "chinese": "熬夜"
+            }
+          ],
+          "reasons": [
+            "相同英文或重複的單字／片語"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/朋友/m2-3-u5.json",
+      "unit": "m2-3-u5",
+      "vocab_count": 41,
+      "phrase_count": 8,
+      "groups": [
+        {
+          "option_group": "meaning-m2-3-u5-v014",
+          "members": [
+            {
+              "id": "m2-3-u5-v014",
+              "word": "trip",
+              "chinese": "旅行"
+            },
+            {
+              "id": "m2-3-u5-v020",
+              "word": "tour",
+              "chinese": "旅遊行程"
+            },
+            {
+              "id": "m2-3-u5-p001",
+              "word": "take a trip",
+              "chinese": "去旅行"
+            }
+          ],
+          "reasons": [
+            "旅行／旅遊行程／去旅行"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-3-u5-v021",
+          "members": [
+            {
+              "id": "m2-3-u5-v021",
+              "word": "spend",
+              "chinese": "花費（金錢；時間）"
+            },
+            {
+              "id": "m2-3-u5-v024",
+              "word": "pay",
+              "chinese": "付錢"
+            },
+            {
+              "id": "m2-3-u5-v028",
+              "word": "cost",
+              "chinese": "花費（金錢）"
+            },
+            {
+              "id": "m2-3-u5-v038",
+              "word": "price",
+              "chinese": "價格；代價"
+            }
+          ],
+          "reasons": [
+            "中譯義項相同（忽略括號註解、空白與省略標點）",
+            "花費／付款／價格，缺少句型搭配線索"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-3-u5-v030",
+          "members": [
+            {
+              "id": "m2-3-u5-v030",
+              "word": "leave for",
+              "chinese": "前往"
+            },
+            {
+              "id": "m2-3-u5-p005",
+              "word": "leave for",
+              "chinese": "前往"
+            }
+          ],
+          "reasons": [
+            "相同英文或重複的單字／片語"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/朋友/m2-3-u6.json",
+      "unit": "m2-3-u6",
+      "vocab_count": 35,
+      "phrase_count": 14,
+      "groups": [
+        {
+          "option_group": "meaning-m2-3-u6-v004",
+          "members": [
+            {
+              "id": "m2-3-u6-v004",
+              "word": "scooter",
+              "chinese": "機車"
+            },
+            {
+              "id": "m2-3-u6-v005",
+              "word": "motorcycle",
+              "chinese": "重型機車"
+            }
+          ],
+          "reasons": [
+            "機車／重型機車範圍重疊"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-3-u6-v019",
+          "members": [
+            {
+              "id": "m2-3-u6-v019",
+              "word": "straight",
+              "chinese": "直直地"
+            },
+            {
+              "id": "m2-3-u6-p006",
+              "word": "go / walk straight",
+              "chinese": "直走"
+            }
+          ],
+          "reasons": [
+            "直直地與直走的單字／片語"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-3-u6-p013",
+          "members": [
+            {
+              "id": "m2-3-u6-p013",
+              "word": "get in / out of",
+              "chinese": "上／下車（汽車、計程車）"
+            },
+            {
+              "id": "m2-3-u6-p014",
+              "word": "get on / off",
+              "chinese": "上／下車（公車、火車等）"
+            }
+          ],
+          "reasons": [
+            "中譯義項相同（忽略括號註解、空白與省略標點）"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/社群/m2-1-u1.json",
+      "unit": "m2-1-u1",
+      "vocab_count": 41,
+      "phrase_count": 0,
+      "groups": [
+        {
+          "option_group": "meaning-m2-1-u1-v005",
+          "members": [
+            {
+              "id": "m2-1-u1-v005",
+              "word": "snow",
+              "chinese": "下雪；雪"
+            },
+            {
+              "id": "m2-1-u1-v025",
+              "word": "snowy",
+              "chinese": "有雪的；下雪的"
+            }
+          ],
+          "reasons": [
+            "下雪的名詞動詞／形容詞"
+          ]
+        },
+        {
+          "option_group": "meaning-m2-1-u1-v006",
+          "members": [
+            {
+              "id": "m2-1-u1-v006",
+              "word": "send",
+              "chinese": "寄；送"
+            },
+            {
+              "id": "m2-1-u1-v030",
+              "word": "mail",
+              "chinese": "郵寄"
+            }
+          ],
+          "reasons": [
+            "寄送／郵寄"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/社群/m2-1-u2.json",
+      "unit": "m2-1-u2",
+      "vocab_count": 42,
+      "phrase_count": 8,
+      "groups": [
+        {
+          "option_group": "meaning-m2-1-u2-v010",
+          "members": [
+            {
+              "id": "m2-1-u2-v010",
+              "word": "end",
+              "chinese": "結尾；結束"
+            },
+            {
+              "id": "m2-1-u2-v029",
+              "word": "finish",
+              "chinese": "完成；結束"
+            }
+          ],
+          "reasons": [
+            "中譯義項相同（忽略括號註解、空白與省略標點）"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/福山/m3-1-u1.json",
+      "unit": "m3-1-u1",
+      "vocab_count": 36,
+      "phrase_count": 7,
+      "groups": [
+        {
+          "option_group": "meaning-m3-1-u1-v009",
+          "members": [
+            {
+              "id": "m3-1-u1-v009",
+              "word": "type",
+              "chinese": "類型"
+            },
+            {
+              "id": "m3-1-u1-v017",
+              "word": "kind",
+              "chinese": "種類"
+            }
+          ],
+          "reasons": [
+            "類型／種類"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/福山/m3-1-u2.json",
+      "unit": "m3-1-u2",
+      "vocab_count": 42,
+      "phrase_count": 2,
+      "groups": [
+        {
+          "option_group": "meaning-m3-1-u2-v001",
+          "members": [
+            {
+              "id": "m3-1-u2-v001",
+              "word": "actor",
+              "chinese": "演員"
+            },
+            {
+              "id": "m3-1-u2-v025",
+              "word": "actress",
+              "chinese": "女演員"
+            }
+          ],
+          "reasons": [
+            "演員包含女演員"
+          ]
+        },
+        {
+          "option_group": "meaning-m3-1-u2-v004",
+          "members": [
+            {
+              "id": "m3-1-u2-v004",
+              "word": "surprise",
+              "chinese": "使驚訝；驚訝"
+            },
+            {
+              "id": "m3-1-u2-v009",
+              "word": "surprised",
+              "chinese": "感到驚訝的"
+            },
+            {
+              "id": "m3-1-u2-v013",
+              "word": "surprising",
+              "chinese": "令人驚訝的"
+            }
+          ],
+          "reasons": [
+            "驚訝與使驚訝的詞性變化"
+          ]
+        },
+        {
+          "option_group": "meaning-m3-1-u2-v005",
+          "members": [
+            {
+              "id": "m3-1-u2-v005",
+              "word": "bored",
+              "chinese": "感到無聊的"
+            },
+            {
+              "id": "m3-1-u2-v015",
+              "word": "boring",
+              "chinese": "無聊的"
+            }
+          ],
+          "reasons": [
+            "boring 的無聊中譯未限定令人，與 bored 重疊"
+          ]
+        },
+        {
+          "option_group": "meaning-m3-1-u2-v023",
+          "members": [
+            {
+              "id": "m3-1-u2-v023",
+              "word": "I'll pass.",
+              "chinese": "不用了。"
+            },
+            {
+              "id": "m3-1-u2-p001",
+              "word": "I'll pass.",
+              "chinese": "不用了。"
+            }
+          ],
+          "reasons": [
+            "相同英文或重複的單字／片語"
+          ]
+        },
+        {
+          "option_group": "meaning-m3-1-u2-v029",
+          "members": [
+            {
+              "id": "m3-1-u2-v029",
+              "word": "lie",
+              "chinese": "謊言；說謊"
+            },
+            {
+              "id": "m3-1-u2-v030",
+              "word": "fake",
+              "chinese": "假的；偽造的"
+            },
+            {
+              "id": "m3-1-u2-v038",
+              "word": "trick",
+              "chinese": "騙；詭計"
+            }
+          ],
+          "reasons": [
+            "謊言／偽造／欺騙在無語境時難排除其他合理字"
+          ]
+        },
+        {
+          "option_group": "meaning-m3-1-u2-v040",
+          "members": [
+            {
+              "id": "m3-1-u2-v040",
+              "word": "right away",
+              "chinese": "立刻；馬上"
+            },
+            {
+              "id": "m3-1-u2-p002",
+              "word": "right away",
+              "chinese": "立刻；馬上"
+            }
+          ],
+          "reasons": [
+            "相同英文或重複的單字／片語"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/福山/m3-2-u3.json",
+      "unit": "m3-2-u3",
+      "vocab_count": 43,
+      "phrase_count": 3,
+      "groups": [
+        {
+          "option_group": "meaning-m3-2-u3-v015",
+          "members": [
+            {
+              "id": "m3-2-u3-v015",
+              "word": "blow up",
+              "chinese": "爆炸"
+            },
+            {
+              "id": "m3-2-u3-p001",
+              "word": "blow up",
+              "chinese": "爆炸"
+            }
+          ],
+          "reasons": [
+            "相同英文或重複的單字／片語"
+          ]
+        },
+        {
+          "option_group": "meaning-m3-2-u3-v017",
+          "members": [
+            {
+              "id": "m3-2-u3-v017",
+              "word": "in time",
+              "chinese": "及時"
+            },
+            {
+              "id": "m3-2-u3-p002",
+              "word": "in time",
+              "chinese": "及時"
+            }
+          ],
+          "reasons": [
+            "相同英文或重複的單字／片語"
+          ]
+        },
+        {
+          "option_group": "meaning-m3-2-u3-v043",
+          "members": [
+            {
+              "id": "m3-2-u3-v043",
+              "word": "cheer... up",
+              "chinese": "使⋯振作起來"
+            },
+            {
+              "id": "m3-2-u3-p003",
+              "word": "cheer... up",
+              "chinese": "使⋯振作起來"
+            }
+          ],
+          "reasons": [
+            "相同英文或重複的單字／片語"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/福山/m3-2-u4.json",
+      "unit": "m3-2-u4",
+      "vocab_count": 38,
+      "phrase_count": 0,
+      "groups": [
+        {
+          "option_group": "meaning-m3-2-u4-v009",
+          "members": [
+            {
+              "id": "m3-2-u4-v009",
+              "word": "enter",
+              "chinese": "輸入；進入"
+            },
+            {
+              "id": "m3-2-u4-v027",
+              "word": "type",
+              "chinese": "打字"
+            }
+          ],
+          "reasons": [
+            "輸入與打字的動作重疊"
+          ]
+        },
+        {
+          "option_group": "meaning-m3-2-u4-v011",
+          "members": [
+            {
+              "id": "m3-2-u4-v011",
+              "word": "whether",
+              "chinese": "是否"
+            },
+            {
+              "id": "m3-2-u4-v016",
+              "word": "if",
+              "chinese": "是否"
+            }
+          ],
+          "reasons": [
+            "中譯義項相同（忽略括號註解、空白與省略標點）"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/雄工/h1-2-7.json",
+      "unit": "h1-2-7",
+      "vocab_count": 13,
+      "phrase_count": 5,
+      "groups": []
+    },
+    {
+      "file": "data/雄工/h1-2-8.json",
+      "unit": "h1-2-8",
+      "vocab_count": 14,
+      "phrase_count": 6,
+      "groups": [
+        {
+          "option_group": "guilt",
+          "members": [
+            {
+              "id": "h1-2-8-v008",
+              "word": "guilty",
+              "chinese": "內疚的"
+            },
+            {
+              "id": "h1-2-8-v009",
+              "word": "guilt",
+              "chinese": "內疚"
+            },
+            {
+              "id": "h1-2-8-v010",
+              "word": "guiltily",
+              "chinese": "內疚地"
+            }
+          ],
+          "reasons": [
+            "保留既有互斥分組"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/雄工/h1-4-u3.json",
+      "unit": "h1-4-u3",
+      "vocab_count": 14,
+      "phrase_count": 5,
+      "groups": []
+    },
+    {
+      "file": "data/雄工/h1-4-u4.json",
+      "unit": "h1-4-u4",
+      "vocab_count": 20,
+      "phrase_count": 5,
+      "groups": [
+        {
+          "option_group": "meaning-h1-4-u4-v001",
+          "members": [
+            {
+              "id": "h1-4-u4-v001",
+              "word": "consider",
+              "chinese": "考慮"
+            },
+            {
+              "id": "h1-4-u4-v002",
+              "word": "consideration",
+              "chinese": "考慮"
+            }
+          ],
+          "reasons": [
+            "中譯義項相同（忽略括號註解、空白與省略標點）"
+          ]
+        },
+        {
+          "option_group": "meaning-h1-4-u4-v008",
+          "members": [
+            {
+              "id": "h1-4-u4-v008",
+              "word": "include",
+              "chinese": "包括"
+            },
+            {
+              "id": "h1-4-u4-v009",
+              "word": "including",
+              "chinese": "包含"
+            }
+          ],
+          "reasons": [
+            "包括／包含"
+          ]
+        },
+        {
+          "option_group": "meaning-h1-4-u4-v011",
+          "members": [
+            {
+              "id": "h1-4-u4-v011",
+              "word": "rapidly",
+              "chinese": "迅速地"
+            },
+            {
+              "id": "h1-4-u4-v012",
+              "word": "rapid",
+              "chinese": "迅速的"
+            }
+          ],
+          "reasons": [
+            "迅速的／迅速地"
+          ]
+        },
+        {
+          "option_group": "meaning-h1-4-u4-v017",
+          "members": [
+            {
+              "id": "h1-4-u4-v017",
+              "word": "harmful",
+              "chinese": "有害的"
+            },
+            {
+              "id": "h1-4-u4-v018",
+              "word": "harm",
+              "chinese": "傷害"
+            }
+          ],
+          "reasons": [
+            "傷害／有害的詞性變化"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/雄工/h1-6-u5.json",
+      "unit": "h1-6-u5",
+      "vocab_count": 16,
+      "phrase_count": 4,
+      "groups": [
+        {
+          "option_group": "meaning-h1-6-u5-v010",
+          "members": [
+            {
+              "id": "h1-6-u5-v010",
+              "word": "protect",
+              "chinese": "保護"
+            },
+            {
+              "id": "h1-6-u5-v010-1",
+              "word": "protection",
+              "chinese": "保護"
+            }
+          ],
+          "reasons": [
+            "中譯義項相同（忽略括號註解、空白與省略標點）"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/雄工/h1-6-u6.json",
+      "unit": "h1-6-u6",
+      "vocab_count": 29,
+      "phrase_count": 9,
+      "groups": [
+        {
+          "option_group": "meaning-h1-6-u6-v010",
+          "members": [
+            {
+              "id": "h1-6-u6-v010",
+              "word": "specialized",
+              "chinese": "專業的；專門的"
+            },
+            {
+              "id": "h1-6-u6-v023",
+              "word": "professional",
+              "chinese": "專業的；職業的"
+            }
+          ],
+          "reasons": [
+            "中譯義項相同（忽略括號註解、空白與省略標點）"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/雄工/h2-1-u1.json",
+      "unit": "h2-1-u1",
+      "vocab_count": 15,
+      "phrase_count": 6,
+      "groups": []
+    },
+    {
+      "file": "data/雄工/h2-1-u2.json",
+      "unit": "h2-1-u2",
+      "vocab_count": 17,
+      "phrase_count": 7,
+      "groups": [
+        {
+          "option_group": "meaning-h2-1-u2-v002",
+          "members": [
+            {
+              "id": "h2-1-u2-v002",
+              "word": "weird",
+              "chinese": "奇怪的"
+            },
+            {
+              "id": "h2-1-u2-v012",
+              "word": "odd",
+              "chinese": "奇怪的"
+            }
+          ],
+          "reasons": [
+            "中譯義項相同（忽略括號註解、空白與省略標點）"
+          ]
+        },
+        {
+          "option_group": "meaning-h2-1-u2-v009",
+          "members": [
+            {
+              "id": "h2-1-u2-v009",
+              "word": "support",
+              "chinese": "支持"
+            },
+            {
+              "id": "h2-1-u2-v016",
+              "word": "assist",
+              "chinese": "協助"
+            }
+          ],
+          "reasons": [
+            "支持／協助在無語境時可能互通"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/雄工/h2-1-u3.json",
+      "unit": "h2-1-u3",
+      "vocab_count": 18,
+      "phrase_count": 6,
+      "groups": [
+        {
+          "option_group": "meaning-h2-1-u3-v002",
+          "members": [
+            {
+              "id": "h2-1-u3-v002",
+              "word": "amusing",
+              "chinese": "有趣的；好笑的"
+            },
+            {
+              "id": "h2-1-u3-v015",
+              "word": "enjoyable",
+              "chinese": "令人愉快的"
+            }
+          ],
+          "reasons": [
+            "有趣／令人愉快的近義描述"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/雄工/h2-1-u4.json",
+      "unit": "h2-1-u4",
+      "vocab_count": 19,
+      "phrase_count": 4,
+      "groups": [
+        {
+          "option_group": "meaning-h2-1-u4-v013",
+          "members": [
+            {
+              "id": "h2-1-u4-v013",
+              "word": "reduce",
+              "chinese": "減少；降低"
+            },
+            {
+              "id": "h2-1-u4-p004",
+              "word": "cut down on",
+              "chinese": "減少；削減"
+            }
+          ],
+          "reasons": [
+            "中譯義項相同（忽略括號註解、空白與省略標點）"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/雄工/h2-1-u5.json",
+      "unit": "h2-1-u5",
+      "vocab_count": 16,
+      "phrase_count": 6,
+      "groups": []
+    },
+    {
+      "file": "data/雄工/h2-1-u6.json",
+      "unit": "h2-1-u6",
+      "vocab_count": 18,
+      "phrase_count": 4,
+      "groups": []
+    },
+    {
+      "file": "data/雄工/h2-2-u3.json",
+      "unit": "h2-2-u3",
+      "vocab_count": 18,
+      "phrase_count": 6,
+      "groups": [
+        {
+          "option_group": "meaning-h2-2-u3-v002",
+          "members": [
+            {
+              "id": "h2-2-u3-v002",
+              "word": "amusing",
+              "chinese": "有趣的；好玩的"
+            },
+            {
+              "id": "h2-2-u3-v015",
+              "word": "enjoyable",
+              "chinese": "令人愉快的"
+            }
+          ],
+          "reasons": [
+            "好玩／令人愉快的近義描述"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/雄工/h2-2-u4.json",
+      "unit": "h2-2-u4",
+      "vocab_count": 19,
+      "phrase_count": 4,
+      "groups": [
+        {
+          "option_group": "meaning-h2-2-u4-v013",
+          "members": [
+            {
+              "id": "h2-2-u4-v013",
+              "word": "reduce",
+              "chinese": "減少；降低"
+            },
+            {
+              "id": "h2-2-u4-p004",
+              "word": "cut down on",
+              "chinese": "減少"
+            }
+          ],
+          "reasons": [
+            "中譯義項相同（忽略括號註解、空白與省略標點）"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/雄工/h2-2-u5.json",
+      "unit": "h2-2-u5",
+      "vocab_count": 16,
+      "phrase_count": 6,
+      "groups": []
+    },
+    {
+      "file": "data/雄工/h2-2-u6.json",
+      "unit": "h2-2-u6",
+      "vocab_count": 18,
+      "phrase_count": 4,
+      "groups": []
+    },
+    {
+      "file": "data/鼓山哥哥/gg-u1.json",
+      "unit": "gg-u1",
+      "vocab_count": 8,
+      "phrase_count": 2,
+      "groups": []
+    },
+    {
+      "file": "data/鼓山哥哥/gg-u2.json",
+      "unit": "gg-u2",
+      "vocab_count": 8,
+      "phrase_count": 2,
+      "groups": [
+        {
+          "option_group": "meaning-gg-u2-v002",
+          "members": [
+            {
+              "id": "gg-u2-v002",
+              "word": "by bus",
+              "chinese": "搭公車"
+            },
+            {
+              "id": "gg-u2-v003",
+              "word": "by car",
+              "chinese": "搭車"
+            },
+            {
+              "id": "gg-u2-v004",
+              "word": "by MRT",
+              "chinese": "搭捷運"
+            },
+            {
+              "id": "gg-u2-v006",
+              "word": "by taxi",
+              "chinese": "搭計程車"
+            },
+            {
+              "id": "gg-u2-v007",
+              "word": "by train",
+              "chinese": "搭火車"
+            }
+          ],
+          "reasons": [
+            "搭車的中譯涵蓋多種車輛，不能用交通工具種類排除"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "data/鼓山哥哥/gg-u3.json",
+      "unit": "gg-u3",
+      "vocab_count": 8,
+      "phrase_count": 2,
+      "groups": []
+    },
+    {
+      "file": "data/鼓山哥哥/gg-u4.json",
+      "unit": "gg-u4",
+      "vocab_count": 7,
+      "phrase_count": 2,
+      "groups": []
+    },
+    {
+      "file": "data/鼓山弟弟/gd-u1.json",
+      "unit": "gd-u1",
+      "vocab_count": 7,
+      "phrase_count": 2,
+      "groups": []
+    },
+    {
+      "file": "data/鼓山弟弟/gd-u2.json",
+      "unit": "gd-u2",
+      "vocab_count": 7,
+      "phrase_count": 2,
+      "groups": []
+    },
+    {
+      "file": "data/鼓山弟弟/gd-u3.json",
+      "unit": "gd-u3",
+      "vocab_count": 6,
+      "phrase_count": 2,
+      "groups": []
+    },
+    {
+      "file": "data/鼓山弟弟/gd-u4.json",
+      "unit": "gd-u4",
+      "vocab_count": 7,
+      "phrase_count": 2,
+      "groups": []
+    }
+  ]
+}

@@ -68,6 +68,7 @@
           "sentence_chinese": "我姊姊一直都很苗條。"
         },
         {
+          "option_group": "meaning-m3-1-u1-v009",
           "id": "m3-1-u1-v009",
           "word": "type",
           "part_of_speech": "名",
@@ -132,6 +133,7 @@
           "sentence_chinese": "她已經贏過這項競賽兩次。"
         },
         {
+          "option_group": "meaning-m3-1-u1-v009",
           "id": "m3-1-u1-v017",
           "word": "kind",
           "part_of_speech": "名",

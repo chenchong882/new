@@ -116,6 +116,7 @@
           "sentence_chinese": "我們祈禱那隻幼犬會獲救。"
         },
         {
+          "option_group": "meaning-m3-2-u3-v015",
           "id": "m3-2-u3-v015",
           "word": "blow up",
           "part_of_speech": "片",
@@ -132,6 +133,7 @@
           "sentence_chinese": "有人看見那隻幼犬躺在草地上。"
         },
         {
+          "option_group": "meaning-m3-2-u3-v017",
           "id": "m3-2-u3-v017",
           "word": "in time",
           "part_of_speech": "片",
@@ -340,6 +342,7 @@
           "sentence_chinese": "那隻失蹤的幼犬已經找到了。"
         },
         {
+          "option_group": "meaning-m3-2-u3-v043",
           "id": "m3-2-u3-v043",
           "word": "cheer... up",
           "part_of_speech": "片",
@@ -350,6 +353,7 @@
       ],
       "phrases": [
         {
+          "option_group": "meaning-m3-2-u3-v015",
           "id": "m3-2-u3-p001",
           "phrase": "blow up",
           "chinese": "爆炸",
@@ -357,6 +361,7 @@
           "sentence_chinese": "那座舊橋被炸毀了。"
         },
         {
+          "option_group": "meaning-m3-2-u3-v017",
           "id": "m3-2-u3-p002",
           "phrase": "in time",
           "chinese": "及時",
@@ -364,6 +369,7 @@
           "sentence_chinese": "那個男孩及時獲救了。"
         },
         {
+          "option_group": "meaning-m3-2-u3-v043",
           "id": "m3-2-u3-p003",
           "phrase": "cheer... up",
           "chinese": "使⋯振作起來",

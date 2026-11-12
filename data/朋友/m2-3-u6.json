@@ -33,6 +33,7 @@
           "chinese": "機車",
           "sentence": "My mom goes to work by scooter.",
           "sentence_chinese": "我媽媽騎機車上班。",
+          "option_group": "meaning-m2-3-u6-v004",
           "id": "m2-3-u6-v004"
         },
         {
@@ -41,6 +42,7 @@
           "chinese": "重型機車",
           "sentence": "He rides a motorcycle to the station.",
           "sentence_chinese": "他騎重型機車去車站。",
+          "option_group": "meaning-m2-3-u6-v004",
           "id": "m2-3-u6-v005"
         },
         {
@@ -153,6 +155,7 @@
           "chinese": "直直地",
           "sentence": "Go straight for three blocks.",
           "sentence_chinese": "直走三個街區。",
+          "option_group": "meaning-m2-3-u6-v019",
           "id": "m2-3-u6-v019"
         },
         {
@@ -321,6 +324,7 @@
           "sentence_chinese": "體育館在圖書館和寺廟之間。"
         },
         {
+          "option_group": "meaning-m2-3-u6-v019",
           "id": "m2-3-u6-p006",
           "phrase": "go / walk straight",
           "chinese": "直走",
@@ -370,6 +374,7 @@
           "sentence_chinese": "Ann 昨天走路去劇院。"
         },
         {
+          "option_group": "meaning-m2-3-u6-p013",
           "id": "m2-3-u6-p013",
           "phrase": "get in / out of",
           "chinese": "上／下車（汽車、計程車）",
@@ -377,6 +382,7 @@
           "sentence_chinese": "在轉角處上計程車。"
         },
         {
+          "option_group": "meaning-m2-3-u6-p013",
           "id": "m2-3-u6-p014",
           "phrase": "get on / off",
           "chinese": "上／下車（公車、火車等）",

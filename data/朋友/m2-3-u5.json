@@ -108,6 +108,7 @@
           "sentence_chinese": "我會去花店買一些玫瑰。"
         },
         {
+          "option_group": "meaning-m2-3-u5-v014",
           "id": "m2-3-u5-v014",
           "word": "trip",
           "part_of_speech": "名",
@@ -156,6 +157,7 @@
           "sentence_chinese": "我們打算品嚐一些當地食物。"
         },
         {
+          "option_group": "meaning-m2-3-u5-v014",
           "id": "m2-3-u5-v020",
           "word": "tour",
           "part_of_speech": "名",
@@ -164,6 +166,7 @@
           "sentence_chinese": "這趟旅遊行程將花費大約 3 小時。"
         },
         {
+          "option_group": "meaning-m2-3-u5-v021",
           "id": "m2-3-u5-v021",
           "word": "spend",
           "part_of_speech": "動",
@@ -188,6 +191,7 @@
           "sentence_chinese": "每位學生都將為這趟旅行支付 50 元。"
         },
         {
+          "option_group": "meaning-m2-3-u5-v021",
           "id": "m2-3-u5-v024",
           "word": "pay",
           "part_of_speech": "動",
@@ -220,6 +224,7 @@
           "sentence_chinese": "我們會在行程結束後決定去哪裡吃飯。"
         },
         {
+          "option_group": "meaning-m2-3-u5-v021",
           "id": "m2-3-u5-v028",
           "word": "cost",
           "part_of_speech": "動",
@@ -236,6 +241,7 @@
           "sentence_chinese": "這台電扇會讓房間保持涼爽。"
         },
         {
+          "option_group": "meaning-m2-3-u5-v030",
           "id": "m2-3-u5-v030",
           "word": "leave for",
           "part_of_speech": "片",
@@ -300,6 +306,7 @@
           "sentence_chinese": "我們會坐在橋邊的矮牆上。"
         },
         {
+          "option_group": "meaning-m2-3-u5-v021",
           "id": "m2-3-u5-v038",
           "word": "price",
           "part_of_speech": "名",
@@ -334,6 +341,7 @@
       ],
       "phrases": [
         {
+          "option_group": "meaning-m2-3-u5-v014",
           "id": "m2-3-u5-p001",
           "phrase": "take a trip",
           "chinese": "去旅行",
@@ -362,6 +370,7 @@
           "sentence_chinese": "我也是！它也是我最喜愛的食物！"
         },
         {
+          "option_group": "meaning-m2-3-u5-v030",
           "id": "m2-3-u5-p005",
           "phrase": "leave for",
           "chinese": "前往",

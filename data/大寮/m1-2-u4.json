@@ -4,6 +4,7 @@
       "title": "U4",
       "vocab": [
         {
+          "option_group": "meaning-m1-2-u4-v001",
           "id": "m1-2-u4-v001",
           "word": "listen",
           "part_of_speech": "動",
@@ -12,6 +13,7 @@
           "sentence_chinese": "我可以在這裡聽音樂。"
         },
         {
+          "option_group": "meaning-m1-2-u4-v002",
           "id": "m1-2-u4-v002",
           "word": "voice",
           "part_of_speech": "名",
@@ -20,6 +22,7 @@
           "sentence_chinese": "我聽得到你的聲音。"
         },
         {
+          "option_group": "meaning-m1-2-u4-v003",
           "id": "m1-2-u4-v003",
           "word": "stand up",
           "part_of_speech": "片",
@@ -28,6 +31,7 @@
           "sentence_chinese": "你現在能站起來嗎？"
         },
         {
+          "option_group": "meaning-m1-2-u4-v004",
           "id": "m1-2-u4-v004",
           "word": "sit down",
           "part_of_speech": "片",
@@ -36,6 +40,7 @@
           "sentence_chinese": "你可以坐在這裡。"
         },
         {
+          "option_group": "meaning-m1-2-u4-v005",
           "id": "m1-2-u4-v005",
           "word": "take a photo",
           "part_of_speech": "片",
@@ -60,6 +65,7 @@
           "sentence_chinese": "你可以拿這裡的任何一本書。"
         },
         {
+          "option_group": "meaning-m1-2-u4-v002",
           "id": "m1-2-u4-v008",
           "word": "noise",
           "part_of_speech": "名",
@@ -124,6 +130,7 @@
           "sentence_chinese": "你會唱這首歌嗎？"
         },
         {
+          "option_group": "meaning-m1-2-u4-v016",
           "id": "m1-2-u4-v016",
           "word": "check out",
           "part_of_speech": "片",
@@ -140,6 +147,7 @@
           "sentence_chinese": "我們現在可以過馬路嗎？"
         },
         {
+          "option_group": "meaning-m1-2-u4-v018",
           "id": "m1-2-u4-v018",
           "word": "road",
           "part_of_speech": "名",
@@ -148,6 +156,7 @@
           "sentence_chinese": "你不可以在馬路上玩耍。"
         },
         {
+          "option_group": "meaning-m1-2-u4-v019",
           "id": "m1-2-u4-v019",
           "word": "watch out",
           "part_of_speech": "片",
@@ -164,6 +173,7 @@
           "sentence_chinese": "你看得到那隻真的鳥嗎？"
         },
         {
+          "option_group": "meaning-m1-2-u4-v021",
           "id": "m1-2-u4-v021",
           "word": "all the time",
           "part_of_speech": "片",
@@ -172,6 +182,7 @@
           "sentence_chinese": "你不可以一直看電視。"
         },
         {
+          "option_group": "meaning-m1-2-u4-v022",
           "id": "m1-2-u4-v022",
           "word": "Guess what?",
           "part_of_speech": "片",
@@ -268,6 +279,7 @@
           "sentence_chinese": "我可以為你製作一張特別的卡片。"
         },
         {
+          "option_group": "meaning-m1-2-u4-v018",
           "id": "m1-2-u4-v034",
           "word": "lane",
           "part_of_speech": "名",
@@ -276,6 +288,7 @@
           "sentence_chinese": "我們可以沿著這條小巷走。"
         },
         {
+          "option_group": "meaning-m1-2-u4-v018",
           "id": "m1-2-u4-v035",
           "word": "way",
           "part_of_speech": "名",
@@ -294,6 +307,7 @@
       ],
       "phrases": [
         {
+          "option_group": "meaning-m1-2-u4-v003",
           "id": "m1-2-u4-p001",
           "phrase": "stand up",
           "chinese": "站起來",
@@ -301,6 +315,7 @@
           "sentence_chinese": "當老師進入教室時，學生們必須起立。"
         },
         {
+          "option_group": "meaning-m1-2-u4-v004",
           "id": "m1-2-u4-p002",
           "phrase": "sit down",
           "chinese": "坐下",
@@ -308,6 +323,7 @@
           "sentence_chinese": "你看起來好累。請坐下。"
         },
         {
+          "option_group": "meaning-m1-2-u4-v005",
           "id": "m1-2-u4-p003",
           "phrase": "take a photo",
           "chinese": "拍照",
@@ -315,6 +331,7 @@
           "sentence_chinese": "別忘記拍攝此處美麗景色的照片。"
         },
         {
+          "option_group": "meaning-m1-2-u4-v001",
           "id": "m1-2-u4-p004",
           "phrase": "listen to",
           "chinese": "聽……",
@@ -329,6 +346,7 @@
           "sentence_chinese": "我可以一再地聽這首歌。"
         },
         {
+          "option_group": "meaning-m1-2-u4-v016",
           "id": "m1-2-u4-p006",
           "phrase": "check out",
           "chinese": "查看",
@@ -336,6 +354,7 @@
           "sentence_chinese": "我們今天可以去看看那座新公園嗎？"
         },
         {
+          "option_group": "meaning-m1-2-u4-v019",
           "id": "m1-2-u4-p007",
           "phrase": "watch out",
           "chinese": "小心；注意",
@@ -343,6 +362,7 @@
           "sentence_chinese": "小心！有車開過來了。"
         },
         {
+          "option_group": "meaning-m1-2-u4-v021",
           "id": "m1-2-u4-p008",
           "phrase": "all the time",
           "chinese": "一直",
@@ -350,6 +370,7 @@
           "sentence_chinese": "你不可以一直玩遊戲。"
         },
         {
+          "option_group": "meaning-m1-2-u4-v022",
           "id": "m1-2-u4-p009",
           "phrase": "Guess what?",
           "chinese": "你猜怎麼著？",

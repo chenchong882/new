@@ -3,9 +3,9 @@
     "m3-1-u1": {
       "title": "U1",
       "vocab": [
-        {"id":"m3-1-u1-v001","word":"subject","part_of_speech":"名","chinese":"學科","sentence":"History has always been my favorite subject.","sentence_chinese":"歷史一直是我最喜歡的學科。"},
+        {"option_group": "meaning-m3-1-u1-v001", "id":"m3-1-u1-v001","word":"subject","part_of_speech":"名","chinese":"學科","sentence":"History has always been my favorite subject.","sentence_chinese":"歷史一直是我最喜歡的學科。"},
         {"id":"m3-1-u1-v002","word":"history","part_of_speech":"名","chinese":"歷史","sentence":"We have studied history for two weeks.","sentence_chinese":"我們已經讀歷史兩週了。"},
-        {"id":"m3-1-u1-v003","word":"topic","part_of_speech":"名","chinese":"主題","sentence":"The topic has been interesting so far.","sentence_chinese":"到目前為止，這個主題很有趣。"},
+        {"option_group": "meaning-m3-1-u1-v001", "id":"m3-1-u1-v003","word":"topic","part_of_speech":"名","chinese":"主題","sentence":"The topic has been interesting so far.","sentence_chinese":"到目前為止，這個主題很有趣。"},
         {"id":"m3-1-u1-v004","word":"hairdryer","part_of_speech":"名","chinese":"吹風機","sentence":"My sister has used the hairdryer already.","sentence_chinese":"我姊姊已經用過吹風機了。"},
         {"id":"m3-1-u1-v005","word":"yet","part_of_speech":"副","chinese":"還；尚未","sentence":"I haven't finished my homework yet.","sentence_chinese":"我還沒完成作業。"},
         {"id":"m3-1-u1-v006","word":"century","part_of_speech":"名","chinese":"世紀","sentence":"This old building has stood here for a century.","sentence_chinese":"這棟老建築已經在這裡一個世紀了。"},

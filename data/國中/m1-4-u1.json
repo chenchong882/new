@@ -5,7 +5,7 @@
       "vocab": [
         { "id": "m1-4-u1-v001", "word": "like", "part_of_speech": "動／介", "chinese": "喜歡；像...", "sentence": "I like the school team.", "sentence_chinese": "我喜歡校隊。" },
         { "id": "m1-4-u1-v002", "word": "sport", "part_of_speech": "名", "chinese": "運動", "sentence": "His body is perfect for the sport.", "sentence_chinese": "他的體格非常適合這項運動。" },
-        { "id": "m1-4-u1-v003", "word": "much", "part_of_speech": "副／形", "chinese": "多(的)", "sentence": "I like basketball very much.", "sentence_chinese": "我非常喜歡籃球。" },
+        { "option_group": "meaning-m1-4-u1-v003", "id": "m1-4-u1-v003", "word": "much", "part_of_speech": "副／形", "chinese": "多(的)", "sentence": "I like basketball very much.", "sentence_chinese": "我非常喜歡籃球。" },
         { "id": "m1-4-u1-v004", "word": "team", "part_of_speech": "名", "chinese": "隊；組", "sentence": "I'm on the school team.", "sentence_chinese": "我是校隊成員。" },
         { "id": "m1-4-u1-v005", "word": "practice", "part_of_speech": "動／名", "chinese": "練習", "sentence": "James practices every day.", "sentence_chinese": "詹姆士每天練習。" },
         { "id": "m1-4-u1-v006", "word": "every", "part_of_speech": "形", "chinese": "每一", "sentence": "I swim with my friends every Sunday.", "sentence_chinese": "我每個星期天都和朋友去游泳。" },
@@ -42,7 +42,7 @@
         { "id": "m1-4-u1-p002", "phrase": "fly a kite", "chinese": "放風箏", "sentence": "We fly a kite at the park on Sundays.", "sentence_chinese": "我們星期天都會去公園放風箏。" },
         { "id": "m1-4-u1-p003", "phrase": "make a cake", "chinese": "做蛋糕", "sentence": "My mom makes a cake for me every year.", "sentence_chinese": "我媽媽每年都會為我做一個蛋糕。" },
         { "id": "m1-4-u1-p004", "phrase": "put one's all", "chinese": "盡全力", "sentence": "He puts his all into the game.", "sentence_chinese": "他在比賽中盡了全力。" },
-        { "id": "m1-4-u1-p005", "phrase": "a lot of", "chinese": "很多的", "sentence": "There are a lot of basketball players.", "sentence_chinese": "有很多籃球員。" },
+        { "option_group": "meaning-m1-4-u1-v003", "id": "m1-4-u1-p005", "phrase": "a lot of", "chinese": "很多的", "sentence": "There are a lot of basketball players.", "sentence_chinese": "有很多籃球員。" },
         { "id": "m1-4-u1-p006", "phrase": "on the other hand", "chinese": "另一方面", "sentence": "On the other hand, Curry is not very tall.", "sentence_chinese": "另一方面，柯瑞並不是很高。" },
         { "id": "m1-4-u1-p007", "phrase": "make up for...", "chinese": "彌補...", "sentence": "He makes up for it with a lot of practice.", "sentence_chinese": "他靠大量的練習來彌補。" },
         { "id": "m1-4-u1-p008", "phrase": "stand out", "chinese": "突出", "sentence": "He stands out in every game.", "sentence_chinese": "他在每一場比賽中都很突出。" }

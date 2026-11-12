@@ -156,6 +156,7 @@
                     "sentence_chinese": "我爸爸開車去上班。"
                 },
                 {
+                    "option_group": "meaning-m1-4-u2-v020",
                     "id": "m1-4-u2-v020",
                     "word": "often",
                     "part_of_speech": "副",
@@ -164,6 +165,7 @@
                     "sentence_chinese": "你多常看電視？"
                 },
                 {
+                    "option_group": "meaning-m1-4-u2-v020",
                     "id": "m1-4-u2-v021",
                     "word": "usually",
                     "part_of_speech": "副",

@@ -68,6 +68,7 @@
           "sentence_chinese": "我不確定該按哪個按鈕。"
         },
         {
+          "option_group": "meaning-m3-2-u4-v009",
           "id": "m3-2-u4-v009",
           "word": "enter",
           "part_of_speech": "動",
@@ -84,6 +85,7 @@
           "sentence_chinese": "你能告訴我喚醒字詞是什麼嗎？"
         },
         {
+          "option_group": "meaning-m3-2-u4-v011",
           "id": "m3-2-u4-v011",
           "word": "whether",
           "part_of_speech": "連",
@@ -124,6 +126,7 @@
           "sentence_chinese": "我想知道是否能透過這個應用程式買票。"
         },
         {
+          "option_group": "meaning-m3-2-u4-v011",
           "id": "m3-2-u4-v016",
           "word": "if",
           "part_of_speech": "連",
@@ -212,6 +215,7 @@
           "sentence_chinese": "請示範如何把照片存到雲端。"
         },
         {
+          "option_group": "meaning-m3-2-u4-v009",
           "id": "m3-2-u4-v027",
           "word": "type",
           "part_of_speech": "動",

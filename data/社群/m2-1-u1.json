@@ -36,6 +36,7 @@
           "sentence_chinese": "我們在雪中玩得很開心。"
         },
         {
+          "option_group": "meaning-m2-1-u1-v005",
           "id": "m2-1-u1-v005",
           "word": "snow",
           "part_of_speech": "動；名",
@@ -44,6 +45,7 @@
           "sentence_chinese": "這裡昨晚下雪了。"
         },
         {
+          "option_group": "meaning-m2-1-u1-v006",
           "id": "m2-1-u1-v006",
           "word": "send",
           "part_of_speech": "動",
@@ -196,6 +198,7 @@
           "sentence_chinese": "昨天天氣晴朗。"
         },
         {
+          "option_group": "meaning-m2-1-u1-v005",
           "id": "m2-1-u1-v025",
           "word": "snowy",
           "part_of_speech": "形",
@@ -236,6 +239,7 @@
           "sentence_chinese": "爸爸買了一些點心給我們。"
         },
         {
+          "option_group": "meaning-m2-1-u1-v006",
           "id": "m2-1-u1-v030",
           "word": "mail",
           "part_of_speech": "動",

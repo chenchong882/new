@@ -76,6 +76,7 @@
           "part_of_speech": "形"
         },
         {
+          "option_group": "meaning-m2-1-u2-v010",
           "id": "m2-1-u2-v010",
           "word": "end",
           "chinese": "結尾；結束",
@@ -228,6 +229,7 @@
           "part_of_speech": "形／動"
         },
         {
+          "option_group": "meaning-m2-1-u2-v010",
           "id": "m2-1-u2-v029",
           "word": "finish",
           "chinese": "完成；結束",

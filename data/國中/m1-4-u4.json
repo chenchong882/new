@@ -52,6 +52,7 @@
                     "sentence_chinese": "我們需要一些水。"
                 },
                 {
+                    "option_group": "meaning-m1-4-u4-v007",
                     "id": "m1-4-u4-v007",
                     "word": "glass",
                     "part_of_speech": "名",
@@ -92,6 +93,7 @@
                     "sentence_chinese": "他仍然很餓。"
                 },
                 {
+                    "option_group": "meaning-m1-4-u4-v012",
                     "id": "m1-4-u4-v012",
                     "word": "thing",
                     "part_of_speech": "名",
@@ -108,6 +110,7 @@
                     "sentence_chinese": "請把鹽遞給我。"
                 },
                 {
+                    "option_group": "meaning-m1-4-u4-v012",
                     "id": "m1-4-u4-v014",
                     "word": "something",
                     "part_of_speech": "代",
@@ -172,6 +175,7 @@
                     "sentence_chinese": "我們看電影時吃爆米花。"
                 },
                 {
+                    "option_group": "meaning-m1-4-u4-v007",
                     "id": "m1-4-u4-v022",
                     "word": "cup",
                     "part_of_speech": "名",

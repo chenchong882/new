@@ -4,6 +4,7 @@
             "title": "U4",
             "vocab": [
                 {
+                    "option_group": "meaning-h1-4-u4-v001",
                     "id": "h1-4-u4-v001",
                     "word": "consider",
                     "part_of_speech": "動",
@@ -12,6 +13,7 @@
                     "sentence_chinese": "派翠克正在考慮買快樂兒童餐來獲得免費玩具。"
                 },
                 {
+                    "option_group": "meaning-h1-4-u4-v001",
                     "id": "h1-4-u4-v002",
                     "word": "consideration",
                     "part_of_speech": "名",
@@ -60,6 +62,7 @@
                     "sentence_chinese": "地震突然發生，嚇到了我父母。"
                 },
                 {
+                    "option_group": "meaning-h1-4-u4-v008",
                     "id": "h1-4-u4-v008",
                     "word": "include",
                     "part_of_speech": "動",
@@ -68,6 +71,7 @@
                     "sentence_chinese": "這份套餐包括一份主菜和一杯飲料。"
                 },
                 {
+                    "option_group": "meaning-h1-4-u4-v008",
                     "id": "h1-4-u4-v009",
                     "word": "including",
                     "part_of_speech": "介",
@@ -84,6 +88,7 @@
                     "sentence_chinese": "麥可做了一個手勢告訴他的隊員投籃。"
                 },
                 {
+                    "option_group": "meaning-h1-4-u4-v011",
                     "id": "h1-4-u4-v011",
                     "word": "rapidly",
                     "part_of_speech": "副",
@@ -92,6 +97,7 @@
                     "sentence_chinese": "如果受歡迎的 YouTuber 推廣我們的產品，我們的銷售量會迅速增加。"
                 },
                 {
+                    "option_group": "meaning-h1-4-u4-v011",
                     "id": "h1-4-u4-v012",
                     "word": "rapid",
                     "part_of_speech": "形",
@@ -132,6 +138,7 @@
                     "sentence_chinese": "丹尼爾很幸運地獲得了一組免費的 LINE 貼圖。"
                 },
                 {
+                    "option_group": "meaning-h1-4-u4-v017",
                     "id": "h1-4-u4-v017",
                     "word": "harmful",
                     "part_of_speech": "形",
@@ -140,6 +147,7 @@
                     "sentence_chinese": "吃太多泡麵可能對健康有害。"
                 },
                 {
+                    "option_group": "meaning-h1-4-u4-v017",
                     "id": "h1-4-u4-v018",
                     "word": "harm",
                     "part_of_speech": "名",

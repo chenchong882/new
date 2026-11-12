@@ -76,6 +76,7 @@
           "sentence_chinese": "媽媽到達時，寶寶正在哭。"
         },
         {
+          "option_group": "meaning-m2-2-u3-v010",
           "id": "m2-2-u3-v010",
           "word": "go by",
           "part_of_speech": "片",
@@ -108,6 +109,7 @@
           "sentence_chinese": "這個遊戲很難，但我們繼續嘗試。"
         },
         {
+          "option_group": "meaning-m2-2-u3-v014",
           "id": "m2-2-u3-v014",
           "word": "over and over",
           "part_of_speech": "片",
@@ -140,6 +142,7 @@
           "sentence_chinese": "晚餐前完成工作是有可能的。"
         },
         {
+          "option_group": "meaning-m2-2-u3-v010",
           "id": "m2-2-u3-v018",
           "word": "pass by",
           "part_of_speech": "片",
@@ -196,6 +199,7 @@
           "sentence_chinese": "我們終於在五點四十五分到達。"
         },
         {
+          "option_group": "meaning-m2-2-u3-v025",
           "id": "m2-2-u3-v025",
           "word": "arrive",
           "part_of_speech": "動",
@@ -204,6 +208,7 @@
           "sentence_chinese": "爸爸到達時，我們正在吃晚餐。"
         },
         {
+          "option_group": "meaning-m2-2-u3-v026",
           "id": "m2-2-u3-v026",
           "word": "in time",
           "part_of_speech": "片",
@@ -268,6 +273,7 @@
           "sentence_chinese": "我走路回家時聽到一聲哭喊。"
         },
         {
+          "option_group": "meaning-m2-2-u3-v034",
           "id": "m2-2-u3-v034",
           "word": "cheer...on",
           "part_of_speech": "片",
@@ -352,6 +358,7 @@
           "sentence_chinese": "那個小男孩昨晚正在大聲求救。"
         },
         {
+          "option_group": "meaning-m2-2-u3-v010",
           "id": "m2-2-u3-p007",
           "phrase": "go/pass by = go past",
           "chinese": "經過",
@@ -359,6 +366,7 @@
           "sentence_chinese": "他們昨天放學後經過那間餐廳。"
         },
         {
+          "option_group": "meaning-m2-2-u3-v025",
           "id": "m2-2-u3-p008",
           "phrase": "get to + 地方",
           "chinese": "到達……",
@@ -373,6 +381,7 @@
           "sentence_chinese": "他跌倒後沒有放棄。"
         },
         {
+          "option_group": "meaning-m2-2-u3-p010",
           "id": "m2-2-u3-p010",
           "phrase": "jump/go away",
           "chinese": "跳走／離開",
@@ -380,6 +389,7 @@
           "sentence_chinese": "我們靠近時，青蛙跳走了。"
         },
         {
+          "option_group": "meaning-m2-2-u3-v014",
           "id": "m2-2-u3-p011",
           "phrase": "over and over again = over and over = again and again",
           "chinese": "一遍又一遍",
@@ -415,6 +425,7 @@
           "sentence_chinese": "我們當時正在聽老師說話。"
         },
         {
+          "option_group": "meaning-m2-2-u3-v014",
           "id": "m2-2-u3-p016",
           "phrase": "many times",
           "chinese": "很多次",
@@ -436,6 +447,7 @@
           "sentence_chinese": "兔子當時跳出了箱子。"
         },
         {
+          "option_group": "meaning-m2-2-u3-v025",
           "id": "m2-2-u3-p019",
           "phrase": "arrive at + 小地方 / in + 大地方",
           "chinese": "到達……",
@@ -443,6 +455,7 @@
           "sentence_chinese": "我們六點到達 Nancy 家。"
         },
         {
+          "option_group": "meaning-m2-2-u3-v026",
           "id": "m2-2-u3-p020",
           "phrase": "in time",
           "chinese": "及時",
@@ -457,6 +470,7 @@
           "sentence_chinese": "所有其他學生當時都在看書。"
         },
         {
+          "option_group": "meaning-m2-2-u3-p010",
           "id": "m2-2-u3-p022",
           "phrase": "get out of...",
           "chinese": "離開……",
@@ -471,6 +485,7 @@
           "sentence_chinese": "爸爸當時正在用手機說話。"
         },
         {
+          "option_group": "meaning-m2-2-u3-v034",
           "id": "m2-2-u3-p024",
           "phrase": "cheer + 人 + on",
           "chinese": "鼓勵……；為……加油",

@@ -12,6 +12,7 @@
           "sentence_chinese": "我們昨天很早到機場。"
         },
         {
+          "option_group": "meaning-m1-6-u6-v002",
           "id": "m1-6-u6-v002",
           "word": "travel",
           "part_of_speech": "動／名",
@@ -252,6 +253,7 @@
           "sentence_chinese": "工人們很多年前建造了那座橋。"
         },
         {
+          "option_group": "meaning-m1-6-u6-v002",
           "id": "m1-6-u6-v032",
           "word": "trip",
           "part_of_speech": "名",

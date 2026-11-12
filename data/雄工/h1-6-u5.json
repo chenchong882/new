@@ -76,6 +76,7 @@
                     "sentence_chinese": "Ben 因為 Jane 忘記了他們的約會而憤怒地發了一封長訊息給她。"
                 },
                 {
+                    "option_group": "meaning-h1-6-u5-v010",
                     "id": "h1-6-u5-v010",
                     "word": "protect",
                     "part_of_speech": "動",
@@ -84,6 +85,7 @@
                     "sentence_chinese": "我的哥哥戴著口罩來保護自己免受髒空氣侵害。"
                 },
                 {
+                    "option_group": "meaning-h1-6-u5-v010",
                     "id": "h1-6-u5-v010-1",
                     "word": "protection",
                     "part_of_speech": "名",

@@ -132,6 +132,7 @@
           "sentence_chinese": "今天早上我們準備提早離開。"
         },
         {
+          "option_group": "meaning-m2-2-u4-v017",
           "id": "m2-2-u4-v017",
           "word": "keep",
           "part_of_speech": "動",
@@ -148,6 +149,7 @@
           "sentence_chinese": "我妹妹放學後練習唱歌。"
         },
         {
+          "option_group": "meaning-m2-2-u4-v019",
           "id": "m2-2-u4-v019",
           "word": "Give me a break!",
           "part_of_speech": "片",
@@ -156,6 +158,7 @@
           "sentence_chinese": "饒了我吧！我才剛工作完。"
         },
         {
+          "option_group": "meaning-m2-2-u4-v020",
           "id": "m2-2-u4-v020",
           "word": "No kidding!",
           "part_of_speech": "片",
@@ -172,6 +175,7 @@
           "sentence_chinese": "保持海灘乾淨很重要。"
         },
         {
+          "option_group": "meaning-m2-2-u4-v022",
           "id": "m2-2-u4-v022",
           "word": "learn",
           "part_of_speech": "動",
@@ -244,6 +248,7 @@
           "sentence_chinese": "認識另一種文化很有趣。"
         },
         {
+          "option_group": "meaning-m2-2-u4-v031",
           "id": "m2-2-u4-v031",
           "word": "progress",
           "part_of_speech": "名",
@@ -260,6 +265,7 @@
           "sentence_chinese": "看著這些植物成長很有趣。"
         },
         {
+          "option_group": "meaning-m2-2-u4-v022",
           "id": "m2-2-u4-v033",
           "word": "understand",
           "part_of_speech": "動",
@@ -384,6 +390,7 @@
           "sentence_chinese": "她希望擔任女服務生。"
         },
         {
+          "option_group": "meaning-m2-2-u4-v017",
           "id": "m2-2-u4-p007",
           "phrase": "keep + V-ing",
           "chinese": "一直……；不停……",
@@ -391,6 +398,7 @@
           "sentence_chinese": "請持續和同學練習。"
         },
         {
+          "option_group": "meaning-m2-2-u4-v019",
           "id": "m2-2-u4-p008",
           "phrase": "Give me a break!",
           "chinese": "饒了我吧！",
@@ -398,6 +406,7 @@
           "sentence_chinese": "饒了我吧！我需要休息。"
         },
         {
+          "option_group": "meaning-m2-2-u4-v020",
           "id": "m2-2-u4-p009",
           "phrase": "No kidding!",
           "chinese": "不開玩笑的！",
@@ -405,6 +414,7 @@
           "sentence_chinese": "不開玩笑的！我的表哥會駕船。"
         },
         {
+          "option_group": "meaning-m2-2-u4-v022",
           "id": "m2-2-u4-p010",
           "phrase": "learn about...",
           "chinese": "學習；了解……",
@@ -412,6 +422,7 @@
           "sentence_chinese": "我們想認識海龜。"
         },
         {
+          "option_group": "meaning-m2-2-u4-v031",
           "id": "m2-2-u4-p011",
           "phrase": "make progress",
           "chinese": "有進步",

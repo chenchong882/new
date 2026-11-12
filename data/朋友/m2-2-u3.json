@@ -108,6 +108,7 @@
           "sentence_chinese": "我們離家時，天空很晴朗。"
         },
         {
+          "option_group": "meaning-m2-2-u3-v014",
           "id": "m2-2-u3-v014",
           "word": "pass",
           "part_of_speech": "動",
@@ -180,6 +181,7 @@
           "sentence_chinese": "我抬頭時，一隻鳥飛了過去。"
         },
         {
+          "option_group": "meaning-m2-2-u3-v023",
           "id": "m2-2-u3-v023",
           "word": "pick up",
           "part_of_speech": "片",
@@ -212,6 +214,7 @@
           "sentence_chinese": "我們大叫時，青蛙跳進水池。"
         },
         {
+          "option_group": "meaning-m2-2-u3-v027",
           "id": "m2-2-u3-v027",
           "word": "Good job!",
           "part_of_speech": "片",
@@ -220,6 +223,7 @@
           "sentence_chinese": "我們完成後，老師說：「做得好！」"
         },
         {
+          "option_group": "meaning-m2-2-u3-v028",
           "id": "m2-2-u3-v028",
           "word": "be proud of",
           "part_of_speech": "片",
@@ -228,6 +232,7 @@
           "sentence_chinese": "我獲勝時，媽媽以我為榮。"
         },
         {
+          "option_group": "meaning-m2-2-u3-v029",
           "id": "m2-2-u3-v029",
           "word": "back and forth",
           "part_of_speech": "片",
@@ -252,6 +257,7 @@
           "sentence_chinese": "我們在太陽下山前到達頂端。"
         },
         {
+          "option_group": "meaning-m2-2-u3-v014",
           "id": "m2-2-u3-v032",
           "word": "past",
           "part_of_speech": "介；名",
@@ -339,6 +345,7 @@
           "sentence_chinese": "就等著瞧吧；一切終會順利解決。"
         },
         {
+          "option_group": "meaning-m2-2-u3-v023",
           "id": "m2-2-u3-p004",
           "phrase": "pick up",
           "chinese": "撿起",
@@ -346,6 +353,7 @@
           "sentence_chinese": "爸爸彎下腰撿起地上的球。"
         },
         {
+          "option_group": "meaning-m2-2-u3-v027",
           "id": "m2-2-u3-p005",
           "phrase": "Good job!",
           "chinese": "做得好！",
@@ -353,6 +361,7 @@
           "sentence_chinese": "你把團隊帶領得很好。做得好！"
         },
         {
+          "option_group": "meaning-m2-2-u3-v028",
           "id": "m2-2-u3-p006",
           "phrase": "be proud of",
           "chinese": "以……為榮",
@@ -360,6 +369,7 @@
           "sentence_chinese": "我們以國家的豐富文化和歷史為榮。"
         },
         {
+          "option_group": "meaning-m2-2-u3-v029",
           "id": "m2-2-u3-p007",
           "phrase": "back and forth",
           "chinese": "來回地",

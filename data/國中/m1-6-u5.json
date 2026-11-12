@@ -76,6 +76,7 @@
           "sentence_chinese": "昨天操場發生了什麼事？"
         },
         {
+          "option_group": "meaning-m1-6-u5-v010",
           "id": "m1-6-u5-v010",
           "word": "dead",
           "part_of_speech": "形",
@@ -100,6 +101,7 @@
           "sentence_chinese": "五年前那座雨林很美。"
         },
         {
+          "option_group": "meaning-m1-6-u5-v010",
           "id": "m1-6-u5-v013",
           "word": "die",
           "part_of_speech": "動",
@@ -148,6 +150,7 @@
           "sentence_chinese": "我們昨晚在湖邊露營。"
         },
         {
+          "option_group": "meaning-m1-6-u5-v019",
           "id": "m1-6-u5-v019",
           "word": "hill",
           "part_of_speech": "名",
@@ -156,6 +159,7 @@
           "sentence_chinese": "以前山丘上有很多樹。"
         },
         {
+          "option_group": "meaning-m1-6-u5-v019",
           "id": "m1-6-u5-v020",
           "word": "mountain",
           "part_of_speech": "名",

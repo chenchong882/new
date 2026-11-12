@@ -100,6 +100,7 @@
           "sentence_chinese": "Ryan 急需藥物，否則他可能會虛弱得無法站立。"
         },
         {
+          "option_group": "meaning-h2-2-u4-v013",
           "id": "h2-2-u4-v013",
           "word": "reduce",
           "part_of_speech": "動",
@@ -179,6 +180,7 @@
           "sentence_chinese": "醫生說我的胃裡有太多氣體，因為食物沒有被充分分解。"
         },
         {
+          "option_group": "meaning-h2-2-u4-v013",
           "id": "h2-2-u4-p004",
           "phrase": "cut down on",
           "chinese": "減少",

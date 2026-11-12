@@ -17,6 +17,7 @@
           "chinese": "奇怪的",
           "sentence": "The bread smells weird because we kept it too long.",
           "sentence_chinese": "麵包聞起來很奇怪，因為我們放太久了。",
+          "option_group": "meaning-h2-1-u2-v002",
           "id": "h2-1-u2-v002"
         },
         {
@@ -73,6 +74,7 @@
           "chinese": "支持",
           "sentence": "I support the team because its members work hard.",
           "sentence_chinese": "我支持這支隊伍，因為隊員們很努力。",
+          "option_group": "meaning-h2-1-u2-v009",
           "id": "h2-1-u2-v009"
         },
         {
@@ -97,6 +99,7 @@
           "chinese": "奇怪的",
           "sentence": "The box looks odd because of its round lid.",
           "sentence_chinese": "這個盒子因為圓形的蓋子而看起來很奇怪。",
+          "option_group": "meaning-h2-1-u2-v002",
           "id": "h2-1-u2-v012"
         },
         {
@@ -129,6 +132,7 @@
           "chinese": "協助",
           "sentence": "Joe, who can assist the guests, speaks three languages.",
           "sentence_chinese": "Joe 能協助客人，他會說三種語言。",
+          "option_group": "meaning-h2-1-u2-v009",
           "id": "h2-1-u2-v016"
         },
         {

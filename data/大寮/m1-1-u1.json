@@ -20,10 +20,10 @@
         { "id": "m1-1-u1-v015", "word": "PE", "part_of_speech": "名", "chinese": "體育", "sentence": "Mr. Lin is our PE teacher.", "sentence_chinese": "林老師是我們的體育老師。" },
         { "id": "m1-1-u1-v016", "word": "really", "part_of_speech": "副", "chinese": "真地；的確", "sentence": "Your pet is really cute.", "sentence_chinese": "你的寵物真的很可愛。" },
         { "id": "m1-1-u1-v017", "word": "classroom", "part_of_speech": "名", "chinese": "教室", "sentence": "This is our classroom.", "sentence_chinese": "這是我們的教室。" },
-        { "id": "m1-1-u1-v018", "word": "same", "part_of_speech": "形", "chinese": "一樣的；相同的", "sentence": "We are in the same class.", "sentence_chinese": "我們在同一個班級。" },
+        { "option_group": "meaning-m1-1-u1-v018", "id": "m1-1-u1-v018", "word": "same", "part_of_speech": "形", "chinese": "一樣的；相同的", "sentence": "We are in the same class.", "sentence_chinese": "我們在同一個班級。" },
         { "id": "m1-1-u1-v019", "word": "class", "part_of_speech": "名", "chinese": "班級；課程", "sentence": "Is Ben in your class?", "sentence_chinese": "Ben 在你的班上嗎？" },
         { "id": "m1-1-u1-v020", "word": "again", "part_of_speech": "副", "chinese": "再一次", "sentence": "Please say your name again.", "sentence_chinese": "請再說一次你的名字。" },
-        { "id": "m1-1-u1-v021", "word": "Nice to meet you.", "part_of_speech": "片", "chinese": "很高興認識你。", "sentence": "Hi, I'm Amy. Nice to meet you.", "sentence_chinese": "嗨，我是 Amy。很高興認識你。" },
+        { "option_group": "meaning-m1-1-u1-v021", "id": "m1-1-u1-v021", "word": "Nice to meet you.", "part_of_speech": "片", "chinese": "很高興認識你。", "sentence": "Hi, I'm Amy. Nice to meet you.", "sentence_chinese": "嗨，我是 Amy。很高興認識你。" },
         { "id": "m1-1-u1-v022", "word": "too", "part_of_speech": "副", "chinese": "也；太", "sentence": "Nice to meet you, too.", "sentence_chinese": "我也很高興認識你。" },
         { "id": "m1-1-u1-v023", "word": "news", "part_of_speech": "名", "chinese": "消息；新聞", "sentence": "This is good news.", "sentence_chinese": "這是個好消息。" },
         { "id": "m1-1-u1-v024", "word": "problem", "part_of_speech": "名", "chinese": "問題", "sentence": "Is this a big problem?", "sentence_chinese": "這是個大問題嗎？" },
@@ -43,8 +43,8 @@
       ],
       "phrases": [
         { "id": "m1-1-u1-p001", "phrase": "at school", "chinese": "在學校", "sentence": "Jayden is doing very well at school.", "sentence_chinese": "Jayden 在學校表現得很好。" },
-        { "id": "m1-1-u1-p002", "phrase": "the same", "chinese": "相同的", "sentence": "Our children are in the same class.", "sentence_chinese": "我們的孩子在同一個班級。" },
-        { "id": "m1-1-u1-p003", "phrase": "Nice to meet you.", "chinese": "很高興認識你。", "sentence": "Hi, I'm Tina. Nice to meet you.", "sentence_chinese": "嗨，我是 Tina。很高興認識你。" },
+        { "option_group": "meaning-m1-1-u1-v018", "id": "m1-1-u1-p002", "phrase": "the same", "chinese": "相同的", "sentence": "Our children are in the same class.", "sentence_chinese": "我們的孩子在同一個班級。" },
+        { "option_group": "meaning-m1-1-u1-v021", "id": "m1-1-u1-p003", "phrase": "Nice to meet you.", "chinese": "很高興認識你。", "sentence": "Hi, I'm Tina. Nice to meet you.", "sentence_chinese": "嗨，我是 Tina。很高興認識你。" },
         { "id": "m1-1-u1-p004", "phrase": "good news", "chinese": "好消息", "sentence": "We have good news about the game.", "sentence_chinese": "我們有關於比賽的好消息。" },
         { "id": "m1-1-u1-p005", "phrase": "be from / come from", "chinese": "來自……", "sentence": "I am from Kaohsiung. I come from Kaohsiung.", "sentence_chinese": "我來自高雄。" }
       ],
