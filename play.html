@@ -72,6 +72,28 @@
             animation: popIn 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
         }
 
+        .study-card-inner {
+            transform-style: preserve-3d;
+            transition: transform 400ms cubic-bezier(0.4, 0, 0.2, 1);
+            will-change: transform;
+        }
+
+        .study-card-face {
+            -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+            /* Keep transformed/scrolled children within their own card face. */
+            overflow: hidden;
+            transform: translateZ(1px);
+        }
+
+        .study-card-back {
+            transform: rotateY(180deg) translateZ(1px);
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+            .study-card-inner { transition-duration: 0.01ms; }
+        }
+
         @keyframes gameShake {
 
             0%,
@@ -198,7 +220,7 @@
             } catch (e) { console.error('Audio unlock failed', e); }
         };
 
-        const speakText = (text) => {
+        const speakText = (text, rate = 0.9) => {
             if (!window.speechSynthesis) return;
             cancelAnswerFeedback();
             if (window.speechSynthesis.speaking || window.speechSynthesis.pending) window.speechSynthesis.cancel();
@@ -206,7 +228,7 @@
             let selectedVoice = availableVoices.find(v => (v.lang === 'en-US' || v.lang === 'en_US') && !v.name.includes("Network"));
             if (!selectedVoice) selectedVoice = availableVoices.find(v => v.lang.includes('en'));
             if (selectedVoice) utterance.voice = selectedVoice;
-            utterance.lang = 'en-US'; utterance.rate = 0.9; utterance.pitch = 1;
+            utterance.lang = 'en-US'; utterance.rate = rate; utterance.pitch = 1;
             window.speechSynthesis.speak(utterance);
         };
 
@@ -397,11 +419,27 @@
             const [mode, setMode] = useState('card');
             const [currentIndex, setCurrentIndex] = useState(0);
             const [isFlipped, setIsFlipped] = useState(false);
-            useEffect(() => { setCurrentIndex(0); setIsFlipped(false); }, [data]);
+            const cardChangeTimer = useRef(null);
+            useEffect(() => {
+                setCurrentIndex(0); setIsFlipped(false);
+                return () => { clearTimeout(cardChangeTimer.current); cardChangeTimer.current = null; };
+            }, [data]);
             if (!data || data.length === 0) return <div className="p-10 text-center text-slate-400 font-bold">目前沒有資料</div>;
             const currentWord = data[currentIndex];
-            const handleNext = () => { setIsFlipped(false); setTimeout(() => setCurrentIndex((prev) => (prev + 1) % data.length), 200); };
-            const handlePrev = () => { setIsFlipped(false); setTimeout(() => setCurrentIndex((prev) => (prev - 1 + data.length) % data.length), 200); };
+            const changeCard = (step) => {
+                if (cardChangeTimer.current !== null) return;
+                const advance = () => {
+                    setCurrentIndex(prev => (prev + step + data.length) % data.length);
+                    cardChangeTimer.current = null;
+                };
+                setIsFlipped(false);
+                // Finish returning to the front before replacing either face's text.
+                if (isFlipped && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                    cardChangeTimer.current = setTimeout(advance, 400);
+                } else advance();
+            };
+            const handleNext = () => changeCard(1);
+            const handlePrev = () => changeCard(-1);
             return (
                 <div className="flex flex-col h-full animate-in fade-in">
                     <div className="flex justify-center mb-6 gap-3">
@@ -410,22 +448,22 @@
                     </div>
                     {mode === 'card' ? (
                         <div className="flex-1 flex flex-col items-center justify-start min-h-[400px]">
-                            <div className="relative w-full max-w-sm h-80 cursor-pointer group perspective-1000 z-10" onClick={() => setIsFlipped(!isFlipped)} style={{ perspective: '1000px' }}>
-                                <div className="relative w-full h-full transition-transform duration-500" style={{ transformStyle: 'preserve-3d', transform: isFlipped ? 'rotateY(180deg)' : 'rotateY(0deg)' }}>
-                                    <div className="absolute inset-0 bg-white border-4 border-sky-400 rounded-3xl shadow-[0_8px_0_rgba(56,189,248,0.3)] flex flex-col items-center justify-center p-6" style={{ backfaceVisibility: 'hidden', WebkitBackfaceVisibility: 'hidden' }}>
+                            <div className="relative w-full max-w-sm h-80 cursor-pointer group perspective-1000 z-10" onClick={() => { if (cardChangeTimer.current === null) setIsFlipped(prev => !prev); }} style={{ perspective: '1000px' }}>
+                                <div className="study-card-inner relative w-full h-full" style={{ transform: isFlipped ? 'rotateY(180deg)' : 'rotateY(0deg)' }}>
+                                    <div className="study-card-face absolute inset-0 bg-white border-4 border-sky-400 rounded-3xl shadow-[0_8px_0_rgba(56,189,248,0.3)] flex flex-col items-center justify-center p-6" aria-hidden={isFlipped}>
                                         <div className="absolute top-4 right-6 bg-yellow-400 text-yellow-900 px-3 py-1 rounded-full text-sm font-black border-2 border-yellow-600 shadow-sm rotate-3">{currentIndex + 1} / {data.length}</div>
-                                        <h2 className="text-3xl sm:text-4xl font-black text-slate-800 mb-2 tracking-tight text-center break-words w-full drop-shadow-sm">{currentWord.display_word || currentWord.word}</h2>
+                                        <h2 className="text-3xl sm:text-4xl font-black text-slate-800 mb-2 tracking-tight text-center break-words w-full">{currentWord.display_word || currentWord.word}</h2>
                                         <span className="text-white bg-sky-500 font-bold px-4 py-1.5 rounded-xl text-lg shadow-md border-b-4 border-sky-700 transform -rotate-2">{currentWord.part_of_speech}</span>
                                         <div className="mt-10 text-slate-400 text-xs font-bold flex items-center gap-1 animate-pulse bg-slate-100 px-3 py-1 rounded-full"><RefreshCw className="w-3 h-3" /> CLICK TO FLIP</div>
-                                        <button onClick={(e) => { e.stopPropagation(); speakText(currentWord.word); }} className="absolute bottom-5 right-1/2 translate-x-1/2 p-3 bg-rose-400 text-white rounded-full border-b-4 border-rose-600 active:border-b-0 active:translate-y-1 transition-all shadow-md"><Volume2 className="w-6 h-6" /></button>
+                                        <button tabIndex={isFlipped ? -1 : 0} aria-label="朗讀單字" onClick={(e) => { e.stopPropagation(); speakText(currentWord.word); }} className="absolute bottom-5 right-1/2 translate-x-1/2 p-3 bg-rose-400 text-white rounded-full border-b-4 border-rose-600 active:border-b-0 active:translate-y-1 transition-all shadow-md"><Volume2 className="w-6 h-6" /></button>
                                     </div>
-                                    <div className="absolute inset-0 bg-violet-500 border-4 border-violet-700 text-white rounded-3xl shadow-[0_8px_0_rgba(109,40,217,0.3)] flex flex-col items-center justify-center p-8" style={{ backfaceVisibility: 'hidden', WebkitBackfaceVisibility: 'hidden', transform: 'rotateY(180deg)' }}>
-                                        <h3 className="text-2xl sm:text-3xl font-black mb-4 text-center leading-snug drop-shadow-md bg-white/20 px-4 py-2 rounded-xl backdrop-blur-sm border-2 border-white/30 transform -rotate-1">{currentWord.chinese}</h3>
+                                    <div className="study-card-face study-card-back absolute inset-0 bg-violet-500 border-4 border-violet-700 text-white rounded-3xl shadow-[0_8px_0_rgba(109,40,217,0.3)] flex flex-col items-center justify-center p-8" aria-hidden={!isFlipped}>
+                                        <h3 className="text-2xl sm:text-3xl font-black mb-4 text-center leading-snug bg-white/20 px-4 py-2 rounded-xl border-2 border-white/30 transform -rotate-1">{currentWord.chinese}</h3>
                                         <div className="bg-black/20 p-4 rounded-xl border-2 border-white/10 w-full relative overflow-y-auto max-h-[140px]">
                                             <p className="text-white text-center italic text-sm sm:text-base leading-relaxed font-bold">"{currentWord.sentence}"</p>
                                             <p className="text-violet-200 text-center text-xs mt-2 font-medium">{currentWord.sentence_chinese}</p>
                                         </div>
-                                        <button onClick={(e) => { e.stopPropagation(); speakText(currentWord.sentence); }} className="mt-4 p-3 bg-yellow-400 text-yellow-900 rounded-full border-b-4 border-yellow-600 active:border-b-0 active:translate-y-1 transition-all shadow-md"><Volume2 className="w-5 h-5" /></button>
+                                        <button tabIndex={isFlipped ? 0 : -1} aria-label="朗讀例句" onClick={(e) => { e.stopPropagation(); speakText(currentWord.sentence, 0.72); }} className="mt-4 p-3 bg-yellow-400 text-yellow-900 rounded-full border-b-4 border-yellow-600 active:border-b-0 active:translate-y-1 transition-all shadow-md"><Volume2 className="w-5 h-5" /></button>
                                     </div>
                                 </div>
                             </div>
