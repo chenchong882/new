@@ -133,7 +133,97 @@
           "sentence_chinese": "承受了幾個星期的壓力後，他崩潰了。",
           "sentence_source": "AI 補寫"
         }
-      ]
+      ],
+      "phrases": [
+        {
+          "id": "h1-2-8-p001",
+          "phrase": "struggle with (someone or something)",
+          "chinese": "掙扎；與……對抗",
+          "sentence": "I struggle with math, so I ask my teacher for help.",
+          "sentence_chinese": "我學數學有困難，所以我向老師求助。",
+          "sentence_source": "AI 補寫"
+        },
+        {
+          "id": "h1-2-8-p002",
+          "phrase": "get in(to) trouble",
+          "chinese": "惹麻煩；陷入困境",
+          "sentence": "You will get into trouble if you lie to your teacher.",
+          "sentence_chinese": "如果你對老師說謊，就會惹上麻煩。",
+          "sentence_source": "AI 補寫"
+        },
+        {
+          "id": "h1-2-8-p003",
+          "phrase": "stand up for (someone or something)",
+          "chinese": "為……挺身而出；支持",
+          "sentence": "We should stand up for people who need our help.",
+          "sentence_chinese": "我們應該為需要我們幫助的人挺身而出。",
+          "sentence_source": "AI 補寫"
+        },
+        {
+          "id": "h1-2-8-p004",
+          "phrase": "end up",
+          "chinese": "最終成為；結果……",
+          "sentence": "If we miss the bus, we will end up walking home.",
+          "sentence_chinese": "如果我們錯過公車，最後就得走路回家。",
+          "sentence_source": "AI 補寫"
+        },
+        {
+          "id": "h1-2-8-p005",
+          "phrase": "on the fence",
+          "chinese": "猶豫不決；觀望",
+          "sentence": "I am still on the fence about joining the club.",
+          "sentence_chinese": "對於要不要加入社團，我仍然猶豫不決。",
+          "sentence_source": "AI 補寫"
+        },
+        {
+          "id": "h1-2-8-p006",
+          "phrase": "clean out",
+          "chinese": "清空；徹底打掃乾淨",
+          "sentence": "Please clean out your desk before you leave school today.",
+          "sentence_chinese": "今天離開學校之前，請把你的書桌清空。",
+          "sentence_source": "AI 補寫"
+        }
+      ],
+      "scrambles": {
+        "phrases": [
+          {
+            "id": "h1-2-8-sp001",
+            "phrase_id": "h1-2-8-p001",
+            "sentence": "I struggle with math, so I ask my teacher for help.",
+            "sentence_chinese": "我學數學有困難，所以我向老師求助。"
+          },
+          {
+            "id": "h1-2-8-sp002",
+            "phrase_id": "h1-2-8-p002",
+            "sentence": "You will get into trouble if you lie to your teacher.",
+            "sentence_chinese": "如果你對老師說謊，就會惹上麻煩。"
+          },
+          {
+            "id": "h1-2-8-sp003",
+            "phrase_id": "h1-2-8-p003",
+            "sentence": "We should stand up for people who need our help.",
+            "sentence_chinese": "我們應該為需要我們幫助的人挺身而出。"
+          },
+          {
+            "id": "h1-2-8-sp004",
+            "phrase_id": "h1-2-8-p004",
+            "sentence": "If we miss the bus, we will end up walking home.",
+            "sentence_chinese": "如果我們錯過公車，最後就得走路回家。"
+          },
+          {
+            "id": "h1-2-8-sp005",
+            "phrase_id": "h1-2-8-p005",
+            "sentence": "I am still on the fence about joining the club.",
+            "sentence_chinese": "對於要不要加入社團，我仍然猶豫不決。"
+          },
+          {
+            "id": "h1-2-8-sp006",
+            "phrase_id": "h1-2-8-p006",
+            "sentence": "Please clean out your desk before you leave school today.",
+            "sentence_chinese": "今天離開學校之前，請把你的書桌清空。"
+          }
+        ]
+      }
     }
   }
 }
